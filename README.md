@@ -6,7 +6,7 @@
 * OmegaT 翻譯輔助工具
 * GitHub 協作
 
-### OmegaT 使用方式
+### OmegaT 用法
 參見 https://libreo-zht.blogspot.tw/2015/04/omegat-libreoffice.html
 
 ## 協作方式
