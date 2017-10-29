@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164706Z" creationid="zerng07" creationdate="20170817T180726Z">
+        <seg>雖然有不同的版號，LibreOffice和Apache OpenOffice在多數功能上極為相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;Knowing how to use styles and templates is the equivalent of being handed the key to that coasting car and shown the gas pedal – suddenly, you can take control of the vehicle, instead of getting by on clumsy makeshifts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165122Z" creationid="zerng07" creationdate="20170817T153543Z">
+        <seg>&lt;/f0&gt;瞭解如何使用樣式和範本，等於是有人交付給你這臺休旅車的鑰匙，還跟你解說怎樣控制油門——突然間，你掌握了這臺車，而不只是靠著亂打檔得過且過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;Liberation Sans is meant to substitute for Arial and Helvetica, Liberation Serif for Times New Roman, and Liberation Mono for Courier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140033Z" creationid="zerng07" creationdate="20170817T135640Z">
+        <seg>&lt;/f0&gt;Liberation Sans用來替代Arial和Helvetica，Libration Serif可替換Times New Roman，至於Liberation Mono則對應Courier。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f1&gt;However, &lt;f2&gt;most of the book&lt;/f2&gt; applies to Apache OpenOffice as much as LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165104Z" creationid="zerng07" creationdate="20170822T144736Z">
+        <seg>&lt;/f1&gt;不過，&lt;f2&gt;書中對LibreOffice的大多數範例也都能&lt;/f2&gt;套用到Apache OpenOffice上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
+        <seg>&lt;/f2&gt;替代方案則是自己花時間&lt;t3/&gt;從試誤中學習，而最終結果可能&lt;f4&gt;（說不定還試不出來）&lt;/f4&gt;依然比你從前人那裡&lt;f5&gt;汲取&lt;/f5&gt;經驗後的做法還糟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;bout this book</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T144507Z" creationid="zerng07" creationdate="20170822T144507Z">
+        <seg>關於本書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Both clones and originals help you work without using proprietary fonts.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140559Z" creationid="zerng07" creationdate="20170817T100905Z">
+        <seg>&lt;f0&gt;無論是翻造或原創都能協同你作業而不用專有字型。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;By understanding both,&lt;/f0&gt; you can &lt;f1&gt;take advantage of what publishers &lt;/f1&gt;have been learning for over half a millennium &lt;f2&gt;about what works and what doesn’t.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T032621Z" creationid="zerng07" creationdate="20170818T031240Z">
+        <seg>&lt;f0&gt;瞭解兩者之後，&lt;/f0&gt;你就能&lt;f1&gt;善用出版界&lt;/f1&gt;這五百年來一直在學習的技術&lt;f2&gt;，判斷怎樣可行，怎樣不可行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Describing itself as “&lt;/f0&gt;the first ever open-source &lt;f1&gt;type&lt;/f1&gt; foundry,” &lt;f2&gt;The League of Moveable Type offers a small but select library of original font designs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T133043Z" creationid="zerng07" creationdate="20170817T133625Z">
+        <seg>&lt;f0&gt;自許為「&lt;/f0&gt;前所未有的開源&lt;f1&gt;字體&lt;/f1&gt;鑄造廠」，&lt;f2&gt;The League of Moveable Type 提供小型但精挑細選過的原創字型設計字庫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Designing with LibreOffice &lt;/f0&gt;is about layout, so it does not mention every available feature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193831Z" creationid="zerng07" creationdate="20170817T173345Z">
+        <seg>《&lt;f0&gt;LibreOffice排版設計&lt;/f0&gt;》在講述文字版面編排之事，所以不會提及所有功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice’&lt;f2&gt;s collection of extensions and templates&lt;/f2&gt;, &lt;f3&gt;go to:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193326Z" creationid="zerng07" creationdate="20170817T171125Z">
+        <seg>&lt;f0&gt;至&lt;/f0&gt;於&lt;f1&gt;Apache &lt;/f1&gt;OpenOffice&lt;f2&gt;的擴充套件和範本&lt;/f2&gt;， &lt;f3&gt;則請前往：&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T144828Z" creationid="zerng07" creationdate="20170903T144756Z">
+        <seg>&lt;f0&gt;舉例而言，在英文書慣例中，如果要表達一本書的書名，一般&lt;/f0&gt;會改用義大利斜體字，這屬於「字元樣式」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However, one thing that this book&lt;/f0&gt; is not &lt;f1&gt;is &lt;/f1&gt;a relentless death march &lt;f2&gt;in regimented order&lt;/f2&gt; through every item in the menus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184855Z" creationid="zerng07" creationdate="20170817T163306Z">
+        <seg>&lt;f0&gt;然而，還有一事要提：本書&lt;/f0&gt;絕非接連不斷的死亡行軍，&lt;f2&gt;用嚴格管控的步伐&lt;/f2&gt;踏遍選單中的各個項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hundreds of extensions and templates are available for LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T171255Z" creationid="zerng07" creationdate="20170817T171255Z">
+        <seg>&lt;f0&gt;LibreOffice有上百個擴充套件和範本可供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;f you have manually formatted, you will be lucky to &lt;f1&gt;finish editing&lt;/f1&gt; before you leave.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173650Z" creationid="zerng07" creationdate="20170930T173650Z">
+        <seg>如果你當初是手動設定格式的，那麼能在離開前馬上&lt;f1&gt;完成編輯&lt;/f1&gt;大概很走運。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In other words, they occupy the same vertical and horizontal space, although they may otherwise be designed differently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135711Z" creationid="zerng07" creationdate="20170817T135446Z">
+        <seg>&lt;f0&gt;換句話說，這些自由字型和對應的專有字型有一樣的垂直空間和水平空間，雖然在字型本身的設計上卻不盡相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Its&lt;/f0&gt; Writer word processor &lt;f1&gt;in particular&lt;/f1&gt; is structured around the concept of styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T164336Z" creationid="zerng07" creationdate="20170817T154546Z">
+        <seg>&lt;f0&gt;它的&lt;/f0&gt;Writer文書處理器&lt;f1&gt;特別&lt;/f1&gt;根據樣式的概念架構而成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Learning m&lt;/f0&gt;ore about typography</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193513Z" creationid="zerng07" creationdate="20170822T193513Z">
+        <seg>&lt;f0&gt;深入&lt;/f0&gt;學習文字排印學</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Like free or open source software, free-licensed fonts are ones that you can&lt;/f0&gt; use, share, and edit as you please.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140330Z" creationid="zerng07" creationdate="20170817T094410Z">
+        <seg>&lt;f0&gt;類似於自由或開源軟體，自由授權的字型允許你&lt;/f0&gt;使用、分享、和編修，依你所欲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Much of t&lt;/f0&gt;his book is designed to explain not only what styles and templates are and how to use them, but also what you need to consider when selecting them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
+        <seg>本書主旨不單只是解說何謂樣式與範本、如何運用，更探討選用時需要多加考慮之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;OpenOffice?&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183045Z" creationid="zerng07" creationdate="20170817T175243Z">
+        <seg>&lt;f0&gt;還有OpenOffice？&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;eople have strange ideas about typography.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T174544Z" creationid="zerng07" creationdate="20170818T033201Z">
+        <seg>人們大多對文字排印學 (Typography) 一直有怪異的想法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Printed&lt;/f0&gt; versions of the same manuals &lt;f1&gt;are available for sale &lt;/f1&gt;at the Friends of Open Document store &lt;f2&gt;at:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184216Z" creationid="zerng07" creationdate="20170817T183857Z">
+        <seg>與本書內容相同的&lt;f0&gt;印刷&lt;/f0&gt;本&lt;f1&gt;也有在&lt;/f1&gt; Friends of Open Document 商店中銷售&lt;f2&gt;：&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;SIL I&lt;/f0&gt;nternational&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142712Z" creationid="zerng07" creationdate="20170817T142712Z">
+        <seg>&lt;f0&gt;SIL &lt;/f0&gt;International&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;SIL&lt;/f0&gt; International &lt;f1&gt;is a missionary organization that &lt;/f1&gt;specializes in fonts for minority languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184603Z" creationid="zerng07" creationdate="20170822T184603Z">
+        <seg>&lt;f0&gt;SIL&lt;/f0&gt; International &lt;f1&gt;是個任務型組織，&lt;/f1&gt;專注於&lt;t2/&gt;少數語言的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The advantage of styles is that y&lt;/f0&gt;ou design &lt;f1&gt;everything&lt;/f1&gt; once.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152331Z" creationid="zerng07" creationdate="20170903T145416Z">
+        <seg>&lt;f0&gt;樣式的優勢在於&lt;/f0&gt;你只需把&lt;f1&gt;這些項目&lt;/f1&gt;設定過一次就行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The official font for GNOME 3.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105723Z" creationid="zerng07" creationdate="20170817T105723Z">
+        <seg>&lt;f0&gt;GNOME 3 所採用的官方字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This book standardizes on&lt;/f0&gt; LibreOffice on Linux, &lt;f1&gt;because that is what I use every day.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190923Z" creationid="zerng07" creationdate="20170822T144604Z">
+        <seg>&lt;f0&gt;本書的操作範例以&lt;/f0&gt;Linux系統上的LibreOffice為準，&lt;f1&gt;因為這是我日用的作業環境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To&lt;/f0&gt; get extensions and templates for LibreOffice, &lt;f1&gt;go to these links:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
+        <seg>&lt;f0&gt;如&lt;/f0&gt;要取得LibreOffice的擴充套件和範本，&lt;f1&gt;請前往以下連結：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can get also get some of his fonts from The League of Movable Type (see below).&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140657Z" creationid="zerng07" creationdate="20170817T105548Z">
+        <seg>&lt;f0&gt;你可以從The League of Movable Type取得他的一些字型（見後述）。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You might call this book an effort to make a single map out of two separate bodies of information: LibreOffice’s features, and the standard practices of typography (designing with &lt;/f0&gt;text).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T134343Z" creationid="zerng07" creationdate="20170817T164244Z">
+        <seg>&lt;f0&gt;你或許可以稱這本書為一份對照，將兩類不同的資訊內容相接：LibreOffice的功能、以及文字排印學（文字設計&lt;/f0&gt;）的標準實務。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;And the next, and the next.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173830Z" creationid="zerng07" creationdate="20170824T173811Z">
+        <seg>&lt;f1&gt;然後一個再接一個。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;I&lt;/f1&gt;ts front page includes a list of the most recently uploaded fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
+        <seg>其首頁有一份最近上傳字型的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
+        <seg>&lt;f1&gt;剩下部分多是些和樣式不大相關，或是得依賴樣式的功能，但習得後能發揮最大效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Unless I say otherwise, what I say about LibreOffice should also be true for OpenOffice.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181217Z" creationid="zerng07" creationdate="20170817T180838Z">
+        <seg>&lt;f1&gt;除非本人另有提起，否則對LibreOffice所講述之事亦適用於OpenOffice。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;A &lt;/f2&gt;sizable minority&lt;f3&gt; &lt;/f3&gt;have been about OpenOffice.org or LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T151759Z" creationid="zerng07" creationdate="20170822T151759Z">
+        <seg>&lt;f2&gt;其中&lt;/f2&gt;有關OpenOffice.org或LibreOffice的分量佔了很大一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;A few seem to suffer from longstanding bugs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T162404Z" creationid="zerng07" creationdate="20170822T162208Z">
+        <seg>&lt;f2&gt;有一些困擾似乎來自長年存在的臭蟲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;I&lt;/f2&gt;nstead of adding all the characteristics every place where you format, you apply the style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152317Z" creationid="zerng07" creationdate="20170903T152317Z">
+        <seg>反之，就是獨自在各個需要設定格式的地方，手動套用各自的屬性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;If you see a difference that I fail to mention, please let me know, so that I can make corrections.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145402Z" creationid="zerng07" creationdate="20170822T145344Z">
+        <seg>&lt;f2&gt;如果你發現有我未提及之差異處，還請讓我知悉，以便讓我做出對應修正。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Rather, it is a&lt;/f2&gt; powerful piece&lt;f3&gt;s&lt;/f3&gt; of software in &lt;f4&gt;its&lt;/f4&gt; own right, &lt;f5&gt;sometimes falling short of Microsoft Office, but just as often exceeding it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165606Z" creationid="zerng07" creationdate="20170822T163203Z">
+        <seg>&lt;f2&gt;與之相反，LibreOffice是一套&lt;/f2&gt;強大的&lt;f3&gt;&lt;/f3&gt;軟體，它有&lt;f4&gt;它&lt;/f4&gt;自己的特長。&lt;f5&gt;它有時候用起來可能比Microsoft Office還差，但一樣有時候卻又比Microsoft Office更強。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;T&lt;/f2&gt;he &lt;f3&gt;SIL&lt;/f3&gt; Font License &lt;f4&gt;is the most widely used license for free fonts, and responsible for much of the spread of free fonts.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T183814Z" creationid="zerng07" creationdate="20170822T183814Z">
+        <seg>&lt;f3&gt;SIL&lt;/f3&gt;開放字型授權 (OFL)&lt;f4&gt; 是最廣為使用的自由字型授權，自由字型之所以能有今日的光景皆歸功於它。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Instead, it looks at important features from the point of view of planning&lt;/f3&gt;, &lt;f4&gt;as a variety of tactics that you can choose, and skips around as seems most useful for planning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T030222Z" creationid="zerng07" creationdate="20170818T030222Z">
+        <seg>&lt;f3&gt;相反的，本書將以規劃全局的鳥瞰觀點俯視重要的功能&lt;/f3&gt;，&lt;f4&gt;例如告訴你可以選擇的策略，並帶你一覽那些最可能貼合規劃的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;It is released&lt;/f3&gt; &lt;f4&gt;under a free&lt;/f4&gt; &lt;t5/&gt;license &lt;f6&gt;that&lt;/f6&gt; lets you use it legally on as many machines as you want, and share it with others.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180225Z" creationid="zerng07" creationdate="20170817T175614Z">
+        <seg>&lt;f3&gt;它採用&lt;/f3&gt;&lt;f4&gt;自由的&lt;/f4&gt;&lt;t5/&gt;授權條款發行，讓你能合法隨意在多臺機器上使用，甚至隨心和他人分享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Many, too, suppose that the &lt;/f3&gt;main purpose is to show how clever the designer is.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033950Z" creationid="zerng07" creationdate="20170818T033950Z">
+        <seg>&lt;f3&gt;而也有許多人認為它的&lt;/f3&gt;主要目標在於展現出設計師的慧心巧手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;And having spent the time to set up styles, you would prefer not to do the same work all over again for your next document, so templates also become an important part of your work flow.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165848Z" creationid="zerng07" creationdate="20170817T155039Z">
+        <seg>&lt;f4&gt;在耗上一段時間設置完樣式之後，你就會希望下一份文件不要再做重複的苦工，所以範本就變成你工作流程中的重要一環。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f7&gt;Since it is free software, you can even make your own changes in it if you have the skill.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180255Z" creationid="zerng07" creationdate="20170817T175628Z">
+        <seg>&lt;f7&gt;因為它是自由軟體，若你有相關能力和技術，甚至還可以自行修改軟體。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f1&gt;page&lt;/f1&gt; style might list everything about how a page is designed, from the width of its margins to its orientation and the background color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T145231Z" creationid="zerng07" creationdate="20170903T144903Z">
+        <seg>至於「&lt;f1&gt;頁面&lt;/f1&gt;樣式」，一般會列出這本書所有相關的頁面設計樣式，像是頁面邊距、紙張方向採直向或橫向、或是背景色彩等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Google employee, Levien also develops fonts in his spare time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142314Z" creationid="zerng07" creationdate="20170817T142300Z">
+        <seg>Levien除了是Google員工外，他亦用自己的閒暇時間開發字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About the &lt;f0&gt;w&lt;/f0&gt;riter</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145827Z" creationid="zerng07" creationdate="20170822T145827Z">
+        <seg>關於作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the same, LibreOffice &lt;f0&gt;is not&lt;/f0&gt; just &lt;f1&gt;a&lt;/f1&gt; wannabe Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T163239Z" creationid="zerng07" creationdate="20170822T162904Z">
+        <seg>還是一樣要說，LibreOffice&lt;f0&gt;可不是&lt;/f0&gt;&lt;f1&gt;「想成為&lt;/f1&gt;Microsoft Office」那樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although not all the fonts displayed on this page are complete, their consistently high quality makes them worth considering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142558Z" creationid="zerng07" creationdate="20170817T142558Z">
+        <seg>雖然這個網頁上所寫的所有字型並非都很完整，但一致的高品質仍值得考慮使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Barry Schwartz is one of the outstanding designers of free-licensed body text fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105322Z" creationid="zerng07" creationdate="20170817T104314Z">
+        <seg>Barry Schwartz 是自由授權內文字字型的出色設計師之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before &lt;f0&gt;becoming a journalist&lt;/f0&gt;, I was a technical writer and graphic designer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165421Z" creationid="zerng07" creationdate="20170822T160832Z">
+        <seg>&lt;f0&gt;做記者之前&lt;/f0&gt;，我是技術文章創作者也是平面設計師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
+        <seg>無論LibreOffice或Apache OpenOffice，通常&lt;f0&gt;都能在網際網路上免費取得。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both LibreOffice and Apache OpenOffice use Open Document Format&lt;f0&gt; (ODF),&lt;/f0&gt; a file format consisting of zipped &lt;f1&gt;XML&lt;/f1&gt; files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190754Z" creationid="zerng07" creationdate="20170817T184148Z">
+        <seg>無論LibreOffice和Apache OpenOffice都一樣使用開放文件格式 &lt;f0&gt;(Open Document Format, ODF)，&lt;/f0&gt;是一種由&lt;f1&gt;XML&lt;/f1&gt;檔案組成的壓縮後檔案格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But although &lt;f0&gt;this approach&lt;/f0&gt; gets the job done, it&lt;f1&gt;’s slow&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T174729Z" creationid="zerng07" creationdate="20170824T174729Z">
+        <seg>雖然&lt;f0&gt;這種做法&lt;/f0&gt;也能完成工作，不過好像&lt;f1&gt;有點慢&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But if you have used styles, you can change the font and its size in less than a minute, and print out a new copy of the essay with time to spare.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173959Z" creationid="zerng07" creationdate="20170930T173829Z">
+        <seg>但如果你有設定樣式，不到一分鐘就能改好字型和大小，甚至列印出小論文後時間還綽綽有餘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But what &lt;f2&gt;many of us&lt;/f2&gt; haven’t learned is to do these &lt;f3&gt;tasks&lt;/f3&gt; efficiently, taking advantage of all the tools that are&lt;f4&gt; &lt;/f4&gt;available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T062254Z" creationid="zerng07" creationdate="20170817T150849Z">
+        <seg>但是&lt;f2&gt;我們不少&lt;/f2&gt;都沒學過要怎樣有效完成這些&lt;f3&gt;作業&lt;/f3&gt;，去善用那些放在手邊的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, a style is a set of formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181349Z" creationid="zerng07" creationdate="20170824T180134Z">
+        <seg>與之相反的作法就是樣式，樣式是一組設定好的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, hundreds are available today, &lt;f1&gt;although t&lt;/f1&gt;heir numbers are still small compared to the thousands of proprietary fonts available from font foundries such as Adobe.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T131442Z" creationid="zerng07" creationdate="20170817T095637Z">
+        <seg>不過，今日已有數百個自由字型，&lt;f1&gt;雖然&lt;/f1&gt;和眾字型製造商依所提供的專有字型相比數量上還是少，例如 Adobe 一家就有上千個專有字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, installations directly from LibreOffice or OpenOffice downloads install to the /opt directory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182947Z" creationid="zerng07" creationdate="20170817T182947Z">
+        <seg>若是從LibreOffice或OpenOffice官方直接安裝來的版本，一般會安裝到 /opt 目錄中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Caution</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181234Z" creationid="zerng07" creationdate="20170817T181227Z">
+        <seg>注意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created for the &lt;f0&gt;KDE&lt;/f0&gt; desktop environment on Linux, Oxygen is a modern geometric font, made of simple shapes, but highly readable and pleasing to the eye.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T143127Z" creationid="zerng07" creationdate="20170817T142039Z">
+        <seg>專為Linux作業系統上之&lt;f0&gt;KDE&lt;/f0&gt;桌面環境所製作的字型，Oxygen是現代幾何風字型，形狀簡潔，但極為易讀，看起來很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designed for the Ubuntu Linux distribution, this is a modern humanist font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T141107Z" creationid="zerng07" creationdate="20170817T141107Z">
+        <seg>專為 Ubuntu 這套 GNU/Linux 散布版設計，是個現代人文主義風字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designing with LibreOffice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092453Z" creationid="zerng07" creationdate="20170817T092453Z">
+        <seg>LibreOffice 排版設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dover Books publishes about 30 books with CDs of fonts and dingbats from Victorian times and earlier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T125724Z" creationid="zerng07" creationdate="20170817T125230Z">
+        <seg>Dover Books發表了30本書，內含維多利亞時代與更早先的字體、符號字型之CD。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading LibreOffice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092504Z" creationid="zerng07" creationdate="20170817T092504Z">
+        <seg>下載 LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During that part of my working life, I had several chances to stress-test OpenOffice.org, including writing several manuals of over 700 pages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T063636Z" creationid="zerng07" creationdate="20170822T161048Z">
+        <seg>在我職涯的那個階段裡，有許多機會能對OpenOffice.org做壓力測試，比方說編寫好幾分長達700頁以上的手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Eventually, Oracle gave its rights in the code to The Apache Foundation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170652Z" creationid="zerng07" creationdate="20170817T180626Z">
+        <seg>後來，甲骨文將其對OpenOffice.org源始碼的權利讓與了阿帕契軟體基金會 (The Apache Software Foundation)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;f0&gt;F&lt;/f0&gt;ormatting with styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152720Z" creationid="zerng07" creationdate="20170903T152720Z">
+        <seg>範例：利用樣式作格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions and templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T145848Z" creationid="zerng07" creationdate="20170817T145848Z">
+        <seg>擴充套件與範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions can add much-needed features and resources, while templates can save you designing time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T171939Z" creationid="zerng07" creationdate="20170817T171340Z">
+        <seg>擴充套件可以增添廣受需要的功能和資源，而範本可以節省你的設計時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Far from calling attention to itself, the best typography &lt;f0&gt;hides, noticed by&lt;/f0&gt; casual readers only &lt;f1&gt;in a vague sense that&lt;/f1&gt; a document is comfortable to read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T141737Z" creationid="zerng07" creationdate="20170822T133849Z">
+        <seg>和吸引注意相反，最好的文字排印設計反而要&lt;f0&gt;藏在幕後，&lt;/f0&gt;一般讀者只會&lt;f1&gt;隱約感覺到&lt;/f1&gt;這文字讀起來很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Featuring over 630 font families, Google Fonts is intended &lt;t0/&gt;mainly for online use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T183838Z" creationid="zerng07" creationdate="20170822T183838Z">
+        <seg>擁有超過630個字族，Google Fonts 主要目標&lt;t0/&gt;是用於線上顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For Trish, Always</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T094101Z" creationid="zerng07" creationdate="20170817T093833Z">
+        <seg>致崔煦，永遠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free-licensed fonts are available under the &lt;f0&gt;SIL&lt;/f0&gt; Open Font License &lt;f1&gt;(OFL)&lt;/f1&gt; or the &lt;f2&gt;GNU&lt;/f2&gt; General Public License &lt;f3&gt;&lt;f4&gt;(GPL)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;with font exception.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T185140Z" creationid="zerng07" creationdate="20170817T101050Z">
+        <seg>自由授權的字型通常採用&lt;f0&gt;SIL&lt;/f0&gt;開放字型授權&lt;f1&gt; (Open Font License, OFL)&lt;/f1&gt;，或是附帶字型例外條款的&lt;f2&gt;GNU&lt;/f2&gt;通用公眾授權&lt;f3&gt;&lt;f4&gt;(General Public License, GPL)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free-licensed fonts barely existed before &lt;f0&gt;2000&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T095553Z" creationid="zerng07" creationdate="20170817T094541Z">
+        <seg>在&lt;f0&gt;2000&lt;/f0&gt;年以前自由授權的字型還相當罕見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Going in style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T071255Z" creationid="zerng07" creationdate="20170824T064944Z">
+        <seg>認識樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>His work includes three fonts based on the designs of Frederick Goudy, as well as Fanwood, an understated font which closely resembles Eric Gill’s Joanna.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140821Z" creationid="zerng07" creationdate="20170817T105206Z">
+        <seg>他的作品包括根據Frederick Goudy之設計而來的三種字型，與Fanwood——一套近似Eric Gill所作Joanna的素雅字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, &lt;f2&gt;it does&lt;/f2&gt; have &lt;f3&gt;many&lt;/f3&gt; of them, &lt;f4&gt;and far more than any other office suite.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143155Z" creationid="zerng07" creationdate="20170822T141509Z">
+        <seg>不過，&lt;f2&gt;它確實&lt;/f2&gt;也有提供&lt;f3&gt;不少&lt;/f3&gt;工具，&lt;f4&gt;遠比起其他任何辦公套裝軟體還多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, be aware that some extensions may not be kept updated and may &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;not always work with the latest release.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193137Z" creationid="zerng07" creationdate="20170817T171437Z">
+        <seg>不過，請注意有些擴充套件可能沒有持續更新，以致&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;無法在最新版本中運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the two are different enough that compatibility is slowly lessening as each version is released.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T172034Z" creationid="zerng07" creationdate="20170817T170959Z">
+        <seg>然而，隨著新版本一次又一次發行，兩者間的差異越來越大，相容性也會慢慢降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can also download fonts for print use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T133412Z" creationid="zerng07" creationdate="20170817T133412Z">
+        <seg>不過，你也能下載字型作為列印使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I have been writing about free and open source software for &lt;f0&gt;over &lt;/f0&gt;a decade.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T181717Z" creationid="zerng07" creationdate="20170822T150920Z">
+        <seg>一直以來我都在寫有關自由和開源軟體的文章，&lt;f0&gt;已經有&lt;/f0&gt;十年以上之久。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I long ago lost count, but by now I’ve written over 1&lt;f1&gt;7&lt;/f1&gt;00 articles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T181800Z" creationid="zerng07" creationdate="20170822T151410Z">
+        <seg>更早先之前的我已無法追溯計算，而有記錄在案的，至今已撰寫超過1&lt;f1&gt;7&lt;/f1&gt;00篇文章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide to change the formatting, you have to go through the entire document, changing the design &lt;f0&gt;one place at a time.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T174215Z" creationid="zerng07" creationdate="20170824T174215Z">
+        <seg>突然間你決定要修改剛剛的格式設定，於是你從頭到尾，將整份文件一次又一次、一處又一處地&lt;f0&gt;把設計改了過來。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide you want a different format, you edit the style once,&lt;f0&gt; &lt;/f0&gt;and within seconds, every place where you applied the style has the new format as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152532Z" creationid="zerng07" creationdate="20170903T152532Z">
+        <seg>如果你決定要改變某個格式，你也只需要修改樣式一次，彈指之間，每個套用該樣式的位置同時都採用了新的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you find yourself getting lost in the sheer number of free fonts, anything from The League can be counted on to be of high quality, and usually includes small capitals and old style figures.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T191909Z" creationid="zerng07" creationdate="20170822T183704Z">
+        <seg>若你驚覺在茫茫自由字型海中遺失方向，The League 將是你可依靠的明燈，高品質、而且通常都具備小型大寫字和舊式數字樣式。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need information on features or selections that are not mentioned in this book, see the LibreOffice documentation page:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183607Z" creationid="zerng07" creationdate="20170817T173556Z">
+        <seg>如果你所需要的相關功能資訊或選項在本書中沒有提及，請參見LibreOffice文件網頁：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use Linux, some of these fonts can be installed as packages from your distribution’s repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101809Z" creationid="zerng07" creationdate="20170817T101809Z">
+        <seg>如果你採用的是 GNU/Linux 作業系統，有些自由字型可以直接從你散布版所提供的軟體庫安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both &lt;f3&gt;LibreOffice and OpenOffice,&lt;/f3&gt; you can also save to most Microsoft Office formats, and open files from WordPerfect, Microsoft Works, and several other formats, although &lt;f4&gt;some formatting is sometimes lost in complex documents.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171147Z" creationid="zerng07" creationdate="20170822T144101Z">
+        <seg>不管是&lt;f3&gt;LibreOffice或OpenOffice，&lt;/f3&gt;你都能將檔案另存為Microsoft Office的常見格式，或是開啟那些由WordPerfect、Microsoft Works製作的檔案、還有其他的許多格式；不過要注意到&lt;f4&gt;在有些排版較複雜的文件中，格式設定偶爾會跑掉。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In effect, you are using the office application as though it were a typewriter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181241Z" creationid="zerng07" creationdate="20170824T174633Z">
+        <seg>事實上，這就好比說你把辦公應用軟體當作是一臺打字機來用那樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T155525Z" creationid="zerng07" creationdate="20170817T150101Z">
+        <seg>導論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It &lt;f0&gt;is &lt;/f0&gt;versatile, although its use in branding may mean that &lt;f1&gt;a document that uses it will be automatically be &lt;/f1&gt;identified with Ubuntu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184251Z" creationid="zerng07" creationdate="20170817T141414Z">
+        <seg>它的用途多樣；不過若將之用於品牌識別，可能會讓&lt;f1&gt;採用此字型的文件自動&lt;/f1&gt;被辨識為和Ubuntu有關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also developed the Graphite system for the automatic use of ligatures, small caps, old style figures, and other advanced typographical features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T185417Z" creationid="zerng07" creationdate="20170817T143820Z">
+        <seg>他們還開發出能自動運用連字、小型大寫字、舊式數字、還有其他進階文字排印功能的Graphite系統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It assumes that &lt;/f4&gt;readers are either already familiar with LibreOffice and other office suite&lt;f5&gt;s, or, at least, &lt;/f5&gt;can tour the menus by themselves.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163930Z" creationid="zerng07" creationdate="20170817T163930Z">
+        <seg>本書假定&lt;/f4&gt;讀者已經熟悉LibreOffice或其他辦公套裝軟體&lt;f5&gt;，又或者至少&lt;/f5&gt;能自行探索選單項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is as &lt;f0&gt;though&lt;/f0&gt; we have learned enough about cars to go downhill in them and coast &lt;f1&gt;across level ground&lt;/f1&gt;, but never learned about the ignition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T165423Z" creationid="zerng07" creationdate="20170817T151207Z">
+        <seg>這好比說&lt;f0&gt;雖然&lt;/f0&gt;我們剛學會怎麼讓汽車順著下坡，還有&lt;f1&gt;在平地四處晃&lt;/f1&gt;，但卻都還沒學過怎樣發動引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It met every challenge I threw &lt;t1/&gt;at it, making me aware that the software had more to it than most people &lt;f2&gt;assumed&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165510Z" creationid="zerng07" creationdate="20170822T161528Z">
+        <seg>它每每都能達成我丟給它的任務&lt;t1/&gt;，因而讓我察覺此軟體已超出大多數人&lt;f2&gt;的認知&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It remains by far the best office suite available today.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171359Z" creationid="zerng07" creationdate="20170822T163918Z">
+        <seg>但我認為它至今仍是最棒的辦公套裝軟體。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its focus is not abstract design, but practical concerns like providing margins wide enough so that readers can comfortably hold a book, &lt;f0&gt;or features that make a document easier to update.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T052626Z" creationid="zerng07" creationdate="20170818T052509Z">
+        <seg>重點不是抽象設計，而是實務作法，例如頁面邊距寬度夠讓讀者可以舒適地兩手拿書也不會遮到字，&lt;f0&gt;或是讓文件能方便更新的功能等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learning more about typography</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193449Z" creationid="zerng07" creationdate="20170822T193433Z">
+        <seg>深入學習文字排印學</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Liberation Fonts &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T134450Z" creationid="zerng07" creationdate="20170817T134450Z">
+        <seg>Liberation 字型 &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Liberation fonts are designed to be the metrical equivalent of standard proprietary fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135310Z" creationid="zerng07" creationdate="20170817T135310Z">
+        <seg>Liberation 字型的設計目的是讓字型的規格數據和常用的專有字型相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice &lt;f0&gt;does&lt;/f0&gt; not have all the tools needed for the highest level&lt;f1&gt;s&lt;/f1&gt; of typography.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143104Z" creationid="zerng07" creationdate="20170822T141331Z">
+        <seg>LibreOffice沒&lt;f0&gt;有&lt;/f0&gt;提供最高等級文字排印學所需的全部工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice &lt;f0&gt;is not&lt;/f0&gt; perfect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T161558Z" creationid="zerng07" creationdate="20170822T161558Z">
+        <seg>LibreOffice&lt;f0&gt;並不&lt;/f0&gt;完美。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice has versions for Linux, OS X, and Windows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092542Z" creationid="zerng07" creationdate="20170817T092542Z">
+        <seg>LibreOffice 提供 Linux、OS X、和 Windows 版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is &lt;f0&gt;descended from&lt;/f0&gt; OpenOffice.org, a free and open source software project run for years by Sun Microsystems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061635Z" creationid="zerng07" creationdate="20170817T180113Z">
+        <seg>LibreOffice&lt;f0&gt;本源自&lt;/f0&gt;OpenOffice.org，一項由昇陽電腦公司 (Sun Microsystems) 經營的自由暨開源軟體專案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is an office &lt;f0&gt;suite&lt;/f0&gt; that runs on &lt;f1&gt;32 and 64 bit versions of&lt;/f1&gt; Linux, &lt;f2&gt;OS X,&lt;/f2&gt; and Windows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181028Z" creationid="zerng07" creationdate="20170817T175347Z">
+        <seg>LibreOffice是個辦公&lt;f0&gt;套裝軟體&lt;/f0&gt; ，可以在&lt;f1&gt;32與64位元版本的&lt;/f1&gt;Linux、&lt;f2&gt;OS X、&lt;/f2&gt; 和Windows等作業系統上執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux distributions are especially apt to make these cosmetic changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182818Z" creationid="zerng07" creationdate="20170817T182523Z">
+        <seg>各GNU/Linux散布版尤其常作這類外觀改動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual formatting &lt;f0&gt;(also called direct formatting)&lt;/f0&gt; is how most people design a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180830Z" creationid="zerng07" creationdate="20170824T160945Z">
+        <seg>手動格式設定&lt;f0&gt;（也稱作直接格式設定）&lt;/f0&gt;是大多數人設計文件時所採用的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual formatting is popular because it requires little knowledge of the software.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181137Z" creationid="zerng07" creationdate="20170824T174358Z">
+        <seg>手動格式設定非常受到歡迎，因為它根本不需要有什麼軟體知識就能辦到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many are clones or near-variations of classic fonts, but some are original fonts that are outstanding by any definition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T103917Z" creationid="zerng07" creationdate="20170817T100443Z">
+        <seg>其中不少自由字型是經典字型的翻造版，或極近的變作版；此外也有些不管從各層面來看都相當出色的原創字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many extensions and all templates work on both LibreOffice and Apache OpenOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T170739Z" creationid="zerng07" creationdate="20170817T170739Z">
+        <seg>多數的擴充套件，和全部的範本都能在LibreOffice和Apache OpenOffice兩者間使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many imagine that it is about design that &lt;f1&gt;screams for&lt;/f1&gt; attention, like &lt;f2&gt;blinking text&lt;/f2&gt; on a web page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T142557Z" creationid="zerng07" creationdate="20170818T033433Z">
+        <seg>許多人以為這是種利用&lt;f1&gt;大聲嘶吼&lt;/f1&gt;喚取注意的設計，像是我們在網頁中見到的&lt;f2&gt;閃動文字&lt;/f2&gt;那樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many of the others can be downloaded online, reg&lt;f0&gt;a&lt;/f0&gt;rdless of operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184038Z" creationid="zerng07" creationdate="20170817T102037Z">
+        <seg>其他許多自由字型可線上下載，無論作業系統為何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most Linux distributions include a copy in their package repositories, sometimes with extensions and distinct icon sets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T171829Z" creationid="zerng07" creationdate="20170817T092715Z">
+        <seg>大多數 GNU/Linux 散布版的軟體庫都有提供 LibreOffice，有時安裝後還會附帶一些擴充套件或有不一樣的圖示組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most are also available at no cost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T094502Z" creationid="zerng07" creationdate="20170817T094502Z">
+        <seg>大多數也能免費取用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most must be exported &lt;f0&gt;via the free-licensed font editor Fontforge &lt;/f0&gt;to a usable format .</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T144224Z" creationid="zerng07" creationdate="20170817T142704Z">
+        <seg>大多數其字型都必須先&lt;f0&gt;透過自由授權的字型編輯器Fontforge&lt;/f0&gt;匯出成可用的字型格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of us can format a&lt;f0&gt; &lt;/f0&gt;document and&lt;f1&gt; &lt;/f1&gt;print it out, after a fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184800Z" creationid="zerng07" creationdate="20170817T150635Z">
+        <seg>大多數的我們都能勉勉強強設定出文件中的格式，然後印出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My LibreOffice articles include:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
+        <seg>我的LibreOffice文章（以英文撰寫）有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not only does Writer have more &lt;f2&gt;types of &lt;/f2&gt;styles than other word processors, but many advanced features, such as tables of contents and master documents, &lt;f3&gt;take more effort&lt;/f3&gt; to use without styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061811Z" creationid="zerng07" creationdate="20170817T154644Z">
+        <seg>Writer比起其他文書處理器不單只是有更多&lt;f2&gt;種類&lt;/f2&gt;的樣式，還有許多進階功能，例如目錄和主控文件這些，若不想用樣式來辦&lt;f3&gt;還得多費一番功夫&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not only that, but many features are awkward to use &lt;f2&gt;when you format manually&lt;/f2&gt; – assuming you can use them at all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181303Z" creationid="zerng07" creationdate="20170824T175333Z">
+        <seg>更糟的是，還有很多實用功能在&lt;f2&gt;你採用手動格式設定之後便自毀長城&lt;/f2&gt; – 假如你會用這些功能的話。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>O&lt;/f0&gt;riginally criticized for some of its letter forms, Cantarell has evol&lt;f1&gt;v&lt;/f1&gt;ed into a modern humanist font that can be used for body text and headings alike.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184121Z" creationid="zerng07" creationdate="20170817T110032Z">
+        <seg>&lt;/f0&gt;起先因部分字母寫法受到不少批評，而後Cantarell演進為人文主義風字型，可作內文字使用，亦可用於標題字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Office suites are as old as the personal computer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061707Z" creationid="zerng07" creationdate="20170817T150139Z">
+        <seg>辦公套裝軟體和個人電腦的歷史幾乎一樣久遠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oh, we have learned how to get things done in them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T150408Z" creationid="zerng07" creationdate="20170817T150351Z">
+        <seg>噢，我們大概是有學過要怎麼用辦公軟體做事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, as I like to joke: the wrong way and the right way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180636Z" creationid="zerng07" creationdate="20170824T065240Z">
+        <seg>或者，用我常說笑的方式來講就是：錯的方法、和對的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other advantages of styles?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174244Z" creationid="zerng07" creationdate="20170930T174244Z">
+        <seg>樣式還有其他優點嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other licenses exist, but not all have been evaluated by the Free Software Foundation or the Open Source Initiative, and should be used cautiously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101454Z" creationid="zerng07" creationdate="20170817T101317Z">
+        <seg>也有採用其他授權的，但多數這類字型的授權條款都未經自由軟體基金會 (Free Software Foundation, FSF) 或開源協會 (Open Source Initiative, OSI) 評估過，使用時應謹慎注意條款的詳細內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other parts of LibreOffice &lt;f0&gt;and OpenOffice&lt;/f0&gt; are less dependent on styles than Writer, but &lt;f1&gt;are &lt;/f1&gt;still more style-aware than their equivalents in Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T182930Z" creationid="zerng07" creationdate="20170817T162119Z">
+        <seg>LibreOffice&lt;f0&gt;和OpenOffice&lt;/f0&gt;的其餘組件就不如Writer這般依賴樣式，但&lt;f1&gt;&lt;/f1&gt;仍比Microsoft Office中的相應組件對樣式更有意識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other sections are distinctly not about styles, but needed for a full discussion about design.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163316Z" creationid="zerng07" creationdate="20170817T162828Z">
+        <seg>其餘內容雖和樣式完全無關，但必須提及才能完整討論所謂設計之事。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several &lt;f0&gt;other&lt;/f0&gt; organizations repackage both LibreOffice and Apache OpenOffice, sometimes under different names.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184504Z" creationid="zerng07" creationdate="20170817T182104Z">
+        <seg>有些&lt;f0&gt;其他&lt;/f0&gt;組織機構會重新打包LibreOffice或Apache OpenOffice軟體，有時還會取個不同名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, just because a template is posted does not mean that it is well-designed.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193100Z" creationid="zerng07" creationdate="20170817T171727Z">
+        <seg>此外，張貼出來的範本也不代表設計就十分優秀。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, the content usually applies to &lt;f3&gt;OS X&lt;/f3&gt; and Window&lt;f4&gt;s&lt;/f4&gt; versions as much as the Linux versions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145114Z" creationid="zerng07" creationdate="20170822T144948Z">
+        <seg>一樣，書裡這些針對Linux系統而寫的內容也多能套用到&lt;f3&gt;OS X&lt;/f3&gt;和Windows系統上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some are also in the public domain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101139Z" creationid="zerng07" creationdate="20170817T101139Z">
+        <seg>有些則是公眾領域的公版授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some parts are frankly obsolete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165844Z" creationid="zerng07" creationdate="20170822T162259Z">
+        <seg>而有些部分竟是單純棄用不管。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some parts of &lt;f1&gt;it&lt;/f1&gt; are difficult to use, and others are undocumented in any meaningful way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T162345Z" creationid="zerng07" creationdate="20170822T162017Z">
+        <seg>&lt;f1&gt;它&lt;/f1&gt;有些地方操作起來很難用，或是有些地方都遍尋不著有意義的相關說明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some sources for LibreOffice and Apache OpenOffice charge a small fee.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183523Z" creationid="zerng07" creationdate="20170817T181346Z">
+        <seg>有些LibreOffice和Apache OpenOffice的提供來源會酌收些許費用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some tasks, like going uphill, we don’t imagine are even possible because &lt;f2&gt;of our ignorance&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T062521Z" creationid="zerng07" creationdate="20170817T151917Z">
+        <seg>有些事情，例如上坡，這類我們從未設想過的問題卻因為&lt;f2&gt;我們的無知&lt;/f2&gt;反而更可行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some users complain about LibreOffice’s reliance on styles and templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164000Z" creationid="zerng07" creationdate="20170822T164000Z">
+        <seg>有些使用者會抱怨說LibreOffice太依賴樣式和範本了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still, in the end, &lt;f0&gt;&lt;f1&gt;Designing with&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; LibreOffice&lt;/f2&gt; is not &lt;f3&gt;about design in the abstract, but about &lt;/f3&gt;getting everyday tasks done.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
+        <seg>最後，一樣要強調《&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f0&gt;&lt;f1&gt;排版設計&lt;/f1&gt;&lt;/f0&gt;》一書不是&lt;f3&gt;要講抽象的設計概念，而是在探討&lt;/f3&gt;如何把日常作業做好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;/f4&gt;he more you know about typography, the more you can make &lt;f5&gt;it&lt;/f5&gt; do what you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T142336Z" creationid="zerng07" creationdate="20170822T141639Z">
+        <seg>&lt;/f4&gt;一旦你越瞭解文字排印學，你就越能利用&lt;f5&gt;它&lt;/f5&gt;來達成你的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;f0&gt;he&lt;/f0&gt; selection includes Baskervald (Baskerville), Gillius (Gill Sans), and Universalis (Univers), as well as original fonts such as Mint Spirit, which was originally designed as the unofficial font for the Linux Mint distribution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184053Z" creationid="zerng07" creationdate="20170822T183632Z">
+        <seg>這套字型包括 Baskervald (Baskerville)、Gillius (Gill Sans)、和 Universalis (Univers)；還有原創字型如 Mint Spirit，初心是專為 Linux Mint 散布版創作的非官方字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That is especially true of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T154256Z" creationid="zerng07" creationdate="20170817T154256Z">
+        <seg>這對於LibreOffice來說尤其真切。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Arkandis fonts are meant to provide free-licensed versions of fonts for Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T102911Z" creationid="zerng07" creationdate="20170817T102354Z">
+        <seg>Arkandis 字型的創立是為了讓 Linux 使用者有自由授權的字型可運用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The features that produce these characteristics should be noticeable only to &lt;f2&gt;eyes&lt;/f2&gt; trained to be alert for them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
+        <seg>而表現出這類性質的特徵，應該只有那些經過訓練的&lt;f2&gt;眼睛&lt;/f2&gt;能警覺分辨出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The license allows them to do so, but if you pay more than about ten dollars for shipping and handling, they are taking advantage of you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061622Z" creationid="zerng07" creationdate="20170817T181658Z">
+        <seg>軟體的授權條款允許他們這麼做，但如果你必須支付超過三千新臺幣的運費和處理費，那他們很有可能在利用你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next essay you write for that professor, you can concentrate on content and not have to worry about formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174227Z" creationid="zerng07" creationdate="20170930T174227Z">
+        <seg>你要寫下一篇小論文時，就能完全專注在內容上，而不用去管格式設定什麼的了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The official page for downloading &lt;f0&gt;Apache &lt;/f0&gt;OpenOffice is &lt;f1&gt;http://www.openoffice.org/download/index.html&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T172200Z" creationid="zerng07" creationdate="20170817T171219Z">
+        <seg>&lt;f0&gt;Apache &lt;/f0&gt;OpenOffice的官方下載網頁位於 &lt;f1&gt;http://www.openoffice.org/download/index.html&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The official page for downloading the latest release is:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092913Z" creationid="zerng07" creationdate="20170817T092913Z">
+        <seg>若要下載最新發行版的官方頁面請到這裡：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The real purpose of typography is to make the text more inviting and easy to read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T141714Z" creationid="zerng07" creationdate="20170818T034410Z">
+        <seg>文字排印學的主要目的在於讓文字更引人入勝、更易於閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The site detects your operating system and language and &lt;f0&gt;offers to&lt;/f0&gt; download the appropriate version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T093039Z" creationid="zerng07" creationdate="20170817T093039Z">
+        <seg>網站會偵測你使用的作業系統和語言，接著&lt;f0&gt;引導&lt;/f0&gt;下載適當的對應版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The truth is, nothing could be more wrong.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190118Z" creationid="zerng07" creationdate="20170818T034023Z">
+        <seg>事實是，這些觀念都錯到不能再錯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you can save the document as a template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174137Z" creationid="zerng07" creationdate="20170930T174137Z">
+        <seg>甚至你還可以將文件另存成範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you do the same thing all over again in the next place that you want &lt;f0&gt;the same &lt;/f0&gt;formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173751Z" creationid="zerng07" creationdate="20170824T173751Z">
+        <seg>接著又到了下個你想要採用&lt;f0&gt;相同&lt;/f0&gt;格式設定的地方，一樣你又把相同的設定一步一步再做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are marked as “permission free,” &lt;f0&gt;which presumably means public domain.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140238Z" creationid="zerng07" creationdate="20170817T125438Z">
+        <seg>這些檔案都標記為「免授權」，&lt;f0&gt;大致上代表其屬於公眾領域的公版授權。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They truly are the ignition key that most of us have been missing while coasting downhill.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165643Z" creationid="zerng07" creationdate="20170822T164410Z">
+        <seg>對絕大多數的我們而言，這些可是我們在學開車下坡時起就一直沒拿到的那把引擎啟動鑰匙呢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This practice is perfectly legal, but sometimes involves using different icons and making o&lt;f1&gt;t&lt;/f1&gt;her minor changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184519Z" creationid="zerng07" creationdate="20170817T182426Z">
+        <seg>這種作法完全合法，但偶爾只是選用不同圖示和作其他些微更動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Those who want to know more about typography and layout &lt;f4&gt;should look at Appendix C for more information.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143412Z" creationid="zerng07" creationdate="20170822T142322Z">
+        <seg>至於想要更深入瞭解文字排印學和版面設計的讀者，&lt;f4&gt;建議可參閱【附錄 C】進一步閱讀更多資料。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tip</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T173216Z" creationid="zerng07" creationdate="20170817T173216Z">
+        <seg>祕訣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To fully appreciate the difference between formatting manually and formatting with styles, imagine that you are preparing a twenty page essay for a university class.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174010Z" creationid="zerng07" creationdate="20170930T173021Z">
+        <seg>如果想要更體會手動格式設定和用樣式作格式設定之間的差異，請想像一下你現在正準備繳交一份長達20頁的大學課堂小論文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Today, OpenOffice.org no longer exists, but Apache OpenOffice &lt;f0&gt;does.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
+        <seg>時至今日，OpenOffice.org已不存在，存續的是Apache OpenOffice。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twenty minutes before you leave for class, you re-read the professor's instructions and &lt;f0&gt;realize&lt;/f0&gt; that she on&lt;f1&gt;l&lt;/f1&gt;y accepts &lt;f2&gt;essays &lt;/f2&gt;in 12 point Times New Roman.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173913Z" creationid="zerng07" creationdate="20170930T173350Z">
+        <seg>20分鐘過後，你打算離開教室，但是重新閱讀教授的規定之後，你&lt;f0&gt;驚覺&lt;/f0&gt;她只接受12點大小、並採用Time New Roman字體的&lt;f2&gt;小論文&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates are regular, so check regularly for new releases of updates of existing fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140916Z" creationid="zerng07" creationdate="20170817T133551Z">
+        <seg>常有更新，所以可以常去查看是否已有的字型發行新版了沒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the links at the top right of the page to download versions for other operating system&lt;f1&gt;s&lt;/f1&gt; and languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T192729Z" creationid="zerng07" creationdate="20170817T093407Z">
+        <seg>你可以利用網頁內右上區域提供的連結，下載其他作業系統&lt;f1&gt;&lt;/f1&gt;和語言的不同版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using any office suite to its full potential means &lt;f0&gt;knowing how to design your documents – and nine-tenths of design is knowing how to use styles and templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T153646Z" creationid="zerng07" creationdate="20170817T153133Z">
+        <seg>想發揮任何辦公套裝軟體的所有潛力，就代表&lt;f0&gt;必須瞭解如何設計你的文件——而九成的設計必須知曉如何運用樣式和範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We get things done, but with more effort and less efficiency that we should.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T153612Z" creationid="zerng07" creationdate="20170817T151350Z">
+        <seg>所以我們或許都能把事情做完，但卻用較沒效率的方式、花上更多功夫去做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is &lt;f0&gt;typography&lt;/f0&gt;?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T134242Z" creationid="zerng07" creationdate="20170818T032703Z">
+        <seg>何謂&lt;f0&gt;文字排印學&lt;/f0&gt;？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is LibreOffice?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T142325Z" creationid="zerng07" creationdate="20170817T175239Z">
+        <seg>LibreOffice是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is Open Document Format?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170213Z" creationid="zerng07" creationdate="20170817T183908Z">
+        <seg>開放文件格式是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When Oracle bought Sun &lt;f1&gt;in 2010&lt;/f1&gt;, LibreOffice started developing its own version of &lt;f2&gt;OpenOffice.org&lt;/f2&gt;, as the &lt;f3&gt;code’s &lt;/f3&gt;license &lt;f4&gt;permits&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180524Z" creationid="zerng07" creationdate="20170817T180510Z">
+        <seg>當甲骨文 (Oracle) &lt;f1&gt;於2010年&lt;/f1&gt;買下昇陽之後，LibreOffice 便開始開發維護自己的&lt;f2&gt;OpenOffice.org&lt;/f2&gt;版本，這也是&lt;f3&gt;源始碼的&lt;/f3&gt;授權條款&lt;f4&gt;所允許的作法&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you format manually, whenever you want to change the default formatting, you select part of the document – for example, a paragraph or a page – and then apply the formatting using the tool bars or one of the menus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180956Z" creationid="zerng07" creationdate="20170824T161200Z">
+        <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字 – 例如：一個段落，或是一頁 – 然後使用工具列或選單套用格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where important differences exist, I &lt;f0&gt;try to &lt;/f0&gt;mention them, but they &lt;f1&gt;are surprisingly few&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165205Z" creationid="zerng07" creationdate="20170822T145236Z">
+        <seg>若有重大差異之處，我會&lt;f0&gt;試著&lt;/f0&gt;點出，但數量卻&lt;f1&gt;遠比我預期的少&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where to get free-licensed fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T094557Z" creationid="zerng07" creationdate="20170817T094219Z">
+        <seg>何處可取得自由授權的字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With over 400 font families, &lt;f0&gt;t&lt;/f0&gt;he Open Font Library is second only to Google Fonts in its selection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
+        <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yet, after more than&lt;f0&gt; &lt;/f0&gt;thirty years, few of us have &lt;f1&gt;learned&lt;/f1&gt; how to use them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061658Z" creationid="zerng07" creationdate="20170817T150305Z">
+        <seg>然而，在這三十多年來，我們幾乎都沒&lt;f1&gt;學過&lt;/f1&gt;該怎樣運用辦公軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yet, without them, LibreOffice would not be nearly so powerful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164413Z" creationid="zerng07" creationdate="20170822T164107Z">
+        <seg>才不是那樣，一旦沒了這些，LibreOffice不會如此強大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;f0&gt;mostly&lt;/f0&gt; eliminate the need for tabs, especially at the start of a new paragraph, because you can create a style that automatically indents for you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
+        <seg>你可以&lt;f0&gt;幾乎&lt;/f0&gt;省去按 Tab 鍵縮排的需求，尤其是新段落的開頭空格，因為你可以設定出能自動為你縮排的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can tell if you are using an altered version because those installed from the repositories of distributions usually install to /usr/lib/libreoffice/.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170837Z" creationid="zerng07" creationdate="20170817T182740Z">
+        <seg>通常從散布版軟體庫裡取得的版本會安裝到 /usr/lib/libreoffice/ 中，所以你可以據此辨別是否使用的是修改過的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use this format to exchange documents between the two, or &lt;f0&gt;with &lt;/f0&gt;any other application that uses &lt;f1&gt;ODF,&lt;/f1&gt; such as Calligra Suite or Abi&lt;f2&gt;W&lt;/f2&gt;ord.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164842Z" creationid="zerng07" creationdate="20170822T143900Z">
+        <seg>你可以在兩個同樣應用程式之間使用此格式交換文件，或者是&lt;f0&gt;和&lt;/f0&gt;任何其他也採用&lt;f1&gt;ODF&lt;/f1&gt;的應用程式彼此互相交換文件，例如說Calligra Suite或Abi&lt;f2&gt;W&lt;/f2&gt;ord……等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You don’t have to remember the details of the formatting, either – just the name of the style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152649Z" creationid="zerng07" creationdate="20170903T152643Z">
+        <seg>你也不必記住格式設定的所有細節——唯一所需就是樣式名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have decided to use the DejaVu Serif typeface with a size of 10 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174036Z" creationid="zerng07" creationdate="20170930T173116Z">
+        <seg>你已經決定好採用10點大小的DejaVu Serif字體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have two ways to design a document in &lt;f0&gt;LibreOffice&lt;/f0&gt;: by manual formatting and by applying styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180732Z" creationid="zerng07" creationdate="20170824T065041Z">
+        <seg>在&lt;f0&gt;LibreOffice&lt;/f0&gt;下你有兩種設計文件的方法：手動格式設定、和樣式套用兩種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.libreoffice.org/download/libreoffice-fresh/</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092944Z" creationid="zerng07" creationdate="20170817T092944Z">
+        <seg>http://zh-tw.libreoffice.org/download/libreoffice-fresh/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“11 Tips for Moving to OpenOffice.org,” which was the cover article for the March 2004 &lt;f0&gt;Linux Journal &lt;/f0&gt;(&lt;f1&gt;http://www.linuxjournal.com/article/7158&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T063538Z" creationid="zerng07" creationdate="20170822T160129Z">
+        <seg>“11 Tips for Moving to OpenOffice.org” 這篇是2004年3月&lt;f0&gt;Linux Journal &lt;/f0&gt;的封面文章(&lt;f1&gt;http://www.linuxjournal.com/article/7158&lt;/f1&gt;)。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
