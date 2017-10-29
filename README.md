@@ -6,6 +6,9 @@
 * OmegaT 翻譯輔助工具
 * GitHub 協作
 
+### OmegaT 使用方式
+參見 https://github.com/l10n-tw/designing-with-libreoffice
+
 ## 協作方式
 1. 開 Issue 認養章節
 2. 利用 OmegaT 協作翻譯
