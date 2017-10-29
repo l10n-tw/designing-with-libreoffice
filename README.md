@@ -7,7 +7,7 @@
 * GitHub 協作
 
 ### OmegaT 使用方式
-參見 https://github.com/l10n-tw/designing-with-libreoffice
+參見 https://libreo-zht.blogspot.tw/2015/04/omegat-libreoffice.html
 
 ## 協作方式
 1. 開 Issue 認養章節
