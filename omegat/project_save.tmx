@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1370,6 +1370,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T153646Z" creationid="zerng07" creationdate="20170817T153133Z">
         <seg>想發揮任何辦公套裝軟體的所有潛力，就代表&lt;f0&gt;必須瞭解如何設計你的文件——而九成的設計必須知曉如何運用樣式和範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using styles, templates, and the tools associated with them make&lt;f0&gt;s&lt;/f0&gt; &lt;f1&gt;formatting&lt;/f1&gt; and writing a document easier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T023110Z" creationid="Jeff Huang" creationdate="20171111T023110Z">
+        <seg>與相關的樣式、範本與工具一起使用，讓撰寫文件與使文件&lt;f1&gt;維持一定格式&lt;/f1&gt;更容易。</seg>
       </tuv>
     </tu>
     <tu>
