@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T062237Z" creationid="Jeff Huang" creationdate="20171123T062237Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;bout this book</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T144507Z" creationid="zerng07" creationdate="20170822T144507Z">
@@ -1650,6 +1658,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T023110Z" creationid="Jeff Huang" creationdate="20171111T023110Z">
         <seg>與相關的樣式、範本與工具一起使用，讓撰寫文件與使文件&lt;f1&gt;維持一定格式&lt;/f1&gt;更容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Navigator's controls, you can move headings and the sections of body text below them anywhere in the document much more quickly than you can copy and paste.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T062216Z" creationid="Jeff Huang" creationdate="20171123T062216Z">
+        <seg>使用助手的功能，你可以比複製並貼上更快地移動標題與內文到文件的任何地方。</seg>
       </tuv>
     </tu>
     <tu>
