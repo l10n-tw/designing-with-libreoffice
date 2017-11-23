@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If the document uses headings, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Navigator &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F5 &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T061659Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
+        <seg>&lt;f0&gt;若文件使用了標題功能，選取&lt;/f0&gt;&lt;f1&gt;檢視 → 助手&lt;/f1&gt;&lt;f2&gt;或按下 &lt;/f2&gt;&lt;f3&gt;F5 &lt;/f3&gt;鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In other words, they occupy the same vertical and horizontal space, although they may otherwise be designed differently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135711Z" creationid="zerng07" creationdate="20170817T135446Z">
