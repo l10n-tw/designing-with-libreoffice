@@ -3,7 +3,7 @@
 簡單說，就是把 Designing with LibreOffice 這本書翻譯成中文版。
 
 ## 實現方式
-* OmegaT 翻譯輔助工具
+* OmegaT 4.1.3 翻譯輔助工具
 * GitHub 協作
 
 ### OmegaT 用法
