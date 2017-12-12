@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;O&lt;/f1&gt;f course they &lt;f2&gt;can &lt;/f2&gt;do as they like, &lt;f3&gt;but not using styles means they work harder than necessary.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061247Z" creationid="zerng07" creationdate="20171212T061247Z">
+        <seg>當然，他們&lt;f2&gt;可以&lt;/f2&gt;遵照他們喜歡的作法；&lt;f3&gt;但不用樣式的話，代表一樣的工作，他們必須得更加倍努力完成。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
@@ -512,8 +520,8 @@
       <tuv lang="EN">
         <seg>Amazingly, some users view styles as an intrusion on their rights to work &lt;f0&gt;as&lt;/f0&gt; they please.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060900Z" creationid="zerng07" creationdate="20171212T060900Z">
-        <seg>但有些令人嘆為觀止的是，部份使用者卻視樣式為保有過去作業習慣的入侵者。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061000Z" creationid="zerng07" creationdate="20171212T060900Z">
+        <seg>但令人驚嘆的是，部份使用者竟然將樣式看作是保有過去作業習慣的入侵者。</seg>
       </tuv>
     </tu>
     <tu>
