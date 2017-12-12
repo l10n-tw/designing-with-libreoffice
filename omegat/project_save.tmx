@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice templates&lt;/f0&gt; are designed to eliminate the problems that &lt;f1&gt;caused the corruption&lt;/f1&gt; in Word.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T085841Z" creationid="Franklin Weng" creationdate="20171212T085841Z">
+        <seg>&lt;f0&gt;LibreOffice 的範本&lt;/f0&gt;在設計時，就針對這些使用 Word 時容易讓程式跟使用者一起崩潰的問題做了改進。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Like free or open source software, free-licensed fonts are ones that you can&lt;/f0&gt; use, share, and edit as you please.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140330Z" creationid="zerng07" creationdate="20170817T094410Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145402Z" creationid="zerng07" creationdate="20170822T145344Z">
         <seg>&lt;f2&gt;如果你發現有我未提及之差異處，還請讓我知悉，以便讓我做出對應修正。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Mostly, they succeed, although sometimes at the cost of restricting what you can do with templates.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T090030Z" creationid="Franklin Weng" creationdate="20171212T090030Z">
+        <seg>&lt;f2&gt;大部份的功能都沒什麼問題，只有一些時候為了避免崩潰，會限制你製作範本的方式。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,6 +1954,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T072148Z" creationid="Jeff Huang" creationdate="20171123T072148Z">
         <seg>當行文順序對你來說很清楚時，那麼其對讀者來說也很符合邏輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When to use templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T090124Z" creationid="Franklin Weng" creationdate="20171212T090124Z">
+        <seg>When to use templates</seg>
       </tuv>
     </tu>
     <tu>
