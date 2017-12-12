@@ -6,6 +6,70 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
+        <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;otp&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
+        <seg>.&lt;f0&gt;otp&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;ots&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125305Z" creationid="Franklin Weng" creationdate="20171212T125305Z">
+        <seg>.&lt;f0&gt;ots&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;ott&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125302Z" creationid="Franklin Weng" creationdate="20171212T125302Z">
+        <seg>.&lt;f0&gt;ott&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;stc&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125305Z" creationid="Franklin Weng" creationdate="20171212T125305Z">
+        <seg>.&lt;f0&gt;stc&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;stf&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125308Z" creationid="Franklin Weng" creationdate="20171212T125308Z">
+        <seg>.&lt;f0&gt;stf&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;sti&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
+        <seg>.&lt;f0&gt;sti&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>.&lt;f0&gt;stw&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125304Z" creationid="Franklin Weng" creationdate="20171212T125304Z">
+        <seg>.&lt;f0&gt;stw&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100131Z" creationid="Franklin Weng" creationdate="20171212T100131Z">
@@ -200,8 +264,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Identifying&lt;/f0&gt; a template</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125026Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
-        <seg>&lt;f0&gt;辨識&lt;/f0&gt;範本</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125049Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
+        <seg>&lt;f0&gt;辨識&lt;/f0&gt;範本檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
         <seg>&lt;f0&gt;如&lt;/f0&gt;要取得LibreOffice的擴充套件和範本，&lt;f1&gt;請前往以下連結：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can always identify a LibreOffice template file&lt;/f0&gt;, because the second letter in its extension is always a “t.” &lt;f1&gt;This pattern is used&lt;/f1&gt; in &lt;f2&gt;both &lt;/f2&gt;Open Document Format and the &lt;f3&gt;obsolete &lt;/f3&gt;OpenOffice.org 1.0 format:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125243Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
+        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;&lt;f2&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125250Z" creationid="Franklin Weng" creationdate="20171212T125250Z">
+        <seg>應用程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are paragraphs the right length?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131421Z" creationid="Jeff Huang" creationdate="20171111T131421Z">
@@ -1006,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125304Z" creationid="Franklin Weng" creationdate="20171212T125304Z">
+        <seg>Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Caution</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181234Z" creationid="zerng07" creationdate="20170817T181227Z">
@@ -1122,6 +1210,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092504Z" creationid="zerng07" creationdate="20170817T092504Z">
         <seg>下載 LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
+        <seg>Draw</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
+        <seg>Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In both &lt;f3&gt;LibreOffice and OpenOffice,&lt;/f3&gt; you can also save to most Microsoft Office formats, and open files from WordPerfect, Microsoft Works, and several other formats, although &lt;f4&gt;some formatting is sometimes lost in complex documents.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171147Z" creationid="zerng07" creationdate="20170822T144101Z">
@@ -1870,6 +1974,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODF Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125254Z" creationid="Franklin Weng" creationdate="20171212T125254Z">
+        <seg>ODF 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OOo Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125258Z" creationid="Franklin Weng" creationdate="20171212T125258Z">
+        <seg>OOo 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Office suites are as old as the personal computer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061707Z" creationid="zerng07" creationdate="20170817T150139Z">
@@ -2194,6 +2314,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184053Z" creationid="zerng07" creationdate="20170822T183632Z">
         <seg>這套字型包括 Baskervald (Baskerville)、Gillius (Gill Sans)、和 Universalis (Univers)；還有原創字型如 Mint Spirit，初心是專為 Linux Mint 散布版創作的非官方字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Template extensio&lt;f0&gt;n&lt;/f0&gt;s for Open Document Format and the older OpenOffice.org format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125348Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
+        <seg>開放文件格式與舊的 OpenOffice.org 格式檔案的範本副檔名</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2786,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
         <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125259Z" creationid="Franklin Weng" creationdate="20171212T125259Z">
+        <seg>Writer</seg>
       </tuv>
     </tu>
     <tu>
