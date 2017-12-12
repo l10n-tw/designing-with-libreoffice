@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another major advantage is that if you use heading styles, you can use them as bookmarks in Navigator to &lt;f0&gt;help you&lt;/f0&gt; move around in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040121Z" creationid="zerng07" creationdate="20171212T040121Z">
+        <seg>另一個使用標題樣式的大優點是，你可以在「助手」功能中把標題視為書籤使用，&lt;f0&gt;幫助你&lt;/f0&gt;在文件中前後瀏覽移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are paragraphs the right length?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131421Z" creationid="Jeff Huang" creationdate="20171111T131421Z">
@@ -602,6 +610,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173959Z" creationid="zerng07" creationdate="20170930T173829Z">
         <seg>但如果你有設定樣式，不到一分鐘就能改好字型和大小，甚至列印出小論文後時間還綽綽有餘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But unlike normal bookmarks, you don’t have to define them in a separate task.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040200Z" creationid="zerng07" creationdate="20171212T040200Z">
+        <seg>但是和一般的書籤不同，你不需要另外動手去定義它們。</seg>
       </tuv>
     </tu>
     <tu>
