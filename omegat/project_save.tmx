@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;acros and extensions &lt;f1&gt;are sometimes&lt;/f1&gt; available for re-attaching styles to a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124353Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;有的時候&lt;/f1&gt;&lt;/f0&gt;有一些巨集或擴充套件可以將樣式重新附上文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;yth about styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T162404Z" creationid="zerng07" creationdate="20170822T162208Z">
         <seg>&lt;f2&gt;有一些困擾似乎來自長年存在的臭蟲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Currently, Template Changer extension is available, but it has not had a release for some time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124454Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
+        <seg>&lt;f2&gt;目前也可以找得到「範本變更器」(Template Changer) 擴充套件，不過已經有一段時間沒有新的釋出版本。</seg>
       </tuv>
     </tu>
     <tu>
