@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Usually,&lt;/f1&gt; the more you use styles, the more time you save.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060639Z" creationid="zerng07" creationdate="20171212T060639Z">
+        <seg>&lt;f1&gt;一般來說&lt;/f1&gt;，你越能善用樣式，你就能省下越多時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;A &lt;/f2&gt;sizable minority&lt;f3&gt; &lt;/f3&gt;have been about OpenOffice.org or LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T151759Z" creationid="zerng07" creationdate="20170822T151759Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142558Z" creationid="zerng07" creationdate="20170817T142558Z">
         <seg>雖然這個網頁上所寫的所有字型並非都很完整，但一致的高品質仍值得考慮使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Amazingly, some users view styles as an intrusion on their rights to work &lt;f0&gt;as&lt;/f0&gt; they please.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060900Z" creationid="zerng07" creationdate="20171212T060900Z">
+        <seg>但有些令人嘆為觀止的是，部份使用者卻視樣式為保有過去作業習慣的入侵者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1432,8 @@
       <tuv lang="EN">
         <seg>Once you have created your basic templates, the next time you start a document, you won’t have to think about formatting at all – &lt;f0&gt;instead, you can open the template and &lt;/f0&gt;start writing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060539Z" creationid="zerng07" creationdate="20171212T060539Z">
-        <seg>只要你製作好你的基礎範本，下次要做新文件時就不必再去想那些格式設定之類的瑣事——&lt;f0&gt;開啟範本&lt;/f0&gt;&lt;start writing.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060557Z" creationid="zerng07" creationdate="20171212T060539Z">
+        <seg>只要你製作好你的基礎範本，下次要做新文件時就不必再去想那些格式設定之類的瑣事——&lt;f0&gt;開啟範本&lt;/f0&gt;，接著開始輸入內容即可。</seg>
       </tuv>
     </tu>
     <tu>
