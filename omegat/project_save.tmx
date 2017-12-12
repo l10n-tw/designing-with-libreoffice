@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004952Z" creationid="franklin" creationdate="20171212T004952Z">
+        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位符 (placeholders) 等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hundreds of extensions and templates are available for LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T171255Z" creationid="zerng07" creationdate="20170817T171255Z">
@@ -400,8 +408,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The solution to both these problems is &lt;/f2&gt;templates – &lt;f3&gt;files to store formatting and structure to re-use or share.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004711Z" creationid="franklin" creationdate="20171212T004711Z">
-        <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本 – &lt;f3&gt;也就是已經預先儲存好格式與文件結構等等的檔案，方便分享與重複利用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T005009Z" creationid="franklin" creationdate="20171212T004711Z">
+        <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本 (templates) – &lt;f3&gt;也就是已經預先儲存好格式與文件結構等等的檔案，方便分享與重複利用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mostly, templates store formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004819Z" creationid="franklin" creationdate="20171212T004819Z">
+        <seg>大部份的範本儲存的都是格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My LibreOffice articles include:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
@@ -1730,6 +1746,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184519Z" creationid="zerng07" creationdate="20170817T182426Z">
         <seg>這種作法完全合法，但偶爾只是選用不同圖示和作其他些微更動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This structural use of templates tends to be under-emphasized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T005106Z" creationid="franklin" creationdate="20171212T005106Z">
+        <seg>一般而言，範本不太會用來規範文件的結構。</seg>
       </tuv>
     </tu>
     <tu>
