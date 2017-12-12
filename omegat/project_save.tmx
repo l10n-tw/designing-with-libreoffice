@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140033Z" creationid="zerng07" creationdate="20170817T135640Z">
         <seg>&lt;/f0&gt;Liberation Sans用來替代Arial和Helvetica，Libration Serif可替換Times New Roman，至於Liberation Mono則對應Courier。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;Nor do you want everyone working on a project to design their own &lt;f1&gt;documents&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004342Z" creationid="franklin" creationdate="20171212T004342Z">
+        <seg>&lt;/f0&gt;當然你也不會希望專案中的每個成員都用自己的方式來寫&lt;f1&gt;自己的文件&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
         <seg>本書主旨不單只是解說何謂樣式與範本、如何運用，更探討選用時需要多加考慮之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;No one has time to design a document every time they sit down to write.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004254Z" creationid="franklin" creationdate="20171212T004254Z">
+        <seg>&lt;f0&gt;沒有人會每次寫文件時，都從頭重新設計整份文件的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It’s inefficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004301Z" creationid="franklin" creationdate="20171212T004301Z">
+        <seg>這樣超沒效率的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learning more about typography</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193449Z" creationid="zerng07" creationdate="20170822T193433Z">
@@ -1370,6 +1394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163316Z" creationid="zerng07" creationdate="20170817T162828Z">
         <seg>其餘內容雖和樣式完全無關，但必須提及才能完整討論所謂設計之事。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recycling &lt;f0&gt;using&lt;/f0&gt; templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004231Z" creationid="franklin" creationdate="20171212T004231Z">
+        <seg>重複&lt;f0&gt;使用&lt;/f0&gt;範本</seg>
       </tuv>
     </tu>
     <tu>
