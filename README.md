@@ -28,7 +28,7 @@
 第一章、附錄A、附錄C
 
 處理中的有：
-第二章 (Chneg-Chia Tseng)、第十六章 (Jeff Huang)
+第二章 (Chneg-Chia Tseng)、第三章（Franklin Weng）、第十六章 (Jeff Huang)
 
 未處理的有：
 附錄B、第三張至第十五章
