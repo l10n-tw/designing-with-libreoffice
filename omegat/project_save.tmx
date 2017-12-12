@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Since the whole point of using templates is to make uniform design easier, the best practices are usually:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120536Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
+        <seg>&lt;f1&gt;因為使用範本的重點是讓一貫的設計變容易，通常最好的做法包括：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
@@ -998,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documents whose templates have been edited are not &lt;f0&gt;always &lt;/f0&gt;updated when closed and reopened.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120247Z" creationid="Franklin Weng" creationdate="20171212T120247Z">
+        <seg>即使範本已被編輯更新，使用該範本的文件在關閉並重啟時&lt;f0&gt;未必&lt;/f0&gt;會跟著更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does a word convey precisely what you mean, or could you use a better one?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133140Z" creationid="Jeff Huang" creationdate="20171111T133140Z">
@@ -1138,6 +1154,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T095553Z" creationid="zerng07" creationdate="20170817T094541Z">
         <seg>在&lt;f0&gt;2000&lt;/f0&gt;年以前自由授權的字型還相當罕見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally, you want to avoid &lt;f0&gt;detaching documents from their templates&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120413Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
+        <seg>一般來說，要盡量避免&lt;f0&gt;讓文件與其範本脫勾。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you open a document, you are warned &lt;f0&gt;that&lt;/f0&gt; its template has been edited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120350Z" creationid="Franklin Weng" creationdate="20171212T120350Z">
+        <seg>此時當你開啟文件時，你就會收到&lt;f0&gt;通知&lt;/f0&gt;說它的範本已被編輯過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where important differences exist, I &lt;f0&gt;try to &lt;/f0&gt;mention them, but they &lt;f1&gt;are surprisingly few&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165205Z" creationid="zerng07" creationdate="20170822T145236Z">
@@ -2546,6 +2578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164413Z" creationid="zerng07" creationdate="20170822T164107Z">
         <seg>才不是那樣，一旦沒了這些，LibreOffice不會如此強大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You &lt;f1&gt;may &lt;/f1&gt;have to restart LibreOffice &lt;f2&gt;for the change to take effect&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120317Z" creationid="Franklin Weng" creationdate="20171212T120317Z">
+        <seg>你&lt;f1&gt;可能&lt;/f1&gt;要重新啟動 LibreOffice &lt;f2&gt;來讓變更生效。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
