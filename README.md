@@ -3,7 +3,7 @@
 簡單說，就是把 Designing with LibreOffice 這本書翻譯成中文版。
 
 ## 實現方式
-* OmegaT 4.1.2 翻譯輔助工具 https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%204.1.2%20update%202/
+* OmegaT 4.1.2_beta2 翻譯輔助工具 https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%204.1.2%20update%202/
 * GitHub 協作
 
 ### OmegaT 用法
@@ -11,7 +11,7 @@
 
 ## 協作方式
 1. 開 Issue 認養章節
-2. 利用 OmegaT 4.1.2 協作翻譯該章節
+2. 利用 OmegaT 4.1.2_beta2 協作翻譯該章節
 3. 完成翻譯後開另一 Issue 提請他人校對
 4. 完成校對後關閉兩則 Issue
 
