@@ -1,81 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
-        <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;otp&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
-        <seg>.&lt;f0&gt;otp&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;ots&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125305Z" creationid="Franklin Weng" creationdate="20171212T125305Z">
-        <seg>.&lt;f0&gt;ots&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;ott&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125302Z" creationid="Franklin Weng" creationdate="20171212T125302Z">
-        <seg>.&lt;f0&gt;ott&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;stc&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125305Z" creationid="Franklin Weng" creationdate="20171212T125305Z">
-        <seg>.&lt;f0&gt;stc&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;stf&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125308Z" creationid="Franklin Weng" creationdate="20171212T125308Z">
-        <seg>.&lt;f0&gt;stf&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;sti&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
-        <seg>.&lt;f0&gt;sti&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>.&lt;f0&gt;stw&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125304Z" creationid="Franklin Weng" creationdate="20171212T125304Z">
-        <seg>.&lt;f0&gt;stw&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>3</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100131Z" creationid="Franklin Weng" creationdate="20171212T100131Z">
-        <seg>3</seg>
-      </tuv>
-    </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features.</seg>
@@ -98,14 +26,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140033Z" creationid="zerng07" creationdate="20170817T135640Z">
         <seg>&lt;/f0&gt;Liberation Sans用來替代Arial和Helvetica，Libration Serif可替換Times New Roman，至於Liberation Mono則對應Courier。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f0&gt;Nor do you want everyone working on a project to design their own &lt;f1&gt;documents&lt;/f1&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100242Z" creationid="Franklin Weng" creationdate="20171212T100242Z">
-        <seg>&lt;/f0&gt;當然你也不會希望專案中的每個成員都用自己的方式來寫&lt;f1&gt;自己的文件&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,14 +54,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
-        <seg>&lt;f0&gt;比較可靠的解決方案&lt;/f0&gt;&lt;f1&gt;通常是&lt;/f1&gt;把檔案內容複製後，貼到一個由原始範本建立的空白檔案中。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;bout this book</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T144507Z" creationid="zerng07" creationdate="20170822T144507Z">
@@ -154,22 +66,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140559Z" creationid="zerng07" creationdate="20170817T100905Z">
         <seg>&lt;f0&gt;無論是翻造或原創都能協同你作業而不用專有字型。&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;But always&lt;/f0&gt;, the initial hours lost to template design have &lt;f1&gt;still &lt;/f1&gt;been regained countless times over the years.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101036Z" creationid="Franklin Weng" creationdate="20171212T101036Z">
-        <seg>&lt;f0&gt;但總體來說&lt;/f0&gt;，一開始設計範本所花的時間，總是可以在接下來的幾年中省下無數的時間。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;By contrast&lt;/f0&gt;, if you &lt;f1&gt;choose &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Keep Old Styles,&lt;/f3&gt;&lt;/f2&gt; it is unlinked from the template, and you are not prompted for further updates &lt;f4&gt;when&lt;/f4&gt; the template changes again.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120053Z" creationid="Franklin Weng" creationdate="20171212T120053Z">
-        <seg>&lt;f0&gt;相反地，&lt;/f0&gt;如果你&lt;f1&gt;選擇&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;保留舊樣式，&lt;/f3&gt;&lt;/f2&gt;則文件會與範本脫勾。&lt;f4&gt;之後&lt;/f4&gt;範本有做任何變更，開啟這份文件時都不會再收到通知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,14 +102,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f0&gt;Fi&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;les &gt; Properties &gt; General&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; lists the template upon which the document was originally based.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115904Z" creationid="Franklin Weng" creationdate="20171212T115904Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案」&gt;「屬性」&gt;「一般」&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;中會列出文件最初所使用的範本。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T144828Z" creationid="zerng07" creationdate="20170903T144756Z">
@@ -222,26 +110,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f0&gt;However, &lt;/f0&gt;you can find examples of it in some releases of LibreOffice or OpenOffice in the Impress templates entitled “Introducing a New Strategy” and “Recommendation of a Strategy.”</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100354Z" creationid="Franklin Weng" creationdate="20171212T100354Z">
-        <seg>&lt;f0&gt;不過，&lt;/f0&gt;你可以在某些版本的 LibreOffice 或 OpenOffice 中，找到一些 Impress 的範本，標題是「介紹新的策略」或是「策略建議」之類的。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f0&gt;However, one thing that this book&lt;/f0&gt; is not &lt;f1&gt;is &lt;/f1&gt;a relentless death march &lt;f2&gt;in regimented order&lt;/f2&gt; through every item in the menus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184855Z" creationid="zerng07" creationdate="20170817T163306Z">
         <seg>&lt;f0&gt;然而，還有一事要提：本書&lt;/f0&gt;絕非接連不斷的死亡行軍，&lt;f2&gt;用嚴格管控的步伐&lt;/f2&gt;踏遍選單中的各個項目。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100339Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
-        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的指引符 (placeholders) 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,14 +130,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173650Z" creationid="zerng07" creationdate="20170930T173650Z">
         <seg>如果你當初是手動設定格式的，那麼能在離開前馬上&lt;f1&gt;完成編輯&lt;/f1&gt;大概很走運。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Identifying&lt;/f0&gt; a template</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125049Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
-        <seg>&lt;f0&gt;辨識&lt;/f0&gt;範本檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,42 +166,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f0&gt;LibreOffice does not display template directories directly.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125449Z" creationid="Franklin Weng" creationdate="20171212T125449Z">
-        <seg>&lt;f0&gt;LibreOffice 不會直接顯示範本目錄。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;LibreOffice templates&lt;/f0&gt; are designed to eliminate the problems that &lt;f1&gt;caused the corruption&lt;/f1&gt; in Word.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100709Z" creationid="Franklin Weng" creationdate="20171212T100709Z">
-        <seg>&lt;f0&gt;LibreOffice 的範本&lt;/f0&gt;在設計時，就針對這些使用 Word 時&lt;f1&gt;容易讓程式跟使用者一起崩潰&lt;/f1&gt;的問題做了改進。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f0&gt;Like free or open source software, free-licensed fonts are ones that you can&lt;/f0&gt; use, share, and edit as you please.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140330Z" creationid="zerng07" creationdate="20170817T094410Z">
         <seg>&lt;f0&gt;類似於自由或開源軟體，自由授權的字型允許你&lt;/f0&gt;使用、分享、和編修，依你所欲。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Linking&lt;/f0&gt; templates &lt;f1&gt;with documents&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114753Z" creationid="Franklin Weng" creationdate="20171212T114753Z">
-        <seg>將範本與&lt;f1&gt;文件&lt;/f1&gt;&lt;f0&gt;連結&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;M&lt;/f0&gt;acros and extensions &lt;f1&gt;are sometimes&lt;/f1&gt; available for re-attaching styles to a document.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124353Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;有的時候&lt;/f1&gt;&lt;/f0&gt;有一些巨集或擴充套件可以將樣式重新附上文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,22 +186,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
         <seg>本書主旨不單只是解說何謂樣式與範本、如何運用，更探討選用時需要多加考慮之處。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;No one has time to design a document every time they sit down to write.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100214Z" creationid="Franklin Weng" creationdate="20171212T100214Z">
-        <seg>&lt;f0&gt;沒有人會每次寫文件時，都從頭重新設計整份文件的</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;Only one template can be applied at one time to a document.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114907Z" creationid="Franklin Weng" creationdate="20171212T114907Z">
-        <seg>&lt;f0&gt;一份範本一次只能套用到一份文件上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,14 +210,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184216Z" creationid="zerng07" creationdate="20170817T183857Z">
         <seg>與本書內容相同的&lt;f0&gt;印刷&lt;/f0&gt;本&lt;f1&gt;也有在&lt;/f1&gt; Friends of Open Document 商店中銷售&lt;f2&gt;：&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;S&lt;/f0&gt;ince then, I have used &lt;f1&gt;that&lt;/f1&gt; all-purpose template for hundreds of documents.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100944Z" creationid="Franklin Weng" creationdate="20171212T100944Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;那之後，我用&lt;f1&gt;那一份&lt;/f1&gt;通用範本建立了數以百計的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,14 +242,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184603Z" creationid="zerng07" creationdate="20170822T184603Z">
         <seg>&lt;f0&gt;SIL&lt;/f0&gt; International &lt;f1&gt;是個任務型組織，&lt;/f1&gt;專注於&lt;t2/&gt;少數語言的字型。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;The Template Manager opens from several places in the menu.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130038Z" creationid="Franklin Weng" creationdate="20171212T130038Z">
-        <seg>&lt;f0&gt;「範本」視窗可以從選單中幾個不同的地方開啟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,14 +282,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
         <seg>&lt;f0&gt;如&lt;/f0&gt;要取得LibreOffice的擴充套件和範本，&lt;f1&gt;請前往以下連結：&lt;/f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;You can always identify a LibreOffice template file&lt;/f0&gt;, because the second letter in its extension is always a “t.” &lt;f1&gt;This pattern is used&lt;/f1&gt; in &lt;f2&gt;both &lt;/f2&gt;Open Document Format and the &lt;f3&gt;obsolete &lt;/f3&gt;OpenOffice.org 1.0 format:</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125358Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
-        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。&lt;/f0&gt;如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;&lt;f2&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,34 +334,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f1&gt;S&lt;/f1&gt;tyles &lt;f2&gt;shared by&lt;/f2&gt; the template and the document are updated, &lt;f3&gt;but&lt;/f3&gt; &lt;f4&gt;styles that are only in the document a&lt;/f4&gt;re not.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115515Z" creationid="Franklin Weng" creationdate="20171212T115515Z">
-        <seg>範本與文件&lt;f2&gt;共用&lt;/f2&gt;的&lt;f1&gt;樣式&lt;/f1&gt;會一起更新，&lt;f3&gt;但&lt;/f3&gt;&lt;f4&gt;只存在於文件中的樣式則不會&lt;/f4&gt;。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f1&gt;Since the whole point of using templates is to make uniform design easier, the best practices are usually:&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120536Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
-        <seg>&lt;f1&gt;因為使用範本的重點是讓一貫的設計變容易，通常最好的做法包括：&lt;/f1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
         <seg>&lt;f1&gt;剩下部分多是些和樣式不大相關，或是得依賴樣式的功能，但習得後能發揮最大效率。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f1&gt;This practice may disturb your work, but it means that &lt;/f1&gt;you won’t have to remember what changed, or wonder if you made an accidental change &lt;f2&gt;when you receive notice of the change the next time that you open the file.&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T121320Z" creationid="Franklin Weng" creationdate="20171212T120744Z">
-        <seg>&lt;f1&gt;你可能會覺得這些做法對你工作上有些困擾，但這樣做表示&lt;/f1&gt;你不需要記得做過哪些變更，或是&lt;f2&gt;在下次開啟檔案時，若收到變更的通知不至於搞不清楚是不是不小心動到什麼。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,22 +374,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f2&gt;Currently, Template Changer extension is available, but it has not had a release for some time.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124454Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
-        <seg>&lt;f2&gt;目前也可以找得到「範本變更器」(Template Changer) 擴充套件，不過已經有一段時間沒有新的釋出版本。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f2&gt;Each time I used it, &lt;/f2&gt;I could start to write immediately and &lt;f3&gt;without worrying &lt;/f3&gt;about how it was formatted.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100952Z" creationid="Franklin Weng" creationdate="20171212T100952Z">
-        <seg>&lt;f2&gt;每次我使用那一份範本時，&lt;/f2&gt;我可以馬上就開始寫作，&lt;f3&gt;完全不需要擔心&lt;/f3&gt;格式排版的問題。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;nstead of adding all the characteristics every place where you format, you apply the style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061633Z" creationid="zerng07" creationdate="20170903T152317Z">
@@ -638,14 +390,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f2&gt;Mostly, they succeed, although sometimes at the cost of restricting what you can do with templates.&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100717Z" creationid="Franklin Weng" creationdate="20171212T100717Z">
-        <seg>&lt;f2&gt;大部份的功能都沒什麼問題，只有一些時候為了避免崩潰，會限制你製作範本的方式。&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f2&gt;Rather, it is a&lt;/f2&gt; powerful piece&lt;f3&gt;s&lt;/f3&gt; of software in &lt;f4&gt;its&lt;/f4&gt; own right, &lt;f5&gt;sometimes falling short of Microsoft Office, but just as often exceeding it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165606Z" creationid="zerng07" creationdate="20170822T163203Z">
@@ -658,14 +402,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T183814Z" creationid="zerng07" creationdate="20170822T183814Z">
         <seg>&lt;f3&gt;SIL&lt;/f3&gt;開放字型授權 (OFL)&lt;f4&gt; 是最廣為使用的自由字型授權，自由字型之所以能有今日的光景皆歸功於它。&lt;/f4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f2&gt;The solution to both these problems is &lt;/f2&gt;templates – &lt;f3&gt;files to store formatting and structure to re-use or share.&lt;/f3&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100258Z" creationid="Franklin Weng" creationdate="20171212T100258Z">
-        <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本 (templates) – &lt;f3&gt;也就是已經預先儲存好格式與文件結構等等的檔案，方便分享與重複利用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,34 +446,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;f5&gt;However, the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Properties&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; window continues to list the template, even though it is irrelevant.&lt;/f8&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120143Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
-        <seg>&lt;f5&gt;不過&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「屬性」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;視窗中仍然會列出最初使用的範本，即使文件已經與範本脫勾也一樣。&lt;/f8&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f6&gt;However, remember to save the document after updating.&lt;/f6&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115730Z" creationid="Franklin Weng" creationdate="20171212T115730Z">
-        <seg>&lt;f6&gt;不過要記得在更新之後儲存文件！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;f7&gt;Since it is free software, you can even make your own changes in it if you have the skill.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180255Z" creationid="zerng07" creationdate="20170817T175628Z">
         <seg>&lt;f7&gt;因為它是自由軟體，若你有相關能力和技術，甚至還可以自行修改軟體。&lt;/f7&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T095824Z" creationid="Franklin Weng" creationdate="20171212T095824Z">
-        <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,14 +466,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142314Z" creationid="zerng07" creationdate="20170817T142300Z">
         <seg>Levien除了是Google員工外，他亦用自己的閒暇時間開發字型。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>A more plausible reason for not using templates is that setting them up takes time.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100916Z" creationid="Franklin Weng" creationdate="20171212T100916Z">
-        <seg>另一個更似是而非的說法是，設定範本會花很多時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,14 +490,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063832Z" creationid="zerng07" creationdate="20171212T063236Z">
         <seg>實際上，程式設計師中用手動格式設定的比例跟一般人一樣。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Al&lt;f0&gt;w&lt;/f0&gt;ays keep documents connected to their templates.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120609Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
-        <seg>&lt;f0&gt;讓文件保持&lt;/f0&gt;與範本的連結。</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,34 +542,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>An &lt;f0&gt;Impress slide with a formal placeholder for the title and informal ones for other information.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100553Z" creationid="Franklin Weng" creationdate="20171212T100553Z">
-        <seg>一份&lt;f0&gt;Impress 簡報，在標題的地方有請你填入標題的指引符，下面則有指引填入其他資料的指引符。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Another major advantage is that if you use heading styles, you can use them as bookmarks in Navigator to &lt;f0&gt;help you&lt;/f0&gt; move around in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040121Z" creationid="zerng07" creationdate="20171212T040121Z">
         <seg>另一個使用標題樣式的大優點是，你可以在「助手」功能中把標題視為書籤使用，&lt;f0&gt;幫助你&lt;/f0&gt;在文件中前後瀏覽移動。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Any changes visible with &lt;f0&gt;Edit &gt; Track Changes &gt; Show Changes&lt;/f0&gt; are lost when you copy and paste.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124958Z" creationid="Franklin Weng" creationdate="20171212T124958Z">
-        <seg>當你用複製貼上的方式時，所有在&lt;f0&gt;「編輯」&gt;「追蹤修訂」&gt;「顯示」&lt;/f0&gt;的變更紀錄將會遺失。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Application</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125250Z" creationid="Franklin Weng" creationdate="20171212T125250Z">
-        <seg>應用程式</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,22 +574,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>As soon as you make changes to the template, &lt;f0&gt;close and reopen the documents that use the template &lt;/f0&gt;as soon as possible.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120722Z" creationid="Franklin Weng" creationdate="20171212T120722Z">
-        <seg>一旦你變更了範本，&lt;f0&gt;記得立即關閉並重啟使用此範本的文件。&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>As with styles, the &lt;f0&gt;short&lt;/f0&gt; answer is, “&lt;f1&gt;Whenever possible.&lt;/f1&gt;” &lt;f2&gt;Not only are templates more efficient than designing from scratch, but using them consistently helps you get used to the concepts behind them.&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100732Z" creationid="Franklin Weng" creationdate="20171212T100732Z">
-        <seg>就跟樣式一樣，&lt;f0&gt;簡短&lt;/f0&gt;的答案是：「&lt;f1&gt;可以的話就用。&lt;/f1&gt;」&lt;f2&gt;不只是因為範本讓你可以更有效率，不用從頭開始設計文件；也因為持續的使用可以讓你習慣於範本設計背後的觀念。&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>As you get down to the word level, consider whether every piece of jargon is necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133052Z" creationid="Jeff Huang" creationdate="20171111T133052Z">
@@ -942,22 +598,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>At a minimum of three hours per template design, I have easily saved over a month’s time thanks to that one template alone.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100959Z" creationid="Franklin Weng" creationdate="20171212T100959Z">
-        <seg>雖然一份範本的設計大概需要最少三小時，但這樣一份範本可以在接下來的日子中，累積省下超過一個月的時間。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>At any rate, any attempt to swap templates raises the possibility of corruption, so test the extension using duplicate files until you are confident that it works.&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124659Z" creationid="Franklin Weng" creationdate="20171212T124659Z">
-        <seg>無論如何，任何變更所使用的範本的動作都有可能造成程式與文件（還有你）的崩潰，所以使用這類擴充套件時最好先在多一點的檔案中嘗試，直到你確信它沒問題為止。&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Barry Schwartz is one of the outstanding designers of free-licensed body text fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105322Z" creationid="zerng07" creationdate="20170817T104314Z">
@@ -974,14 +614,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Before you use them, they need to be registered, so that LibreOffice is aware of them.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100314Z" creationid="Franklin Weng" creationdate="20171212T100314Z">
-        <seg>在使用範本之前，必須要先註冊，這樣 LibreOffice 才知道有這個範本的存在。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
@@ -994,22 +626,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190754Z" creationid="zerng07" creationdate="20170817T184148Z">
         <seg>無論LibreOffice和Apache OpenOffice都一樣使用開放文件格式 &lt;f0&gt;(Open Document Format, ODF)，&lt;/f0&gt;是一種由&lt;f1&gt;XML&lt;/f1&gt;檔案組成的壓縮後檔案格式。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Both these templates include not only formatting, but a standard set of slides for developing a presentation with certain goals in mind.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100403Z" creationid="Franklin Weng" creationdate="20171212T100403Z">
-        <seg>這些範本裡不只儲存格式，而且還有一些通用標準的投影片結構，以便快速製作特定主題的投影片。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>But &lt;f1&gt;this new work flow &lt;/f1&gt;rapidly repays the effort to change &lt;f2&gt;your work habits.&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101046Z" creationid="Franklin Weng" creationdate="20171212T101046Z">
-        <seg>但&lt;f1&gt;這個新的工作流程&lt;/f1&gt;會不斷讓你付出心思改變&lt;f2&gt;你的工作習慣。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1062,14 +678,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>By contrast, any comments or fields are copied.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125016Z" creationid="Franklin Weng" creationdate="20171212T125016Z">
-        <seg>而所有的註解或欄位都會被複製。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>By contrast, hundreds are available today, &lt;f1&gt;although t&lt;/f1&gt;heir numbers are still small compared to the thousands of proprietary fonts available from font foundries such as Adobe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T131442Z" creationid="zerng07" creationdate="20170817T095637Z">
@@ -1102,26 +710,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Calc</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125304Z" creationid="Franklin Weng" creationdate="20171212T125304Z">
-        <seg>Calc</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Caution</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181234Z" creationid="zerng07" creationdate="20170817T181227Z">
         <seg>注意</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Change the formatting only on the template.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120543Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
-        <seg>只在範本中變更格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,14 +790,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Documents whose templates have been edited are not &lt;f0&gt;always &lt;/f0&gt;updated when closed and reopened.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120247Z" creationid="Franklin Weng" creationdate="20171212T120247Z">
-        <seg>即使範本已被編輯更新，使用該範本的文件在關閉並重啟時&lt;f0&gt;未必&lt;/f0&gt;會跟著更新。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Does a word convey precisely what you mean, or could you use a better one?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133140Z" creationid="Jeff Huang" creationdate="20171111T133140Z">
@@ -1230,14 +814,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Draw</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
-        <seg>Draw</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>During that part of my working life, I had several chances to stress-test OpenOffice.org, including writing several manuals of over 700 pages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T063636Z" creationid="zerng07" creationdate="20170822T161048Z">
@@ -1254,26 +830,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Even deleting or adding a style can detach a document from its template.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120642Z" creationid="Franklin Weng" creationdate="20171212T120622Z">
-        <seg>即使是刪除或新增一個樣式，也可能讓文件與範本脫勾。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Eventually, Oracle gave its rights in the code to The Apache Foundation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170652Z" creationid="zerng07" creationdate="20170817T180626Z">
         <seg>後來，甲骨文將其對OpenOffice.org源始碼的權利讓與了阿帕契軟體基金會 (The Apache Software Foundation)。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Example</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100927Z" creationid="Franklin Weng" creationdate="20171212T100927Z">
-        <seg>範例</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,14 +926,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Generally, you want to avoid &lt;f0&gt;detaching documents from their templates&lt;/f0&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120413Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
-        <seg>一般來說，要盡量避免&lt;f0&gt;讓文件與其範本脫勾。&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Going in style</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T071255Z" creationid="zerng07" creationdate="20170824T064944Z">
@@ -1394,14 +946,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T061422Z" creationid="Jeff Huang" creationdate="20171123T061422Z">
         <seg>你的文件的編寫脈絡是什麼？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>How templates work</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101051Z" creationid="Franklin Weng" creationdate="20171212T101051Z">
-        <seg>範本的運作方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,22 +1014,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>However, when I probe such claims, I &lt;f0&gt;usually find&lt;/f0&gt; that the problem wasn’t that every document was different, but that &lt;f1&gt;the person making the claims didn’t think in terms of structure.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100833Z" creationid="Franklin Weng" creationdate="20171212T100833Z">
-        <seg>然而，當我實際去探詢這些說法時，&lt;f0&gt;我常常發現&lt;/f0&gt;問題不是在於他們所製作的文件都不同，而是因為&lt;f1&gt;這些使用者並沒有用結構化的思維去製作文件。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>However, you can &lt;f0&gt;also design&lt;/f0&gt; a &lt;f1&gt;template with far more formatting information as default&lt;/f1&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T113915Z" creationid="Franklin Weng" creationdate="20171212T101117Z">
-        <seg>不過，你也&lt;f0&gt;可以設計&lt;/f0&gt;一份&lt;f1&gt;包含比預設範本更多格式資訊的範本&lt;/f1&gt;。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>However, you can also download fonts for print use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T133412Z" creationid="zerng07" creationdate="20170817T133412Z">
@@ -1514,38 +1042,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T181800Z" creationid="zerng07" creationdate="20170822T151410Z">
         <seg>更早先之前的我已無法追溯計算，而有記錄在案的，至今已撰寫超過1&lt;f1&gt;7&lt;/f1&gt;00篇文章。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If so, don't worry.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100648Z" creationid="Franklin Weng" creationdate="20171212T100648Z">
-        <seg>如果是這樣的話，免驚！</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If the template changes, the next time &lt;f0&gt;you restart LibreOffice and open the document&lt;/f0&gt;, you are prompted to update the document.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115341Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
-        <seg>如果範本變更了，下次&lt;f0&gt;重新啟動 LibreOffice 並開啟文件時&lt;/f0&gt;，它會提醒你文件會跟著變更。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If you &lt;f0&gt;choose&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;U&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;pdate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles&lt;/f5&gt;&lt;/f4&gt;, then the document continues to be linked to the template.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115712Z" creationid="Franklin Weng" creationdate="20171212T115712Z">
-        <seg>如果你&lt;f0&gt;選擇&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;更新&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;f5&gt;樣式&lt;/f5&gt;&lt;/f4&gt;&lt;/f3&gt;，那文件則會持續與範本連結。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>If you are a long-time user of office suites, you may be wary of templates because of how easily they became corrupted in Microsoft Word when you made any changes or tried to mix templates.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100643Z" creationid="Franklin Weng" creationdate="20171212T100643Z">
-        <seg>如果你已經用過很久的 Office，你可能會對範本感到有一點厭惡，因為在 Microsoft Word 中修改範本或試著把多個範本結合在一起時很容易當掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,14 +1126,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Impress</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
-        <seg>Impress</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>In both &lt;f3&gt;LibreOffice and OpenOffice,&lt;/f3&gt; you can also save to most Microsoft Office formats, and open files from WordPerfect, Microsoft Works, and several other formats, although &lt;f4&gt;some formatting is sometimes lost in complex documents.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171147Z" creationid="zerng07" creationdate="20170822T144101Z">
@@ -1682,14 +1170,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040359Z" creationid="zerng07" creationdate="20171212T040359Z">
         <seg>只要你一設定完標題樣式的&lt;f1&gt;當下&lt;/f1&gt;就完成了。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Instead, it creates a virtual view of the contents of all the template directories listed in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Template Manager&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window.&lt;/f6&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125935Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
-        <seg>相對地，它會將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「工具」&gt;「選項」&gt;「路徑」&gt;「範本」&lt;/f2&gt;&lt;/f1&gt;中所列出的範本目錄中所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;範本&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,22 +1234,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T052626Z" creationid="zerng07" creationdate="20170818T052509Z">
         <seg>重點不是抽象設計，而是實務作法，例如頁面邊距寬度夠讓讀者可以舒適地兩手拿書也不會遮到字，&lt;f0&gt;或是讓文件能方便更新的功能等。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Its settings will be used for every document when you select &lt;f2&gt;File &gt; New,&lt;/f2&gt; unless you specifically select another template&lt;f3&gt;.&lt;/f3&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114029Z" creationid="Franklin Weng" creationdate="20171212T114029Z">
-        <seg>它的設定會在你用&lt;f2&gt;「檔案」&gt;「開啟」&lt;/f2&gt;來開新檔案時套用在新文件上，除非你另外選擇使用其他的範本來開啟新檔。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>It’s inefficient.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100227Z" creationid="Franklin Weng" creationdate="20171212T100227Z">
-        <seg>這樣超沒效率的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,14 +1398,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Mostly, templates store formatting.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100331Z" creationid="Franklin Weng" creationdate="20171212T100331Z">
-        <seg>大部份的範本儲存的都是格式。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>My LibreOffice articles include:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
@@ -1950,26 +1406,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Never make any formatting changes in a document.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120625Z" creationid="Franklin Weng" creationdate="20171212T120620Z">
-        <seg>絕對不要在文件中變更格式。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>New chapters start on a right page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034840Z" creationid="Jeff Huang" creationdate="20171212T034840Z">
         <seg>新章節從右側頁面開始。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Nor did they realize that a consistent general format can be part of corporate or personal branding.&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100910Z" creationid="Franklin Weng" creationdate="20171212T100910Z">
-        <seg>他們當然也不瞭解，一貫的通用格式可以是企業與個人品牌的一部份。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,22 +1434,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184121Z" creationid="zerng07" creationdate="20170817T110032Z">
         <seg>&lt;/f0&gt;起先因部分字母寫法受到不少批評，而後Cantarell演進為人文主義風字型，可作內文字使用，亦可用於標題字。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>ODF Format</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125254Z" creationid="Franklin Weng" creationdate="20171212T125254Z">
-        <seg>ODF 格式</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>OOo Format</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125258Z" creationid="Franklin Weng" creationdate="20171212T125258Z">
-        <seg>OOo 格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,14 +1466,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060557Z" creationid="zerng07" creationdate="20171212T060539Z">
         <seg>只要你製作好你的基礎範本，下次要做新文件時就不必再去想那些格式設定之類的瑣事——&lt;f0&gt;開啟範本&lt;/f0&gt;，接著開始輸入內容即可。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>One is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; New &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Depending on the version and operating system, it may also open from:&lt;/f6&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130133Z" creationid="Franklin Weng" creationdate="20171212T130133Z">
-        <seg>其中一個是&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案」&gt;「新增」&gt;「範本」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;。&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;而根據不同的作業系統以及軟體版本，它也可以從這些地方開啟：&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,22 +1526,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Other templates I have made over the years have seen less use.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101022Z" creationid="Franklin Weng" creationdate="20171212T101022Z">
-        <seg>這些年來我做的其他範本，使用率沒那麼高。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Over the years, I have heard users claim that templates are impractical because every document they do is different.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100821Z" creationid="Franklin Weng" creationdate="20171212T100821Z">
-        <seg>這些年來，我不斷地聽到有使用者說，範本一點都不實用，因為他們製作的每份文件都不一樣。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Page numbering and different page numbering styles begin where you intended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034720Z" creationid="Jeff Huang" creationdate="20171212T034720Z">
@@ -2150,34 +1550,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100629Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
-        <seg>這些指引符可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Re-at&lt;f0&gt;t&lt;/f0&gt;aching styles</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124219Z" creationid="Franklin Weng" creationdate="20171212T121339Z">
-        <seg>&lt;f0&gt;重新附上&lt;/f0&gt;樣式</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Reality</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063556Z" creationid="zerng07" creationdate="20171212T062531Z">
         <seg>現實世界</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Recycling &lt;f0&gt;using&lt;/f0&gt; templates</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100159Z" creationid="Franklin Weng" creationdate="20171212T100159Z">
-        <seg>重複&lt;f0&gt;利用&lt;/f0&gt;範本</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,22 +1726,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Template extensio&lt;f0&gt;n&lt;/f0&gt;s for Open Document Format and the older OpenOffice.org format.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125408Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
-        <seg>&lt;f0&gt;開放文件格式與舊的 OpenOffice.org 格式檔案的範本副檔名&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Templates are handled differently from ordinary documents.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100305Z" creationid="Franklin Weng" creationdate="20171212T100305Z">
-        <seg>範本的處理與一般文件是不同的。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Terms, assumptions, &lt;f1&gt;procedures, &lt;/f1&gt;or background that you have left out?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131332Z" creationid="Jeff Huang" creationdate="20171111T131332Z">
@@ -2390,14 +1750,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The &lt;f0&gt;only way that you can alter LibreOffice’s default formats without using templates is&lt;/f0&gt; to change the &lt;f1&gt;font &lt;/f1&gt;settings &lt;f2&gt;in&lt;/f2&gt; &lt;f3&gt;Tools &gt; Options &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; LibreOffice Writer &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Basic Fonts (Western).&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Default formatting such as page and list styles cannot be edited at all.&lt;/f10&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101112Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
-        <seg>你&lt;f0&gt;唯一可以不用範本而改變 LibreOffice 預設格式的方式是在&lt;f3&gt;「工具」&gt;「選項」&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 「LibreOffice Writer」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「基本字型（西方語言）」或「基本字型（亞洲語言）」。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;中&lt;/f0&gt;改變&lt;f1&gt;字型&lt;/f1&gt;設定。&lt;f10&gt;預設的格式，如頁面與清單等都不能編輯。&lt;/f10&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The Arkandis fonts are meant to provide free-licensed versions of fonts for Linux.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T102911Z" creationid="zerng07" creationdate="20170817T102354Z">
@@ -2414,22 +1766,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The Template Manager&lt;f0&gt;, &lt;/f0&gt;showing sub-folders for different categories.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130015Z" creationid="Franklin Weng" creationdate="20171212T130015Z">
-        <seg>在「範本」視窗中顯示不同類別的子資料夾。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The all-purpose template I first designed in 2002 took several hours to design, and maybe another two to fine-tune.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100933Z" creationid="Franklin Weng" creationdate="20171212T100933Z">
-        <seg>2002 年，我第一次設計一個通用目的的範本時，花了大概幾個小時來設計，然後又花了大概兩小時來微調。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The features that produce these characteristics should be noticeable only to &lt;f2&gt;eyes&lt;/f2&gt; trained to be alert for them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
@@ -2442,14 +1778,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T130330Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
         <seg>本章中的標題會給你一份可遵循的步驟清單。&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>The layout of this tab is different in LibreOffice before release 4.3, with the template at the bottom of the window.&lt;/f3&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115935Z" creationid="Franklin Weng" creationdate="20171212T115935Z">
-        <seg>這個分頁的呈現方式在 LibreOffice 4.3 以前有點不同，範本是列在視窗的最下面。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,14 +1870,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>They also &lt;f0&gt;have their own menus and menu items that normal files do not use.&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100326Z" creationid="Franklin Weng" creationdate="20171212T100326Z">
-        <seg>範本也有&lt;f0&gt;自己的選單與選單項目，一般檔案是沒有的。&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>They are marked as “permission free,” &lt;f0&gt;which presumably means public domain.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140238Z" creationid="zerng07" creationdate="20170817T125438Z">
@@ -2582,34 +1902,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>This omission &lt;f2&gt;eliminates&lt;/f2&gt; the possibility of a document being corrupted by &lt;f3&gt;too much editing of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; template.&lt;/f6&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101103Z" creationid="Franklin Weng" creationdate="20171212T101103Z">
-        <seg>這樣做的目的在&lt;f2&gt;避免&lt;/f2&gt;&lt;f3&gt;不斷編輯&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;預設&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;範本&lt;/f6&gt;所造成的程式崩潰。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>This policy avoids the tendency to corruption that used to plague &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word (and may still do, for all that I know).&lt;/f3&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115129Z" creationid="Franklin Weng" creationdate="20171212T115129Z">
-        <seg>這個原則可以避免之前 &lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;f3&gt;Word 範本會一直崩潰的問題（就我所知似乎這個問題現在還在）&lt;/f3&gt;&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>This practice is perfectly legal, but sometimes involves using different icons and making o&lt;f1&gt;t&lt;/f1&gt;her minor changes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184519Z" creationid="zerng07" creationdate="20170817T182426Z">
         <seg>這種作法完全合法，但偶爾只是選用不同圖示和作其他些微更動。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>This structural use of templates tends to be under-emphasized.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100343Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
-        <seg>一般而言，範本不太會用來規範文件的結構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,22 +1958,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Two styles of the same name in separate documents can have different formats.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115237Z" creationid="Franklin Weng" creationdate="20171212T115237Z">
-        <seg>在不同文件中，即使樣式名稱相同，裡面的格式有可能不同。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Unlike Microsoft Word, LibreOffice does not display a &lt;f0&gt;&lt;f1&gt;Normal&lt;/f1&gt;&lt;/f0&gt; template anywhere in its menus.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101056Z" creationid="Franklin Weng" creationdate="20171212T101056Z">
-        <seg>跟 Microsoft Word 不同的是，LibreOffice 並沒有在選單中顯示任何&lt;f0&gt;&lt;f1&gt;一般&lt;/f1&gt;&lt;/f0&gt;的範本。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Updates are regular, so check regularly for new releases of updates of existing fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140916Z" creationid="zerng07" creationdate="20170817T133551Z">
@@ -2710,26 +1990,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Using templates does &lt;f0&gt;mean planning ahead&lt;/f0&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101041Z" creationid="Franklin Weng" creationdate="20171212T101041Z">
-        <seg>使用範本的重要意義在於&lt;f0&gt;預先規畫&lt;/f0&gt;。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Using the Navigator's controls, you can move headings and the sections of body text below them anywhere in the document much more quickly than you can copy and paste.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T062216Z" creationid="Jeff Huang" creationdate="20171123T062216Z">
         <seg>使用助手的功能，你可以比複製並貼上更快地移動標題與內文到文件的任何地方。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Using the Template Manager</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
-        <seg>管理範本</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,26 +2046,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>When to use templates</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100722Z" creationid="Franklin Weng" creationdate="20171212T100722Z">
-        <seg>使用範本的時機</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>When you format manually, whenever you want to change the default formatting, you select part of the document – for example, a paragraph or a page – and then apply the formatting using the tool bars or one of the menus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041328Z" creationid="zerng07" creationdate="20170824T161200Z">
         <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字——例如：一個段落，或是一頁——然後使用工具列或選單套用格式設定。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>When you open a document, you are warned &lt;f0&gt;that&lt;/f0&gt; its template has been edited.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120350Z" creationid="Franklin Weng" creationdate="20171212T120350Z">
-        <seg>此時當你開啟文件時，你就會收到&lt;f0&gt;通知&lt;/f0&gt;說它的範本已被編輯過。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,34 +2070,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Whichever template you use, it &lt;f0&gt;must be properly registered before you can use it.&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114845Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
-        <seg>不管你用哪一份範本，都要&lt;f0&gt;先將範本註冊完成才能開始使用。&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>With over 400 font families, &lt;f0&gt;t&lt;/f0&gt;he Open Font Library is second only to Google Fonts in its selection.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
         <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Writer</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125259Z" creationid="Franklin Weng" creationdate="20171212T125259Z">
-        <seg>Writer</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Yet even that excuse fails to &lt;f0&gt;survive scrutiny&lt;/f0&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100921Z" creationid="Franklin Weng" creationdate="20171212T100921Z">
-        <seg>即使這個藉口其實&lt;f0&gt;一點也站不住腳&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,26 +2102,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You &lt;f1&gt;may &lt;/f1&gt;have to restart LibreOffice &lt;f2&gt;for the change to take effect&lt;/f2&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120317Z" creationid="Franklin Weng" creationdate="20171212T120317Z">
-        <seg>你&lt;f1&gt;可能&lt;/f1&gt;要重新啟動 LibreOffice &lt;f2&gt;來讓變更生效。&lt;/f2&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>You can &lt;f0&gt;mostly&lt;/f0&gt; eliminate the need for tabs, especially at the start of a new paragraph, because you can create a style that automatically indents for you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
         <seg>你可以&lt;f0&gt;幾乎&lt;/f0&gt;省去按 Tab 鍵縮排的需求，尤其是新段落的開頭空格，因為你可以設定出能自動為你縮排的樣式。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You can develop equally detailed structural templates to automate your work.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100501Z" creationid="Franklin Weng" creationdate="20171212T100501Z">
-        <seg>你可以開發同樣詳細的結構化範本來自動化你的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,14 +2210,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T081001Z" creationid="Jeff Huang" creationdate="20171123T081001Z">
         <seg>情人眼裡出西施</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>designing-with-libreoffice</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100131Z" creationid="Franklin Weng" creationdate="20171212T100131Z">
-        <seg>designing-with-libreoffice</seg>
       </tuv>
     </tu>
     <tu>
