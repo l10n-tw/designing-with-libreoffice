@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
+        <seg>&lt;f0&gt;比較可靠的解決方案&lt;/f0&gt;&lt;f1&gt;通常是&lt;/f1&gt;把檔案內容複製後，貼到一個由原始範本建立的空白檔案中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;bout this book</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T144507Z" creationid="zerng07" creationdate="20170822T144507Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100959Z" creationid="Franklin Weng" creationdate="20171212T100959Z">
         <seg>雖然一份範本的設計大概需要最少三小時，但這樣一份範本可以在接下來的日子中，累積省下超過一個月的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At any rate, any attempt to swap templates raises the possibility of corruption, so test the extension using duplicate files until you are confident that it works.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124659Z" creationid="Franklin Weng" creationdate="20171212T124659Z">
+        <seg>無論如何，任何變更所使用的範本的動作都有可能造成程式與文件（還有你）的崩潰，所以使用這類擴充套件時最好先在多一點的檔案中嘗試，直到你確信它沒問題為止。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
