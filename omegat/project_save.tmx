@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;S&lt;/f1&gt;tyles &lt;f2&gt;shared by&lt;/f2&gt; the template and the document are updated, &lt;f3&gt;but&lt;/f3&gt; &lt;f4&gt;styles that are only in the document a&lt;/f4&gt;re not.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115515Z" creationid="Franklin Weng" creationdate="20171212T115515Z">
+        <seg>範本與文件&lt;f2&gt;共用&lt;/f2&gt;的&lt;f1&gt;樣式&lt;/f1&gt;會一起更新，&lt;f3&gt;但&lt;/f3&gt;&lt;f4&gt;只存在於文件中的樣式則不會&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
@@ -1250,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100648Z" creationid="Franklin Weng" creationdate="20171212T100648Z">
         <seg>如果是這樣的話，免驚！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the template changes, the next time &lt;f0&gt;you restart LibreOffice and open the document&lt;/f0&gt;, you are prompted to update the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115341Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
+        <seg>如果範本變更了，下次&lt;f0&gt;重新啟動 LibreOffice 並開啟文件時&lt;/f0&gt;，它會提醒你文件會跟著變更。</seg>
       </tuv>
     </tu>
     <tu>
