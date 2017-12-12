@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fi&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;les &gt; Properties &gt; General&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; lists the template upon which the document was originally based.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115904Z" creationid="Franklin Weng" creationdate="20171212T115904Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案」&gt;「屬性」&gt;「一般」&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;中會列出文件最初所使用的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T144828Z" creationid="zerng07" creationdate="20170903T144756Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165848Z" creationid="zerng07" creationdate="20170817T155039Z">
         <seg>&lt;f4&gt;在耗上一段時間設置完樣式之後，你就會希望下一份文件不要再做重複的苦工，所以範本就變成你工作流程中的重要一環。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f6&gt;However, remember to save the document after updating.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115730Z" creationid="Franklin Weng" creationdate="20171212T115730Z">
+        <seg>&lt;f6&gt;不過要記得在更新之後儲存文件！</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115341Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
         <seg>如果範本變更了，下次&lt;f0&gt;重新啟動 LibreOffice 並開啟文件時&lt;/f0&gt;，它會提醒你文件會跟著變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you &lt;f0&gt;choose&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;U&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;pdate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles&lt;/f5&gt;&lt;/f4&gt;, then the document continues to be linked to the template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115712Z" creationid="Franklin Weng" creationdate="20171212T115712Z">
+        <seg>如果你&lt;f0&gt;選擇&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;更新&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;f5&gt;樣式&lt;/f5&gt;&lt;/f4&gt;&lt;/f3&gt;，那文件則會持續與範本連結。</seg>
       </tuv>
     </tu>
     <tu>
