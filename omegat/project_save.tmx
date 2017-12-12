@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with styles, the &lt;f0&gt;short&lt;/f0&gt; answer is, “&lt;f1&gt;Whenever possible.&lt;/f1&gt;” &lt;f2&gt;Not only are templates more efficient than designing from scratch, but using them consistently helps you get used to the concepts behind them.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T090812Z" creationid="Franklin Weng" creationdate="20171212T090812Z">
+        <seg>就跟樣式一樣，&lt;f0&gt;簡短&lt;/f0&gt;的答案是：「&lt;f1&gt;可以的話就用。&lt;/f1&gt;」&lt;f2&gt;不只是因為範本讓你可以更有效率，不用從頭開始設計文件；也因為持續的使用可以讓你習慣於範本設計背後的觀念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you get down to the word level, consider whether every piece of jargon is necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133052Z" creationid="Jeff Huang" creationdate="20171111T133052Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T172034Z" creationid="zerng07" creationdate="20170817T170959Z">
         <seg>然而，隨著新版本一次又一次發行，兩者間的差異越來越大，相容性也會慢慢降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, when I probe such claims, I &lt;f0&gt;usually find&lt;/f0&gt; that the problem wasn’t that every document was different, but that &lt;f1&gt;the person making the claims didn’t think in terms of structure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T091033Z" creationid="Franklin Weng" creationdate="20171212T091033Z">
+        <seg>然而，當我實際去探詢這些說法時，&lt;f0&gt;我常常發現&lt;/f0&gt;問題不是在於他們所製作的文件都不同，而是因為&lt;f1&gt;這些使用者並沒有用結構化的思維去製作文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163316Z" creationid="zerng07" creationdate="20170817T162828Z">
         <seg>其餘內容雖和樣式完全無關，但必須提及才能完整討論所謂設計之事。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Over the years, I have heard users claim that templates are impractical because every document they do is different.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T090905Z" creationid="Franklin Weng" creationdate="20171212T090905Z">
+        <seg>這些年來，我總是不斷聽使用者說範本一點都不實用，因為他們做的每份文件都不一樣。</seg>
       </tuv>
     </tu>
     <tu>
