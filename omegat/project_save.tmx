@@ -1104,8 +1104,8 @@
       <tuv lang="EN">
         <seg>In the same way, headings let you generate a &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents &lt;f2&gt;with a minimum of settings&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040604Z" creationid="zerng07" creationdate="20171212T040604Z">
-        <seg>同樣地，標題樣式能讓你&lt;f2&gt;幾乎不用做什麼設定&lt;/f2&gt;就能做出文件目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040611Z" creationid="zerng07" creationdate="20171212T040604Z">
+        <seg>同樣地，標題樣式能讓你&lt;f2&gt;幾乎不用什麼設定&lt;/f2&gt;就能做出文件目錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1482,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T035919Z" creationid="Jeff Huang" creationdate="20171212T035919Z">
         <seg>目錄或索引的樣式（你可能最後才會建立這些項目）與其他部份的設計相互融合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separate head&lt;f3&gt;er&lt;/f3&gt;s and footers for different pages are easier to maintain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040719Z" creationid="zerng07" creationdate="20171212T040719Z">
+        <seg>想為不同頁面設定不同的頁首和頁尾也變得很好維護。</seg>
       </tuv>
     </tu>
     <tu>
