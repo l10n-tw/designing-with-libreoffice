@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004952Z" creationid="franklin" creationdate="20171212T004952Z">
-        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位符 (placeholders) 等等。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T082113Z" creationid="franklin" creationdate="20171212T004952Z">
+        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的指引符 (placeholders) 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142558Z" creationid="zerng07" creationdate="20170817T142558Z">
         <seg>雖然這個網頁上所寫的所有字型並非都很完整，但一致的高品質仍值得考慮使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;f0&gt;Impress slide with a formal placeholder for the title and informal ones for other information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T081840Z" creationid="Franklin Weng" creationdate="20171212T081840Z">
+        <seg> &lt;f0&gt;Impress 的投影片，有標題用的正規佔位符以及給其他資訊用的非正規佔位符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1458,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163316Z" creationid="zerng07" creationdate="20170817T162828Z">
         <seg>其餘內容雖和樣式完全無關，但必須提及才能完整討論所謂設計之事。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T082051Z" creationid="Franklin Weng" creationdate="20171212T081902Z">
+        <seg>佔位符可以幫你Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
