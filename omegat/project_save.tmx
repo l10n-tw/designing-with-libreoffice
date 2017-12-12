@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice does not display template directories directly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125449Z" creationid="Franklin Weng" creationdate="20171212T125449Z">
+        <seg>&lt;f0&gt;LibreOffice 不會直接顯示範本目錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice templates&lt;/f0&gt; are designed to eliminate the problems that &lt;f1&gt;caused the corruption&lt;/f1&gt; in Word.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100709Z" creationid="Franklin Weng" creationdate="20171212T100709Z">
@@ -472,8 +480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can always identify a LibreOffice template file&lt;/f0&gt;, because the second letter in its extension is always a “t.” &lt;f1&gt;This pattern is used&lt;/f1&gt; in &lt;f2&gt;both &lt;/f2&gt;Open Document Format and the &lt;f3&gt;obsolete &lt;/f3&gt;OpenOffice.org 1.0 format:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125243Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
-        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;&lt;f2&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125358Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
+        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。&lt;/f0&gt;如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;&lt;f2&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, it creates a virtual view of the contents of all the template directories listed in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Template Manager&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125500Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
+        <seg>Instead, it creates a virtual view of the contents of all the template directories listed in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Template Manager&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T155525Z" creationid="zerng07" creationdate="20170817T150101Z">
@@ -2320,8 +2336,8 @@
       <tuv lang="EN">
         <seg>Template extensio&lt;f0&gt;n&lt;/f0&gt;s for Open Document Format and the older OpenOffice.org format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125348Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
-        <seg>開放文件格式與舊的 OpenOffice.org 格式檔案的範本副檔名</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125408Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
+        <seg>&lt;f0&gt;開放文件格式與舊的 OpenOffice.org 格式檔案的範本副檔名&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +2698,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T062216Z" creationid="Jeff Huang" creationdate="20171123T062216Z">
         <seg>使用助手的功能，你可以比複製並貼上更快地移動標題與內文到文件的任何地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Template Manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
+        <seg>管理範本</seg>
       </tuv>
     </tu>
     <tu>
