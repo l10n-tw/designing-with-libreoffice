@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, &lt;/f0&gt;you can find examples of it in some releases of LibreOffice or OpenOffice in the Impress templates entitled “Introducing a New Strategy” and “Recommendation of a Strategy.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T005209Z" creationid="franklin" creationdate="20171212T005209Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;你可以在某些版本的 LibreOffice 或 OpenOffice 中，找到一些 Impress 的範本，標題是「介紹新的策略」或是「策略建議」之類的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, one thing that this book&lt;/f0&gt; is not &lt;f1&gt;is &lt;/f1&gt;a relentless death march &lt;f2&gt;in regimented order&lt;/f2&gt; through every item in the menus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184855Z" creationid="zerng07" creationdate="20170817T163306Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190754Z" creationid="zerng07" creationdate="20170817T184148Z">
         <seg>無論LibreOffice和Apache OpenOffice都一樣使用開放文件格式 &lt;f0&gt;(Open Document Format, ODF)，&lt;/f0&gt;是一種由&lt;f1&gt;XML&lt;/f1&gt;檔案組成的壓縮後檔案格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both these templates include not only formatting, but a standard set of slides for developing a presentation with certain goals in mind.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T005302Z" creationid="franklin" creationdate="20171212T005302Z">
+        <seg>這些範本裡不只儲存格式，而且還有一些通用標準的投影片結構，以便快速製作特定主題的投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
         <seg>你可以&lt;f0&gt;幾乎&lt;/f0&gt;省去按 Tab 鍵縮排的需求，尤其是新段落的開頭空格，因為你可以設定出能自動為你縮排的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can develop equally detailed structural templates to automate your work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T005402Z" creationid="franklin" creationdate="20171212T005402Z">
+        <seg>你You can develop equally detailed structural templates to automate your work.</seg>
       </tuv>
     </tu>
     <tu>
