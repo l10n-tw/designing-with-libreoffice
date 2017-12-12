@@ -31,7 +31,7 @@
 第二章 (Chneg-Chia Tseng)、第三章（Franklin Weng）、第十六章 (Jeff Huang)
 
 未處理的有：
-附錄B、第三張至第十五章
+附錄B、第四章至第十五章
 
 ## 備註
 1. LibreOffice 會自動補中英之間的排版空間，所以翻譯 odt 檔時不必中英間補空格。
