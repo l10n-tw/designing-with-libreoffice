@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A style affects only the parts of a document to which you apply it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141414Z" creationid="zerng07" creationdate="20171212T141414Z">
+        <seg>樣式就只能影響你在文件中有套用樣式的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About the &lt;f0&gt;w&lt;/f0&gt;riter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145827Z" creationid="zerng07" creationdate="20170822T145827Z">
@@ -2342,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles are too complicated.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141425Z" creationid="zerng07" creationdate="20171212T141425Z">
+        <seg>樣式太過複雜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles impose on users’ right to work the way they choose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062713Z" creationid="zerng07" creationdate="20171212T062713Z">
@@ -2798,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What you set in styles applies to &lt;f0&gt;all &lt;/f0&gt;the document, &lt;f1&gt;so&lt;/f1&gt; styles more limited than manual formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141316Z" creationid="zerng07" creationdate="20171212T141316Z">
+        <seg>你對樣式做的設定會套用到&lt;f0&gt;所有&lt;/f0&gt;文件上，&lt;f1&gt;所以&lt;/f1&gt;樣式比起手動格式設定更侷限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When Oracle bought Sun &lt;f1&gt;in 2010&lt;/f1&gt;, LibreOffice started developing its own version of &lt;f2&gt;OpenOffice.org&lt;/f2&gt;, as the &lt;f3&gt;code’s &lt;/f3&gt;license &lt;f4&gt;permits&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180524Z" creationid="zerng07" creationdate="20170817T180510Z">
@@ -2978,6 +3002,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063933Z" creationid="zerng07" creationdate="20171212T063316Z">
         <seg>你不必記住任何名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You don’t need to understand every feature of every style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141441Z" creationid="zerng07" creationdate="20171212T141441Z">
+        <seg>你不需要懂每個樣式的各個細部特徵。</seg>
       </tuv>
     </tu>
     <tu>
