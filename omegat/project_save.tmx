@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;By contrast&lt;/f0&gt;, if you &lt;f1&gt;choose &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Keep Old Styles,&lt;/f3&gt;&lt;/f2&gt; it is unlinked from the template, and you are not prompted for further updates &lt;f4&gt;when&lt;/f4&gt; the template changes again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120053Z" creationid="Franklin Weng" creationdate="20171212T120053Z">
+        <seg>&lt;f0&gt;相反地，&lt;/f0&gt;如果你&lt;f1&gt;選擇&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;保留舊樣式，&lt;/f3&gt;&lt;/f2&gt;則文件會與範本脫勾。&lt;f4&gt;之後&lt;/f4&gt;範本有做任何變更，開啟這份文件時都不會再收到通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By understanding both,&lt;/f0&gt; you can &lt;f1&gt;take advantage of what publishers &lt;/f1&gt;have been learning for over half a millennium &lt;f2&gt;about what works and what doesn’t.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T032621Z" creationid="zerng07" creationdate="20170818T031240Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165848Z" creationid="zerng07" creationdate="20170817T155039Z">
         <seg>&lt;f4&gt;在耗上一段時間設置完樣式之後，你就會希望下一份文件不要再做重複的苦工，所以範本就變成你工作流程中的重要一環。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;However, the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Properties&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; window continues to list the template, even though it is irrelevant.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120143Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
+        <seg>&lt;f5&gt;不過&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「屬性」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;視窗中仍然會列出最初使用的範本，即使文件已經與範本脫勾也一樣。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2138,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T130330Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
         <seg>本章中的標題會給你一份可遵循的步驟清單。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layout of this tab is different in LibreOffice before release 4.3, with the template at the bottom of the window.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115935Z" creationid="Franklin Weng" creationdate="20171212T115935Z">
+        <seg>這個分頁的呈現方式在 LibreOffice 4.3 以前有點不同，範本是列在視窗的最下面。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
