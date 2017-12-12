@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The solution to both these problems is &lt;/f2&gt;templates – &lt;f3&gt;files to store formatting and structure to re-use or share.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004711Z" creationid="franklin" creationdate="20171212T004711Z">
+        <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本 – &lt;f3&gt;也就是已經預先儲存好格式與文件結構等等的檔案，方便分享與重複利用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Instead, it looks at important features from the point of view of planning&lt;/f3&gt;, &lt;f4&gt;as a variety of tactics that you can choose, and skips around as seems most useful for planning.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T030222Z" creationid="zerng07" creationdate="20170818T030222Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165421Z" creationid="zerng07" creationdate="20170822T160832Z">
         <seg>&lt;f0&gt;做記者之前&lt;/f0&gt;，我是技術文章創作者也是平面設計師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before you use them, they need to be registered, so that LibreOffice is aware of them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004748Z" creationid="franklin" creationdate="20171212T004748Z">
+        <seg>在使用範本之前，必須要先註冊，這樣 LibreOffice 才知道有這個範本的存在。=</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Templates are handled differently from ordinary documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004726Z" creationid="franklin" creationdate="20171212T004726Z">
+        <seg>範本的處理與一般文件是不同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms, assumptions, &lt;f1&gt;procedures, &lt;/f1&gt;or background that you have left out?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131332Z" creationid="Jeff Huang" creationdate="20171111T131332Z">
@@ -1658,6 +1682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173751Z" creationid="zerng07" creationdate="20170824T173751Z">
         <seg>接著又到了下個你想要採用&lt;f0&gt;相同&lt;/f0&gt;格式設定的地方，一樣你又把相同的設定一步一步再做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also &lt;f0&gt;have their own menus and menu items that normal files do not use.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004808Z" creationid="franklin" creationdate="20171212T004808Z">
+        <seg>範本也有&lt;f0&gt;自己的選單與選單項目，一般檔案是沒有的。</seg>
       </tuv>
     </tu>
     <tu>
