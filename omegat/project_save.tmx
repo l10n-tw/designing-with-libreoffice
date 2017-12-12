@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Al&lt;f0&gt;w&lt;/f0&gt;ays keep documents connected to their templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120609Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
+        <seg>&lt;f0&gt;讓文件保持&lt;/f0&gt;與範本的連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the same, LibreOffice &lt;f0&gt;is not&lt;/f0&gt; just &lt;f1&gt;a&lt;/f1&gt; wannabe Microsoft Office.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T163239Z" creationid="zerng07" creationdate="20170822T162904Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133329Z" creationid="Jeff Huang" creationdate="20171111T133329Z">
         <seg>你使用的是你的讀者群會使用的語言與行話類型？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As soon as you make changes to the template, &lt;f0&gt;close and reopen the documents that use the template &lt;/f0&gt;as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120722Z" creationid="Franklin Weng" creationdate="20171212T120722Z">
+        <seg>一旦你變更了範本，&lt;f0&gt;記得立即關閉並重啟使用此範本的文件。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -934,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the formatting only on the template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120543Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
+        <seg>只在範本中變更格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check, too, for clarity.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T132436Z" creationid="Jeff Huang" creationdate="20171111T132436Z">
@@ -1050,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034216Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
         <seg>印出來或是使用 &lt;f0&gt;檔案 → 預覽列印。&lt;/f0&gt; &lt;f1&gt;當然最好的狀況是兩個動作都做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even deleting or adding a style can detach a document from its template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120642Z" creationid="Franklin Weng" creationdate="20171212T120622Z">
+        <seg>即使是刪除或新增一個樣式，也可能讓文件與範本脫勾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
         <seg>我的LibreOffice文章（以英文撰寫）有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never make any formatting changes in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120625Z" creationid="Franklin Weng" creationdate="20171212T120620Z">
+        <seg>絕對不要在文件中變更格式。</seg>
       </tuv>
     </tu>
     <tu>
