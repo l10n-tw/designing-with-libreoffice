@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Identifying&lt;/f0&gt; a template</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125026Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
+        <seg>&lt;f0&gt;辨識&lt;/f0&gt;範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the document uses headings, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Navigator &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F5 &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;key.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T061659Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
@@ -766,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any changes visible with &lt;f0&gt;Edit &gt; Track Changes &gt; Show Changes&lt;/f0&gt; are lost when you copy and paste.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124958Z" creationid="Franklin Weng" creationdate="20171212T124958Z">
+        <seg>當你用複製貼上的方式時，所有在&lt;f0&gt;「編輯」&gt;「追蹤修訂」&gt;「顯示」&lt;/f0&gt;的變更紀錄將會遺失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are paragraphs the right length?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131421Z" creationid="Jeff Huang" creationdate="20171111T131421Z">
@@ -946,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181349Z" creationid="zerng07" creationdate="20170824T180134Z">
         <seg>與之相反的作法就是樣式，樣式是一組設定好的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, any comments or fields are copied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125016Z" creationid="Franklin Weng" creationdate="20171212T125016Z">
+        <seg>而所有的註解或欄位都會被複製。</seg>
       </tuv>
     </tu>
     <tu>
