@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -54,18 +54,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
+        <seg>&lt;/f1&gt;No matter how carefully you have developed and modified your template, it is still easy to miss problems &lt;f2&gt;in the&lt;/f2&gt; design unless you look at pages as a whole &lt;f3&gt;–&lt;/f3&gt; or, better, in a two-page spread.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
-        <seg>&lt;/f2&gt;替代方案則是自己花時間&lt;t3/&gt;從試誤中學習，而最終結果可能&lt;f4&gt;（說不定還試不出來）&lt;/f4&gt;依然比你從前人那裡&lt;f5&gt;汲取&lt;/f5&gt;經驗後的做法還糟。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034454Z" creationid="Jeff Huang" creationdate="20171212T034454Z">
+        <seg>&lt;/f1&gt;無論你在撰寫與修改你的範本上有多謹慎，還是可能會漏掉一些問題，除非你將頁面視為一個整體，或是更好的狀況是在一面兩頁的脈絡下檢視。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f6&gt;</seg>
+        <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T062237Z" creationid="Jeff Huang" creationdate="20171123T062237Z">
-        <seg></seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
+        <seg>&lt;/f2&gt;替代方案則是自己花時間&lt;t3/&gt;從試誤中學習，而最終結果可能&lt;f4&gt;（說不定還試不出來）&lt;/f4&gt;依然比你從前人那裡&lt;f5&gt;汲取&lt;/f5&gt;經驗後的做法還糟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;yth about styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
+        <seg>對樣式的迷思</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Much of t&lt;/f0&gt;his book is designed to explain not only what styles and templates are and how to use them, but also what you need to consider when selecting them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
@@ -368,8 +376,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;And the next, and the next.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173830Z" creationid="zerng07" creationdate="20170824T173811Z">
-        <seg>&lt;f1&gt;然後一個再接一個。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041351Z" creationid="zerng07" creationdate="20170824T173811Z">
+        <seg>&lt;f1&gt;然後一個接一個。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
         <seg>其首頁有一份最近上傳字型的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;O&lt;/f1&gt;f course they &lt;f2&gt;can &lt;/f2&gt;do as they like, &lt;f3&gt;but not using styles means they work harder than necessary.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062336Z" creationid="zerng07" creationdate="20171212T061247Z">
+        <seg>當然，他們&lt;f2&gt;可以&lt;/f2&gt;遵照他們喜歡的作法；&lt;f3&gt;但如果不用樣式的話，一樣的工作他們可能得更加倍努力完成才行。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181217Z" creationid="zerng07" creationdate="20170817T180838Z">
         <seg>&lt;f1&gt;除非本人另有提起，否則對LibreOffice所講述之事亦適用於OpenOffice。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Usually,&lt;/f1&gt; the more you use styles, the more time you save.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060639Z" creationid="zerng07" creationdate="20171212T060639Z">
+        <seg>&lt;f1&gt;一般來說&lt;/f1&gt;，你越能善用樣式，你就能省下越多時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,7 +448,7 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;nstead of adding all the characteristics every place where you format, you apply the style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152317Z" creationid="zerng07" creationdate="20170903T152317Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061633Z" creationid="zerng07" creationdate="20170903T152317Z">
         <seg>反之，就是獨自在各個需要設定格式的地方，手動套用各自的屬性。</seg>
       </tuv>
     </tu>
@@ -558,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actually, just as many programmers format manually as anyone else.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063832Z" creationid="zerng07" creationdate="20171212T063236Z">
+        <seg>實際上，程式設計師中用手動格式設定的比例跟一般人一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the same, LibreOffice &lt;f0&gt;is not&lt;/f0&gt; just &lt;f1&gt;a&lt;/f1&gt; wannabe Microsoft Office.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T163239Z" creationid="zerng07" creationdate="20170822T162904Z">
@@ -590,10 +622,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>An &lt;f0&gt;Impress slide with a formal placeholder for the title and informal ones for other information.</seg>
+        <seg>Amazingly, some users view styles as an intrusion on their rights to work &lt;f0&gt;as&lt;/f0&gt; they please.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T082942Z" creationid="Franklin Weng" creationdate="20171212T081840Z">
-        <seg> &lt;f0&gt;Impress 的投影片，在標題有一個正規的指引符，下面則有給其他資訊用的非正規指引符。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061256Z" creationid="zerng07" creationdate="20171212T060900Z">
+        <seg>令人驚嘆的是，部份使用者竟然將樣式看作是保有過去作業習慣的入侵者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Among the things you should check are that:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034535Z" creationid="Jeff Huang" creationdate="20171212T034535Z">
+        <seg>你應該檢查的事情有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another major advantage is that if you use heading styles, you can use them as bookmarks in Navigator to &lt;f0&gt;help you&lt;/f0&gt; move around in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040121Z" creationid="zerng07" creationdate="20171212T040121Z">
+        <seg>另一個使用標題樣式的大優點是，你可以在「助手」功能中把標題視為書籤使用，&lt;f0&gt;幫助你&lt;/f0&gt;在文件中前後瀏覽移動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,10 +782,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But unlike normal bookmarks, you don’t have to define them in a separate task.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041000Z" creationid="zerng07" creationdate="20171212T040200Z">
+        <seg>但是和一般的書籤不同，你不需要額外動手定義標題書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But what &lt;f2&gt;many of us&lt;/f2&gt; haven’t learned is to do these &lt;f3&gt;tasks&lt;/f3&gt; efficiently, taking advantage of all the tools that are&lt;f4&gt; &lt;/f4&gt;available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T062254Z" creationid="zerng07" creationdate="20170817T150849Z">
         <seg>但是&lt;f2&gt;我們不少&lt;/f2&gt;都沒學過要怎樣有效完成這些&lt;f3&gt;作業&lt;/f3&gt;，去善用那些放在手邊的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But why demand the right to inconvenience yourself?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062823Z" creationid="zerng07" creationdate="20171212T062823Z">
+        <seg>但是為什麼要保留讓自己更不方便的習慣呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T134720Z" creationid="Jeff Huang" creationdate="20171111T134720Z">
         <seg>檢查稿件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking design</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T033942Z" creationid="Jeff Huang" creationdate="20171212T033942Z">
+        <seg>檢查設計</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either print out a copy or use &lt;f0&gt;File &gt; Print Preview.&lt;/f0&gt; &lt;f1&gt;Better still, do both.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034216Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
+        <seg>印出來或是使用 &lt;f0&gt;檔案 → 預覽列印。&lt;/f0&gt; &lt;f1&gt;當然最好的狀況是兩個動作都做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Eventually, Oracle gave its rights in the code to The Apache Foundation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170652Z" creationid="zerng07" creationdate="20170817T180626Z">
@@ -950,10 +1030,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Footers and &lt;f0&gt;h&lt;/f0&gt;eaders arrange information in the intended order.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T035428Z" creationid="Jeff Huang" creationdate="20171212T035428Z">
+        <seg>註腳與標題以你預期中的順序提供資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Trish, Always</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135226Z" creationid="zerng07" creationdate="20170817T093833Z">
         <seg>致翠煦，永遠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;page numbers will be more noticeable if placed by the outer margin of each page.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T035607Z" creationid="Jeff Huang" creationdate="20171212T035607Z">
+        <seg>舉例來說，&lt;f1&gt;頁碼若置於每頁的外緣會更明顯。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the real saving comes when you save your design as a template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060325Z" creationid="zerng07" creationdate="20171212T060325Z">
+        <seg>而真正的方便，在於你將這份設計儲存成「範本」之後。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the two are different enough that compatibility is slowly lessening as each version is released.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T172034Z" creationid="zerng07" creationdate="20170817T170959Z">
@@ -1082,6 +1186,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T133412Z" creationid="zerng07" creationdate="20170817T133412Z">
         <seg>不過，你也能下載字型作為列印使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can learn their basic concepts in ten minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063726Z" creationid="zerng07" creationdate="20171212T063007Z">
+        <seg>不過，你在十分鐘之內就能學好基本概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1248,8 @@
       <tuv lang="EN">
         <seg>If you decide to change the formatting, you have to go through the entire document, changing the design &lt;f0&gt;one place at a time.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T174215Z" creationid="zerng07" creationdate="20170824T174215Z">
-        <seg>突然間你決定要修改剛剛的格式設定，於是你從頭到尾，將整份文件一次又一次、一處又一處地&lt;f0&gt;把設計改了過來。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041401Z" creationid="zerng07" creationdate="20170824T174215Z">
+        <seg>突然間你決定要修改剛剛的格式設定，於是你從頭到尾，將整份文件一次又一次、一處又一處&lt;f0&gt;把設計改了過來。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1338,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131840Z" creationid="Jeff Huang" creationdate="20171111T131840Z">
         <seg>若為紙本，段落可以更長，但僅限於你需要有較長的額外論述時使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the same way, headings let you generate a &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents &lt;f2&gt;with a minimum of settings&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040611Z" creationid="zerng07" creationdate="20171212T040604Z">
+        <seg>同樣地，標題樣式能讓你&lt;f2&gt;幾乎不用什麼設定&lt;/f2&gt;就能做出文件目錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, headings are available for use &lt;f1&gt;the moment that&lt;/f1&gt; you set the styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040359Z" creationid="zerng07" creationdate="20171212T040359Z">
+        <seg>只要你一設定完標題樣式的&lt;f1&gt;當下&lt;/f1&gt;就完成了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,10 +1606,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Nor did they realize that a consistent general format can be part of corporate or personal branding.&lt;/f1&gt;</seg>
+        <seg>New chapters start on a right page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T091150Z" creationid="Franklin Weng" creationdate="20171212T091150Z">
-        <seg>他們也不瞭解，一貫的通用格式是企業或個人品牌識別的一部份。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034840Z" creationid="Jeff Huang" creationdate="20171212T034840Z">
+        <seg>新章節從右側頁面開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1624,8 @@
       <tuv lang="EN">
         <seg>Not only that, but many features are awkward to use &lt;f2&gt;when you format manually&lt;/f2&gt; – assuming you can use them at all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181303Z" creationid="zerng07" creationdate="20170824T175333Z">
-        <seg>更糟的是，還有很多實用功能在&lt;f2&gt;你採用手動格式設定之後便自毀長城&lt;/f2&gt; – 假如你會用這些功能的話。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T051003Z" creationid="zerng07" creationdate="20170824T175333Z">
+        <seg>更糟的是，還有很多實用功能在&lt;f2&gt;你採用手動格式設定之後便自毀長城&lt;/f2&gt;——假如你會用這些功能的話。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1530,6 +1658,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T150408Z" creationid="zerng07" creationdate="20170817T150351Z">
         <seg>噢，我們大概是有學過要怎麼用辦公軟體做事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have created your basic templates, the next time you start a document, you won’t have to think about formatting at all – &lt;f0&gt;instead, you can open the template and &lt;/f0&gt;start writing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060557Z" creationid="zerng07" creationdate="20171212T060539Z">
+        <seg>只要你製作好你的基礎範本，下次要做新文件時就不必再去想那些格式設定之類的瑣事——&lt;f0&gt;開啟範本&lt;/f0&gt;，接著開始輸入內容即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,34 +1726,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Other templates I have made over the years have seen less use.</seg>
+        <seg>Page numbering and different page numbering styles begin where you intended.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T091753Z" creationid="Franklin Weng" creationdate="20171212T091753Z">
-        <seg>這些年來我做的其他範本，使用率沒那麼高。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Over the years, I have heard users claim that templates are impractical because every document they do is different.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T090905Z" creationid="Franklin Weng" creationdate="20171212T090905Z">
-        <seg>這些年來，我總是不斷聽使用者說範本一點都不實用，因為他們做的每份文件都不一樣。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034720Z" creationid="Jeff Huang" creationdate="20171212T034720Z">
+        <seg>頁碼與不同頁面的編號樣式都按照你所設想的樣式開始。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
+        <seg>Page styles follow in the order that you intend.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T083044Z" creationid="Franklin Weng" creationdate="20171212T081902Z">
-        <seg>指引符可以幫你粗略地瞭解整份文件的設計，而不需要特定的資訊。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034628Z" creationid="Jeff Huang" creationdate="20171212T034628Z">
+        <seg>頁面樣式按照你所設想的方式進行。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Recycling &lt;f0&gt;using&lt;/f0&gt; templates</seg>
+        <seg>Paragraph styles for &lt;f0&gt;t&lt;/f0&gt;ables of &lt;f1&gt;c&lt;/f1&gt;ontent&lt;f2&gt;s&lt;/f2&gt; or &lt;f3&gt;i&lt;/f3&gt;ndexes, which you may have only &lt;f4&gt;created as a final step, are compatible with the rest of the design.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20171212T004231Z" creationid="franklin" creationdate="20171212T004231Z">
-        <seg>重複&lt;f0&gt;使用&lt;/f0&gt;範本</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T035919Z" creationid="Jeff Huang" creationdate="20171212T035919Z">
+        <seg>目錄或索引的樣式（你可能最後才會建立這些項目）與其他部份的設計相互融合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reality</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063556Z" creationid="zerng07" creationdate="20171212T062531Z">
+        <seg>現實世界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separate head&lt;f3&gt;er&lt;/f3&gt;s and footers for different pages are easier to maintain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040719Z" creationid="zerng07" creationdate="20171212T040719Z">
+        <seg>想為不同頁面設定不同的頁首和頁尾也變得很好維護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1858,54 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
         <seg>最後，一樣要強調《&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f0&gt;&lt;f1&gt;排版設計&lt;/f1&gt;&lt;/f0&gt;》一書不是&lt;f3&gt;要講抽象的設計概念，而是在探討&lt;/f3&gt;如何把日常作業做好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles are for anybody who wants to work efficiently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063746Z" creationid="zerng07" creationdate="20171212T063118Z">
+        <seg>樣式適合任何想要有效率完成工作的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles are for programmers, not ordinary users.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063033Z" creationid="zerng07" creationdate="20171212T063033Z">
+        <seg>樣式是給程式設計師用的，不適合一般使用者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles are hard to learn.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062854Z" creationid="zerng07" creationdate="20171212T062854Z">
+        <seg>樣式很硬派很難學。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles impose on users’ right to work the way they choose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062713Z" creationid="zerng07" creationdate="20171212T062713Z">
+        <seg>樣式強迫使用者放棄他們習慣的作業行為。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles represent a different way of thinking than manual formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063706Z" creationid="zerng07" creationdate="20171212T062935Z">
+        <seg>樣式呈現的是和手動格式設定不同的思維。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles require you to memorize their names.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063302Z" creationid="zerng07" creationdate="20171212T063302Z">
+        <seg>想用樣式得記住很多名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Try not to be confused by the fact that &lt;f0&gt;Page Preview does not display two-page spreads accurately.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T035319Z" creationid="Jeff Huang" creationdate="20171212T035319Z">
+        <seg>盡可能不要被&lt;f0&gt;頁面預覽並不能準確地顯示兩頁檢視&lt;/f0&gt;的事實混淆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twenty minutes before you leave for class, you re-read the professor's instructions and &lt;f0&gt;realize&lt;/f0&gt; that she on&lt;f1&gt;l&lt;/f1&gt;y accepts &lt;f2&gt;essays &lt;/f2&gt;in 12 point Times New Roman.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173913Z" creationid="zerng07" creationdate="20170930T173350Z">
@@ -2120,8 +2320,8 @@
       <tuv lang="EN">
         <seg>When you format manually, whenever you want to change the default formatting, you select part of the document – for example, a paragraph or a page – and then apply the formatting using the tool bars or one of the menus.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180956Z" creationid="zerng07" creationdate="20170824T161200Z">
-        <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字 – 例如：一個段落，或是一頁 – 然後使用工具列或選單套用格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041328Z" creationid="zerng07" creationdate="20170824T161200Z">
+        <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字——例如：一個段落，或是一頁——然後使用工具列或選單套用格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,10 +2390,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>You can develop equally detailed structural templates to automate your work.</seg>
+        <seg>You can give a uniform look to the frames around photos you add, set up a drop capital to mark the start of a new chapter, and automatically change page layouts, &lt;f4&gt;freeing yourself to &lt;/f4&gt;focus on &lt;f5&gt;content.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T081726Z" creationid="franklin" creationdate="20171212T005402Z">
-        <seg>你可以開發同樣詳細的結構範本來自動化你的工作。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062520Z" creationid="zerng07" creationdate="20171212T060230Z">
+        <seg>你還可以幫相片加個統一的外框、設定開章首字大寫、自動更改頁面的版面配置等等。設定樣式能讓你&lt;f4&gt;免除煩惱&lt;/f4&gt;，只要專注在&lt;f5&gt;內容&lt;/f5&gt;上就好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,10 +2414,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can work without styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062733Z" creationid="zerng07" creationdate="20171212T062733Z">
+        <seg>你不用樣式也一樣可以作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You don’t have to remember the details of the formatting, either – just the name of the style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152649Z" creationid="zerng07" creationdate="20170903T152643Z">
         <seg>你也不必記住格式設定的所有細節——唯一所需就是樣式名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You don’t need to memorize anything.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063933Z" creationid="zerng07" creationdate="20171212T063316Z">
+        <seg>你不必記住任何名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2450,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180732Z" creationid="zerng07" creationdate="20170824T065041Z">
         <seg>在&lt;f0&gt;LibreOffice&lt;/f0&gt;下你有兩種設計文件的方法：手動格式設定、和樣式套用兩種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You just need to read from the lists of styles in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T064039Z" creationid="zerng07" creationdate="20171212T063400Z">
+        <seg>你只要能閱讀LibreOffice提供的樣式列表就可以。</seg>
       </tuv>
     </tu>
     <tu>
