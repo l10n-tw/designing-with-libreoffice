@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Only one template can be applied at one time to a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114907Z" creationid="Franklin Weng" creationdate="20171212T114907Z">
+        <seg>&lt;f0&gt;一份範本一次只能套用到一份文件上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;OpenOffice?&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183045Z" creationid="zerng07" creationdate="20170817T175243Z">
@@ -2410,6 +2418,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T094557Z" creationid="zerng07" creationdate="20170817T094219Z">
         <seg>何處可取得自由授權的字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whichever template you use, it &lt;f0&gt;must be properly registered before you can use it.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114845Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
+        <seg>不管你用哪一份範本，都要&lt;f0&gt;先將範本註冊完成才能開始使用。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
