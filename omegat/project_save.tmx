@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The Template Manager opens from several places in the menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130038Z" creationid="Franklin Weng" creationdate="20171212T130038Z">
+        <seg>&lt;f0&gt;「範本」視窗可以從選單中幾個不同的地方開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The advantage of styles is that y&lt;/f0&gt;ou design &lt;f1&gt;everything&lt;/f1&gt; once.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152331Z" creationid="zerng07" creationdate="20170903T145416Z">
@@ -2038,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; New &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Depending on the version and operating system, it may also open from:&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130133Z" creationid="Franklin Weng" creationdate="20171212T130133Z">
+        <seg>其中一個是&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案」&gt;「新增」&gt;「範本」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;。&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;而根據不同的作業系統以及軟體版本，它也可以從這些地方開啟：&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One more point: LibreOffice automatically names headings, images, and other elements &lt;f0&gt;with&lt;/f0&gt; unimaginative names like&lt;f1&gt; Heading 1&lt;/f1&gt; or &lt;f2&gt;Table11.&lt;/f2&gt; A counsel of perfection would be to give each element a distinctive name to help &lt;f3&gt;clarify&lt;/f3&gt; the structure of the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T072728Z" creationid="Jeff Huang" creationdate="20171123T072728Z">
@@ -2394,6 +2410,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T080926Z" creationid="Jeff Huang" creationdate="20171123T080926Z">
         <seg>&lt;f0&gt;如果你的文件有標題或是具描述性名稱的物件，那麼助手是個重構文件的實用工具。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Template Manager&lt;f0&gt;, &lt;/f0&gt;showing sub-folders for different categories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130015Z" creationid="Franklin Weng" creationdate="20171212T130015Z">
+        <seg>在「範本」視窗中顯示不同類別的子資料夾。</seg>
       </tuv>
     </tu>
     <tu>
