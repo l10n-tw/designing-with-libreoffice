@@ -7,7 +7,7 @@
 * GitHub 協作
 
 ### OmegaT 用法
-參見 https://libreo-zht.blogspot.tw/2015/04/omegat-libreoffice.html
+參見 https://libreo-zht.blogspot.tw/2017/12/omegat-4-github-designing-with.html
 
 ## 協作方式
 1. 開 Issue 認養章節
