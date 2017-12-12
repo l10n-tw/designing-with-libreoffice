@@ -1942,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most aspects of styles can be fine-tuned, toggled on or off, or ignored until you need them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141627Z" creationid="zerng07" creationdate="20171212T141627Z">
+        <seg>樣式的大多數層面設定都可以微調、或開或關，或是在你需要用到之前先行忽略也都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most must be exported &lt;f0&gt;via the free-licensed font editor Fontforge &lt;/f0&gt;to a usable format .</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T144224Z" creationid="zerng07" creationdate="20170817T142704Z">
@@ -2050,6 +2058,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T080111Z" creationid="Jeff Huang" creationdate="20171123T080111Z">
         <seg>在多數情況下，這些關鍵元素應該是標題，因為它們在其他地方也很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, you can just accept the defaults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141456Z" creationid="zerng07" creationdate="20171212T141456Z">
+        <seg>通常，你可以直接採用預設值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062854Z" creationid="zerng07" creationdate="20171212T062854Z">
         <seg>樣式很硬派很難學。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles are limiting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141514Z" creationid="zerng07" creationdate="20171212T141514Z">
+        <seg>樣式綁手綁腳。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +3010,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062733Z" creationid="zerng07" creationdate="20171212T062733Z">
         <seg>你不用樣式也一樣可以作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can’t change what’s built into them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141529Z" creationid="zerng07" creationdate="20171212T141529Z">
+        <seg>你無法更改樣式的細節層面。</seg>
       </tuv>
     </tu>
     <tu>
