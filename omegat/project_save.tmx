@@ -1926,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice also &lt;f2&gt;c&lt;/f2&gt;hecks some grammar &lt;f3&gt;and layout, such as enforcing one space after a period instead of two.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030518Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
+        <seg>LibreOffice 也會件查部份文法與&lt;f3&gt;版本設計，如英文句號後應留一個而非兩個空格。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has versions for Linux, OS X, and Windows.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092542Z" creationid="zerng07" creationdate="20170817T092542Z">
