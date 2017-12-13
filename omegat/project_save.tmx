@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;As you spell check, make a note of your regular typos, and use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to help you correct every instance of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031241Z" creationid="Jeff Huang" creationdate="20171213T031241Z">
+        <seg>&lt;f0&gt;在拼寫檢查時，記下你的每個常見錯誤，並使用 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯→尋找與取代&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來協助你更正每個錯誤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Both clones and originals help you work without using proprietary fonts.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140559Z" creationid="zerng07" creationdate="20170817T100905Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
         <seg>其首頁有一份最近上傳字型的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Never think, though, that you have caught all the problems when you have run it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030923Z" creationid="Jeff Huang" creationdate="20171213T030923Z">
+        <seg>&lt;f1&gt;雖然如此，但並不是執行它就可以找出你所有的錯誤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2514,6 +2530,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140424Z" creationid="zerng07" creationdate="20171212T140424Z">
         <seg>有時候，這些想法成為合理化不去用樣式的藉口，但通常都只是誤解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell checking should always be followed by at least one manual check.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031055Z" creationid="Jeff Huang" creationdate="20171213T031055Z">
+        <seg>拼寫檢查後務必再手動檢查一次。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
