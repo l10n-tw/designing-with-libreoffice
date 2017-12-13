@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The Template Manager is divided into tabs for different types of templates: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Documents, Spreadsheets, Presentations,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Drawings.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Within each tab, sub-folders of the templates are shown as rectangles, and referred to as “categories.” &lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T122903Z" creationid="Franklin Weng" creationdate="20171213T122903Z">
+        <seg>&lt;f0&gt;範本視窗中的「篩選器」可以選擇不同型態的範本：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文件、試算表、簡報&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;與&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;繪圖。&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;選擇不同的型態後，右方可以再依分類來篩選。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The Template Manager opens from several places in the menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130038Z" creationid="Franklin Weng" creationdate="20171212T130038Z">
@@ -1512,8 +1520,8 @@
       <tuv lang="EN">
         <seg>For example, in Linux when you save from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TemplateMenu,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T122208Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
-        <seg>例如，在 Linux 中For example, in Linux when you save from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TemplateMenu,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T122618Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
+        <seg>For example, in Linux when you save from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TemplateMenu,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
