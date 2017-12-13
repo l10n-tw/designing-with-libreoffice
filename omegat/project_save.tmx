@@ -848,8 +848,8 @@
       <tuv lang="EN">
         <seg>Adjusting hyphenation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024348Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
-        <seg>調整連字</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025428Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
+        <seg>調整斷字</seg>
       </tuv>
     </tu>
     <tu>
@@ -1096,8 +1096,8 @@
       <tuv lang="EN">
         <seg>But by the time you are finished editing and making changes, this on-the-fly hyphenation can be far from the best job that LibreOffice can do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024707Z" creationid="Jeff Huang" creationdate="20171213T024707Z">
-        <seg>但在你完成編輯與修改後，此時的動態連字可能遠不及 LibreOffice 能做到的最好狀態。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025444Z" creationid="Jeff Huang" creationdate="20171213T024707Z">
+        <seg>但在你完成編輯與修改後，此時的動態斷字可能遠不及 LibreOffice 能做到的最好狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="EN">
         <seg>If you &lt;f0&gt;decide&lt;/f0&gt; to hyphenate the body text, LibreOffice does &lt;f1&gt;the &lt;/f1&gt;best it can while you work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024503Z" creationid="Jeff Huang" creationdate="20171213T024503Z">
-        <seg>若你&lt;f0&gt;決定&lt;/f0&gt;在文本中連字，LibreOffice會在你寫作時盡其所能。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025434Z" creationid="Jeff Huang" creationdate="20171213T024503Z">
+        <seg>若你&lt;f0&gt;決定&lt;/f0&gt;在文本中斷字，LibreOffice會在你寫作時盡其所能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running the hyphenation tool will add hyphens, even if none of your styles are set to use hyphens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025421Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
+        <seg>即便你的樣式並未設定使用斷字，執行斷字工具仍會新增斷字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Separate head&lt;f3&gt;er&lt;/f3&gt;s and footers for different pages are easier to maintain.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040719Z" creationid="zerng07" creationdate="20171212T040719Z">
@@ -2354,6 +2362,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145114Z" creationid="zerng07" creationdate="20170822T144948Z">
         <seg>一樣，書裡這些針對Linux系統而寫的內容也多能套用到&lt;f3&gt;OS X&lt;/f3&gt;和Windows系統上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip this step if you want to avoid all hyphenation &lt;f0&gt;and keep a ragged right margin.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025813Z" creationid="Jeff Huang" creationdate="20171213T025813Z">
+        <seg>若你想要避免所有的斷字&lt;f0&gt;並保留不合理的右邊距&lt;/f0&gt;的話請略過此步驟。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
