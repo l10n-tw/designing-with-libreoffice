@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Begin your &lt;f0&gt;planning&lt;/f0&gt; by considering what your general layout will be.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123716Z" creationid="Franklin Weng" creationdate="20171213T123716Z">
+        <seg>先好好&lt;f0&gt;規劃&lt;/f0&gt;你經常使用到的版型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
@@ -1734,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If so, &lt;f1&gt;begin by creating&lt;/f1&gt; the colors in &lt;f2&gt;Tools &gt; Options &gt; Colors&lt;/f2&gt; so they are available for uses such as table borders and headings in color documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124015Z" creationid="Franklin Weng" creationdate="20171213T124015Z">
+        <seg>如果有，&lt;f1&gt;那麼從&lt;/f1&gt;&lt;f2&gt;「工具」&gt;「選項」&gt;「應用程式色彩」&lt;/f2&gt;中選擇企業代表色，這樣表格的邊框與標頭等就可以使用該顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If so, don't worry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100648Z" creationid="Franklin Weng" creationdate="20171212T100648Z">
@@ -1858,6 +1874,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101809Z" creationid="zerng07" creationdate="20170817T101809Z">
         <seg>如果你採用的是 GNU/Linux 作業系統，有些自由字型可以直接從你散布版所提供的軟體庫安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you work for a company, does it have corporate colors that you will constantly use?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123755Z" creationid="Franklin Weng" creationdate="20171213T123755Z">
+        <seg>如果你是製作公司用的文件，裡面有沒有你會用到的企業代表色？</seg>
       </tuv>
     </tu>
     <tu>
