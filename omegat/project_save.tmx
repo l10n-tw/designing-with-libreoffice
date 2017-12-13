@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, instead of &lt;f0&gt;letter.ott,&lt;/f0&gt; call your template &lt;f1&gt;personal-letter&lt;/f1&gt; – or, better yet, something &lt;f2&gt;long and exact &lt;/f2&gt;like &lt;f3&gt;personal-letter-&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;formal-structure&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt; &lt;s7/&gt;&lt;f8&gt;The more specific the template’s name, the easier it will be to find when you want it.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133143Z" creationid="Franklin Weng" creationdate="20171213T133143Z">
+        <seg>例如，與其將範本命名為&lt;f0&gt;letter.ott&lt;/f0&gt;，不如改為&lt;f1&gt;personal-letter&lt;/f1&gt; – 或是更好的做法是，&lt;f2&gt;長而精準&lt;/f2&gt;的名稱，像是&lt;f3&gt;personal-letter-&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;formal-structure&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;等等。&lt;/f6&gt; &lt;s7/&gt;&lt;f8&gt;範本名稱越精準，對你來說也越容易找到。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free-licensed fonts are available under the &lt;f0&gt;SIL&lt;/f0&gt; Open Font License &lt;f1&gt;(OFL)&lt;/f1&gt; or the &lt;f2&gt;GNU&lt;/f2&gt; General Public License &lt;f3&gt;&lt;f4&gt;(GPL)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;with font exception.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T185140Z" creationid="zerng07" creationdate="20170817T101050Z">
@@ -1854,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If that happens, your document will not be seen how you meant it to be seen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132924Z" creationid="Franklin Weng" creationdate="20171213T132924Z">
+        <seg>發生這種狀況的話，你可能就無法照想要的方式看到你的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the template changes, the next time &lt;f0&gt;you restart LibreOffice and open the document&lt;/f0&gt;, you are prompted to update the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115341Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
@@ -1946,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T191909Z" creationid="zerng07" creationdate="20170822T183704Z">
         <seg>若你驚覺在茫茫自由字型海中遺失方向，The League 將是你可依靠的明燈，高品質、而且通常都具備小型大寫字和舊式數字樣式。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you forgot to make a copy, you could have a lot of re-formatting to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132956Z" creationid="Franklin Weng" creationdate="20171213T132956Z">
+        <seg>而如果你又剛好忘了做備放，那就得整個排版格式重新來過了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3234,6 +3258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T173216Z" creationid="zerng07" creationdate="20170817T173216Z">
         <seg>祕訣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid such problems, make your template names as specific as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133013Z" creationid="Franklin Weng" creationdate="20171213T133013Z">
+        <seg>為了避免這些問題發生，範本名稱越精確越好。</seg>
       </tuv>
     </tu>
     <tu>
