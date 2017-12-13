@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some versions of LibreOffice include spelling dictionaries, but not hyphenation dictionaries, so you may have to download and install a hyphenation dictionary before you run a check.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025228Z" creationid="Jeff Huang" creationdate="20171213T025228Z">
+        <seg>某些版本的 LibreOffice 包含了拼字檢查用的字典，但沒有斷字用的字典，所以你可能需要在開始檢查前下載並安裝斷字字典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some writers believe that “a writer’s best friend is the waste basket” and delete anything they are too proud of because they cannot be objective about it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T134449Z" creationid="Jeff Huang" creationdate="20171111T134449Z">
@@ -3186,6 +3194,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T031843Z" creationid="Jeff Huang" creationdate="20171111T031843Z">
         <seg>你可能需要大聲朗讀它、將它印出來閱讀或是就把它丟著幾天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need a separate hyphenation dictionary for each language or locale in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025322Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
+        <seg>文件中的每個語言或語系都需要單獨的斷字字典。</seg>
       </tuv>
     </tu>
     <tu>
