@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjusting hyphenation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024348Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
+        <seg>調整連字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Al&lt;f0&gt;w&lt;/f0&gt;ays keep documents connected to their templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120609Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
@@ -1610,6 +1618,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115712Z" creationid="Franklin Weng" creationdate="20171212T115712Z">
         <seg>如果你&lt;f0&gt;選擇&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;更新&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;f5&gt;樣式&lt;/f5&gt;&lt;/f4&gt;&lt;/f3&gt;，那文件則會持續與範本連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you &lt;f0&gt;decide&lt;/f0&gt; to hyphenate the body text, LibreOffice does &lt;f1&gt;the &lt;/f1&gt;best it can while you work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024503Z" creationid="Jeff Huang" creationdate="20171213T024503Z">
+        <seg>若你&lt;f0&gt;決定&lt;/f0&gt;在文本中連字，LibreOffice會在你寫作時盡其所能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2810,6 +2826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140916Z" creationid="zerng07" creationdate="20170817T133551Z">
         <seg>常有更新，所以可以常去查看是否已有的字型發行新版了沒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Navigator so that you go through the objects systematically, and you can recognize departures from the formatting conventions you have set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024300Z" creationid="Jeff Huang" creationdate="20171213T024300Z">
+        <seg>使用助手以有條不紊地瀏覽物件，並找出與你料想中格式的不同。</seg>
       </tuv>
     </tu>
     <tu>
