@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checking the spelling</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030010Z" creationid="Jeff Huang" creationdate="20171213T030010Z">
+        <seg>檢查拼字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider alternatives so that they do not become too noticeable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133931Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
@@ -2294,6 +2302,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Putting &lt;f0&gt;everything&lt;/f0&gt; together</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025952Z" creationid="Jeff Huang" creationdate="20171213T025952Z">
+        <seg>整合&lt;f0&gt;一切&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Putting everything together</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025933Z" creationid="Jeff Huang" creationdate="20171213T025933Z">
+        <seg>整合一切</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re-at&lt;f0&gt;t&lt;/f0&gt;aching styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124219Z" creationid="Franklin Weng" creationdate="20171212T121339Z">
@@ -2314,6 +2338,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100159Z" creationid="Franklin Weng" creationdate="20171212T100159Z">
         <seg>重複&lt;f0&gt;利用&lt;/f0&gt;範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run the spell check in the &lt;f0&gt;Tools&lt;/f0&gt; menu for each language used in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030137Z" creationid="Jeff Huang" creationdate="20171213T030137Z">
+        <seg>在&lt;f0&gt;工具&lt;/f0&gt;選單中為所有在文件中使用的語言執行拼字檢查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,6 +3130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
         <seg>你可以&lt;f0&gt;幾乎&lt;/f0&gt;省去按 Tab 鍵縮排的需求，尤其是新段落的開頭空格，因為你可以設定出能自動為你縮排的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can check the languages by looking at the &lt;f1&gt;Fonts&lt;/f1&gt; tab of all your paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030404Z" creationid="Jeff Huang" creationdate="20171213T030404Z">
+        <seg>你可以透過檢視你的所有段落樣式的&lt;f1&gt;字型&lt;/f1&gt;分頁來檢查語言。</seg>
       </tuv>
     </tu>
     <tu>
