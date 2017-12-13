@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123056Z" creationid="Franklin Weng" creationdate="20171213T123056Z">
+        <seg>&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
@@ -1318,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on these rectangles to zoom in on the available templates and select from them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123130Z" creationid="Franklin Weng" creationdate="20171213T123130Z">
+        <seg>Click on these rectangles to zoom in on the available templates and select from them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider alternatives so that they do not become too noticeable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133931Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
@@ -2342,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenOffice’s Template Manager &lt;f0&gt;and versions of LibreOffice before 3.3 have an older design that is functionally equivalent.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123131Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
+        <seg>OpenOffice’s Template Manager &lt;f0&gt;and versions of LibreOffice before 3.3 have an older design that is functionally equivalent.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or, as I like to joke: the wrong way and the right way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180636Z" creationid="zerng07" creationdate="20170824T065240Z">
@@ -2362,6 +2386,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101454Z" creationid="zerng07" creationdate="20170817T101317Z">
         <seg>也有採用其他授權的，但多數這類字型的授權條款都未經自由軟體基金會 (Free Software Foundation, FSF) 或開源協會 (Open Source Initiative, OSI) 評估過，使用時應謹慎注意條款的詳細內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other options might be sub-folders named for a client or project or specific themes, such as light or dark backgrounds – whatever works best for you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123128Z" creationid="Franklin Weng" creationdate="20171213T123128Z">
+        <seg>Other options might be sub-folders named for a client or project or specific themes, such as light or dark backgrounds – whatever works best for you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,6 +2474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100629Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
         <seg>這些指引符可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Planning a &lt;f0&gt;t&lt;/f0&gt;emplate &lt;f1&gt;l&lt;/f1&gt;ibrary</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123224Z" creationid="Franklin Weng" creationdate="20171213T123224Z">
+        <seg>規劃範本庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,6 +3266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T094557Z" creationid="zerng07" creationdate="20170817T094219Z">
         <seg>何處可取得自由授權的字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether you create &lt;f0&gt;or download &lt;/f0&gt;your templates, start by assessing the types of documents you create regularly.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Although you might be tempted to download or design every template available, installing or designing more templates than you &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;generally need will only make finding the ones you actually use harder.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123642Z" creationid="Franklin Weng" creationdate="20171213T123642Z">
+        <seg>不管你是建立&lt;f0&gt;或下載&lt;/f0&gt;範本，最好都從評估你經常建立的文件型態開始。&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;雖然你可能會很想下載或設計每一種用得到的範本，不過&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;安裝或設計一堆你不常用到的範本，只會讓你更難找出你實際常用到的範本。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
