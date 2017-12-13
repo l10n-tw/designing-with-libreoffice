@@ -2318,6 +2318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running the Hyphenation Tool fine-tunes the hyphenation created in a work in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025921Z" creationid="Jeff Huang" creationdate="20171213T025921Z">
+        <seg>執行斷字工具可以微調仍在寫作時所建立的斷字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running the hyphenation tool will add hyphens, even if none of your styles are set to use hyphens.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025421Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
