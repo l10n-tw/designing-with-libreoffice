@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Check, too,&lt;/f0&gt; that formatting such as the structure of captions and the space above and below objects is consistent throughout.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T023950Z" creationid="Jeff Huang" creationdate="20171213T023950Z">
+        <seg>&lt;f0&gt;還要檢查&lt;/f0&gt;標題結構與物件的上下空間是否一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Describing itself as “&lt;/f0&gt;the first ever open-source &lt;f1&gt;type&lt;/f1&gt; foundry,” &lt;f2&gt;The League of Moveable Type offers a small but select library of original font designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T133043Z" creationid="zerng07" creationdate="20170817T133625Z">
@@ -1430,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graphics, tables, charts, and other objects should be positioned as closely as possible to the text to which they refer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T023745Z" creationid="Jeff Huang" creationdate="20171213T023745Z">
+        <seg>圖片、表格、圖表與其他文件應該要盡可能地置於它們所參考的文字旁邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>His work includes three fonts based on the designs of Frederick Goudy, as well as Fanwood, an understated font which closely resembles Eric Gill’s Joanna.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140821Z" creationid="zerng07" creationdate="20170817T105206Z">
@@ -2226,6 +2242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100629Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
         <seg>這些指引符可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Positioning &lt;f0&gt;objects&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T023518Z" creationid="Jeff Huang" creationdate="20171213T023518Z">
+        <seg>&lt;f0&gt;物件&lt;/f0&gt;定位</seg>
       </tuv>
     </tu>
     <tu>
