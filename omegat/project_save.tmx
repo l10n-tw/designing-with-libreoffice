@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Readying&lt;/f0&gt; templates &lt;f1&gt;for use&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133202Z" creationid="Franklin Weng" creationdate="20171213T133202Z">
+        <seg>&lt;f0&gt;準備好&lt;/f0&gt;&lt;f1&gt;使用&lt;/f1&gt;範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;ince then, I have used &lt;f1&gt;that&lt;/f1&gt; all-purpose template for hundreds of documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100944Z" creationid="Franklin Weng" creationdate="20171212T100944Z">
@@ -1430,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating your own templates using LibreOffice’s wizards as a guide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133323Z" creationid="Franklin Weng" creationdate="20171213T133323Z">
+        <seg>用 LibreOffice 的精靈來建立你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Debunking myths about styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140333Z" creationid="zerng07" creationdate="20171212T140333Z">
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092453Z" creationid="zerng07" creationdate="20170817T092453Z">
         <seg>LibreOffice 排版設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designing your own templates from scratch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133331Z" creationid="Franklin Weng" creationdate="20171213T133331Z">
+        <seg>從頭設計你自己的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092504Z" creationid="zerng07" creationdate="20170817T092504Z">
         <seg>下載 LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading and installing templates made by others, &lt;f0&gt;perhaps with minor modifications.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133307Z" creationid="Franklin Weng" creationdate="20171213T133307Z">
+        <seg>下載並安裝其他人建立的範本。&lt;f0&gt;可能會需要做一些修改。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2526,6 +2558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have figured which templates you need, you can get the templates you need in &lt;f0&gt;several &lt;/f0&gt;ways:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133242Z" creationid="Franklin Weng" creationdate="20171213T133242Z">
+        <seg>當你確定你需要哪一類的範本後，有&lt;f0&gt;幾種&lt;/f0&gt;方式可以取得：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; New &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Depending on the version and operating system, it may also open from:&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130133Z" creationid="Franklin Weng" creationdate="20171212T130133Z">
@@ -2738,6 +2778,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031751Z" creationid="Jeff Huang" creationdate="20171213T031751Z">
         <seg>將縮放比例減少至75%或更小，並檢視頁面在何處完結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regardless of how you obtain templates, they must be registered before LibreOffice can take full advantage of them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133402Z" creationid="Franklin Weng" creationdate="20171213T133402Z">
+        <seg>不管用哪一種方式，要使用範本前都要先在 LibreOffice 中註冊。</seg>
       </tuv>
     </tu>
     <tu>
