@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you do see problems, consider repeating the final editing process.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064507Z" creationid="Jeff Huang" creationdate="20171214T064507Z">
+        <seg>&lt;f0&gt;如果你還是看到許多問題，請再次執行最後的編輯程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In other words, they occupy the same vertical and horizontal space, although they may otherwise be designed differently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135711Z" creationid="zerng07" creationdate="20170817T135446Z">
@@ -1158,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At this point, you should see very few problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064324Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
+        <seg>這時候你應該看到問題不多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barry Schwartz is one of the outstanding designers of free-licensed body text fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105322Z" creationid="zerng07" creationdate="20170817T104314Z">
@@ -1584,8 +1600,8 @@
       <tuv lang="EN">
         <seg>Either print out a copy or use &lt;f0&gt;File &gt; Print Preview.&lt;/f0&gt; &lt;f1&gt;Better still, do both.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034216Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
-        <seg>印出來或是使用 &lt;f0&gt;檔案 → 預覽列印。&lt;/f0&gt; &lt;f1&gt;當然最好的狀況是兩個動作都做。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064227Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
+        <seg>印出來或是使用 &lt;f0&gt;檔案 → 列印預覽。&lt;/f0&gt; &lt;f1&gt;當然最好的狀況是兩個動作都做。</seg>
       </tuv>
     </tu>
     <tu>
