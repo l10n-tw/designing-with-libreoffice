@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master documents can paginate differently from a stand-alone sub-document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060243Z" creationid="Jeff Huang" creationdate="20171214T060243Z">
+        <seg>主控文件與獨立的子文件的頁數可能不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More formal documents will probably have an opening paragraph or passage that sets up the topic and gives a little background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T065848Z" creationid="Jeff Huang" creationdate="20171123T065848Z">
@@ -3666,6 +3674,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062520Z" creationid="zerng07" creationdate="20171212T060230Z">
         <seg>你還可以幫相片加個統一的外框、設定開章首字大寫、自動更改頁面的版面配置等等。設定樣式能讓你&lt;f4&gt;免除煩惱&lt;/f4&gt;，只要專注在&lt;f5&gt;內容&lt;/f5&gt;上就好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can sometimes see this problem by printing a range of pages to &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt; first from the sub-document and then from the master document, and comparing the page breaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060620Z" creationid="Jeff Huang" creationdate="20171214T060620Z">
+        <seg>有時候可以透過先從子文件列印某一範圍的頁面成 &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt;，再從主控文件做一樣的事情，並比較其分頁。</seg>
       </tuv>
     </tu>
     <tu>
