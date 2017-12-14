@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This discrepancy can cause the page break to change between the sub-document and the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061812Z" creationid="Jeff Huang" creationdate="20171214T061812Z">
+        <seg>這種狀況可能會導致子文件與主控文件分頁的不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This exercise can show you the value of choosing accurate headings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T070800Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
