@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Th&lt;f5&gt;ese &lt;/f5&gt;borders do not print, but to view the tables properly, &lt;f6&gt;un&lt;/f6&gt;check &lt;f7&gt;Table Boundaries&lt;/f7&gt; on the right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065322Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
+        <seg>&lt;f5&gt;這些&lt;/f5&gt;框線並不會被印出來，但若要檢示表格該有的樣子，請從右鍵選單中&lt;f6&gt;取消勾選&lt;/f6&gt;&lt;f7&gt;表格框線&lt;/f7&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That is especially true of LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T154256Z" creationid="zerng07" creationdate="20170817T154256Z">
