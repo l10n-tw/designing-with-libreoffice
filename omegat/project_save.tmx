@@ -1838,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you have already done so several times, ask yourself at some point if you are tinkering in the hope of an impossible perfection.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064615Z" creationid="Jeff Huang" creationdate="20171214T064615Z">
+        <seg>不過，如果你已經執行很多次了，請想想自己是否正追求不可能的完美。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, in practice, such people are rare.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T030749Z" creationid="Jeff Huang" creationdate="20171111T030749Z">
@@ -2122,6 +2130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125306Z" creationid="Franklin Weng" creationdate="20171212T125306Z">
         <seg>Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;some releases of &lt;/f0&gt;LibreOffice, &lt;f1&gt;P&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;rint&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Preview&lt;/f4&gt; shows the borders around a table even if you have turned them off entirely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065118Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
+        <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice，即便你已經將框線完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示表格框線。</seg>
       </tuv>
     </tu>
     <tu>
