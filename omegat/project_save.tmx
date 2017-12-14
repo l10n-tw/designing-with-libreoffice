@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have cross-references between two sub-documents, the target sub-document shows the message “Error: Reference not found” when you open the sub-document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061038Z" creationid="Jeff Huang" creationdate="20171214T061038Z">
+        <seg>如果你在兩份子文件間有交叉參照的話，當你開啟子文件時，目標子文件就會顯示「錯誤：找不到參照」訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have trouble reading the passage, or a listen&lt;f1&gt;er&lt;/f1&gt; has trouble understanding it, you may want to reword or shorten sentences.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T132919Z" creationid="Jeff Huang" creationdate="20171111T132919Z">
