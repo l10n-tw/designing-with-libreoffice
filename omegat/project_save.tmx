@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cross-reference only displays correctly from the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
+        <seg>交叉參照只能在主控文件中正確顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The features that produce these characteristics should be noticeable only to &lt;f2&gt;eyes&lt;/f2&gt; trained to be alert for them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
@@ -3554,6 +3562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041328Z" creationid="zerng07" creationdate="20170824T161200Z">
         <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字——例如：一個段落，或是一頁——然後使用工具列或選單套用格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have a cross-reference between two sub-documents, the error message in the target sub-document can be much longer than the cross-reference in the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061504Z" creationid="Jeff Huang" creationdate="20171214T061504Z">
+        <seg>當你在兩份子文件間有交叉參照時，目標子文件中的錯誤訊息可能會比主控文件中的交叉參照還長。</seg>
       </tuv>
     </tu>
     <tu>
