@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Problems with&lt;/f0&gt; &lt;f1&gt;m&lt;/f1&gt;aster &lt;f2&gt;d&lt;/f2&gt;ocuments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060000Z" creationid="Jeff Huang" creationdate="20171214T060000Z">
+        <seg>主控文件的&lt;f0&gt;問題&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Readying&lt;/f0&gt; templates &lt;f1&gt;for use&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133202Z" creationid="Franklin Weng" creationdate="20171213T133202Z">
@@ -2118,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the most recent versions of LibreOffice, master documents present some problems:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060115Z" creationid="Jeff Huang" creationdate="20171214T060115Z">
+        <seg>在新版的 LibreOffice 中，主控文件有一些問題：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the same way, headings let you generate a &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents &lt;f2&gt;with a minimum of settings&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040611Z" creationid="zerng07" creationdate="20171212T040604Z">
@@ -3154,6 +3170,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T071334Z" creationid="Jeff Huang" creationdate="20171123T071334Z">
         <seg>文件的標題愈能準確地反映其內容，你就愈容易看出段落順序該如何安排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The more manual changes you make, the more you are likely to require in the next editions of the document.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T055914Z" creationid="Jeff Huang" creationdate="20171214T055914Z">
+        <seg>手動修改的地方越多，你就越有可能需要新版的文件。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
