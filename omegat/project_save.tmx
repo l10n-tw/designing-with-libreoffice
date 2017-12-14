@@ -1822,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, at this point, your work is ended and so is this book (or very nearly).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T070033Z" creationid="Jeff Huang" creationdate="20171214T070033Z">
+        <seg>不過此刻你的作品應該已經完成，這本書也是（或至少很接近了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, be aware that some extensions may not be kept updated and may &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;not always work with the latest release.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193137Z" creationid="zerng07" creationdate="20170817T171437Z">
@@ -3968,8 +3976,8 @@
       <tuv lang="EN">
         <seg>designing-with-libreoffice</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100131Z" creationid="Franklin Weng" creationdate="20171212T100131Z">
-        <seg>designing-with-libreoffice</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T070134Z" creationid="Franklin Weng" creationdate="20171212T100131Z">
+        <seg>LibreOffice 排版設計</seg>
       </tuv>
     </tu>
     <tu>
