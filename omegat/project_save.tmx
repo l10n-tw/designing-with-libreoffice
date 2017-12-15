@@ -1023,6 +1023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Almost all the templates that you find online are released under free licenses, so you can generally &lt;f0&gt;modify them&lt;/f0&gt; &lt;f1&gt;freely.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T120138Z" creationid="Franklin Weng" creationdate="20171215T120138Z">
+        <seg>你在網路上找得到的範本幾乎都是自由授權，因此&lt;f0&gt;可以&lt;f1&gt;放心&lt;/f1&gt;修改&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, use a master document when it is convenient in long documents or in group projects, and copy &lt;t0/&gt;and paste a single long document at the very end of your final editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T062223Z" creationid="Jeff Huang" creationdate="20171214T062223Z">
@@ -3267,6 +3275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
         <seg>交叉參照只能在主控文件中正確顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The disadvantage &lt;f0&gt;of using others’ templates&lt;/f0&gt; is that you have to sort through &lt;f1&gt;them&lt;/f1&gt; to find what you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T121523Z" creationid="Franklin Weng" creationdate="20171215T121523Z">
+        <seg>不過&lt;f0&gt;使用其他人製作的範本&lt;/f0&gt;的缺點是你要先&lt;f1&gt;理清&lt;/f1&gt;整份範本去找出你要的部份。</seg>
       </tuv>
     </tu>
     <tu>
