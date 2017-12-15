@@ -525,6 +525,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>分節 3720：頁數到時候要修正。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Saving and registering templates&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;15&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T115854Z" creationid="Franklin Weng" creationdate="20171215T115854Z">
+        <seg>&lt;f0&gt;這部份可以參考&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;「儲存與註冊範本」&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;，在第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;15&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Templates&lt;/f1&gt; link on the introductory splash screen.</seg>
       </tuv>
@@ -1590,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T115900Z" creationid="Franklin Weng" creationdate="20171215T115900Z">
+        <seg>下載範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
@@ -2106,6 +2123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183607Z" creationid="zerng07" creationdate="20170817T173556Z">
         <seg>如果你所需要的相關功能資訊或選項在本書中沒有提及，請參見LibreOffice文件網頁：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer not to design your templates from scratch, you can &lt;f0&gt;use pre-existing&lt;/f0&gt; templates instead, modifying them as necessary.&lt;f1&gt; Appendix A lists some of the larger sites for templates.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T120040Z" creationid="Franklin Weng" creationdate="20171215T120040Z">
+        <seg>如果你不想從頭設計範本，你可以改用&lt;f0&gt;現有的&lt;/f0&gt;範本來修改。&lt;f1&gt;附錄 A 裡有列出一些包含許多範本的網站。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
