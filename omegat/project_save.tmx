@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Presentation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; template is particularly useful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134429Z" creationid="Franklin Weng" creationdate="20171215T134429Z">
+        <seg>&lt;f0&gt;對&lt;f1&gt;&lt;f2&gt;投影片&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;範本來說尤其有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The Template Manager is divided into tabs for different types of templates: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Documents, Spreadsheets, Presentations,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Drawings.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Within each tab, sub-folders of the templates are shown as rectangles, and referred to as “categories.” &lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T122903Z" creationid="Franklin Weng" creationdate="20171213T122903Z">
@@ -2395,6 +2403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T165423Z" creationid="zerng07" creationdate="20170817T151207Z">
         <seg>這好比說&lt;f0&gt;雖然&lt;/f0&gt;我們剛學會怎麼讓汽車順著下坡，還有&lt;f1&gt;在平地四處晃&lt;/f1&gt;，但卻都還沒學過怎樣發動引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is designed as a wizard to guide you through the basic formatting and structural decisions for building a slide show.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134443Z" creationid="Franklin Weng" creationdate="20171215T134443Z">
+        <seg>It is designed as a wizard to guide you through the basic formatting and structural decisions for building a slide show.</seg>
       </tuv>
     </tu>
     <tu>
