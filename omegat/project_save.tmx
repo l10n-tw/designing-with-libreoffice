@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Another&lt;/f0&gt; problem with these official sites is that each template must be downloaded and installed separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124243Z" creationid="Franklin Weng" creationdate="20171215T124243Z">
+        <seg>這些網站的&lt;f0&gt;另一個&lt;/f0&gt;問題是，每個範本都要分別下載安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;As shown above, you might have sub-folders such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for templates that use American and Canadian English locales for dictionaries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123054Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
@@ -611,6 +619,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T023454Z" creationid="Jeff Huang" creationdate="20171213T023454Z">
         <seg>&lt;f0&gt;當&lt;/f0&gt;文件被新增到主控文件或貼在一起時，每個文件中&lt;f1&gt;第一個有編號&lt;/f1&gt;的清單&lt;f2&gt;可能&lt;/f2&gt;需要&lt;f3&gt;手動&lt;/f3&gt;重新排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can also&lt;/f0&gt; open Microsoft Office templates and convert them to &lt;f1&gt;Open Document Format&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124553Z" creationid="Franklin Weng" creationdate="20171215T124553Z">
+        <seg>&lt;f0&gt;你也可以&lt;/f0&gt;打開 Microsoft Office 的範本，然後轉換成&lt;f1&gt;ODF&lt;/f1&gt;格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1955,6 +1971,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T133412Z" creationid="zerng07" creationdate="20170817T133412Z">
         <seg>不過，你也能下載字型作為列印使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can find extensions like the Professional Template Pack II that will install multiple templates together from &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; after you download them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124418Z" creationid="Franklin Weng" creationdate="20171215T124418Z">
+        <seg>不過這一點還好，你可以找一些像是 Professional Template Pack II 這類的擴充套件，讓你從&lt;f0&gt;「工具」&gt;「擴充套件管理員」&lt;/f0&gt;一次把下載的範本安裝好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3651,6 +3675,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T023110Z" creationid="Jeff Huang" creationdate="20171111T023110Z">
         <seg>與相關的樣式、範本與工具一起使用，讓撰寫文件與使文件&lt;f1&gt;維持一定格式&lt;/f1&gt;更容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using such extensions can save several hours of effort.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124433Z" creationid="Franklin Weng" creationdate="20171215T124433Z">
+        <seg>用這類的擴充套件可以省下幾個小時的時間。</seg>
       </tuv>
     </tu>
     <tu>
