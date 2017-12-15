@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Wizards are&lt;/f0&gt; available from the &lt;f1&gt;File &gt; Wizards&lt;/f1&gt; sub-menu.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Some of the wizards give you the option of using a LibreOffice Base database or the address book of an email client for filling in fields, which is convenient for mass mail-outs.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125810Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
+        <seg>&lt;f0&gt;範本精靈&lt;/f0&gt;可以從&lt;f1&gt;「檔案」&gt;「精靈」&lt;/f1&gt;選單中找到。&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;有些精靈會有使用 LibreOffice Base 資料庫，或是從電子郵件程式中的通訊錄來填入欄位的功能，對用於大量發信的範本很有用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also&lt;/f0&gt; open Microsoft Office templates and convert them to &lt;f1&gt;Open Document Format&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124553Z" creationid="Franklin Weng" creationdate="20171215T124553Z">
@@ -1903,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, despite their best efforts to provide variety, the wizards do tend to create unimaginative, outdated results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125610Z" creationid="Franklin Weng" creationdate="20171215T125610Z">
+        <seg>不過，儘管精靈會盡可能提供各種變化，但最後多半會產生一些沒什麼想像力、過時的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, giving names to every element is hard work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T075855Z" creationid="Jeff Huang" creationdate="20171123T075855Z">
@@ -2243,6 +2259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065118Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
         <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice，即便你已經將框線完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示表格框線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, they are good examples of how to add structure to templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125505Z" creationid="Franklin Weng" creationdate="20171215T125505Z">
+        <seg>此外，它們也是很好的範例，展現如何在範本中加入結構。</seg>
       </tuv>
     </tu>
     <tu>
