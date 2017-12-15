@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T140620Z" creationid="Franklin Weng" creationdate="20171215T140620Z">
+        <seg>&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123056Z" creationid="Franklin Weng" creationdate="20171213T123056Z">
@@ -561,8 +569,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Presentation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; template is particularly useful.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134429Z" creationid="Franklin Weng" creationdate="20171215T134429Z">
-        <seg>&lt;f0&gt;對&lt;f1&gt;&lt;f2&gt;投影片&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;範本來說尤其有用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134559Z" creationid="Franklin Weng" creationdate="20171215T134429Z">
+        <seg>&lt;f0&gt;範本精靈對製作&lt;f1&gt;&lt;f2&gt;簡報&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;範本來說尤其有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,8 +2417,8 @@
       <tuv lang="EN">
         <seg>It is designed as a wizard to guide you through the basic formatting and structural decisions for building a slide show.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134443Z" creationid="Franklin Weng" creationdate="20171215T134443Z">
-        <seg>It is designed as a wizard to guide you through the basic formatting and structural decisions for building a slide show.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134649Z" creationid="Franklin Weng" creationdate="20171215T134443Z">
+        <seg>範本精靈會引導你選擇基本格式到結構等等，建立簡報的範本。</seg>
       </tuv>
     </tu>
     <tu>
