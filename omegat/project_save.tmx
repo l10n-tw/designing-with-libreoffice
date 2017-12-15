@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Although often more elaborate than strictly necessary, these wizards can give you a starting point to studying templates.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125929Z" creationid="Franklin Weng" creationdate="20171215T125929Z">
+        <seg>&lt;f0&gt;Although often more elaborate than strictly necessary, these wizards can give you a starting point to studying templates.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Another&lt;/f0&gt; problem with these official sites is that each template must be downloaded and installed separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124243Z" creationid="Franklin Weng" creationdate="20171215T124243Z">
@@ -2511,6 +2519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice’s letter template wizard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125924Z" creationid="Franklin Weng" creationdate="20171215T125924Z">
+        <seg>LibreOffice 的書信範本精靈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like style names, template names should be as descriptive as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132701Z" creationid="Franklin Weng" creationdate="20171213T132701Z">
@@ -3843,6 +3859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100722Z" creationid="Franklin Weng" creationdate="20171212T100722Z">
         <seg>使用範本的時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are finished setting options for the template, the wizard defaults to saving the resulting template to a subdirectory of your personal template directory, registering them &lt;f0&gt;for immediate use&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125912Z" creationid="Franklin Weng" creationdate="20171215T125912Z">
+        <seg>當你完成範本的設定後，精靈預設會將產生的範本存到你個人的範本目錄並註冊，讓你可以&lt;f0&gt;立即使用&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
