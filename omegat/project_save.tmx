@@ -3143,6 +3143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save it with &lt;f0&gt;File &gt; Save as Template, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Templates &gt; Save as Template,&lt;/f2&gt;&lt;/f1&gt; or &lt;f3&gt;File &gt; TemplateMenu &gt; Save as Template &lt;/f3&gt;&lt;f4&gt;(all these options may not be available in all versions of LibreOffice).&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125850Z" creationid="Franklin Weng" creationdate="20171218T125850Z">
+        <seg>將檔案用「檔案」&gt;「範本」&gt;「另存為範本」（或是「檔案」&gt;「另存為範本」、「檔案」&gt;「範本選單」&gt;「另存為範本」，依版本而定）儲存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving &lt;f0&gt;and&lt;/f0&gt; registering templates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124418Z" creationid="Franklin Weng" creationdate="20171218T124418Z">
@@ -3747,6 +3755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174010Z" creationid="zerng07" creationdate="20170930T173021Z">
         <seg>如果想要更體會手動格式設定和用樣式作格式設定之間的差異，請想像一下你現在正準備繳交一份長達20頁的大學課堂小論文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make a template availabl&lt;f4&gt;e, follow these steps&lt;/f4&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125500Z" creationid="Franklin Weng" creationdate="20171218T125500Z">
+        <seg>要啟用範本，需要依照下列步驟進行：</seg>
       </tuv>
     </tu>
     <tu>
