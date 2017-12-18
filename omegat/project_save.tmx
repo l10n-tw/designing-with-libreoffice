@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;True, i&lt;/f0&gt;f you save a file using &lt;f1&gt;File&gt; Sa&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ve&lt;/f3&gt;&lt;/f2&gt; or &lt;f4&gt;File &gt; Save As,&lt;/f4&gt; you can select a LibreOffice template from the drop-down list of formats in the &lt;f5&gt;Save&lt;/f5&gt; &lt;f6&gt;d&lt;/f6&gt;ialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124928Z" creationid="Franklin Weng" creationdate="20171218T124928Z">
+        <seg>&lt;f0&gt;當然&lt;/f0&gt;，如果你用「檔案」&gt;「儲存」或是「檔案」&gt;「另存新檔」，你可以在格式清單中選擇將檔案儲存成 LibreOffice 範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;What the spell check can do is reduce the drudgery of catching typos and routine errors&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030837Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
