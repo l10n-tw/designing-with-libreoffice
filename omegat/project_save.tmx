@@ -1015,6 +1015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A regular file only needs to be saved in order to be ready for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124433Z" creationid="Franklin Weng" creationdate="20171218T124433Z">
+        <seg>一般的檔案只需要儲存就可以了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A style affects only the parts of a document to which you apply it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141414Z" creationid="zerng07" creationdate="20171212T141414Z">
@@ -1403,6 +1411,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062823Z" creationid="zerng07" creationdate="20171212T062823Z">
         <seg>但是為什麼要保留讓自己更不方便的習慣呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, &lt;f0&gt;each&lt;/f0&gt; template must be registered with LibreOffice before you can use it, just as databases and address books must be.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124520Z" creationid="Franklin Weng" creationdate="20171218T124520Z">
+        <seg>但是，範本在使用前必須先向 LibreOffice 註冊才能使用，就好像資料庫跟通訊錄一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3883,6 +3899,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170213Z" creationid="zerng07" creationdate="20170817T183908Z">
         <seg>開放文件格式是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What this means is that you &lt;f0&gt;cannot&lt;/f0&gt; simply save a template&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124552Z" creationid="Franklin Weng" creationdate="20171218T124552Z">
+        <seg>這表示你&lt;f0&gt;不能&lt;/f0&gt;單純只儲存範本。</seg>
       </tuv>
     </tu>
     <tu>
