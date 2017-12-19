@@ -1601,8 +1601,8 @@
       <tuv lang="EN">
         <seg>Checking the spelling</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075517Z" creationid="Jeff Huang" creationdate="20171213T030010Z">
-        <seg>檢查英文拼字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075627Z" creationid="Jeff Huang" creationdate="20171213T030010Z">
+        <seg>檢查拼字</seg>
       </tuv>
     </tu>
     <tu>
@@ -3193,8 +3193,8 @@
       <tuv lang="EN">
         <seg>Run the spell check in the &lt;f0&gt;Tools&lt;/f0&gt; menu for each language used in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075549Z" creationid="Jeff Huang" creationdate="20171213T030137Z">
-        <seg>在「&lt;f0&gt;工具&lt;/f0&gt;」選單中為文件中使用到的各個語言執行拼字檢查。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075802Z" creationid="Jeff Huang" creationdate="20171213T030137Z">
+        <seg>在「&lt;f0&gt;工具&lt;/f0&gt;」選單中為文件中使用到的各個拼音文字語言執行拼字檢查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,8 +4201,8 @@
       <tuv lang="EN">
         <seg>You can check the languages by looking at the &lt;f1&gt;Fonts&lt;/f1&gt; tab of all your paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030404Z" creationid="Jeff Huang" creationdate="20171213T030404Z">
-        <seg>你可以透過檢視你的所有段落樣式的&lt;f1&gt;字型&lt;/f1&gt;分頁來檢查語言。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080201Z" creationid="Jeff Huang" creationdate="20171213T030404Z">
+        <seg>你可以檢視你所有段落樣式的「&lt;f1&gt;字型&lt;/f1&gt;」標籤頁來檢查對應語言。</seg>
       </tuv>
     </tu>
     <tu>
