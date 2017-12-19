@@ -3839,6 +3839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document is highly formatted, like a brochure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144313Z" creationid="zerng07" creationdate="20171219T144313Z">
+        <seg>文件需要極度格式設定過，例如一本小手冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document is long (over 3 pages).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114308Z" creationid="zerng07" creationdate="20171219T114308Z">
@@ -3883,6 +3891,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114444Z" creationid="zerng07" creationdate="20171219T114444Z">
         <seg>文件只有一個人編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document’s formatting is extremely simple and regular, &lt;f0&gt;like an essay.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144222Z" creationid="zerng07" creationdate="20171219T144222Z">
+        <seg>文件的格式設定非常簡單、平常，&lt;f0&gt;就像一篇作文。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
