@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, always remember&lt;/f0&gt; that a spell check is not a substitute for your own judgment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030622Z" creationid="Jeff Huang" creationdate="20171213T030622Z">
-        <seg>&lt;f0&gt;不過，請記住&lt;/f0&gt;拼寫檢查不能取代你自己的判斷。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080259Z" creationid="Jeff Huang" creationdate="20171213T030622Z">
+        <seg>&lt;f0&gt;不過，請記住&lt;/f0&gt;拼寫檢查不能取代你自身的判斷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2609,8 +2609,8 @@
       <tuv lang="EN">
         <seg>LibreOffice also &lt;f2&gt;c&lt;/f2&gt;hecks some grammar &lt;f3&gt;and layout, such as enforcing one space after a period instead of two.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030518Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
-        <seg>LibreOffice 也會件查部份文法與&lt;f3&gt;版本設計，如英文句號後應留一個而非兩個空格。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080245Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
+        <seg>LibreOffice也會件查一些文法與&lt;f3&gt;排版問題，例如英文句號後方應留一個空格而非兩個。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2841,8 +2841,8 @@
       <tuv lang="EN">
         <seg>Not everything &lt;f1&gt;Writer &lt;/f1&gt;flags &lt;f2&gt;is mis-spelled&lt;/f2&gt;, and the grammar check is far from complete.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030751Z" creationid="Jeff Huang" creationdate="20171213T030751Z">
-        <seg>不是每個 &lt;f1&gt;Writer&lt;/f1&gt; 的旗標&lt;f2&gt;都是拼寫錯誤&lt;/f2&gt;，文法檢查也不夠完整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080514Z" creationid="Jeff Huang" creationdate="20171213T030751Z">
+        <seg>不見得每個&lt;f1&gt;Writer&lt;/f1&gt;做的標記&lt;f2&gt;都是拼寫錯誤&lt;/f2&gt;，還有文法檢查功能也不夠完善。</seg>
       </tuv>
     </tu>
     <tu>
