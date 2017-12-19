@@ -695,6 +695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can change styles on the fly, too&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031843Z" creationid="zerng07" creationdate="20171219T031843Z">
+        <seg>&lt;f0&gt;你也可以隨時隨處修改樣式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can get also get some of his fonts from The League of Movable Type (see below).&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140657Z" creationid="zerng07" creationdate="20170817T105548Z">
@@ -2391,6 +2399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, changing styles is quicker; &lt;f1&gt;you only have to make a change once to apply it through the entire document.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032032Z" creationid="zerng07" creationdate="20171219T032032Z">
+        <seg>實際上，修改樣式會更快；&lt;f1&gt;你只需要作出一次修改，整份文件就會一併套上對應的更動。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In hard copy, paragraphs can be longer, but only if you need the extra length for a detailed argument.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T131840Z" creationid="Jeff Huang" creationdate="20171111T131840Z">
@@ -2651,6 +2667,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181137Z" creationid="zerng07" creationdate="20170824T174358Z">
         <seg>手動格式設定非常受到歡迎，因為它根本不需要有什麼軟體知識就能辦到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual formatting is preferable because you can make changes on the fly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031825Z" creationid="zerng07" creationdate="20171219T031825Z">
+        <seg>手動格式設定可以隨時隨處修改，所以比較好用。</seg>
       </tuv>
     </tu>
     <tu>
