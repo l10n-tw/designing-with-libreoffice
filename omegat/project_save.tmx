@@ -1951,6 +1951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format manually if:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114152Z" creationid="zerng07" creationdate="20171219T114152Z">
+        <seg>手動格式設定時機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free-licensed fonts are available under the &lt;f0&gt;SIL&lt;/f0&gt; Open Font License &lt;f1&gt;(OFL)&lt;/f1&gt; or the &lt;f2&gt;GNU&lt;/f2&gt; General Public License &lt;f3&gt;&lt;f4&gt;(GPL)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;with font exception.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T185140Z" creationid="zerng07" creationdate="20170817T101050Z">
@@ -3767,6 +3775,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document is long (over 3 pages).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114308Z" creationid="zerng07" creationdate="20171219T114308Z">
+        <seg>文件較長（超過3頁）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document is short (1-2 pages), &lt;f0&gt;and you have no templates that you can use.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114310Z" creationid="zerng07" creationdate="20171219T114238Z">
+        <seg>文件很短（1-2頁），&lt;f0&gt;而且你沒有可利用的範本。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document will be used once and never reused.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114359Z" creationid="zerng07" creationdate="20171219T114359Z">
+        <seg>文件只有用到一次，以後也不會再用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The features that produce these characteristics should be noticeable only to &lt;f2&gt;eyes&lt;/f2&gt; trained to be alert for them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
@@ -4131,6 +4163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T062404Z" creationid="Jeff Huang" creationdate="20171214T062404Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use styles if:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114209Z" creationid="zerng07" creationdate="20171219T114158Z">
+        <seg>樣式使用時機：</seg>
       </tuv>
     </tu>
     <tu>
