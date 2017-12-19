@@ -1047,6 +1047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A consistent format doesn’t matter for some other reason.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143359Z" creationid="zerng07" creationdate="20171219T143359Z">
+        <seg>維持一致的格式設定基於某些原因不大重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more plausible reason for not using templates is that setting them up takes time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100916Z" creationid="Franklin Weng" creationdate="20171212T100916Z">
@@ -3787,6 +3795,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T121523Z" creationid="Franklin Weng" creationdate="20171215T121523Z">
         <seg>不過&lt;f0&gt;使用其他人製作的範本&lt;/f0&gt;的缺點是你要先&lt;f1&gt;理清&lt;/f1&gt;整份範本去找出你要的部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document belongs to a standard class of documents, such as a letter, a fax, or memo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143304Z" creationid="zerng07" creationdate="20171219T143304Z">
+        <seg>文件屬於一般類型的文件，例如書信、傳真、備忘等。</seg>
       </tuv>
     </tu>
     <tu>
