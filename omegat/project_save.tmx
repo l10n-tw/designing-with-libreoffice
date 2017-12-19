@@ -368,8 +368,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you do see problems, consider repeating the final editing process.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064507Z" creationid="Jeff Huang" creationdate="20171214T064507Z">
-        <seg>&lt;f0&gt;如果你還是看到許多問題，請再次執行最後的編輯程序。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084304Z" creationid="Jeff Huang" creationdate="20171214T064507Z">
+        <seg>&lt;f0&gt;如果你還是看到許多問題，請考慮重新執行最後的編輯程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1313,8 +1313,8 @@
       <tuv lang="EN">
         <seg>At this point, you should see very few problems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084237Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
-        <seg>這時候你應該看不到幾個問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084245Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
+        <seg>這時候你應該看不到多少問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2041,8 +2041,8 @@
       <tuv lang="EN">
         <seg>However, if you have already done so several times, ask yourself at some point if you are tinkering in the hope of an impossible perfection.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064615Z" creationid="Jeff Huang" creationdate="20171214T064615Z">
-        <seg>不過，如果你已經執行很多次了，請想想自己是否正追求不可能的完美。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084400Z" creationid="Jeff Huang" creationdate="20171214T064615Z">
+        <seg>不過，如果你已經反複做過很多次了，請想想自己是否正在追求不可能的完美。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,8 +2361,8 @@
       <tuv lang="EN">
         <seg>In &lt;f0&gt;some releases of &lt;/f0&gt;LibreOffice, &lt;f1&gt;P&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;rint&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Preview&lt;/f4&gt; shows the borders around a table even if you have turned them off entirely.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065118Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
-        <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice，即便你已經將框線完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示表格框線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084440Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
+        <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice中，即便你已經將表格外框完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示出框線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3489,8 +3489,8 @@
       <tuv lang="EN">
         <seg>Th&lt;f5&gt;ese &lt;/f5&gt;borders do not print, but to view the tables properly, &lt;f6&gt;un&lt;/f6&gt;check &lt;f7&gt;Table Boundaries&lt;/f7&gt; on the right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065322Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
-        <seg>&lt;f5&gt;這些&lt;/f5&gt;框線並不會被印出來，但若要檢示表格該有的樣子，請從右鍵選單中&lt;f6&gt;取消勾選&lt;/f6&gt;&lt;f7&gt;表格框線&lt;/f7&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084624Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
+        <seg>&lt;f5&gt;這些&lt;/f5&gt;框線並不會被印出來，但記得再檢視一下表格是否有正確設定，請從右鍵選單中&lt;f6&gt;取消勾選&lt;/f6&gt;&lt;f7&gt;表格邊框&lt;/f7&gt;。</seg>
       </tuv>
     </tu>
     <tu>
