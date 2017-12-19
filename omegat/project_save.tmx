@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If the document uses headings, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Navigator &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F5 &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T053552Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
-        <seg>&lt;f0&gt;若文件有使用「標題」樣式，可以選取&lt;/f0&gt;&lt;f1&gt;檢視 → 助手&lt;/f1&gt;&lt;f2&gt;或按下 &lt;/f2&gt;&lt;f3&gt;F5 &lt;/f3&gt;鍵。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054707Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
+        <seg>&lt;f0&gt;若文件有使用「標題」樣式，你可以選取&lt;/f0&gt;&lt;f1&gt;檢視 → 助手&lt;/f1&gt;&lt;f2&gt;或按下 &lt;/f2&gt;&lt;f3&gt;F5 &lt;/f3&gt;鍵。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,8 +3977,8 @@
       <tuv lang="EN">
         <seg>Using the Navigator's controls, you can move headings and the sections of body text below them anywhere in the document much more quickly than you can copy and paste.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T062216Z" creationid="Jeff Huang" creationdate="20171123T062216Z">
-        <seg>使用助手的功能，你可以比複製並貼上更快地移動標題與內文到文件的任何地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054857Z" creationid="Jeff Huang" creationdate="20171123T062216Z">
+        <seg>使用「助手」的控制項，你就能快速移動標題與其下方內文到文件的任何地方，比起用複製、貼上的還快。</seg>
       </tuv>
     </tu>
     <tu>
