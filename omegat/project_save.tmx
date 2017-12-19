@@ -1559,6 +1559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the display in &lt;f0&gt;Styles and Formatting&lt;/f0&gt; to &lt;f1&gt;All Styles&lt;/f1&gt; (or another view that shows the style you want).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112923Z" creationid="zerng07" creationdate="20171219T112923Z">
+        <seg>將&lt;f0&gt;樣式和格式設定&lt;/f0&gt;中的顯示內容切換為&lt;f1&gt;所有樣式&lt;/f1&gt;（或其他你想採用樣式的顯示內容亦可）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the formatting only on the template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120543Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
@@ -3335,6 +3343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scroll to the paragraph style you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112938Z" creationid="zerng07" creationdate="20171219T112938Z">
+        <seg>捲動到你想要使用的段落樣式位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select font weight from the tool bar icon.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111526Z" creationid="zerng07" creationdate="20171219T111526Z">
@@ -3347,6 +3363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111843Z" creationid="zerng07" creationdate="20171219T111843Z">
         <seg>選取「&lt;f0&gt;格式 &gt; 段落 &gt; 縮排和間距&lt;/f0&gt;」，編輯「&lt;f1&gt;段落之上&lt;/f1&gt;」欄位，並按下「&lt;f2&gt;確定&lt;/f2&gt;」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112955Z" creationid="zerng07" creationdate="20171219T112948Z">
+        <seg>選取段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3899,6 +3923,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083501Z" creationid="Jeff Huang" creationdate="20171214T061812Z">
         <seg>這個差別可能導致子文件與主控文件分頁處的不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This example is extremely conservative.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113037Z" creationid="zerng07" creationdate="20171219T113037Z">
+        <seg>這個範例已經非常保守估計。</seg>
       </tuv>
     </tu>
     <tu>
