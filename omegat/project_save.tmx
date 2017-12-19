@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;As you spell check, make a note of your regular typos, and use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to help you correct every instance of it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031241Z" creationid="Jeff Huang" creationdate="20171213T031241Z">
-        <seg>&lt;f0&gt;在拼寫檢查時，記下你的每個常見錯誤，並使用 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯→尋找與取代&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來協助你更正每個錯誤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080835Z" creationid="Jeff Huang" creationdate="20171213T031241Z">
+        <seg>&lt;f0&gt;在拼寫檢查時，記下你經常拼錯的地方，並使用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯→尋找與取代&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;協助你更正每個錯誤拼法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -649,8 +649,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;What the spell check can do is reduce the drudgery of catching typos and routine errors&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030837Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
-        <seg>&lt;f0&gt;拼寫檢查可以減少找到拼寫錯誤與一般錯誤的工作量&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080552Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
+        <seg>&lt;f0&gt;拼寫檢查工具可以減少找出拼寫錯誤與常見錯誤的工作量&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,8 +769,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Never think, though, that you have caught all the problems when you have run it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T030923Z" creationid="Jeff Huang" creationdate="20171213T030923Z">
-        <seg>&lt;f1&gt;雖然如此，但並不是執行它就可以找出你所有的錯誤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080655Z" creationid="Jeff Huang" creationdate="20171213T030923Z">
+        <seg>&lt;f1&gt;雖然如此，但不是說執行它就能找出你的所有錯誤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3361,8 +3361,8 @@
       <tuv lang="EN">
         <seg>Spell checking should always be followed by at least one manual check.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031055Z" creationid="Jeff Huang" creationdate="20171213T031055Z">
-        <seg>拼寫檢查後務必再手動檢查一次。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080710Z" creationid="Jeff Huang" creationdate="20171213T031055Z">
+        <seg>拼寫檢查後請務必再手動檢查過至少一次。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
