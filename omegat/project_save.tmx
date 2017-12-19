@@ -1553,8 +1553,8 @@
       <tuv lang="EN">
         <seg>Check the spelling once for each language used in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031516Z" creationid="Jeff Huang" creationdate="20171213T031516Z">
-        <seg>文件中的每個語言都需要檢查一次拼字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T081113Z" creationid="Jeff Huang" creationdate="20171213T031516Z">
+        <seg>文件中的每個拼音文字語言都有經過拼字檢查會比較好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1865,8 +1865,8 @@
       <tuv lang="EN">
         <seg>Finding and replacing common mistakes is much faster than spell checking, and allows you to see more of the context in which the mistake occurs.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T031404Z" creationid="Jeff Huang" creationdate="20171213T031404Z">
-        <seg>尋找並取代常見錯誤比拼寫檢查要來得快上許多，而且也可以讓你看到更多出錯的內容。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080948Z" creationid="Jeff Huang" creationdate="20171213T031404Z">
+        <seg>使用尋找與取代處理常見錯誤會比拼寫檢查來得快許多，而且也可以讓你一併看看出錯文字所在的上下文。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
