@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Until you finalize the styles, you will make so many changes that creating styles is mostly wasted effort.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143935Z" creationid="zerng07" creationdate="20171219T143935Z">
+        <seg>&lt;f1&gt;直到你結束樣式設計為止會需要做出許多更動，所以建立樣式是浪費時間。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Usually,&lt;/f1&gt; the more you use styles, the more time you save.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060639Z" creationid="zerng07" creationdate="20171212T060639Z">
@@ -4543,6 +4551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are experimenting with &lt;f0&gt;styles&lt;/f0&gt; while building a template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143813Z" creationid="zerng07" creationdate="20171219T143757Z">
+        <seg>你正在一邊實驗&lt;f0&gt;樣式&lt;/f0&gt;一邊打造範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can &lt;f0&gt;mostly&lt;/f0&gt; eliminate the need for tabs, especially at the start of a new paragraph, because you can create a style that automatically indents for you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
@@ -4683,6 +4699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T045406Z" creationid="Jeff Huang" creationdate="20171111T031843Z">
         <seg>或許你得大聲朗讀出來，或者印出來閱讀，又或是把它放著不管幾天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You want to use the document in a number of different ways, each of which requires some minor changes: for example, printing it on both a white and &lt;f0&gt;a &lt;/f0&gt;red background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144146Z" creationid="zerng07" creationdate="20171219T144146Z">
+        <seg>你希望以各種不同方式使用文件，各個應用都需要做一點些微改動：例如，一份要印在白色背景上，而另一份需要印在紅色背景上。</seg>
       </tuv>
     </tu>
     <tu>
