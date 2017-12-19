@@ -2927,6 +2927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only one style of a particular type can apply to a selection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031129Z" creationid="zerng07" creationdate="20171219T031129Z">
+        <seg>選取內容只能套用一種特定類型的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open &lt;f0&gt;File &gt; Recent Documents.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124333Z" creationid="Franklin Weng" creationdate="20171213T124333Z">
@@ -3347,6 +3355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141425Z" creationid="zerng07" creationdate="20171212T141425Z">
         <seg>樣式太過複雜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles can conflict with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031047Z" creationid="zerng07" creationdate="20171219T031047Z">
+        <seg>樣式彼此會衝突。</seg>
       </tuv>
     </tu>
     <tu>
