@@ -3209,8 +3209,8 @@
       <tuv lang="EN">
         <seg>Running the hyphenation tool will add hyphens, even if none of your styles are set to use hyphens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025421Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
-        <seg>即便你的樣式並未設定使用斷字，執行斷字工具仍會新增斷字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075232Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
+        <seg>即便你的樣式並未設定使用斷字，只要執行了斷字工具依然會加入斷字的連字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3281,8 +3281,8 @@
       <tuv lang="EN">
         <seg>Skip this step if you want to avoid all hyphenation &lt;f0&gt;and keep a ragged right margin.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T053743Z" creationid="Jeff Huang" creationdate="20171213T025813Z">
-        <seg>若你想要避免所有的斷字&lt;f0&gt;並保留不合理的右邊距&lt;/f0&gt;的話請略過此步驟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075345Z" creationid="Jeff Huang" creationdate="20171213T025813Z">
+        <seg>如果你想要避開所有斷字&lt;f0&gt;並留下參差不齊的右邊距&lt;/f0&gt;的話，請略過此步驟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4353,8 +4353,8 @@
       <tuv lang="EN">
         <seg>You will need a separate hyphenation dictionary for each language or locale in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T074938Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
-        <seg>文件中的每個不同語言或地區都需要有對應的斷字字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075141Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
+        <seg>文件中用到的各種語言或語言的不同地區環境，都需要有對應的斷字字典才能利用這個功能。</seg>
       </tuv>
     </tu>
     <tu>
