@@ -671,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can have a character and a paragraph style applying to the same selection, but not two different character &lt;f1&gt;styles &lt;/f1&gt;or two different paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031720Z" creationid="zerng07" creationdate="20171219T031720Z">
+        <seg>你可以在同個區段套用一種字元樣式、一種段落樣式，但是不能套用兩種不同的字元&lt;f1&gt;樣式&lt;/f1&gt;或兩種不同的段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also&lt;/f0&gt; open Microsoft Office templates and convert them to &lt;f1&gt;Open Document Format&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124553Z" creationid="Franklin Weng" creationdate="20171215T124553Z">
@@ -691,6 +699,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140657Z" creationid="zerng07" creationdate="20170817T105548Z">
         <seg>&lt;f0&gt;你可以從The League of Movable Type取得他的一些字型（見後述）。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can’t do anything manually that you can’t do with styles much more easily.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031545Z" creationid="zerng07" creationdate="20171219T031300Z">
+        <seg>&lt;f0&gt;那些樣式做不到的任何事，就算手動做也不會比較輕鬆。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
