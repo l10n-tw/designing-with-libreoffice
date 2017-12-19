@@ -857,8 +857,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Be prepared to make some tweaks since working with a template reveals its shortcomings, and you may find situations that you never anticipated.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065926Z" creationid="Jeff Huang" creationdate="20171214T065926Z">
-        <seg>&lt;f2&gt;準備好做一些微調，因為使用範本可能會揭露其不足，你可能會發現一些你從未預料到的狀況。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084957Z" creationid="Jeff Huang" creationdate="20171214T065926Z">
+        <seg>&lt;f2&gt;準備好做一些微調，因為範本有其不足之處，你也可能會發現一些你從未預料到的狀況。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,8 +2361,8 @@
       <tuv lang="EN">
         <seg>In &lt;f0&gt;some releases of &lt;/f0&gt;LibreOffice, &lt;f1&gt;P&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;rint&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Preview&lt;/f4&gt; shows the borders around a table even if you have turned them off entirely.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084440Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
-        <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice中，即便你已經將表格外框完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示出框線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084631Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
+        <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice中，即便你已經將表格邊框完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示出框線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3489,8 +3489,8 @@
       <tuv lang="EN">
         <seg>Th&lt;f5&gt;ese &lt;/f5&gt;borders do not print, but to view the tables properly, &lt;f6&gt;un&lt;/f6&gt;check &lt;f7&gt;Table Boundaries&lt;/f7&gt; on the right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084624Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
-        <seg>&lt;f5&gt;這些&lt;/f5&gt;框線並不會被印出來，但記得再檢視一下表格是否有正確設定，請從右鍵選單中&lt;f6&gt;取消勾選&lt;/f6&gt;&lt;f7&gt;表格邊框&lt;/f7&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084715Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
+        <seg>&lt;f5&gt;這些&lt;/f5&gt;框線並不會被印出來，但記得再檢視一下表格是否有正確設定，請從右鍵選單中&lt;f6&gt;取消&lt;/f6&gt;&lt;f7&gt;表格的邊框&lt;/f7&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4097,8 +4097,8 @@
       <tuv lang="EN">
         <seg>When you see &lt;f0&gt;nothing to change&lt;/f0&gt;, you know that your document is ready to &lt;f1&gt;print or post online&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T065738Z" creationid="Jeff Huang" creationdate="20171214T065738Z">
-        <seg>當你發現&lt;f0&gt;沒有東西可以變更時&lt;/f0&gt;，你的文件就準備好&lt;f1&gt;列印或發佈在網路上了&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084807Z" creationid="Jeff Huang" creationdate="20171214T065738Z">
+        <seg>當你發現&lt;f0&gt;沒有東西需要修改時&lt;/f0&gt;，那麼你就知道文件準備好&lt;f1&gt;出版或張貼到網路上了&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
