@@ -2289,8 +2289,8 @@
       <tuv lang="EN">
         <seg>If you have cross-references between two sub-documents, the target sub-document shows the message “Error: Reference not found” when you open the sub-document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061038Z" creationid="Jeff Huang" creationdate="20171214T061038Z">
-        <seg>如果你在兩份子文件間有交叉參照的話，當你開啟子文件時，目標子文件就會顯示「錯誤：找不到參照」訊息。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083350Z" creationid="Jeff Huang" creationdate="20171214T061038Z">
+        <seg>如果你在兩份子文件間有做交叉參照的話，當你開啟子文件時，目標子文件會顯示「錯誤：找不到參照」的訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2433,8 +2433,8 @@
       <tuv lang="EN">
         <seg>In the most recent versions of LibreOffice, master documents present some problems:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060115Z" creationid="Jeff Huang" creationdate="20171214T060115Z">
-        <seg>在新版的 LibreOffice 中，主控文件有一些問題：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083051Z" creationid="Jeff Huang" creationdate="20171214T060115Z">
+        <seg>在最近的LibreOffice發行版本中，主控文件有這些問題：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4225,8 +4225,8 @@
       <tuv lang="EN">
         <seg>You can sometimes see this problem by printing a range of pages to &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt; first from the sub-document and then from the master document, and comparing the page breaks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060620Z" creationid="Jeff Huang" creationdate="20171214T060620Z">
-        <seg>有時候可以透過先從子文件列印某一範圍的頁面成 &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt;，再從主控文件做一樣的事情，並比較其分頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083304Z" creationid="Jeff Huang" creationdate="20171214T060620Z">
+        <seg>有時候你可以先從子文件把某個範圍的頁面列印成 &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt;，再從主控文件做一樣的事情，並比較兩者間行文分頁的位置。</seg>
       </tuv>
     </tu>
     <tu>
