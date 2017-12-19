@@ -1273,8 +1273,8 @@
       <tuv lang="EN">
         <seg>As you make your final check of the document, &lt;f0&gt;click&lt;/f0&gt; &lt;f1&gt;Tools &gt; Language &gt; Hyphenation.&lt;/f1&gt; This tool lets you choose where each line will break and what syllable each hyphen will follow.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T024953Z" creationid="Jeff Huang" creationdate="20171213T024953Z">
-        <seg>在對文件進行最終檢查時，請&lt;f0&gt;點選&lt;/f0&gt;&lt;f1&gt;工具→語言→斷字處理。&lt;/f1&gt;這個工具可以讓你選擇每行要如何斷行，以及每個連接號會接續什麼音節等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T074137Z" creationid="Jeff Huang" creationdate="20171213T024953Z">
+        <seg>在對文件進行最終檢查時，可&lt;f0&gt;點選&lt;/f0&gt;「&lt;f1&gt;工具→語言→斷字處理」。&lt;/f1&gt;這個工具可以讓你選擇要如何斷行，以及連接號會接續哪個音節等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1417,8 +1417,8 @@
       <tuv lang="EN">
         <seg>But by the time you are finished editing and making changes, this on-the-fly hyphenation can be far from the best job that LibreOffice can do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025444Z" creationid="Jeff Huang" creationdate="20171213T024707Z">
-        <seg>但在你完成編輯與修改後，此時的動態斷字可能遠不及 LibreOffice 能做到的最好狀態。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073935Z" creationid="Jeff Huang" creationdate="20171213T024707Z">
+        <seg>但當你完成文字的編輯與修改後，此時的動態斷字位置可能遠不及LibreOffice本來能做到的最好狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2193,8 +2193,8 @@
       <tuv lang="EN">
         <seg>If you &lt;f0&gt;decide&lt;/f0&gt; to hyphenate the body text, LibreOffice does &lt;f1&gt;the &lt;/f1&gt;best it can while you work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073656Z" creationid="Jeff Huang" creationdate="20171213T024503Z">
-        <seg>若你&lt;f0&gt;決定&lt;/f0&gt;內文要採用連字號斷字，LibreOffice會在你寫作時盡其所能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073831Z" creationid="Jeff Huang" creationdate="20171213T024503Z">
+        <seg>若你&lt;f0&gt;決定&lt;/f0&gt;內文要採用連字號斷字，LibreOffice會在你寫作時盡可能做到最好。</seg>
       </tuv>
     </tu>
     <tu>
