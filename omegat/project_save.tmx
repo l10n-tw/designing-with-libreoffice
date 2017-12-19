@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;No matter how carefully you have developed and modified your template, it is still easy to miss problems &lt;f2&gt;in the&lt;/f2&gt; design unless you look at pages as a whole &lt;f3&gt;–&lt;/f3&gt; or, better, in a two-page spread.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171212T034454Z" creationid="Jeff Huang" creationdate="20171212T034454Z">
-        <seg>&lt;/f1&gt;無論你在撰寫與修改你的範本上有多謹慎，還是可能會漏掉一些問題，除非你將頁面視為一個整體，或是更好的狀況是在一面兩頁的脈絡下檢視。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070939Z" creationid="Jeff Huang" creationdate="20171212T034454Z">
+        <seg>&lt;/f1&gt;無論你的範本在製作與修改時有多謹慎，還是可能會遺漏一些設計上的問題，除非你將一頁整體視之——或是更好的做法，在兩頁式書籍版面配置下查看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If the document uses headings, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Navigator &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F5 &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054707Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
-        <seg>&lt;f0&gt;若文件有使用「標題」樣式，你可以選取&lt;/f0&gt;&lt;f1&gt;檢視 → 助手&lt;/f1&gt;&lt;f2&gt;或按下 &lt;/f2&gt;&lt;f3&gt;F5 &lt;/f3&gt;鍵。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070505Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
+        <seg>&lt;f0&gt;若文件有使用「標題」樣式，你可以選取&lt;/f0&gt;「&lt;f1&gt;檢視 → 助手&lt;/f1&gt;」&lt;f2&gt;或按下 &lt;/f2&gt;&lt;f3&gt;F5 &lt;/f3&gt;鍵。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1769,8 +1769,8 @@
       <tuv lang="EN">
         <seg>Either print out a copy or use &lt;f0&gt;File &gt; Print Preview.&lt;/f0&gt; &lt;f1&gt;Better still, do both.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T064227Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
-        <seg>印出來或是使用 &lt;f0&gt;檔案 → 列印預覽。&lt;/f0&gt; &lt;f1&gt;當然最好的狀況是兩個動作都做。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070531Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
+        <seg>可以列印出一份紙本，或是用「&lt;f0&gt;檔案 → 列印預覽」。&lt;/f0&gt; &lt;f1&gt;當然，最好的狀況是兩個動作都做。</seg>
       </tuv>
     </tu>
     <tu>
