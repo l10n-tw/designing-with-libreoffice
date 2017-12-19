@@ -1153,8 +1153,8 @@
       <tuv lang="EN">
         <seg>Alternatively, use a master document when it is convenient in long documents or in group projects, and copy &lt;t0/&gt;and paste a single long document at the very end of your final editing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T062223Z" creationid="Jeff Huang" creationdate="20171214T062223Z">
-        <seg>另一個替代方案是，如果在長文件或小組專案較方便的話就使用主控文件，然後在接近最後編輯時再複製並貼上成一份單一的長文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083839Z" creationid="Jeff Huang" creationdate="20171214T062223Z">
+        <seg>另一個替代方案是，在寫長篇文件或小組專案較方便的時候使用主控文件，然後到了最後編輯階段時再複製並貼上成一份單一的長篇文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2729,8 +2729,8 @@
       <tuv lang="EN">
         <seg>Master documents can paginate differently from a stand-alone sub-document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T060243Z" creationid="Jeff Huang" creationdate="20171214T060243Z">
-        <seg>主控文件與獨立的子文件的頁數可能不一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083600Z" creationid="Jeff Huang" creationdate="20171214T060243Z">
+        <seg>主控文件與獨立的子文件的分頁位置可能不一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3753,8 +3753,8 @@
       <tuv lang="EN">
         <seg>This discrepancy can cause the page break to change between the sub-document and the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061812Z" creationid="Jeff Huang" creationdate="20171214T061812Z">
-        <seg>這種狀況可能會導致子文件與主控文件分頁的不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083501Z" creationid="Jeff Huang" creationdate="20171214T061812Z">
+        <seg>這個差別可能導致子文件與主控文件分頁處的不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3849,8 +3849,8 @@
       <tuv lang="EN">
         <seg>To overcome these problems, avoid tight pagination, leaving a line or two empty.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T062013Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
-        <seg>要克服這些問題，請避免緊湊的分頁，留下一到兩個空行。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083543Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
+        <seg>要克服這些問題，請避免緊湊的分頁，頁面結尾留下一到兩行空白。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,8 +4081,8 @@
       <tuv lang="EN">
         <seg>When you have a cross-reference between two sub-documents, the error message in the target sub-document can be much longer than the cross-reference in the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061504Z" creationid="Jeff Huang" creationdate="20171214T061504Z">
-        <seg>當你在兩份子文件間有交叉參照時，目標子文件中的錯誤訊息可能會比主控文件中的交叉參照還長。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083417Z" creationid="Jeff Huang" creationdate="20171214T061504Z">
+        <seg>當你在兩份子文件之間有交叉參照時，目標子文件中的錯誤訊息可能會比主控文件中的交叉參照還長。</seg>
       </tuv>
     </tu>
     <tu>
