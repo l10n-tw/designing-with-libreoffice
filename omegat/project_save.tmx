@@ -1231,6 +1231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any editing will only take place within a few days of finishing the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114647Z" creationid="zerng07" creationdate="20171219T114647Z">
+        <seg>只有在文件完成之後的幾天才會編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125250Z" creationid="Franklin Weng" creationdate="20171212T125250Z">
@@ -3775,6 +3783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document is going to be &lt;f0&gt;used over and over.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114424Z" creationid="zerng07" creationdate="20171219T114424Z">
+        <seg>文件會&lt;f0&gt;不斷重複使用&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document is long (over 3 pages).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114308Z" creationid="zerng07" creationdate="20171219T114308Z">
@@ -3791,10 +3807,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document will be edited by more than one person.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114535Z" creationid="zerng07" creationdate="20171219T114535Z">
+        <seg>文件有一個以上的人會編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document will be used once and never reused.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114359Z" creationid="zerng07" creationdate="20171219T114359Z">
         <seg>文件只有用到一次，以後也不會再用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document will only be edited by a single person.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114444Z" creationid="zerng07" creationdate="20171219T114444Z">
+        <seg>文件只有一個人編輯。</seg>
       </tuv>
     </tu>
     <tu>
