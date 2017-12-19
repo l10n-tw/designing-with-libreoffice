@@ -4263,6 +4263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you &lt;f0&gt;change one paragraph’s style, &lt;/f0&gt;you also &lt;f1&gt;change every other use of the style&lt;/f1&gt; in the same document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113745Z" creationid="zerng07" creationdate="20171219T113745Z">
+        <seg>當你修改一個&lt;f0&gt;段落樣式時，&lt;/f0&gt;你也同時修改同一份文件中&lt;f1&gt;所有使用相同樣式&lt;/f1&gt;的其他地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you are finished setting options for the template, the wizard defaults to saving the resulting template to a subdirectory of your personal template directory, registering them &lt;f0&gt;for immediate use&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125912Z" creationid="Franklin Weng" creationdate="20171215T125912Z">
