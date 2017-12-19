@@ -1095,6 +1095,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add &lt;f0&gt;a numbered list&lt;/f0&gt; from the tool bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111924Z" creationid="zerng07" creationdate="20171219T111924Z">
+        <seg>從工具列中加入&lt;f0&gt;編號清單&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting hyphenation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073559Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
@@ -2227,6 +2235,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132557Z" creationid="Franklin Weng" creationdate="20171213T132557Z">
         <seg>如果你跟大多數人一樣，你&lt;f0&gt;可能會&lt;/f0&gt;覺得經常需要&lt;f1&gt;至少三到四份&lt;/f1&gt;不同的範本。&lt;f2&gt; &lt;/f2&gt;若你不是用下載的，那麼最好依照使用需求逐步建立範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are lucky, you might save a few actions if you don’t have to scroll for a setting, but this series of steps is a good average.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112115Z" creationid="zerng07" creationdate="20171219T112115Z">
+        <seg>如果你夠幸運，你可能不必捲動很長一段距離就能設好一切，省下一些時間。不過這系列步驟會是個平均值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4451,6 +4467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075141Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
         <seg>文件中用到的各種語言或語言的不同地區環境，都需要有對應的斷字字典才能利用這個功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You would have to repeat these steps, of course, for every header in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112227Z" creationid="zerng07" creationdate="20171219T112227Z">
+        <seg>你需要重複這些動作，當然，對文件中的各個標題都這樣做。</seg>
       </tuv>
     </tu>
     <tu>
