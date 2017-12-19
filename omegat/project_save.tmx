@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111203Z" creationid="zerng07" creationdate="20171219T111203Z">
+        <seg>動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Actually, just as many programmers format manually as anyone else.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063832Z" creationid="zerng07" creationdate="20171212T063236Z">
@@ -1951,6 +1959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight the text of the header.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111222Z" creationid="zerng07" creationdate="20171219T111222Z">
+        <seg>反白選取標題文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>His work includes three fonts based on the designs of Frederick Goudy, as well as Fanwood, an understated font which closely resembles Eric Gill’s Joanna.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140821Z" creationid="zerng07" creationdate="20170817T105206Z">
@@ -2375,6 +2391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, you want to edit the heading so that it starts with a number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111045Z" creationid="zerng07" creationdate="20171219T111045Z">
+        <seg>此外，你想要編輯標題來讓標題能以數字開頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In both &lt;f3&gt;LibreOffice and OpenOffice,&lt;/f3&gt; you can also save to most Microsoft Office formats, and open files from WordPerfect, Microsoft Works, and several other formats, although &lt;f4&gt;some formatting is sometimes lost in complex documents.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171147Z" creationid="zerng07" creationdate="20170822T144101Z">
@@ -2577,8 +2601,8 @@
       <tuv lang="EN">
         <seg>Let's imagine that &lt;f0&gt;you have a heading paragraph that you want to format extensively.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T110835Z" creationid="zerng07" creationdate="20171219T110835Z">
-        <seg>讓我們想像一下，&lt;f0&gt;你有個想要大幅修改其格式設定的起首段落。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111053Z" creationid="zerng07" creationdate="20171219T110835Z">
+        <seg>讓我們想像一下，&lt;f0&gt;你有個想要大幅修改其格式設定的標題段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,6 +3031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the font list in the tool bar, scroll, and select &lt;f0&gt;the font&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111356Z" creationid="zerng07" creationdate="20171219T111356Z">
+        <seg>打開工具列的字型列表，捲動，接著選取&lt;f0&gt;指定字型&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenOffice’s Template Manager &lt;f0&gt;and versions of LibreOffice before 3.3 have an older design that is functionally equivalent.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123131Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
@@ -3383,6 +3415,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111200Z" creationid="zerng07" creationdate="20171219T111200Z">
+        <seg>步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Still, in the end, &lt;f0&gt;&lt;f1&gt;Designing with&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; LibreOffice&lt;/f2&gt; is not &lt;f3&gt;about design in the abstract, but about &lt;/f3&gt;getting everyday tasks done.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
@@ -3667,6 +3707,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T141714Z" creationid="zerng07" creationdate="20170818T034410Z">
         <seg>文字排印學的主要目的在於讓文字更引人入勝、更易於閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortest way to make these changes manually is:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111151Z" creationid="zerng07" creationdate="20171219T111151Z">
+        <seg>最達成上述更動的最簡潔手動方式為：</seg>
       </tuv>
     </tu>
     <tu>
