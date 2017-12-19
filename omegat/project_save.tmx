@@ -919,6 +919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;That means that if the document has more than two instances of the heading, using styles saves you effort.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113912Z" creationid="zerng07" creationdate="20171219T113834Z">
+        <seg>&lt;f2&gt;這代表如果文件要用到兩種以上的標題樣貌，使用樣式就能大幅省下你所花費的功夫。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The solution to both these problems is &lt;/f2&gt;templates – &lt;f3&gt;files to store formatting and structure to re-use or share.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100258Z" creationid="Franklin Weng" creationdate="20171212T100258Z">
@@ -3839,6 +3847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The short answer is, “&lt;f0&gt;Whenever it saves time&lt;/f0&gt;.” Still, in practice, even experts sometimes use manual formatting in certain circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114137Z" creationid="zerng07" creationdate="20171219T114137Z">
+        <seg>簡要的答案是：「&lt;f0&gt;只要可以節省時間的時候&lt;/f0&gt;」。不過，實務上來說，即使是專家偶爾也會在某些特定情況下採用手動格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortest way to make these changes manually is:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111151Z" creationid="zerng07" creationdate="20171219T111151Z">
@@ -4243,6 +4259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180524Z" creationid="zerng07" creationdate="20170817T180510Z">
         <seg>當甲骨文 (Oracle) &lt;f1&gt;於2010年&lt;/f1&gt;買下昇陽之後，LibreOffice 便開始開發維護自己的&lt;f2&gt;OpenOffice.org&lt;/f2&gt;版本，這也是&lt;f3&gt;源始碼的&lt;/f3&gt;授權條款&lt;f4&gt;所允許的作法&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When should you use styles?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113929Z" creationid="zerng07" creationdate="20171219T113929Z">
+        <seg>什麼時候應該使用樣式？</seg>
       </tuv>
     </tu>
     <tu>
