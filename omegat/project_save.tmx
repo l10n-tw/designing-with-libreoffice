@@ -1233,8 +1233,8 @@
       <tuv lang="EN">
         <seg>Any editing will only take place within a few days of finishing the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114647Z" creationid="zerng07" creationdate="20171219T114647Z">
-        <seg>只有在文件完成之後的幾天才會編輯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114736Z" creationid="zerng07" creationdate="20171219T114647Z">
+        <seg>只有在文件完成之後才會編輯個幾天。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3811,6 +3811,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114535Z" creationid="zerng07" creationdate="20171219T114535Z">
         <seg>文件有一個以上的人會編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document will be edited weeks, months, or even years after the first version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114722Z" creationid="zerng07" creationdate="20171219T114722Z">
+        <seg>文件在初版之後，還會繼續編輯數週、數月、甚至數年。</seg>
       </tuv>
     </tu>
     <tu>
