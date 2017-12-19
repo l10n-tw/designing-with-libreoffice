@@ -3337,8 +3337,8 @@
       <tuv lang="EN">
         <seg>Some versions of LibreOffice include spelling dictionaries, but not hyphenation dictionaries, so you may have to download and install a hyphenation dictionary before you run a check.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025228Z" creationid="Jeff Huang" creationdate="20171213T025228Z">
-        <seg>某些版本的 LibreOffice 包含了拼字檢查用的字典，但沒有斷字用的字典，所以你可能需要在開始檢查前下載並安裝斷字字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T074821Z" creationid="Jeff Huang" creationdate="20171213T025228Z">
+        <seg>某些版本的LibreOffice有包含拼字檢查用的字典，但沒有斷字用的字典，所以如果有需要，你得在開始檢查前先下載並安裝斷字用字典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4353,8 +4353,8 @@
       <tuv lang="EN">
         <seg>You will need a separate hyphenation dictionary for each language or locale in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171213T025322Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
-        <seg>文件中的每個語言或語系都需要單獨的斷字字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T074938Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
+        <seg>文件中的每個不同語言或地區都需要有對應的斷字字典。</seg>
       </tuv>
     </tu>
     <tu>
