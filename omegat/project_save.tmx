@@ -2847,6 +2847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like other LibreOffice applications, Draw &lt;f0&gt;includes&lt;/f0&gt; pre-defined styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081832Z" creationid="Jeff Huang" creationdate="20171220T081832Z">
+        <seg>就像其他的 LibreOffice 應用程式一樣，Draw &lt;f0&gt;包含了&lt;/f0&gt;預定義的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like style names, template names should be as descriptive as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132701Z" creationid="Franklin Weng" creationdate="20171213T132701Z">
@@ -3587,6 +3595,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101139Z" creationid="zerng07" creationdate="20170817T101139Z">
         <seg>有些則是公眾領域的公版授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of these are for graphic text, but others are for general categories of drawing objects, such as &lt;f1&gt;Object with arrow.&lt;/f1&gt; Most are not for specific shapes, sizes, or purposes, except for &lt;f2&gt;Dimension Line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082440Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
+        <seg>其中一些用於圖形化的文字，但其它則用於繪圖物件的一般分類，如&lt;f1&gt;帶有箭頭的物件。&lt;/f1&gt;除了&lt;f2&gt;尺寸線&lt;/f2&gt;以外，大多數並非僅適用於特定的形狀、大小或用途。</seg>
       </tuv>
     </tu>
     <tu>
