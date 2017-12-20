@@ -3807,6 +3807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means, &lt;f2&gt;for example,&lt;/f2&gt; that the pre-defined &lt;f3&gt;Object with Shadow &lt;/f3&gt;style &lt;f4&gt;can format &lt;/f4&gt;both a rectangle and &lt;f5&gt;shapes that are identical except for dimensions.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081112Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
+        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;有一個以&lt;f3&gt;帶有陰影的&lt;/f3&gt;樣式預定義好的物件&lt;f4&gt;可以格式化為&lt;/f4&gt;同時是矩形與&lt;f5&gt;除了尺寸以外都一樣的形狀。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;only way that you can alter LibreOffice’s default formats without using templates is&lt;/f0&gt; to change the &lt;f1&gt;font &lt;/f1&gt;settings &lt;f2&gt;in&lt;/f2&gt; &lt;f3&gt;Tools &gt; Options &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; LibreOffice Writer &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Basic Fonts (Western).&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Default formatting such as page and list styles cannot be edited at all.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101112Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
