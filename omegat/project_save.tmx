@@ -2039,6 +2039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you are building an organizational chart, you might have a style called &lt;f0&gt;Position Boxes &lt;/f0&gt;to indicate each job.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T083506Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
+        <seg>舉例來說，如果你正在建構一份組織架構圖，你可能會有一個稱為&lt;f0&gt;位置框&lt;/f0&gt;的樣式來指出每一個工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, instead of &lt;f0&gt;letter.ott,&lt;/f0&gt; call your template &lt;f1&gt;personal-letter&lt;/f1&gt; – or, better yet, something &lt;f2&gt;long and exact &lt;/f2&gt;like &lt;f3&gt;personal-letter-&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;formal-structure&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt; &lt;s7/&gt;&lt;f8&gt;The more specific the template’s name, the easier it will be to find when you want it.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133143Z" creationid="Franklin Weng" creationdate="20171213T133143Z">
