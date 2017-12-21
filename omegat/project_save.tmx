@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unlike styles in Writer, graphic styles can only be applied after a shape is added to a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
+        <seg>&lt;f0&gt;不像 Writer 中的樣式，圖形樣式可以僅在形狀加入到文件後才套用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;What the spell check can do is reduce the drudgery of catching typos and routine errors&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080552Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
@@ -1315,6 +1323,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125250Z" creationid="Franklin Weng" creationdate="20171212T125250Z">
         <seg>應用程式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applying graphic styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071425Z" creationid="Jeff Huang" creationdate="20171221T071425Z">
+        <seg>套用圖形樣式</seg>
       </tuv>
     </tu>
     <tu>
