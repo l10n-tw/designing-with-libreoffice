@@ -3647,6 +3647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shape &lt;f0&gt;choices&lt;/f0&gt; determine &lt;f1&gt;each object’s features&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081008Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
+        <seg>形狀&lt;f0&gt;選擇&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, instead of creating a separate frame for a section formatted differently from the rest of the document, you can include the different format in a set of styles and keep typing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135930Z" creationid="zerng07" creationdate="20171029T135930Z">
