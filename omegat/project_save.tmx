@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;lick &lt;f1&gt;a sub-folder in the display if you want to specify where the template displays in the Template Manager.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T141747Z" creationid="Franklin Weng" creationdate="20171222T141747Z">
+        <seg>&lt;f0&gt;如果你要看特定的子目錄中的範本，就直接點擊子目錄即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check, too,&lt;/f0&gt; that formatting such as the structure of captions and the space above and below objects is consistent throughout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073007Z" creationid="Jeff Huang" creationdate="20171213T023950Z">
@@ -2515,6 +2523,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152532Z" creationid="zerng07" creationdate="20170903T152532Z">
         <seg>如果你決定要改變某個格式，你也只需要修改樣式一次，彈指之間，每個套用該樣式的位置同時都採用了新的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T141754Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
+        <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
       </tuv>
     </tu>
     <tu>
