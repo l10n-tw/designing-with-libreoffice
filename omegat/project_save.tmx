@@ -1391,6 +1391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although a Month-Day-Year format is common in the United States, increasingly international use favors a consistent sequence – either Year-Month-Day or, less frequently, a Day-Month-Year format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094259Z" creationid="Franklin Weng" creationdate="20171223T094259Z">
+        <seg>Although a Month-Day-Year format is common in the United States, increasingly international use favors a consistent sequence – either Year-Month-Day or, less frequently, a Day-Month-Year format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although not all the fonts displayed on this page are complete, their consistently high quality makes them worth considering.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142558Z" creationid="zerng07" creationdate="20170817T142558Z">
@@ -3219,6 +3227,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181028Z" creationid="zerng07" creationdate="20170817T175347Z">
         <seg>LibreOffice是個辦公&lt;f0&gt;套裝軟體&lt;/f0&gt; ，可以在&lt;f1&gt;32與64位元版本的&lt;/f1&gt;Linux、&lt;f2&gt;OS X、&lt;/f2&gt; 和Windows等作業系統上執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice offers no way to change the default formats permanently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094232Z" creationid="Franklin Weng" creationdate="20171223T094232Z">
+        <seg>LibreOffice 不接受永久改變預設格式。</seg>
       </tuv>
     </tu>
     <tu>
