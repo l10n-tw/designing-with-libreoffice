@@ -2801,8 +2801,8 @@
       <tuv lang="EN">
         <seg>However, LibreOffice &lt;f1&gt;adds&lt;/f1&gt; three more styles in Writer (plus a pseudo-style for &lt;f2&gt;t&lt;/f2&gt;ables), and other styles &lt;f3&gt;for spreadsheets, presentations, and diagrams.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173143Z" creationid="zerng07" creationdate="20171223T173143Z">
-        <seg>不過，LibreOffice &lt;f1&gt;adds&lt;/f1&gt; three more styles in Writer (plus a pseudo-style for &lt;f2&gt;t&lt;/f2&gt;ables), and other styles &lt;f3&gt;for spreadsheets, presentations, and diagrams.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173419Z" creationid="zerng07" creationdate="20171223T173143Z">
+        <seg>不過，LibreOffice在Writer中&lt;f1&gt;多加&lt;/f1&gt;其他三種樣式（再加上一種給表格用的偽樣式），至於試算表、簡報、圖表等還有其他樣式可用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3873,8 +3873,8 @@
       <tuv lang="EN">
         <seg>Most office suite&lt;f0&gt;s&lt;/f0&gt; confine themselves to paragraph and character styles in their word processors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173116Z" creationid="zerng07" creationdate="20171223T173116Z">
-        <seg>大多數的辦公套裝軟體都將段落樣式與字元樣式功能限定在文書處理器中使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173222Z" creationid="zerng07" creationdate="20171223T173116Z">
+        <seg>大多數的辦公套裝軟體都限定在文書處理器中使用樣式，一般只有段落樣式和字元樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5347,6 +5347,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173751Z" creationid="zerng07" creationdate="20170824T173751Z">
         <seg>接著又到了下個你想要採用&lt;f0&gt;相同&lt;/f0&gt;格式設定的地方，一樣你又把相同的設定一步一步再做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These additional styles greatly extend what LibreOffice &lt;f0&gt;can do&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173506Z" creationid="zerng07" creationdate="20171223T173506Z">
+        <seg>這些額外樣式大幅擴展LibreOffice&lt;f0&gt;能辦到的事&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
