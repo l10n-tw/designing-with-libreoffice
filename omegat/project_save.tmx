@@ -1911,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By contrast, custom-named styles that are defined but not in use, &lt;f0&gt;as well as tracked changes,&lt;/f0&gt; will not appear in the new document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125150Z" creationid="Franklin Weng" creationdate="20171223T125150Z">
+        <seg>不過，文件中定義但沒使用的自訂樣式名稱，還有追蹤紀錄，則不會出現在新副本中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, hundreds are available today, &lt;f1&gt;although t&lt;/f1&gt;heir numbers are still small compared to the thousands of proprietary fonts available from font foundries such as Adobe.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T131442Z" creationid="zerng07" creationdate="20170817T095637Z">
@@ -3007,6 +3015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you experience some problems with graphics, try copying and pasting &lt;f0&gt;a few pages at a time&lt;/f0&gt; instead of all at once.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125020Z" creationid="Franklin Weng" creationdate="20171223T125020Z">
+        <seg>如果你在處理圖片時發生一些問題，試試不要一次全部複製過去，而改成一次只複製幾頁就好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you find yourself getting lost in the sheer &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;number of free fonts, anything from The League can be counted on to be of high quality, and usually includes small capitals and old style figures.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T134416Z" creationid="zerng07" creationdate="20170817T134416Z">
@@ -3139,6 +3155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084631Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
         <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice中，即便你已經將表格邊框完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示出框線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125056Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
+        <seg>此外，任何在原始文件中使用的自訂名稱的樣式，都會複製到新文件去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5131,6 +5155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090259Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
         <seg>這個動作可以讓你知道定下精準標題的價值所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method works best when all styles in both documents have the same names, because the styles in the original document will take on the formatting of the new document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124947Z" creationid="Franklin Weng" creationdate="20171223T124947Z">
+        <seg>這個方法適用於原本與副本的樣式名稱都一樣時。因為原始文件的樣式會套用新副本的樣式。</seg>
       </tuv>
     </tu>
     <tu>
