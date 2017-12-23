@@ -1359,6 +1359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All these formats can have two or &lt;f0&gt;four&lt;/f0&gt; digits for the year.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094846Z" creationid="Franklin Weng" creationdate="20171223T094846Z">
+        <seg>所有這些格式都可以用兩位數或四位數來表示年份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All these possibilities can help to distance you from your work enough to criticize it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085526Z" creationid="Jeff Huang" creationdate="20171111T035618Z">
@@ -2211,6 +2219,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032200Z" creationid="zerng07" creationdate="20171219T032047Z">
         <seg>範例：樣式能節省時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;f0&gt;Using &lt;/f0&gt;placeholders &lt;f1&gt;&amp;&lt;/f1&gt; fields</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094856Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
+        <seg>範例：使用佔位項</seg>
       </tuv>
     </tu>
     <tu>
@@ -3211,6 +3227,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092542Z" creationid="zerng07" creationdate="20170817T092542Z">
         <seg>LibreOffice 提供 Linux、OS X、和 Windows 版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice includes a tool for designing do-it-yourself business cards&lt;f0&gt;.&lt;/f0&gt; The tool is designed so that you add information on one &lt;f1&gt;sample &lt;/f1&gt;card, then add the information automatically to the rest.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T095020Z" creationid="Franklin Weng" creationdate="20171223T095020Z">
+        <seg>LibreOffice 中有個工具可以用來自行設計名片。這個工具的設計讓你可以在一個範例卡片中輸入資訊，然後其他的會自動產生。</seg>
       </tuv>
     </tu>
     <tu>
