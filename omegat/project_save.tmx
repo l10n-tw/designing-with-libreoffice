@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Four&lt;/f0&gt; kinds of fields are likely to &lt;f1&gt;be &lt;/f1&gt;useful:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093433Z" creationid="Franklin Weng" creationdate="20171223T093433Z">
+        <seg>&lt;f0&gt;有四種欄位通常比較有用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;ere are some of the most common myths about styles that are repeated whenever the subject of manual formatting vs. styles is discussed:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140520Z" creationid="zerng07" creationdate="20171212T140520Z">
@@ -598,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Placeholders have their own &lt;/f0&gt;character style, &lt;f1&gt;which makes them easy to find using &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Edit &gt; Find &amp; Replace.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093354Z" creationid="Franklin Weng" creationdate="20171223T093354Z">
+        <seg>&lt;f0&gt;佔位項有它們自己的字元樣式，這樣比較容易用「編輯」&gt;「尋找與取代」來尋找。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Printed&lt;/f0&gt; versions of the same manuals &lt;f1&gt;are available for sale &lt;/f1&gt;at the Friends of Open Document store &lt;f2&gt;at:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184216Z" creationid="zerng07" creationdate="20170817T183857Z">
@@ -634,6 +650,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085553Z" creationid="Jeff Huang" creationdate="20171111T125955Z">
         <seg>以系統性方式開始做&lt;f1&gt;你的最後編輯&lt;/f1&gt;，&lt;f2&gt;首先專注於內容，接著再轉到結構與設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;ystem information, such as date and time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093448Z" creationid="Franklin Weng" creationdate="20171223T093448Z">
+        <seg>&lt;f0&gt;系統資訊，如日期與時間。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,6 +2023,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Document information, stored or displayed in &lt;f0&gt;File &gt; Properties.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093543Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
+        <seg>文件資訊，儲存與顯示在「檔案」&gt;「屬性」中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document statistics, generated as you create the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093604Z" creationid="Franklin Weng" creationdate="20171223T093604Z">
+        <seg>文件統計，在你建立文件時產生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents whose templates have been edited are not &lt;f0&gt;always &lt;/f0&gt;updated when closed and reopened.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120247Z" creationid="Franklin Weng" creationdate="20171212T120247Z">
@@ -2167,6 +2207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fields are another way to store information in templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093413Z" creationid="Franklin Weng" creationdate="20171223T093413Z">
+        <seg>欄位是在範本中儲存資訊的另一種方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding and replacing common mistakes is much faster than spell checking, and allows you to see more of the context in which the mistake occurs.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080948Z" creationid="Jeff Huang" creationdate="20171213T031404Z">
@@ -2267,6 +2315,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T095553Z" creationid="zerng07" creationdate="20170817T094541Z">
         <seg>在&lt;f0&gt;2000&lt;/f0&gt;年以前自由授權的字型還相當罕見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General user information, stored in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093515Z" creationid="Franklin Weng" creationdate="20171223T093515Z">
+        <seg>一般使用者資訊，存在「工具」&gt;「選項」&gt;「LibreOffice」&gt;「使用者資料」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4907,6 +4963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T153646Z" creationid="zerng07" creationdate="20170817T153133Z">
         <seg>想發揮任何辦公套裝軟體的所有潛力，就代表&lt;f0&gt;必須瞭解如何設計你的文件——而九成的設計必須知曉如何運用樣式和範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using fields in templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093400Z" creationid="Franklin Weng" creationdate="20171223T093400Z">
+        <seg>在範本中使用欄位</seg>
       </tuv>
     </tu>
     <tu>
