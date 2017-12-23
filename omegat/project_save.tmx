@@ -334,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Except with Template Changer or another extension, y&lt;/f0&gt;ou cannot &lt;f1&gt;directly change&lt;/f1&gt; &lt;f2&gt;which&lt;/f2&gt; template &lt;f3&gt;is &lt;/f3&gt;used by a &lt;f4&gt;document&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124732Z" creationid="Franklin Weng" creationdate="20171223T124732Z">
+        <seg>&lt;f0&gt;除非透過 Template Changer 這一類的擴充套件，不然你不能直接變更某份文件所使用的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Exporting&lt;/f0&gt; templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124543Z" creationid="Franklin Weng" creationdate="20171223T124543Z">
+        <seg>&lt;f0&gt;匯出&lt;/f0&gt;範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice’&lt;f2&gt;s collection of extensions and templates&lt;/f2&gt;, &lt;f3&gt;go to:&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193326Z" creationid="zerng07" creationdate="20170817T171125Z">
@@ -895,6 +911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can export a template from the Template Manager&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Select the template to export, then click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Export&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124613Z" creationid="Franklin Weng" creationdate="20171223T124613Z">
+        <seg>&lt;f0&gt;你可以從範本視窗內匯出範本。只要選擇要匯出的範本，然後按底下的「匯出」鍵即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can get also get some of his fonts from The League of Movable Type (see below).&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140657Z" creationid="zerng07" creationdate="20170817T105548Z">
@@ -1227,6 +1251,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120143Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
         <seg>&lt;f5&gt;不過&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「屬性」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;視窗中仍然會列出最初使用的範本，即使文件已經與範本脫勾也一樣。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;Nor is there any means to apply multiple templates to the same document&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124748Z" creationid="Franklin Weng" creationdate="20171223T124748Z">
+        <seg>&lt;f5&gt;此外，同一份文件也不能套用多個範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1967,6 +1999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124645Z" creationid="Franklin Weng" creationdate="20171223T124645Z">
+        <seg>變更範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the attachments in email&lt;f0&gt;s that you have sent.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124353Z" creationid="Franklin Weng" creationdate="20171213T124353Z">
@@ -2347,6 +2387,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094856Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
         <seg>範例：使用佔位項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exporting a template takes a copy of the template, de-registers the copy, and saves it to the directory of your choice.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124642Z" creationid="Franklin Weng" creationdate="20171223T124642Z">
+        <seg>匯出範本時會建立一個範本的副本，並解除註冊，再把副本複製到你選擇的目錄內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,6 +2803,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100833Z" creationid="Franklin Weng" creationdate="20171212T100833Z">
         <seg>然而，當我實際去探詢這些說法時，&lt;f0&gt;我常常發現&lt;/f0&gt;問題不是在於他們所製作的文件都不同，而是因為&lt;f1&gt;這些使用者並沒有用結構化的思維去製作文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you &lt;f6&gt;can use three workarounds.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124820Z" creationid="Franklin Weng" creationdate="20171223T124820Z">
+        <seg>不過，你有三種方式可以解決上面的問題：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4787,6 +4843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
         <seg>而表現出這類性質的特徵，應該只有那些經過訓練的&lt;f2&gt;眼睛&lt;/f2&gt;能警覺分辨出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is to open a document based on another template, then copy and paste into it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124847Z" creationid="Franklin Weng" creationdate="20171223T124847Z">
+        <seg>第一種是用另一個範本開一個新檔案，然後把使用到你要修改的範本的檔案內容通通複製過去。</seg>
       </tuv>
     </tu>
     <tu>
