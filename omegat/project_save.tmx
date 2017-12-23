@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Once a template is open, y&lt;/f0&gt;ou can edit &lt;f1&gt;it&lt;/f1&gt; exactly the same as any other document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124035Z" creationid="Franklin Weng" creationdate="20171223T124035Z">
+        <seg>&lt;f0&gt;範本開啟後，你就可以像編輯其他文件一樣編輯範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Only one template can be applied at one time to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114907Z" creationid="Franklin Weng" creationdate="20171212T114907Z">
@@ -867,6 +875,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031843Z" creationid="zerng07" creationdate="20171219T031843Z">
         <seg>&lt;f0&gt;你也可以隨時隨處修改樣式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can delete custom or imported templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124131Z" creationid="Franklin Weng" creationdate="20171223T124131Z">
+        <seg>&lt;f0&gt;你可以刪除掉自己做的或匯入的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2095,6 +2111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124117Z" creationid="Franklin Weng" creationdate="20171223T124117Z">
+        <seg>刪除範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Descriptive titles are simply easier to find in a menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132738Z" creationid="Franklin Weng" creationdate="20171213T132738Z">
@@ -2659,6 +2683,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T082418Z" creationid="Jeff Huang" creationdate="20171213T032932Z">
         <seg>然而，就像所有的手動格式設定一樣，你添加得越多，文件就越難維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, remember to register your changes by saving with &lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Save &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;A&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;s Template.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124113Z" creationid="Franklin Weng" creationdate="20171223T124113Z">
+        <seg>不過，弄好之後要記得從「檔案」&gt;「範本」&gt;「另存為範本」來儲存並註冊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5595,6 +5627,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062733Z" creationid="zerng07" creationdate="20171212T062733Z">
         <seg>你不用樣式也一樣可以作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot delete templates installed with LibreOffice, through an extension, or for the entire system, although you can delete the extension from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Extension Manager&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124324Z" creationid="Franklin Weng" creationdate="20171223T124324Z">
+        <seg>至於 LibreOffice 內安裝的範本，你是無法透過擴充套件，或是從系統中刪除的。</seg>
       </tuv>
     </tu>
     <tu>
