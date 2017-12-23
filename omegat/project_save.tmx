@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;P&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;aragraph&lt;/f2&gt; styles are the most commonly used style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175213Z" creationid="zerng07" creationdate="20171223T175213Z">
+        <seg>&lt;f2&gt;段落&lt;/f2&gt;樣式是最常使用的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Paragraph&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;C&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;haracter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; styles are listed together under &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Overwrite&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; to replace existing styles of the same name.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132337Z" creationid="Franklin Weng" creationdate="20171223T132337Z">
@@ -1463,6 +1471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A paragraph begins and ends when you press the &lt;f3&gt;Enter&lt;/f3&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175346Z" creationid="zerng07" creationdate="20171223T175346Z">
+        <seg>段落的頭尾是以&lt;f3&gt;Enter&lt;/f3&gt;鍵區隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A paragraph that takes up more than half a page should usually be divided up regardless of the publishing format, because extremely large paragraphs can make readers skip them.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085644Z" creationid="Jeff Huang" creationdate="20171111T132234Z">
@@ -2223,6 +2239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175105Z" creationid="zerng07" creationdate="20171223T175105Z">
+        <seg>註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider alternatives so that they do not become too noticeable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085952Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
@@ -2921,8 +2945,8 @@
       <tuv lang="EN">
         <seg>However, in&lt;f2&gt; other applications&lt;/f2&gt;, styles do help to centralize frequently used settings, which is a benefit &lt;f3&gt;by&lt;/f3&gt; itself.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175015Z" creationid="zerng07" creationdate="20171223T175015Z">
-        <seg>然而，在&lt;f2&gt;其他應用程式&lt;/f2&gt;中，樣式的確能幫忙集中管理常用的設定，樣式自身就是種助益。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175022Z" creationid="zerng07" creationdate="20171223T175015Z">
+        <seg>然而，在&lt;f2&gt;其他應用程式&lt;/f2&gt;中，樣式的確能幫忙集中管理常用的設定，樣式自身就是個助益。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4287,6 +4311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175109Z" creationid="zerng07" creationdate="20171223T175109Z">
+        <seg>段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph styles for &lt;f0&gt;t&lt;/f0&gt;ables of &lt;f1&gt;c&lt;/f1&gt;ontent&lt;f2&gt;s&lt;/f2&gt; or &lt;f3&gt;i&lt;/f3&gt;ndexes, which you may have only &lt;f4&gt;created as a final step, are compatible with the rest of the design.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090712Z" creationid="Jeff Huang" creationdate="20171212T035919Z">
@@ -4767,6 +4799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175051Z" creationid="zerng07" creationdate="20171223T175051Z">
+        <seg>樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles are for anybody who wants to work efficiently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063746Z" creationid="zerng07" creationdate="20171212T063118Z">
@@ -4979,6 +5019,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101112Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
         <seg>你&lt;f0&gt;唯一可以不用範本而改變 LibreOffice 預設格式的方式是在&lt;f3&gt;「工具」&gt;「選項」&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 「LibreOffice Writer」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「基本字型（西方語言）」或「基本字型（亞洲語言）」。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;中&lt;/f0&gt;改變&lt;f1&gt;字型&lt;/f1&gt;設定。&lt;f10&gt;預設的格式，如頁面與清單等都不能編輯。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;styles available are&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175048Z" creationid="zerng07" creationdate="20171223T175048Z">
+        <seg>這些&lt;f0&gt;樣式有&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
