@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt; styles modify selected letters in a paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175627Z" creationid="zerng07" creationdate="20171223T175627Z">
+        <seg>&lt;f0&gt;字元&lt;/f0&gt;樣式可以修改某個段落樣式中所選取的字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check, too,&lt;/f0&gt; that formatting such as the structure of captions and the space above and below objects is consistent throughout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073007Z" creationid="Jeff Huang" creationdate="20171213T023950Z">
@@ -2155,6 +2163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124645Z" creationid="Franklin Weng" creationdate="20171223T124645Z">
         <seg>變更範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175550Z" creationid="zerng07" creationdate="20171223T175550Z">
+        <seg>字元</seg>
       </tuv>
     </tu>
     <tu>
