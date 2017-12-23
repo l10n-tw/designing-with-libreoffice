@@ -2599,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the pull-down menu at the far right of the icon bar, &lt;f0&gt;click&lt;/f0&gt; &lt;f1&gt;Load Styles.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132459Z" creationid="Franklin Weng" creationdate="20171223T132459Z">
+        <seg>在圖示列的最右邊有一個下拉式選單，拉下來後選擇「載入樣式」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General user information, stored in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093515Z" creationid="Franklin Weng" creationdate="20171223T093515Z">
@@ -4183,6 +4191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F11&lt;/f0&gt; to open the Styles and Formatting window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132424Z" creationid="Franklin Weng" creationdate="20171223T132424Z">
+        <seg>按 &lt;f0&gt;F11&lt;/f0&gt; 鍵開啟「樣式與格式設定」側邊欄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Putting &lt;f0&gt;everything&lt;/f0&gt; together</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085326Z" creationid="Jeff Huang" creationdate="20171213T025952Z">
@@ -5307,6 +5323,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091441Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
         <seg>要克服這些問題，請避免緊湊的分頁位置，讓頁面結尾留下一到兩行空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To transfer styles &lt;f0&gt;between documents:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132347Z" creationid="Franklin Weng" creationdate="20171223T132347Z">
+        <seg>要在文件中轉換樣式：</seg>
       </tuv>
     </tu>
     <tu>
