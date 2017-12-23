@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Neither is difficult in theory, although some of the ways that templates work may seem needlessly complicated until you realize that they exist to prevent file corruption.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134210Z" creationid="Franklin Weng" creationdate="20171223T134210Z">
+        <seg>&lt;f1&gt;這兩者理論上都不困難，雖然範本運作的方式有些看來是冗餘地複雜，但若你瞭解這些方式都是為了避免檔案毀損，你應該就比較能理解與接受。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Never think, though, that you have caught all the problems when you have run it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080655Z" creationid="Jeff Huang" creationdate="20171213T030923Z">
@@ -3175,6 +3183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have read Chapter 2, you should &lt;f0&gt;now &lt;/f0&gt;have a general sense of how styles and templates work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134030Z" creationid="Franklin Weng" creationdate="20171223T134030Z">
+        <seg>如果你也讀完了第 2 章，你現在應該對樣式與範本的運作方式有一般性的瞭解了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have recently made several templates, you might need to &lt;f1&gt;click&lt;/f1&gt; &lt;f2&gt;Refresh&lt;/f2&gt; to have all existing templates display.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T141714Z" creationid="Franklin Weng" creationdate="20171222T141714Z">
@@ -5171,6 +5187,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174227Z" creationid="zerng07" creationdate="20170930T174227Z">
         <seg>你要寫下一篇小論文時，就能完全專注在內容上，而不用去管格式設定什麼的了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next few chapters explain the points you need to consider to design useful and beautiful styles and templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134322Z" creationid="Franklin Weng" creationdate="20171223T134322Z">
+        <seg>接下來的幾章會解釋要設計有用且美觀的樣式與範本時，需要考慮的因素。</seg>
       </tuv>
     </tu>
     <tu>
