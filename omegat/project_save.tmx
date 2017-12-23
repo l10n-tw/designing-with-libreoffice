@@ -286,10 +286,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Carefully c&lt;/f0&gt;heck styles that were supposed to &lt;f1&gt;be &lt;/f1&gt;overwritten.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132842Z" creationid="Franklin Weng" creationdate="20171223T132842Z">
+        <seg>&lt;f0&gt;請仔細檢查要覆蓋的樣式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Check, too,&lt;/f0&gt; that formatting such as the structure of captions and the space above and below objects is consistent throughout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073007Z" creationid="Jeff Huang" creationdate="20171213T023950Z">
         <seg>&lt;f0&gt;還有，也要檢查&lt;/f0&gt;圖表標示說明結構和物件間的上下空間格式設定是否通篇文件中都保持一致等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;OK&lt;/f1&gt; button on the top right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133033Z" creationid="Franklin Weng" creationdate="20171223T133033Z">
+        <seg>&lt;f0&gt;最後點選「確定」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3055,6 +3071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not want to replace styles, leave the &lt;f0&gt;Overwrite&lt;/f0&gt; box unselected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132950Z" creationid="Franklin Weng" creationdate="20171223T132950Z">
+        <seg>如果你沒有要取代樣式，那麼記得別勾選「覆蓋」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you experience some problems with graphics, try copying and pasting &lt;f0&gt;a few pages at a time&lt;/f0&gt; instead of all at once.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125020Z" creationid="Franklin Weng" creationdate="20171223T125020Z">
@@ -5199,6 +5223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They may not be consistently overwritten &lt;f2&gt;if you have large documents and a computer with limited memory.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132932Z" creationid="Franklin Weng" creationdate="20171223T132932Z">
+        <seg>如果你的文件很大，但電腦記憶體不太夠，那麼有可能無法完整取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They truly are the ignition key that most of us have been missing while coasting downhill.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165643Z" creationid="zerng07" creationdate="20170822T164410Z">
@@ -5999,6 +6031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You receive no confirmation, but the importing is complete in a matter of seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133056Z" creationid="Franklin Weng" creationdate="20171223T133056Z">
+        <seg>不會有任何確認視窗，通常只要幾秒中就可以匯入完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You want to use the document in a number of different ways, each of which requires some minor changes: for example, printing it on both a white and &lt;f0&gt;a &lt;/f0&gt;red background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144146Z" creationid="zerng07" creationdate="20171219T144146Z">
@@ -6019,6 +6059,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T082529Z" creationid="Jeff Huang" creationdate="20171213T034132Z">
         <seg>如果每一頁的文字內容都正好斷在&lt;f0&gt;最後一行&lt;/f0&gt;，你可能非常幸運（或經歷過一番痛苦）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will import only styles that have names not found in the current document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133009Z" creationid="Franklin Weng" creationdate="20171223T133009Z">
+        <seg>你將只會匯入目前文件中不存在的樣式。</seg>
       </tuv>
     </tu>
     <tu>
