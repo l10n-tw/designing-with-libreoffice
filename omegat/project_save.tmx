@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092342Z" creationid="Franklin Weng" creationdate="20171223T092342Z">
+        <seg>&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164706Z" creationid="zerng07" creationdate="20170817T180726Z">
@@ -2743,6 +2751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress &lt;f0&gt;has built-in placeholders for slide titles, body text, and inserted objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092341Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
+        <seg>Impress &lt;f0&gt;在投影片標題、本文與插入物件處都放有指引符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f0&gt;some releases of &lt;/f0&gt;LibreOffice, &lt;f1&gt;P&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;rint&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Preview&lt;/f4&gt; shows the borders around a table even if you have turned them off entirely.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084631Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
@@ -3639,6 +3655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Placeholders are fields that mark the type of information needed at a certain spot, but leave you to fill in the details by clicking them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092311Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
+        <seg>指引符是在特定地方標記該處要填入哪一種資料，讓你點擊後可以直接填寫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100629Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
@@ -4091,6 +4115,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063302Z" creationid="zerng07" creationdate="20171212T063302Z">
         <seg>想用樣式得記住很多名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such information is especially easy to store in Impress, &lt;f0&gt;in which&lt;/f0&gt; &lt;f1&gt;each piece of information&lt;/f1&gt; can be placed on one slide and easily deleted or rearranged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092130Z" creationid="Franklin Weng" creationdate="20171223T092130Z">
+        <seg>這些資訊儲存到 Impress 特別容易。每一種資訊都可以放在一張投影片中，可以輕鬆刪除或重新排列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4819,6 +4851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T153646Z" creationid="zerng07" creationdate="20170817T153133Z">
         <seg>想發揮任何辦公套裝軟體的所有潛力，就代表&lt;f0&gt;必須瞭解如何設計你的文件——而九成的設計必須知曉如何運用樣式和範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using placeholders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092212Z" creationid="Franklin Weng" creationdate="20171223T092212Z">
+        <seg>使用指引符（placeholders）</seg>
       </tuv>
     </tu>
     <tu>
