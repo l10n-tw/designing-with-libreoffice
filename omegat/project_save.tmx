@@ -2247,6 +2247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Common paragraph styles include those for body text &lt;t4/&gt;and headings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175411Z" creationid="zerng07" creationdate="20171223T175411Z">
+        <seg>常用的段落樣式包括內文&lt;t4/&gt;和標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider alternatives so that they do not become too noticeable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085952Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
@@ -2499,6 +2507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090520Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
         <seg>你可以列印出一份紙本，或是用「&lt;f0&gt;檔案 → 列印預覽」。&lt;/f0&gt; &lt;f1&gt;當然，最好的狀況是兩個方法都做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equivalent to manual formatting with &lt;f5&gt;Format &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Paragraph,&lt;/f8&gt; plus some extras.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175546Z" creationid="zerng07" creationdate="20171223T175546Z">
+        <seg>等同於「&lt;f5&gt;格式 &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; 段落&lt;/f8&gt;」加上一些額外動作的手動格式設定。</seg>
       </tuv>
     </tu>
     <tu>
