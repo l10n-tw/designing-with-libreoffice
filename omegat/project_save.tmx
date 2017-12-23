@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121240Z" creationid="Franklin Weng" creationdate="20171223T121240Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123056Z" creationid="Franklin Weng" creationdate="20171213T123056Z">
@@ -2001,8 +2009,8 @@
       <tuv lang="EN">
         <seg>Create an Image placeholder and call it &lt;f0&gt;Graphic&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121022Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
-        <seg>建立一個影像的佔位項，命名為 &lt;f0&gt;Graphic&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121235Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
+        <seg>建立一個影像的佔位項，命名為 &lt;f0&gt;「圖片」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3905,8 +3913,8 @@
       <tuv lang="EN">
         <seg>Place the cursor in the right hand frame and &lt;f0&gt;create one placeholder per line for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author, Position, Company, Email,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121224Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
-        <seg>將游標移到右邊的外框，然後每一行建立一個文字佔位符，分別稱為 Author, Position, Company, Email, 還有 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121308Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
+        <seg>將游標移到右邊的外框，然後每一行建立一個文字佔位符，分別稱為「作者」、「位置」、「公司」、「電子郵件」還有「電話號碼」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,6 +4467,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093111Z" creationid="Franklin Weng" creationdate="20171223T093111Z">
         <seg>「工具提示」一欄可填可不填。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123108Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
+        <seg>「作者」欄位The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
       </tuv>
     </tu>
     <tu>
