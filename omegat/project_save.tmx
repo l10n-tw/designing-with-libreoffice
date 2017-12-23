@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From within the Template Manager, select the template to delete, then click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Delete&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124433Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
+        <seg>&lt;f0&gt;在範本視窗內，選擇要刪除的範本，在上面點擊右鍵選擇「刪除」即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;ere are some of the most common myths about styles that are repeated whenever the subject of manual formatting vs. styles is discussed:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140520Z" creationid="zerng07" creationdate="20171212T140520Z">
@@ -1127,6 +1135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Nor can&lt;/f2&gt; the deletion be undone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124534Z" creationid="Franklin Weng" creationdate="20171223T124534Z">
+        <seg>&lt;f2&gt;一刪除就再也回不來了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Rather, it is a&lt;/f2&gt; powerful piece&lt;f3&gt;s&lt;/f3&gt; of software in &lt;f4&gt;its&lt;/f4&gt; own right, &lt;f5&gt;sometimes falling short of Microsoft Office, but just as often exceeding it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165606Z" creationid="zerng07" creationdate="20170822T163203Z">
@@ -1315,6 +1331,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124433Z" creationid="Franklin Weng" creationdate="20171218T124433Z">
         <seg>一般的檔案只需要儲存就可以了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A selected file is deleted as soon as you click the &lt;f1&gt;Delete&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124514Z" creationid="Franklin Weng" creationdate="20171223T124514Z">
+        <seg>所以當你選擇刪除時，就直接刪除了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,6 +4635,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T123934Z" creationid="Franklin Weng" creationdate="20171218T123934Z">
         <seg>The Presentation Wizard in Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Template &lt;f0&gt;M&lt;/f0&gt;anager does not include confirmation dialogs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124501Z" creationid="Franklin Weng" creationdate="20171223T124501Z">
+        <seg>在範本選單內操作時，不會在做動作以前向你再確認一次。</seg>
       </tuv>
     </tu>
     <tu>
