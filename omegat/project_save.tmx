@@ -815,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he types of styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T172930Z" creationid="zerng07" creationdate="20171223T172930Z">
+        <seg>樣式的類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Presentation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; template is particularly useful.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134559Z" creationid="Franklin Weng" creationdate="20171215T134429Z">
@@ -2791,6 +2799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, LibreOffice &lt;f1&gt;adds&lt;/f1&gt; three more styles in Writer (plus a pseudo-style for &lt;f2&gt;t&lt;/f2&gt;ables), and other styles &lt;f3&gt;for spreadsheets, presentations, and diagrams.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173143Z" creationid="zerng07" creationdate="20171223T173143Z">
+        <seg>不過，LibreOffice &lt;f1&gt;adds&lt;/f1&gt; three more styles in Writer (plus a pseudo-style for &lt;f2&gt;t&lt;/f2&gt;ables), and other styles &lt;f3&gt;for spreadsheets, presentations, and diagrams.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, a conventional &lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ave&lt;/f2&gt; does not register and activate the new template for &lt;f3&gt;use on your system&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125442Z" creationid="Franklin Weng" creationdate="20171218T125442Z">
@@ -3851,6 +3867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184800Z" creationid="zerng07" creationdate="20170817T150635Z">
         <seg>大多數的我們都能勉勉強強設定出文件中的格式，然後印出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most office suite&lt;f0&gt;s&lt;/f0&gt; confine themselves to paragraph and character styles in their word processors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173116Z" creationid="zerng07" creationdate="20171223T173116Z">
+        <seg>大多數的辦公套裝軟體都將段落樣式與字元樣式功能限定在文書處理器中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6187,6 +6211,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T080000Z" creationid="Jeff Huang" creationdate="20171123T080000Z">
         <seg>你可能會決定只為關鍵元素命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find one close enough to your needs &lt;f0&gt;to re-use.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T172921Z" creationid="zerng07" creationdate="20171223T172913Z">
+        <seg>你也許能找出足以符合你需求可重複使用的範本。</seg>
       </tuv>
     </tu>
     <tu>
