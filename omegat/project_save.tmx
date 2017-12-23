@@ -3905,16 +3905,16 @@
       <tuv lang="EN">
         <seg>Place the cursor in the left hand frame and select &lt;f0&gt;Insert &gt; Fields &gt; Other &gt; Functions &gt; Placeholder.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120955Z" creationid="Franklin Weng" creationdate="20171223T120955Z">
-        <seg>將游標移到左邊的外框，選擇「插入」&gt;「欄位」&gt;「其他欄位」，然後在「功能」分頁中選「佔位項」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123128Z" creationid="Franklin Weng" creationdate="20171223T120955Z">
+        <seg>將游標移到左邊的外框，選擇「插入」&gt;「文字方塊」，然後點進文字方塊後，選擇「插入」&gt;「欄位」&gt;「其他欄位」，然後在「功能」分頁中選「佔位項」。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Place the cursor in the right hand frame and &lt;f0&gt;create one placeholder per line for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author, Position, Company, Email,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121308Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
-        <seg>將游標移到右邊的外框，然後每一行建立一個文字佔位符，分別稱為「作者」、「位置」、「公司」、「電子郵件」還有「電話號碼」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123256Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
+        <seg>將游標移到右邊的外框，然後每一行建立一個文字佔位符。第一個在「欄位」中直接選擇「作者」，接下來在「欄位」中選擇「其他欄位」，照上面的方式選擇建立「位置」、「公司」、「電子郵件」還有「電話號碼」等等佔位符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4473,8 +4473,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123108Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
-        <seg>「作者」欄位The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123346Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
+        <seg>「欄位」中的「作者」會自動填入你在「工具」&gt;「選項」&gt;「LibreOffice」中的使用者資料的內容。</seg>
       </tuv>
     </tu>
     <tu>
