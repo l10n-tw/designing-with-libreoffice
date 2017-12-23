@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Alternatively, select from the template manager tool bar &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Repository &gt; Local&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Repository &gt; New repository.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033131Z" creationid="Franklin Weng" creationdate="20171223T033131Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;此外，也可以從範本視窗中的工具列選擇「主目錄」&gt;「本地」或是「主目錄」&gt;「新增主目錄」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123056Z" creationid="Franklin Weng" creationdate="20171213T123056Z">
@@ -3735,6 +3743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting a new default</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033138Z" creationid="Franklin Weng" creationdate="20171223T033138Z">
+        <seg>設定新的預設範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several &lt;f0&gt;other&lt;/f0&gt; organizations repackage both LibreOffice and Apache OpenOffice, sometimes under different names.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184504Z" creationid="zerng07" creationdate="20170817T182104Z">
@@ -4107,6 +4123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
         <seg>交叉參照只能在主控文件中正確顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default template &lt;f0&gt;for each module in LibreOffice &lt;/f0&gt;is based on &lt;f1&gt;several &lt;/f1&gt;assumptions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042317Z" creationid="Franklin Weng" creationdate="20171223T042317Z">
+        <seg>LibreOffice 中每個模組的預設範本設定，都是基於一些使用者常見行為所做出的假設。</seg>
       </tuv>
     </tu>
     <tu>
