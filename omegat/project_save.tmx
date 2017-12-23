@@ -1927,6 +1927,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Discussions of templates usually emphasize storing formats in them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043114Z" creationid="Franklin Weng" creationdate="20171223T043114Z">
+        <seg>在討論範本的時候，通常會著重在裡面所儲存的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you prefer a particular font size?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124048Z" creationid="Franklin Weng" creationdate="20171213T124048Z">
@@ -2371,6 +2379,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T082418Z" creationid="Jeff Huang" creationdate="20171213T032932Z">
         <seg>然而，就像所有的手動格式設定一樣，你添加得越多，文件就越難維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, templates &lt;f0&gt;can store&lt;/f0&gt; everything from return addresses to standard boilerplate such as corporate backgrounders – any information that you re-use but do not care to reinvent or type again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043124Z" creationid="Franklin Weng" creationdate="20171223T043124Z">
+        <seg>However, templates &lt;f0&gt;can store&lt;/f0&gt; everything from return addresses to standard boilerplate such as corporate backgrounders – any information that you re-use but do not care to reinvent or type again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3027,6 +3043,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T181028Z" creationid="zerng07" creationdate="20170817T175347Z">
         <seg>LibreOffice是個辦公&lt;f0&gt;套裝軟體&lt;/f0&gt; ，可以在&lt;f1&gt;32與64位元版本的&lt;/f1&gt;Linux、&lt;f2&gt;OS X、&lt;/f2&gt; 和Windows等作業系統上執行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice reverts to its &lt;f0&gt;original&lt;/f0&gt; &lt;f1&gt;Default&lt;/f1&gt; template &lt;f2&gt;(the default &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Default&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; if you delete the replacement default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043042Z" creationid="Franklin Weng" creationdate="20171223T043042Z">
+        <seg>如果你移除你自己的預設範本，則 LibreOffice 會改回使用它自己原始的預設範本（範本中名為 Default）的那一個。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3979,6 +4003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
         <seg>最後，一樣要強調《&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f0&gt;&lt;f1&gt;排版設計&lt;/f1&gt;&lt;/f0&gt;》一書不是&lt;f3&gt;要講抽象的設計概念，而是在探討&lt;/f3&gt;如何把日常作業做好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Storing template &lt;f0&gt;structure&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043049Z" creationid="Franklin Weng" creationdate="20171223T043049Z">
+        <seg>儲存範本結構</seg>
       </tuv>
     </tu>
     <tu>
