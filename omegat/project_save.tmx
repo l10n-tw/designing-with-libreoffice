@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;If you are unsure whether a document is still associated with a template, make a minor change in the template and see if the document updates the next time that you open LibreOffice.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133239Z" creationid="Franklin Weng" creationdate="20171223T133239Z">
+        <seg>如果你不確定文件是否仍關聯到某份範本，只要在該範本做一點點小變更，然後重開文件看看是否跟著改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
@@ -775,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sometimes&lt;/f0&gt;, however, you may want to deal with templates &lt;f1&gt;from outside LibreOffice&lt;/f1&gt;, either because LibreOffice is not open or because you are dealing with &lt;f2&gt;more than one template at a time&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133349Z" creationid="Franklin Weng" creationdate="20171223T133349Z">
+        <seg>&lt;f0&gt;不過有時候，&lt;/f0&gt;你可能會需要在 LibreOffice 之外處理範本。例如 LibreOffice 未開啟，或是你要同時處理一個以上的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Templates&lt;/f1&gt; link on the introductory splash screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T120953Z" creationid="Franklin Weng" creationdate="20171212T142321Z">
@@ -867,6 +883,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
         <seg>&lt;f0&gt;如&lt;/f0&gt;要取得LibreOffice的擴充套件和範本，&lt;f1&gt;請前往以下連結：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Transferring styles does not change the template listed in&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; File &gt; Properties &gt; General.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133152Z" creationid="Franklin Weng" creationdate="20171223T133152Z">
+        <seg>&lt;f0&gt;轉換樣式不會改變在「檔案」&gt;「屬性」&gt;「一般」中所列出的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3551,6 +3575,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice includes all the features you need to interact with templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133308Z" creationid="Franklin Weng" creationdate="20171223T133308Z">
+        <seg>LibreOffice 已經提供了所有處理範本所需的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice is &lt;f0&gt;descended from&lt;/f0&gt; OpenOffice.org, a free and open source software project run for years by Sun Microsystems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061635Z" creationid="zerng07" creationdate="20170817T180113Z">
@@ -5787,6 +5819,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
         <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with templates &lt;f0&gt;in&lt;/f0&gt; a file manager</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133252Z" creationid="Franklin Weng" creationdate="20171223T133252Z">
+        <seg>在檔案管理員中處理範本</seg>
       </tuv>
     </tu>
     <tu>
