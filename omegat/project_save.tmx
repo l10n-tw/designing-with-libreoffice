@@ -3087,6 +3087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you import the template-less document into the master document, it will be reformatted while &lt;f0&gt;being &lt;/f0&gt;used from within the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130550Z" creationid="Franklin Weng" creationdate="20171223T130550Z">
+        <seg>如果你把一個沒有套用範本的文件匯進主文件內，它會重新排過格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need information on features or selections that are not mentioned in this book, see the LibreOffice documentation page:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183607Z" creationid="zerng07" creationdate="20170817T173556Z">
