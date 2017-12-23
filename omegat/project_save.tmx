@@ -1601,8 +1601,8 @@
       <tuv lang="EN">
         <seg>All objects inserted to a Writer document are contained by a frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180040Z" creationid="zerng07" creationdate="20171223T180040Z">
-        <seg>所有插入Writer中的物件都包在一個訊框之內。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180355Z" creationid="zerng07" creationdate="20171223T180040Z">
+        <seg>插入Writer中的所有物件都是包在訊框之內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1715,6 +1715,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
         <seg>Impress 投影片，在標題、本文處有佔位項，還有中間有新增表格、圖表、影像與影片用的佔位項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An exact equivalent to manual formatting with &lt;f1&gt;Format &gt; Character.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180502Z" creationid="zerng07" creationdate="20171223T180502Z">
+        <seg>實際等於「&lt;f1&gt;格式 &gt; 字元&lt;/f1&gt;」的手動格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2275,6 +2283,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175105Z" creationid="zerng07" creationdate="20171223T175105Z">
         <seg>註解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Common character styles are bold lettering for emphasis, italics for a book title, and underlining and a different color for a web link.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180736Z" creationid="zerng07" creationdate="20171223T180539Z">
+        <seg>以英文為例，常用的字元樣式做法為粗體字作強調、斜體字表示書名、換不同顏色並加底線指示網頁連結等。</seg>
       </tuv>
     </tu>
     <tu>
