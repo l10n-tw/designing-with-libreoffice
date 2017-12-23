@@ -2463,6 +2463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Give each line a right alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123354Z" creationid="Franklin Weng" creationdate="20171223T123354Z">
+        <seg>讓每一行都靠右對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;&lt;f1&gt;File &gt; Business Cards, &lt;/f1&gt;&lt;/f0&gt;and select the label sheet &lt;f2&gt;to use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120634Z" creationid="Franklin Weng" creationdate="20171223T095047Z">
@@ -4055,6 +4063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123456Z" creationid="Franklin Weng" creationdate="20171223T123456Z">
+        <seg>儲存文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving &lt;f0&gt;and&lt;/f0&gt; registering templates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124418Z" creationid="Franklin Weng" creationdate="20171218T124418Z">
@@ -4475,6 +4491,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123346Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
         <seg>「欄位」中的「作者」會自動填入你在「工具」&gt;「選項」&gt;「LibreOffice」中的使用者資料的內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Business Card&lt;/f0&gt; &lt;f1&gt;template&lt;/f1&gt; is now ready for any user to complete by clicking on each placeholder and replacing it with actual information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123634Z" creationid="Franklin Weng" creationdate="20171223T123634Z">
+        <seg>現在「名片」範本已經準備好了，任何使用者只要點擊每個佔位符填入自己的資訊即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,6 +5499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100501Z" creationid="Franklin Weng" creationdate="20171212T100501Z">
         <seg>你可以開發同樣詳細的結構化範本來自動化你的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can further adjust the look of the placeholders by editing the &lt;f0&gt;Placeholder&lt;/f0&gt; character style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123451Z" creationid="Franklin Weng" creationdate="20171223T123451Z">
+        <seg>你可以進一步用「樣式」來調整佔位符的字元樣式。</seg>
       </tuv>
     </tu>
     <tu>
