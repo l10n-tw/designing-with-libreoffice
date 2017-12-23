@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Set as Default&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042851Z" creationid="Franklin Weng" creationdate="20171223T042851Z">
+        <seg>&lt;f0&gt;點擊選擇「設為預設值」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Describing itself as “&lt;/f0&gt;the first ever open-source &lt;f1&gt;type&lt;/f1&gt; foundry,” &lt;f2&gt;The League of Moveable Type offers a small but select library of original font designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T133043Z" creationid="zerng07" creationdate="20170817T133625Z">
@@ -1847,6 +1855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create and register the replacement &lt;f0&gt;template&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042734Z" creationid="Franklin Weng" creationdate="20171223T042734Z">
+        <seg>建立並註冊你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created for the &lt;f0&gt;KDE&lt;/f0&gt; desktop environment on Linux, Oxygen is a modern geometric font, made of simple shapes, but highly readable and pleasing to the eye.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T143127Z" creationid="zerng07" creationdate="20170817T142039Z">
@@ -2323,6 +2339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T080319Z" creationid="Jeff Huang" creationdate="20171123T080319Z">
         <seg>不過，如果文件不包含標題，請選擇其他重要的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if they don’t serve your needs, you can avoid making changes to every generic document that you start by changing the default template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042702Z" creationid="Franklin Weng" creationdate="20171223T042702Z">
+        <seg>不過，如果這些預設設定不符你的需求，你可以修改預設範本的設定，這樣就不用每份通用文件都要修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,6 +3271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now, each new document will use the default template unless you specifically choose another template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042912Z" creationid="Franklin Weng" creationdate="20171223T042912Z">
+        <seg>這樣，每一份新文件都會使用這些預設值，除非你額外指定其他的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>O&lt;/f0&gt;nce the style is ready, here's how you would make the same changes using styles:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113139Z" creationid="zerng07" creationdate="20171219T112507Z">
@@ -3419,6 +3451,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111606Z" creationid="zerng07" creationdate="20171219T111606Z">
         <seg>打開工具列的&lt;f0&gt;字型色彩&lt;/f0&gt;列表，並選取指定的&lt;f1&gt;色彩&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Template Manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042741Z" creationid="Franklin Weng" creationdate="20171223T042741Z">
+        <seg>打開「範本」視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3739,6 +3779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112955Z" creationid="zerng07" creationdate="20171219T112948Z">
         <seg>選取段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the replacement default template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042754Z" creationid="Franklin Weng" creationdate="20171223T042754Z">
+        <seg>選取你要預設使用的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4415,6 +4463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are reasonable assumptions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042624Z" creationid="Franklin Weng" creationdate="20171223T042624Z">
+        <seg>這些都是相當合理的假設。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These wizards illustrate the kinds of decisions that you make when designing, and can give you a sense of the sorts of decisions you need to make when designing your own templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125439Z" creationid="Franklin Weng" creationdate="20171215T125439Z">
@@ -4579,6 +4635,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133013Z" creationid="Franklin Weng" creationdate="20171213T133013Z">
         <seg>為了避免這些問題發生，範本名稱越精確越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the default template:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042710Z" creationid="Franklin Weng" creationdate="20171223T042710Z">
+        <seg>修改預設範本的方法：</seg>
       </tuv>
     </tu>
     <tu>
