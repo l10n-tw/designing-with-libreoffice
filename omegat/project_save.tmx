@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Paragraph&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;C&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;haracter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; styles are listed together under &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Overwrite&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; to replace existing styles of the same name.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132337Z" creationid="Franklin Weng" creationdate="20171223T132337Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;段落與字元樣式都在「文字」當中。勾選「覆蓋」會取代掉檔案中相同名稱的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
@@ -5307,6 +5315,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
         <seg>時至今日，OpenOffice.org已不存在，存續的是Apache OpenOffice。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transferring styles between documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130949Z" creationid="Franklin Weng" creationdate="20171223T130949Z">
+        <seg>在文件間轉換樣式。</seg>
       </tuv>
     </tu>
     <tu>
