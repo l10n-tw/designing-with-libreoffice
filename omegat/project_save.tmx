@@ -991,6 +991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;I&lt;/f2&gt;t assumes that most users want a generic &lt;t3/&gt;font, like Times New Roman or Liberation Serif.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042425Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
+        <seg>&lt;f2&gt;&lt;/f2&gt;例如它根據大部份使用者的習慣，將字型設定為常用的，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;If you see a difference that I fail to mention, please let me know, so that I can make corrections.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145402Z" creationid="zerng07" creationdate="20170822T145344Z">
@@ -2835,6 +2843,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163930Z" creationid="zerng07" creationdate="20170817T163930Z">
         <seg>本書假定&lt;/f4&gt;讀者已經熟悉LibreOffice或其他辦公套裝軟體&lt;f5&gt;，又或者至少&lt;/f5&gt;能自行探索選單項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It assumes that a connection exists between language locale and paper size, so that an installation that defaults to American English will use letter-sized paper, while one that defaults to United Kingdom English will use A4 paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042615Z" creationid="Franklin Weng" creationdate="20171223T042615Z">
+        <seg>它也假設在使用的語言設定與使用的紙張大小間有一定的關聯。所以當安裝時使用的語言是美式英文的話，紙張大小預設就使用 Letter，而使用英式英文的話，紙張大小預設就使用 A4。</seg>
       </tuv>
     </tu>
     <tu>
