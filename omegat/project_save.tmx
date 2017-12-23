@@ -1311,6 +1311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjust the zoom so you &lt;f0&gt;can &lt;/f0&gt;work comfortably on the sample card.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120714Z" creationid="Franklin Weng" creationdate="20171223T120714Z">
+        <seg>調整大小以便適合你設計名片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting hyphenation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073559Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
@@ -1959,6 +1967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;New Document&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; button to continue.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120651Z" creationid="Franklin Weng" creationdate="20171223T120651Z">
+        <seg>然後點擊「新文件」繼續。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider alternatives so that they do not become too noticeable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085952Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
@@ -1979,6 +1995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042734Z" creationid="Franklin Weng" creationdate="20171223T042734Z">
         <seg>建立並註冊你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create two frames of equal width and height from &lt;f0&gt;Insert &gt; Frame.&lt;/f0&gt; One is for a graphic on the left, and the other for text on the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120856Z" creationid="Franklin Weng" creationdate="20171223T120856Z">
+        <seg>用「插入」&gt;「外框」&gt;「外框」建立兩個相同大小的外框。一個在左邊放圖片，一個在右邊放文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3851,6 +3875,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112549Z" creationid="zerng07" creationdate="20171219T112549Z">
         <seg>將游標移動到標題段落的任何地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the left hand frame and select &lt;f0&gt;Insert &gt; Fields &gt; Other &gt; Functions &gt; Placeholder.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120955Z" creationid="Franklin Weng" creationdate="20171223T120955Z">
+        <seg>將游標移到左邊的外框，選擇「插入」&gt;「欄位」&gt;「其他欄位」，然後在「功能」分頁中選「佔位項」。</seg>
       </tuv>
     </tu>
     <tu>
