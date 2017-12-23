@@ -783,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To open &lt;/f0&gt;a template &lt;f1&gt;for editing, select &lt;/f1&gt;&lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Manage&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;to open the Template Manager, &lt;/f8&gt;select a template, &lt;f9&gt;and click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Edit&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; on the tool bar above the templates&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124017Z" creationid="Franklin Weng" creationdate="20171223T124017Z">
+        <seg>&lt;f0&gt;要編輯一個範本，從選單中選擇「檔案」&gt;「範本」&gt;「管理範本」打開範本視窗。然後在要編輯的範本上點滑鼠右鍵，選擇「編輯」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To&lt;/f0&gt; get extensions and templates for LibreOffice, &lt;f1&gt;go to these links:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193303Z" creationid="zerng07" creationdate="20170817T171046Z">
@@ -1227,6 +1235,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090919Z" creationid="Jeff Huang" creationdate="20171213T024150Z">
         <seg>&lt;f2&gt;最常見的問題點是，一個下方有留空間的段落，碰上另一個上方有留空間的段落，這樣會產生比你預期更多的空白。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;basic business card template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123642Z" creationid="Franklin Weng" creationdate="20171223T123642Z">
+        <seg>基本的名片範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2215,6 +2231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing templates</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123808Z" creationid="Franklin Weng" creationdate="20171223T123808Z">
+        <seg>編輯範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either print out a copy or use &lt;f0&gt;File &gt; Print Preview.&lt;/f0&gt; &lt;f1&gt;Better still, do both.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090520Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
@@ -3119,6 +3143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, the first few times you use a template, you are likely to find countless ways to improve it so that it meets your needs without requiring endless manual adjustments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123906Z" creationid="Franklin Weng" creationdate="20171223T123906Z">
+        <seg>通常你在使用範本的前幾次，可能會發現不少需要改進的地方，才不用每次都需要手動再做調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T155525Z" creationid="zerng07" creationdate="20170817T150101Z">
@@ -3931,6 +3963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
         <seg>佔位項是在特定地方標記該處要填入哪一種資料，讓你點擊後可以直接填寫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Placeholders are used for information, and the name is filled in using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, which borrows information from &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data &gt; First / Last Name.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123804Z" creationid="Franklin Weng" creationdate="20171223T123732Z">
+        <seg>佔位符用於填入資訊，而名字則使用「作者」欄位，直接借用「工具」&gt;「選項」&gt;「LibreOffice」&gt;「使用者資料」中的姓跟名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5115,6 +5155,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132634Z" creationid="Franklin Weng" creationdate="20171213T132634Z">
         <seg>除非你一些範本是極度相似，你&lt;f3&gt;應該&lt;/f3&gt;不會想要一次設計一個以上的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unless you are extremely well-organized or lucky, you won’t make a perfect template in one sitting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123839Z" creationid="Franklin Weng" creationdate="20171223T123839Z">
+        <seg>除非你做得非常嚴謹或是非常好運，不然不太容易一次就把範本通通搞定。</seg>
       </tuv>
     </tu>
     <tu>
