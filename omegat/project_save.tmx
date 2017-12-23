@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100339Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
-        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的指引符 (placeholders) 等等。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
+        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位項 (placeholders) 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,16 +1369,16 @@
       <tuv lang="EN">
         <seg>An &lt;f0&gt;Impress slide with a formal placeholder for the title and informal ones for other information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100553Z" creationid="Franklin Weng" creationdate="20171212T100553Z">
-        <seg>一份&lt;f0&gt;Impress 簡報，在標題的地方有請你填入標題的指引符，下面則有指引填入其他資料的指引符。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171212T100553Z">
+        <seg>一份&lt;f0&gt;Impress 簡報，在標題的地方有請你填入標題的佔位項，下面則有指引填入其他資料的佔位項。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An Impress slide, with placeholders for the title and text, and a generic placeholder for tables, charts, images, and movies in the middle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092445Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
-        <seg>Impress 投影片，在標題、本文處有指引符，還有中間有新增表格、圖表、影像與影片用的指引符。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
+        <seg>Impress 投影片，在標題、本文處有佔位項，還有中間有新增表格、圖表、影像與影片用的佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,8 +2769,8 @@
       <tuv lang="EN">
         <seg>Impress &lt;f0&gt;has built-in placeholders for slide titles, body text, and inserted objects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092341Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
-        <seg>Impress &lt;f0&gt;在投影片標題、本文與插入物件處都放有指引符。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
+        <seg>Impress &lt;f0&gt;在投影片標題、本文與插入物件處都放有佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,16 +3673,16 @@
       <tuv lang="EN">
         <seg>Placeholders are fields that mark the type of information needed at a certain spot, but leave you to fill in the details by clicking them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092311Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
-        <seg>指引符是在特定地方標記該處要填入哪一種資料，讓你點擊後可以直接填寫。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
+        <seg>佔位項是在特定地方標記該處要填入哪一種資料，讓你點擊後可以直接填寫。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100629Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
-        <seg>這些指引符可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
+        <seg>這些佔位項可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4873,8 +4873,8 @@
       <tuv lang="EN">
         <seg>Using placeholders</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092212Z" creationid="Franklin Weng" creationdate="20171223T092212Z">
-        <seg>使用指引符（placeholders）</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092212Z">
+        <seg>使用佔位項（placeholders）</seg>
       </tuv>
     </tu>
     <tu>
