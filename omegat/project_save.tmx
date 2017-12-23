@@ -895,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Click the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; button to continue.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121039Z" creationid="Franklin Weng" creationdate="20171223T121039Z">
+        <seg>&lt;f1&gt;點擊「插入」來繼續下一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;ts front page includes a list of the most recently uploaded fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
@@ -1987,6 +1995,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050849Z" creationid="Jeff Huang" creationdate="20171111T130811Z">
         <seg>你可以回應哪些反面論述？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an Image placeholder and call it &lt;f0&gt;Graphic&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121022Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
+        <seg>建立一個影像的佔位項，命名為 &lt;f0&gt;Graphic&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,6 +3903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor in the right hand frame and &lt;f0&gt;create one placeholder per line for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author, Position, Company, Email,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121224Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
+        <seg>將游標移到右邊的外框，然後每一行建立一個文字佔位符，分別稱為 Author, Position, Company, Email, 還有 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Placeholders are fields that mark the type of information needed at a certain spot, but leave you to fill in the details by clicking them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
@@ -5483,6 +5507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141529Z" creationid="zerng07" creationdate="20171212T141529Z">
         <seg>你無法更改樣式的細節層面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to close the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Fields&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; dialog window to continue.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121051Z" creationid="Franklin Weng" creationdate="20171223T121051Z">
+        <seg>你不需要關閉「欄位」對話框。</seg>
       </tuv>
     </tu>
     <tu>
