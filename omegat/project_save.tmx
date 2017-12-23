@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, you can also u&lt;/f0&gt;se placeholders for &lt;f1&gt;text and objects in Writer &lt;/f1&gt;from&lt;f2&gt; Insert &gt; Fields &gt; Other &gt; Functions&lt;/f2&gt;.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Format,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; then give the placeholder a name in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Placeholder&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092935Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
+        <seg>&lt;f0&gt;不過，你也可以在 Writer 選單的「插入」&gt;「欄位」&gt;「更多欄位」&gt;「功能」中的「格式」分頁加入文件或物件的指引符，然後在右邊的「佔位項」中加入名稱即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hundreds of extensions and templates are available for LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T171255Z" creationid="zerng07" creationdate="20170817T171255Z">
@@ -1363,6 +1371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100553Z" creationid="Franklin Weng" creationdate="20171212T100553Z">
         <seg>一份&lt;f0&gt;Impress 簡報，在標題的地方有請你填入標題的指引符，下面則有指引填入其他資料的指引符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An Impress slide, with placeholders for the title and text, and a generic placeholder for tables, charts, images, and movies in the middle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092445Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
+        <seg>Impress 投影片，在標題、本文處有指引符，還有中間有新增表格、圖表、影像與影片用的指引符。</seg>
       </tuv>
     </tu>
     <tu>
