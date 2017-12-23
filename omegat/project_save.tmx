@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Save&lt;/f1&gt; icon at the top left, &lt;f2&gt;and give the new template a name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032718Z" creationid="Franklin Weng" creationdate="20171223T032718Z">
+        <seg>&lt;f0&gt;點擊&lt;/f0&gt;左上角的&lt;f1&gt;儲存&lt;/f1&gt;圖示，&lt;f2&gt;然後輸入新範本的名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Describing itself as “&lt;/f0&gt;the first ever open-source &lt;f1&gt;type&lt;/f1&gt; foundry,” &lt;f2&gt;The League of Moveable Type offers a small but select library of original font designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T133043Z" creationid="zerng07" creationdate="20170817T133625Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T171255Z" creationid="zerng07" creationdate="20170817T171255Z">
         <seg>&lt;f0&gt;LibreOffice有上百個擴充套件和範本可供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;f you have downloaded a large number of templates, you can &lt;f1&gt;register&lt;/f1&gt; a large number of them by moving them to one of the directories listed in the &lt;f2&gt;Paths&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032934Z" creationid="Franklin Weng" creationdate="20171223T032934Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;如果你一次下載一大堆範本，你可以把它們都移到&lt;f3&gt;「工具」&gt;「選項」&lt;/f3&gt;中的「&lt;f2&gt;路徑&lt;/f2&gt;」區段裡列出的目錄下，這樣就註冊完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2407,6 +2423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, you can overwrite an existing template.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032729Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
+        <seg>必要的話，你可以把現有的範本蓋掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If so, &lt;f1&gt;begin by creating&lt;/f1&gt; the colors in &lt;f2&gt;Tools &gt; Options &gt; Colors&lt;/f2&gt; so they are available for uses such as table borders and headings in color documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124015Z" creationid="Franklin Weng" creationdate="20171213T124015Z">
@@ -2529,8 +2553,8 @@
       <tuv lang="EN">
         <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T141754Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
-        <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032639Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
+        <seg>如果你沒有選擇子目錄，那麼範本會根據它的檔案格式，儲存到適當的分頁去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3655,6 +3679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving &lt;f0&gt;multiple templates&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032751Z" creationid="Franklin Weng" creationdate="20171223T032751Z">
+        <seg>儲存&lt;f0&gt;多個範本&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scroll to the paragraph style you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112938Z" creationid="zerng07" creationdate="20171219T112938Z">
@@ -4227,6 +4259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091410Z" creationid="Jeff Huang" creationdate="20171214T055914Z">
         <seg>手動修改的地方越多，你就越接近需要讓文件重新發行新版的地步。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The newly saved template is now available for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032740Z" creationid="Franklin Weng" creationdate="20171223T032740Z">
+        <seg>現在你就可以使用新的範本了。</seg>
       </tuv>
     </tu>
     <tu>
