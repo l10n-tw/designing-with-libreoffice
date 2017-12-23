@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;f you are installing a large number of templates, &lt;f1&gt;placing them all in one directory, adding to the path, and re-starting LibreOffice is the quickest way of registering them.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133943Z" creationid="Franklin Weng" creationdate="20171223T133943Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;如果你要同時安裝大量的範本，則將這些範本放在一個目錄中，並在範本路徑中加入該目錄，再重啟 LibreOffice 是同時註冊所有範本最快的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you have downloaded a large number of templates, you can &lt;f1&gt;register&lt;/f1&gt; a large number of them by moving them to one of the directories listed in the &lt;f2&gt;Paths&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032934Z" creationid="Franklin Weng" creationdate="20171223T032934Z">
@@ -2575,6 +2583,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you downloaded a Linux version directly from The Document Foundation, this directory will be in something like /opt/libreoffice4.4/share/template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133819Z" creationid="Franklin Weng" creationdate="20171223T133819Z">
+        <seg>祿如，如果你從文件基金會的網站那直接下載的 LInux 版本，可能就會安裝在像是 /opt/libreoffice4.4/share/template 之類的路徑中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if your drawing has no text, any text setting is irrelevant.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082749Z" creationid="Jeff Huang" creationdate="20171221T082749Z">
@@ -3223,6 +3239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to make directories accessible to all users on the system, log in as root or administrator and go to the directory in which LibreOffice was installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133750Z" creationid="Franklin Weng" creationdate="20171223T133750Z">
+        <seg>如果你要把目錄設成系統上所有使用者都可以使用，則用 root 或管理員帳號登入後，到 LibreOffice 安裝的路徑中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to replace any styles in the current document that have the same name as the ones in the template or document &lt;t0/&gt;from which you are importing styles, &lt;f1&gt;click&lt;/f1&gt; the &lt;f2&gt;Overwrite&lt;/f2&gt; button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132816Z" creationid="Franklin Weng" creationdate="20171223T132816Z">
@@ -3339,6 +3363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054022Z" creationid="Jeff Huang" creationdate="20171111T131840Z">
         <seg>如果是紙本文件，段落長度可以更長，但僅限於你需要較長的詳細論述時使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other cases, the top two directories may be different, but the bottom two should be the same.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133841Z" creationid="Franklin Weng" creationdate="20171223T133841Z">
+        <seg>在其他的系統可能前兩個目錄會不太一樣，但後面的應該會相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4843,6 +4875,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093130Z" creationid="Franklin Weng" creationdate="20171223T093130Z">
         <seg>在 Writer 中新增佔位項的「欄位」視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;c&lt;/f0&gt;omplete &lt;f1&gt;b&lt;/f1&gt;asics</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134001Z" creationid="Franklin Weng" creationdate="20171223T134001Z">
+        <seg>完整的基礎</seg>
       </tuv>
     </tu>
     <tu>
