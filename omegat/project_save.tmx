@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Either s&lt;/f0&gt;elect one of the templates in the Template pane &lt;f1&gt;or c&lt;/f1&gt;lick the &lt;f2&gt;From File&lt;/f2&gt; button and select a document template using the file manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132625Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
+        <seg>&lt;f0&gt;你可以從「範本」視窗中選擇一個範本，或是點擊左下角「取自檔案」並選擇一個文件範本檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Except with Template Changer or another extension, y&lt;/f0&gt;ou cannot &lt;f1&gt;directly change&lt;/f1&gt; &lt;f2&gt;which&lt;/f2&gt; template &lt;f3&gt;is &lt;/f3&gt;used by a &lt;f4&gt;document&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124732Z" creationid="Franklin Weng" creationdate="20171223T124732Z">
@@ -3159,6 +3167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to replace any styles in the current document that have the same name as the ones in the template or document &lt;t0/&gt;from which you are importing styles, &lt;f1&gt;click&lt;/f1&gt; the &lt;f2&gt;Overwrite&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132816Z" creationid="Franklin Weng" creationdate="20171223T132816Z">
+        <seg>如果你要把目前文件中的樣式用範本裡相同名稱的樣式取代，就把「覆蓋」選項勾起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you work for a company, does it have corporate colors that you will constantly use?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123755Z" creationid="Franklin Weng" creationdate="20171213T123755Z">
@@ -4351,6 +4367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the types of styles to import by selecting the boxes along the &lt;f0&gt;bottom&lt;/f0&gt; of the &lt;f1&gt;Load Styles&lt;/f1&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132650Z" creationid="Franklin Weng" creationdate="20171223T132650Z">
+        <seg>勾選要匯入的樣式型態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select&lt;f0&gt; Tools &gt; Update &gt; Update All &lt;/f0&gt;to ensure that all fields are up to date.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083903Z" creationid="Jeff Huang" creationdate="20171214T062547Z">
@@ -4711,6 +4735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Load Styles&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; window uses &lt;/f2&gt;&lt;f3&gt;Text&lt;/f3&gt; &lt;f4&gt;to &lt;/f4&gt;refer to both &lt;f5&gt;&lt;f6&gt;P&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;aragraph&lt;/f7&gt; and &lt;f8&gt;&lt;f9&gt;C&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;haracter&lt;/f10&gt; styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132721Z" creationid="Franklin Weng" creationdate="20171223T132721Z">
+        <seg>「載入樣式」視窗中的「文字」選項同時包含了段落與字元的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123346Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
@@ -4723,6 +4755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123634Z" creationid="Franklin Weng" creationdate="20171223T123634Z">
         <seg>現在「名片」範本已經準備好了，任何使用者只要點擊每個佔位符填入自己的資訊即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Categories&lt;/f0&gt; pane shows the sub-folders &lt;f1&gt;in the Template Manager, while the template pane shows the templates of the current sub-folder.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132546Z" creationid="Franklin Weng" creationdate="20171223T132546Z">
+        <seg>「類別」中顯示的是範本視窗中的子目錄，而「範本」中顯示的則是該類別的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4755,6 +4795,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T102911Z" creationid="zerng07" creationdate="20170817T102354Z">
         <seg>Arkandis 字型的創立是為了讓 Linux 使用者有自由授權的字型可運用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Load Styles window opens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132508Z" creationid="Franklin Weng" creationdate="20171223T132508Z">
+        <seg>會開啟「載入樣式」視窗。</seg>
       </tuv>
     </tu>
     <tu>
