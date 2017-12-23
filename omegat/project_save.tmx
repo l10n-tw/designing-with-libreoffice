@@ -1599,6 +1599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All objects inserted to a Writer document are contained by a frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180040Z" creationid="zerng07" creationdate="20171223T180040Z">
+        <seg>所有插入Writer中的物件都包在一個訊框之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All such items can go into an all-purpose template that can be the starting point for others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124149Z" creationid="Franklin Weng" creationdate="20171213T124149Z">
@@ -2107,6 +2115,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094020Z" creationid="Franklin Weng" creationdate="20171223T094020Z">
         <seg>相反地，「變數」分頁中的欄位在每次使用者開啟文件時就會更新到目前這個時間點的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By customizing &lt;f0&gt;&lt;f1&gt;F&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;rame&lt;/f2&gt; styles, you can automatically adjust elements such as the border around objects and how text flows around them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180326Z" creationid="zerng07" creationdate="20171223T180326Z">
+        <seg>藉由自訂&lt;f2&gt;訊框&lt;/f2&gt;樣式，你就可以自動調整物件邊框之類的元素，還能控制文字行經過這些物件時的動向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2755,6 +2771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T080540Z" creationid="Jeff Huang" creationdate="20171221T080540Z">
         <seg>格式化繪製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frame</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180002Z" creationid="zerng07" creationdate="20171223T180002Z">
+        <seg>訊框</seg>
       </tuv>
     </tu>
     <tu>
