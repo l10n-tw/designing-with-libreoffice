@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Or perhaps you want to organize your installation by adding sub-folders to the main template directories.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133422Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
+        <seg>&lt;f3&gt;或者可能你要重新組織你的主要範本目錄，在裡面新增子目錄等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;T&lt;/f3&gt;he &lt;f4&gt;SIL&lt;/f4&gt; Font License &lt;f5&gt;is the most widely used license for free fonts, and responsible for much of the spread of free fonts.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T182804Z" creationid="zerng07" creationdate="20170817T144033Z">
@@ -3359,6 +3367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In these cases, &lt;f0&gt;you can interact with templates through a file manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133438Z" creationid="Franklin Weng" creationdate="20171223T133438Z">
+        <seg>在這種情況下，你可以透過你系統上的檔案管理員來處理範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert one of each of the shapes your document uses, then choose the style to apply from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles and Formatting&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; window.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T072310Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
@@ -4927,6 +4943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The director&lt;f0&gt;y (or directories)&lt;/f0&gt; where templates are stored is listed in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133617Z" creationid="Franklin Weng" creationdate="20171223T133553Z">
+        <seg>在「工具」&gt;「選項」&gt;「路徑」中所列出的存放範本的目錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The disadvantage &lt;f0&gt;of using others’ templates&lt;/f0&gt; is that you have to sort through &lt;f1&gt;them&lt;/f1&gt; to find what you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T121523Z" creationid="Franklin Weng" creationdate="20171215T121523Z">
@@ -5019,6 +5043,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144222Z" creationid="zerng07" creationdate="20171219T144222Z">
         <seg>文件的格式設定非常簡單、平常，&lt;f0&gt;就像一篇作文。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exact path differs with operating systems and LibreOffice releases.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133637Z" creationid="Franklin Weng" creationdate="20171223T133637Z">
+        <seg>你所看到的實際路徑會依作業系統與軟體版本而有所不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5155,6 +5187,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T093039Z" creationid="zerng07" creationdate="20170817T093039Z">
         <seg>網站會偵測你使用的作業系統和語言，接著&lt;f0&gt;引導&lt;/f0&gt;下載適當的對應版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The storage directory for templates varies with the operating system and software release, but you can find which directories your installation is using by going to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133543Z" creationid="Franklin Weng" creationdate="20171223T133543Z">
+        <seg>範本儲存的目錄依作業系統與軟體版本而有所不同，不過你可以在「工具」&gt;「選項」&gt;「路徑」&gt;「範本」中找到範本存放的路徑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5899,6 +5939,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174548Z" creationid="zerng07" creationdate="20170930T174548Z">
         <seg>你可以&lt;f0&gt;幾乎&lt;/f0&gt;省去按 Tab 鍵縮排的需求，尤其是新段落的開頭空格，因為你可以設定出能自動為你縮排的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add directories to the template path, separating them from each other with a semi-colon.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133702Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
+        <seg>你可以在範本路徑中新增其他目錄，用分號分隔即可。</seg>
       </tuv>
     </tu>
     <tu>
