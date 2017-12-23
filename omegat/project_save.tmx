@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, you can also u&lt;/f0&gt;se placeholders for &lt;f1&gt;text and objects in Writer &lt;/f1&gt;from&lt;f2&gt; Insert &gt; Fields &gt; Other &gt; Functions&lt;/f2&gt;.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Format,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; then give the placeholder a name in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Placeholder&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092935Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
-        <seg>&lt;f0&gt;不過，你也可以在 Writer 選單的「插入」&gt;「欄位」&gt;「更多欄位」&gt;「功能」中的「格式」分頁加入文件或物件的指引符，然後在右邊的「佔位項」中加入名稱即可。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093008Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
+        <seg>&lt;f0&gt;不過，你也可以在 Writer 選單的「插入」&gt;「欄位」&gt;「更多欄位」&gt;「功能」中的「格式」分頁加入文件或物件的佔位項，然後在右邊的「佔位項」中加入名稱即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093302Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
+        <seg>&lt;f0&gt;Writer 中信件開頭使用的佔位項欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Printed&lt;/f0&gt; versions of the same manuals &lt;f1&gt;are available for sale &lt;/f1&gt;at the Friends of Open Document store &lt;f2&gt;at:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184216Z" creationid="zerng07" creationdate="20170817T183857Z">
@@ -715,6 +723,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105723Z" creationid="zerng07" creationdate="20170817T105723Z">
         <seg>&lt;f0&gt;GNOME 3 所採用的官方字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The placeholders are added as fields in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093157Z" creationid="Franklin Weng" creationdate="20171223T093157Z">
+        <seg>&lt;f0&gt;佔位項加到文件中成為欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1155,6 +1171,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T095824Z" creationid="Franklin Weng" creationdate="20171212T095824Z">
         <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;&lt;Salutation&gt;&lt;/t0&gt; &lt;t1&gt;&lt;Title&gt;&lt;/t1&gt; &lt;t2&gt;&lt;Last Name&gt;&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093246Z" creationid="Franklin Weng" creationdate="20171223T093246Z">
+        <seg>&lt;t0&gt;&lt;Salutation&gt;&lt;/t0&gt; &lt;t1&gt;&lt;Title&gt;&lt;/t1&gt; &lt;t2&gt;&lt;Last Name&gt;&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4215,6 +4239,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Reference&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field can be ignored.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093111Z" creationid="Franklin Weng" creationdate="20171223T093111Z">
+        <seg>「工具提示」一欄可填可不填。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Fields&lt;/f0&gt; dialog window for adding placeholders in Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093130Z" creationid="Franklin Weng" creationdate="20171223T093130Z">
+        <seg>在 Writer 中新增佔位項的「欄位」視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;only way that you can alter LibreOffice’s default formats without using templates is&lt;/f0&gt; to change the &lt;f1&gt;font &lt;/f1&gt;settings &lt;f2&gt;in&lt;/f2&gt; &lt;f3&gt;Tools &gt; Options &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; LibreOffice Writer &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Basic Fonts (Western).&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Default formatting such as page and list styles cannot be edited at all.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101112Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
@@ -4915,6 +4955,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
         <seg>管理範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>W&lt;/f0&gt;hen you are ready to insert the information, click the placeholder &lt;f1&gt;field &lt;/f1&gt;to replace it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093236Z" creationid="Franklin Weng" creationdate="20171223T093236Z">
+        <seg>當你準備好要填入資訊時，點擊佔位項欄位填入資料，即可把原來的佔位項取代掉。</seg>
       </tuv>
     </tu>
     <tu>
