@@ -1519,6 +1519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this information changes, the fields in the template will also change, updating each time that you open the document &lt;f0&gt;without you having to change it manually.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093750Z" creationid="Franklin Weng" creationdate="20171223T093750Z">
+        <seg>這些資訊改變時，在範本中這些欄位的資訊也會跟著改變與更新。你不需要手動去修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with styles, the &lt;f0&gt;short&lt;/f0&gt; answer is, “&lt;f1&gt;Whenever possible.&lt;/f1&gt;” &lt;f2&gt;Not only are templates more efficient than designing from scratch, but using them consistently helps you get used to the concepts behind them.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100732Z" creationid="Franklin Weng" creationdate="20171212T100732Z">
@@ -1799,6 +1807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By contrast, v&lt;/f0&gt;ariable &lt;f1&gt;fields always update to the current date and time&lt;/f1&gt; when &lt;f2&gt;anyone&lt;/f2&gt; open&lt;f3&gt;s&lt;/f3&gt; a document &lt;f4&gt;or update the fields.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094020Z" creationid="Franklin Weng" creationdate="20171223T094020Z">
+        <seg>相反地，「變數」分頁中的欄位在每次使用者開啟文件時就會更新到目前這個時間點的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By the time you finish designing and writing even a short document, you have probably lost perspective on it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085421Z" creationid="Jeff Huang" creationdate="20171111T024615Z">
@@ -1963,6 +1979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133323Z" creationid="Franklin Weng" creationdate="20171213T133323Z">
         <seg>用 LibreOffice 的精靈來建立你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date and time fields &lt;f0&gt;are of two kinds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093806Z" creationid="Franklin Weng" creationdate="20171223T093806Z">
+        <seg>日期與時間是兩種不同的欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2219,6 +2243,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080948Z" creationid="Jeff Huang" creationdate="20171213T031404Z">
         <seg>使用尋找與取代處理常見錯誤會比拼寫檢查來得快許多，而且也可以讓你一併看看出錯文字所在的上下文。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fixed fields add the current information and never change.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093834Z" creationid="Franklin Weng" creationdate="20171223T093834Z">
+        <seg>固定欄位會加入現有的資訊，並且不會再改變。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,6 +4723,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T080023Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
         <seg>其並不會影響形狀與大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They include page numbers, page counts, and other information &lt;f0&gt;commonly &lt;/f0&gt;placed in the header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093708Z" creationid="Franklin Weng" creationdate="20171223T093708Z">
+        <seg>包括頁碼、總頁數，還有其他放在標頭或註腳的共用資訊等。</seg>
       </tuv>
     </tu>
     <tu>
