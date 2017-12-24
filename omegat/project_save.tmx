@@ -557,6 +557,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>最後要更新頁數。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
       </tuv>
@@ -1601,6 +1602,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f7&gt;Helps you decide where to make changes in multiple styles by editing just one of them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T143959Z" creationid="zerng07" creationdate="20171224T143959Z">
+        <seg>&lt;f7&gt;協助你判斷在套用多重樣式之時，應該編輯其中哪一個樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f7&gt;Since it is free software, you can even make your own changes in it if you have the skill.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180255Z" creationid="zerng07" creationdate="20170817T175628Z">
@@ -2299,8 +2308,8 @@
       <tuv lang="EN">
         <seg>By contrast, after you have written a few pages, the &lt;f1&gt;Applied Styles &lt;/f1&gt;view minimizes the styles displayed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142732Z" creationid="zerng07" creationdate="20171224T142619Z">
-        <seg>相反的，如果是你寫了幾頁內容之後，「&lt;f1&gt;套用的樣式&lt;/f1&gt;」檢視畫面則可以精簡地展現目前的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T143734Z" creationid="zerng07" creationdate="20171224T142619Z">
+        <seg>相反的，如果是你寫了幾頁內容之後，「&lt;f1&gt;套用的樣式&lt;/f1&gt;」檢視則可以精簡地展現目前的樣式。</seg>
       </tuv>
     </tu>
     <tu>
