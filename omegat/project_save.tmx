@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155443Z" creationid="zerng07" creationdate="20171224T155443Z">
+        <seg>&lt;/f6&gt;&lt;/f5&gt;」等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;Other font formats exist, and may be supported by your operating system, but these formats may be limited in selection and quality.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075554Z" creationid="Franklin Weng" creationdate="20171224T075500Z">
@@ -554,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T121123Z" creationid="Franklin Weng" creationdate="20171213T121123Z">
         <seg>&lt;f0&gt;「檔案」&gt;「範本」&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;「管理範本」&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;或是&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「檔案」&gt;「範本選單」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，依所使用的作業系統或軟體版本而不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Finding &lt;/f0&gt;current styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155729Z" creationid="zerng07" creationdate="20171224T155729Z">
+        <seg>&lt;f0&gt;尋找&lt;/f0&gt;目前的樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,6 +1025,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;HTML&lt;/f1&gt; view shows the paragraph styles that LibreOffice has mapped directly to specific &lt;f2&gt;HTML&lt;/f2&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155704Z" creationid="zerng07" creationdate="20171224T155658Z">
+        <seg>「&lt;f1&gt;HTML&lt;/f1&gt;樣式」檢視可以顯示直接和特定&lt;f2&gt;HTML&lt;/f2&gt;標籤對應的段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Templates&lt;/f1&gt; link on the introductory splash screen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T120953Z" creationid="Franklin Weng" creationdate="20171212T142321Z">
@@ -1340,8 +1364,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Most are self-explanatory divisions of the uses for styles, such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;HTML Styles&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Index Styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155437Z" creationid="zerng07" creationdate="20171224T154721Z">
-        <seg>&lt;f1&gt;大多數都可以從檢視名稱區分出這些樣式的用途，例如&lt;/f1&gt;「&lt;f2&gt;&lt;f3&gt;HTML 樣式&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;和&lt;/f4&gt;&lt;f5&gt;「&lt;f6&gt;索引樣式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155455Z" creationid="zerng07" creationdate="20171224T154721Z">
+        <seg>&lt;f1&gt;大多數都可以從檢視名稱區分出這些樣式的用途，例如&lt;/f1&gt;「&lt;f2&gt;&lt;f3&gt;HTML 樣式&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;和&lt;/f4&gt;「&lt;f5&gt;&lt;f6&gt;索引樣式</seg>
       </tuv>
     </tu>
     <tu>
