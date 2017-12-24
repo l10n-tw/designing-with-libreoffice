@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T064228Z" creationid="Franklin Weng" creationdate="20171224T064228Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092342Z" creationid="Franklin Weng" creationdate="20171223T092342Z">
@@ -2739,6 +2747,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093834Z" creationid="Franklin Weng" creationdate="20171223T093834Z">
         <seg>固定欄位會加入現有的資訊，並且不會再改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts, &lt;f0&gt;color,&lt;/f0&gt; &lt;f1&gt;and&lt;/f1&gt; the magic number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T064604Z" creationid="Franklin Weng" creationdate="20171224T064604Z">
+        <seg>字型、顏色與魔術數字</seg>
       </tuv>
     </tu>
     <tu>
