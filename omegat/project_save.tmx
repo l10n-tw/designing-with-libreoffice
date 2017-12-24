@@ -3819,8 +3819,8 @@
       <tuv lang="EN">
         <seg>In OpenOffice and &lt;f0&gt;many &lt;/f0&gt;earlier LibreOffice versions, drag the floating window by its title bar to the left or right edge of the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T140605Z" creationid="zerng07" creationdate="20171224T140605Z">
-        <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要按住浮動視窗的標題列，並拖曳到你想在編輯視窗中停駐的左邊緣或右邊緣上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T140723Z" creationid="zerng07" creationdate="20171224T140605Z">
+        <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要先按住浮動視窗的標題列，並拖曳到你想在編輯視窗中停駐的左邊緣或右邊緣上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6600,6 +6600,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180524Z" creationid="zerng07" creationdate="20170817T180510Z">
         <seg>當甲骨文 (Oracle) &lt;f1&gt;於2010年&lt;/f1&gt;買下昇陽之後，LibreOffice 便開始開發維護自己的&lt;f2&gt;OpenOffice.org&lt;/f2&gt;版本，這也是&lt;f3&gt;源始碼的&lt;/f3&gt;授權條款&lt;f4&gt;所允許的作法&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a frame appears, release the floating window, and it is docked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141352Z" creationid="zerng07" creationdate="20171224T140659Z">
+        <seg>當看到訊框出現時放開浮動視窗，視窗就會停駐在該位置上。</seg>
       </tuv>
     </tu>
     <tu>
