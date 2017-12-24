@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T143053Z" creationid="zerng07" creationdate="20171224T143053Z">
+        <seg>&lt;f0&gt;階層式&lt;/f0&gt;：顯示樣式彼此之間的關係（&lt;f1&gt;請見&lt;f4&gt;第&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;頁&lt;/f4&gt;&lt;/f1&gt;〈&lt;f2&gt;&lt;bf3&gt;樣式的階層&lt;/bf3&gt;&lt;/f2&gt;〉）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, &lt;/f0&gt;hundreds of f&lt;f1&gt;ree-licensed fonts are now available.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T073947Z" creationid="Franklin Weng" creationdate="20171224T073947Z">
@@ -5756,6 +5764,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic views &lt;f0&gt;vary with the application.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142816Z" creationid="zerng07" creationdate="20171224T142810Z">
+        <seg>視窗提供的基本檢視內容&lt;f0&gt;端視各應用程式而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The best view depends on what you are doing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142429Z" creationid="zerng07" creationdate="20171224T142429Z">
@@ -5992,6 +6008,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091410Z" creationid="Jeff Huang" creationdate="20171214T055914Z">
         <seg>手動修改的地方越多，你就越接近需要讓文件重新發行新版的地步。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common ones are:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142830Z" creationid="zerng07" creationdate="20171224T142830Z">
+        <seg>最常見的是：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
