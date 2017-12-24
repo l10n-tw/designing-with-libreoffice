@@ -2928,6 +2928,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font families</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082454Z" creationid="Franklin Weng" creationdate="20171224T082454Z">
+        <seg>字族（字型家族）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fonts can be further modified by features on the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Font Effects&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082405Z" creationid="Franklin Weng" creationdate="20171224T082405Z">
@@ -3740,6 +3748,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084631Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
         <seg>在&lt;f0&gt;某些版本的&lt;/f0&gt;LibreOffice中，即便你已經將表格邊框完全關閉，&lt;f1&gt;&lt;f2&gt;&lt;f3&gt;列印&lt;/f3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;預覽&lt;/f4&gt;還是會顯示出框線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082459Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
+        <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
       </tuv>
     </tu>
     <tu>
