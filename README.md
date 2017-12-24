@@ -25,13 +25,16 @@
 
 ## 翻譯進度
 已完成的有：
-第一章、附錄A、附錄C
+第一章、第十六章附錄A、附錄C
 
-處理中的有：
-第二章 (Cheng-Chia Tseng)、第三章（Franklin Weng）、第十六章 (Jeff Huang)
+翻譯中的有：
+第二章 (Cheng-Chia Tseng)、第四章（Franklin Weng）、第六章（Mark Hung）、第十四章 (Jeff Huang)
+
+校對中的有：
+第三章
 
 未處理的有：
-附錄B、第四章至第十五章
+附錄B、第五章、第七章至第十三章、第十五章
 
 ## 備註
 1. LibreOffice 會自動補中英之間的排版空間，所以翻譯 odt 檔時不必中英間補空格。
