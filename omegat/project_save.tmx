@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Automatic&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is the default view when you open a new document.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153019Z" creationid="zerng07" creationdate="20171224T152955Z">
-        <seg>「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視畫面是您開啓新文件時 is the default view when you open a new document.&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153032Z" creationid="zerng07" creationdate="20171224T152955Z">
+        <seg>「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視是您開啓新文件時的預設檢視畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T144507Z" creationid="zerng07" creationdate="20170822T144507Z">
         <seg>關於本書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;All Styles:&lt;/f0&gt; Especially when you are viewing paragraph styles, &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;All Styles&lt;/f2&gt; &lt;f3&gt;view&lt;/f3&gt; can give you so many names to scan that &lt;f4&gt;using it&lt;/f4&gt; is counter-productive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153531Z" creationid="zerng07" creationdate="20171224T153043Z">
+        <seg>&lt;f0&gt;全部樣式：&lt;/f0&gt;注意到如果你是在查看段落樣式，「&lt;f2&gt;全部樣式&lt;/f2&gt;」&lt;f3&gt;檢視&lt;/f3&gt;會列給你一大堆樣式名稱，導致&lt;f4&gt;使用這種檢視&lt;/f4&gt;方式反而失去效率。</seg>
       </tuv>
     </tu>
     <tu>
