@@ -1111,6 +1111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;For example, some fonts have characters that are so thin that they are invisible online or with a low resolution printer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072802Z" creationid="Franklin Weng" creationdate="20171224T072802Z">
+        <seg>&lt;f1&gt;祿如，有些字型中的字元太細了，所以在瀏覽器上，或是低解析度的印表機中會無法顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;ts front page includes a list of the most recently uploaded fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
@@ -2775,6 +2783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding fonts to use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T073031Z" creationid="Franklin Weng" creationdate="20171224T073031Z">
+        <seg>尋找使用的字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fixed fields add the current information and never change.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093834Z" creationid="Franklin Weng" creationdate="20171223T093834Z">
@@ -3163,6 +3179,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T172034Z" creationid="zerng07" creationdate="20170817T170959Z">
         <seg>然而，隨著新版本一次又一次發行，兩者間的差異越來越大，相容性也會慢慢降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, whatever the conditions, the fonts you choose should never be more noticeable than the content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072932Z" creationid="Franklin Weng" creationdate="20171224T072932Z">
+        <seg>不過，不管是什麼狀況，你所選的字型都不該比內容更引人注目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4463,6 +4487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Others may be so gray they are hard to read, or so black that their effect is overwhelming on the page.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072840Z" creationid="Franklin Weng" creationdate="20171224T072840Z">
+        <seg>另外，字型顏色可能太灰了，不好閱讀；或是太黑了結果影響了整個頁面的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Others you may choose to ignore, &lt;f0&gt;either because&lt;/f0&gt; the defaults are &lt;f1&gt;good&lt;/f1&gt; enough for your purposes &lt;f2&gt;or because your drawing has &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;nothing that could be affected by the setting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082638Z" creationid="Jeff Huang" creationdate="20171221T082638Z">
@@ -5307,6 +5339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082809Z" creationid="Jeff Huang" creationdate="20171220T082809Z">
         <seg>&lt;f0&gt;開始&lt;/f0&gt;的最佳方法就是&lt;f1&gt;把圖形分解為其基本元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The choice of fonts is meant to &lt;f0&gt;enhance your content&lt;/f0&gt;, not to &lt;f1&gt;make the layout the&lt;/f1&gt; center of attention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T073018Z" creationid="Franklin Weng" creationdate="20171224T073018Z">
+        <seg>字型的選擇是為了&lt;f0&gt;強化你的內容&lt;/f0&gt;，而不是讓排版變成吸引讀者注意力的重點。</seg>
       </tuv>
     </tu>
     <tu>
