@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Both &lt;/f0&gt;LibreOffice &lt;f1&gt;and Apache OpenOffice &lt;/f1&gt;support Post&lt;f2&gt;S&lt;/f2&gt;cript &lt;f3&gt;(.pfb)&lt;/f3&gt;, TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;, &lt;f5&gt;and&lt;/f5&gt; OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; font &lt;f7&gt;file formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075458Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
+        <seg>&lt;f0&gt;LibreOffice 與 Apache OpenOffice 都支援 PostScript (.pfb)、TrueType (.ttf) 與 OpenType (.otf) 字型檔案格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Both clones and originals help you work without using proprietary fonts.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T140559Z" creationid="zerng07" creationdate="20170817T100905Z">
@@ -1142,6 +1150,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>分節 3955：頁數與附錄名稱需要校對。</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;For other places where you can find free-licensed fonts, see Appendix C, “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
@@ -3779,6 +3788,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T072310Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
         <seg>插入其中一種你在文件中使用的形狀，然後從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式與格式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;視窗中選擇樣式來套用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing fonts for LibreOffice</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075340Z" creationid="Franklin Weng" creationdate="20171224T075340Z">
+        <seg>為 LibreOffice 安裝字型</seg>
       </tuv>
     </tu>
     <tu>
