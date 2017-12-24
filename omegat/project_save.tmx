@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Tables)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043623Z" creationid="zerng07" creationdate="20171224T043623Z">
+        <seg>（表格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
@@ -1347,6 +1355,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133422Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
         <seg>&lt;f3&gt;或者可能你要重新組織你的主要範本目錄，在裡面新增子目錄等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Right-click on a selected frame for the manual equivalent.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043559Z" creationid="zerng07" creationdate="20171224T043559Z">
+        <seg>&lt;f3&gt;等同手動以右鍵點按一個訊框操作。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3863,6 +3879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043613Z" creationid="zerng07" creationdate="20171224T043613Z">
+        <seg>清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Making the final check</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083954Z" creationid="Jeff Huang" creationdate="20171214T063640Z">
@@ -4363,6 +4387,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100821Z" creationid="Franklin Weng" creationdate="20171212T100821Z">
         <seg>這些年來，我不斷地聽到有使用者說，範本一點都不實用，因為他們製作的每份文件都不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043604Z" creationid="zerng07" creationdate="20171224T043604Z">
+        <seg>頁面</seg>
       </tuv>
     </tu>
     <tu>
@@ -4971,6 +5003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184053Z" creationid="zerng07" creationdate="20170822T183632Z">
         <seg>這套字型包括 Baskervald (Baskerville)、Gillius (Gill Sans)、和 Universalis (Univers)；還有原創字型如 Mint Spirit，初心是專為 Linux Mint 散布版創作的非官方字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Technically, Writer has no table styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043644Z" creationid="zerng07" creationdate="20171224T043644Z">
+        <seg>技術上來說，Writer其實沒有表格樣式。</seg>
       </tuv>
     </tu>
     <tu>
