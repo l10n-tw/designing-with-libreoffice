@@ -2049,8 +2049,8 @@
       <tuv lang="EN">
         <seg>But by the time you are finished editing and making changes, this on-the-fly hyphenation can be far from the best job that LibreOffice can do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T074633Z" creationid="Jeff Huang" creationdate="20171213T024707Z">
-        <seg>但當你完成文字的編輯與修改後，此時修修改改後的動態斷字位置不及LibreOffice能做到的最佳結果。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T063425Z" creationid="Jeff Huang" creationdate="20171213T024707Z">
+        <seg>但當你完成文字的編輯與修改後，此時修修改改後的動態斷字位置可能會遠遠偏離LibreOffice能做到的最佳結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3817,8 +3817,8 @@
       <tuv lang="EN">
         <seg>LibreOffice also &lt;f2&gt;c&lt;/f2&gt;hecks some grammar &lt;f3&gt;and layout, such as enforcing one space after a period instead of two.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080245Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
-        <seg>LibreOffice也會件查一些文法與&lt;f3&gt;排版問題，例如英文句號後方應留一個空格而非兩個。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T063530Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
+        <seg>LibreOffice也會檢查一些文法與&lt;f3&gt;排版問題，例如英文句號後方應留一個空格而非兩個。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
