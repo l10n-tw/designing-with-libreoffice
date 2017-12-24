@@ -665,8 +665,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
-        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文件結構，像是大綱、或是會自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位項 (placeholders) 等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160520Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
+        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文稿結構，像是大綱形式、可以自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位項 (placeholders) 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4556,8 +4556,8 @@
       <tuv lang="EN">
         <seg>Mostly, templates store formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100331Z" creationid="Franklin Weng" creationdate="20171212T100331Z">
-        <seg>大部份的範本儲存的都是格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160414Z" creationid="Franklin Weng" creationdate="20171212T100331Z">
+        <seg>一般來說，範本儲存的是你的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6455,8 +6455,8 @@
       <tuv lang="EN">
         <seg>This structural use of templates tends to be under-emphasized.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100343Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
-        <seg>一般而言，範本不太會用來規範文件的結構。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
+        <seg>拿範本處理文稿結構的使用方式很少人注意。</seg>
       </tuv>
     </tu>
     <tu>
