@@ -919,6 +919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button on the &lt;f2&gt;sidebar.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084654Z" creationid="zerng07" creationdate="20171224T084654Z">
+        <seg>在&lt;f2&gt;側邊欄&lt;/f2&gt;中&lt;f0&gt;選取&lt;/f0&gt;&lt;f1&gt;樣式與格式設定&lt;/f1&gt;按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes&lt;/f0&gt;, however, you may want to deal with templates &lt;f1&gt;from outside LibreOffice&lt;/f1&gt;, either because LibreOffice is not open or because you are dealing with &lt;f2&gt;more than one template at a time&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133349Z" creationid="Franklin Weng" creationdate="20171223T133349Z">
@@ -2474,8 +2482,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;More...&lt;/f0&gt; link at the bottom of the style list in the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084223Z" creationid="zerng07" creationdate="20171224T084223Z">
-        <seg>在&lt;f1&gt;格式設定&lt;/f1&gt;工具列中樣式清單底部點按「&lt;f0&gt;更多樣式...&lt;/f0&gt;」連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084247Z" creationid="zerng07" creationdate="20171224T084223Z">
+        <seg>在&lt;f1&gt;格式設定&lt;/f1&gt;工具列中的樣式清單底部點按「&lt;f0&gt;更多樣式...&lt;/f0&gt;」連結。</seg>
       </tuv>
     </tu>
     <tu>
