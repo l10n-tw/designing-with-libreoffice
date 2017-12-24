@@ -918,11 +918,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>5.4 的用語是「樣式和格式」。6.0 起拆分「樣式」和「格式」，Styles and Formatting 詞語就此消滅。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button on the &lt;f2&gt;sidebar.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084814Z" creationid="zerng07" creationdate="20171224T084654Z">
-        <seg>在&lt;f2&gt;側邊欄&lt;/f2&gt;中&lt;f0&gt;選取&lt;/f0&gt;&lt;f1&gt;樣式和格式設定&lt;/f1&gt;按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T090932Z" creationid="zerng07" creationdate="20171224T084654Z">
+        <seg>在&lt;f2&gt;側邊欄&lt;/f2&gt;中&lt;f0&gt;選取&lt;/f0&gt;&lt;f1&gt;樣式和格式&lt;/f1&gt;按鈕。</seg>
       </tuv>
     </tu>
     <tu>
