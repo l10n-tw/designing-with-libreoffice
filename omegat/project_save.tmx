@@ -2745,6 +2745,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dragging on the title bar of the docked window &lt;f1&gt;should &lt;/f1&gt;undock it, &lt;f2&gt;although the reliability of the feature varies with the release.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141544Z" creationid="zerng07" creationdate="20171224T141544Z">
+        <seg>一般來說，拖曳停駐視窗的標題列&lt;f1&gt;應該可以&lt;/f1&gt;讓它取消停駐，&lt;f2&gt;但這個功能的可用性根據發行版本的不同而有所差異。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
@@ -3819,8 +3827,8 @@
       <tuv lang="EN">
         <seg>In OpenOffice and &lt;f0&gt;many &lt;/f0&gt;earlier LibreOffice versions, drag the floating window by its title bar to the left or right edge of the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T140723Z" creationid="zerng07" creationdate="20171224T140605Z">
-        <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要先按住浮動視窗的標題列，並拖曳到你想在編輯視窗中停駐的左邊緣或右邊緣上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141402Z" creationid="zerng07" creationdate="20171224T140605Z">
+        <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要先按住浮動視窗的標題列，並拖曳到你在編輯視窗中想停駐的左邊緣或右邊緣上。</seg>
       </tuv>
     </tu>
     <tu>
