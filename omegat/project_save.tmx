@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Automatic&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is the default view when you open a new document.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153019Z" creationid="zerng07" creationdate="20171224T152955Z">
+        <seg>「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視畫面是您開啓新文件時 is the default view when you open a new document.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Automatic:&lt;/f0&gt; A minimalist list of &lt;f1&gt;pre-defined &lt;/f1&gt;styles&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152958Z" creationid="zerng07" creationdate="20171224T152927Z">
+        <seg>&lt;f0&gt;自動：&lt;/f0&gt;一份&lt;f1&gt;預先定義&lt;/f1&gt;樣式的極簡主義版清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Both &lt;/f0&gt;LibreOffice &lt;f1&gt;and Apache OpenOffice &lt;/f1&gt;support Post&lt;f2&gt;S&lt;/f2&gt;cript &lt;f3&gt;(.pfb)&lt;/f3&gt;, TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;, &lt;f5&gt;and&lt;/f5&gt; OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; font &lt;f7&gt;file formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075505Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
@@ -426,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042851Z" creationid="Franklin Weng" creationdate="20171223T042851Z">
         <seg>&lt;f0&gt;點擊選擇「設為預設值」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Custom Styles:&lt;/f0&gt; The styles you have created, &lt;f1&gt;as opposed to the pre-defined ones.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152833Z" creationid="zerng07" creationdate="20171224T152833Z">
+        <seg>&lt;f0&gt;自訂樣式：&lt;/f0&gt;和預先設定的樣式不同，這是你自己建立的樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
