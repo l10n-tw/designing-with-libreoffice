@@ -2129,6 +2129,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because the list of styles is long, the drop-down list at the bottom of the window &lt;f0&gt;has&lt;/f0&gt; &lt;f1&gt;filtered&lt;/f1&gt; views that &lt;f2&gt;need less scrolling.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142351Z" creationid="zerng07" creationdate="20171224T142230Z">
+        <seg>因為樣式清單非常長，視窗底部有個下拉式清單&lt;f0&gt;可以&lt;/f0&gt; &lt;f1&gt;篩選&lt;/f1&gt;檢視內容，讓你&lt;f2&gt;不用一直捲動視窗&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Become more specific by recalling what documents you have written in the past.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124256Z" creationid="Franklin Weng" creationdate="20171213T124256Z">
@@ -5396,6 +5404,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Style views filter the styles that display.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142336Z" creationid="zerng07" creationdate="20171224T142336Z">
+        <seg>樣式檢視可以篩選要顯示的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles are for anybody who wants to work efficiently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063746Z" creationid="zerng07" creationdate="20171212T063118Z">
@@ -6592,6 +6608,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
         <seg>管理範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viewing styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142106Z" creationid="zerng07" creationdate="20171224T142106Z">
+        <seg>檢視樣式</seg>
       </tuv>
     </tu>
     <tu>
