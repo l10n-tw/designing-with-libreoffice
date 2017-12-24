@@ -1553,6 +1553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;LibreOffice remembers whether the window is docked or undocked when you restart it.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101502Z" creationid="zerng07" creationdate="20171224T101502Z">
+        <seg>&lt;f4&gt;LibreOffice能記住視窗位置是否停駐在那個位置，下次重新啟動時依然能與上次一致。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;However, the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Properties&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; window continues to list the template, even though it is irrelevant.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120143Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
@@ -3341,6 +3349,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124113Z" creationid="Franklin Weng" creationdate="20171223T124113Z">
         <seg>不過，弄好之後要記得從「檔案」&gt;「範本」&gt;「另存為範本」來儲存並註冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, s&lt;/f3&gt;tarting in version 4.4, it opens in the sidebar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101248Z" creationid="zerng07" creationdate="20171224T093003Z">
+        <seg>不過，&lt;/f3&gt;從4.4版起則改為開啓側邊欄。</seg>
       </tuv>
     </tu>
     <tu>
