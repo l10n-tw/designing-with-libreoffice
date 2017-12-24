@@ -597,6 +597,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hidden Styles:&lt;/f0&gt; Styles you have removed from the other views to reduce the clutter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153935Z" creationid="zerng07" creationdate="20171224T153935Z">
+        <seg>&lt;f0&gt;隱藏樣式：&lt;/f0&gt;您先前從其他檢視畫面中移除的樣式，這樣做主要是為了減少檢視畫面的雜亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>最後要更新頁數。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
