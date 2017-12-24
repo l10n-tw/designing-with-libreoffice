@@ -6308,6 +6308,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To undock the window &lt;f0&gt;(or any other display in the sidebar)&lt;/f0&gt;, click the drop-down list of commands on the top right of the tool bar and select &lt;f1&gt;Undock.&lt;/f1&gt; When the window is undocked, select &lt;f2&gt;Dock&lt;/f2&gt; from the drop-down list &lt;f3&gt;to redock it&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T135128Z" creationid="zerng07" creationdate="20171224T135128Z">
+        <seg>若要取消視窗的停駐位置&lt;f0&gt;（或任何其他側邊欄中的其他顯示畫面）&lt;/f0&gt;，請點按工具列右上角的下拉式指令清單，並選取「&lt;f1&gt;取消停駐&lt;/f1&gt;」。當視窗取消停駐之後，可以再到下拉式清單中選取「 &lt;f2&gt;停駐&lt;/f2&gt;」&lt;f3&gt;重新讓視窗停駐在原位&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Today, OpenOffice.org no longer exists, but Apache OpenOffice &lt;f0&gt;does.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
