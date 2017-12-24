@@ -25,7 +25,7 @@
 
 ## 翻譯進度
 已完成的有：
-第一章、第十六章附錄A、附錄C
+第一章、第十六章、附錄A、附錄C
 
 翻譯中的有：
 第二章 (Cheng-Chia Tseng)、第四章（Franklin Weng）、第六章（Mark Hung）、第十四章 (Jeff Huang)
