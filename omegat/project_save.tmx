@@ -1580,8 +1580,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The solution to both these problems is &lt;/f2&gt;templates – &lt;f3&gt;files to store formatting and structure to re-use or share.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100258Z" creationid="Franklin Weng" creationdate="20171212T100258Z">
-        <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本 (templates) – &lt;f3&gt;也就是已經預先儲存好格式與文件結構等等的檔案，方便分享與重複利用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160201Z" creationid="Franklin Weng" creationdate="20171212T100258Z">
+        <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本——&lt;f3&gt;也就是已經預先儲存好格式設定和文件結構等等的檔案，方便你重複利用或和別人分享。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2268,8 +2268,8 @@
       <tuv lang="EN">
         <seg>Before you use them, they need to be registered, so that LibreOffice is aware of them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100314Z" creationid="Franklin Weng" creationdate="20171212T100314Z">
-        <seg>在使用範本之前，必須要先註冊，這樣 LibreOffice 才知道有這個範本的存在。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160328Z" creationid="Franklin Weng" creationdate="20171212T100314Z">
+        <seg>在你使用範本之前，必須要先註冊這些範本，這樣LibreOffice才會知道有這些範本的存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4228,7 +4228,7 @@
       <tuv lang="EN">
         <seg>It’s inefficient.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155906Z" creationid="Franklin Weng" creationdate="20171212T100227Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160054Z" creationid="Franklin Weng" creationdate="20171212T100227Z">
         <seg>這樣超沒效率。</seg>
       </tuv>
     </tu>
@@ -5679,8 +5679,8 @@
       <tuv lang="EN">
         <seg>Templates are handled differently from ordinary documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100305Z" creationid="Franklin Weng" creationdate="20171212T100305Z">
-        <seg>範本的處理與一般文件是不同的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160243Z" creationid="Franklin Weng" creationdate="20171212T100305Z">
+        <seg>處理範本和處理一般文件的做法不大一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6303,8 +6303,8 @@
       <tuv lang="EN">
         <seg>They also &lt;f0&gt;have their own menus and menu items that normal files do not use.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100326Z" creationid="Franklin Weng" creationdate="20171212T100326Z">
-        <seg>範本也有&lt;f0&gt;自己的選單與選單項目，一般檔案是沒有的。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160344Z" creationid="Franklin Weng" creationdate="20171212T100326Z">
+        <seg>範本也有&lt;f0&gt;自己的選單與選單項目，這是一般檔案沒有的。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
