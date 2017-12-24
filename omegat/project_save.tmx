@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Applied Styles:&lt;/f0&gt; The styles used in the current document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T144028Z" creationid="zerng07" creationdate="20171224T144028Z">
+        <seg>&lt;f0&gt;套用的樣式：&lt;/f0&gt;目前文件所使用的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;As shown above, you might have sub-folders such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for templates that use American and Canadian English locales for dictionaries.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134519Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
@@ -6361,6 +6369,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100343Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
         <seg>一般而言，範本不太會用來規範文件的結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This view is useless with a new document, but &lt;f1&gt;as you continue to work, it reduces the number of styles displayed.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152720Z" creationid="zerng07" creationdate="20171224T152720Z">
+        <seg>此檢視畫面對於全新文件來說沒有一點用處，&lt;f1&gt;你只需繼續作業，它後續就能簡要顯示出目前的樣式數目。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
