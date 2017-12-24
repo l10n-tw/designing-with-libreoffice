@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click an icon to display the styles for its particular type.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141954Z" creationid="zerng07" creationdate="20171224T141954Z">
+        <seg>&lt;f0&gt;點按這些圖示可以顯示特定類型的樣式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;OK&lt;/f1&gt; button on the top right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133033Z" creationid="Franklin Weng" creationdate="20171223T133033Z">
@@ -3713,6 +3721,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you hover the mouse over them, you will see what type of style each icon represents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141930Z" creationid="zerng07" creationdate="20171224T141930Z">
+        <seg>如果你將滑鼠停放在這些圖示上，你可以看到它們各自代表哪種樣式類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you import the template-less document into the master document, it will be reformatted while &lt;f0&gt;being &lt;/f0&gt;used from within the master document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130627Z" creationid="Franklin Weng" creationdate="20171223T130550Z">
@@ -4838,6 +4854,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175109Z" creationid="zerng07" creationdate="20171223T175109Z">
         <seg>段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph styles are currently selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142101Z" creationid="zerng07" creationdate="20171224T142101Z">
+        <seg>目前選取的是段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,6 +6056,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190118Z" creationid="zerng07" creationdate="20170818T034023Z">
         <seg>事實是，這些觀念都錯到不能再錯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The types of styles in Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142005Z" creationid="zerng07" creationdate="20171224T142005Z">
+        <seg>Writer中的樣式類型。</seg>
       </tuv>
     </tu>
     <tu>
