@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell&lt;/f0&gt; &lt;f1&gt;s&lt;/f1&gt;tyles set both the appearance of cells and the types of content in them, such &lt;f2&gt;as&lt;/f2&gt; percentages or currency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075303Z" creationid="zerng07" creationdate="20171224T075303Z">
+        <seg>&lt;f0&gt;儲存格&lt;/f0&gt;樣式同時設定儲存格的外觀和格子的內容類型 ，&lt;f2&gt;例如&lt;/f2&gt;是百分比或是貨幣等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Character&lt;/f0&gt; styles modify selected letters in a paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175627Z" creationid="zerng07" creationdate="20171223T175627Z">
@@ -2279,6 +2287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075153Z" creationid="zerng07" creationdate="20171224T075153Z">
+        <seg>儲存格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the display in &lt;f0&gt;Styles and Formatting&lt;/f0&gt; to &lt;f1&gt;All Styles&lt;/f1&gt; (or another view that shows the style you want).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112923Z" creationid="zerng07" creationdate="20171219T112923Z">
@@ -3251,6 +3267,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100833Z" creationid="Franklin Weng" creationdate="20171212T100833Z">
         <seg>然而，當我實際去探詢這些說法時，&lt;f0&gt;我常常發現&lt;/f0&gt;問題不是在於他們所製作的文件都不同，而是因為&lt;f1&gt;這些使用者並沒有用結構化的思維去製作文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you &lt;f0&gt;can &lt;/f0&gt;save and apply table designs in a style-like way by selecting &lt;f1&gt;Table &gt; Auto&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;ormat &gt; Add.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075146Z" creationid="zerng07" creationdate="20171224T075146Z">
+        <seg>然而，你&lt;f0&gt;可以&lt;/f0&gt;儲存表格設計並套用，就像樣式的作法一樣，選取「&lt;f1&gt;表格 &gt; 自動格式樣式 &gt; &lt;/f1&gt;&lt;f4&gt;加入&lt;/f4&gt;」就能新建表格樣式。</seg>
       </tuv>
     </tu>
     <tu>
