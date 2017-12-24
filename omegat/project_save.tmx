@@ -1340,8 +1340,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Most are self-explanatory divisions of the uses for styles, such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;HTML Styles&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Index Styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T154820Z" creationid="zerng07" creationdate="20171224T154721Z">
-        <seg>&lt;f1&gt;大多數都可以從檢視名稱區分出這些樣式的用途，例如&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;HTML 樣式&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;和&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;索引樣式等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155437Z" creationid="zerng07" creationdate="20171224T154721Z">
+        <seg>&lt;f1&gt;大多數都可以從檢視名稱區分出這些樣式的用途，例如&lt;/f1&gt;「&lt;f2&gt;&lt;f3&gt;HTML 樣式&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;和&lt;/f4&gt;&lt;f5&gt;「&lt;f6&gt;索引樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -5607,8 +5607,8 @@
       <tuv lang="EN">
         <seg>Styles that don’t fit into any other category, such as &lt;f0&gt;Caption&lt;/f0&gt;,&lt;f1&gt; Footer Left, &lt;/f1&gt;&lt;f2&gt;or&lt;/f2&gt; &lt;f3&gt;Table Contents&lt;/f3&gt; are listed as &lt;f4&gt;Special Styles.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155126Z" creationid="zerng07" creationdate="20171224T155126Z">
-        <seg>還有無法納入任何其他類別中的樣式，例如&lt;f0&gt;Caption&lt;/f0&gt;,&lt;f1&gt; Footer Left, &lt;/f1&gt;&lt;f2&gt;or&lt;/f2&gt; &lt;f3&gt;Table Contents&lt;/f3&gt; are listed as &lt;f4&gt;Special Styles.&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155405Z" creationid="zerng07" creationdate="20171224T155126Z">
+        <seg>還有一些無法分類到任何其他檢視畫面中的樣式，例如&lt;f0&gt;圖表標示&lt;/f0&gt;、&lt;f1&gt;左頁頁尾&lt;/f1&gt;、&lt;f3&gt;目錄&lt;/f3&gt;……等，則列在「&lt;f4&gt;特殊樣式&lt;/f4&gt;」檢視之中。</seg>
       </tuv>
     </tu>
     <tu>
