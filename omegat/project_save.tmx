@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page&lt;/f0&gt; styles set how &lt;f1&gt;to arrange selected sheets&lt;/f1&gt; or cells &lt;f2&gt;to &lt;/f2&gt;print to paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082118Z" creationid="zerng07" creationdate="20171224T082118Z">
+        <seg>&lt;f0&gt;頁面&lt;/f0&gt;樣式可以設定&lt;f1&gt;所選工作表&lt;/f1&gt;或儲存格在列印成紙本時的安排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093302Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
@@ -2664,6 +2672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw &amp; Impress</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082123Z" creationid="zerng07" creationdate="20171224T082123Z">
+        <seg>Draw 和 Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing Object styles and charts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074003Z" creationid="Jeff Huang" creationdate="20171220T074003Z">
@@ -3052,6 +3068,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T071255Z" creationid="zerng07" creationdate="20170824T064944Z">
         <seg>認識樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082126Z" creationid="zerng07" creationdate="20171224T082126Z">
+        <seg>圖形</seg>
       </tuv>
     </tu>
     <tu>
@@ -4752,6 +4776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Presentation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082203Z" creationid="zerng07" creationdate="20171224T082203Z">
+        <seg>簡報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;F11&lt;/f0&gt; to open the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; floating window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112653Z" creationid="zerng07" creationdate="20171219T112653Z">
@@ -5204,6 +5236,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060334Z" creationid="zerng07" creationdate="20171224T060334Z">
         <seg>設定項目符號清單和編號清單用的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles for drawing objects, including graphic text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082155Z" creationid="zerng07" creationdate="20171224T082155Z">
+        <seg>繪圖物件的樣式，包含圖形文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles for the contents of slides (Impress only).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082236Z" creationid="zerng07" creationdate="20171224T082236Z">
+        <seg>投影片的內容樣式（僅Impress有此樣式）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6460,6 +6508,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
         <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082246Z" creationid="zerng07" creationdate="20171224T082246Z">
+        <seg>使用樣式</seg>
       </tuv>
     </tu>
     <tu>
