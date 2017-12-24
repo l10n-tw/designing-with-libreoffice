@@ -1135,6 +1135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;For other places where you can find free-licensed fonts, see Appendix C, “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075226Z" creationid="Franklin Weng" creationdate="20171224T075226Z">
+        <seg>&lt;f1&gt;其他的自由授權字型可以參考附錄 C，「到哪裡找自由授權字型」，第？？頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;ts front page includes a list of the most recently uploaded fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
@@ -4067,6 +4075,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031825Z" creationid="zerng07" creationdate="20171219T031825Z">
         <seg>手動格式設定可以隨時隨處修改，所以比較好用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many Linux distributions include &lt;f0&gt;a few &lt;/f0&gt;free-licensed fonts in their package repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075018Z" creationid="Franklin Weng" creationdate="20171224T075018Z">
+        <seg>許多的 Linux 發行版中都在它們的套件庫中內建一些自由授權的字型。</seg>
       </tuv>
     </tu>
     <tu>
