@@ -38,4 +38,5 @@
 
 ## 備註
 1. LibreOffice 會自動補中英之間的排版空間，所以翻譯 odt 檔時不必中英間補空格。
-2. 給專案管理員：如果 merge 了外部 repo 的 pull reqeust，可能導致這邊的 OmegaT 無法繼續同步。解決方案是砍掉資料夾，重新用 OmegaT 下載協作專案回來 (等同重新 git clone) 就行了。
+2. 選單表示法為：「檔案 > 另存新檔」。
+3. 給專案管理員：如果 merge 了外部 repo 的 pull reqeust，可能導致這邊的 OmegaT 無法繼續同步。解決方案是砍掉資料夾，重新用 OmegaT 下載協作專案回來 (等同重新 git clone) 就行了。
