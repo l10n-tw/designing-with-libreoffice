@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hidden Styles:&lt;/f0&gt; Styles you have removed from the other views to reduce the clutter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153935Z" creationid="zerng07" creationdate="20171224T153935Z">
-        <seg>&lt;f0&gt;隱藏樣式：&lt;/f0&gt;您先前從其他檢視畫面中移除的樣式，這樣做主要是為了減少檢視畫面的雜亂。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153957Z" creationid="zerng07" creationdate="20171224T153935Z">
+        <seg>&lt;f0&gt;隱藏樣式：&lt;/f0&gt;您先前從其他檢視畫面中隱藏的樣式，這樣做主要是為了減少檢視畫面的雜亂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -859,6 +859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183045Z" creationid="zerng07" creationdate="20170817T175243Z">
         <seg>&lt;f0&gt;還有OpenOffice？&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;aragraph styles have a number of additional views.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T154029Z" creationid="zerng07" creationdate="20171224T154029Z">
+        <seg>段落樣式有許多種額外的檢視畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1334,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T123933Z" creationid="Franklin Weng" creationdate="20171218T123933Z">
         <seg>&lt;f1&gt;It remains&lt;/f1&gt; a useful &lt;f2&gt;reminder of the structural decisions you need to make.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Most are self-explanatory divisions of the uses for styles, such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;HTML Styles&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Index Styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T154721Z" creationid="zerng07" creationdate="20171224T154721Z">
+        <seg>&lt;f1&gt;大多數都可以從名稱看出這些樣式的使用時機，例如&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;HTML 樣式&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;和&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;索引樣式等等。</seg>
       </tuv>
     </tu>
     <tu>
