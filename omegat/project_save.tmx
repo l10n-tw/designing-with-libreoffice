@@ -2131,8 +2131,8 @@
       <tuv lang="EN">
         <seg>Because the list of styles is long, the drop-down list at the bottom of the window &lt;f0&gt;has&lt;/f0&gt; &lt;f1&gt;filtered&lt;/f1&gt; views that &lt;f2&gt;need less scrolling.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142351Z" creationid="zerng07" creationdate="20171224T142230Z">
-        <seg>因為樣式清單非常長，視窗底部有個下拉式清單&lt;f0&gt;可以&lt;/f0&gt; &lt;f1&gt;篩選&lt;/f1&gt;檢視內容，讓你&lt;f2&gt;不用一直捲動視窗&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142358Z" creationid="zerng07" creationdate="20171224T142230Z">
+        <seg>因為樣式清單非常長，視窗底部有個下拉式清單&lt;f0&gt;可以&lt;/f0&gt; &lt;f1&gt;篩選&lt;/f1&gt;檢視內容，讓你&lt;f2&gt;不用一直捲動視窗畫面&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2285,6 +2285,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181349Z" creationid="zerng07" creationdate="20170824T180134Z">
         <seg>與之相反的作法就是樣式，樣式是一組設定好的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, after you have written a few pages, the &lt;f1&gt;Applied Styles &lt;/f1&gt;view minimizes the styles displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142732Z" creationid="zerng07" creationdate="20171224T142619Z">
+        <seg>相反的，如果是你寫了幾頁內容之後，「&lt;f1&gt;套用的樣式&lt;/f1&gt;」檢視畫面則可以精簡地展現目前的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,6 +3077,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T122618Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
         <seg>For example, in Linux when you save from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TemplateMenu,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, when you are designing, the &lt;f0&gt;Hierarchical&lt;/f0&gt; view helps you work with related styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142624Z" creationid="zerng07" creationdate="20171224T142517Z">
+        <seg>舉例來說，當你在作排版設計之時，「&lt;f0&gt;階層式&lt;/f0&gt;」檢視可以協助你處理相關樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5736,6 +5752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100933Z" creationid="Franklin Weng" creationdate="20171212T100933Z">
         <seg>2002 年，我第一次設計一個通用目的的範本時，花了大概幾個小時來設計，然後又花了大概兩小時來微調。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The best view depends on what you are doing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142429Z" creationid="zerng07" creationdate="20171224T142429Z">
+        <seg>最佳的樣式檢視畫面取決於你打算執行什麼作業而定。</seg>
       </tuv>
     </tu>
     <tu>
