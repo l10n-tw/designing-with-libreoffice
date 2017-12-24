@@ -5042,6 +5042,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>5.4.4 已經將「樣式和格式」從「格式」中獨立出來到「樣式」選單列項目中。</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting&lt;/f0&gt; &lt;f1&gt;from the menu bar.&lt;/f1&gt;</seg>
       </tuv>
@@ -6751,6 +6752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133702Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
         <seg>你可以在範本路徑中新增其他目錄，用分號分隔即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also highlight an entry in the tool bar’s style list and select &lt;f0&gt;&lt;f1&gt;E&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;dit&lt;/f2&gt; to open the style’s dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092030Z" creationid="zerng07" creationdate="20171224T092030Z">
+        <seg>你也可以反白選取輸入內容，接著在工具列的樣式清單中選取「&lt;f2&gt;編輯&lt;/f2&gt;」來開啟樣式的對話視窗。</seg>
       </tuv>
     </tu>
     <tu>
