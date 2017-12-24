@@ -3777,6 +3777,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice releases before 4.4 and &lt;f0&gt;in &lt;/f0&gt;Apache OpenOffice, you can click the first icon on the left on the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar (the bot&lt;f2&gt;t&lt;/f2&gt;om default tool bar).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092245Z" creationid="zerng07" creationdate="20171224T092232Z">
+        <seg>在LibreOffice 4.4以前的發行版本，還有Apache OpenOffice中，你可以點按&lt;f1&gt;格式設定&lt;/f1&gt;工具列中（底部的預設工具列）最左方的第一個圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082459Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
@@ -6680,6 +6688,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175725Z" creationid="zerng07" creationdate="20171223T174459Z">
         <seg>Writer可能還不如InDesign這類工具所表現的那般精準，但它確實能媲美FrameMaker這種善於處理大量文字的文書工具。事實上，我還認識一些使用Writer作書籍設計工具的出版社。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer’s version of the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092434Z" creationid="zerng07" creationdate="20171224T092434Z">
+        <seg>「&lt;f0&gt;樣式和格式設定&lt;/f0&gt;」的Writer版本。</seg>
       </tuv>
     </tu>
     <tu>
