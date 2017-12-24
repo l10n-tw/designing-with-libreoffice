@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List&lt;/f0&gt; styles can be applied directly to a list, or, more elegantly, &lt;t1/&gt;associated with one or more paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060558Z" creationid="zerng07" creationdate="20171224T060558Z">
+        <seg>&lt;f0&gt;清單&lt;/f0&gt;樣式可以直接套用到清單上，或者，可以更優雅地&lt;t1/&gt;讓它和一個或多個段落樣式產生關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;acros and extensions &lt;f1&gt;are sometimes&lt;/f1&gt; available for re-attaching styles to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124353Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
@@ -4971,6 +4979,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031047Z" creationid="zerng07" creationdate="20171219T031047Z">
         <seg>樣式彼此會衝突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles for configuring bullet lists and numbered lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060334Z" creationid="zerng07" creationdate="20171224T060334Z">
+        <seg>設定項目符號清單和編號清單用的樣式。</seg>
       </tuv>
     </tu>
     <tu>
