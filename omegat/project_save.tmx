@@ -3817,6 +3817,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OpenOffice and &lt;f0&gt;many &lt;/f0&gt;earlier LibreOffice versions, drag the floating window by its title bar to the left or right edge of the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T140605Z" creationid="zerng07" creationdate="20171224T140605Z">
+        <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要按住浮動視窗的標題列，並拖曳到你想在編輯視窗中停駐的左邊緣或右邊緣上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125056Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
@@ -5974,8 +5982,8 @@
       <tuv lang="EN">
         <seg>The sidebar remains undocked, even after you exit and restart Libre&lt;f0&gt;O&lt;/f0&gt;ffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T134747Z" creationid="zerng07" creationdate="20171224T134747Z">
-        <seg>側邊欄會一直維持即使你退出Libre&lt;f0&gt;O&lt;/f0&gt;ffice.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T135239Z" creationid="zerng07" creationdate="20171224T134747Z">
+        <seg>側邊欄會一直維持在停駐位置上，即便你退出Libre&lt;f0&gt;O&lt;/f0&gt;ffice並重新啟動都是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,8 +6318,8 @@
       <tuv lang="EN">
         <seg>To undock the window &lt;f0&gt;(or any other display in the sidebar)&lt;/f0&gt;, click the drop-down list of commands on the top right of the tool bar and select &lt;f1&gt;Undock.&lt;/f1&gt; When the window is undocked, select &lt;f2&gt;Dock&lt;/f2&gt; from the drop-down list &lt;f3&gt;to redock it&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T135128Z" creationid="zerng07" creationdate="20171224T135128Z">
-        <seg>若要取消視窗的停駐位置&lt;f0&gt;（或任何其他側邊欄中的其他顯示畫面）&lt;/f0&gt;，請點按工具列右上角的下拉式指令清單，並選取「&lt;f1&gt;取消停駐&lt;/f1&gt;」。當視窗取消停駐之後，可以再到下拉式清單中選取「 &lt;f2&gt;停駐&lt;/f2&gt;」&lt;f3&gt;重新讓視窗停駐在原位&lt;/f3&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T135137Z" creationid="zerng07" creationdate="20171224T135128Z">
+        <seg>若要取消視窗的停駐位置&lt;f0&gt;（或任何其他側邊欄中的其他顯示畫面）&lt;/f0&gt;，請點按工具列右上角的下拉式指令清單，並選取「&lt;f1&gt;取消停駐&lt;/f1&gt;」。當視窗取消停駐之後，可以再到下拉式清單中選取「 &lt;f2&gt;停駐&lt;/f2&gt;」&lt;f3&gt;重新讓視窗停駐在原位&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
