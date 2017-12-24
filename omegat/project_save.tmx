@@ -1537,6 +1537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;The floating window could be placed anywhere on the screen, or dragged to be docked on either side of the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092921Z" creationid="zerng07" creationdate="20171224T092921Z">
+        <seg>&lt;f3&gt;浮動視窗可以放到螢幕畫面中的任何地方，或是拖曳到編輯視窗中的任一邊並停駐在那個位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;And having spent the time to set up styles, you would prefer not to do the same work all over again for your next document, so templates also become an important part of your work flow.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165848Z" creationid="zerng07" creationdate="20170817T155039Z">
@@ -6368,6 +6376,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101056Z" creationid="Franklin Weng" creationdate="20171212T101056Z">
         <seg>跟 Microsoft Word 不同的是，LibreOffice 並沒有在選單中顯示任何&lt;f0&gt;&lt;f1&gt;一般&lt;/f1&gt;&lt;/f0&gt;的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Until &lt;f0&gt;LibreOffice &lt;/f0&gt;version 4.4, the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window opened &lt;f2&gt;as a floating window&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092801Z" creationid="zerng07" creationdate="20171224T092801Z">
+        <seg>直到&lt;f0&gt;LibreOffice&lt;/f0&gt; 4.4版為止，過去「&lt;f1&gt;樣式和格式設定&lt;/f1&gt;」視窗都以&lt;f2&gt;浮動視窗&lt;/f2&gt;的形式開啟。</seg>
       </tuv>
     </tu>
     <tu>
