@@ -2607,6 +2607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact equivalent to manual formatting with &lt;f1&gt;Format &gt; Page&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060248Z" creationid="zerng07" creationdate="20171224T060248Z">
+        <seg>對應手動格式設定為「&lt;f1&gt;格式 &gt; 頁面&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100927Z" creationid="Franklin Weng" creationdate="20171212T100927Z">
@@ -5395,6 +5403,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061622Z" creationid="zerng07" creationdate="20170817T181658Z">
         <seg>軟體的授權條款允許他們這麼做，但如果你必須支付超過三千新臺幣的運費和處理費，那他們很有可能在利用你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main drawback is that you cannot easily set an object to reoccur on every page that uses the same page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060153Z" creationid="zerng07" creationdate="20171224T060153Z">
+        <seg>主要的缺點是你無法透過相同的頁面樣式輕鬆讓物件在每一頁重複出現。</seg>
       </tuv>
     </tu>
     <tu>
