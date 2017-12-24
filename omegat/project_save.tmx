@@ -2599,6 +2599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equivalent to manually formatting with &lt;f2&gt;Format &gt; Bullets and Numbering.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060716Z" creationid="zerng07" creationdate="20171224T060716Z">
+        <seg>對應的手動格式設定做法是「&lt;f2&gt;格式 &gt; 項目符號與編號&lt;/f2&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even deleting or adding a style can detach a document from its template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120642Z" creationid="Franklin Weng" creationdate="20171212T120622Z">
