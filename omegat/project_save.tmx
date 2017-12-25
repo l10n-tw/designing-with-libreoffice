@@ -3484,8 +3484,8 @@
       <tuv lang="EN">
         <seg>However, if you switch to the list styles, nothing will be highlighted unless the cursor is at a position where a list style is being used.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074809Z" creationid="zerng07" creationdate="20171225T074809Z">
-        <seg>然而，如果你切換到「清單樣式」，nothing will be highlighted unless the cursor is at a position where a list style is being used.&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081522Z" creationid="zerng07" creationdate="20171225T074809Z">
+        <seg>然而，如果你切換到「清單樣式」，只要游標沒有放在清單樣式的文字之上，就不會看到有樣式被反白標明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,6 +4006,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141402Z" creationid="zerng07" creationdate="20171224T140605Z">
         <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要先按住浮動視窗的標題列，並拖曳到你在編輯視窗中想停駐的左邊緣或右邊緣上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Writer, you can identify current styles in other places in the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081557Z" creationid="zerng07" creationdate="20171225T081557Z">
+        <seg>在Writer中，你可以在編輯視窗中的其他地方辨識出目前的樣式。</seg>
       </tuv>
     </tu>
     <tu>
