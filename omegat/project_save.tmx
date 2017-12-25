@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Inherit from (Linked With)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;:&lt;/f2&gt; The parent style in the hierarchy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171944Z" creationid="zerng07" creationdate="20171225T171944Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;繼承自（連結到）&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：&lt;/f2&gt;階層中的親代樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;P&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;aragraph&lt;/f2&gt; styles are the most commonly used style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175213Z" creationid="zerng07" creationdate="20171223T175213Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132842Z" creationid="Franklin Weng" creationdate="20171223T132842Z">
         <seg>&lt;f0&gt;請仔細檢查要覆蓋的樣式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Category:&lt;/f0&gt; The view &lt;f1&gt;in which&lt;/f1&gt; the style is listed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172311Z" creationid="zerng07" creationdate="20171225T172311Z">
+        <seg>&lt;f0&gt;類別：&lt;/f0&gt;列出樣式的檢視畫面&lt;f1&gt;所在&lt;/f1&gt;選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2815,6 +2831,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143920Z" creationid="zerng07" creationdate="20171225T143920Z">
         <seg>只要修改&lt;f0&gt;標題&lt;/f0&gt;樣式，就會一併修改&lt;f1&gt;下方的所有樣式。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes to the parent style will change the current style, so you don’t have to make changes to every related style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172042Z" creationid="zerng07" creationdate="20171225T172042Z">
+        <seg>對親代樣式做的修改會一併影響目前的樣式，所以你不需要再去修改每個相關的樣式。</seg>
       </tuv>
     </tu>
     <tu>
