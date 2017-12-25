@@ -4082,6 +4082,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In each style type, especially paragraph and character styles, the pre-defined styles are well thought out, and might be all that you need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083833Z" creationid="zerng07" creationdate="20171225T083833Z">
+        <seg>在各種樣式類型中，特別是段落樣式和字元樣式之中，預先定義的樣式都是經過仔細考慮才設立的，通常只要修改這些就能符合你的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In effect, you are using the office application as though it were a typewriter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181241Z" creationid="zerng07" creationdate="20170824T174633Z">
@@ -4366,6 +4374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T063530Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
         <seg>LibreOffice也會檢查一些文法與&lt;f3&gt;排版問題，例如英文句號後方應留一個空格而非兩個。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice has pre-defined styles &lt;f0&gt;that you can modify but not delete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083215Z" creationid="zerng07" creationdate="20171225T083215Z">
+        <seg>LibreOffice有一些&lt;f0&gt;你可以修改但不能刪除的預先定義樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,6 +5881,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134001Z" creationid="Franklin Weng" creationdate="20171223T134001Z">
         <seg>完整的基礎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;nature&lt;/f0&gt; of styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083149Z" creationid="zerng07" creationdate="20171225T083149Z">
+        <seg>樣式的&lt;f0&gt;本質&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
