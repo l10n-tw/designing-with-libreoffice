@@ -6383,6 +6383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;style inherited from&lt;/f3&gt; is the current style’s parent – the style from which the current style inherits characteristics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144326Z" creationid="zerng07" creationdate="20171225T144326Z">
+        <seg>&lt;f3&gt;繼承的&lt;/f3&gt;來源樣式是目前樣式的親代——目前的樣式繼承了它的樣貌特徵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Arkandis fonts are meant to provide free-licensed versions of fonts for Linux.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T102911Z" creationid="zerng07" creationdate="20170817T102354Z">
