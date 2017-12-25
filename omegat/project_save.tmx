@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Either way, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; styles are useful when &lt;/f3&gt;pasting formatted text from inside or outside the current document &lt;f4&gt;creates formatting&lt;/f4&gt; problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T151520Z" creationid="zerng07" creationdate="20171225T151520Z">
+        <seg>&lt;f0&gt;不管你用哪種方法，&lt;/f0&gt;當你&lt;/f3&gt;貼上此文件外部來的、或內部來的格式設定後文字，結果&lt;f4&gt;造成一些格式上的問題&lt;/f4&gt;時，&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式就能大展身手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Except with Template Changer or another extension, y&lt;/f0&gt;ou cannot &lt;f1&gt;directly change&lt;/f1&gt; &lt;f2&gt;which&lt;/f2&gt; template &lt;f3&gt;is &lt;/f3&gt;used by a &lt;f4&gt;document&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141657Z" creationid="Franklin Weng" creationdate="20171223T124732Z">
