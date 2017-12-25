@@ -5331,6 +5331,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sans &lt;f0&gt;s&lt;/f0&gt;erif: Literally, fonts whose lines lack the foot that characterizes serifs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T095905Z" creationid="Franklin Weng" creationdate="20171225T095905Z">
+        <seg>Sans serif：就字面上來說，就是線條尾端沒有襯線的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save it with &lt;f0&gt;File &gt; Save as Template, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Templates &gt; Save as Template,&lt;/f2&gt;&lt;/f1&gt; or &lt;f3&gt;File &gt; TemplateMenu &gt; Save as Template &lt;/f3&gt;&lt;f4&gt;(all these options may not be available in all versions of LibreOffice).&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125850Z" creationid="Franklin Weng" creationdate="20171218T125850Z">
