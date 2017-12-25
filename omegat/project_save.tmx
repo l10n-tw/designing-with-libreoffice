@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;Alternatively, select from the template manager tool bar &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Repository &gt; Local&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Repository &gt; New repository.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033131Z" creationid="Franklin Weng" creationdate="20171223T033131Z">
-        <seg>&lt;/f3&gt;&lt;f4&gt;此外，也可以從範本視窗中的工具列選擇「主目錄」&gt;「本地」或是「主目錄」&gt;「新增主目錄」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135611Z" creationid="Franklin Weng" creationdate="20171223T033131Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;此外，也可以從範本視窗中的工具列選擇&lt;/f4&gt;「主目錄」&gt;「本地」或是「主目錄」&gt;「新增主目錄」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Set as Default&lt;/f1&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042851Z" creationid="Franklin Weng" creationdate="20171223T042851Z">
-        <seg>&lt;f0&gt;點擊選擇「設為預設值」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135643Z" creationid="Franklin Weng" creationdate="20171223T042851Z">
+        <seg>&lt;f0&gt;點擊&lt;/f0&gt;選擇「設為預設值」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Four&lt;/f0&gt; kinds of fields are likely to &lt;f1&gt;be &lt;/f1&gt;useful:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093433Z" creationid="Franklin Weng" creationdate="20171223T093433Z">
-        <seg>&lt;f0&gt;有四種欄位通常比較有用：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135750Z" creationid="Franklin Weng" creationdate="20171223T093433Z">
+        <seg>&lt;f0&gt;有四種欄位通常比較有用：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -721,8 +721,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, you can also u&lt;/f0&gt;se placeholders for &lt;f1&gt;text and objects in Writer &lt;/f1&gt;from&lt;f2&gt; Insert &gt; Fields &gt; Other &gt; Functions&lt;/f2&gt;.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Format,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; then give the placeholder a name in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Placeholder&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093008Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
-        <seg>&lt;f0&gt;不過，你也可以在 Writer 選單的「插入」&gt;「欄位」&gt;「更多欄位」&gt;「功能」中的「格式」分頁加入文件或物件的佔位項，然後在右邊的「佔位項」中加入名稱即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135700Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
+        <seg>&lt;f0&gt;不過，你也可以在&lt;/f0&gt;Writer 選單的「插入」&gt;「欄位」&gt;「更多欄位」&gt;「功能」中的「格式」分頁加入文件或物件的佔位項，然後在右邊的「佔位項」中加入名稱即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,8 +754,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you have downloaded a large number of templates, you can &lt;f1&gt;register&lt;/f1&gt; a large number of them by moving them to one of the directories listed in the &lt;f2&gt;Paths&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032934Z" creationid="Franklin Weng" creationdate="20171223T032934Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;如果你一次下載一大堆範本，你可以把它們都移到&lt;f3&gt;「工具」&gt;「選項」&lt;/f3&gt;中的「&lt;f2&gt;路徑&lt;/f2&gt;」區段裡列出的目錄下，這樣就註冊完成。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135555Z" creationid="Franklin Weng" creationdate="20171223T032934Z">
+        <seg>如果你一次下載一大堆範本，你可以把它們都移到&lt;f3&gt;「工具」&gt;「選項」中的「&lt;f2&gt;路徑&lt;/f2&gt;」區段裡列出的目錄下，這樣就註冊完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,16 +986,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093302Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
-        <seg>&lt;f0&gt;Writer 中信件開頭使用的佔位項欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135733Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
+        <seg>Writer 中信件開頭使用的&lt;f0&gt;佔位項&lt;/f0&gt;&lt;f1&gt;欄位&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholders have their own &lt;/f0&gt;character style, &lt;f1&gt;which makes them easy to find using &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Edit &gt; Find &amp; Replace.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093354Z" creationid="Franklin Weng" creationdate="20171223T093354Z">
-        <seg>&lt;f0&gt;佔位項有它們自己的字元樣式，這樣比較容易用「編輯」&gt;「尋找與取代」來尋找。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135742Z" creationid="Franklin Weng" creationdate="20171223T093354Z">
+        <seg>&lt;f0&gt;佔位項有它們自己的&lt;/f0&gt;字元樣式，這樣比較容易用「編輯」&gt;「尋找與取代」來尋找。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,8 +1388,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Click the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; button to continue.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121039Z" creationid="Franklin Weng" creationdate="20171223T121039Z">
-        <seg>&lt;f1&gt;點擊「插入」來繼續下一步。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135824Z" creationid="Franklin Weng" creationdate="20171223T121039Z">
+        <seg>&lt;f1&gt;點擊&lt;/f1&gt;「插入」來繼續下一步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1629,8 +1629,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;t assumes that most users want a generic &lt;t3/&gt;font, like Times New Roman or Liberation Serif.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042425Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
-        <seg>&lt;f2&gt;&lt;/f2&gt;例如它根據大部份使用者的習慣，將字型設定為常用的，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135626Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
+        <seg>例如它根據大部份使用者的習慣，將字型設定為常用的，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,8 +3030,8 @@
       <tuv lang="EN">
         <seg>Document information, stored or displayed in &lt;f0&gt;File &gt; Properties.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093543Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
-        <seg>文件資訊，儲存與顯示在「檔案」&gt;「屬性」中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135809Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
+        <seg>文件資訊，儲存與顯示在&lt;f0&gt;「檔案」&gt;「屬性」中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7369,8 +7369,8 @@
       <tuv lang="EN">
         <seg>W&lt;/f0&gt;hen you are ready to insert the information, click the placeholder &lt;f1&gt;field &lt;/f1&gt;to replace it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093236Z" creationid="Franklin Weng" creationdate="20171223T093236Z">
-        <seg>當你準備好要填入資訊時，點擊佔位項欄位填入資料，即可把原來的佔位項取代掉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135713Z" creationid="Franklin Weng" creationdate="20171223T093236Z">
+        <seg>&lt;/f0&gt;當你準備好要填入資訊時，點擊佔位項欄位填入資料，即可把原來的佔位項取代掉。</seg>
       </tuv>
     </tu>
     <tu>
