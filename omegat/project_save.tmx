@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Many styles in LibreOffice &lt;/f0&gt;are hierarchical &lt;f1&gt;(although for some reason a few, such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;List&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; styles, are not)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104417Z" creationid="zerng07" creationdate="20171225T104202Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt;中的許多樣式有各種階層&lt;f1&gt;（雖然某些樣式類型基於某些原因沒有階層，例如&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;清單&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;樣式就沒有階層）&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Much of t&lt;/f0&gt;his book is designed to explain not only what styles and templates are and how to use them, but also what you need to consider when selecting them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
@@ -6337,6 +6345,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
         <seg>本章內的標題可作為參考用的步驟檢查表。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The hierarchy of styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104204Z" creationid="zerng07" creationdate="20171225T104143Z">
+        <seg>樣式的階層</seg>
       </tuv>
     </tu>
     <tu>
