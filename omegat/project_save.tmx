@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;As you scroll through a document, it is updated automatically.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082102Z" creationid="zerng07" creationdate="20171225T082102Z">
+        <seg>&lt;f0&gt;它會隨著你捲動文件時的所在頁面自動更新。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;As you spell check, make a note of your regular typos, and use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to help you correct every instance of it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075447Z" creationid="Jeff Huang" creationdate="20171213T031241Z">
@@ -747,6 +755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075622Z" creationid="Franklin Weng" creationdate="20171224T075622Z">
         <seg>如果你有管理員權限，你可以在作業系統中安裝新的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082407Z" creationid="zerng07" creationdate="20171225T082407Z">
+        <seg>&lt;f0&gt;還有，你可以選取&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯 &gt; 尋找與取代 &gt; 其他選項 &gt; 搜尋段落樣式&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;來找出文件中某個樣式所使用的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5401,6 +5417,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145114Z" creationid="zerng07" creationdate="20170822T144948Z">
         <seg>一樣，書裡這些針對Linux系統而寫的內容也多能套用到&lt;f3&gt;OS X&lt;/f3&gt;和Windows系統上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, the current page style is shown, third from the left, in the indicators at the bottom of the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082025Z" creationid="zerng07" creationdate="20171225T082016Z">
+        <seg>此外，編輯視窗中最底部的橫列中，由左至右算起來第三個欄位會顯示目前的頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
