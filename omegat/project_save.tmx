@@ -176,8 +176,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Automatic&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is the default view when you open a new document.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153032Z" creationid="zerng07" creationdate="20171224T152955Z">
-        <seg>「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視是您開啓新文件時的預設檢視畫面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142532Z" creationid="zerng07" creationdate="20171224T152955Z">
+        <seg>「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視是您開啓新文件時的預設檢視畫面。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Custom Styles:&lt;/f0&gt; The styles you have created, &lt;f1&gt;as opposed to the pre-defined ones.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152833Z" creationid="zerng07" creationdate="20171224T152833Z">
-        <seg>&lt;f0&gt;自訂樣式：&lt;/f0&gt;和預先設定的樣式不同，這是你自己建立的樣式。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142448Z" creationid="zerng07" creationdate="20171224T152833Z">
+        <seg>&lt;f0&gt;自訂樣式：&lt;/f0&gt;和預先設定的樣式不同，&lt;f1&gt;這是你自己建立的樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1975,6 +1975,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141414Z" creationid="zerng07" creationdate="20171212T141414Z">
         <seg>樣式就只能影響你在文件中有套用樣式的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A style that is one level above another is &lt;f0&gt;called &lt;/f0&gt;the parent of the &lt;f1&gt;style directly &lt;/f1&gt;below it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143320Z" creationid="zerng07" creationdate="20171225T143320Z">
+        <seg>一個樣式的直接上一層樣式&lt;f0&gt;稱為&lt;/f0&gt;此樣式的親代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3662,8 +3670,8 @@
       <tuv lang="EN">
         <seg>However, LibreOffice &lt;f1&gt;adds&lt;/f1&gt; three more styles in Writer (plus a pseudo-style for &lt;f2&gt;t&lt;/f2&gt;ables), and other styles &lt;f3&gt;for spreadsheets, presentations, and diagrams.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175811Z" creationid="zerng07" creationdate="20171223T173143Z">
-        <seg>不過，LibreOffice在Writer中&lt;f1&gt;多加&lt;/f1&gt;其他三種樣式（再加上一種給表格用的偽樣式），至於試算表、簡報、圖表等還有別的樣式可用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142401Z" creationid="zerng07" creationdate="20171223T173143Z">
+        <seg>不過，LibreOffice在Writer中&lt;f1&gt;多加&lt;/f1&gt;其他三種樣式（再加上一種給表格用的偽樣式），至於&lt;f3&gt;試算表、簡報、圖表等還有別的樣式可用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3758,8 +3766,8 @@
       <tuv lang="EN">
         <seg>However, if you switch to the list styles, nothing will be highlighted unless the cursor is at a position where a list style is being used.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081522Z" creationid="zerng07" creationdate="20171225T074809Z">
-        <seg>然而，如果你切換到「清單樣式」，只要游標沒有放在清單樣式的文字之上，就不會看到有樣式被反白標明。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142600Z" creationid="zerng07" creationdate="20171225T074809Z">
+        <seg>然而，如果你切換到「清單樣式」，只要游標沒有放在清單樣式的文字之上，就不會看到有樣式被反白標明。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5046,8 +5054,8 @@
       <tuv lang="EN">
         <seg>O&lt;/f0&gt;nce the style is ready, here's how you would make the same changes using styles:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113139Z" creationid="zerng07" creationdate="20171219T112507Z">
-        <seg>可是一旦樣式設好以後，接下來只要做以下動作就能利用樣式完成修改：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142713Z" creationid="zerng07" creationdate="20171219T112507Z">
+        <seg>&lt;/f0&gt;可是一旦樣式設好以後，接下來只要做以下動作就能利用樣式完成修改：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7561,8 +7569,8 @@
       <tuv lang="EN">
         <seg>Whether that is true is uncertain, but the pre-defined styles are useful references for what you can do with styles.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103457Z" creationid="zerng07" creationdate="20171225T103423Z">
-        <seg>這樣子的想法到底正不正確我們不清楚，但是預先定義樣式的確是你能用樣式做些甚麼的實用參照。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142609Z" creationid="zerng07" creationdate="20171225T103423Z">
+        <seg>這樣子的想法到底正不正確我們不清楚，但是預先定義樣式的確是你能用樣式做些甚麼的實用參照。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
