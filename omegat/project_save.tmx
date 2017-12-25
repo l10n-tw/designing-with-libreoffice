@@ -1810,6 +1810,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t2/&gt;Because of their association with typewriters, monospace fonts are unpopular today, except for specific uses such as writing code or movie scripts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100831Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
+        <seg>因為這個字型跟打字機的關聯，現在 monospace 比較沒那麼流行，通常只被某些使用者用來呈現程式碼或電影的字幕用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;basic business card template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123642Z" creationid="Franklin Weng" creationdate="20171223T123642Z">
@@ -4638,6 +4646,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083600Z" creationid="Jeff Huang" creationdate="20171214T060243Z">
         <seg>主控文件與獨立的子文件的分頁位置可能不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monospace fonts can be either serif or sans serif, but the sans serif monospace &lt;f0&gt;fonts&lt;/f0&gt; usually &lt;f1&gt;look more contemporary&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100729Z" creationid="Franklin Weng" creationdate="20171225T100729Z">
+        <seg>Monospace 字型可以有襯線（Serif 字族）也可以無襯線（Sans serif 字族），但無襯線的 monospace 字體看起來比較具現代感。</seg>
       </tuv>
     </tu>
     <tu>
