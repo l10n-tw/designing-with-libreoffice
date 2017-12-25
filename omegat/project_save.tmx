@@ -256,8 +256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Paragraph&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;C&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;haracter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; styles are listed together under &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Overwrite&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; to replace existing styles of the same name.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132337Z" creationid="Franklin Weng" creationdate="20171223T132337Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;段落與字元樣式都在「文字」當中。勾選「覆蓋」會取代掉檔案中相同名稱的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140152Z" creationid="Franklin Weng" creationdate="20171223T132337Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;段落&lt;/f1&gt;&lt;/f0&gt;與字元樣式都在「文字」當中。勾選「覆蓋」會取代掉檔案中相同名稱的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;OK&lt;/f1&gt; button on the top right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133033Z" creationid="Franklin Weng" creationdate="20171223T133033Z">
-        <seg>&lt;f0&gt;最後點選「確定」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140210Z" creationid="Franklin Weng" creationdate="20171223T133033Z">
+        <seg>&lt;f0&gt;最後點選&lt;/f0&gt;「確定」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Either s&lt;/f0&gt;elect one of the templates in the Template pane &lt;f1&gt;or c&lt;/f1&gt;lick the &lt;f2&gt;From File&lt;/f2&gt; button and select a document template using the file manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132625Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
-        <seg>&lt;f0&gt;你可以從「範本」視窗中選擇一個範本，或是點擊左下角「取自檔案」並選擇一個文件範本檔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140159Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
+        <seg>&lt;f0&gt;你可以從&lt;/f0&gt;「範本」視窗中選擇一個範本，或是點擊左下角「取自檔案」並選擇一個文件範本檔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,8 +746,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you are installing a large number of templates, &lt;f1&gt;placing them all in one directory, adding to the path, and re-starting LibreOffice is the quickest way of registering them.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133943Z" creationid="Franklin Weng" creationdate="20171223T133943Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;如果你要同時安裝大量的範本，則將這些範本放在一個目錄中，並在範本路徑中加入該目錄，再重啟 LibreOffice 是同時註冊所有範本最快的方法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140412Z" creationid="Franklin Weng" creationdate="20171223T133943Z">
+        <seg>如果你要同時安裝大量的範本，則將這些範本放在一個目錄中，並在範本路徑中加入該目錄，再重啟 LibreOffice 是同時註冊所有範本最快的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,8 +1252,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Transferring styles does not change the template listed in&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; File &gt; Properties &gt; General.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133152Z" creationid="Franklin Weng" creationdate="20171223T133152Z">
-        <seg>&lt;f0&gt;轉換樣式不會改變在「檔案」&gt;「屬性」&gt;「一般」中所列出的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140220Z" creationid="Franklin Weng" creationdate="20171223T133152Z">
+        <seg>&lt;f0&gt;轉換樣式不會改變在&lt;/f0&gt;「檔案」&gt;「屬性」&gt;「一般」中所列出的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1749,8 +1749,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Or perhaps you want to organize your installation by adding sub-folders to the main template directories.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133422Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
-        <seg>&lt;f3&gt;或者可能你要重新組織你的主要範本目錄，在裡面新增子目錄等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140233Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
+        <seg>&lt;f3&gt;或者可能你要重新組織你的主要範本目錄，在裡面新增子目錄等等。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3926,8 +3926,8 @@
       <tuv lang="EN">
         <seg>If necessary, you can overwrite an existing template.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032729Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
-        <seg>必要的話，你可以把現有的範本蓋掉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140430Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
+        <seg>必要的話，你可以把現有的範本蓋掉。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
