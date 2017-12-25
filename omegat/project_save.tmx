@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For example, if you are using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; paragraph style and switch the display to character styles, ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074153Z" creationid="zerng07" creationdate="20171225T074153Z">
+        <seg>&lt;f0&gt;舉例來說，如果有段文字採用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;段落樣式，接著你在切換到「字元樣式」中，ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, t&lt;/f0&gt;he document is informal, and won’t affect &lt;f1&gt;your company's&lt;/f1&gt; branding.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143555Z" creationid="zerng07" creationdate="20171219T143555Z">
@@ -3742,6 +3750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055113Z" creationid="Jeff Huang" creationdate="20171123T064423Z">
         <seg>如果你更動了論點的位置，其起句、合句&lt;f0&gt;以及轉句都可能要再改寫。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you change the type of style displayed in the &lt;f1&gt;Styles and Formatting &lt;/f1&gt;window, then the highlighted style also changes, &lt;f2&gt;if possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T073847Z" creationid="zerng07" creationdate="20171225T073847Z">
+        <seg>如果你在&lt;f1&gt;樣式和格式設定&lt;/f1&gt;視窗中更改了樣式類型，則反白標明的樣式一般也會跟著改變。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
