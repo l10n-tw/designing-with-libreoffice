@@ -1626,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092901Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
+        <seg>Slab serif 中的襯線比其他襯線字型都要來得厚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The solution to both these problems is &lt;/f2&gt;templates – &lt;f3&gt;files to store formatting and structure to re-use or share.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160201Z" creationid="Franklin Weng" creationdate="20171212T100258Z">
@@ -4346,6 +4354,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left: Serif font (Goudy Bookletter 1911).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092814Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
+        <seg>左：Serif 字型（Goudy Bookletter 1911）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Let's imagine that &lt;f0&gt;you have a heading paragraph that you want to format extensively.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111053Z" creationid="zerng07" creationdate="20171219T110835Z">
@@ -5279,6 +5295,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133402Z" creationid="Franklin Weng" creationdate="20171213T133402Z">
         <seg>不管用哪一種方式，要使用範本前都要先在 LibreOffice 中註冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092831Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
+        <seg>右：Slab serif 字型（Chunk）。</seg>
       </tuv>
     </tu>
     <tu>
