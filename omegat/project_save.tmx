@@ -882,8 +882,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;acros and extensions &lt;f1&gt;are sometimes&lt;/f1&gt; available for re-attaching styles to a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124353Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;有的時候&lt;/f1&gt;&lt;/f0&gt;有一些巨集或擴充套件可以將樣式重新附上文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141247Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
+        <seg>&lt;f1&gt;有的時候&lt;/f1&gt;有一些巨集或擴充套件可以將樣式重新附上文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1316,8 +1316,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can always identify a LibreOffice template file&lt;/f0&gt;, because the second letter in its extension is always a “t.” &lt;f1&gt;This pattern is used&lt;/f1&gt; in &lt;f2&gt;both &lt;/f2&gt;Open Document Format and the &lt;f3&gt;obsolete &lt;/f3&gt;OpenOffice.org 1.0 format:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125358Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
-        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。&lt;/f0&gt;如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;&lt;f2&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141345Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
+        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。&lt;/f0&gt;如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,8 +6305,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;only way that you can alter LibreOffice’s default formats without using templates is&lt;/f0&gt; to change the &lt;f1&gt;font &lt;/f1&gt;settings &lt;f2&gt;in&lt;/f2&gt; &lt;f3&gt;Tools &gt; Options &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; LibreOffice Writer &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Basic Fonts (Western).&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Default formatting such as page and list styles cannot be edited at all.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101112Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
-        <seg>你&lt;f0&gt;唯一可以不用範本而改變 LibreOffice 預設格式的方式是在&lt;f3&gt;「工具」&gt;「選項」&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 「LibreOffice Writer」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「基本字型（西方語言）」或「基本字型（亞洲語言）」。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;中&lt;/f0&gt;改變&lt;f1&gt;字型&lt;/f1&gt;設定。&lt;f10&gt;預設的格式，如頁面與清單等都不能編輯。&lt;/f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141121Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
+        <seg>你&lt;f0&gt;唯一可以不用範本而改變 LibreOffice 預設格式的方式是在&lt;/f0&gt;&lt;f3&gt;「工具」&gt;「選項」&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 「LibreOffice Writer」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「基本字型（西方語言）」或「基本字型（亞洲語言）」。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;中改變&lt;f1&gt;字型&lt;/f1&gt;設定。&lt;f10&gt;預設的格式，如頁面與清單等都不能編輯。&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
