@@ -6679,6 +6679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The easiest way to solve these problems is to strip out most of the formatting by applying the &lt;f0&gt;Default&lt;/f0&gt; character and/or paragraph style, &lt;f1&gt;then to apply the formatting you want.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T151827Z" creationid="zerng07" creationdate="20171225T151827Z">
+        <seg>解決這類問題的最簡單方法，就是套用&lt;f0&gt;預設&lt;/f0&gt;字元樣式或再套上預設段落樣式，來除去這段文字的格式設定，&lt;f1&gt;接著就能照你所希望的方式重作格式設定。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exact path differs with operating systems and LibreOffice releases.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133637Z" creationid="Franklin Weng" creationdate="20171223T133637Z">
