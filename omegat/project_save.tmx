@@ -936,6 +936,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Name:&lt;/f0&gt; The entry that appears in the &lt;f1&gt;Style and Formatting&lt;/f1&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153629Z" creationid="zerng07" creationdate="20171225T153629Z">
+        <seg>&lt;f0&gt;名稱：&lt;/f0&gt;在&lt;f1&gt;樣式和格式&lt;/f1&gt;視窗中顯示的條目名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Next Style:&lt;/f0&gt; The style that is automatically used next when you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153747Z" creationid="zerng07" creationdate="20171225T153747Z">
+        <seg>&lt;f0&gt;下一個樣式：&lt;/f0&gt;當你按下&lt;f1&gt;Enter&lt;/f1&gt;鍵後，下個自動使用的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;No one has time to design a document every time they sit down to write.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160039Z" creationid="Franklin Weng" creationdate="20171212T100214Z">
@@ -3580,6 +3596,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;f2&gt;Heading 1 i&lt;/f2&gt;s often followed by &lt;f3&gt;Text Body.&lt;/f3&gt; Since a heading is almost never followed &lt;f4&gt;immediately&lt;/f4&gt; by another heading, this is a reasonable choice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153844Z" creationid="zerng07" creationdate="20171225T153844Z">
+        <seg>舉例，「&lt;f2&gt;標題 1&lt;/f2&gt;」樣式之後通常接的是「&lt;f3&gt;內文&lt;/f3&gt;」。 Since a heading is almost never followed &lt;f4&gt;immediately&lt;/f4&gt; by another heading, this is a reasonable choice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you are building an organizational chart, you might have a style called &lt;f0&gt;Position Boxes &lt;/f0&gt;to indicate each job.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T083506Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
@@ -4672,6 +4696,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171359Z" creationid="zerng07" creationdate="20170822T163918Z">
         <seg>但我認為它至今仍是最棒的辦公套裝軟體。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be descriptive or suggest the style’s function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153703Z" creationid="zerng07" creationdate="20171225T153703Z">
+        <seg>一般描述或暗示這個樣式的功用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6427,6 +6459,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082104Z" creationid="Franklin Weng" creationdate="20171224T082104Z">
         <seg>字元與段落樣式中的「字型」分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Organizer&lt;/f0&gt; tab &lt;f1&gt;can include&lt;/f1&gt; four fields:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153604Z" creationid="zerng07" creationdate="20171225T153604Z">
+        <seg>「&lt;f0&gt;統籌概覽&lt;/f0&gt;」標籤頁中&lt;f1&gt;通常包括&lt;/f1&gt;四個欄位：</seg>
       </tuv>
     </tu>
     <tu>
