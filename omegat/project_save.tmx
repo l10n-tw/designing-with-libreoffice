@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, if you are using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; paragraph style and switch the display to character styles, ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074303Z" creationid="zerng07" creationdate="20171225T074153Z">
-        <seg>&lt;f0&gt;舉例來說，如果有段文字採用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;段落樣式，接著你在「樣式和格式」視窗中切換到「字元樣式」，ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081354Z" creationid="zerng07" creationdate="20171225T074153Z">
+        <seg>&lt;f0&gt;舉例來說，如果你的游標放在採用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;段落樣式的文字中，接著你到「樣式和格式」視窗中切換成「字元樣式」，此時一般會看見反白標明的是&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;預設樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3478,6 +3478,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084400Z" creationid="Jeff Huang" creationdate="20171214T064615Z">
         <seg>不過，如果你已經反複做過很多次了，請想想自己是否正在追求不可能的完美。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you switch to the list styles, nothing will be highlighted unless the cursor is at a position where a list style is being used.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074809Z" creationid="zerng07" creationdate="20171225T074809Z">
+        <seg>然而，如果你切換到「清單樣式」，nothing will be highlighted unless the cursor is at a position where a list style is being used.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6647,8 +6655,8 @@
       <tuv lang="EN">
         <seg>Undocking the S&lt;f0&gt;tyles and Formatting&lt;/f0&gt; &lt;f1&gt;w&lt;/f1&gt;indow</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092614Z" creationid="zerng07" creationdate="20171224T092614Z">
-        <seg>解除&lt;f0&gt;樣式和格式設定&lt;/f0&gt;視窗的停駐位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074605Z" creationid="zerng07" creationdate="20171224T092614Z">
+        <seg>解除&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗的停駐位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6679,8 +6687,8 @@
       <tuv lang="EN">
         <seg>Until &lt;f0&gt;LibreOffice &lt;/f0&gt;version 4.4, the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window opened &lt;f2&gt;as a floating window&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092801Z" creationid="zerng07" creationdate="20171224T092801Z">
-        <seg>直到&lt;f0&gt;LibreOffice&lt;/f0&gt; 4.4版為止，過去「&lt;f1&gt;樣式和格式設定&lt;/f1&gt;」視窗都以&lt;f2&gt;浮動視窗&lt;/f2&gt;的形式開啟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074608Z" creationid="zerng07" creationdate="20171224T092801Z">
+        <seg>直到&lt;f0&gt;LibreOffice&lt;/f0&gt; 4.4版為止，過去「&lt;f1&gt;樣式和格式&lt;/f1&gt;」視窗都以&lt;f2&gt;浮動視窗&lt;/f2&gt;的形式開啟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7039,8 +7047,8 @@
       <tuv lang="EN">
         <seg>Writer’s version of the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092434Z" creationid="zerng07" creationdate="20171224T092434Z">
-        <seg>「&lt;f0&gt;樣式和格式設定&lt;/f0&gt;」的Writer版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074557Z" creationid="zerng07" creationdate="20171224T092434Z">
+        <seg>「&lt;f0&gt;樣式和格式&lt;/f0&gt;」的Writer版本。</seg>
       </tuv>
     </tu>
     <tu>
