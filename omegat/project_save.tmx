@@ -944,6 +944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Of all the tabs, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Organizer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is most important.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;It summarizes&lt;/f5&gt; the style and its relation to other styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153131Z" creationid="zerng07" creationdate="20171225T153131Z">
+        <seg>&lt;f0&gt;在所有的標籤頁中，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;統籌概覽&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁是最重要的一個。&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;它統整摘要指出&lt;/f5&gt;這個樣式和其他樣式之間的關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, each font has three basic characteristics: its family, its style or typeface (depending on the version and &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;platform), and size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082328Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
@@ -4990,8 +4998,8 @@
       <tuv lang="EN">
         <seg>Many tabs, such as the &lt;f0&gt;Border&lt;/f0&gt; and the &lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt; tabs, display identical features &lt;f3&gt;throughout LibreOffice;&lt;/f3&gt; &lt;f4&gt;so, in l&lt;/f4&gt;ater chapters, the book gives cross-references to &lt;f5&gt;prevent repetition&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152851Z" creationid="zerng07" creationdate="20171225T152851Z">
-        <seg>有一些標籤頁，例如&lt;f0&gt;邊框&lt;/f0&gt;和&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;標籤頁，在&lt;f3&gt;整套LibreOffice中都會顯示相同的功能畫面；&lt;/f3&gt;&lt;f4&gt;所以，後面的章節中&lt;/f4&gt;，本書會交叉參照以&lt;f5&gt;避免重複。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152912Z" creationid="zerng07" creationdate="20171225T152851Z">
+        <seg>有一些標籤頁，例如&lt;f0&gt;邊框&lt;/f0&gt;和&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;標籤頁，在&lt;f3&gt;整套LibreOffice中都顯示相同的功能畫面；&lt;/f3&gt;&lt;f4&gt;所以，後面的章節中&lt;/f4&gt;，本書會交叉參照以&lt;f5&gt;避免重複。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7259,6 +7267,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133013Z" creationid="Franklin Weng" creationdate="20171213T133013Z">
         <seg>為了避免這些問題發生，範本名稱越精確越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change a style’s parent, chang&lt;f0&gt;e&lt;/f0&gt; the&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;field on the &lt;f4&gt;Organizer&lt;/f4&gt; tab &lt;f5&gt;(may be called&lt;/f5&gt;&lt;f6&gt; Linked with&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;).&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153244Z" creationid="zerng07" creationdate="20171225T153244Z">
+        <seg>若要變更一個樣式的親代，chang&lt;f0&gt;e&lt;/f0&gt; the&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;field on the &lt;f4&gt;Organizer&lt;/f4&gt; tab &lt;f5&gt;(may be called&lt;/f5&gt;&lt;f6&gt; Linked with&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;).&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
