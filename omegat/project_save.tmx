@@ -5781,6 +5781,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window always opens with the style for the current cursor position highlighted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T073730Z" creationid="zerng07" creationdate="20171225T073730Z">
+        <seg>&lt;f0&gt;樣式和格式設定&lt;/f0&gt;視窗在開啟時，會自動在檢視畫面中標明游標所在位置的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;c&lt;/f0&gt;omplete &lt;f1&gt;b&lt;/f1&gt;asics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134001Z" creationid="Franklin Weng" creationdate="20171223T134001Z">
