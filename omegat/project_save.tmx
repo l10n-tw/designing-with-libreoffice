@@ -4268,6 +4268,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In character and paragraph styles, LibreOffice refers to &lt;f1&gt;a &lt;/f1&gt;weight as a &lt;f2&gt;font&lt;/f2&gt; style &lt;f3&gt;or typeface&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T130114Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
+        <seg>在 LibreOffice 中，字元與段落的樣式設定裡的「樣式」就是指這個。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In each style type, especially paragraph and character styles, the pre-defined styles are well thought out, and might be all that you need.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083930Z" creationid="zerng07" creationdate="20171225T083833Z">
@@ -5493,6 +5501,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Roman: &lt;f0&gt;T&lt;/f0&gt;his is the font style most often used for &lt;f1&gt;body text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T130314Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;his is the font style most often used for &lt;f1&gt;body text&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run the spell check in the &lt;f0&gt;Tools&lt;/f0&gt; menu for each language used in the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075802Z" creationid="Jeff Huang" creationdate="20171213T030137Z">
@@ -6483,6 +6499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091410Z" creationid="Jeff Huang" creationdate="20171214T055914Z">
         <seg>手動修改的地方越多，你就越接近需要讓文件重新發行新版的地步。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common &lt;f0&gt;styles&lt;/f0&gt; are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T130126Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
+        <seg>最常用的樣式有：</seg>
       </tuv>
     </tu>
     <tu>
