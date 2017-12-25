@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;Alternatively, you can leave &lt;f4&gt;the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Default&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; style &lt;/f7&gt;unchanged&lt;f8&gt;, so that you can exchange documents easily with people on other machines.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150235Z" creationid="zerng07" creationdate="20171225T150235Z">
+        <seg>&lt;/f3&gt;或是，你也可以就放著&lt;f5&gt;&lt;f6&gt;預設&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;樣式&lt;/f7&gt;不管&lt;f8&gt;，這樣可以輕鬆與其他人在不同機器之間交換文件。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T073816Z" creationid="Franklin Weng" creationdate="20171224T073816Z">
@@ -7843,6 +7851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080201Z" creationid="Jeff Huang" creationdate="20171213T030404Z">
         <seg>你可以檢視你所有段落樣式的「&lt;f1&gt;字型&lt;/f1&gt;」標籤頁來檢查對應語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose to &lt;f0&gt;edit the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style so that it includes the basic formatting you have chosen for the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150040Z" creationid="zerng07" creationdate="20171225T150040Z">
+        <seg>你可以選擇&lt;f0&gt;編輯&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式來設置這份文件的基本格式設定。</seg>
       </tuv>
     </tu>
     <tu>
