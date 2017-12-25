@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, if you are using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; paragraph style and switch the display to character styles, ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074153Z" creationid="zerng07" creationdate="20171225T074153Z">
-        <seg>&lt;f0&gt;舉例來說，如果有段文字採用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;段落樣式，接著你在切換到「字元樣式」中，ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074303Z" creationid="zerng07" creationdate="20171225T074153Z">
+        <seg>&lt;f0&gt;舉例來說，如果有段文字採用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;段落樣式，接著你在「樣式和格式」視窗中切換到「字元樣式」，ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1155,8 +1155,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To open &lt;/f0&gt;the &lt;f1&gt;Styles &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;and&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Formatting &lt;/f4&gt;window, &lt;f5&gt;do one of the following:&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084042Z" creationid="zerng07" creationdate="20171224T083920Z">
-        <seg>要&lt;f0&gt;開啓&lt;/f0&gt;&lt;f1&gt;樣式&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;與&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;格式設定 &lt;/f4&gt;視窗，&lt;f5&gt;有以下這些做法：&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074211Z" creationid="zerng07" creationdate="20171224T083920Z">
+        <seg>要&lt;f0&gt;開啓&lt;/f0&gt;&lt;f1&gt;樣式&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;格式設定 &lt;/f4&gt;視窗，&lt;f5&gt;有以下這些做法：&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
