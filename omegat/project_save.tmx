@@ -1770,6 +1770,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;In other words,&lt;/f5&gt; &lt;f6&gt;they are ordered in a tree, with each style taking its characteristics from the one at the top and modifying some of them.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104715Z" creationid="zerng07" creationdate="20171225T104715Z">
+        <seg>&lt;f5&gt;換句話說，&lt;/f5&gt;&lt;f6&gt;這些樣式依階層排在一起後看來就像一棵樹，各個樣式都會從分支前的上一層繼承其特徵，並且有些自身的變化。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;Nor is there any means to apply multiple templates to the same document&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124748Z" creationid="Franklin Weng" creationdate="20171223T124748Z">
