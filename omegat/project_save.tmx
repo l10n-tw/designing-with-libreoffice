@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092752Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
+        <seg>Serif 其中一個子類別叫 slab serif，用了非常大量的襯線，適合放在海報與線上網頁等處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;bout this book</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T144507Z" creationid="zerng07" creationdate="20170822T144507Z">
@@ -1454,6 +1462,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
         <seg>&lt;f1&gt;剩下部分多是些和樣式不大相關，或是得依賴樣式的功能，但習得後能發揮最大效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;The six main font families are:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092351Z" creationid="Franklin Weng" creationdate="20171225T092351Z">
+        <seg>六個主要的字族為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4028,8 +4044,8 @@
       <tuv lang="EN">
         <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082459Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
-        <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092340Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
+        <seg>在 LibreOffice 中，有關聯的字型合起來稱為一個字型家族。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5401,6 +5417,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040719Z" creationid="zerng07" creationdate="20171212T040719Z">
         <seg>想為不同頁面設定不同的頁首和頁尾也變得很好維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Serif: Fonts whose lines end with a foot or a hook.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092536Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
+        <seg>Serif：尾端有襯線的字型。</seg>
       </tuv>
     </tu>
     <tu>
