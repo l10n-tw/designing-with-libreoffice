@@ -1361,6 +1361,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Custom styles provide the specialized needs that &lt;/f1&gt;&lt;f2&gt;the&lt;/f2&gt;&lt;f3&gt; pre-defined styles do not.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103752Z" creationid="zerng07" creationdate="20171225T103752Z">
+        <seg>&lt;f1&gt;自訂樣式能滿足&lt;/f1&gt;&lt;f3&gt;預先定義樣式辦不到&lt;/f3&gt;的特殊需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;For example, some fonts have characters that are so thin that they are invisible online or with a low resolution printer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072802Z" creationid="Franklin Weng" creationdate="20171224T072802Z">
@@ -4150,6 +4158,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125505Z" creationid="Franklin Weng" creationdate="20171215T125505Z">
         <seg>此外，它們也是很好的範例，展現如何在範本中加入結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, you can create custom styles that are based on pre-defined ones, or entirely new &lt;f0&gt;ones &lt;/f0&gt;by clicking on any pre-defined style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103643Z" creationid="zerng07" creationdate="20171225T103623Z">
+        <seg>此外，你還可以根據預先定義樣式來建立自訂樣式，或甚至可點按任一個預先定義樣式來製作全新樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7231,8 +7247,8 @@
       <tuv lang="EN">
         <seg>Whether that is true is uncertain, but the pre-defined styles are useful references for what you can do with styles.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103423Z" creationid="zerng07" creationdate="20171225T103423Z">
-        <seg>這樣子的想法到底正不正確我們不清楚，但是預先定義樣式的確是好用的參照。but the pre-defined styles are useful references for what you can do with styles.&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103457Z" creationid="zerng07" creationdate="20171225T103423Z">
+        <seg>這樣子的想法到底正不正確我們不清楚，但是預先定義樣式的確是你能用樣式做些甚麼的實用參照。</seg>
       </tuv>
     </tu>
     <tu>
