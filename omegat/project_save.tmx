@@ -4308,6 +4308,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Apache OpenOffice &lt;f0&gt;and earlier LIbreOffice releases&lt;/f0&gt;, the &lt;f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field &lt;/f3&gt;is called&lt;f4&gt; Linked with&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144501Z" creationid="zerng07" creationdate="20171225T144501Z">
+        <seg>在Apache OpenOffice&lt;f0&gt;和早期LIbreOffice發行版中&lt;/f0&gt;，這個「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;欄位&lt;/f3&gt;稱為「&lt;f4&gt;連結到&lt;/f4&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice releases before 4.4 and &lt;f0&gt;in &lt;/f0&gt;Apache OpenOffice, you can click the first icon on the left on the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar (the bot&lt;f2&gt;t&lt;/f2&gt;om default tool bar).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092245Z" creationid="zerng07" creationdate="20171224T092232Z">
@@ -6027,6 +6035,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140424Z" creationid="zerng07" creationdate="20171212T140424Z">
         <seg>有時候，這些想法成為合理化不去用樣式的藉口，但通常都只是誤解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, you may want to use the field to set an arbitrary parent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144612Z" creationid="zerng07" creationdate="20171225T144612Z">
+        <seg>有時候，你也許會想要將這個欄位隨意設一個親代。</seg>
       </tuv>
     </tu>
     <tu>
