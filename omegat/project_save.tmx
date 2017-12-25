@@ -5847,6 +5847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, styles that are one level below another one are called its children.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143400Z" creationid="zerng07" creationdate="20171225T143400Z">
+        <seg>同樣的，一個樣式的下一層樣式，則稱為子代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, the content usually applies to &lt;f3&gt;OS X&lt;/f3&gt; and Window&lt;f4&gt;s&lt;/f4&gt; versions as much as the Linux versions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145114Z" creationid="zerng07" creationdate="20170822T144948Z">
