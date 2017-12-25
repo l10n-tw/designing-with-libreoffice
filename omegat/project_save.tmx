@@ -568,8 +568,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Either way, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; styles are useful when &lt;/f3&gt;pasting formatted text from inside or outside the current document &lt;f4&gt;creates formatting&lt;/f4&gt; problems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T151520Z" creationid="zerng07" creationdate="20171225T151520Z">
-        <seg>&lt;f0&gt;不管你用哪種方法，&lt;/f0&gt;當你&lt;/f3&gt;貼上此文件外部來的、或內部來的格式設定後文字，結果&lt;f4&gt;造成一些格式上的問題&lt;/f4&gt;時，&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式就能大展身手。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T151940Z" creationid="zerng07" creationdate="20171225T151520Z">
+        <seg>&lt;f0&gt;不管你用哪種方法，&lt;/f0&gt;當你貼上此文件外部來的、或內部來的格式設定後文字，結果&lt;f4&gt;造成一些格式上的問題&lt;/f4&gt;時，&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;樣式就能大展身手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4900,6 +4900,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lists sometimes leave bullets or numbers behind after you apply the default paragraph style to them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152307Z" creationid="zerng07" creationdate="20171225T152307Z">
+        <seg>清單有時候會在你套用預設段落樣式後沒動到項目符號或數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Making the final check</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083954Z" creationid="Jeff Huang" creationdate="20171214T063640Z">
@@ -6681,8 +6689,8 @@
       <tuv lang="EN">
         <seg>The easiest way to solve these problems is to strip out most of the formatting by applying the &lt;f0&gt;Default&lt;/f0&gt; character and/or paragraph style, &lt;f1&gt;then to apply the formatting you want.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T151827Z" creationid="zerng07" creationdate="20171225T151827Z">
-        <seg>解決這類問題的最簡單方法，就是套用&lt;f0&gt;預設&lt;/f0&gt;字元樣式或再套上預設段落樣式，來除去這段文字的格式設定，&lt;f1&gt;接著就能照你所希望的方式重作格式設定。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T151838Z" creationid="zerng07" creationdate="20171225T151827Z">
+        <seg>解決這類問題的最簡單方法，就是套用&lt;f0&gt;預設&lt;/f0&gt;字元樣式或再套上預設段落樣式，來除去這段文字的格式設定，&lt;f1&gt;接著就能照你所希望的方式重新格式設定。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7729,8 +7737,8 @@
       <tuv lang="EN">
         <seg>Whether that is true is uncertain, but the pre-defined styles are useful references for what you can do with styles.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142609Z" creationid="zerng07" creationdate="20171225T103423Z">
-        <seg>這樣子的想法到底正不正確我們不清楚，但是預先定義樣式的確是你能用樣式做些甚麼的實用參照。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152101Z" creationid="zerng07" creationdate="20171225T103423Z">
+        <seg>這樣子的想法到底正不正確我們不清楚，但是預先定義樣式的確是你能用樣式做些甚麼的實用參考。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
