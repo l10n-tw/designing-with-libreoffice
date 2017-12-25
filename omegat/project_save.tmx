@@ -946,8 +946,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Next Style:&lt;/f0&gt; The style that is automatically used next when you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153747Z" creationid="zerng07" creationdate="20171225T153747Z">
-        <seg>&lt;f0&gt;下一個樣式：&lt;/f0&gt;當你按下&lt;f1&gt;Enter&lt;/f1&gt;鍵後，下個自動使用的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T154451Z" creationid="zerng07" creationdate="20171225T153747Z">
+        <seg>&lt;f0&gt;下一個樣式：&lt;/f0&gt;當你按下&lt;f1&gt;Enter&lt;/f1&gt;鍵後，自動使用的下一個樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3598,8 +3598,8 @@
       <tuv lang="EN">
         <seg>For instance, &lt;f2&gt;Heading 1 i&lt;/f2&gt;s often followed by &lt;f3&gt;Text Body.&lt;/f3&gt; Since a heading is almost never followed &lt;f4&gt;immediately&lt;/f4&gt; by another heading, this is a reasonable choice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153844Z" creationid="zerng07" creationdate="20171225T153844Z">
-        <seg>舉例，「&lt;f2&gt;標題 1&lt;/f2&gt;」樣式之後通常接的是「&lt;f3&gt;內文&lt;/f3&gt;」。 Since a heading is almost never followed &lt;f4&gt;immediately&lt;/f4&gt; by another heading, this is a reasonable choice.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171555Z" creationid="zerng07" creationdate="20171225T153844Z">
+        <seg>舉例，通常「&lt;f2&gt;標題 1&lt;/f2&gt;」樣式之後接的是「&lt;f3&gt;內文&lt;/f3&gt;」。 因為標題幾乎不會後面又&lt;f4&gt;馬上&lt;/f4&gt;接另一個標題，所以這個設計滿合理的。</seg>
       </tuv>
     </tu>
     <tu>
