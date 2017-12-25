@@ -710,6 +710,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>3994: over clip art  翻譯需要 review</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hundreds of dingbat fonts are available, from practical ones useful in charts and diagrams to fun ones with dinosaurs and medieval figures.&lt;/f0&gt; &lt;f1&gt;Their advantage over clip art is that they are scalable; their disadvantage is that they only display in one color.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125405Z" creationid="Franklin Weng" creationdate="20171225T125405Z">
+        <seg>Dingbat 有上百種字型，從實用型的，用於圖表中的，到逗趣型的用恐龍還有中世紀造型的都有。相對於藝術字體，它的優點是可以縮放大小；但缺點是只用一種顏色來顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hundreds of extensions and templates are available for LibreOffice.</seg>
       </tuv>
@@ -2930,6 +2939,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different members of a font family are often called weights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125831Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
+        <seg>字族中對各個不同成員以權重 (weights) 來區分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dingbat: Fonts in which pictures replace letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102220Z" creationid="Franklin Weng" creationdate="20171225T102220Z">
+        <seg>Dingbat：用圖片取代字母的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Discussions of templates usually emphasize storing formats in them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043114Z" creationid="Franklin Weng" creationdate="20171223T043114Z">
@@ -3258,6 +3283,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125429Z" creationid="Franklin Weng" creationdate="20171225T125429Z">
+        <seg>字型樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font families</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082454Z" creationid="Franklin Weng" creationdate="20171224T082454Z">
@@ -3266,10 +3299,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Cinzel, a font based on Roman inscriptions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102138Z" creationid="Franklin Weng" creationdate="20171225T102138Z">
+        <seg>字型：Cinzel，基於 Roman 款式的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Deja Vu Sans Mono.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100839Z" creationid="Franklin Weng" creationdate="20171225T100839Z">
         <seg>字型：Deja Vu Sans Mono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Entypo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125419Z" creationid="Franklin Weng" creationdate="20171225T125419Z">
+        <seg>字型：Entypo。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Pinyon-Script.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102209Z" creationid="Franklin Weng" creationdate="20171225T102209Z">
+        <seg>字型：Pinyon-Script。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +5560,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032751Z" creationid="Franklin Weng" creationdate="20171223T032751Z">
         <seg>儲存&lt;f0&gt;多個範本&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script: Fonts that imitate cursive handwriting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102203Z" creationid="Franklin Weng" creationdate="20171225T102203Z">
+        <seg>Script：模仿手寫曲體的字型。</seg>
       </tuv>
     </tu>
     <tu>
