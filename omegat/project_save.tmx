@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Font&lt;/f0&gt;: ADF Romande.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132048Z" creationid="Franklin Weng" creationdate="20171225T132048Z">
+        <seg>字型：ADF Romande。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T144828Z" creationid="zerng07" creationdate="20170903T144756Z">
@@ -4488,6 +4496,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T171359Z" creationid="zerng07" creationdate="20170822T163918Z">
         <seg>但我認為它至今仍是最棒的辦公套裝軟體。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132424Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>斜體：一種草寫字體，往右邊傾斜。主要用於突顯重點，或是用於書的標題。</seg>
       </tuv>
     </tu>
     <tu>
