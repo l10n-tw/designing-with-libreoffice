@@ -1242,6 +1242,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;This second choice is not always possible because different versions of LibreOfice may set different&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Default&lt;/f2&gt; style&lt;f3&gt;s, but is worth trying.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150440Z" creationid="zerng07" creationdate="20171225T150320Z">
+        <seg>&lt;f0&gt;不過第二種做法也不見得完全通行，因為不同版本的LibreOffice可能會有不同的&lt;/f0&gt;&lt;f2&gt;預設&lt;/f2&gt;樣式&lt;f3&gt;，但仍值得一試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To open &lt;/f0&gt;a template &lt;f1&gt;for editing, select &lt;/f1&gt;&lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Manage&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;to open the Template Manager, &lt;/f8&gt;select a template, &lt;f9&gt;and click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Edit&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; on the tool bar above the templates&lt;/f12&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135849Z" creationid="Franklin Weng" creationdate="20171223T124017Z">
@@ -4424,6 +4432,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083930Z" creationid="zerng07" creationdate="20171225T083833Z">
         <seg>在各種樣式類型中，特別是段落樣式和字元樣式之下，它們的預先定義樣式都是經過深思熟慮才設立的，通常只要修改這些就能符合你的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In effect, this approach uses another style such as &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Text Body&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; as an unofficial default, leaving the &lt;/f6&gt;&lt;f7&gt;Default&lt;/f7&gt; style &lt;f8&gt;to function like &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Format &gt; Clear Direct Formatting.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150957Z" creationid="zerng07" creationdate="20171225T150957Z">
+        <seg>實際上，在這種做法裡一般是利用其他樣式，例如&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;內文&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;，作為非官方預設樣式，然後把&lt;/f6&gt;「&lt;f7&gt;預設&lt;/f7&gt;」樣式&lt;f8&gt;視為&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;格式 &gt; 清除直接格式設定&lt;/f10&gt;&lt;/f9&gt;」的概念使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7857,8 +7873,8 @@
       <tuv lang="EN">
         <seg>You can choose to &lt;f0&gt;edit the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style so that it includes the basic formatting you have chosen for the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150040Z" creationid="zerng07" creationdate="20171225T150040Z">
-        <seg>你可以選擇&lt;f0&gt;編輯&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式來設置這份文件的基本格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150241Z" creationid="zerng07" creationdate="20171225T150040Z">
+        <seg>你可以選擇&lt;f0&gt;編輯&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式以便設置這份文件的基本格式設定。</seg>
       </tuv>
     </tu>
     <tu>
