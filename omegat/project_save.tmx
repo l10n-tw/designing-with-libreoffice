@@ -4902,8 +4902,8 @@
       <tuv lang="EN">
         <seg>Lists sometimes leave bullets or numbers behind after you apply the default paragraph style to them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152307Z" creationid="zerng07" creationdate="20171225T152307Z">
-        <seg>清單有時候會在你套用預設段落樣式後沒動到項目符號或數字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152403Z" creationid="zerng07" creationdate="20171225T152307Z">
+        <seg>清單有時候會在你套用預設段落樣式後沒動到項目符號或編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6503,6 +6503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Organizer tab</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152419Z" creationid="zerng07" creationdate="20171225T152419Z">
+        <seg>統籌概覽標籤頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Presentation Wizard in Impress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134951Z" creationid="Franklin Weng" creationdate="20171218T123934Z">
@@ -6947,6 +6955,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054329Z" creationid="Jeff Huang" creationdate="20171111T132659Z">
         <seg>究極測試法，就是以規律但稍快的速度把文章大聲唸出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window for each style throughout LibreOffice is divided into tabs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152552Z" creationid="zerng07" creationdate="20171225T152552Z">
+        <seg>LibreOffice的各個樣式視窗中，設定被分門別類到不同的標籤頁畫面中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7643,6 +7659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113929Z" creationid="zerng07" creationdate="20171219T113929Z">
         <seg>什麼時候應該使用樣式？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When that happens, press the &lt;f0&gt;Backspace&lt;/f0&gt; key until the bullet or number disappears.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152357Z" creationid="zerng07" creationdate="20171225T152357Z">
+        <seg>如果發生這樣的事情，就一直按&lt;f0&gt;Backspace&lt;/f0&gt;鍵直到項目符號或編號消失為止。</seg>
       </tuv>
     </tu>
     <tu>
