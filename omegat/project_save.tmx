@@ -2938,6 +2938,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>3997: needs review</note>
       <tuv lang="EN">
         <seg>Different members of a font family are often called weights.</seg>
       </tuv>
@@ -6826,6 +6827,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
         <seg>拿範本處理文稿結構的使用方式很少人注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This term is a reference to the thickness of the lines that make up &lt;t0/&gt;the individual letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125939Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
+        <seg>權重的意思是用組成各個字母的線條粗細做為參考。</seg>
       </tuv>
     </tu>
     <tu>
