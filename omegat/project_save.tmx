@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;File &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s &gt; Manage&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;File &gt; TemplateMenu&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, depending on the operating system and version.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T121123Z" creationid="Franklin Weng" creationdate="20171213T121123Z">
-        <seg>&lt;f0&gt;「檔案」&gt;「範本」&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;「管理範本」&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;或是&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「檔案」&gt;「範本選單」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，依所使用的作業系統或軟體版本而不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135145Z" creationid="Franklin Weng" creationdate="20171213T121123Z">
+        <seg>&lt;f0&gt;「檔案」&gt;「範本」&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;「管理範本」&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;或是&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「檔案」&gt;「範本選單」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，依所使用的作業系統或軟體版本而不同。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1813,8 +1813,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;However, remember to save the document after updating.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115730Z" creationid="Franklin Weng" creationdate="20171212T115730Z">
-        <seg>&lt;f6&gt;不過要記得在更新之後儲存文件！</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T134711Z" creationid="Franklin Weng" creationdate="20171212T115730Z">
+        <seg>&lt;f6&gt;不過要記得在更新之後儲存文件！&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5431,8 +5431,8 @@
       <tuv lang="EN">
         <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
-        <seg>這些佔位項可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T134316Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
+        <seg>這些佔位項可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6929,8 +6929,8 @@
       <tuv lang="EN">
         <seg>This policy avoids the tendency to corruption that used to plague &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word (and may still do, for all that I know).&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115129Z" creationid="Franklin Weng" creationdate="20171212T115129Z">
-        <seg>這個原則可以避免之前 &lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;f3&gt;Word 範本會一直崩潰的問題（就我所知似乎這個問題現在還在）&lt;/f3&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T134517Z" creationid="Franklin Weng" creationdate="20171212T115129Z">
+        <seg>這個原則可以避免之前 &lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word 範本會一直崩潰的問題（就我所知似乎這個問題現在還在）&lt;/f3&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
