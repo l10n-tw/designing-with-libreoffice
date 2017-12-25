@@ -2427,6 +2427,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bold: A version of the font with heavier lines on each character.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132611Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
+        <seg>粗體 (Bold): A version of the font with heavier lines on each character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
@@ -4348,6 +4356,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132528Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
+        <seg>在現代的字型中，斜體 (Italic) 有時會被另一種斜體 (Oblique) 取代，後者就類似往右斜的 Roman。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases, the top two directories may be different, but the bottom two should be the same.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133841Z" creationid="Franklin Weng" creationdate="20171223T133841Z">
@@ -4502,8 +4518,8 @@
       <tuv lang="EN">
         <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132424Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
-        <seg>斜體：一種草寫字體，往右邊傾斜。主要用於突顯重點，或是用於書的標題。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132619Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>斜體 (Italic)：一種草寫字體，往右邊傾斜。主要用於突顯重點，或是用於書的標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4552,6 +4568,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193449Z" creationid="zerng07" creationdate="20170822T193433Z">
         <seg>深入學習文字排印學</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left &lt;f0&gt;Font&lt;/f0&gt;: ADF Baskervald.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132541Z" creationid="Franklin Weng" creationdate="20171225T132541Z">
+        <seg>左邊的字型：ADF Baskervald。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,6 +5537,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133402Z" creationid="Franklin Weng" creationdate="20171213T133402Z">
         <seg>不管用哪一種方式，要使用範本前都要先在 LibreOffice 中註冊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right &lt;f1&gt;Font&lt;/f1&gt;: ADF Gillus.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132602Z" creationid="Franklin Weng" creationdate="20171225T132602Z">
+        <seg>右邊的字型：ADF Gillus。</seg>
       </tuv>
     </tu>
     <tu>
