@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A recent design, Raleway hints at a serif for the lower case “a,” but its general tendency is sans serif.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100354Z" creationid="Franklin Weng" creationdate="20171225T100354Z">
+        <seg>在近期的設計中，Raleway 在小寫“a”的尾端還是有加一點襯線，但整體而言這個字型偏向 Sans serif 字族。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092752Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
@@ -1618,6 +1626,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;T&lt;/f2&gt;hey are &lt;f3&gt;informally&lt;/f3&gt; ca&lt;f4&gt;ll&lt;/f4&gt;ed Sans.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100236Z" creationid="Franklin Weng" creationdate="20171225T100236Z">
+        <seg>&lt;f2&gt;這個字族（非正式）簡稱為 Sans。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;That means that if the document has more than two instances of the heading, using styles saves you effort.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113912Z" creationid="zerng07" creationdate="20171219T113834Z">
@@ -2490,6 +2506,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By contrast, in most fonts, letters take up different amounts of space, with “i” taking up the least and “m” the most.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100531Z" creationid="Franklin Weng" creationdate="20171225T100531Z">
+        <seg>相反地，在大部份字型中，字母佔用的空間都不太一樣。通常“i”最小而“m”最大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, installations directly from LibreOffice or OpenOffice downloads install to the /opt directory.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182947Z" creationid="zerng07" creationdate="20170817T182947Z">
@@ -3182,6 +3206,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082454Z" creationid="Franklin Weng" creationdate="20171224T082454Z">
         <seg>字族（字型家族）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Raleway.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100242Z" creationid="Franklin Weng" creationdate="20171225T100242Z">
+        <seg>字型：Raleway</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,6 +4638,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083600Z" creationid="Jeff Huang" creationdate="20171214T060243Z">
         <seg>主控文件與獨立的子文件的分頁位置可能不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monospace: Fonts in which every letter occupies exactly the same amount of &lt;f0&gt;horizontal &lt;/f0&gt;space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100441Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
+        <seg>Monospace：這個字型的每個字母所佔用的水平長度都完全相同。</seg>
       </tuv>
     </tu>
     <tu>
