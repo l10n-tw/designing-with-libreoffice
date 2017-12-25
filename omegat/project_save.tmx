@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Below: Lining figures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135252Z" creationid="Franklin Weng" creationdate="20171225T135252Z">
+        <seg>下方：齊線數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Both &lt;/f0&gt;LibreOffice &lt;f1&gt;and Apache OpenOffice &lt;/f1&gt;support Post&lt;f2&gt;S&lt;/f2&gt;cript &lt;f3&gt;(.pfb)&lt;/f3&gt;, TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;, &lt;f5&gt;and&lt;/f5&gt; OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; font &lt;f7&gt;file formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075505Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
@@ -1979,6 +1987,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Above: Old style figures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135239Z" creationid="Franklin Weng" creationdate="20171225T135239Z">
+        <seg>上方：舊式數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Action</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111203Z" creationid="zerng07" creationdate="20171219T111203Z">
@@ -3344,6 +3360,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125419Z" creationid="Franklin Weng" creationdate="20171225T125419Z">
         <seg>字型：Entypo。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Goudy Bookletter 1911.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135246Z" creationid="Franklin Weng" creationdate="20171225T135246Z">
+        <seg>字型：Goudy Bookletter 1911。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Liberation Sans.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135304Z" creationid="Franklin Weng" creationdate="20171225T135304Z">
+        <seg>字型：Liberation Sans。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,8 +5142,8 @@
       <tuv lang="EN">
         <seg>Old Style Figures: Numbers which have no common baseline, &lt;f0&gt;originally designed in the Renaissance&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T134338Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
-        <seg>舊式數字：數字字型底下的基線不是對齊的。原先是在文藝復興時期設計的。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135209Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
+        <seg>舊式數字（Old Style Figure）：數字字型底下的基線不是對齊的。原先是在文藝復興時期設計的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6739,6 +6771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082045Z" creationid="Franklin Weng" creationdate="20171224T082045Z">
         <seg>字型可以在段落或字元樣式中的「字型」分頁中設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Their opposite, which most fonts have, are called lining figures, &lt;f1&gt;and are the numerals generally in use today.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135232Z" creationid="Franklin Weng" creationdate="20171225T134520Z">
+        <seg>跟舊式數字相反的，大部份字型中都有的，叫做「齊線數字」，也是現今通用的數字字型。</seg>
       </tuv>
     </tu>
     <tu>
