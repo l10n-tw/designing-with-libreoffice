@@ -4012,8 +4012,8 @@
       <tuv lang="EN">
         <seg>In Writer, you can identify current styles in other places in the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081557Z" creationid="zerng07" creationdate="20171225T081557Z">
-        <seg>在Writer中，你可以在編輯視窗中的其他地方辨識出目前的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081617Z" creationid="zerng07" creationdate="20171225T081557Z">
+        <seg>在Writer中，你可以從編輯視窗的其他地方辨別出目前的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6897,6 +6897,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141352Z" creationid="zerng07" creationdate="20171224T140659Z">
         <seg>當看到訊框出現時放開浮動視窗，視窗就會停駐在該位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When closed, the list of paragraph styles on the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar always displays the current style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081834Z" creationid="zerng07" creationdate="20171225T081834Z">
+        <seg>在&lt;f0&gt;格式設定&lt;/f0&gt;工具列中的段落樣式區塊，會一直顯示目前的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
