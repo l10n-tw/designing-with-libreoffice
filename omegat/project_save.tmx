@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Changing&lt;/f0&gt; the style hierarchy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143929Z" creationid="zerng07" creationdate="20171225T143929Z">
+        <seg>&lt;f0&gt;變更&lt;/f0&gt;樣式階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Character&lt;/f0&gt; styles modify selected letters in a paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175627Z" creationid="zerng07" creationdate="20171223T175627Z">
@@ -1987,6 +1995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A style hierarchy for paragraph styles in Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143850Z" creationid="zerng07" creationdate="20171225T143850Z">
+        <seg>Writer中的段落樣式階層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A style that is one level above another is &lt;f0&gt;called &lt;/f0&gt;the parent of the &lt;f1&gt;style directly &lt;/f1&gt;below it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143320Z" creationid="zerng07" creationdate="20171225T143320Z">
@@ -2727,6 +2743,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120543Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
         <seg>只在範本中變更格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes to the &lt;f0&gt;Heading&lt;/f0&gt; style will change all the &lt;f1&gt;styles below it.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143920Z" creationid="zerng07" creationdate="20171225T143920Z">
+        <seg>只要修改&lt;f0&gt;標題&lt;/f0&gt;樣式，就會一併修改&lt;f1&gt;下方的所有樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,6 +3736,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193137Z" creationid="zerng07" creationdate="20170817T171437Z">
         <seg>不過，請注意有些擴充套件可能沒有持續更新，以致&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;無法在最新版本中運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, by making changes to the parent, you save the time you would spend changing its children one at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143813Z" creationid="zerng07" creationdate="20171225T143813Z">
+        <seg>不過，有些時候你可以只修改親代，就達成同時修改子代的效果，節省一個一個手動更改的時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7771,6 +7803,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062520Z" creationid="zerng07" creationdate="20171212T060230Z">
         <seg>你還可以幫相片加個統一的外框、設定開章首字大寫、自動更改頁面的版面配置等等。設定樣式能讓你&lt;f4&gt;免除煩惱&lt;/f4&gt;，只要專注在&lt;f5&gt;內容&lt;/f5&gt;上就好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can manipulate the style hierarchy using the &lt;f0&gt;&lt;f1&gt;Inherit from&lt;/f1&gt;&lt;/f0&gt; field on the &lt;f2&gt;Organizer&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144141Z" creationid="zerng07" creationdate="20171225T144141Z">
+        <seg>你可以利用「&lt;f2&gt;統籌概覽&lt;/f2&gt;」標籤頁中的「&lt;f0&gt;&lt;f1&gt;繼承自&lt;/f1&gt;&lt;/f0&gt;」欄位來處理樣式階層。</seg>
       </tuv>
     </tu>
     <tu>
