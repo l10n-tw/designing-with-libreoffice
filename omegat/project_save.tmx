@@ -1155,8 +1155,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To open &lt;/f0&gt;the &lt;f1&gt;Styles &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;and&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Formatting &lt;/f4&gt;window, &lt;f5&gt;do one of the following:&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074211Z" creationid="zerng07" creationdate="20171224T083920Z">
-        <seg>要&lt;f0&gt;開啓&lt;/f0&gt;&lt;f1&gt;樣式&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;格式設定 &lt;/f4&gt;視窗，&lt;f5&gt;有以下這些做法：&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074547Z" creationid="zerng07" creationdate="20171224T083920Z">
+        <seg>要&lt;f0&gt;開啓&lt;/f0&gt;&lt;f1&gt;樣式&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;格式 &lt;/f4&gt;視窗，&lt;f5&gt;有以下這些做法：&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3756,8 +3756,8 @@
       <tuv lang="EN">
         <seg>If you change the type of style displayed in the &lt;f1&gt;Styles and Formatting &lt;/f1&gt;window, then the highlighted style also changes, &lt;f2&gt;if possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T073847Z" creationid="zerng07" creationdate="20171225T073847Z">
-        <seg>如果你在&lt;f1&gt;樣式和格式設定&lt;/f1&gt;視窗中更改了樣式類型，則反白標明的樣式一般也會跟著改變。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074308Z" creationid="zerng07" creationdate="20171225T073847Z">
+        <seg>如果你在&lt;f1&gt;樣式和格式&lt;/f1&gt;視窗中更改了樣式類型，則反白標明的樣式一般也會跟著改變。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5275,12 +5275,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>5.4.4 已經將「樣式和格式」從「格式」中獨立出來到「樣式」選單列項目中。</note>
+      <note>5.4.4 已經將「樣式和格式」從「格式」中獨立出來到「樣式」選單列項目中，所以這裡改為「樣式 &gt; 樣式和格式設定」。</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting&lt;/f0&gt; &lt;f1&gt;from the menu bar.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084809Z" creationid="zerng07" creationdate="20171224T084007Z">
-        <seg>從選單列中選取「&lt;f0&gt;格式 &gt; 樣式和格式設定&lt;/f0&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074521Z" creationid="zerng07" creationdate="20171224T084007Z">
+        <seg>從選單列中選取「&lt;f0&gt;樣式 &gt; 樣式和格式設定&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5799,8 +5799,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window always opens with the style for the current cursor position highlighted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T073730Z" creationid="zerng07" creationdate="20171225T073730Z">
-        <seg>&lt;f0&gt;樣式和格式設定&lt;/f0&gt;視窗在開啟時，會自動在檢視畫面中標明游標所在位置的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074313Z" creationid="zerng07" creationdate="20171225T073730Z">
+        <seg>&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗在開啟時，會自動在檢視畫面中標明游標所在位置的樣式。</seg>
       </tuv>
     </tu>
     <tu>
