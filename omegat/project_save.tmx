@@ -2429,8 +2429,8 @@
       <tuv lang="EN">
         <seg>Bold: A version of the font with heavier lines on each character.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132611Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
-        <seg>粗體 (Bold): A version of the font with heavier lines on each character.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132742Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
+        <seg>粗體 (Bold)：每個字元的線條都加粗的字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5559,8 +5559,8 @@
       <tuv lang="EN">
         <seg>Roman: &lt;f0&gt;T&lt;/f0&gt;his is the font style most often used for &lt;f1&gt;body text&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T131629Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
-        <seg>Roman：這是最常被用於文章本體的字型樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132711Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
+        <seg>羅馬字型 (Roman)：這是最常被用於文章本體的字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7183,6 +7183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used for strong emphasis and headings, this weight &lt;f0&gt;sometimes&lt;/f0&gt; replace&lt;f1&gt;s&lt;/f1&gt; Italic online.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132818Z" creationid="Franklin Weng" creationdate="20171225T132720Z">
+        <seg>用於強調、標題，有時在網頁上會用它取代斜體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Microsoft Office templates is illegal if you do not have a copy of Microsoft Office.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124751Z" creationid="Franklin Weng" creationdate="20171215T124751Z">
@@ -7251,6 +7259,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
         <seg>管理範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variants may have names like Black, &lt;f0&gt;Semi-bold, &lt;/f0&gt;Demi-bold, &lt;f1&gt;Extra, &lt;/f1&gt;or Heavy, &lt;f2&gt;sometimes &lt;/f2&gt;each with a different thickness of line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133106Z" creationid="Franklin Weng" creationdate="20171225T133106Z">
+        <seg>它的變化型包括像是黑體 (Black)、半粗體 (Semi-bold, Demi-bold)、加重 (Extra) 或是重 (Heavy)，有時以上每種都代表不同的粗細。</seg>
       </tuv>
     </tu>
     <tu>
