@@ -1292,8 +1292,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Wizards are&lt;/f0&gt; available from the &lt;f1&gt;File &gt; Wizards&lt;/f1&gt; sub-menu.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Some of the wizards give you the option of using a LibreOffice Base database or the address book of an email client for filling in fields, which is convenient for mass mail-outs.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125810Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
-        <seg>&lt;f0&gt;範本精靈&lt;/f0&gt;可以從&lt;f1&gt;「檔案」&gt;「精靈」&lt;/f1&gt;選單中找到。&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;有些精靈會有使用 LibreOffice Base 資料庫，或是從電子郵件程式中的通訊錄來填入欄位的功能，對用於大量發信的範本很有用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135511Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
+        <seg>&lt;f0&gt;範本精靈&lt;/f0&gt;可以從&lt;f1&gt;「檔案」&gt;「精靈」&lt;/f1&gt;選單中找到。&lt;f3&gt;有些精靈會有使用 LibreOffice Base 資料庫，或是從電子郵件程式中的通訊錄來填入欄位的功能，對用於大量發信的範本很有用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,8 +2045,8 @@
       <tuv lang="EN">
         <seg>After some consideration, you find that you are regularly writing one-page memos, short official letters, and longer monthly internal reports.&lt;f0&gt; &lt;/f0&gt;You also write quarterly reports for the company newsletter, whose editor wants copy in &lt;f1&gt;HTML,&lt;/f1&gt; and the &lt;t2/&gt;occasional personal letter, whose design should make clear that you are not speaking officially for the company.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132255Z" creationid="Franklin Weng" creationdate="20171213T132255Z">
-        <seg>經過思考後，你發現你最常寫一頁的備忘，簡短的正式書信，還有較長的月報表。&lt;f0&gt; &lt;/f0&gt;你也會寫公司刊物中的季報，刊物的編輯會把內容複製成 &lt;f1&gt;HTML 格式&lt;/f1&gt;，再來就是&lt;t2/&gt;偶而寫一些私人的信件，在私人信件中的設計要清楚表明你不是代表公司正式發言。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135358Z" creationid="Franklin Weng" creationdate="20171213T132255Z">
+        <seg>經過思考後，你發現你最常寫一頁的備忘，簡短的正式書信，還有較長的月報表。你也會寫公司刊物中的季報，刊物的編輯會把內容複製成 &lt;f1&gt;HTML 格式&lt;/f1&gt;，再來就是&lt;t2/&gt;偶而寫一些私人的信件，在私人信件中的設計要清楚表明你不是代表公司正式發言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,8 +3982,8 @@
       <tuv lang="EN">
         <seg>If you are like most people, you &lt;f0&gt;will probably&lt;/f0&gt; come up with &lt;f1&gt;at least three or four&lt;/f1&gt; different templates that you will need regularly.&lt;f2&gt; &lt;/f2&gt;If you don't download them, create them gradually as the need arises.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132557Z" creationid="Franklin Weng" creationdate="20171213T132557Z">
-        <seg>如果你跟大多數人一樣，你&lt;f0&gt;可能會&lt;/f0&gt;覺得經常需要&lt;f1&gt;至少三到四份&lt;/f1&gt;不同的範本。&lt;f2&gt; &lt;/f2&gt;若你不是用下載的，那麼最好依照使用需求逐步建立範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135419Z" creationid="Franklin Weng" creationdate="20171213T132557Z">
+        <seg>如果你跟大多數人一樣，你&lt;f0&gt;可能會&lt;/f0&gt;覺得經常需要&lt;f1&gt;至少三到四份&lt;/f1&gt;不同的範本。若你不是用下載的，那麼最好依照使用需求逐步建立範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,8 +5262,8 @@
       <tuv lang="EN">
         <seg>OpenOffice’s Template Manager &lt;f0&gt;and versions of LibreOffice before 3.3 have an older design that is functionally equivalent.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134927Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
-        <seg>OpenOffice 的範本管理員&lt;f0&gt;還有 LibreOffice 3.3 以前的版本有功能完全相同的舊設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135216Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
+        <seg>OpenOffice 的範本管理員&lt;f0&gt;還有 LibreOffice 3.3 以前的版本有功能完全相同的舊設計。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
