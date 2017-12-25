@@ -6431,6 +6431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Default &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144934Z" creationid="zerng07" creationdate="20171225T144934Z">
+        <seg>預設樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Load Styles window opens.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132508Z" creationid="Franklin Weng" creationdate="20171223T132508Z">
@@ -6787,6 +6795,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092913Z" creationid="zerng07" creationdate="20170817T092913Z">
         <seg>若要下載最新發行版的官方頁面請到這裡：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only styles that do not have a hierarchical parent are those at the top of the &lt;f0&gt;entire&lt;/f0&gt; tree.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T145736Z" creationid="zerng07" creationdate="20171225T145736Z">
+        <seg>只有&lt;f0&gt;這整棵&lt;/f0&gt;階層樹中最上層的項目沒有階層親代樣式。</seg>
       </tuv>
     </tu>
     <tu>
