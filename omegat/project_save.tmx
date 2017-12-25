@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick &lt;f1&gt;a sub-folder in the display if you want to specify where the template displays in the Template Manager.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T141747Z" creationid="Franklin Weng" creationdate="20171222T141747Z">
-        <seg>&lt;f0&gt;如果你要看特定的子目錄中的範本，就直接點擊子目錄即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141624Z" creationid="Franklin Weng" creationdate="20171222T141747Z">
+        <seg>如果你要看特定的子目錄中的範本，就直接點擊子目錄即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Except with Template Changer or another extension, y&lt;/f0&gt;ou cannot &lt;f1&gt;directly change&lt;/f1&gt; &lt;f2&gt;which&lt;/f2&gt; template &lt;f3&gt;is &lt;/f3&gt;used by a &lt;f4&gt;document&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140110Z" creationid="Franklin Weng" creationdate="20171223T124732Z">
-        <seg>&lt;f0&gt;除非透過 Template Changer 這一類的擴充套件，&lt;f/0&gt;不然你不能直接變更某份文件所使用的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141657Z" creationid="Franklin Weng" creationdate="20171223T124732Z">
+        <seg>&lt;f0&gt;除非透過 Template Changer 這一類的擴充套件，&lt;/f0&gt;不然你不能直接變更某份文件所使用的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,8 +1340,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can export a template from the Template Manager&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Select the template to export, then click the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Export&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140039Z" creationid="Franklin Weng" creationdate="20171223T124613Z">
-        <seg>&lt;f0&gt;你可以從範本視窗內匯出範本。只要選擇要匯出的範本，然後按底下的「匯出」鍵即可。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141632Z" creationid="Franklin Weng" creationdate="20171223T124613Z">
+        <seg>你可以從範本視窗內匯出範本。只要選擇要匯出的範本，然後按底下的「匯出」鍵即可。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
