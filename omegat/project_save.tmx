@@ -1410,6 +1410,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Either one would do – the point is to make changes only once, not twice.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144926Z" creationid="zerng07" creationdate="20171225T144926Z">
+        <seg>&lt;f1&gt;兩者都能作用——重點在於你不必修改兩次，而是一次就到位。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;For example, some fonts have characters that are so thin that they are invisible online or with a low resolution printer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072802Z" creationid="Franklin Weng" creationdate="20171224T072802Z">
@@ -3480,6 +3488,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090640Z" creationid="Jeff Huang" creationdate="20171212T035607Z">
         <seg>舉例來說，&lt;f1&gt;頁碼部分若能放到頁面的外邊距會讓使用者更容易翻查。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you created two paragraph styles for bullet&lt;f0&gt;s&lt;/f0&gt;, differing only in the list style each used, you could save time by setting one of the styles as the parent of another.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144845Z" creationid="zerng07" creationdate="20171225T144845Z">
+        <seg>舉例，如果你建立了兩種項目符號的段落樣式，兩者間的差別只在於各自使用不同的清單樣式，你就能將其中一個樣式設為另一個樣式的親代。</seg>
       </tuv>
     </tu>
     <tu>
