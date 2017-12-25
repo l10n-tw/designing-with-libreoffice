@@ -761,8 +761,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082407Z" creationid="zerng07" creationdate="20171225T082407Z">
-        <seg>&lt;f0&gt;還有，你可以選取&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯 &gt; 尋找與取代 &gt; 其他選項 &gt; 搜尋段落樣式&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;來找出文件中某個樣式所使用的地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082528Z" creationid="zerng07" creationdate="20171225T082407Z">
+        <seg>&lt;f0&gt;還有，你可以選取&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯 &gt; 尋找與取代 &gt; 其他選項 &gt; 段落樣式&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;來找出文件中某個樣式所使用的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,6 +3118,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080948Z" creationid="Jeff Huang" creationdate="20171213T031404Z">
         <seg>使用尋找與取代處理常見錯誤會比拼寫檢查來得快許多，而且也可以讓你一併看看出錯文字所在的上下文。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finding character styles is not directly possibly, but &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Find &amp; Replace&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;’s &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Other Options&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; do include search by settings of character styles using &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Attributes&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Format.&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082916Z" creationid="zerng07" creationdate="20171225T082916Z">
+        <seg>如果想要尋找字元樣式，一般無法直接達成，但是在&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;尋找與取代&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;中的&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;其他選項&lt;/f8&gt;&lt;/f7&gt;之下&lt;f9&gt;可以利用字元樣式的&lt;/f9&gt;「&lt;f10&gt;&lt;f11&gt;特性&lt;/f11&gt;&lt;/f10&gt;」&lt;f12&gt;和&lt;/f12&gt;「&lt;f13&gt;&lt;f14&gt;格式&lt;/f14&gt;&lt;/f13&gt;」設定來搜尋。</seg>
       </tuv>
     </tu>
     <tu>
