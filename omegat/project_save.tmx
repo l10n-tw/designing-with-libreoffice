@@ -5339,6 +5339,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sans &lt;f1&gt;s&lt;/f1&gt;erif &lt;f2&gt;font&lt;/f2&gt;s often read well online.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100011Z" creationid="Franklin Weng" creationdate="20171225T095907Z">
+        <seg>Sans serif 字族通常用在線上閱讀都不錯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save it with &lt;f0&gt;File &gt; Save as Template, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Templates &gt; Save as Template,&lt;/f2&gt;&lt;/f1&gt; or &lt;f3&gt;File &gt; TemplateMenu &gt; Save as Template &lt;/f3&gt;&lt;f4&gt;(all these options may not be available in all versions of LibreOffice).&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125850Z" creationid="Franklin Weng" creationdate="20171218T125850Z">
@@ -5455,8 +5463,8 @@
       <tuv lang="EN">
         <seg>Serif: Fonts whose lines end with a foot or a hook.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092536Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
-        <seg>Serif：尾端有襯線的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T095919Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
+        <seg>Serif：字型線條尾端有襯線的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7041,6 +7049,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113929Z" creationid="zerng07" creationdate="20171219T113929Z">
         <seg>什麼時候應該使用樣式？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the New Typography of the &lt;f0&gt;early twentieth century&lt;/f0&gt; favored them as part of the general simplification &lt;f1&gt;of design&lt;/f1&gt;, sans serif fonts gained a reputation for modernity that they still keep today.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100217Z" creationid="Franklin Weng" creationdate="20171225T100217Z">
+        <seg>在二十世紀初期，新的文字排印學喜歡用這種字族做為通用簡約設計的其中一個元素，Sans serif 字型也獲得了具有現代感的評價，直到今日還是如此。</seg>
       </tuv>
     </tu>
     <tu>
