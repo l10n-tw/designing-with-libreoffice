@@ -1595,6 +1595,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Changing a parent style also changes its children.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143452Z" creationid="zerng07" creationdate="20171225T143452Z">
+        <seg>&lt;f2&gt;修改親代樣式也會同時更動其子代。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Currently, Template Changer extension is available, but it has not had a release for some time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124454Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
@@ -7011,6 +7019,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184519Z" creationid="zerng07" creationdate="20170817T182426Z">
         <seg>這種作法完全合法，但偶爾只是選用不同圖示和作其他些微更動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This relationship can be confusing, especially the first time a style apparently changes its characteristics spontaneously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143712Z" creationid="zerng07" creationdate="20171225T143712Z">
+        <seg>這之間的關係可能令人搞不清楚狀況，尤其是第一次遇到樣式自動改變樣貌特徵的時候。</seg>
       </tuv>
     </tu>
     <tu>
