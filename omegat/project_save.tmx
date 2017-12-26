@@ -1308,8 +1308,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;They also hold&lt;/f0&gt; true for any Open Document Format file, including those created in Apache OpenOffice or Calligra Suite, the free office program designed for the &lt;f1&gt;KDE&lt;/f1&gt; desktop.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122658Z" creationid="zerng07" creationdate="20171226T122658Z">
-        <seg>&lt;f0&gt;甚至也&lt;/f0&gt;適用任何開放文件格式檔案（ODF, Open Document Format)檔案，包括用Apache OpenOffice或Calligra Suite編輯的ODF都一樣。Calligra Suite是專為&lt;f1&gt;KDE&lt;/f1&gt;桌面設計的自由辦公套裝軟體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122950Z" creationid="zerng07" creationdate="20171226T122658Z">
+        <seg>&lt;f0&gt;甚至也同樣&lt;/f0&gt;適用於任何開放文件格式檔案(ODF, Open Document Format)檔案，包括用Apache OpenOffice或Calligra Suite編輯的ODF都一樣。Calligra Suite是專為&lt;f1&gt;KDE&lt;/f1&gt;桌面設計的自由辦公套裝軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1792,6 +1792,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135626Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
         <seg>例如它根據大部份使用者的習慣，將字型設定為常用的，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;If some formatting still persists, retype the material.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T123037Z" creationid="zerng07" creationdate="20171226T123037Z">
+        <seg>&lt;f2&gt;如果某些格式設定持續存在，請重新輸入內容。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7245,8 +7253,8 @@
       <tuv lang="EN">
         <seg>The rules for copying and pasting styles are simple regardless of whether you use &lt;f0&gt;Paste&lt;/f0&gt; or &lt;f1&gt;Paste Special&lt;/f1&gt;, or are copying from one document to another:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121527Z" creationid="zerng07" creationdate="20171226T121500Z">
-        <seg>無論你是用「&lt;f0&gt;貼上&lt;/f0&gt;」或「&lt;f1&gt;選擇性貼上&lt;/f1&gt;」，或是從一份文件複製內容貼到另一份文件上，複製樣式並貼上的規則都很簡單：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122820Z" creationid="zerng07" creationdate="20171226T121500Z">
+        <seg>無論你是用「&lt;f0&gt;貼上&lt;/f0&gt;」或「&lt;f1&gt;選擇性貼上&lt;/f1&gt;」，或是從一份文件複製內容貼到另一份文件上，複製並貼上樣式時所遵循的規則很簡單：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8054,8 +8062,8 @@
       <tuv lang="EN">
         <seg>When &lt;f0&gt;source&lt;/f0&gt; material &lt;f1&gt;formatted in &lt;/f1&gt;a style with the same name as a style in the target &lt;f2&gt;is copied into a&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;paragraph,&lt;/f4&gt; then the target’s style is used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121908Z" creationid="zerng07" creationdate="20171226T121908Z">
-        <seg>如果複製的&lt;f0&gt;來源&lt;/f0&gt;內容&lt;f1&gt;是以&lt;/f1&gt;目標文件中相同名稱的樣式作格式設定的話，&lt;f2&gt;當它複製到目標文件的&lt;/f2&gt;&lt;f4&gt;段落&lt;/f4&gt;時，這段複製內容則會使用目標文件中的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122840Z" creationid="zerng07" creationdate="20171226T121908Z">
+        <seg>如果複製的&lt;f0&gt;來源&lt;/f0&gt;內容&lt;f1&gt;是以&lt;/f1&gt;目標文件中相同名稱的樣式作格式設定的話，&lt;f2&gt;當它複製到目標文件的&lt;/f2&gt;&lt;f4&gt;段落&lt;/f4&gt;之中時，這段複製內容則會使用目標文件中的樣式。</seg>
       </tuv>
     </tu>
     <tu>
