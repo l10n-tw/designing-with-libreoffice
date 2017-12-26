@@ -1798,8 +1798,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;If some formatting still persists, retype the material.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T123037Z" creationid="zerng07" creationdate="20171226T123037Z">
-        <seg>&lt;f2&gt;如果某些格式設定持續存在，請重新輸入內容。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135615Z" creationid="zerng07" creationdate="20171226T123037Z">
+        <seg>&lt;f2&gt;如果某些格式設定仍舊持續存在，或許得重新輸入內容。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8209,6 +8209,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120350Z" creationid="Franklin Weng" creationdate="20171212T120350Z">
         <seg>此時當你開啟文件時，你就會收到&lt;f0&gt;通知&lt;/f0&gt;說它的範本已被編輯過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you paste material, click the arrow beside the &lt;f0&gt;Paste&lt;/f0&gt; icon in the top toolbar and select&lt;f1&gt; Unformatted text.&lt;/f1&gt; The extra step may prevent formatting difficulties.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135940Z" creationid="zerng07" creationdate="20171226T135940Z">
+        <seg>當你貼上一段內容時，請點按上層工具列「&lt;f0&gt;貼上&lt;/f0&gt;」圖示旁的下箭頭，並選擇&lt;f1&gt;未格式設定的文字&lt;/f1&gt;。 這個額外動作可以預防格式設定的各種疑難雜症。</seg>
       </tuv>
     </tu>
     <tu>
