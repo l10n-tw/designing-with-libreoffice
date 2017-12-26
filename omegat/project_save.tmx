@@ -2011,6 +2011,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>這… 其實 5.4 舊版以前 function 都翻譯錯，翻成了「函式」，啊哈哈～ 這個問題在 6.0 和目前的 5.4 分支中已修正。只是等看修正降到介面中可能還要一段時間。</note>
+      <tuv lang="EN">
+        <seg>&lt;f7&gt;You can set keyboard shortcuts for other styles from &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Tools &gt; Customize &gt; Functions &gt; Styles.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164048Z" creationid="zerng07" creationdate="20171226T164048Z">
+        <seg>&lt;f7&gt;你可以從You can set keyboard shortcuts for other styles from &lt;/f7&gt;「&lt;f8&gt;&lt;f9&gt;工具 &gt; 自訂 &gt; 功能 &gt; 樣式&lt;/f9&gt;&lt;/f8&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
       </tuv>
