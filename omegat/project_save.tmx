@@ -2331,6 +2331,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applying &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080720Z" creationid="zerng07" creationdate="20171226T080720Z">
+        <seg>套用樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying graphic styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071425Z" creationid="Jeff Huang" creationdate="20171221T071425Z">
@@ -6071,6 +6079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, the &lt;f4&gt;Category&lt;/f4&gt; field is grayed out, because only one view is necessary for frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080715Z" creationid="zerng07" creationdate="20171226T080715Z">
+        <seg>然後，&lt;f4&gt;類別&lt;/f4&gt;欄位轉為灰色，因為訊框類樣式只會有一種檢視畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, the content usually applies to &lt;f3&gt;OS X&lt;/f3&gt; and Window&lt;f4&gt;s&lt;/f4&gt; versions as much as the Linux versions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145114Z" creationid="zerng07" creationdate="20170822T144948Z">
@@ -7355,6 +7371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T173216Z" creationid="zerng07" creationdate="20170817T173216Z">
         <seg>祕訣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a style, you must select part of the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T084001Z" creationid="zerng07" creationdate="20171226T084001Z">
+        <seg>如果要套用樣式，你必須先選取一部份的文件內容。</seg>
       </tuv>
     </tu>
     <tu>
