@@ -2436,6 +2436,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applying &lt;f0&gt;styles using &lt;/f0&gt;keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140011Z" creationid="zerng07" creationdate="20171226T140011Z">
+        <seg>使用鍵盤快捷鍵來套用&lt;f0&gt;樣式&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying graphic styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071425Z" creationid="Jeff Huang" creationdate="20171221T071425Z">
@@ -5952,6 +5960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing &lt;f0&gt;Ctrl+1 ... &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl+&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;10&lt;/f3&gt; applies the &lt;f4&gt;Heading 1-10&lt;/f4&gt; style&lt;f5&gt;s&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140117Z" creationid="zerng07" creationdate="20171226T140117Z">
+        <seg>按下&lt;f0&gt;Ctrl+1 ... &lt;/f0&gt;到&lt;f1&gt;&lt;f2&gt;Ctrl+&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;10&lt;/f3&gt; 可以套用&lt;f4&gt;標題 1 到 10&lt;/f4&gt;的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Putting &lt;f0&gt;everything&lt;/f0&gt; together</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075624Z" creationid="Jeff Huang" creationdate="20171213T025952Z">
@@ -7412,6 +7428,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These shortcuts can be useful in documents such as an outline, in &lt;t6/&gt;which you are using only Heading paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140235Z" creationid="zerng07" creationdate="20171226T140235Z">
+        <seg>這些快捷鍵對製作大綱文件來說很有用處，一般這類文件你只會用到標題段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These wizards illustrate the kinds of decisions that you make when designing, and can give you a sense of the sorts of decisions you need to make when designing your own templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125439Z" creationid="Franklin Weng" creationdate="20171215T125439Z">
@@ -8585,8 +8609,8 @@
       <tuv lang="EN">
         <seg>You have several options for applying a style: the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Fill Format&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;mode, &lt;t5/&gt;pasting &lt;f6&gt;from your system’s clipboard, and applying keyboard shortcuts.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090615Z" creationid="zerng07" creationdate="20171226T090525Z">
-        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式化&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、或&lt;f6&gt;從系統中的剪貼簿中貼上並套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140033Z" creationid="zerng07" creationdate="20171226T090525Z">
+        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式化&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、&lt;f6&gt;從系統中的剪貼簿中貼上、套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
