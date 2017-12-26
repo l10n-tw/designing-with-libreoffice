@@ -1306,6 +1306,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;They also hold&lt;/f0&gt; true for any Open Document Format file, including those created in Apache OpenOffice or Calligra Suite, the free office program designed for the &lt;f1&gt;KDE&lt;/f1&gt; desktop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122658Z" creationid="zerng07" creationdate="20171226T122658Z">
+        <seg>&lt;f0&gt;甚至也&lt;/f0&gt;適用任何開放文件格式檔案（ODF, Open Document Format)檔案，包括用Apache OpenOffice或Calligra Suite編輯的ODF都一樣。Calligra Suite是專為&lt;f1&gt;KDE&lt;/f1&gt;桌面設計的自由辦公套裝軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This book standardizes on&lt;/f0&gt; LibreOffice on Linux, &lt;f1&gt;because that is what I use every day.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T190923Z" creationid="zerng07" creationdate="20170822T144604Z">
@@ -7384,6 +7392,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042624Z" creationid="Franklin Weng" creationdate="20171223T042624Z">
         <seg>這些都是相當合理的假設。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These rules hold true for &lt;f0&gt;all types of &lt;/f0&gt;styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122437Z" creationid="zerng07" creationdate="20171226T122437Z">
+        <seg>這些規則適用於&lt;f0&gt;所有類型的&lt;/f0&gt;樣式。</seg>
       </tuv>
     </tu>
     <tu>
