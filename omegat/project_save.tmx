@@ -6823,6 +6823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields in the &lt;f0&gt;Organizer&lt;/f0&gt; tab are grayed-out in types of styles where they would make no sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080131Z" creationid="zerng07" creationdate="20171226T080131Z">
+        <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中的一些欄位，如果做設定沒有意義的話會自動轉為灰色不能點選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is to open a document based on another template, then copy and paste into it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124847Z" creationid="Franklin Weng" creationdate="20171223T124847Z">
