@@ -6844,6 +6844,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;Default Style&lt;/f1&gt; and &lt;f2&gt;Text Body &lt;/f2&gt;paragraph styles are likely candidates for macros, and so are the &lt;f3&gt;Emphasis&lt;/f3&gt; and &lt;f4&gt;Strong Emphasis&lt;/f4&gt; character styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164524Z" creationid="zerng07" creationdate="20171226T164524Z">
+        <seg>或許「&lt;f1&gt;預設樣式&lt;/f1&gt;」和「&lt;f2&gt;內文&lt;/f2&gt;」段落樣式很適合作巨集使用，此外還有「&lt;f3&gt;強調&lt;/f3&gt;」和「&lt;f4&gt;特別強調&lt;/f4&gt;」字元樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;style inherited from&lt;/f3&gt; is the current style’s parent – the style from which the current style inherits characteristics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144326Z" creationid="zerng07" creationdate="20171225T144326Z">
