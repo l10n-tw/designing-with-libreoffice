@@ -2027,6 +2027,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A paragraph or page is selected when the mouse cursor is anywhere in or on them, but frames or drawing objects must be selected by clicking in them &lt;f0&gt;so the frame and its eight handles displays&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T085543Z" creationid="zerng07" creationdate="20171226T085543Z">
+        <seg>當滑鼠游標坐落在段落中或頁面上的時候，就會選取該段落樣式或頁面樣式；但是訊框或繪圖物件就不同，必須滑鼠點按它們並且&lt;f0&gt;看到外框和八個控制桿出現時才算選到。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A paragraph that takes up more than half a page should usually be divided up regardless of the publishing format, because extremely large paragraphs can make readers skip them.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085644Z" creationid="Jeff Huang" creationdate="20171111T132234Z">
