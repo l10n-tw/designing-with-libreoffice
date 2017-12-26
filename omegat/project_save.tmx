@@ -1421,8 +1421,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When&lt;/f0&gt; source material &lt;f1&gt;formatted in &lt;/f1&gt;a style &lt;f2&gt;not in the &lt;/f2&gt;target &lt;f3&gt;is copied into a new paragraph, &lt;/f3&gt;then the formatting is kept and the style name is added to the target document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122152Z" creationid="zerng07" creationdate="20171226T122152Z">
-        <seg>&lt;f0&gt;如果&lt;/f0&gt;來源內容是以目標文件中&lt;f2&gt;沒有&lt;/f2&gt;的樣式作&lt;f1&gt;格式設定&lt;/f1&gt;，&lt;f3&gt;當它複製到目標文件中的新段落時&lt;/f3&gt;，這段複製內容會保留其樣式名稱&lt;then the formatting is kept and the style name is added to the target document.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122243Z" creationid="zerng07" creationdate="20171226T122152Z">
+        <seg>&lt;f0&gt;如果&lt;/f0&gt;來源內容是以目標文件中&lt;f2&gt;沒有&lt;/f2&gt;的樣式作&lt;f1&gt;格式設定&lt;/f1&gt;，&lt;f3&gt;當它複製到目標文件中的新段落時&lt;/f3&gt;，這段複製內容會保留原始樣式名稱，並將樣式加到目標文件之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,6 +2392,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114736Z" creationid="zerng07" creationdate="20171219T114647Z">
         <seg>只有在文件完成之後才會編輯個幾天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any formatting done manually or with a character style in the source is copied wherever it is pasted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122412Z" creationid="zerng07" creationdate="20171226T122412Z">
+        <seg>至於來源文件中任何手動格式設定之處，或是有字元樣式的地方，無論你貼上的位置為何都會一併複製過去。</seg>
       </tuv>
     </tu>
     <tu>
