@@ -8071,6 +8071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also drag the mouse to select multiple paragraphs or spreadsheet cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T085632Z" creationid="zerng07" creationdate="20171226T085632Z">
+        <seg>你也可以用滑鼠拖曳選取多個段落，或多個試算表儲存格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also highlight an entry in the tool bar’s style list and select &lt;f0&gt;&lt;f1&gt;E&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;dit&lt;/f2&gt; to open the style’s dialog window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092030Z" creationid="zerng07" creationdate="20171224T092030Z">
@@ -8211,6 +8219,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153909Z" creationid="zerng07" creationdate="20170930T173116Z">
         <seg>你已經決定好採用10點大小的DejaVu Serif字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>5.4 中，Formatting tool bar 的翻譯為「格式化」儲存格，雖然明明已經改翻譯成「格式設定」了，但沒如實反應出來…</note>
+      <tuv lang="EN">
+        <seg>You have several options for applying a style: the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Fill Format&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;mode, &lt;t5/&gt;pasting &lt;f6&gt;from your system’s clipboard, and applying keyboard shortcuts.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090525Z" creationid="zerng07" creationdate="20171226T090525Z">
+        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式設定&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、或&lt;f6&gt;從系統中的剪貼簿中貼上並套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
