@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Clicking the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;More Styles... &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;link at the bottom of the list opens the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles and Formatting&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window, while selecting &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Edit Style&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; from a style’s drop-down menu opens the dialog window for the style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T105442Z" creationid="zerng07" creationdate="20171226T105442Z">
+        <seg>&lt;f0&gt;點按&lt;/f0&gt;清單最底部的「&lt;f1&gt;&lt;f2&gt;更多樣式...&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;連結，會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;樣式和格式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗。至於從各樣式自身的下拉選單中選取&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;編輯樣式&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;，則會開啟該樣式的對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Custom Styles:&lt;/f0&gt; The styles you have created, &lt;f1&gt;as opposed to the pre-defined ones.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142448Z" creationid="zerng07" creationdate="20171224T152833Z">
@@ -3813,6 +3821,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gradually, though, other paragraph styles are listed as they are used in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T105047Z" creationid="zerng07" creationdate="20171226T105047Z">
+        <seg>接著，其他段落樣式會隨著在文件中被使用而逐步加到這份清單之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Graphic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082126Z" creationid="zerng07" creationdate="20171224T082126Z">
@@ -5642,8 +5658,8 @@
       <tuv lang="EN">
         <seg>Otherwise, you risk being entangled in the menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104814Z" creationid="zerng07" creationdate="20171226T103410Z">
-        <seg>不然你有機會陷入選單之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104822Z" creationid="zerng07" creationdate="20171226T103410Z">
+        <seg>不然你有機會陷入選單之中。？？？</seg>
       </tuv>
     </tu>
     <tu>
@@ -7960,6 +7976,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125912Z" creationid="Franklin Weng" creationdate="20171215T125912Z">
         <seg>當你完成範本的設定後，精靈預設會將產生的範本存到你個人的範本目錄並註冊，讓你可以&lt;f0&gt;立即使用&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you first open a document, the list includes only a half dozen commonly used styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T105054Z" creationid="zerng07" creationdate="20171226T104948Z">
+        <seg>當你第一次開啟文件時，這份清單會列出一些常用的樣式。</seg>
       </tuv>
     </tu>
     <tu>
