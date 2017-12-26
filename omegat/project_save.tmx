@@ -2015,8 +2015,8 @@
       <tuv lang="EN">
         <seg>&lt;f7&gt;You can set keyboard shortcuts for other styles from &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Tools &gt; Customize &gt; Functions &gt; Styles.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164048Z" creationid="zerng07" creationdate="20171226T164048Z">
-        <seg>&lt;f7&gt;你可以從You can set keyboard shortcuts for other styles from &lt;/f7&gt;「&lt;f8&gt;&lt;f9&gt;工具 &gt; 自訂 &gt; 功能 &gt; 樣式&lt;/f9&gt;&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164113Z" creationid="zerng07" creationdate="20171226T164048Z">
+        <seg>&lt;f7&gt;你可以從&lt;/f7&gt;「&lt;f8&gt;&lt;f9&gt;工具 &gt; 自訂 &gt; 功能 &gt; 樣式&lt;/f9&gt;&lt;/f8&gt;」裡設定其他樣式的快捷鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5003,6 +5003,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124437Z" creationid="Franklin Weng" creationdate="20171213T124437Z">
         <seg>紀錄一週或一個月內每天產生的文件，看看你製作相同類型文件的頻率有多高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard shortcuts can save stress on your wrists and hands when you are typing for long periods, so you may want to record additional macros and assign them &lt;f0&gt;to &lt;/f0&gt;keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164313Z" creationid="zerng07" creationdate="20171226T164313Z">
+        <seg>善用鍵盤快捷鍵長期下來可以減緩你的手腕和關節壓力，所以你可以考慮紀錄一些額外巨集並指派其鍵盤快捷鍵。</seg>
       </tuv>
     </tu>
     <tu>
