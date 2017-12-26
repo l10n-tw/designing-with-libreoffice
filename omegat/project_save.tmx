@@ -6288,6 +6288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting with version 5.0, the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window shows a preview of the current font formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091729Z" creationid="zerng07" creationdate="20171226T091718Z">
+        <seg>從5.0版開始，&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗會顯示目前的字型格式設定預覽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111200Z" creationid="zerng07" creationdate="20171219T111200Z">
@@ -7356,6 +7364,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184519Z" creationid="zerng07" creationdate="20170817T182426Z">
         <seg>這種作法完全合法，但偶爾只是選用不同圖示和作其他些微更動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This preview is useful when dealing with character styles, but omits most of the information in a paragraph or a list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091850Z" creationid="zerng07" creationdate="20171226T091850Z">
+        <seg>這個預覽對於你在處理字元樣式時會很有用，但是會讓你忽略段落樣式或清單樣式的其他多數資訊。</seg>
       </tuv>
     </tu>
     <tu>
