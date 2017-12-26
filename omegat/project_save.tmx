@@ -840,6 +840,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In Writer, y&lt;/f0&gt;ou can apply paragraph styles to a selection by opening the drop-down list of styles that is &lt;f1&gt;on&lt;/f1&gt; the left on the &lt;f2&gt;Formatting&lt;/f2&gt; tool bar (the default bottom tool bar).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T102734Z" creationid="zerng07" creationdate="20171226T102734Z">
+        <seg>&lt;f0&gt;在Writer裡，&lt;/f0&gt;你可以在&lt;f2&gt;「格式化」&lt;/f2&gt;工具列（預設雙工具列中的底層工具列）左方的下拉式清單中套用段落樣式到選取的內容上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082528Z" creationid="zerng07" creationdate="20171225T082407Z">
@@ -1350,6 +1358,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090543Z" creationid="zerng07" creationdate="20171226T090543Z">
         <seg>&lt;f0&gt;使用&lt;/f0&gt; &lt;f1&gt;樣式和格式&lt;/f1&gt;視窗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>6.0 請用「格式設定」</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using&lt;/f0&gt; the Formatting &lt;f1&gt;t&lt;/f1&gt;ool bar</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T092202Z" creationid="zerng07" creationdate="20171226T092202Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;格式化工具列</seg>
       </tuv>
     </tu>
     <tu>
@@ -7370,8 +7387,8 @@
       <tuv lang="EN">
         <seg>This preview is useful when dealing with character styles, but omits most of the information in a paragraph or a list style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091850Z" creationid="zerng07" creationdate="20171226T091850Z">
-        <seg>這個預覽對於你在處理字元樣式時會很有用，但是會讓你忽略段落樣式或清單樣式的其他多數資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T092115Z" creationid="zerng07" creationdate="20171226T091850Z">
+        <seg>這個預覽對於你在處理字元樣式時會很有用，但是會讓你忽略掉段落樣式或清單樣式的許多其他資訊。</seg>
       </tuv>
     </tu>
     <tu>
