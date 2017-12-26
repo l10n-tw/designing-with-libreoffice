@@ -774,6 +774,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However,&lt;/f0&gt; to apply a character style, you need to drag the cursor across all the characters you plan to format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115639Z" creationid="zerng07" creationdate="20171226T115639Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;如果套用的是字元樣式，你所要拖曳的範圍就必須涵蓋全部你希望作格式設定的所有字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>3994: over clip art  翻譯需要 review</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hundreds of dingbat fonts are available, from practical ones useful in charts and diagrams to fun ones with dinosaurs and medieval figures.&lt;/f0&gt; &lt;f1&gt;Their advantage over clip art is that they are scalable; their disadvantage is that they only display in one color.&lt;/f1&gt;</seg>
@@ -8530,6 +8538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T045406Z" creationid="Jeff Huang" creationdate="20171111T031843Z">
         <seg>或許你得大聲朗讀出來，或者印出來閱讀，又或是把它放著不管幾天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to drag the cursor for only a few characters to apply the style to a paragraph or a page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115528Z" creationid="zerng07" creationdate="20171226T115517Z">
+        <seg>如果你填入的是段落樣式或頁面樣式，所拖曳的範圍只要包含該處的幾個字元即可。</seg>
       </tuv>
     </tu>
     <tu>
