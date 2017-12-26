@@ -7010,6 +7010,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list has the advantage of offering a preview of each paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110208Z" creationid="zerng07" creationdate="20171226T110208Z">
+        <seg>這個樣式清單的優勢在於提供各種段落樣式的預覽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main drawback is that you cannot easily set an object to reoccur on every page that uses the same page style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060153Z" creationid="zerng07" creationdate="20171224T060153Z">
@@ -7655,6 +7663,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074605Z" creationid="zerng07" creationdate="20171224T092614Z">
         <seg>解除&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗的停駐位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately, that preview is only the name of the style, which means that many formatting elements are not shown in the preview.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110345Z" creationid="zerng07" creationdate="20171226T110345Z">
+        <seg>美中不足的是，這個預覽僅限於表現樣式名稱，所以有許多格式設定元素不會在預覽中顯示出來。</seg>
       </tuv>
     </tu>
     <tu>
