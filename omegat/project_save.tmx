@@ -7992,6 +7992,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>不過 5.4 之下，訊框樣式和頁面樣式之下不會有字型樣貌的預覽～</note>
+      <tuv lang="EN">
+        <seg>With frame and page styles, it is mostly a distraction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T092044Z" creationid="zerng07" creationdate="20171226T091928Z">
+        <seg>甚至在訊框樣式和頁面樣式下，這個預覽可說是令人分心（？5.4 在訊框樣式和頁面樣式下已經沒有這個預覽）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>With over 400 font families, &lt;f0&gt;t&lt;/f0&gt;he Open Font Library is second only to Google Fonts in its selection.</seg>
       </tuv>
