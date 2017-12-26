@@ -7812,6 +7812,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, some of the original formatting, including the text color and any underlining, &lt;f0&gt;sometimes remains when available system memory is low.&lt;/f0&gt; When it does, applying the &lt;f1&gt;Default&lt;/f1&gt; character style may remove it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135538Z" creationid="zerng07" creationdate="20171226T135538Z">
+        <seg>不幸的，有些原本的格式設定，例如文字色彩和任何底線，&lt;f0&gt;有時候在系統記憶體低落的情況下會繼續存在。&lt;/f0&gt;如果碰到這樣子的問題，可以套用「&lt;f1&gt;預設&lt;/f1&gt;」字元樣式來移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately, that preview is only the name of the style, which means that many formatting elements are not shown in the preview.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110345Z" creationid="zerng07" creationdate="20171226T110345Z">
@@ -8466,6 +8474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144141Z" creationid="zerng07" creationdate="20171225T144141Z">
         <seg>你可以利用「&lt;f2&gt;統籌概覽&lt;/f2&gt;」標籤頁中的「&lt;f0&gt;&lt;f1&gt;繼承自&lt;/f1&gt;&lt;/f0&gt;」欄位來處理樣式階層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can remove most of this formatting by selecting &lt;f0&gt;Clear formatting&lt;/f0&gt; from the top of the drop-down list of paragraph styles on the &lt;f1&gt;Formatting&lt;/f1&gt; &lt;f2&gt;tool bar&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135318Z" creationid="zerng07" creationdate="20171226T135318Z">
+        <seg>你可以從&lt;f1&gt;格式化&lt;/f1&gt;工具列的段落樣式下拉式選單中的第一項「&lt;f0&gt;清除格式&lt;/f0&gt;」移除掉絕大多數的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
