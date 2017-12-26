@@ -1370,6 +1370,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using&lt;/f0&gt; Fill Format Mode</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110734Z" creationid="zerng07" creationdate="20171226T110734Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;填入格式模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090543Z" creationid="zerng07" creationdate="20171226T090543Z">
@@ -3054,8 +3062,8 @@
       <tuv lang="EN">
         <seg>Consequently, the list is a limited tool at best.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110525Z" creationid="zerng07" creationdate="20171226T110525Z">
-        <seg>因此，這個樣式清單充其量是個有所限制的工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110720Z" creationid="zerng07" creationdate="20171226T110525Z">
+        <seg>因此，這個樣式清單充其量是個有限的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,8 +3855,8 @@
       <tuv lang="EN">
         <seg>Gradually, though, other paragraph styles are listed as they are used in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T105047Z" creationid="zerng07" creationdate="20171226T105047Z">
-        <seg>接著，其他段落樣式會隨著在文件中被使用而逐步加到這份清單之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111246Z" creationid="zerng07" creationdate="20171226T105047Z">
+        <seg>之後，其他段落樣式會隨著在文件中被使用而逐步加到這份清單之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,7 +4712,7 @@
       <tuv lang="EN">
         <seg>In paragraph and character &lt;t1/&gt;styles, this style is called &lt;f2&gt;Default.&lt;/f2&gt; All other styles of the same type are based upon the &lt;f3&gt;Default&lt;/f3&gt; style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T145917Z" creationid="zerng07" creationdate="20171225T145917Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111023Z" creationid="zerng07" creationdate="20171225T145917Z">
         <seg>在段落樣式和字元樣式中，這種樣式稱為「&lt;f2&gt;預設&lt;/f2&gt;」樣式。所有其他樣式都根基於&lt;f3&gt;預設&lt;/f3&gt;樣式而來。</seg>
       </tuv>
     </tu>
@@ -8117,6 +8125,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, you also have the option with some style categories of reversing the basic application technique, choosing the style first, and where to apply &lt;t1/&gt;it &lt;f2&gt;second.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T113944Z" creationid="zerng07" creationdate="20171226T113944Z">
+        <seg>利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗，有些樣式類別提供一種回到基本套用技巧的選項：你可以先選擇樣式，再點選你想要套用的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the&lt;f0&gt; Styles and Formatting&lt;/f0&gt; window open, you can apply a style with a single mouse-click – or maybe two as you select another style category to list.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091225Z" creationid="zerng07" creationdate="20171226T091225Z">
@@ -8231,8 +8247,8 @@
       <tuv lang="EN">
         <seg>You can &lt;f0&gt;sometimes &lt;/f0&gt;make a view more effective by changing which &lt;f1&gt;category each of your custom styles displays in.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T075813Z" creationid="zerng07" creationdate="20171226T075813Z">
-        <seg>&lt;f0&gt;有時候&lt;/f0&gt;你可以更改自訂樣式要顯示在哪個類別中，來讓檢視樣式時更有效率。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111042Z" creationid="zerng07" creationdate="20171226T075813Z">
+        <seg>&lt;f0&gt;有時候&lt;/f0&gt;你可以更改自訂樣式要顯示在哪個類別中，&lt;f1&gt;來讓檢視樣式時更有效率。</seg>
       </tuv>
     </tu>
     <tu>
