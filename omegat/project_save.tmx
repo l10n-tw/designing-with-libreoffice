@@ -3317,6 +3317,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the cursor over the part of the document you wish to format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115407Z" creationid="zerng07" creationdate="20171226T115407Z">
+        <seg>在你希望作格式設定的文件位置上拖曳游標。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dragging on the title bar of the docked window &lt;f1&gt;should &lt;/f1&gt;undock it, &lt;f2&gt;although the reliability of the feature varies with the release.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141544Z" creationid="zerng07" creationdate="20171224T141544Z">
@@ -4225,6 +4233,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132924Z" creationid="Franklin Weng" creationdate="20171213T132924Z">
         <seg>發生這種狀況的話，你可能就無法照想要的方式看到你的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the button is grayed out, you cannot use &lt;f0&gt;Fill Format&lt;/f0&gt; with the style category selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115210Z" creationid="zerng07" creationdate="20171226T115210Z">
+        <seg>如果這個按鈕顏色轉灰，代表選取的樣式類別不能使用&lt;f0&gt;填入格式&lt;/f0&gt;功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7951,6 +7967,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141316Z" creationid="zerng07" creationdate="20171212T141316Z">
         <seg>你對樣式做的設定會套用到&lt;f0&gt;所有&lt;/f0&gt;文件上，&lt;f1&gt;所以&lt;/f1&gt;樣式比起手動格式設定更侷限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;Fill Format&lt;/f0&gt; is available, the cursor changes to a paint bucket.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115123Z" creationid="zerng07" creationdate="20171226T115105Z">
+        <seg>當&lt;f0&gt;填充模式&lt;/f0&gt;可以使用時，游標會變成傾倒油漆桶的樣貌。</seg>
       </tuv>
     </tu>
     <tu>
