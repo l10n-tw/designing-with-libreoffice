@@ -1419,6 +1419,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When&lt;/f0&gt; source material &lt;f1&gt;formatted in &lt;/f1&gt;a style &lt;f2&gt;not in the &lt;/f2&gt;target &lt;f3&gt;is copied into a new paragraph, &lt;/f3&gt;then the formatting is kept and the style name is added to the target document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122152Z" creationid="zerng07" creationdate="20171226T122152Z">
+        <seg>&lt;f0&gt;如果&lt;/f0&gt;來源內容是以目標文件中&lt;f2&gt;沒有&lt;/f2&gt;的樣式作&lt;f1&gt;格式設定&lt;/f1&gt;，&lt;f3&gt;當它複製到目標文件中的新段落時&lt;/f3&gt;，這段複製內容會保留其樣式名稱&lt;then the formatting is kept and the style name is added to the target document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wizards are&lt;/f0&gt; available from the &lt;f1&gt;File &gt; Wizards&lt;/f1&gt; sub-menu.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Some of the wizards give you the option of using a LibreOffice Base database or the address book of an email client for filling in fields, which is convenient for mass mail-outs.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135511Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
