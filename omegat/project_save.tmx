@@ -1308,8 +1308,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;They also hold&lt;/f0&gt; true for any Open Document Format file, including those created in Apache OpenOffice or Calligra Suite, the free office program designed for the &lt;f1&gt;KDE&lt;/f1&gt; desktop.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122950Z" creationid="zerng07" creationdate="20171226T122658Z">
-        <seg>&lt;f0&gt;甚至也同樣&lt;/f0&gt;適用於任何開放文件格式檔案(ODF, Open Document Format)檔案，包括用Apache OpenOffice或Calligra Suite編輯的ODF都一樣。Calligra Suite是專為&lt;f1&gt;KDE&lt;/f1&gt;桌面設計的自由辦公套裝軟體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135047Z" creationid="zerng07" creationdate="20171226T122658Z">
+        <seg>&lt;f0&gt;甚至也同樣&lt;/f0&gt;適用於任何開放文件格式檔案 (ODF, Open Document Format) 檔案，包括用Apache OpenOffice或Calligra Suite編輯的ODF都一樣。Calligra Suite是專為&lt;f1&gt;KDE&lt;/f1&gt;桌面設計的自由辦公套裝軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6027,8 +6027,8 @@
       <tuv lang="EN">
         <seg>Right-clicking anywhere in a document when &lt;f0&gt;Fill Format Mode&lt;/f0&gt; is turned on stops it from being applied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121313Z" creationid="zerng07" creationdate="20171226T121258Z">
-        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵可以停止套用？？？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T123256Z" creationid="zerng07" creationdate="20171226T121258Z">
+        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵會停止套用？？？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8272,8 +8272,8 @@
       <tuv lang="EN">
         <seg>With the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, you also have the option with some style categories of reversing the basic application technique, choosing the style first, and where to apply &lt;t1/&gt;it &lt;f2&gt;second.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T113944Z" creationid="zerng07" creationdate="20171226T113944Z">
-        <seg>利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗，有些樣式類別提供一種回到基本套用技巧的選項：你可以先選擇樣式，再點選你想要套用的地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T123206Z" creationid="zerng07" creationdate="20171226T113944Z">
+        <seg>利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗，有些樣式類別提供一種回到基本套用技巧的選項：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
