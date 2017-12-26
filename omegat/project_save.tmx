@@ -2447,8 +2447,8 @@
       <tuv lang="EN">
         <seg>Applying &lt;f0&gt;styles using &lt;/f0&gt;keyboard shortcuts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140011Z" creationid="zerng07" creationdate="20171226T140011Z">
-        <seg>使用鍵盤快捷鍵來套用&lt;f0&gt;樣式&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164712Z" creationid="zerng07" creationdate="20171226T140011Z">
+        <seg>使用鍵盤快捷鍵套用&lt;f0&gt;樣式&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5979,8 +5979,8 @@
       <tuv lang="EN">
         <seg>Pressing &lt;f0&gt;Ctrl+1 ... &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ctrl+&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;10&lt;/f3&gt; applies the &lt;f4&gt;Heading 1-10&lt;/f4&gt; style&lt;f5&gt;s&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140117Z" creationid="zerng07" creationdate="20171226T140117Z">
-        <seg>按下&lt;f0&gt;Ctrl+1 ... &lt;/f0&gt;到&lt;f1&gt;&lt;f2&gt;Ctrl+&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;10&lt;/f3&gt; 可以套用&lt;f4&gt;標題 1 到 10&lt;/f4&gt;的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164739Z" creationid="zerng07" creationdate="20171226T140117Z">
+        <seg>按下&lt;f0&gt;Ctrl+1 ... &lt;/f0&gt;到&lt;f1&gt;&lt;f2&gt;Ctrl+&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;10&lt;/f3&gt; 可以套用&lt;f4&gt;標題 1 到標題 10&lt;/f4&gt;的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,8 +6846,8 @@
       <tuv lang="EN">
         <seg>The &lt;f1&gt;Default Style&lt;/f1&gt; and &lt;f2&gt;Text Body &lt;/f2&gt;paragraph styles are likely candidates for macros, and so are the &lt;f3&gt;Emphasis&lt;/f3&gt; and &lt;f4&gt;Strong Emphasis&lt;/f4&gt; character styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164524Z" creationid="zerng07" creationdate="20171226T164524Z">
-        <seg>或許「&lt;f1&gt;預設樣式&lt;/f1&gt;」和「&lt;f2&gt;內文&lt;/f2&gt;」段落樣式很適合作巨集使用，此外還有「&lt;f3&gt;強調&lt;/f3&gt;」和「&lt;f4&gt;特別強調&lt;/f4&gt;」字元樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164745Z" creationid="zerng07" creationdate="20171226T164524Z">
+        <seg>或許「&lt;f1&gt;預設樣式&lt;/f1&gt;」和「&lt;f2&gt;內文&lt;/f2&gt;」段落樣式會很適合作巨集使用，此外還有「&lt;f3&gt;強調&lt;/f3&gt;」和「&lt;f4&gt;特別強調&lt;/f4&gt;」字元樣式。</seg>
       </tuv>
     </tu>
     <tu>
