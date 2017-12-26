@@ -1926,8 +1926,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Right-click on a selected frame for the manual equivalent.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043559Z" creationid="zerng07" creationdate="20171224T043559Z">
-        <seg>&lt;f3&gt;等同手動以右鍵點按一個訊框操作。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175004Z" creationid="zerng07" creationdate="20171224T043559Z">
+        <seg>&lt;f3&gt;等同手動以右鍵點按一個外框操作。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2119,8 +2119,8 @@
       <tuv lang="EN">
         <seg>A paragraph or page is selected when the mouse cursor is anywhere in or on them, but frames or drawing objects must be selected by clicking in them &lt;f0&gt;so the frame and its eight handles displays&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T085543Z" creationid="zerng07" creationdate="20171226T085543Z">
-        <seg>當滑鼠游標坐落在段落中或頁面上的時候，就會選取該段落樣式或頁面樣式；但是訊框或繪圖物件就不同，必須滑鼠點按它們並且&lt;f0&gt;看到外框和八個控制桿出現時才算選到。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175016Z" creationid="zerng07" creationdate="20171226T085543Z">
+        <seg>當滑鼠游標坐落在段落中或頁面上的時候，就會選取該段落樣式或頁面樣式；但是外框或繪圖物件就不同，必須滑鼠點按它們並且&lt;f0&gt;看到外框和八個控制桿出現時才算選到。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2263,8 +2263,8 @@
       <tuv lang="EN">
         <seg>All objects inserted to a Writer document are contained by a frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180355Z" creationid="zerng07" creationdate="20171223T180040Z">
-        <seg>插入Writer中的所有物件都是包在訊框之內。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175002Z" creationid="zerng07" creationdate="20171223T180040Z">
+        <seg>插入Writer中的所有物件都是包在外框之內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2887,8 +2887,8 @@
       <tuv lang="EN">
         <seg>By customizing &lt;f0&gt;&lt;f1&gt;F&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;rame&lt;/f2&gt; styles, you can automatically adjust elements such as the border around objects and how text flows around them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180326Z" creationid="zerng07" creationdate="20171223T180326Z">
-        <seg>藉由自訂&lt;f2&gt;訊框&lt;/f2&gt;樣式，你就可以自動調整物件邊框之類的元素，還能控制文字行經過這些物件時的動向。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175003Z" creationid="zerng07" creationdate="20171223T180326Z">
+        <seg>藉由自訂&lt;f2&gt;外框&lt;/f2&gt;樣式，你就可以自動調整物件邊框之類的元素，還能控制文字行經過這些物件時的動向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,8 +3776,8 @@
       <tuv lang="EN">
         <seg>For example, two frames &lt;f1&gt;seldom&lt;/f1&gt; occur one after the other, so a &lt;f2&gt;Frame&lt;/f2&gt; style window omits the &lt;f3&gt;Next Style&lt;/f3&gt; category.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080524Z" creationid="zerng07" creationdate="20171226T080524Z">
-        <seg>舉例來說，&lt;f1&gt;極少&lt;/f1&gt;見需要兩個訊框同時接在一起的，所以&lt;f2&gt;訊框&lt;/f2&gt;樣式視窗就會省去&lt;f3&gt;下一個樣式&lt;/f3&gt;的類別。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175012Z" creationid="zerng07" creationdate="20171226T080524Z">
+        <seg>舉例來說，&lt;f1&gt;極少&lt;/f1&gt;見需要兩個外框同時接在一起的，所以&lt;f2&gt;外框&lt;/f2&gt;樣式視窗就會省去&lt;f3&gt;下一個樣式&lt;/f3&gt;的類別。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3864,8 +3864,8 @@
       <tuv lang="EN">
         <seg>Frame</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T180002Z" creationid="zerng07" creationdate="20171223T180002Z">
-        <seg>訊框</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175000Z" creationid="zerng07" creationdate="20171223T180002Z">
+        <seg>外框</seg>
       </tuv>
     </tu>
     <tu>
@@ -6294,8 +6294,8 @@
       <tuv lang="EN">
         <seg>Similarly, instead of creating a separate frame for a section formatted differently from the rest of the document, you can include the different format in a set of styles and keep typing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135930Z" creationid="zerng07" creationdate="20171029T135930Z">
-        <seg>所以，你也不必再為文件中的某個小節區段設定獨立訊框好讓它可以和文件其餘內容格式不同，因為你能夠新增不一樣的樣式組，然後繼續打字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175027Z" creationid="zerng07" creationdate="20171029T135930Z">
+        <seg>所以，你也不必再為文件中的某個小節區段設定獨立外框好讓它可以和文件其餘內容格式不同，因為你能夠新增不一樣的樣式組合，然後繼續打字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,8 +6318,8 @@
       <tuv lang="EN">
         <seg>Similarly, the &lt;f4&gt;Category&lt;/f4&gt; field is grayed out, because only one view is necessary for frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080715Z" creationid="zerng07" creationdate="20171226T080715Z">
-        <seg>然後，&lt;f4&gt;類別&lt;/f4&gt;欄位轉為灰色，因為訊框類樣式只會有一種檢視畫面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175015Z" creationid="zerng07" creationdate="20171226T080715Z">
+        <seg>然後，&lt;f4&gt;類別&lt;/f4&gt;欄位轉為灰色，因為外框類樣式只會有一種檢視畫面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8143,8 +8143,8 @@
       <tuv lang="EN">
         <seg>When a frame appears, release the floating window, and it is docked.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141352Z" creationid="zerng07" creationdate="20171224T140659Z">
-        <seg>當看到訊框出現時放開浮動視窗，視窗就會停駐在該位置上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175011Z" creationid="zerng07" creationdate="20171224T140659Z">
+        <seg>當看到外框出現時放開浮動視窗，視窗就會停駐在該位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,8 +8329,8 @@
       <tuv lang="EN">
         <seg>With frame and page styles, it is mostly a distraction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T092044Z" creationid="zerng07" creationdate="20171226T091928Z">
-        <seg>甚至在訊框樣式和頁面樣式下，這個預覽可說是令人分心（？5.4 在訊框樣式和頁面樣式下已經沒有這個預覽）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175021Z" creationid="zerng07" creationdate="20171226T091928Z">
+        <seg>甚至在外框樣式和頁面樣式下，這個預覽可說是令人分心（？5.4 在外框樣式和頁面樣式下已經沒有這個預覽）。</seg>
       </tuv>
     </tu>
     <tu>
