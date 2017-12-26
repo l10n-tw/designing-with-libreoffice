@@ -5792,6 +5792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pasting styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121305Z" creationid="zerng07" creationdate="20171226T121305Z">
+        <seg>貼上樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>People who have never used styles often have bizarre ideas about them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140355Z" creationid="zerng07" creationdate="20171212T140355Z">
@@ -5987,8 +5995,8 @@
       <tuv lang="EN">
         <seg>Right-clicking anywhere in a document when &lt;f0&gt;Fill Format Mode&lt;/f0&gt; is turned on stops it from being applied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121258Z" creationid="zerng07" creationdate="20171226T121258Z">
-        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵可以阻止套用？？？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121313Z" creationid="zerng07" creationdate="20171226T121258Z">
+        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵可以停止套用？？？</seg>
       </tuv>
     </tu>
     <tu>
@@ -7207,6 +7215,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T134219Z" creationid="Franklin Weng" creationdate="20171222T134219Z">
         <seg>裡面的矩形就是列在路徑中主目錄裡的子目錄。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules for copying and pasting styles are simple regardless of whether you use &lt;f0&gt;Paste&lt;/f0&gt; or &lt;f1&gt;Paste Special&lt;/f1&gt;, or are copying from one document to another:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121500Z" creationid="zerng07" creationdate="20171226T121500Z">
+        <seg>無論你是用「&lt;f0&gt;貼上&lt;/f0&gt;」或「&lt;f1&gt;選擇性貼上&lt;/f1&gt;」，或是從一份文件複製內容貼到另一份文件上，, or are copying from one document to another:</seg>
       </tuv>
     </tu>
     <tu>
