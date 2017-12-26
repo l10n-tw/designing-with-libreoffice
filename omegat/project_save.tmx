@@ -3044,6 +3044,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button a second time to &lt;f1&gt;turn the mode off&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115714Z" creationid="zerng07" creationdate="20171226T115714Z">
+        <seg>點按&lt;f0&gt;填入格式模式&lt;/f0&gt;按鈕第二下可&lt;f1&gt;關閉填入模式&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;More...&lt;/f0&gt; link at the bottom of the style list in the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084247Z" creationid="zerng07" creationdate="20171224T084223Z">
@@ -5972,6 +5980,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132602Z" creationid="Franklin Weng" creationdate="20171225T132602Z">
         <seg>右邊的字型：ADF Gillus。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>5.4 測試起來好像已經不是這樣了。按右鍵沒有作用。（環境：GNOME+Wayland）</note>
+      <tuv lang="EN">
+        <seg>Right-clicking anywhere in a document when &lt;f0&gt;Fill Format Mode&lt;/f0&gt; is turned on stops it from being applied.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121258Z" creationid="zerng07" creationdate="20171226T121258Z">
+        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵可以阻止套用？？？</seg>
       </tuv>
     </tu>
     <tu>
