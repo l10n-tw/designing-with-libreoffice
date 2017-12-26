@@ -7954,6 +7954,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>When applying character styles, it is almost like painting with the cursor, as its icon in the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Styles and Formatting&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; window suggests.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T114803Z" creationid="zerng07" creationdate="20171226T114803Z">
+        <seg>當你想套用字元樣式時，這個選項用起來就像拿游標作畫一樣，如同&lt;/f2&gt;它在&lt;f3&gt;&lt;f4&gt;樣式和格式&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;視窗中的圖示（油漆桶）。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>6.0 請改為格式設定。</note>
       <tuv lang="EN">
         <seg>When closed, the list of paragraph styles on the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar always displays the current style.</seg>
