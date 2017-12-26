@@ -3612,6 +3612,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, two frames &lt;f1&gt;seldom&lt;/f1&gt; occur one after the other, so a &lt;f2&gt;Frame&lt;/f2&gt; style window omits the &lt;f3&gt;Next Style&lt;/f3&gt; category.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080524Z" creationid="zerng07" creationdate="20171226T080524Z">
+        <seg>舉例來說，&lt;f1&gt;極少&lt;/f1&gt;見需要兩個訊框同時接在一起的，所以&lt;f2&gt;訊框&lt;/f2&gt;樣式視窗就會省去&lt;f3&gt;下一個樣式&lt;/f3&gt;的類別。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, when you are designing, the &lt;f0&gt;Hierarchical&lt;/f0&gt; view helps you work with related styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T143731Z" creationid="zerng07" creationdate="20171224T142517Z">
@@ -6825,8 +6833,8 @@
       <tuv lang="EN">
         <seg>The fields in the &lt;f0&gt;Organizer&lt;/f0&gt; tab are grayed-out in types of styles where they would make no sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080131Z" creationid="zerng07" creationdate="20171226T080131Z">
-        <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中的一些欄位，如果做設定沒有意義的話會自動轉為灰色不能點選。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080145Z" creationid="zerng07" creationdate="20171226T080131Z">
+        <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中的一些欄位，如果你做設定沒有意義的話會自動轉為灰色不能點選。</seg>
       </tuv>
     </tu>
     <tu>
