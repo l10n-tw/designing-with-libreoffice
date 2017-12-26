@@ -5009,8 +5009,8 @@
       <tuv lang="EN">
         <seg>Keyboard shortcuts can save stress on your wrists and hands when you are typing for long periods, so you may want to record additional macros and assign them &lt;f0&gt;to &lt;/f0&gt;keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164313Z" creationid="zerng07" creationdate="20171226T164313Z">
-        <seg>善用鍵盤快捷鍵長期下來可以減緩你的手腕和關節壓力，所以你可以考慮紀錄一些額外巨集並指派其鍵盤快捷鍵。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T173441Z" creationid="zerng07" creationdate="20171226T164313Z">
+        <seg>善用鍵盤快捷鍵長期下來可以減緩你的手腕和關節壓力，所以你可以考慮錄製一些額外巨集並指派其鍵盤快捷鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7753,6 +7753,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091441Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
         <seg>要克服這些問題，請避免緊湊的分頁位置，讓頁面結尾留下一到兩行空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To record macros &lt;f0&gt;in LibreOffice&lt;/f0&gt;, you first need to select &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced &gt; Enable Macro Recording (Limited)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;The menu item&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Record Macro&lt;/f6&gt; is then listed under&lt;f7&gt; Tools &gt; Macro&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;s&lt;/f9&gt;&lt;/f8&gt; without any need to re-start LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T174200Z" creationid="zerng07" creationdate="20171226T174200Z">
+        <seg>若要在&lt;f0&gt;LibreOffice&lt;/f0&gt;中錄製巨集，你要先到「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 進階 &gt; 啟用巨集錄製功能（功能尚有限）&lt;/f1&gt;&lt;f2&gt;」。&lt;/f2&gt;接著「&lt;f7&gt;工具 &gt; 巨集&lt;/f7&gt;」下就會列出「&lt;f6&gt;記錄巨集&lt;/f6&gt;」&lt;f3&gt;選單項目&lt;/f3&gt;，整個過程不需要重新啟動LibreOffice。</seg>
       </tuv>
     </tu>
     <tu>
