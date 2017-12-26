@@ -4459,11 +4459,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>6.0 請改為「格式設定」</note>
       <tuv lang="EN">
         <seg>In LibreOffice releases before 4.4 and &lt;f0&gt;in &lt;/f0&gt;Apache OpenOffice, you can click the first icon on the left on the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar (the bot&lt;f2&gt;t&lt;/f2&gt;om default tool bar).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092245Z" creationid="zerng07" creationdate="20171224T092232Z">
-        <seg>在LibreOffice 4.4以前的發行版本，還有Apache OpenOffice中，你可以點按&lt;f1&gt;格式設定&lt;/f1&gt;工具列中（底部的預設工具列）最左方的第一個圖示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090636Z" creationid="zerng07" creationdate="20171224T092232Z">
+        <seg>在LibreOffice 4.4以前的發行版本，還有Apache OpenOffice中，你可以點按&lt;f1&gt;格式化&lt;/f1&gt;工具列中（底部的預設工具列）最左方的第一個圖示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7806,11 +7807,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>6.0 請改為格式設定。</note>
       <tuv lang="EN">
         <seg>When closed, the list of paragraph styles on the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar always displays the current style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081834Z" creationid="zerng07" creationdate="20171225T081834Z">
-        <seg>在&lt;f0&gt;格式設定&lt;/f0&gt;工具列中的段落樣式區塊，會一直顯示目前的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090655Z" creationid="zerng07" creationdate="20171225T081834Z">
+        <seg>在&lt;f0&gt;格式化&lt;/f0&gt;工具列中的段落樣式區塊，會一直顯示目前的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7955,6 +7957,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
         <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the&lt;f0&gt; Styles and Formatting&lt;/f0&gt; window open, you can apply a style with a single mouse-click – or maybe two as you select another style category to list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091225Z" creationid="zerng07" creationdate="20171226T091225Z">
+        <seg>打開「&lt;f0&gt;樣式和格式&lt;/f0&gt;」視窗，你可以對樣式點兩下滑鼠按鍵——或當你先選擇列出另一種樣式類別時，大概總共要點三下滑鼠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,8 +8244,8 @@
       <tuv lang="EN">
         <seg>You have several options for applying a style: the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Fill Format&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;mode, &lt;t5/&gt;pasting &lt;f6&gt;from your system’s clipboard, and applying keyboard shortcuts.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090525Z" creationid="zerng07" creationdate="20171226T090525Z">
-        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式設定&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、或&lt;f6&gt;從系統中的剪貼簿中貼上並套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090615Z" creationid="zerng07" creationdate="20171226T090525Z">
+        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式化&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、或&lt;f6&gt;從系統中的剪貼簿中貼上並套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
