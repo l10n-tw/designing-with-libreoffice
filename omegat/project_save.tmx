@@ -5638,11 +5638,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>不清楚這是怎麼發生的。</note>
       <tuv lang="EN">
         <seg>Otherwise, you risk being entangled in the menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104448Z" creationid="zerng07" creationdate="20171226T103410Z">
-        <seg>否則有可能會有打亂選單的風險。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104814Z" creationid="zerng07" creationdate="20171226T103410Z">
+        <seg>不然你有機會陷入選單之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7136,6 +7137,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>6.0 要改成「格式設定」。</note>
+      <tuv lang="EN">
+        <seg>The styles list in the &lt;f0&gt;Formatting&lt;/f0&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104641Z" creationid="zerng07" creationdate="20171226T104641Z">
+        <seg>&lt;f0&gt;格式化&lt;/f0&gt;工具列中的樣式清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The thicker variations are usually intended for use at large font sizes in media like posters.</seg>
       </tuv>
@@ -7875,8 +7885,8 @@
       <tuv lang="EN">
         <seg>When applying a style, always click on the left of a list item.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T102904Z" creationid="zerng07" creationdate="20171226T102904Z">
-        <seg>對清單項目套用樣式時，記得要點按清單項目的左側。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104732Z" creationid="zerng07" creationdate="20171226T102904Z">
+        <seg>對清單項目套用樣式時，記得要點清單項目的左側。</seg>
       </tuv>
     </tu>
     <tu>
