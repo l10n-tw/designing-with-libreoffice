@@ -7221,8 +7221,8 @@
       <tuv lang="EN">
         <seg>The rules for copying and pasting styles are simple regardless of whether you use &lt;f0&gt;Paste&lt;/f0&gt; or &lt;f1&gt;Paste Special&lt;/f1&gt;, or are copying from one document to another:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121500Z" creationid="zerng07" creationdate="20171226T121500Z">
-        <seg>無論你是用「&lt;f0&gt;貼上&lt;/f0&gt;」或「&lt;f1&gt;選擇性貼上&lt;/f1&gt;」，或是從一份文件複製內容貼到另一份文件上，, or are copying from one document to another:</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121527Z" creationid="zerng07" creationdate="20171226T121500Z">
+        <seg>無論你是用「&lt;f0&gt;貼上&lt;/f0&gt;」或「&lt;f1&gt;選擇性貼上&lt;/f1&gt;」，或是從一份文件複製內容貼到另一份文件上，複製樣式並貼上的規則都很簡單：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8016,6 +8016,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115123Z" creationid="zerng07" creationdate="20171226T115105Z">
         <seg>當&lt;f0&gt;填充模式&lt;/f0&gt;可以使用時，游標會變成傾倒油漆桶的樣貌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;source&lt;/f0&gt; material &lt;f1&gt;formatted in &lt;/f1&gt;a style with the same name as a style in the target &lt;f2&gt;is copied into a&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;paragraph,&lt;/f4&gt; then the target’s style is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121908Z" creationid="zerng07" creationdate="20171226T121908Z">
+        <seg>如果複製的&lt;f0&gt;來源&lt;/f0&gt;內容&lt;f1&gt;是以&lt;/f1&gt;目標文件中相同名稱的樣式作格式設定的話，&lt;f2&gt;當它複製到目標文件的&lt;/f2&gt;&lt;f4&gt;段落&lt;/f4&gt;時，這段複製內容則會使用目標文件中的樣式。</seg>
       </tuv>
     </tu>
     <tu>
