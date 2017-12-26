@@ -1178,6 +1178,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Similarly, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Update to Match Selection&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; edits the style based on the formatting of the text you select before opening the drop-down list.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110132Z" creationid="zerng07" creationdate="20171226T110132Z">
+        <seg>&lt;f0&gt;相似的，&lt;/f0&gt;點按樣式下拉選單中前一個「&lt;f1&gt;&lt;f2&gt;更新以符合選取內容&lt;/f2&gt;&lt;/f1&gt;」，&lt;f3&gt; 則會根據目前你選取的文字之格式設定修改這個樣式。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes&lt;/f0&gt;, however, you may want to deal with templates &lt;f1&gt;from outside LibreOffice&lt;/f1&gt;, either because LibreOffice is not open or because you are dealing with &lt;f2&gt;more than one template at a time&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133349Z" creationid="Franklin Weng" creationdate="20171223T133349Z">
