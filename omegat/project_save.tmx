@@ -1636,6 +1636,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In addition, the same list style can&lt;/f1&gt; be assigned to a paragraph style so that it is used whenever you choose the paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162053Z" creationid="zerng07" creationdate="20171227T162053Z">
+        <seg>&lt;f1&gt;此外，同樣是這個清單樣式&lt;/f1&gt;，也可以在你選擇段落樣式時指派給段落樣式， be assigned to a paragraph style so that it is used whenever you choose the paragraph style.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In particular, the Draw and Impress version has &lt;/f1&gt;&lt;f2&gt;Connectors&lt;/f2&gt; and &lt;f3&gt;Arrow&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075504Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
@@ -3883,6 +3891,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090640Z" creationid="Jeff Huang" creationdate="20171212T035607Z">
         <seg>舉例來說，&lt;f1&gt;頁碼部分若能放到頁面的外邊距會讓使用者更容易翻查。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a list style can have a character style associated with it so that you can have colored bullets or numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161926Z" creationid="zerng07" creationdate="20171227T161926Z">
+        <seg>舉例，一個清單樣式可能有個和它相關聯的字元樣式，讓它具備彩色的項目符號或編號。</seg>
       </tuv>
     </tu>
     <tu>
