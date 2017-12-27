@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A recent design, Raleway hints at a serif for the lower case “a,” but its general tendency is sans serif.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100354Z" creationid="Franklin Weng" creationdate="20171225T100354Z">
-        <seg>在近期的設計中，Raleway 在小寫“a”的尾端還是有加一點襯線，但整體而言這個字型偏向 Sans serif 字族。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145307Z" creationid="Franklin Weng" creationdate="20171225T100354Z">
+        <seg>&lt;f0&gt;在近期的設計中，Raleway 在小寫“a”的尾端還是有加一點襯線，但整體而言這個字型偏向 Sans serif 字族。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,8 +810,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hundreds of dingbat fonts are available, from practical ones useful in charts and diagrams to fun ones with dinosaurs and medieval figures.&lt;/f0&gt; &lt;f1&gt;Their advantage over clip art is that they are scalable; their disadvantage is that they only display in one color.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125405Z" creationid="Franklin Weng" creationdate="20171225T125405Z">
-        <seg>Dingbat 有上百種字型，從實用型的，用於圖表中的，到逗趣型的用恐龍還有中世紀造型的都有。相對於藝術字體，它的優點是可以縮放大小；但缺點是只用一種顏色來顯示。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145408Z" creationid="Franklin Weng" creationdate="20171225T125405Z">
+        <seg>&lt;f0&gt;Dingbat 有上百種字型，從實用型的，用於圖表中的，到逗趣型的用恐龍還有中世紀造型的都有。&lt;/f0&gt;&lt;f1&gt;相對於藝術字體，它的優點是可以縮放大小；但缺點是只用一種顏色來顯示。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1364,8 +1364,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This font is included in most Linux distributions.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100855Z" creationid="Franklin Weng" creationdate="20171225T100855Z">
-        <seg>這個字型在大部份的 Linux 發行版中都有包含。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145345Z" creationid="Franklin Weng" creationdate="20171225T100855Z">
+        <seg>&lt;f0&gt;這個字型在大部份的 Linux 發行版中都有包含。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,8 +1878,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;It may also&lt;/f2&gt; called Regular, Book, or Medium, &lt;f3&gt;although these are not always exact synonyms in individual font families.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133135Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
-        <seg>它有時也被稱為「標準」（Regular 或 Book），或是「中等」（Medium），雖然這些詞在個別的字族中都不完全同義。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145515Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
+        <seg>它有時也被稱為「標準」（Regular 或 Book），或是「中等」（Medium），&lt;f3&gt;雖然這些詞在個別的字族中都不完全同義。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,8 +1918,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;T&lt;/f2&gt;hey are &lt;f3&gt;informally&lt;/f3&gt; ca&lt;f4&gt;ll&lt;/f4&gt;ed Sans.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100236Z" creationid="Franklin Weng" creationdate="20171225T100236Z">
-        <seg>&lt;f2&gt;這個字族（非正式）簡稱為 Sans。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145302Z" creationid="Franklin Weng" creationdate="20171225T100236Z">
+        <seg>這個字族（非正式）簡稱為 Sans。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,8 +4890,8 @@
       <tuv lang="EN">
         <seg>In character and paragraph styles, LibreOffice refers to &lt;f1&gt;a &lt;/f1&gt;weight as a &lt;f2&gt;font&lt;/f2&gt; style &lt;f3&gt;or typeface&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T131541Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
-        <seg>在字元與段落的樣式中，LibreOffice 將權重稱為字型的樣式或字樣。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145444Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
+        <seg>在字元與段落的樣式中，LibreOffice 將權重稱為&lt;f2&gt;字型的樣式&lt;/f2&gt;或&lt;f3&gt;字樣。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5154,8 +5154,8 @@
       <tuv lang="EN">
         <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133157Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
-        <seg>斜體（Italic）：一種草寫字體，往右邊傾斜。主要用於突顯重點，或是用於書的標題。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145541Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>斜體（Italic）：一種草寫字體，往右邊傾斜。主要用於突顯重點，或是用於&lt;f0&gt;書的標題&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,16 +5538,16 @@
       <tuv lang="EN">
         <seg>Monospace fonts can be either serif or sans serif, but the sans serif monospace &lt;f0&gt;fonts&lt;/f0&gt; usually &lt;f1&gt;look more contemporary&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100729Z" creationid="Franklin Weng" creationdate="20171225T100729Z">
-        <seg>Monospace 字型可以有襯線（Serif 字族）也可以無襯線（Sans serif 字族），但無襯線的 monospace 字體看起來比較具現代感。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145336Z" creationid="Franklin Weng" creationdate="20171225T100729Z">
+        <seg>Monospace 字型可以有襯線（Serif 字族）也可以無襯線（Sans serif 字族），但無襯線的 monospace 字體&lt;f1&gt;看起來比較具現代感。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Monospace: Fonts in which every letter occupies exactly the same amount of &lt;f0&gt;horizontal &lt;/f0&gt;space.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100441Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
-        <seg>Monospace：這個字型的每個字母所佔用的水平長度都完全相同。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145315Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
+        <seg>Monospace：這個字型的每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;長度都完全相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6365,8 +6365,8 @@
       <tuv lang="EN">
         <seg>Roman: &lt;f0&gt;T&lt;/f0&gt;his is the font style most often used for &lt;f1&gt;body text&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133123Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
-        <seg>羅馬字型（Roman）：這是最常被用於文章本體的字型樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145503Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
+        <seg>羅馬字型（Roman）：這是最常被用於&lt;f1&gt;文章本體&lt;/f1&gt;的字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6727,8 +6727,8 @@
       <tuv lang="EN">
         <seg>Sometimes a Narrow or Condensed version is available, in which the characters take up less &lt;f0&gt;width&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133148Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
-        <seg>有的時候字族中會有「窄版」（Narrow）或「緊實」（Condensed）的樣式，表示每個字元的寬度較窄。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145529Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
+        <seg>有的時候字族中會有「窄版」（Narrow）或「緊實」（Condensed）的樣式，表示每個字元的&lt;f0&gt;寬度較窄&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7495,8 +7495,8 @@
       <tuv lang="EN">
         <seg>The most common &lt;f0&gt;styles&lt;/f0&gt; are:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T130126Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
-        <seg>最常用的樣式有：</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145450Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
+        <seg>最常用的&lt;f0&gt;樣式&lt;/f0&gt;有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8505,8 +8505,8 @@
       <tuv lang="EN">
         <seg>When the New Typography of the &lt;f0&gt;early twentieth century&lt;/f0&gt; favored them as part of the general simplification &lt;f1&gt;of design&lt;/f1&gt;, sans serif fonts gained a reputation for modernity that they still keep today.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100217Z" creationid="Franklin Weng" creationdate="20171225T100217Z">
-        <seg>在二十世紀初期，新的文字排印學喜歡用這種字族做為通用簡約設計的其中一個元素，Sans serif 字型也獲得了具有現代感的評價，直到今日還是如此。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145253Z" creationid="Franklin Weng" creationdate="20171225T100217Z">
+        <seg>&lt;f0&gt;在二十世紀初期&lt;/f0&gt;，新的文字排印學喜歡用這種字族做為&lt;f1&gt;通用簡約設計&lt;/f1&gt;的其中一個元素，Sans serif 字型也獲得了具有現代感的評價，直到今日還是如此。</seg>
       </tuv>
     </tu>
     <tu>
