@@ -304,8 +304,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092752Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
-        <seg>Serif 其中一個子類別叫 slab serif，用了非常大量的襯線，適合放在海報與線上網頁等處。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145206Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
+        <seg>Serif 其中一個子類別叫 slab serif，&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1034,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, each font has three basic characteristics: its family, its style or typeface (depending on the version and &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;platform), and size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082328Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
-        <seg>&lt;f0&gt;在「字型」分頁中，每個字型都有三種基本特徵：字族、樣式或字樣（根據平台與版本而定），還有大小。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145100Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
+        <seg>&lt;f2&gt;在「字型」&lt;/f2&gt;&lt;f3&gt;分頁中，每個字型都有三種基本特徵：字族、樣式或字樣&lt;/f3&gt;（根據平台與版本而定），還有大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1332,8 +1332,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt; first step in design is to choose the fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T081954Z" creationid="Franklin Weng" creationdate="20171224T081954Z">
-        <seg>&lt;f0&gt;設計的第一步就是選擇字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144947Z" creationid="Franklin Weng" creationdate="20171224T081954Z">
+        <seg>&lt;f0&gt;設計的第一步&lt;/f0&gt;就是選擇字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1734,8 +1734,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The six main font families are:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092351Z" creationid="Franklin Weng" creationdate="20171225T092351Z">
-        <seg>六個主要的字族為：</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145147Z" creationid="Franklin Weng" creationdate="20171225T092351Z">
+        <seg>&lt;f1&gt;六個主要的字族為：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,8 +1942,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092901Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
-        <seg>Slab serif 中的襯線比其他襯線字型都要來得厚。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145233Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
+        <seg>&lt;f2&gt;Slab serif 中的襯線比其他襯線字型都要來得厚。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3833,8 +3833,8 @@
       <tuv lang="EN">
         <seg>Fonts can be further modified by features on the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Font Effects&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082405Z" creationid="Franklin Weng" creationdate="20171224T082405Z">
-        <seg>進一步我們還可以透過「字型效果」分頁來改變字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145116Z" creationid="Franklin Weng" creationdate="20171224T082405Z">
+        <seg>進一步我們還可以透過&lt;f7&gt;「字型效果」&lt;/f7&gt;分頁來改變字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,8 +6043,8 @@
       <tuv lang="EN">
         <seg>Otherwise, you can install fonts only for LibreOffice by placing their files in the /share/fonts folder in the system path listed at &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Options &gt; Path&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and restarting LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144931Z" creationid="Franklin Weng" creationdate="20171224T081917Z">
-        <seg>不然，你也可以把字型檔放在&lt;f3&gt;「工具 &gt; 選項 &gt; 路徑」&lt;/f3&gt;中的系統路徑底下的 /share/fonts&lt;/f1&gt;，然後再重新啟動 LibreOffice。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144940Z" creationid="Franklin Weng" creationdate="20171224T081917Z">
+        <seg>不然，你也可以把字型檔放在&lt;f3&gt;「工具 &gt; 選項 &gt; 路徑」&lt;/f3&gt;中的系統路徑底下的 /share/fonts&lt;/f1&gt;，然後再&lt;f4&gt;重新啟動 LibreOffice。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6357,8 +6357,8 @@
       <tuv lang="EN">
         <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092831Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
-        <seg>右：Slab serif 字型（Chunk）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145226Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
+        <seg>右：&lt;f0&gt;Slab serif 字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6462,8 +6462,8 @@
       <tuv lang="EN">
         <seg>See “&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;Font effects&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;,” page &lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;13&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082445Z" creationid="Franklin Weng" creationdate="20171224T082445Z">
-        <seg>請參考「字型效果」，第？？頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145138Z" creationid="Franklin Weng" creationdate="20171224T082445Z">
+        <seg>請參考&lt;bf10&gt;「字型效果」&lt;/bf10&gt;，第？？頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7063,8 +7063,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Font&lt;/f0&gt; tab for character and paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082104Z" creationid="Franklin Weng" creationdate="20171224T082104Z">
-        <seg>字元與段落樣式中的「字型」分頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145001Z" creationid="Franklin Weng" creationdate="20171224T082104Z">
+        <seg>字元與段落樣式中的&lt;f0&gt;「字型」&lt;/f0&gt;分頁。</seg>
       </tuv>
     </tu>
     <tu>
