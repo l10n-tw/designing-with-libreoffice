@@ -1638,8 +1638,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;In addition, the same list style can&lt;/f1&gt; be assigned to a paragraph style so that it is used whenever you choose the paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162425Z" creationid="zerng07" creationdate="20171227T162053Z">
-        <seg>&lt;f1&gt;此外，同樣這個清單樣式&lt;/f1&gt;，也可以在你選擇段落樣式時，將之指派成段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162916Z" creationid="zerng07" creationdate="20171227T162053Z">
+        <seg>&lt;f1&gt;此外，同樣這個清單樣式外觀&lt;/f1&gt;，你也可以在選擇段落樣式時，將之指派為段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,6 +6681,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082025Z" creationid="zerng07" creationdate="20171225T082016Z">
         <seg>此外，編輯視窗中最底部的橫列中，由左至右算起來第三個欄位會顯示目前的頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since each is in a &lt;f2&gt;different&lt;/f2&gt; category, &lt;f3&gt;neither you nor LibreOffice should confuse them.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162832Z" creationid="zerng07" creationdate="20171227T162832Z">
+        <seg>因為樣式放在&lt;f2&gt;不同的&lt;/f2&gt;類別中，&lt;f3&gt;無論是你或LibreOffice都不會因此搞混。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
