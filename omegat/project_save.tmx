@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Below: Lining figures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135252Z" creationid="Franklin Weng" creationdate="20171225T135252Z">
-        <seg>下方：齊線數字。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145848Z" creationid="Franklin Weng" creationdate="20171225T135252Z">
+        <seg>&lt;f0&gt;下方：齊線數字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2712,8 +2712,8 @@
       <tuv lang="EN">
         <seg>Avoid using old style figures in spreadsheets &lt;f0&gt;or in diagrams in which you want to align numbers.&lt;/f0&gt; &lt;f1&gt;T&lt;/f1&gt;heir lack of a common baseline is distracting in long columns &lt;f2&gt;or tables &lt;/f2&gt;of numbers, &lt;f3&gt;and they are difficult to position manually.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135658Z" creationid="Franklin Weng" creationdate="20171225T135658Z">
-        <seg>避免在試算表，或是圖表中使用舊式數字，因為你可能會需要對齊數字。舊式數字沒有基線，在長的數字欄位或表格中容易讓人看了分心，而且也很難手動對齊。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145928Z" creationid="Franklin Weng" creationdate="20171225T135658Z">
+        <seg>&lt;f0&gt;避免在試算表，或是圖表中使用舊式數字，因為你可能會需要對齊數字。&lt;/f0&gt;舊式數字沒有基線，在長的數字欄位或表格中容易讓人看了分心，而且&lt;f3&gt;也很難手動對齊。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,8 +3809,8 @@
       <tuv lang="EN">
         <seg>Font: Liberation Sans.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135304Z" creationid="Franklin Weng" creationdate="20171225T135304Z">
-        <seg>字型：Liberation Sans。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145850Z" creationid="Franklin Weng" creationdate="20171225T135304Z">
+        <seg>字型：Liberation Sans。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
