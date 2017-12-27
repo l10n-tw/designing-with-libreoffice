@@ -29,10 +29,10 @@
 第一章、第十六章、附錄A、附錄C
 
 翻譯中的有：
-第二章 (Cheng-Chia Tseng)、第四章（Franklin Weng）、第六章（Mark Hung）、第十四章 (Jeff Huang)
+第四章（Franklin Weng）、第五章 (Cheng-Chia Tseng)、第六章（Mark Hung）、第十四章 (Jeff Huang)
 
 校對中的有：
-第三章
+第二章、第三章
 
 未處理的有：
 附錄B、第五章、第七章至第十三章、第十五章
