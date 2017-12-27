@@ -2165,6 +2165,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;Title&lt;/f0&gt; paragraph style is usually followed by a &lt;f1&gt;Subtitle, &lt;/f1&gt;and a &lt;f2&gt;Text Body&lt;/f2&gt; paragraph style by another &lt;f3&gt;Text Body.&lt;/f3&gt; A &lt;f4&gt;First Page&lt;/f4&gt; style is usually followed by a &lt;f5&gt;Left Page, &lt;/f5&gt;which is followed by a &lt;f6&gt;Right Page&lt;/f6&gt;&lt;f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163403Z" creationid="zerng07" creationdate="20171227T163403Z">
+        <seg>「&lt;f0&gt;題名&lt;/f0&gt;」樣式後面常接「&lt;f1&gt;副題&lt;/f1&gt;」樣式，還有「&lt;f2&gt;內文&lt;/f2&gt;」段落樣式後方又常接另一段「&lt;f3&gt;內文&lt;/f3&gt;」。而「&lt;f4&gt;第一頁&lt;/f4&gt;」樣式後面一般接「&lt;f5&gt;左頁」，&lt;/f5&gt;接著是「&lt;f6&gt;右頁&lt;/f6&gt;」&lt;f7&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;basic business card template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123642Z" creationid="Franklin Weng" creationdate="20171223T123642Z">
@@ -5020,6 +5028,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133215Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
         <seg>在現代的字型中，斜體（Italic）有時會被另一種斜體（Oblique）取代，後者就類似往右斜的 Roman。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most documents, some styles follow one another in a set pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163033Z" creationid="zerng07" creationdate="20171227T163033Z">
+        <seg>在大多數的文件中，有些樣式以固定形式跟在另一個樣式之後。</seg>
       </tuv>
     </tu>
     <tu>
