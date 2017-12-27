@@ -1934,8 +1934,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The default style replaces a deleted one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032704Z" creationid="zerng07" creationdate="20171227T032704Z">
-        <seg>&lt;f2&gt;樣式刪除後這些內容會改為預設樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032852Z" creationid="zerng07" creationdate="20171227T032704Z">
+        <seg>&lt;f2&gt;樣式刪除後這些內容會改成預設樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2682,6 +2682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084245Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
         <seg>這時候你應該看不到多少問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automating style application</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T033125Z" creationid="zerng07" creationdate="20171227T033125Z">
+        <seg>自動樣式套用</seg>
       </tuv>
     </tu>
     <tu>
@@ -4972,6 +4980,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083051Z" creationid="Jeff Huang" creationdate="20171214T060115Z">
         <seg>在最近的LibreOffice發行版本中，主控文件有這些問題：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the next chapter, you’ll see how templates can help you recycle document designs to save you even more time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T033059Z" creationid="zerng07" creationdate="20171227T033018Z">
+        <seg>在下一章，你會看見範本怎樣協助你重複利用文件設計，如此可節省更多時間。</seg>
       </tuv>
     </tu>
     <tu>
