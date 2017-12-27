@@ -1638,8 +1638,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;In addition, the same list style can&lt;/f1&gt; be assigned to a paragraph style so that it is used whenever you choose the paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162243Z" creationid="zerng07" creationdate="20171227T162053Z">
-        <seg>&lt;f1&gt;此外，同樣這個清單樣式&lt;/f1&gt;，也可以在你選擇段落樣式之時，指派成段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162425Z" creationid="zerng07" creationdate="20171227T162053Z">
+        <seg>&lt;f1&gt;此外，同樣這個清單樣式&lt;/f1&gt;，也可以在你選擇段落樣式時，將之指派成段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,8 +4890,8 @@
       <tuv lang="EN">
         <seg>In Writer, you sometimes find that you use different categories of styles in &lt;f0&gt;the same design&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162258Z" creationid="zerng07" creationdate="20171227T161833Z">
-        <seg>在Writer中，你有時候會發現明明是&lt;f0&gt;相同的設計&lt;/f0&gt;，用的卻是不同的樣式類別。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162628Z" creationid="zerng07" creationdate="20171227T161833Z">
+        <seg>在Writer中，你有時候會發現你在不同的樣式類別中使用&lt;f0&gt;相同的設計&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8106,6 +8106,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174010Z" creationid="zerng07" creationdate="20170930T173021Z">
         <seg>如果想要更體會手動格式設定和用樣式作格式設定之間的差異，請想像一下你現在正準備繳交一份長達20頁的大學課堂小論文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To help you find each of these styles later, give them the same name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162549Z" creationid="zerng07" creationdate="20171227T162549Z">
+        <seg>為了協助你稍後找出這些樣式，請將它們設為相同名稱。</seg>
       </tuv>
     </tu>
     <tu>
