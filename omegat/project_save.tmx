@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A custom style that is no longer needed can be deleted using the &lt;/f0&gt;right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032215Z" creationid="zerng07" creationdate="20171227T032215Z">
+        <seg>&lt;f0&gt;不再需要的自訂樣式也可以用右鍵選單刪除。A custom style that is no longer needed can be deleted using the &lt;/f0&gt;right-click menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
@@ -4643,6 +4651,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183607Z" creationid="zerng07" creationdate="20170817T173556Z">
         <seg>如果你所需要的相關功能資訊或選項在本書中沒有提及，請參見LibreOffice文件網頁：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to use the style again, you can restore it from the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hidden Styles&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; view.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032059Z" creationid="zerng07" creationdate="20171227T031951Z">
+        <seg>如果你需要再次使用樣式，你可以從&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;隱藏樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;檢視畫面中還原顯示。</seg>
       </tuv>
     </tu>
     <tu>
