@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;E&lt;/f0&gt;specially in Writer, styles are named for their function&lt;f1&gt;s&lt;/f1&gt;, followed by their position in the file hierarchy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T160739Z" creationid="zerng07" creationdate="20171227T160739Z">
+        <seg>特別是Writer中，樣式先依照功能命名，名稱後面再接它們位於檔案階層中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; saves copying and pasting shapes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T073758Z" creationid="Jeff Huang" creationdate="20171221T073758Z">
@@ -3939,6 +3947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171555Z" creationid="zerng07" creationdate="20171225T153844Z">
         <seg>舉例，通常「&lt;f2&gt;標題 1&lt;/f2&gt;」樣式之後接的是「&lt;f3&gt;內文&lt;/f3&gt;」。 因為標題幾乎不會後面又&lt;f4&gt;馬上&lt;/f4&gt;接另一個標題，所以這個設計滿合理的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, &lt;f2&gt;User &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;Index1&lt;/f4&gt; is the paragraph style for the first level of text in an index.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T160855Z" creationid="zerng07" creationdate="20171227T160855Z">
+        <seg>舉例而言，&lt;f2&gt;自訂 &lt;/f2&gt;&lt;f4&gt;索引1&lt;/f4&gt;是索引中的第一層文字段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
