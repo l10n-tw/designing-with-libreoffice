@@ -1806,8 +1806,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;If you forget to &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;rename, you can find the new style at the bottom of the list of styles, named something like &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Untitled1&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023729Z" creationid="zerng07" creationdate="20171227T023729Z">
-        <seg>&lt;f2&gt;如果你忘記&lt;/f2&gt;&lt;f4&gt;命名，你會在樣式清單約莫中間的位置找到它，名稱會是&lt;/f4&gt;「&lt;f5&gt;&lt;f6&gt;無題1&lt;/f6&gt;&lt;/f5&gt;」之類。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023805Z" creationid="zerng07" creationdate="20171227T023729Z">
+        <seg>&lt;f2&gt;如果你忘記&lt;/f2&gt;&lt;f4&gt;命名，你會在樣式清單約莫中間的位置找到它，名稱看起來會是&lt;/f4&gt;「&lt;f5&gt;&lt;f6&gt;無題1&lt;/f6&gt;&lt;/f5&gt;」之類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5275,6 +5275,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031825Z" creationid="zerng07" creationdate="20171219T031825Z">
         <seg>手動格式設定可以隨時隨處修改，所以比較好用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually format and select part of the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T024115Z" creationid="zerng07" creationdate="20171227T024115Z">
+        <seg>手動修改文件部分內容的格式並選取它。</seg>
       </tuv>
     </tu>
     <tu>
