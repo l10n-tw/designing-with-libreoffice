@@ -3189,6 +3189,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating and modifying styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T022538Z" creationid="zerng07" creationdate="20171227T022538Z">
+        <seg>製作和修改樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating templates with wizards</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125230Z" creationid="Franklin Weng" creationdate="20171215T125230Z">
@@ -5103,6 +5111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice has styles for &lt;f0&gt;most ordinary purposes,&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;so &lt;f2&gt;one&lt;/f2&gt; way to save time is to use only pre-defined styles, changing no more &lt;f3&gt;attributes &lt;/f3&gt;than necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T022801Z" creationid="zerng07" creationdate="20171227T022801Z">
+        <seg>LibreOffice提供&lt;f0&gt;常見用途&lt;/f0&gt;的樣式，所以其中一種節省時間的方式就是只用預先定義樣式，並僅在需要改動時修改樣式&lt;f3&gt;特性&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice has versions for Linux, OS X, and Windows.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092542Z" creationid="zerng07" creationdate="20170817T092542Z">
@@ -5587,6 +5603,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141830Z" creationid="zerng07" creationdate="20171224T141830Z">
         <seg>在樣式和格式視窗的左上角有各種類型樣式的圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the whole, the styles have intelligent defaults, and you &lt;f4&gt;usually &lt;/f4&gt;only have to &lt;f5&gt;make a few changes&lt;/f5&gt; while designing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T022928Z" creationid="zerng07" creationdate="20171227T022928Z">
+        <seg>整體來說，這些樣式採取一些不錯的設定值，&lt;f4&gt;一般&lt;/f4&gt;你在設計時只需要&lt;f5&gt;做一點修改&lt;/f5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
