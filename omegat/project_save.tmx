@@ -4183,6 +4183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you make enough changes quickly enough, it may fail to keep up, &lt;f0&gt;especially on machines with minimal memory&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031158Z" creationid="zerng07" creationdate="20171227T031158Z">
+        <seg>不過，如果在極短時間內作出大量變動的話，它還是有可能跟不上，&lt;f0&gt;尤其是在記憶體極小的機器上&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you switch to the list styles, nothing will be highlighted unless the cursor is at a position where a list style is being used.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142600Z" creationid="zerng07" creationdate="20171225T074809Z">
@@ -4355,6 +4363,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140430Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
         <seg>必要的話，你可以把現有的範本蓋掉。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If problems &lt;f0&gt;continue&lt;/f0&gt;, try selecting &lt;f1&gt;Update Style&lt;/f1&gt; from the drop-down list on the right &lt;f2&gt;of the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Styles and Formatting &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;window &lt;/f5&gt;after working on each style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031437Z" creationid="zerng07" creationdate="20171227T031437Z">
+        <seg>如果問題&lt;f0&gt;持續&lt;/f0&gt;存在，你可以試著在每次修改完樣式之後，從「&lt;f3&gt;&lt;f4&gt;樣式和格式 &lt;/f4&gt;&lt;/f3&gt;」視窗右上角的下拉選單中選取「&lt;f1&gt;更新樣式&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5258,8 +5274,8 @@
       <tuv lang="EN">
         <seg>LibreOffice usually updates its styles in a matter of seconds.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031040Z" creationid="zerng07" creationdate="20171227T031040Z">
-        <seg>LibreOffice通常能在幾秒內更新其樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031049Z" creationid="zerng07" creationdate="20171227T031040Z">
+        <seg>LibreOffice通常能在幾秒內更新樣式。</seg>
       </tuv>
     </tu>
     <tu>
