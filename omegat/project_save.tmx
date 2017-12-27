@@ -1176,6 +1176,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select a passage and drag it to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles and Formatting&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; window when it displays paragraph or character styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025437Z" creationid="zerng07" creationdate="20171227T025437Z">
+        <seg>當&lt;f1&gt;&lt;f2&gt;樣式和格式&lt;/f2&gt;&lt;/f1&gt;視窗顯示為段落樣式或字元樣式時，&lt;f0&gt;可以選取一段內容並將它拖曳到&lt;/f0&gt;&lt;f3&gt;視窗中。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4 的側邊欄用語是「樣式和格式」。6.0 起拆分「樣式」和「格式」，Styles and Formatting 詞語就此消滅。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button on the &lt;f2&gt;sidebar.&lt;/f2&gt;</seg>
