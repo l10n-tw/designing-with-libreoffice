@@ -725,6 +725,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hiding and d&lt;/f0&gt;eleting &lt;f1&gt;s&lt;/f1&gt;tyles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031541Z" creationid="zerng07" creationdate="20171227T031541Z">
+        <seg>&lt;f0&gt;隱藏樣式和&lt;/f0&gt;刪除</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>最後要更新頁數。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
@@ -1678,8 +1686,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031004Z" creationid="zerng07" creationdate="20171227T030937Z">
-        <seg>&lt;f1&gt;請見「&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;」這一頁 &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;」&lt;f7&gt;。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031700Z" creationid="zerng07" creationdate="20171227T030937Z">
+        <seg>&lt;f1&gt;請見「&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;」這一頁 &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4031,6 +4039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hiding styles reduces the clutter in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031824Z" creationid="zerng07" creationdate="20171227T031824Z">
+        <seg>隱藏樣式可以讓&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗減少雜亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight the text of the header.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111222Z" creationid="zerng07" creationdate="20171219T111222Z">
@@ -4185,8 +4201,8 @@
       <tuv lang="EN">
         <seg>However, if you make enough changes quickly enough, it may fail to keep up, &lt;f0&gt;especially on machines with minimal memory&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031158Z" creationid="zerng07" creationdate="20171227T031158Z">
-        <seg>不過，如果在極短時間內作出大量變動的話，它還是有可能跟不上，&lt;f0&gt;尤其是在記憶體極小的機器上&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031705Z" creationid="zerng07" creationdate="20171227T031158Z">
+        <seg>不過，如果在極短時間內作出大量變動的話，它還是有可能跟不上，&lt;f0&gt;尤其是記憶體極小的機器&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4491,6 +4507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074308Z" creationid="zerng07" creationdate="20171225T073847Z">
         <seg>如果你在&lt;f1&gt;樣式和格式&lt;/f1&gt;視窗中更改了樣式類型，則反白標明的樣式一般也會跟著改變。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you continue to have problems, closing and reopening the document should solve it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031511Z" creationid="zerng07" creationdate="20171227T031511Z">
+        <seg>如果還是有這個問題，關閉文件並重新開啟應該可以解決。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,6 +7946,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174010Z" creationid="zerng07" creationdate="20170930T173021Z">
         <seg>如果想要更體會手動格式設定和用樣式作格式設定之間的差異，請想像一下你現在正準備繳交一份長達20頁的大學課堂小論文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To hide a style, select &lt;f1&gt;&lt;f2&gt;Hide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu, one style at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031942Z" creationid="zerng07" creationdate="20171227T031942Z">
+        <seg>如果要隱藏樣式，可從樣式的右鍵選單中選取「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，一次僅能隱藏一個樣式。</seg>
       </tuv>
     </tu>
     <tu>
