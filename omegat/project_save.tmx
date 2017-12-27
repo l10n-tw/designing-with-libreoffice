@@ -1676,6 +1676,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031004Z" creationid="zerng07" creationdate="20171227T030937Z">
+        <seg>&lt;f1&gt;請見「&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;」這一頁 &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;」&lt;f7&gt;。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Since the whole point of using templates is to make uniform design easier, the best practices are usually:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120536Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
@@ -5248,6 +5256,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice usually updates its styles in a matter of seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031040Z" creationid="zerng07" creationdate="20171227T031040Z">
+        <seg>LibreOffice通常能在幾秒內更新其樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice’s letter template wizard.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125924Z" creationid="Franklin Weng" creationdate="20171215T125924Z">
@@ -8596,6 +8612,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120317Z" creationid="Franklin Weng" creationdate="20171212T120317Z">
         <seg>你&lt;f1&gt;可能&lt;/f1&gt;要重新啟動 LibreOffice &lt;f2&gt;來讓變更生效。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You also have the option of copying styles from &lt;f0&gt;a&lt;/f0&gt; template into the current document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030909Z" creationid="zerng07" creationdate="20171227T030909Z">
+        <seg>你也可以從範本裡把樣式複製到目前的文件中使用。</seg>
       </tuv>
     </tu>
     <tu>
