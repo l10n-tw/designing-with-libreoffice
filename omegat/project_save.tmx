@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A custom style that is no longer needed can be deleted using the &lt;/f0&gt;right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032231Z" creationid="zerng07" creationdate="20171227T032215Z">
-        <seg>&lt;f0&gt;不再需要的自訂樣式也可以用右鍵選單「刪除」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032808Z" creationid="zerng07" creationdate="20171227T032215Z">
+        <seg>&lt;f0&gt;不再需要的自訂樣式也可以用&lt;/f0&gt;右鍵選單「刪除」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,6 +1928,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113912Z" creationid="zerng07" creationdate="20171219T113834Z">
         <seg>&lt;f2&gt;這代表如果文件要用到兩種以上的標題樣貌，使用樣式就能大幅省下你所花費的功夫。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;The default style replaces a deleted one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032704Z" creationid="zerng07" creationdate="20171227T032704Z">
+        <seg>&lt;f2&gt;樣式刪除後這些內容會改為預設樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5580,6 +5588,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
         <seg>我的LibreOffice文章（以英文撰寫）有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Naming styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032712Z" creationid="zerng07" creationdate="20171227T032712Z">
+        <seg>為樣式命名</seg>
       </tuv>
     </tu>
     <tu>
