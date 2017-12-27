@@ -1184,6 +1184,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;AutoUpdate&lt;/f1&gt; &lt;f2&gt;check box&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;on the &lt;/f5&gt;&lt;f6&gt;Organizer&lt;/f6&gt; tab of &lt;f7&gt;a&lt;/f7&gt; style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025925Z" creationid="zerng07" creationdate="20171227T025925Z">
+        <seg>在樣式的&lt;f6&gt;統籌概覽&lt;/f6&gt;標籤頁中，&lt;f0&gt;勾選&lt;/f0&gt;「&lt;f1&gt;自動更新&lt;/f1&gt;」 &lt;f2&gt;方框&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4 的側邊欄用語是「樣式和格式」。6.0 起拆分「樣式」和「格式」，Styles and Formatting 詞語就此消滅。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button on the &lt;f2&gt;sidebar.&lt;/f2&gt;</seg>
@@ -2116,11 +2124,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>我在 LibreOffice 5.4.4, GNOME on Wayland 環境試不出來。</note>
       <tuv lang="EN">
         <seg>A dialog window opens so that you can give the new style a title.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025530Z" creationid="zerng07" creationdate="20171227T025530Z">
-        <seg>接著會開啟一個對話視窗讓請你幫新樣式命名。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025639Z" creationid="zerng07" creationdate="20171227T025530Z">
+        <seg>接著會開啟一個對話視窗讓請你幫新樣式命名。？？？&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
