@@ -2004,6 +2004,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;In fact, when using styles, discourage any editors from doing any manual formatting.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030830Z" creationid="zerng07" creationdate="20171227T030830Z">
+        <seg>&lt;f5&gt;實際上，如果要使用樣式，應該要極力避免編輯者有任何手動格式設定的舉動。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;In other words,&lt;/f5&gt; &lt;f6&gt;they are ordered in a tree, with each style taking its characteristics from the one at the top and modifying some of them.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104715Z" creationid="zerng07" creationdate="20171225T104715Z">
@@ -5752,6 +5760,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only select &lt;f0&gt;AutoU&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;p&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;date&lt;/f3&gt; if everyone editing the document uses styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030657Z" creationid="zerng07" creationdate="20171227T030650Z">
+        <seg>記得只在所有編輯這份文件的人都懂得怎麼使用樣式時，才勾選「&lt;f0&gt;自動更新&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open &lt;f0&gt;File &gt; Recent Documents.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124333Z" creationid="Franklin Weng" creationdate="20171213T124333Z">
@@ -5876,6 +5892,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082638Z" creationid="Jeff Huang" creationdate="20171221T082638Z">
         <seg>你可能會選擇忽略其他東西，&lt;f0&gt;可能是因為&lt;/f0&gt;預設值對你的目的來說&lt;f1&gt;已經足夠了&lt;/f1&gt;，&lt;f2&gt;又或是因為你的繪圖&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;不會受到設定所影響。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, the result &lt;f4&gt;could&lt;/f4&gt; be stylistic chaos.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
+        <seg>否則，結果&lt;f4&gt;可能&lt;/f4&gt;導致樣式陷入一片混亂。</seg>
       </tuv>
     </tu>
     <tu>
