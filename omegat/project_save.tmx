@@ -4872,6 +4872,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Writer, you sometimes find that you use different categories of styles in &lt;f0&gt;the same design&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161833Z" creationid="zerng07" creationdate="20171227T161833Z">
+        <seg>在Writer中，你有時候會發現明明是&lt;f0&gt;相同的設計&lt;/f0&gt;，用到的卻是不同的樣式類別。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125056Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
@@ -7057,6 +7065,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081112Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
         <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;有一個以&lt;f3&gt;帶有陰影的&lt;/f3&gt;樣式預定義好的物件&lt;f4&gt;可以格式化為&lt;/f4&gt;同時是矩形與&lt;f5&gt;除了尺寸以外都一樣的形狀。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That way, you can easily find and apply custom styles without having to change the view.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161639Z" creationid="zerng07" creationdate="20171227T161639Z">
+        <seg>這樣一來，你就能輕鬆找出自訂樣式並套用，而不必另外切換到「自訂樣式」檢視畫面中。</seg>
       </tuv>
     </tu>
     <tu>
