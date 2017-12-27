@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;Other font formats exist, and may be supported by your operating system, but these formats may be limited in selection and quality.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075554Z" creationid="Franklin Weng" creationdate="20171224T075500Z">
-        <seg>另外還有別種字型檔格式，而且可能你的作業系統也支援，但是這些格式可能在選擇與品質上都受限。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144840Z" creationid="Franklin Weng" creationdate="20171224T075500Z">
+        <seg>&lt;f9&gt;另外還有別種字型檔格式，而且可能你的作業系統也支援，但是這些格式可能在選擇與品質上都受限。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -753,8 +753,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, &lt;/f0&gt;hundreds of f&lt;f1&gt;ree-licensed fonts are now available.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T073947Z" creationid="Franklin Weng" creationdate="20171224T073947Z">
-        <seg>&lt;f0&gt;不過，現在也已經有上百種自由授權的字型了。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144713Z" creationid="Franklin Weng" creationdate="20171224T073947Z">
+        <seg>&lt;f0&gt;不過&lt;/f0&gt;，現在也已經有&lt;f1&gt;上百種自由授權的字型了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,8 +874,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you have administration privileges, y&lt;/f0&gt;ou &lt;f1&gt;can install additional fonts through your operating system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075622Z" creationid="Franklin Weng" creationdate="20171224T075622Z">
-        <seg>如果你有管理員權限，你可以在作業系統中安裝新的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144902Z" creationid="Franklin Weng" creationdate="20171224T075622Z">
+        <seg>&lt;f0&gt;如果你有管理員權限&lt;/f0&gt;，你&lt;f1&gt;可以在作業系統中安裝新的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,8 +1606,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;For other places where you can find free-licensed fonts, see Appendix C, “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075226Z" creationid="Franklin Weng" creationdate="20171224T075226Z">
-        <seg>&lt;f1&gt;其他的自由授權字型可以參考附錄 C，「到哪裡找自由授權字型」，第？？頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144752Z" creationid="Franklin Weng" creationdate="20171224T075226Z">
+        <seg>&lt;f1&gt;其他的自由授權字型可以參考附錄 C，「到哪裡找自由授權字型」&lt;/f1&gt;，第？？頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3969,8 +3969,8 @@
       <tuv lang="EN">
         <seg>For years, the only alternative to paying for fonts was to use public domain fonts, &lt;f0&gt;which were often low quality.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T073924Z" creationid="Franklin Weng" creationdate="20171224T073924Z">
-        <seg>而這些年來，如果不用這些要付費的字型，取代方案通常是公共授權的字型，而代價是字型的品質並不高。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144649Z" creationid="Franklin Weng" creationdate="20171224T073924Z">
+        <seg>而這些年來，如果不用這些要付費的字型，取代方案通常是公共授權的字型，而代價是&lt;f0&gt;字型的品質並不高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5466,8 +5466,8 @@
       <tuv lang="EN">
         <seg>Many Linux distributions include &lt;f0&gt;a few &lt;/f0&gt;free-licensed fonts in their package repositories.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T075018Z" creationid="Franklin Weng" creationdate="20171224T075018Z">
-        <seg>許多的 Linux 發行版中都在它們的套件庫中內建一些自由授權的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144733Z" creationid="Franklin Weng" creationdate="20171224T075018Z">
+        <seg>許多的 Linux 發行版中都在它們的套件庫中內建&lt;f0&gt;一些&lt;/f0&gt;自由授權的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,8 +6043,8 @@
       <tuv lang="EN">
         <seg>Otherwise, you can install fonts only for LibreOffice by placing their files in the /share/fonts folder in the system path listed at &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Options &gt; Path&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and restarting LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T081917Z" creationid="Franklin Weng" creationdate="20171224T081917Z">
-        <seg>不然，你也可以把字型檔放在「工具 &gt; 選項 &gt; 路徑」中的系統路徑底下的 /share/fonts，然後再重新啟動 LibreOffice。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144931Z" creationid="Franklin Weng" creationdate="20171224T081917Z">
+        <seg>不然，你也可以把字型檔放在&lt;f3&gt;「工具 &gt; 選項 &gt; 路徑」&lt;/f3&gt;中的系統路徑底下的 /share/fonts&lt;/f1&gt;，然後再重新啟動 LibreOffice。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6735,8 +6735,8 @@
       <tuv lang="EN">
         <seg>Sometimes d&lt;/f1&gt;esigned by more than one person and often for love of typography rather than &lt;f2&gt;for&lt;/f2&gt; money, the best free-licensed fonts like Gentium eas&lt;f3&gt;il&lt;/f3&gt;y rival commercial fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T074944Z" creationid="Franklin Weng" creationdate="20171224T074500Z">
-        <seg>有的時候，由兩人以上設計，而且是著迷於文字排印而非金錢，那麼最好的自由授權字型，例如 Gentium 就很容易與商業字型媲美。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144723Z" creationid="Franklin Weng" creationdate="20171224T074500Z">
+        <seg>有的時候&lt;/f1&gt;，由兩人以上設計，而且是著迷於文字排印而非金錢，那麼最好的自由授權字型，例如 Gentium 就很容易與商業字型媲美。</seg>
       </tuv>
     </tu>
     <tu>
