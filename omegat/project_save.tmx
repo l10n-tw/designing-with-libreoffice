@@ -4359,6 +4359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, to save yourself scrolling endlessly through the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, consider prefacing any custom styles with “C-” or some other unique preface.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161554Z" creationid="zerng07" creationdate="20171227T161554Z">
+        <seg>不過，為了拯救你脫離在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗中前後捲動的勞苦，可以考慮在任何自訂樣式名稱前方加個「C-」之類的前綴字，或是其他獨特的前導字亦可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, whatever the conditions, the fonts you choose should never be more noticeable than the content.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072932Z" creationid="Franklin Weng" creationdate="20171224T072932Z">
@@ -6649,6 +6657,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082025Z" creationid="zerng07" creationdate="20171225T082016Z">
         <seg>此外，編輯視窗中最底部的橫列中，由左至右算起來第三個欄位會顯示目前的頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since you will probably be using at least some pre-defined styles, you &lt;f0&gt;may decide&lt;/f0&gt; to use the same conventions for custom styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161329Z" creationid="zerng07" creationdate="20171227T161329Z">
+        <seg>因為你有可能至少會用到一些預先定義樣式，你或許會&lt;f0&gt;希望&lt;/f0&gt;自訂樣式的名稱也來依循類似慣例。</seg>
       </tuv>
     </tu>
     <tu>
