@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A custom style that is no longer needed can be deleted using the &lt;/f0&gt;right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032215Z" creationid="zerng07" creationdate="20171227T032215Z">
-        <seg>&lt;f0&gt;不再需要的自訂樣式也可以用右鍵選單刪除。A custom style that is no longer needed can be deleted using the &lt;/f0&gt;right-click menu.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032231Z" creationid="zerng07" creationdate="20171227T032215Z">
+        <seg>&lt;f0&gt;不再需要的自訂樣式也可以用右鍵選單「刪除」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1704,6 +1704,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120536Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
         <seg>&lt;f1&gt;因為使用範本的重點是讓一貫的設計變容易，通常最好的做法包括：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Styles installed from an extension can only be deleted by removing the extension in &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Extension Manager.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032444Z" creationid="zerng07" creationdate="20171227T032429Z">
+        <seg>&lt;f1&gt;來自擴充套件的樣式，則可以透過&lt;/f1&gt;「&lt;f2&gt;&lt;f3&gt;工具 &gt; 擴充套件管理員&lt;/f3&gt;&lt;/f2&gt;」移除該擴充套件來刪掉這些樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,8 +4665,8 @@
       <tuv lang="EN">
         <seg>If you need to use the style again, you can restore it from the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hidden Styles&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; view.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032059Z" creationid="zerng07" creationdate="20171227T031951Z">
-        <seg>如果你需要再次使用樣式，你可以從&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;隱藏樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;檢視畫面中還原顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032220Z" creationid="zerng07" creationdate="20171227T031951Z">
+        <seg>如果你需要再次使用樣式，你可以從&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;隱藏樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;檢視畫面中還原「顯示」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5316,6 +5324,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031049Z" creationid="zerng07" creationdate="20171227T031040Z">
         <seg>LibreOffice通常能在幾秒內更新樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice warns that a style is in use, but does not &lt;f0&gt;stop&lt;/f0&gt; you &lt;f1&gt;d&lt;/f1&gt;eleting it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032609Z" creationid="zerng07" creationdate="20171227T032609Z">
+        <seg>如果樣式正被內容使用，LibreOffice會發出警告；但是它不會&lt;f0&gt;阻止&lt;/f0&gt;你刪除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8828,6 +8844,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062733Z" creationid="zerng07" creationdate="20171212T062733Z">
         <seg>你不用樣式也一樣可以作業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot delete a pre-defined style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032245Z" creationid="zerng07" creationdate="20171227T032245Z">
+        <seg>不過你無法刪除預先定義樣式。</seg>
       </tuv>
     </tu>
     <tu>
