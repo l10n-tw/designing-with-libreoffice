@@ -4102,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you decide to edit styles, you have &lt;f0&gt;several&lt;/f0&gt; &lt;f1&gt;options&lt;/f1&gt; in Writer:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023019Z" creationid="zerng07" creationdate="20171227T023019Z">
+        <seg>不過，如果你確定要編輯樣式，在Writer中你有&lt;f0&gt;許多&lt;/f0&gt; &lt;f1&gt;方法&lt;/f1&gt;可用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you have already done so several times, ask yourself at some point if you are tinkering in the hope of an impossible perfection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084400Z" creationid="Jeff Huang" creationdate="20171214T064615Z">
@@ -6077,6 +6085,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132602Z" creationid="Franklin Weng" creationdate="20171225T132602Z">
         <seg>右邊的字型：ADF Gillus。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a style in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window and select &lt;f1&gt;New&lt;/f1&gt; to create a style that clones the selected style (in other words, one that is a child of the selected style in the hierarchy).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023502Z" creationid="zerng07" creationdate="20171227T023502Z">
+        <seg>在「&lt;f0&gt;樣式和格式&lt;/f0&gt;」視窗中以滑鼠右鍵點按樣式，並選取「&lt;f1&gt;新增&lt;/f1&gt;」可以將現在選取的樣式再拓製新的一份（換句話說，在階層上這個樣式是所選樣式的子代）。</seg>
       </tuv>
     </tu>
     <tu>
