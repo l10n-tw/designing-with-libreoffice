@@ -1072,6 +1072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other names for&lt;/f0&gt; pre-defined styles are descriptive, such as &lt;f1&gt;Object without fill&lt;/f1&gt; &lt;f2&gt;in Draw.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161131Z" creationid="zerng07" creationdate="20171227T161131Z">
+        <seg>&lt;f0&gt;其他預先定義樣式&lt;/f0&gt;都採用描述性名稱，例如&lt;f2&gt;Draw&lt;/f2&gt;中有個&lt;f1&gt;不填色的物件&lt;/f1&gt;樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;aragraph styles have a number of additional views.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T154735Z" creationid="zerng07" creationdate="20171224T154029Z">
@@ -6585,6 +6593,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081008Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
         <seg>形狀&lt;f0&gt;選擇&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, character styles include &lt;f5&gt;Emphasis&lt;/f5&gt; and &lt;f6&gt;Internet Link.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T160953Z" creationid="zerng07" creationdate="20171227T160953Z">
+        <seg>相同的，字元樣式包含&lt;f5&gt;強調&lt;/f5&gt;和&lt;f6&gt;網際網路連結&lt;/f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
