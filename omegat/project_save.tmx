@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But with the &lt;f2&gt;Next Style&lt;/f2&gt; field filled in, just starting a new paragraph or page will automatically apply the next style without your hands leaving the keyboard.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163845Z" creationid="zerng07" creationdate="20171227T163845Z">
+        <seg>但是只要能填入&lt;f2&gt;下一個樣式&lt;/f2&gt;欄位的話，就能方便讓雙手不離開鍵盤也能自動讓新段落或新頁面套用下一個樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, &lt;f0&gt;each&lt;/f0&gt; template must be registered with LibreOffice before you can use it, just as databases and address books must be.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124520Z" creationid="Franklin Weng" creationdate="20171218T124520Z">
@@ -8764,6 +8772,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184218Z" creationid="zerng07" creationdate="20170817T135831Z">
         <seg>有超過400個字族，Open Font Library在規模上僅次於Google Fonts。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With some types of styles, such as lists, having a&lt;f1&gt; Next Style&lt;/f1&gt; makes no sense, and the field is grayed out.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163647Z" creationid="zerng07" creationdate="20171227T163608Z">
+        <seg>至於有些樣式類型，例如清單樣式下，如果要設定&lt;f1&gt;下一個樣式&lt;/f1&gt;就顯得沒有道理，所以這個欄位就會轉灰不能填。</seg>
       </tuv>
     </tu>
     <tu>
