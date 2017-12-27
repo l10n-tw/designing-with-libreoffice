@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit styles from the tool bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030133Z" creationid="zerng07" creationdate="20171227T030124Z">
+        <seg>&lt;f0&gt;從工具列中編輯樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Either s&lt;/f0&gt;elect one of the templates in the Template pane &lt;f1&gt;or c&lt;/f1&gt;lick the &lt;f2&gt;From File&lt;/f2&gt; button and select a document template using the file manager.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140159Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
@@ -4896,6 +4904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In&lt;/f0&gt; LibreOffice 4.4 &lt;f1&gt;and later, &lt;/f1&gt;you can update styles by highlighting part of the document, then selecting a style in the tool bar’s drop-down list and clicking &lt;f2&gt;Update &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;to Match&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Selection&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030516Z" creationid="zerng07" creationdate="20171227T030516Z">
+        <seg>在&lt;/f0&gt;LibreOffice 4.4&lt;f1&gt;和後續版本中，&lt;/f1&gt;你可以先反白標明文件的部分內容，接著從工具列的樣式下拉選單中找出你要的樣式，並在這個樣式旁邊的下拉選單中選取「&lt;f2&gt;更新&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;以符合&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;選取內容&lt;/f5&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert one of each of the shapes your document uses, then choose the style to apply from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles and Formatting&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; window.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084734Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
@@ -8323,6 +8339,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055548Z" creationid="Jeff Huang" creationdate="20171123T072148Z">
         <seg>當行文順序對你來說很清楚時，那麼對讀者來說也會很合邏輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this box is selected, any manual formatting you do automatically updates the style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030111Z" creationid="zerng07" creationdate="20171227T030111Z">
+        <seg>只要這個方框有勾選，任何你對這個樣式所做的手動格式設定修改都會自動更新到樣式中。</seg>
       </tuv>
     </tu>
     <tu>
