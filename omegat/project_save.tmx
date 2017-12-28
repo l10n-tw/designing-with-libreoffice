@@ -696,8 +696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fi&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;les &gt; Properties &gt; General&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; lists the template upon which the document was originally based.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145344Z" creationid="Franklin Weng" creationdate="20171212T115904Z">
-        <seg>在「&lt;f1&gt;&lt;f2&gt;檔案 &gt; 屬性 &gt; 一般&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的對話窗中，會列出文件最初使用的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145616Z" creationid="Franklin Weng" creationdate="20171212T115904Z">
+        <seg>點按「&lt;f1&gt;&lt;f2&gt;檔案 &gt; 屬性 &gt; 一般&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」會列出文件最初使用的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8148,11 +8148,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>微軟 Office 把 page break 翻譯成「分頁」，所以 tab 都請翻譯為「標籤頁」，以免讀者混淆。</note>
       <tuv lang="EN">
         <seg>The layout of this tab is different in LibreOffice before release 4.3, with the template at the bottom of the window.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115935Z" creationid="Franklin Weng" creationdate="20171212T115935Z">
-        <seg>這個分頁的呈現方式在 LibreOffice 4.3 以前有點不同，範本是列在視窗的最下面。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145733Z" creationid="Franklin Weng" creationdate="20171212T115935Z">
+        <seg>這個標籤頁的呈現配置和LibreOffice 4.3以前不同，之前的範本是列在視窗的最下方。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
