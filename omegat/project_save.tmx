@@ -4847,6 +4847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you use old style figures for numbers, use small caps beside them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050108Z" creationid="Franklin Weng" creationdate="20171228T050108Z">
+        <seg>如果你用舊式數字字型，你可以在旁邊跟上面說的 Small Caps 一起用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want &lt;f1&gt;to apply this style somewhat differently &lt;/f1&gt;– perhaps &lt;f2&gt;using&lt;/f2&gt; different color&lt;f3&gt;ed shapes&lt;/f3&gt; to indicate different departments &lt;f4&gt;or the project lead&lt;/f4&gt; – use the &lt;f5&gt;&lt;f6&gt;Inherit from&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;f8&gt;Next&lt;/f8&gt; field&lt;f9&gt;s &lt;/f9&gt;on the &lt;f10&gt;Organizer&lt;/f10&gt; tab to create subordinate styles with names like &lt;f11&gt;Position Box&lt;/f11&gt; &lt;f12&gt;or &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Project Lead.&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T084316Z" creationid="Jeff Huang" creationdate="20171220T084316Z">
@@ -5370,8 +5378,8 @@
       <tuv lang="EN">
         <seg>Left: Serif font (Goudy Bookletter 1911).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092814Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
-        <seg>左：Serif 字型（Goudy Bookletter 1911）.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050151Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
+        <seg>左邊：Serif 字型（Goudy Bookletter 1911）.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5804,6 +5812,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100910Z" creationid="Franklin Weng" creationdate="20171212T100910Z">
         <seg>他們當然也不瞭解，一貫的通用格式可以是企業與個人品牌的一部份。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal caps look outlandishly large beside old style figures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050131Z" creationid="Franklin Weng" creationdate="20171228T050131Z">
+        <seg>因為在舊式數字字型旁邊放一般大寫字母的話，字母會看起來特別大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6493,8 +6509,8 @@
       <tuv lang="EN">
         <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145226Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
-        <seg>右：&lt;f0&gt;Slab serif 字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050204Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
+        <seg>右邊：&lt;f0&gt;Slab serif 字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,8 +6807,8 @@
       <tuv lang="EN">
         <seg>Small Capitals (Small Caps): Specially designed upper case letters &lt;f0&gt;intended to&lt;/f0&gt; make more than two capitals in a row more readable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135828Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
-        <seg>Small Capitals (Small Caps): Specially designed upper case letters &lt;f0&gt;intended to&lt;/f0&gt; make more than two capitals in a row more readable.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050013Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
+        <seg>Small Capitals (Small Caps)：特別針對大寫字母做設計，&lt;f0&gt;目的是&lt;/f0&gt;讓一列中兩個以上的大寫字母看起來更易讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8282,6 +8298,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
         <seg>時至今日，OpenOffice.org已不存在，存續的是Apache OpenOffice。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top: True small caps, created using the font’s metrics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052530Z" creationid="Franklin Weng" creationdate="20171228T050147Z">
+        <seg>上方：實際的 Small caps 字母，用字型的詮釋資料所建立。</seg>
       </tuv>
     </tu>
     <tu>
