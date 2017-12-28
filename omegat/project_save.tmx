@@ -1683,6 +1683,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can modify dimensions lines from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensioning&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a graphic style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T073810Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
+        <seg>&lt;f0&gt;你可以在圖樣的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁修改尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can’t do anything manually that you can’t do with styles much more easily.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031545Z" creationid="zerng07" creationdate="20171219T031300Z">
@@ -3246,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, arrows and line ends have the same proportions as the line itself, but you can make them thinner or thicker as you choose.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071503Z" creationid="Jeff Huang" creationdate="20171228T071503Z">
+        <seg>預設情況下，箭頭與線條端點的屬性與線條本身相同，但你可以讓它們變得更細或更粗。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, styles you create are displayed in &lt;f2&gt;Custom Styles,&lt;/f2&gt; but you can choose any other view instead.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172613Z" creationid="zerng07" creationdate="20171225T172613Z">
@@ -3562,6 +3578,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133323Z" creationid="Franklin Weng" creationdate="20171213T133323Z">
         <seg>用 LibreOffice 的精靈來建立你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customized lines are stored in the /user/config directory of your personal configuration path.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071909Z" creationid="Jeff Huang" creationdate="20171228T071909Z">
+        <seg>自定義的線條儲存在你的個人設定路徑 /user/config 目錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7069,6 +7093,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting dimension lines</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T073552Z" creationid="Jeff Huang" creationdate="20171228T073552Z">
+        <seg>設定線條尺寸</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting line formatting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064116Z" creationid="Jeff Huang" creationdate="20171228T063625Z">
@@ -7581,10 +7613,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The .sod file contains custom line formats, the .soe file custom arrows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T073527Z" creationid="Jeff Huang" creationdate="20171228T073527Z">
+        <seg>.sod 檔案包含了自訂的線條格式，而 .soe 檔案則是自訂箭頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Reference&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field can be ignored.&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093111Z" creationid="Franklin Weng" creationdate="20171223T093111Z">
         <seg>「工具提示」一欄可填可不填。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields let you adjust the dimension line and the guides in relation to each other, although you will probably have little need to change the defaults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T075114Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
+        <seg>&lt;/f3&gt;雖然你可能需要變更預設值，&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位讓你可以調整線條尺寸以及各別的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7617,6 +7665,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132546Z" creationid="Franklin Weng" creationdate="20171223T132546Z">
         <seg>「類別」中顯示的是範本視窗中的子目錄，而「範本」中顯示的則是該類別的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;D&lt;/f0&gt;rawing tool bar also has block arrows that you can group with a line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071811Z" creationid="Jeff Huang" creationdate="20171228T071811Z">
+        <seg>繪圖工具列也有您可以使用線條分組的區塊箭頭。</seg>
       </tuv>
     </tu>
     <tu>
