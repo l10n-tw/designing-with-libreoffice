@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Another point to consider is that you are rarely likely to need &lt;/f0&gt;Bold Italic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071930Z" creationid="Franklin Weng" creationdate="20171228T071930Z">
+        <seg>&lt;f0&gt;另一個要考慮的點是其實粗斜體很少用到。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Another&lt;/f0&gt; problem with these official sites is that each template must be downloaded and installed separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T124243Z" creationid="Franklin Weng" creationdate="20171215T124243Z">
@@ -1860,6 +1868,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Since the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Emphasis &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;character style uses Italic and &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Strong Emphasis&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; uses Bold, Bold Italic serves no regular purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072104Z" creationid="Franklin Weng" creationdate="20171228T072104Z">
+        <seg>&lt;f1&gt;通常&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;強調&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;的字元會用斜體，而&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;特別強調&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;的字元會用粗體，而粗斜體其實沒什麼用處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Since the whole point of using templates is to make uniform design easier, the best practices are usually:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120536Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
@@ -2666,6 +2682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075632Z" creationid="Jeff Huang" creationdate="20171220T075632Z">
         <seg>還有&lt;f0&gt;一點&lt;/f0&gt;要注意：&lt;f1&gt;繪製&lt;/f1&gt;樣式僅用於格式化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another issue with font styles is that, through the years, various attempts have been made to standardize them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072418Z" creationid="Franklin Weng" creationdate="20171228T072418Z">
+        <seg>另一個字型樣式的問題在於，經過這些年來，有許多嘗試要試著把這些樣式標準化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3598,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Designers regularly borrow ampersands (and sometimes question marks) when they want an elegant touch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071814Z" creationid="Franklin Weng" creationdate="20171228T071814Z">
+        <seg>設計者常常用 &amp; 符號（有時用問號）來呈現一種優雅的筆觸風格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Designing with LibreOffice</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184641Z" creationid="zerng07" creationdate="20170817T092453Z">
@@ -4055,6 +4087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Nobile.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072328Z" creationid="Franklin Weng" creationdate="20171228T072328Z">
+        <seg>字型：Nobile。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Pinyon-Script.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102209Z" creationid="Franklin Weng" creationdate="20171225T102209Z">
@@ -4083,6 +4123,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144119Z" creationid="Franklin Weng" creationdate="20171224T064604Z">
         <seg>字型、&lt;f0&gt;顏色與&lt;/f0&gt;魔術數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts, from left to right: Cantarell, Quattrocento Roman, Goudy Bookletter 1911, Accanthis ADF Std., Lato.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071851Z" creationid="Franklin Weng" creationdate="20171228T071851Z">
+        <seg>字型從左到右：Cantarell、Quattrocento Roman、Goudy Bookletter 1911、Accanthis ADF Std.、Lato。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5480,6 +5528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be useful as a display or heading font, but often you can ignore a Bold Italic style if the other styles suit your needs.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072201Z" creationid="Franklin Weng" creationdate="20171228T072201Z">
+        <seg>它可能可以用於顯示或標題的字型，但通常能用其他樣式就不要用粗斜體。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It met every challenge I threw &lt;t1/&gt;at it, making me aware that the software had more to it than most people &lt;f2&gt;assumed&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165510Z" creationid="zerng07" creationdate="20170822T161528Z">
@@ -5548,6 +5604,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072018Z" creationid="zerng07" creationdate="20171227T184310Z">
         <seg>Jan Tschichold著，&lt;f0&gt;書的構成：好設計的品味 (The Form of the Book: Essays on the Morality of Good Design)。&lt;/f0&gt;英文版譯者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just because the type designer thinks th&lt;f0&gt;a&lt;/f0&gt;t font styles or individual &lt;t1/&gt;characters fit together does not mean that you should accept their judgment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071657Z" creationid="Franklin Weng" creationdate="20171228T071551Z">
+        <seg>即使字型設計者認為字型樣式或個別的字元很搭，也不表示你就必須接受他們的想法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7933,6 +7997,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The four basic font styles &lt;f0&gt;in most font families.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072231Z" creationid="Franklin Weng" creationdate="20171228T072231Z">
+        <seg>&lt;f0&gt;大部份字族會有的四種樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The headings in this chapter will give you a checklist of steps to follow.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
@@ -8794,6 +8866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153254Z" creationid="zerng07" creationdate="20171224T092801Z">
         <seg>直到&lt;f0&gt;LibreOffice&lt;/f0&gt; 4.4版為止，之前的「&lt;f1&gt;樣式和格式&lt;/f1&gt;」視窗都以&lt;f2&gt;浮動視窗&lt;/f2&gt;的形式開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up to a dozen other may also be included.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072318Z" creationid="Franklin Weng" creationdate="20171228T072318Z">
+        <seg>字族裡可能會包含一打樣式。</seg>
       </tuv>
     </tu>
     <tu>
