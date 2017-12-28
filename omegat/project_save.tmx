@@ -4761,8 +4761,8 @@
       <tuv lang="EN">
         <seg>However, you can &lt;f0&gt;also design&lt;/f0&gt; a &lt;f1&gt;template with far more formatting information as default&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143217Z" creationid="Franklin Weng" creationdate="20171212T101117Z">
-        <seg>不過，你也&lt;f0&gt;可以設計&lt;/f0&gt;一份&lt;f1&gt;包含更多格式設定資訊的範本作為你自己的預設範本&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143630Z" creationid="Franklin Weng" creationdate="20171212T101117Z">
+        <seg>不過，你也&lt;f0&gt;可以設計&lt;/f0&gt;一份&lt;f1&gt;包含更多格式設定資訊的範本作為自己的預設範本&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,8 +5650,8 @@
       <tuv lang="EN">
         <seg>Its settings will be used for every document when you select &lt;f2&gt;File &gt; New,&lt;/f2&gt; unless you specifically select another template&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114029Z" creationid="Franklin Weng" creationdate="20171212T114029Z">
-        <seg>它的設定會在你用&lt;f2&gt;「檔案」&gt;「開啟」&lt;/f2&gt;來開新檔案時套用在新文件上，除非你另外選擇使用其他的範本來開啟新檔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143819Z" creationid="Franklin Weng" creationdate="20171212T114029Z">
+        <seg>這樣一來，範本中的設定就會在你用&lt;f2&gt;「檔案 &gt; 新增」&lt;/f2&gt;開新檔案時套用到新文件上，除非你另外選擇使用其他的範本來開啟新檔。</seg>
       </tuv>
     </tu>
     <tu>
