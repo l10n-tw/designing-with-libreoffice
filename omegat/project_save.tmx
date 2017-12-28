@@ -2238,8 +2238,8 @@
       <tuv lang="EN">
         <seg>&lt;f5&gt;However, the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Properties&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; window continues to list the template, even though it is irrelevant.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120143Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
-        <seg>&lt;f5&gt;不過&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「屬性」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;視窗中仍然會列出最初使用的範本，即使文件已經與範本脫勾也一樣。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150120Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
+        <seg>&lt;f5&gt;不過，&lt;/f5&gt;&lt;f6&gt;「&lt;f7&gt;屬性&lt;/f7&gt;&lt;/f6&gt;」&lt;f8&gt;視窗中依然會列出最初使用的範本，即使文件已經脫勾也一樣。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3753,8 +3753,8 @@
       <tuv lang="EN">
         <seg>Documents whose templates have been edited are not &lt;f0&gt;always &lt;/f0&gt;updated when closed and reopened.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120247Z" creationid="Franklin Weng" creationdate="20171212T120247Z">
-        <seg>即使範本已被編輯更新，使用該範本的文件在關閉並重啟時&lt;f0&gt;未必&lt;/f0&gt;會跟著更新。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150440Z" creationid="Franklin Weng" creationdate="20171212T120247Z">
+        <seg>即使範本已經編輯，使用該範本的文件在關閉並重新打開時也不&lt;f0&gt;一定&lt;/f0&gt;跟著更新。</seg>
       </tuv>
     </tu>
     <tu>
