@@ -936,6 +936,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition to choosing the color and thickness of an object’s outline, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab also includes options for arrows and line ends for both ends of a line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T070752Z" creationid="Jeff Huang" creationdate="20171228T070752Z">
+        <seg>&lt;f0&gt;除了選擇物件輪廓的色彩與厚度之外，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁也包含箭頭與線條結尾的選項供兩個端點使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082528Z" creationid="zerng07" creationdate="20171225T082407Z">
@@ -4635,6 +4643,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T125301Z" creationid="Franklin Weng" creationdate="20171215T125301Z">
         <seg>如果自己設計範本對你來說真的太麻煩，可以用 LibreOffice 的精靈來建立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If lines are irrelevant to your design, set the &lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ine&lt;/f2&gt; &lt;f3&gt;Style&lt;/f3&gt; to &lt;f4&gt;None, &lt;/f4&gt;and you only need to be concerned about &lt;f5&gt;a&lt;/f5&gt;rea formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T065802Z" creationid="Jeff Huang" creationdate="20171228T065802Z">
+        <seg>若線條與你的設計無關，請將線條&lt;f3&gt;樣式&lt;/f3&gt;設定為&lt;f4&gt;無，&lt;/f4&gt;而你只需要關心區域格式。</seg>
       </tuv>
     </tu>
     <tu>
