@@ -1338,6 +1338,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is analogous to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Borders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the styles for other applications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064249Z" creationid="Jeff Huang" creationdate="20171228T064249Z">
+        <seg>在樣式中的&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁類似於其他應用程式中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;外框&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Presentation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; template is particularly useful.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141602Z" creationid="Franklin Weng" creationdate="20171215T134429Z">
@@ -6839,8 +6847,8 @@
       <tuv lang="EN">
         <seg>Setting line formatting</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T063625Z" creationid="Jeff Huang" creationdate="20171228T063625Z">
-        <seg>設定行格式</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064116Z" creationid="Jeff Huang" creationdate="20171228T063625Z">
+        <seg>設定線條格式</seg>
       </tuv>
     </tu>
     <tu>
