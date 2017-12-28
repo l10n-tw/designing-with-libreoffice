@@ -1894,8 +1894,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Since the whole point of using templates is to make uniform design easier, the best practices are usually:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120536Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
-        <seg>&lt;f1&gt;因為使用範本的重點是讓一貫的設計變容易，通常最好的做法包括：&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150650Z" creationid="Franklin Weng" creationdate="20171212T120536Z">
+        <seg>&lt;f1&gt;因為使用範本的重點，就是讓一致的設計變容易，所以通常最實務的做法是：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,8 +2552,8 @@
       <tuv lang="EN">
         <seg>Al&lt;f0&gt;w&lt;/f0&gt;ays keep documents connected to their templates.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120609Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
-        <seg>&lt;f0&gt;讓文件保持&lt;/f0&gt;與範本的連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150727Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
+        <seg>讓文件一直保持與範本的連結。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,8 +2816,8 @@
       <tuv lang="EN">
         <seg>As soon as you make changes to the template, &lt;f0&gt;close and reopen the documents that use the template &lt;/f0&gt;as soon as possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120722Z" creationid="Franklin Weng" creationdate="20171212T120722Z">
-        <seg>一旦你變更了範本，&lt;f0&gt;記得立即關閉並重啟使用此範本的文件。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150859Z" creationid="Franklin Weng" creationdate="20171212T120722Z">
+        <seg>一旦你變更好範本，&lt;f0&gt;記得盡快關閉並重啟開啟此範本的文件。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,8 +3344,8 @@
       <tuv lang="EN">
         <seg>Change the formatting only on the template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120543Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
-        <seg>只在範本中變更格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150703Z" creationid="Franklin Weng" creationdate="20171212T120543Z">
+        <seg>只在範本中修改格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3905,8 +3905,8 @@
       <tuv lang="EN">
         <seg>Even deleting or adding a style can detach a document from its template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120642Z" creationid="Franklin Weng" creationdate="20171212T120622Z">
-        <seg>即使是刪除或新增一個樣式，也可能讓文件與範本脫勾。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150812Z" creationid="Franklin Weng" creationdate="20171212T120622Z">
+        <seg>即便是刪除一個樣式或新增樣式，都有可能讓文件與範本脫勾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4393,8 +4393,8 @@
       <tuv lang="EN">
         <seg>Generally, you want to avoid &lt;f0&gt;detaching documents from their templates&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150546Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
-        <seg>一般來說，你可能會希望盡量避免&lt;f0&gt;讓文件與其範本失去關聯。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150557Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
+        <seg>一般來說，你可能會希望盡量避免&lt;f0&gt;讓文件與其範本失去連結。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6162,8 +6162,8 @@
       <tuv lang="EN">
         <seg>Never make any formatting changes in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T120625Z" creationid="Franklin Weng" creationdate="20171212T120620Z">
-        <seg>絕對不要在文件中變更格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150745Z" creationid="Franklin Weng" creationdate="20171212T120620Z">
+        <seg>絕對不要在文件中變更格式設定。</seg>
       </tuv>
     </tu>
     <tu>
