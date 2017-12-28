@@ -1216,6 +1216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Robin Williams.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072008Z" creationid="zerng07" creationdate="20171228T072008Z">
+        <seg>&lt;f0&gt;Robin Williams著，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;ince then, I have used &lt;f1&gt;that&lt;/f1&gt; all-purpose template for hundreds of documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100944Z" creationid="Franklin Weng" creationdate="20171212T100944Z">
@@ -1388,16 +1396,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The Elements of Typographic Style.&lt;/f0&gt; &lt;f1&gt;2nd ed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T183416Z" creationid="zerng07" creationdate="20171227T183357Z">
-        <seg>&lt;f0&gt;文字排印樣式之要素 (The Elements of Typographic Style)&lt;/f0&gt;，&lt;f1&gt;第二版</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072049Z" creationid="zerng07" creationdate="20171227T183357Z">
+        <seg>《&lt;f0&gt;文字排印樣式之要素 (The Elements of Typographic Style)》&lt;/f0&gt;，&lt;f1&gt;第二版</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The New Typography.&lt;/f0&gt; Trans.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T183450Z" creationid="zerng07" creationdate="20171227T183450Z">
-        <seg>&lt;f0&gt;新文字排印學 (The New Typography)&lt;/f0&gt; Trans.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071925Z" creationid="zerng07" creationdate="20171227T183450Z">
+        <seg>&lt;f0&gt;新文字排印學 (The New Typography)。&lt;/f0&gt; 英文版譯者</seg>
       </tuv>
     </tu>
     <tu>
@@ -3817,8 +3825,8 @@
       <tuv lang="EN">
         <seg>Eric Gill.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071428Z" creationid="zerng07" creationdate="20171228T071428Z">
-        <seg>Eric Gill 著，</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072025Z" creationid="zerng07" creationdate="20171228T071428Z">
+        <seg>Eric Gill著，</seg>
       </tuv>
     </tu>
     <tu>
@@ -5528,10 +5536,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jan Tschichold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072012Z" creationid="zerng07" creationdate="20171228T071949Z">
+        <seg>Jan Tschichold著，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jan Tschichold.&lt;f0&gt; The Form of the Book: Essays on the Morality of Good Design.&lt;/f0&gt; Trans.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071810Z" creationid="zerng07" creationdate="20171227T184310Z">
-        <seg>Jan Tschichold 著，&lt;f0&gt;書的構成：好設計的品味 (The Form of the Book: Essays on the Morality of Good Design)。&lt;/f0&gt; 英文版譯者</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072018Z" creationid="zerng07" creationdate="20171227T184310Z">
+        <seg>Jan Tschichold著，&lt;f0&gt;書的構成：好設計的品味 (The Form of the Book: Essays on the Morality of Good Design)。&lt;/f0&gt;英文版譯者</seg>
       </tuv>
     </tu>
     <tu>
@@ -6773,8 +6789,16 @@
       <tuv lang="EN">
         <seg>Robert Bringhurst.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071412Z" creationid="zerng07" creationdate="20171228T071412Z">
-        <seg>Robert Bringhurst 著，</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072028Z" creationid="zerng07" creationdate="20171228T071412Z">
+        <seg>Robert Bringhurst著，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Robin Williams.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072002Z" creationid="zerng07" creationdate="20171228T072002Z">
+        <seg>Robin Williams著，</seg>
       </tuv>
     </tu>
     <tu>
@@ -9707,16 +9731,16 @@
       <tuv lang="EN">
         <seg>by Hajo Haedler (Hartley and Marks: Vancouver, 1991&lt;f1&gt;)&lt;/f1&gt;: Thoughts about page design from the master typographer who designed Penguin’s post-war cover format &lt;f2&gt;(and the only person known to be persecuted politically for his typographical standards).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071731Z" creationid="zerng07" creationdate="20171228T065914Z">
-        <seg>by Hajo Haedler (Hartley and Marks: Vancouver, 1991&lt;f1&gt;)&lt;/f1&gt;：作者為設計企鵝 (Penguin) 出版社戰後封面格式的大師級文字排印工作者（也是當今唯一一位因為文字排印標準規則而受政治迫害的人）&lt;/f2&gt;，本書中有他的許多頁面設計觀點。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071821Z" creationid="zerng07" creationdate="20171228T065914Z">
+        <seg>Hajo Haedler (Hartley and Marks: Vancouver, 1991&lt;f1&gt;)&lt;/f1&gt;：作者為設計企鵝 (Penguin) 出版社戰後封面格式的大師級文字排印工作者（也是當今唯一一位因為文字排印標準規則而受政治迫害的人）&lt;/f2&gt;，本書中有他的許多頁面設計觀點。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>by Ruari McLean (University of California Press: Berkeley, 1995): The classic statement of the principles of asymmetrical design that shape modern typography.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071332Z" creationid="zerng07" creationdate="20171227T183246Z">
-        <seg>by Ruari McLean (University of California Press: Berkeley, 1995)：形塑當代文字排印學的非對稱式設計原則經典論述。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T071839Z" creationid="zerng07" creationdate="20171227T183246Z">
+        <seg>Ruari McLean (University of California Press: Berkeley, 1995)：形塑當代文字排印學的非對稱式設計原則經典論述。</seg>
       </tuv>
     </tu>
     <tu>
