@@ -1442,6 +1442,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;This problem is common with TrueType fonts, and when you change weights&lt;/f0&gt; from the tool bar or a &lt;f1&gt;Character&lt;/f1&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T060638Z" creationid="Franklin Weng" creationdate="20171228T060638Z">
+        <seg>&lt;f0&gt;這個問題在 TrueType 字型都會發生，還有你從工具列或「&lt;f1&gt;字元&lt;/f1&gt;」對話框改變字型權重時也會。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This second choice is not always possible because different versions of LibreOfice may set different&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Default&lt;/f2&gt; style&lt;f3&gt;s, but is worth trying.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150440Z" creationid="zerng07" creationdate="20171225T150320Z">
@@ -6208,6 +6216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Others have separate fonts for each weight, but if you change the weight while using the regular weight, you get manufactured versions of the different weights &lt;f0&gt;which have little resemblance to the real ones.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T060213Z" creationid="Franklin Weng" creationdate="20171228T060213Z">
+        <seg>而有些則是不同權重分別存在不同檔案中，當你使用正規的權重，但是要改變權重時，它會&lt;f0&gt;重組原來的真實字型&lt;/f0&gt;，依你所指定的權重產生一個新的製成版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Others may be so gray they are hard to read, or so black that their effect is overwhelming on the page.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144407Z" creationid="Franklin Weng" creationdate="20171224T072840Z">
@@ -6873,6 +6889,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T101139Z" creationid="zerng07" creationdate="20170817T101139Z">
         <seg>有些則是公眾領域的公版授權。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some fonts store metrics for different weights within the same file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T060012Z" creationid="Franklin Weng" creationdate="20171228T060012Z">
+        <seg>有些字型會把不同權重等等的詮釋資料存在同一個檔案中。</seg>
       </tuv>
     </tu>
     <tu>
