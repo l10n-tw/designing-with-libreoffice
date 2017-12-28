@@ -1693,8 +1693,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can modify dimensions lines from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensioning&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a graphic style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T073810Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
-        <seg>&lt;f0&gt;你可以在圖樣的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁修改尺寸。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081430Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
+        <seg>&lt;f0&gt;你可以在圖樣的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸標註&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁修改尺寸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,8 +4193,8 @@
       <tuv lang="EN">
         <seg>For detailed information about the &lt;f0&gt;Alignment, Font, Font Effect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, Indents &amp; Spacing,&lt;/f3&gt; and &lt;f4&gt;Tabs&lt;/f4&gt; tab&lt;f5&gt;s&lt;/f5&gt;, see &lt;f6&gt;Chapters 3-5.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T062709Z" creationid="Jeff Huang" creationdate="20171228T062709Z">
-        <seg>關於&lt;f0&gt;對齊、字型、文字效果&lt;/f0&gt;&lt;f3&gt;、縮排與空格&lt;/f3&gt;和&lt;f4&gt;定位點&lt;/f4&gt;分頁的資訊，請參閱&lt;f6&gt;第三至五章。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081416Z" creationid="Jeff Huang" creationdate="20171228T062709Z">
+        <seg>關於&lt;f0&gt;對齊、字型、文字效果&lt;/f0&gt;&lt;f3&gt;、縮排和間距&lt;/f3&gt;和&lt;f4&gt;定位點&lt;/f4&gt;分頁的資訊，請參閱&lt;f6&gt;第三至五章。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7679,8 +7679,8 @@
       <tuv lang="EN">
         <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields let you adjust the dimension line and the guides in relation to each other, although you will probably have little need to change the defaults.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T075114Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
-        <seg>&lt;/f3&gt;雖然你可能需要變更預設值，&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位讓你可以調整線條尺寸以及各別的關係。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081503Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
+        <seg>&lt;/f3&gt;雖然你可能需要變更預設值，&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位讓你可以調整定量線以及各別的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9570,8 +9570,8 @@
       <tuv lang="EN">
         <seg>You are more likely to want to change the legend, or measurement, positioning it in one of the ten default position shown &lt;f0&gt;i&lt;/f0&gt;n the right column of the &lt;f1&gt;Dimensioning&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T075511Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
-        <seg>你也可能會想要變更圖例或度量，在&lt;f1&gt;尺寸&lt;/f1&gt;分頁右欄中十個預設位置之一選擇。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081558Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
+        <seg>你也可能會想要變更圖例或度量，在&lt;f1&gt;尺寸標註&lt;/f1&gt;分頁右欄中十個預設位置之一選擇。</seg>
       </tuv>
     </tu>
     <tu>
