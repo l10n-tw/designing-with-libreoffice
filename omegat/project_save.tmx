@@ -849,8 +849,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160520Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
-        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文稿結構，像是大綱形式、可以自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位項 (placeholders) 等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T073709Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
+        <seg>&lt;f0&gt;不過，範本&lt;/f0&gt;也可以儲存文稿結構，像是大綱形式、可以自動填入標準資訊的欄位，或是指示要填入哪一種資訊的佔位項 (placeholder) 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2656,8 +2656,8 @@
       <tuv lang="EN">
         <seg>An &lt;f0&gt;Impress slide with a formal placeholder for the title and informal ones for other information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171212T100553Z">
-        <seg>一份&lt;f0&gt;Impress 簡報，在標題的地方有請你填入標題的佔位項，下面則有指引填入其他資料的佔位項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T073835Z" creationid="Franklin Weng" creationdate="20171212T100553Z">
+        <seg>一份&lt;f0&gt;Impress投影片，在題名的地方請你填入題名的佔位項，下面則有指引填入其他資料的佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3048,8 @@
       <tuv lang="EN">
         <seg>Both these templates include not only formatting, but a standard set of slides for developing a presentation with certain goals in mind.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T161519Z" creationid="Franklin Weng" creationdate="20171212T100403Z">
-        <seg>這些範本裡不只有儲存格式設定，還有儲存一些標準投影片結構，以便製作出具備某些特定項目要求的投影片。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T073750Z" creationid="Franklin Weng" creationdate="20171212T100403Z">
+        <seg>這些範本裡不只儲存格式設定，還有儲存一些標準投影片結構，方便製作出具備某些特定項目要求的投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6660,8 +6660,8 @@
       <tuv lang="EN">
         <seg>Placeholders help you to rough out a design without requiring specific information.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T134316Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
-        <seg>這些佔位項可以協助你對整份文件的設計有個概略的認識，而不需要特定的資訊。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T073952Z" creationid="Franklin Weng" creationdate="20171212T100629Z">
+        <seg>這些佔位項可以協助你大略鋪陳簡報的設計，不必填入特定的資訊。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
