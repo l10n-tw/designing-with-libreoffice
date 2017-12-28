@@ -1010,8 +1010,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice templates&lt;/f0&gt; are designed to eliminate the problems that &lt;f1&gt;caused the corruption&lt;/f1&gt; in Word.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T100525Z" creationid="Franklin Weng" creationdate="20171212T100709Z">
-        <seg>&lt;f0&gt;LibreOffice範本&lt;/f0&gt;功能在設計時，就針對這些使用Word&lt;f1&gt;容易讓程式跟使用者一起崩潰&lt;/f1&gt;的問題做了改進。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102735Z" creationid="Franklin Weng" creationdate="20171212T100709Z">
+        <seg>&lt;f0&gt;LibreOffice範本&lt;/f0&gt;功能在設計時，就有針對這些使用Word&lt;f1&gt;容易讓把範本弄壞&lt;/f1&gt;的問題做了改進。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4905,8 +4905,8 @@
       <tuv lang="EN">
         <seg>If you are a long-time user of office suites, you may be wary of templates because of how easily they became corrupted in Microsoft Word when you made any changes or tried to mix templates.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T074120Z" creationid="Franklin Weng" creationdate="20171212T100643Z">
-        <seg>如果你之前用過很久的Office，你可能會對範本感到有些反感，因為在 Microsoft Word中修改範本、或你試著把幾個範本結合在一起時很容易當掉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102640Z" creationid="Franklin Weng" creationdate="20171212T100643Z">
+        <seg>如果你之前用過很久的Office，你可能會對範本感到有些反感，因為在 Microsoft Word中修改範本、或你試著把幾個範本結合在一起時很容易搞壞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7783,8 +7783,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;only way that you can alter LibreOffice’s default formats without using templates is&lt;/f0&gt; to change the &lt;f1&gt;font &lt;/f1&gt;settings &lt;f2&gt;in&lt;/f2&gt; &lt;f3&gt;Tools &gt; Options &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; LibreOffice Writer &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Basic Fonts (Western).&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Default formatting such as page and list styles cannot be edited at all.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141121Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
-        <seg>你&lt;f0&gt;唯一可以不用範本而改變 LibreOffice 預設格式的方式是在&lt;/f0&gt;&lt;f3&gt;「工具」&gt;「選項」&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; 「LibreOffice Writer」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「基本字型（西方語言）」或「基本字型（亞洲語言）」。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;中改變&lt;f1&gt;字型&lt;/f1&gt;設定。&lt;f10&gt;預設的格式，如頁面與清單等都不能編輯。&lt;/f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T142957Z" creationid="Franklin Weng" creationdate="20171212T101112Z">
+        <seg>你&lt;f0&gt;唯一可以不用範本而改變LibreOffice預設格式的方式是從&lt;/f0&gt;&lt;f3&gt;「工具 &gt; 選項 &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice Writer &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;基本字型（西方語言）」或「基本字型（亞洲語言）」&lt;/f8&gt;&lt;/f7&gt;中改變&lt;f1&gt;字型&lt;/f1&gt;設定。&lt;f10&gt;至於頁面與清單這類的預設格式設定則完全不能編輯。&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8608,8 +8608,8 @@
       <tuv lang="EN">
         <seg>This omission &lt;f2&gt;eliminates&lt;/f2&gt; the possibility of a document being corrupted by &lt;f3&gt;too much editing of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; template.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102617Z" creationid="Franklin Weng" creationdate="20171212T101103Z">
-        <seg>這樣做的目的在&lt;f2&gt;避免&lt;/f2&gt;&lt;f3&gt;過度編輯&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;預設&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;範本&lt;/f6&gt;所造成的程式崩潰。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102801Z" creationid="Franklin Weng" creationdate="20171212T101103Z">
+        <seg>這樣做的目的在&lt;f2&gt;避免&lt;/f2&gt;&lt;f3&gt;過度編輯&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;預設&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;範本&lt;/f6&gt;而造成範本損毀。</seg>
       </tuv>
     </tu>
     <tu>
