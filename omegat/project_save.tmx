@@ -401,8 +401,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;As shown above, you might have sub-folders such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for templates that use American and Canadian English locales for dictionaries.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T174953Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
-        <seg>&lt;f0&gt;如上所顯示，你可能會有像是&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 與 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 之類的分類子目錄，分別代表使用美式英語與加拿大式英語的語系與拼字檢查字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175423Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
+        <seg>&lt;f0&gt;如上所顯示，你可以用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 與 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 之類的類別子目錄，來分別代表這些範本使用美式英語和加拿大式英語的拼字檢查字典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6533,8 +6533,8 @@
       <tuv lang="EN">
         <seg>Other options might be sub-folders named for a client or project or specific themes, such as light or dark backgrounds – whatever works best for you.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175329Z" creationid="Franklin Weng" creationdate="20171213T123128Z">
-        <seg>其他類別選項可能是客戶名稱或專案名稱，又或是特定的外觀主題，像是明亮背景或暗色背景等——。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175519Z" creationid="Franklin Weng" creationdate="20171213T123128Z">
+        <seg>其他類別名稱可能是客戶名稱或專案名稱，又或是特定的外觀主題，像是明亮背景或暗色背景等——端看怎麼做最適合你。</seg>
       </tuv>
     </tu>
     <tu>
