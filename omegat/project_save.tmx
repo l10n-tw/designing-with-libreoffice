@@ -1756,6 +1756,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;If you prefer an italic, you might go searching for something compatible with the regular weight.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071348Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
+        <seg>&lt;f1&gt;如果你要用的是 italic 式斜體，你可能要去搜尋一些與一般權重相容的字型樣式。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In addition, the same list style can&lt;/f1&gt; be assigned to a paragraph style so that it is used whenever you choose the paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162916Z" creationid="zerng07" creationdate="20171227T162053Z">
@@ -4183,6 +4191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, Nobile Italic is not actually an &lt;f0&gt;i&lt;/f0&gt;talic at all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071236Z" creationid="Franklin Weng" creationdate="20171228T071210Z">
+        <seg>例如，Nobile Italic 實際上根本就不是 Italic 式斜體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you are building an organizational chart, you might have a style called &lt;f0&gt;Position Boxes &lt;/f0&gt;to indicate each job.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T083506Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
@@ -5360,6 +5376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead it is an oblique – the regular weight angled to the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071311Z" creationid="Franklin Weng" creationdate="20171228T071227Z">
+        <seg>它其實是 oblique 式斜體 – 它是一般的權重，但是往右斜一個角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, headings are available for use &lt;f1&gt;the moment that&lt;/f1&gt; you set the styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040359Z" creationid="zerng07" creationdate="20171212T040359Z">
@@ -6308,6 +6332,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135216Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
         <seg>OpenOffice 的範本管理員&lt;f0&gt;還有 LibreOffice 3.3 以前的版本有功能完全相同的舊設計。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or perhaps an ampersand (&amp;) figures in your design, but the font you want to use has a mundane design for ampersands.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071549Z" creationid="Franklin Weng" creationdate="20171228T071549Z">
+        <seg>或者是，你在設計中要突顯 &amp; 符號，但你用的字型中的 &amp; 符號很普通。</seg>
       </tuv>
     </tu>
     <tu>
