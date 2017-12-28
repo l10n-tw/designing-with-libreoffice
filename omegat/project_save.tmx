@@ -3857,8 +3857,8 @@
       <tuv lang="EN">
         <seg>Each view of the Template Manager shows only the icons &lt;f0&gt;that apply to whatever is selected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T172943Z" creationid="Franklin Weng" creationdate="20171223T134413Z">
-        <seg>範本管理員的各種檢視狀態下，只會顯示適用於該選擇情境的相關圖示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173048Z" creationid="Franklin Weng" creationdate="20171223T134413Z">
+        <seg>範本管理員的各種檢視狀態下，只會顯示適用於&lt;f0&gt;該選擇情境的相關圖示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4241,8 +4241,8 @@
       <tuv lang="EN">
         <seg>For example, in Linux when you save from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TemplateMenu,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173038Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
-        <seg>舉例而言，在GNU/Linux下，當你在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;範本選單&lt;/f2&gt;&lt;/f1&gt;中儲存時&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173417Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
+        <seg>舉例而言，在GNU/Linux下，當你在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;範本選單&lt;/f2&gt;&lt;/f1&gt;中儲存時&lt;f3&gt;，範本管理員只能儲存、搜尋和檢視。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
