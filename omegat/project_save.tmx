@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Font: Nobile.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063513Z" creationid="Franklin Weng" creationdate="20171228T063513Z">
+        <seg>&lt;f0&gt;字型：Nobile。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Font&lt;/f0&gt;: ADF Romande.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132048Z" creationid="Franklin Weng" creationdate="20171225T132048Z">
@@ -2954,6 +2962,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052541Z" creationid="Franklin Weng" creationdate="20171228T052541Z">
         <seg>下方：一般大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bottom: The bold style the designer intended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063447Z" creationid="Franklin Weng" creationdate="20171228T063447Z">
+        <seg>下方：設計者想要的粗體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5904,6 +5920,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice the difference in spacing and letter shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063501Z" creationid="Franklin Weng" creationdate="20171228T063501Z">
+        <seg>注意字母形狀與間隔的不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now, each new document will use the default template unless you specifically choose another template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042912Z" creationid="Franklin Weng" creationdate="20171223T042912Z">
@@ -8390,10 +8414,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Top: A manufactured bold style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063419Z" creationid="Franklin Weng" creationdate="20171228T063419Z">
+        <seg>上方：製成後的粗體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Top: Manufactured italics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T062653Z" creationid="Franklin Weng" creationdate="20171228T062653Z">
         <seg>上方：製成後的斜體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Top: True small capitals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063531Z" creationid="Franklin Weng" creationdate="20171228T063531Z">
+        <seg>上方：真實的 small capitals。</seg>
       </tuv>
     </tu>
     <tu>
