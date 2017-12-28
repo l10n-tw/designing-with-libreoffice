@@ -914,8 +914,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Identifying&lt;/f0&gt; a template</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125049Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
-        <seg>&lt;f0&gt;辨識&lt;/f0&gt;範本檔</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152148Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
+        <seg>&lt;f0&gt;辨認&lt;/f0&gt;範本檔</seg>
       </tuv>
     </tu>
     <tu>
@@ -1653,8 +1653,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can always identify a LibreOffice template file&lt;/f0&gt;, because the second letter in its extension is always a “t.” &lt;f1&gt;This pattern is used&lt;/f1&gt; in &lt;f2&gt;both &lt;/f2&gt;Open Document Format and the &lt;f3&gt;obsolete &lt;/f3&gt;OpenOffice.org 1.0 format:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141345Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
-        <seg>&lt;f0&gt;你可以輕易分辨出一個 LibreOffice 的檔案是文件還是範本。&lt;/f0&gt;如果是範本，它的副檔名的第二個字母一定是“t”。&lt;f1&gt;這在&lt;/f1&gt;開放文件格式 (Open Document Format, ODF) 檔與&lt;f3&gt;之前的&lt;/f3&gt; OpenOffice.org 1.0 的檔案格式都通用：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152412Z" creationid="Franklin Weng" creationdate="20171212T125044Z">
+        <seg>&lt;f0&gt;你可以輕易分辨出LibreOffice的範本檔，&lt;/f0&gt;因為如果是範本，它的副檔名第二個字母一定是「t」。&lt;f1&gt;這個規則在&lt;/f1&gt;開放文件格式 (Open Document Format, ODF) 和&lt;f3&gt;之前的&lt;/f3&gt;OpenOffice.org 1.0格式中都通用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3200,8 +3200,8 @@
       <tuv lang="EN">
         <seg>By contrast, any comments or fields are copied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125016Z" creationid="Franklin Weng" creationdate="20171212T125016Z">
-        <seg>而所有的註解或欄位都會被複製。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152134Z" creationid="Franklin Weng" creationdate="20171212T125016Z">
+        <seg>不過，所有的評註內容或欄位指令仍會一併複製過去。</seg>
       </tuv>
     </tu>
     <tu>
