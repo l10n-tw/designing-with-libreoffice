@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;Font: Linux Libertine G.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063615Z" creationid="Franklin Weng" creationdate="20171228T063615Z">
+        <seg>&lt;/f1&gt;字型：Linux Libertine G。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;However, &lt;f2&gt;most of the book&lt;/f2&gt; applies to Apache OpenOffice as much as LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165104Z" creationid="zerng07" creationdate="20170822T144736Z">
@@ -1048,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Middle&lt;/f0&gt;: Manufactured small capitals for the same font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063556Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
+        <seg>&lt;f0&gt;中間&lt;/f0&gt;：相同字型，但是是製成後的 small capitals。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Much of t&lt;/f0&gt;his book is designed to explain not only what styles and templates are and how to use them, but also what you need to consider when selecting them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
@@ -1679,6 +1695,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041351Z" creationid="zerng07" creationdate="20170824T173811Z">
         <seg>&lt;f1&gt;然後一個接一個。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Bottom: Regular capitals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063606Z" creationid="Franklin Weng" creationdate="20171228T063606Z">
+        <seg>&lt;f1&gt;下方：一般的大寫字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4343,6 +4367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, &lt;f0&gt;remember that &lt;/f0&gt;just because two font styles have the same name does not mean you are under any obligation to use them together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071150Z" creationid="Franklin Weng" creationdate="20171228T071150Z">
+        <seg>不過，&lt;f0&gt;請記住&lt;/f0&gt;兩個名稱相同的字型樣式並不代表你可以把它們放在一起用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, &lt;f2&gt;it does&lt;/f2&gt; have &lt;f3&gt;many&lt;/f3&gt; of them, &lt;f4&gt;and far more than any other office suite.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143155Z" creationid="zerng07" creationdate="20170822T141509Z">
@@ -4475,6 +4507,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142600Z" creationid="zerng07" creationdate="20171225T074809Z">
         <seg>然而，如果你切換到「清單樣式」，只要游標沒有放在清單樣式的文字之上，就不會看到有樣式被反白標明。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, in practice, font styles are inconsistent enough that &lt;f0&gt;the best they can give you is a rough indication of whether a font is suitable for your needs.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063810Z" creationid="Franklin Weng" creationdate="20171228T063810Z">
+        <seg>不過實際上，字型的樣式變化很大，所以&lt;f0&gt;最多只能給你一個粗略的概念，看某個字型是否符合你的需求。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5276,6 +5316,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040611Z" creationid="zerng07" creationdate="20171212T040604Z">
         <seg>同樣地，標題樣式能讓你&lt;f2&gt;幾乎不用什麼設定&lt;/f2&gt;就能做出文件目錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In theory, font styles should help you to choose fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063700Z" creationid="Franklin Weng" creationdate="20171228T063700Z">
+        <seg>理論上，字型的樣式可以協助你選擇字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6849,6 +6897,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075504Z" creationid="Jeff Huang" creationdate="20171214T062547Z">
         <seg>按下「&lt;f0&gt;工具 &gt; 更新 &gt; 全部更新&lt;/f0&gt;」以確保所有欄位都是最新狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting fonts by font styles / &lt;f0&gt;typefaces&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063645Z" creationid="Franklin Weng" creationdate="20171228T063645Z">
+        <seg>用樣式/&lt;f0&gt;字樣&lt;/f0&gt;來選擇字型</seg>
       </tuv>
     </tu>
     <tu>
@@ -8474,6 +8530,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T174200Z" creationid="zerng07" creationdate="20171226T174200Z">
         <seg>若要在&lt;f0&gt;LibreOffice&lt;/f0&gt;中錄製巨集，你要先到「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 進階 &gt; 啟用巨集錄製功能（功能尚有限）&lt;/f1&gt;&lt;f2&gt;」。&lt;/f2&gt;接著「&lt;f7&gt;工具 &gt; 巨集&lt;/f7&gt;」下就會列出「&lt;f6&gt;記錄巨集&lt;/f6&gt;」&lt;f3&gt;選單項目&lt;/f3&gt;，整個過程不需要重新啟動LibreOffice。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start with, a font family traditionally contains four main styles: Regular, Italic, Bold, and Bold Italic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071056Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
+        <seg>我們開始來看。一個字族一般都有四種主要樣式：一般、斜體、粗體、粗斜體。</seg>
       </tuv>
     </tu>
     <tu>
