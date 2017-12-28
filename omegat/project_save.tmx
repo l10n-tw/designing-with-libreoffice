@@ -1002,8 +1002,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice does not display template directories directly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125449Z" creationid="Franklin Weng" creationdate="20171212T125449Z">
-        <seg>&lt;f0&gt;LibreOffice 不會直接顯示範本目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152540Z" creationid="Franklin Weng" creationdate="20171212T125449Z">
+        <seg>&lt;f0&gt;LibreOffice不會直接顯示範本目錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5522,8 +5522,8 @@
       <tuv lang="EN">
         <seg>Instead, it creates a virtual view of the contents of all the template directories listed in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Template Manager&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125935Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
-        <seg>相對地，它會將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「工具」&gt;「選項」&gt;「路徑」&gt;「範本」&lt;/f2&gt;&lt;/f1&gt;中所列出的範本目錄中所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;範本&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152750Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
+        <seg>它會將&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; 路徑 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」中所列出的範本目錄下所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;範本&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7599,8 +7599,8 @@
       <tuv lang="EN">
         <seg>Template extensio&lt;f0&gt;n&lt;/f0&gt;s for Open Document Format and the older OpenOffice.org format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125408Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
-        <seg>&lt;f0&gt;開放文件格式與舊的 OpenOffice.org 格式檔案的範本副檔名&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152500Z" creationid="Franklin Weng" creationdate="20171212T125348Z">
+        <seg>&lt;f0&gt;開放文件格式與舊版OpenOffice.org格式的範本副檔名&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
