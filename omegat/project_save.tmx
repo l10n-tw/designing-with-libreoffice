@@ -1130,8 +1130,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Only one template can be applied at one time to a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114907Z" creationid="Franklin Weng" creationdate="20171212T114907Z">
-        <seg>&lt;f0&gt;一份範本一次只能套用到一份文件上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143947Z" creationid="Franklin Weng" creationdate="20171212T114907Z">
+        <seg>&lt;f0&gt;一份文件一次只能套用一種範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8624,8 +8624,8 @@
       <tuv lang="EN">
         <seg>This policy avoids the tendency to corruption that used to plague &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word (and may still do, for all that I know).&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T134517Z" creationid="Franklin Weng" creationdate="20171212T115129Z">
-        <seg>這個原則可以避免之前 &lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word 範本會一直崩潰的問題（就我所知似乎這個問題現在還在）&lt;/f3&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144150Z" creationid="Franklin Weng" creationdate="20171212T115129Z">
+        <seg>這個原則可以避免之前提過&lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word一直為人詬病的毀損問題（就我所知，似乎這個問題可能還在）。&lt;/f3&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9417,8 +9417,8 @@
       <tuv lang="EN">
         <seg>Whichever template you use, it &lt;f0&gt;must be properly registered before you can use it.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T114845Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
-        <seg>不管你用哪一份範本，都要&lt;f0&gt;先將範本註冊完成才能開始使用。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143959Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
+        <seg>不管你用什麼範本，都要&lt;f0&gt;先完成範本註冊才能開始使用。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
