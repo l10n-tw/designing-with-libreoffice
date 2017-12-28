@@ -1266,6 +1266,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Small capitals are not only smaller than regular capitals, but also proportioned differently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052613Z" creationid="Franklin Weng" creationdate="20171228T052613Z">
+        <seg>&lt;f0&gt;Small capitals 不只比一般大寫字母小，它的寬高比例也不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes&lt;/f0&gt;, however, you may want to deal with templates &lt;f1&gt;from outside LibreOffice&lt;/f1&gt;, either because LibreOffice is not open or because you are dealing with &lt;f2&gt;more than one template at a time&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133349Z" creationid="Franklin Weng" creationdate="20171223T133349Z">
@@ -2922,6 +2930,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T161519Z" creationid="Franklin Weng" creationdate="20171212T100403Z">
         <seg>這些範本裡不只有儲存格式設定，還有儲存一些標準投影片結構，以便製作出具備某些特定項目要求的投影片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bottom: Regular upper case letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052541Z" creationid="Franklin Weng" creationdate="20171228T052541Z">
+        <seg>下方：一般大寫字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8304,8 +8320,8 @@
       <tuv lang="EN">
         <seg>Top: True small caps, created using the font’s metrics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052530Z" creationid="Franklin Weng" creationdate="20171228T050147Z">
-        <seg>上方：實際的 Small caps 字母，用字型的詮釋資料所建立。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052550Z" creationid="Franklin Weng" creationdate="20171228T050147Z">
+        <seg>上方：Small caps 的大寫字母，用字型的詮釋資料所建立。</seg>
       </tuv>
     </tu>
     <tu>
