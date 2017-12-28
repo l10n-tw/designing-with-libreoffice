@@ -5519,6 +5519,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>雖然視窗標題是「範本」沒錯，但在 LibreOffice 中確實被稱為 Template Manager，翻譯為「範本管理員」。</note>
       <tuv lang="EN">
         <seg>Instead, it creates a virtual view of the contents of all the template directories listed in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Template Manager&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window.&lt;/f6&gt;</seg>
       </tuv>
