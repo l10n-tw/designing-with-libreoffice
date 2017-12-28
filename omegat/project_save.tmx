@@ -1870,8 +1870,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;S&lt;/f1&gt;tyles &lt;f2&gt;shared by&lt;/f2&gt; the template and the document are updated, &lt;f3&gt;but&lt;/f3&gt; &lt;f4&gt;styles that are only in the document a&lt;/f4&gt;re not.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115515Z" creationid="Franklin Weng" creationdate="20171212T115515Z">
-        <seg>範本與文件&lt;f2&gt;共用&lt;/f2&gt;的&lt;f1&gt;樣式&lt;/f1&gt;會一起更新，&lt;f3&gt;但&lt;/f3&gt;&lt;f4&gt;只存在於文件中的樣式則不會&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144942Z" creationid="Franklin Weng" creationdate="20171212T115515Z">
+        <seg>文件中從範本&lt;f2&gt;分享來&lt;/f2&gt;的樣式會跟著更新，&lt;f3&gt;但&lt;/f3&gt;&lt;f4&gt;文件自己獨有的樣式則不會&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4873,8 +4873,8 @@
       <tuv lang="EN">
         <seg>If the template changes, the next time &lt;f0&gt;you restart LibreOffice and open the document&lt;/f0&gt;, you are prompted to update the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144747Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
-        <seg>如果範本變更了，下次&lt;f0&gt;你重新啟動LibreOffice開啟文件時&lt;/f0&gt;，它會提醒你文件是否要一併更新。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144950Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
+        <seg>如果範本變更了，下次&lt;f0&gt;你重新啟動LibreOffice開啟文件時&lt;/f0&gt;，它會詢問你的文件是否要一併更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4889,8 +4889,8 @@
       <tuv lang="EN">
         <seg>If you &lt;f0&gt;choose&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;U&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;pdate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles&lt;/f5&gt;&lt;/f4&gt;, then the document continues to be linked to the template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T115712Z" creationid="Franklin Weng" creationdate="20171212T115712Z">
-        <seg>如果你&lt;f0&gt;選擇&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;更新&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&lt;f5&gt;樣式&lt;/f5&gt;&lt;/f4&gt;&lt;/f3&gt;，那文件則會持續與範本連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145135Z" creationid="Franklin Weng" creationdate="20171212T115712Z">
+        <seg>如果你&lt;f0&gt;選擇&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;更新&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;f5&gt;樣式&lt;/f5&gt;&lt;/f4&gt;」，那麼文件就會繼續和範本連結。</seg>
       </tuv>
     </tu>
     <tu>
