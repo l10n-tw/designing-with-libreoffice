@@ -1042,8 +1042,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;acros and extensions &lt;f1&gt;are sometimes&lt;/f1&gt; available for re-attaching styles to a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151449Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
-        <seg>有一些巨集或擴充套件&lt;f1&gt;有的時候&lt;/f1&gt;可以將樣式重新附上文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151511Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
+        <seg>有一些巨集或擴充套件&lt;f1&gt;有的時候&lt;/f1&gt;可以將樣式重接到文件上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,8 +2014,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Currently, Template Changer extension is available, but it has not had a release for some time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151325Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
-        <seg>&lt;f2&gt;目前也可以找得到「範本變更器」(Template Changer) 擴充套件，不過已經有一段時間沒有發行新版。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151533Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
+        <seg>&lt;f2&gt;目前，有個「範本變更器」(Template Changer) 擴充套件可用，不過已經有一段時間沒有發行新版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,8 +2896,8 @@
       <tuv lang="EN">
         <seg>At any rate, any attempt to swap templates raises the possibility of corruption, so test the extension using duplicate files until you are confident that it works.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124659Z" creationid="Franklin Weng" creationdate="20171212T124659Z">
-        <seg>無論如何，任何變更所使用的範本的動作都有可能造成程式與文件（還有你）的崩潰，所以使用這類擴充套件時最好先在多一點的檔案中嘗試，直到你確信它沒問題為止。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151855Z" creationid="Franklin Weng" creationdate="20171212T124659Z">
+        <seg>無論如何，試圖交換所使用的範本很有機會造成文件（還有你的心靈）損毀，所以在正式使用前請先再製一份副本，接著拿這份副本去測試這個擴充套件，直到你確信運作上沒問題才做。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
