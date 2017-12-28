@@ -4559,6 +4559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, even in this summary, problems &lt;f0&gt;emerge&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T075347Z" creationid="Franklin Weng" creationdate="20171228T075347Z">
+        <seg>不過，即使這樣做還是會&lt;f0&gt;發生問題&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, giving names to every element is hard work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055704Z" creationid="Jeff Huang" creationdate="20171123T075855Z">
@@ -5059,6 +5067,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130627Z" creationid="Franklin Weng" creationdate="20171223T130550Z">
         <seg>如果你把一個沒有套用範本的文件匯進主控文件內，它會重新排過格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you know &lt;f0&gt;&lt;f1&gt;CSS&lt;/f1&gt;&lt;/f0&gt;, you may recall &lt;f2&gt;how it&lt;/f2&gt; categorize&lt;f3&gt;s&lt;/f3&gt; font &lt;f4&gt;weights&lt;/f4&gt; with three-digit numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072518Z" creationid="Franklin Weng" creationdate="20171228T072518Z">
+        <seg>如果你知道&lt;f0&gt;&lt;f1&gt;CSS&lt;/f1&gt;&lt;/f0&gt;，你可能記得它是&lt;f2&gt;如何用三碼數字&lt;/f2&gt;來分類字型的&lt;f4&gt;權重&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5580,6 +5596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153703Z" creationid="zerng07" creationdate="20171225T153703Z">
         <seg>一般描述或暗示這個樣式的功用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italic and Oblique have no natural place, which is why you now see fonts designated as Italic or Oblique in their names.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T075349Z" creationid="Franklin Weng" creationdate="20171228T075349Z">
+        <seg>Italic and Oblique have no natural place, which is why you now see fonts designated as Italic or Oblique in their names.</seg>
       </tuv>
     </tu>
     <tu>
