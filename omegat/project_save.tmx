@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A few fonts take a different approach, and divide fonts into Serif, Sans, and Monospace.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T055844Z" creationid="Franklin Weng" creationdate="20171228T055844Z">
+        <seg>&lt;f0&gt;有一些些字型則是用不同的方式來區分，分成有襯線（Serif）、無襯線（Sans）與固定寬度（Monospace）等。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A more reliable solution&lt;/f0&gt; &lt;f1&gt;is usually to &lt;/f1&gt;copy and paste the file contents to a blank file created from the original template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T124812Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
@@ -3903,6 +3911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Fanwood.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052629Z" creationid="Franklin Weng" creationdate="20171228T052629Z">
+        <seg>字型：Fanwood。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Goudy Bookletter 1911.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135246Z" creationid="Franklin Weng" creationdate="20171225T135246Z">
@@ -4988,6 +5004,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125056Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
         <seg>此外，任何在原始文件中使用的自訂名稱的樣式，都會複製到新文件去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, some font families include styles such as Bold Italic, Thin, and Outline.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052654Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
+        <seg>此外，有些字族包含了像是粗斜體、斜體、細體與輪廓等等的樣式。</seg>
       </tuv>
     </tu>
     <tu>
