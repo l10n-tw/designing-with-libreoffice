@@ -1436,8 +1436,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The Template Manager opens from several places in the menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130038Z" creationid="Franklin Weng" creationdate="20171212T130038Z">
-        <seg>&lt;f0&gt;「範本」視窗可以從選單中幾個不同的地方開啟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152922Z" creationid="Franklin Weng" creationdate="20171212T130038Z">
+        <seg>&lt;f0&gt;你可以從選單中幾個不同的地方開啟這個「範本管理員」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5522,8 +5522,8 @@
       <tuv lang="EN">
         <seg>Instead, it creates a virtual view of the contents of all the template directories listed in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Template Manager&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152750Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
-        <seg>它會將&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; 路徑 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」中所列出的範本目錄下所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;範本&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152805Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
+        <seg>它會將&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; 路徑 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」中所列出的範本目錄下所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;範本管理員&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6402,8 +6402,8 @@
       <tuv lang="EN">
         <seg>One is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; New &gt; Templates&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Depending on the version and operating system, it may also open from:&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130133Z" creationid="Franklin Weng" creationdate="20171212T130133Z">
-        <seg>其中一個是&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案」&gt;「新增」&gt;「範本」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;。&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;而根據不同的作業系統以及軟體版本，它也可以從這些地方開啟：&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T153033Z" creationid="Franklin Weng" creationdate="20171212T130133Z">
+        <seg>其中一個是&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;檔案 &gt; 新增 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。&lt;/f3&gt;&lt;f6&gt;而取決於不同的作業系統以及軟體版本，它也可以從這些地方開啟：&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7879,8 +7879,8 @@
       <tuv lang="EN">
         <seg>The Template Manager&lt;f0&gt;, &lt;/f0&gt;showing sub-folders for different categories.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T130015Z" creationid="Franklin Weng" creationdate="20171212T130015Z">
-        <seg>在「範本」視窗中顯示不同類別的子資料夾。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152852Z" creationid="Franklin Weng" creationdate="20171212T130015Z">
+        <seg>範本管理員會顯示不同類別的子資料夾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9129,8 +9129,8 @@
       <tuv lang="EN">
         <seg>Using the Template Manager</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125431Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
-        <seg>管理範本</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152757Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
+        <seg>範本管理員</seg>
       </tuv>
     </tu>
     <tu>
