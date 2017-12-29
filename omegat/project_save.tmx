@@ -3337,8 +3337,8 @@
       <tuv lang="EN">
         <seg>By contrast, custom-named styles that are defined but not in use, &lt;f0&gt;as well as tracked changes,&lt;/f0&gt; will not appear in the new document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125150Z" creationid="Franklin Weng" creationdate="20171223T125150Z">
-        <seg>不過，文件中定義但沒使用的自訂樣式名稱，還有追蹤紀錄，則不會出現在新副本中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140437Z" creationid="Franklin Weng" creationdate="20171223T125150Z">
+        <seg>不過，文件中有定義但沒用到的自訂樣式，&lt;f0&gt;還有追蹤修訂的紀錄&lt;/f0&gt;，都不會出現在新文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,8 +5188,8 @@
       <tuv lang="EN">
         <seg>If you experience some problems with graphics, try copying and pasting &lt;f0&gt;a few pages at a time&lt;/f0&gt; instead of all at once.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125020Z" creationid="Franklin Weng" creationdate="20171223T125020Z">
-        <seg>如果你在處理圖片時發生一些問題，試試不要一次全部複製過去，而改成一次只複製幾頁就好。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140326Z" creationid="Franklin Weng" creationdate="20171223T125020Z">
+        <seg>如果你在處理圖片時發生一些問題，試著不要一次全部複製過去，而改成&lt;f0&gt;一次只複製幾頁&lt;/f0&gt;就好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5268,8 +5268,8 @@
       <tuv lang="EN">
         <seg>If you import the template-less document into the master document, it will be reformatted while &lt;f0&gt;being &lt;/f0&gt;used from within the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130627Z" creationid="Franklin Weng" creationdate="20171223T130550Z">
-        <seg>如果你把一個沒有套用範本的文件匯進主控文件內，它會重新排過格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140544Z" creationid="Franklin Weng" creationdate="20171223T130550Z">
+        <seg>如果你把一個沒有套用範本的文件匯進主控文件內，它會用主控文件內的樣式重新設定內容格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,8 +5453,8 @@
       <tuv lang="EN">
         <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T125056Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
-        <seg>此外，任何在原始文件中使用的自訂名稱的樣式，都會複製到新文件去。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140344Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
+        <seg>此外，任何在原始文件中使用的自訂名稱樣式，也都會一併複製到新文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8372,8 +8372,8 @@
       <tuv lang="EN">
         <seg>The first is to open a document based on another template, then copy and paste into it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140154Z" creationid="Franklin Weng" creationdate="20171223T124847Z">
-        <seg>第一種是用另一個範本開一個新文件，然後把文件內容通通複製過去。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140441Z" creationid="Franklin Weng" creationdate="20171223T124847Z">
+        <seg>第一種是用另一個範本開一個新文件，然後把原始文件內容通通複製過去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,8 +9576,8 @@
       <tuv lang="EN">
         <seg>When not opened from the master document, it will revert to its original formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130639Z" creationid="Franklin Weng" creationdate="20171223T130618Z">
-        <seg>而當不是用主控文件開啟時，則會回到原始的格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140605Z" creationid="Franklin Weng" creationdate="20171223T130618Z">
+        <seg>而當不是用主控文件開啟時，則會還原到原始的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
