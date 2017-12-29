@@ -1227,8 +1227,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123718Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
-        <seg>這些是Writer中文信件開頭常用的&lt;f0&gt;佔位項&lt;/f0&gt;&lt;f1&gt;欄位&lt;/f1&gt;，依次替換後可為：好馬先生尊鑒，敬啟者：。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T145641Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
+        <seg>這些是Writer中文信件開頭常用的&lt;f0&gt;佔位項&lt;/f0&gt;&lt;f1&gt;欄位&lt;/f1&gt;，依次替換後可為：「好馬先生尊鑒，敬啟者：」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2440,8 +2440,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;&lt;Salutation&gt;&lt;/t0&gt; &lt;t1&gt;&lt;Title&gt;&lt;/t1&gt; &lt;t2&gt;&lt;Last Name&gt;&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123534Z" creationid="Franklin Weng" creationdate="20171223T093246Z">
-        <seg>&lt;t0&gt;&lt;稱謂&gt;&lt;/t0&gt; &lt;t1&gt;&lt;提稱語&gt;&lt;/t1&gt;，&lt;t2&gt;&lt;啟事敬辭&gt;：&lt;/t2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T145706Z" creationid="Franklin Weng" creationdate="20171223T093246Z">
+        <seg>&lt;t0&gt;&lt;稱謂&gt;&lt;/t0&gt; &lt;t1&gt;&lt;提稱語&gt;，&lt;/t1&gt;&lt;t2&gt;&lt;啟事敬辭&gt;：&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
