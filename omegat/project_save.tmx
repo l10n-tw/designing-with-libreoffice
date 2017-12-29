@@ -2303,8 +2303,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Or perhaps you want to organize your installation by adding sub-folders to the main template directories.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140233Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
-        <seg>&lt;f3&gt;或者可能你要重新組織你的主要範本目錄，在裡面新增子目錄等等。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142457Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
+        <seg>&lt;f3&gt;或者可能你要重新整理你的主要範本目錄，在裡面新增子目錄等等。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5661,8 +5661,8 @@
       <tuv lang="EN">
         <seg>In these cases, &lt;f0&gt;you can interact with templates through a file manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133438Z" creationid="Franklin Weng" creationdate="20171223T133438Z">
-        <seg>在這種情況下，你可以透過你系統上的檔案管理員來處理範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142522Z" creationid="Franklin Weng" creationdate="20171223T133438Z">
+        <seg>在這種情況下，&lt;f0&gt;你可以透過你系統上的檔案管理員來處理範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8236,8 +8236,8 @@
       <tuv lang="EN">
         <seg>The director&lt;f0&gt;y (or directories)&lt;/f0&gt; where templates are stored is listed in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133617Z" creationid="Franklin Weng" creationdate="20171223T133553Z">
-        <seg>在「工具」&gt;「選項」&gt;「路徑」中所列出的存放範本的目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142647Z" creationid="Franklin Weng" creationdate="20171223T133553Z">
+        <seg>在「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 路徑&lt;/f1&gt;」中所列出的範本存放目錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8614,8 +8614,8 @@
       <tuv lang="EN">
         <seg>The storage directory for templates varies with the operating system and software release, but you can find which directories your installation is using by going to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133543Z" creationid="Franklin Weng" creationdate="20171223T133543Z">
-        <seg>範本儲存的目錄依作業系統與軟體版本而有所不同，不過你可以在「工具」&gt;「選項」&gt;「路徑」&gt;「範本」中找到範本存放的路徑。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142544Z" creationid="Franklin Weng" creationdate="20171223T133543Z">
+        <seg>範本儲存的目錄依作業系統與軟體發行版本而有所不同，不過你可以在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; 路徑 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」中找到範本的存放路徑。</seg>
       </tuv>
     </tu>
     <tu>
