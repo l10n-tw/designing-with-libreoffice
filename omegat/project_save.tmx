@@ -2464,8 +2464,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;basic business card template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123642Z" creationid="Franklin Weng" creationdate="20171223T123642Z">
-        <seg>基本的名片範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131459Z" creationid="Franklin Weng" creationdate="20171223T123642Z">
+        <seg>&lt;f0&gt;基本的名片範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3377,8 +3377,8 @@
       <tuv lang="EN">
         <seg>By contrast, v&lt;/f0&gt;ariable &lt;f1&gt;fields always update to the current date and time&lt;/f1&gt; when &lt;f2&gt;anyone&lt;/f2&gt; open&lt;f3&gt;s&lt;/f3&gt; a document &lt;f4&gt;or update the fields.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124455Z" creationid="Franklin Weng" creationdate="20171223T094020Z">
-        <seg>相反地，&lt;/f0&gt;可變&lt;f1&gt;欄位在每次&lt;/f1&gt;&lt;f2&gt;任何人&lt;f2&gt;開啟文件時就會將欄位更新成當下這個時間點的值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131921Z" creationid="Franklin Weng" creationdate="20171223T094020Z">
+        <seg>相反地，&lt;/f0&gt;可變&lt;f1&gt;欄位在每次&lt;/f1&gt;&lt;f2&gt;任何人&lt;/f2&gt;開啟文件時就會將欄位更新成當下這個時間點的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,8 +3673,8 @@
       <tuv lang="EN">
         <seg>Create an Image placeholder and call it &lt;f0&gt;Graphic&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130541Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
-        <seg>建立一個「影像」格式的佔位項，隨意命名為 &lt;f0&gt;「圖片」&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132217Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
+        <seg>建立一個「影像」格式的佔位項，隨意命名為 「&lt;f0&gt;圖片&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,8 +3866,8 @@
       <tuv lang="EN">
         <seg>Document information, stored or displayed in &lt;f0&gt;File &gt; Properties.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124028Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
-        <seg>文件資訊，儲存或顯示在「&lt;f0&gt;檔案 &gt; 屬性&lt;/f0&gt;」中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132326Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
+        <seg>文件資訊，儲存或顯示在「&lt;f0&gt;檔案 &gt; 屬性」中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,8 +6921,8 @@
       <tuv lang="EN">
         <seg>Placeholders are used for information, and the name is filled in using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, which borrows information from &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data &gt; First / Last Name.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123804Z" creationid="Franklin Weng" creationdate="20171223T123732Z">
-        <seg>佔位符用於填入資訊，而名字則使用「作者」欄位，直接借用「工具」&gt;「選項」&gt;「LibreOffice」&gt;「使用者資料」中的姓跟名。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131715Z" creationid="Franklin Weng" creationdate="20171223T123732Z">
+        <seg>使用佔位符填入資訊，其中姓名的部分使用了「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;作者&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位，會直接取用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 使用者資料&lt;/f5&gt;&lt;/f4&gt;」中的姓名。</seg>
       </tuv>
     </tu>
     <tu>
