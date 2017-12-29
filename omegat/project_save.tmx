@@ -2013,6 +2013,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;A Standard connector is useful in crowded hierarchical diagrams, in which several objects are subordinate to one above them, such as directors below executive officers in a company chart.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T015813Z" creationid="Jeff Huang" creationdate="20171229T015813Z">
+        <seg>&lt;f2&gt;標準連接符在擁擠的分層圖中很有用，在這種分層圖中，可能會有幾個物件從屬於其上的物件，如執行長下的董事等等。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;A few seem to suffer from longstanding bugs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T162404Z" creationid="zerng07" creationdate="20170822T162208Z">
