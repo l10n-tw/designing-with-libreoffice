@@ -2159,8 +2159,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;t assumes that most users want a generic &lt;t3/&gt;font, like Times New Roman or Liberation Serif.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135626Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
-        <seg>例如它根據大部份使用者的習慣，將字型設定為常用的，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112244Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
+        <seg>例如它根據大部份使用者的習慣，將字型設定為通用字型，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5758,8 +5758,8 @@
       <tuv lang="EN">
         <seg>It assumes that a connection exists between language locale and paper size, so that an installation that defaults to American English will use letter-sized paper, while one that defaults to United Kingdom English will use A4 paper.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042615Z" creationid="Franklin Weng" creationdate="20171223T042615Z">
-        <seg>它也假設在使用的語言設定與使用的紙張大小間有一定的關聯。所以當安裝時使用的語言是美式英文的話，紙張大小預設就使用 Letter，而使用英式英文的話，紙張大小預設就使用 A4。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112351Z" creationid="Franklin Weng" creationdate="20171223T042615Z">
+        <seg>它也假設使用的語言地區設定和紙張大小間有一定的關聯。所以當安裝時使用的語言是美式英文的話，紙張大小預設會使用 Letter，而使用英式英文的話，紙張大小預設就使用 A4。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8228,8 +8228,8 @@
       <tuv lang="EN">
         <seg>The default template &lt;f0&gt;for each module in LibreOffice &lt;/f0&gt;is based on &lt;f1&gt;several &lt;/f1&gt;assumptions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042317Z" creationid="Franklin Weng" creationdate="20171223T042317Z">
-        <seg>LibreOffice 中每個模組的預設範本設定，都是基於一些使用者常見行為所做出的假設。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112206Z" creationid="Franklin Weng" creationdate="20171223T042317Z">
+        <seg>&lt;f0&gt;LibreOffice中每個模組&lt;/f0&gt;的預設範本，都是基於一些使用者常見行為所做出的假設。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,8 +9015,8 @@
       <tuv lang="EN">
         <seg>To avoid any legal difficulties – however remote – &lt;f0&gt;a&lt;/f0&gt;void using templates designed for Microsoft Office except for personal, non-commercial use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T090836Z" creationid="Franklin Weng" creationdate="20171215T125222Z">
-        <seg>為了避免任何法律問題——雖然它的著作權人在國外——但最好盡量避免使用為Microsoft Office所設計的範本，除非是個人、非商業使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111957Z" creationid="Franklin Weng" creationdate="20171215T125222Z">
+        <seg>為了避免任何法律問題——即使它的著作權人在國外——最好盡量避免使用為Microsoft Office所設計的範本，除非是個人、非商業使用。</seg>
       </tuv>
     </tu>
     <tu>
