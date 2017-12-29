@@ -1814,8 +1814,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Click the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; button to continue.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135824Z" creationid="Franklin Weng" creationdate="20171223T121039Z">
-        <seg>&lt;f1&gt;點擊&lt;/f1&gt;「插入」來繼續下一步。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130551Z" creationid="Franklin Weng" creationdate="20171223T121039Z">
+        <seg>&lt;f1&gt;點按&lt;/f1&gt;「插入」繼續下一步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,8 +3673,8 @@
       <tuv lang="EN">
         <seg>Create an Image placeholder and call it &lt;f0&gt;Graphic&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121235Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
-        <seg>建立一個影像的佔位項，命名為 &lt;f0&gt;「圖片」&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130541Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
+        <seg>建立一個「影像」格式的佔位項，隨意命名為 &lt;f0&gt;「圖片」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
