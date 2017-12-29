@@ -1750,8 +1750,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can delete custom or imported templates.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124131Z" creationid="Franklin Weng" creationdate="20171223T124131Z">
-        <seg>&lt;f0&gt;你可以刪除掉自己做的或匯入的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133141Z" creationid="Franklin Weng" creationdate="20171223T124131Z">
+        <seg>&lt;f0&gt;你可以刪掉自己做範本的或匯入的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,8 +4835,8 @@
       <tuv lang="EN">
         <seg>However, remember to register your changes by saving with &lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Save &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;A&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;s Template.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124113Z" creationid="Franklin Weng" creationdate="20171223T124113Z">
-        <seg>不過，弄好之後要記得從「檔案」&gt;「範本」&gt;「另存為範本」來儲存並註冊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133129Z" creationid="Franklin Weng" creationdate="20171223T124113Z">
+        <seg>不過，弄好之後要記得從「&lt;f2&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f2&gt;」來儲存並註冊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10073,8 +10073,8 @@
       <tuv lang="EN">
         <seg>You cannot delete templates installed with LibreOffice, through an extension, or for the entire system, although you can delete the extension from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Extension Manager&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135925Z" creationid="Franklin Weng" creationdate="20171223T124324Z">
-        <seg>至於 LibreOffice 內安裝的範本，&lt;/f0&gt;你是無法透過擴充套件，或是從系統中刪除的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133446Z" creationid="Franklin Weng" creationdate="20171223T124324Z">
+        <seg>至於隨LibreOffice安裝的範本、透過擴充套件安裝的範本、或是給全域系統使用的範本，除了擴充套件可以從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 擴充套件管理員&lt;/f2&gt;&lt;/f1&gt;」刪除以外，其餘都無法刪除。</seg>
       </tuv>
     </tu>
     <tu>
