@@ -1525,8 +1525,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The placeholders are added as fields in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093157Z" creationid="Franklin Weng" creationdate="20171223T093157Z">
-        <seg>&lt;f0&gt;佔位項加到文件中成為欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121426Z" creationid="Franklin Weng" creationdate="20171223T093157Z">
+        <seg>&lt;f0&gt;佔位項加到文件中就成為欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7924,8 +7924,8 @@
       <tuv lang="EN">
         <seg>The &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Reference&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field can be ignored.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093111Z" creationid="Franklin Weng" creationdate="20171223T093111Z">
-        <seg>「工具提示」一欄可填可不填。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121227Z" creationid="Franklin Weng" creationdate="20171223T093111Z">
+        <seg>&lt;/f10&gt;「工具提示」(Reference) 一欄可填可不填。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7988,8 +7988,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Fields&lt;/f0&gt; dialog window for adding placeholders in Writer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093130Z" creationid="Franklin Weng" creationdate="20171223T093130Z">
-        <seg>在 Writer 中新增佔位項的「欄位」視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121402Z" creationid="Franklin Weng" creationdate="20171223T093130Z">
+        <seg>在Writer中新增佔位項的「欄位」對話視窗。</seg>
       </tuv>
     </tu>
     <tu>
