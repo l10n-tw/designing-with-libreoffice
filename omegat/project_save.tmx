@@ -817,8 +817,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From within the Template Manager, select the template to delete, then click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Delete&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135938Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
-        <seg>&lt;f0&gt;在範本視窗內，選擇要刪除的範本，在上面點擊右鍵選擇&lt;/f0&gt;「刪除」即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133617Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
+        <seg>&lt;f0&gt;在範本管理員下，選擇要刪除的個人範本，在上面點按右鍵選擇&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;刪除&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕即可。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8132,8 +8132,8 @@
       <tuv lang="EN">
         <seg>The Template &lt;f0&gt;M&lt;/f0&gt;anager does not include confirmation dialogs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124501Z" creationid="Franklin Weng" creationdate="20171223T124501Z">
-        <seg>在範本選單內操作時，不會在做動作以前向你再確認一次。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133752Z" creationid="Franklin Weng" creationdate="20171223T124501Z">
+        <seg>在範本管理員中操作時，在真正刪除以前會向你再確認一次。</seg>
       </tuv>
     </tu>
     <tu>
