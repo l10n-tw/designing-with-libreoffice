@@ -4305,6 +4305,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a Line or Straight connector, you can also adjust the &lt;t1/&gt;line skew – that is, the length of the line segments included – &lt;f2&gt;and the horizontal and vertical space for the line segments.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T022242Z" creationid="Jeff Huang" creationdate="20171229T022242Z">
+        <seg>對於線條或直線連接符，你也可以調整&lt;t1/&gt;線段偏斜（此即包含線段的長度）&lt;f2&gt;以及線段的水平與垂直間距。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For detailed information about the &lt;f0&gt;Alignment, Font, Font Effect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, Indents &amp; Spacing,&lt;/f3&gt; and &lt;f4&gt;Tabs&lt;/f4&gt; tab&lt;f5&gt;s&lt;/f5&gt;, see &lt;f6&gt;Chapters 3-5.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081416Z" creationid="Jeff Huang" creationdate="20171228T062709Z">
@@ -8846,6 +8854,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014913Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
         <seg>要新增連接符，在繪圖工具列上點選&lt;f0&gt;連接符&lt;/f0&gt;按鈕（從左邊數過來第八個）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To adjust a connector, go to the &lt;f0&gt;Connector&lt;/f0&gt; tab of a graphic style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021906Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
+        <seg>要調整連接符，請到圖樣的&lt;f0&gt;連接符&lt;/f0&gt;分頁。</seg>
       </tuv>
     </tu>
     <tu>
