@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Curved:&lt;/f0&gt; A connector with one curved line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020953Z" creationid="Jeff Huang" creationdate="20171229T020953Z">
+        <seg>&lt;f0&gt;曲線：&lt;/f0&gt;包含一條曲線的連接符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Custom Styles:&lt;/f0&gt; The styles you have created, &lt;f1&gt;as opposed to the pre-defined ones.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142448Z" creationid="zerng07" creationdate="20171224T152833Z">
@@ -4045,6 +4053,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140046Z" creationid="Franklin Weng" creationdate="20171223T124642Z">
         <seg>匯出範本時會建立一個範本的副本，並解除註冊，再把副本複製到你選擇的目錄內。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extend a connector to the center of one side of a shape, and it immediately converts to a Straight connector.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020858Z" creationid="Jeff Huang" creationdate="20171229T020858Z">
+        <seg>將連接符延伸至形狀一邊的中心，然後它就會立刻轉換為直線連接符。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
