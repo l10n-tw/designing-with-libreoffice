@@ -6897,16 +6897,16 @@
       <tuv lang="EN">
         <seg>Place the cursor in the left hand frame and select &lt;f0&gt;Insert &gt; Fields &gt; Other &gt; Functions &gt; Placeholder.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130521Z" creationid="Franklin Weng" creationdate="20171223T120955Z">
-        <seg>將游標點選左邊的外框，選擇「&lt;f0&gt;插入 &gt; 欄位 &gt; 其他欄位&lt;/f0&gt;」，然後在「功能」區段中選擇「佔位項」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130922Z" creationid="Franklin Weng" creationdate="20171223T120955Z">
+        <seg>將游標點選左邊的外框，選擇「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位&lt;/f0&gt;」，然後在「功能」區段中選擇「佔位項」類型。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Place the cursor in the right hand frame and &lt;f0&gt;create one placeholder per line for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author, Position, Company, Email,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135841Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
-        <seg>將游標移到右邊的外框，然後每一行建立一個文字佔位符。第一個在「欄位」中直接選擇「作者」，接下來在「欄位」中選擇「其他欄位」，照上面的方式選擇建立「位置」、「公司」、「電子郵件」還有&lt;f4&gt;&lt;f5&gt;「電話號碼」等等佔位符。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130839Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
+        <seg>直接將游標點按右邊的外框，然後每一行建立一個「文字」佔位項。第一個文字佔位項在欄位中直接寫「作者」，接下來在「欄位」中選擇「其他欄位」，照上面的方式選擇建立「位置」、「公司」、「電子郵件」還有&lt;f4&gt;&lt;f5&gt;「電話號碼」等等佔位符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10081,8 +10081,8 @@
       <tuv lang="EN">
         <seg>You do not have to close the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Fields&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; dialog window to continue.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121051Z" creationid="Franklin Weng" creationdate="20171223T121051Z">
-        <seg>你不需要關閉「欄位」對話框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130603Z" creationid="Franklin Weng" creationdate="20171223T121051Z">
+        <seg>此時你不必關閉「欄位」對話視窗。</seg>
       </tuv>
     </tu>
     <tu>
