@@ -1332,8 +1332,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Saving and registering templates&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;15&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T115854Z" creationid="Franklin Weng" creationdate="20171215T115854Z">
-        <seg>&lt;f0&gt;這部份可以參考&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;「儲存與註冊範本」&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;，在第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;15&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T084238Z" creationid="Franklin Weng" creationdate="20171215T115854Z">
+        <seg>&lt;f0&gt;這部份可以參考&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;〈儲存與註冊範本〉&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;，在第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;15&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3729,8 +3729,8 @@
       <tuv lang="EN">
         <seg>Creating your own templates using LibreOffice’s wizards as a guide.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133323Z" creationid="Franklin Weng" creationdate="20171213T133323Z">
-        <seg>用 LibreOffice 的精靈來建立你自己的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083830Z" creationid="Franklin Weng" creationdate="20171213T133323Z">
+        <seg>用LibreOffice的精靈為引導製作你自己的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,8 +3930,8 @@
       <tuv lang="EN">
         <seg>Downloading and installing templates made by others, &lt;f0&gt;perhaps with minor modifications.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133307Z" creationid="Franklin Weng" creationdate="20171213T133307Z">
-        <seg>下載並安裝其他人建立的範本。&lt;f0&gt;可能會需要做一些修改。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083811Z" creationid="Franklin Weng" creationdate="20171213T133307Z">
+        <seg>下載並安裝其他人建立的範本，&lt;f0&gt;可能還需要做一些修改。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,8 +7073,8 @@
       <tuv lang="EN">
         <seg>Regardless of how you obtain templates, they must be registered before LibreOffice can take full advantage of them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133402Z" creationid="Franklin Weng" creationdate="20171213T133402Z">
-        <seg>不管用哪一種方式，要使用範本前都要先在 LibreOffice 中註冊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083911Z" creationid="Franklin Weng" creationdate="20171213T133402Z">
+        <seg>不管用哪一種方式，要使用範本前都要先在LibreOffice中註冊，才能完全善用範本的功能。</seg>
       </tuv>
     </tu>
     <tu>
