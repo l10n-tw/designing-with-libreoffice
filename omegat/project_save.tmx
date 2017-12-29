@@ -1363,6 +1363,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Standard:&lt;/f0&gt; A connector with horizontal and vertical lines, &lt;f1&gt;possibly &lt;/f1&gt;with one right angle in it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T015109Z" creationid="Jeff Huang" creationdate="20171229T015109Z">
+        <seg>&lt;f0&gt;標準：&lt;/f0&gt;有水平線與垂直線的連接符，&lt;f1&gt;也可能&lt;/f1&gt;包含一個直角。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;HTML&lt;/f1&gt; view shows the paragraph styles that LibreOffice has mapped directly to specific &lt;f2&gt;HTML&lt;/f2&gt; tags.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155704Z" creationid="zerng07" creationdate="20171224T155658Z">
@@ -8754,6 +8762,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a connector, click the &lt;f0&gt;Connector&lt;/f0&gt; button on the Drawing tool bar (the eighth from the left).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014913Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
+        <seg>要新增連接符，在繪圖工具列上點選&lt;f0&gt;連接符&lt;/f0&gt;按鈕（從左邊數過來第八個）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a style, you must select part of the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T084001Z" creationid="zerng07" creationdate="20171226T084001Z">
@@ -9680,6 +9696,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080201Z" creationid="Jeff Huang" creationdate="20171213T030404Z">
         <seg>你可以檢視你所有段落樣式的「&lt;f1&gt;字型&lt;/f1&gt;」標籤頁來檢查對應語言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose between four kinds of connector:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T015000Z" creationid="Jeff Huang" creationdate="20171229T015000Z">
+        <seg>你可以從四種連接符中任選一種：</seg>
       </tuv>
     </tu>
     <tu>
