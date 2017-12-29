@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;When you move an object that has connectors, the connectors are modified to keep them attached to the objects at the other end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014117Z" creationid="Jeff Huang" creationdate="20171229T014117Z">
+        <seg>&lt;/f0&gt;當你移動有連接符的物件時，連接符將會自動修正以保持另一邊的物件仍然相連。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130657Z" creationid="Franklin Weng" creationdate="20171223T130657Z">
@@ -6279,6 +6287,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125258Z" creationid="Franklin Weng" creationdate="20171212T125258Z">
         <seg>OOo 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Objects at the other end of the connector remain in place &lt;f0&gt;unless you select both objects, which drags the objects and the connectors between them as though all elements were grouped.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014546Z" creationid="Jeff Huang" creationdate="20171229T014546Z">
+        <seg>&lt;f0&gt;除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳&lt;/f0&gt;，否則連接符另一端的物件會留在原位。</seg>
       </tuv>
     </tu>
     <tu>
