@@ -1435,6 +1435,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for graphic text is roughly equivalent to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Background&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in some other types of styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035025Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
+        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區域&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁大約等價於&lt;/f3&gt;在其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is analogous to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Borders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the styles for other applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064249Z" creationid="Jeff Huang" creationdate="20171228T064249Z">
@@ -4917,6 +4925,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063726Z" creationid="zerng07" creationdate="20171212T063007Z">
         <seg>不過，你在十分鐘之內就能學好基本概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can use Draw to define custom fills.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034825Z" creationid="Jeff Huang" creationdate="20171229T034825Z">
+        <seg>不過你可以使用繪製來自行定義填充。&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9776,6 +9792,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081558Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
         <seg>你也可能會想要變更圖例或度量，在&lt;f1&gt;尺寸標註&lt;/f1&gt;分頁右欄中十個預設位置之一選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are restricted to the fills already defined in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034750Z" creationid="Jeff Huang" creationdate="20171229T034750Z">
+        <seg>你只能使用已在 LibreOffice 中定義的填充。</seg>
       </tuv>
     </tu>
     <tu>
