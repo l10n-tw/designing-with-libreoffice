@@ -1445,8 +1445,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for graphic text is roughly equivalent to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Background&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in some other types of styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035025Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
-        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區域&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁大約等價於&lt;/f3&gt;在其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;分頁。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035354Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
+        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁大約等價於&lt;/f3&gt;在其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;分頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7205,6 +7205,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 13 for more details.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035339Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
+        <seg>參閱第十三章以取得更多資訊。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>3968: 第幾頁需要修正</note>
       <tuv lang="EN">
         <seg>See “&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;Font effects&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;,” page &lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;13&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
@@ -7306,8 +7314,8 @@
       <tuv lang="EN">
         <seg>Setting &lt;f0&gt;area options&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034215Z" creationid="Jeff Huang" creationdate="20171229T034215Z">
-        <seg>設定&lt;f0&gt;區域選項&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035427Z" creationid="Jeff Huang" creationdate="20171229T034215Z">
+        <seg>設定&lt;f0&gt;區塊選項&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8098,8 +8106,8 @@
       <tuv lang="EN">
         <seg>The area of a draw&lt;f0&gt;ing&lt;/f0&gt; object can be formatted &lt;f1&gt;with&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;Colors&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;,&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Gradients&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Hatchings&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, and &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Bitmaps&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034621Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
-        <seg>繪製物件的區可以使用&lt;f2&gt;&lt;f3&gt;顏色&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;來格式化。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035550Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
+        <seg>繪製物件的區塊可以使用&lt;f2&gt;&lt;f3&gt;顏色&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;來格式化。</seg>
       </tuv>
     </tu>
     <tu>
