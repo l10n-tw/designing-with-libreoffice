@@ -102,14 +102,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092342Z" creationid="Franklin Weng" creationdate="20171223T092342Z">
-        <seg>&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;The Non-Designer’s Type Book&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Peachpit Press: Berkeley, 1998): A sequel to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;The&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Non-Designer’s Design Book,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; focusing on the details of typefaces and how to use them.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072254Z" creationid="zerng07" creationdate="20171227T183929Z">
@@ -809,8 +801,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Four&lt;/f0&gt; kinds of fields are likely to &lt;f1&gt;be &lt;/f1&gt;useful:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135750Z" creationid="Franklin Weng" creationdate="20171223T093433Z">
-        <seg>&lt;f0&gt;有四種欄位通常比較有用：&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123916Z" creationid="Franklin Weng" creationdate="20171223T093433Z">
+        <seg>&lt;f0&gt;有四種&lt;/f0&gt;欄位通常比較常用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,8 +1283,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;ystem information, such as date and time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093448Z" creationid="Franklin Weng" creationdate="20171223T093448Z">
-        <seg>&lt;f0&gt;系統資訊，如日期與時間。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123938Z" creationid="Franklin Weng" creationdate="20171223T093448Z">
+        <seg>系統資訊，例如日期與時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2953,8 +2945,8 @@
       <tuv lang="EN">
         <seg>As this information changes, the fields in the template will also change, updating each time that you open the document &lt;f0&gt;without you having to change it manually.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093750Z" creationid="Franklin Weng" creationdate="20171223T093750Z">
-        <seg>這些資訊改變時，在範本中這些欄位的資訊也會跟著改變與更新。你不需要手動去修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124143Z" creationid="Franklin Weng" creationdate="20171223T093750Z">
+        <seg>當這些資訊改變時，在範本中這些欄位的資訊也會跟著變化與更新。你不需要再手動修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,16 +3866,16 @@
       <tuv lang="EN">
         <seg>Document information, stored or displayed in &lt;f0&gt;File &gt; Properties.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135809Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
-        <seg>文件資訊，儲存與顯示在&lt;f0&gt;「檔案」&gt;「屬性」中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124028Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
+        <seg>文件資訊，儲存或顯示在「&lt;f0&gt;檔案 &gt; 屬性&lt;/f0&gt;」中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Document statistics, generated as you create the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093604Z" creationid="Franklin Weng" creationdate="20171223T093604Z">
-        <seg>文件統計，在你建立文件時產生。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124049Z" creationid="Franklin Weng" creationdate="20171223T093604Z">
+        <seg>文件統計資料，在你建立文件時產生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4179,8 +4171,8 @@
       <tuv lang="EN">
         <seg>Fields are another way to store information in templates.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093413Z" creationid="Franklin Weng" creationdate="20171223T093413Z">
-        <seg>欄位是在範本中儲存資訊的另一種方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123921Z" creationid="Franklin Weng" creationdate="20171223T093413Z">
+        <seg>欄位是在範本中另一種儲存資訊的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4547,8 +4539,8 @@
       <tuv lang="EN">
         <seg>General user information, stored in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093515Z" creationid="Franklin Weng" creationdate="20171223T093515Z">
-        <seg>一般使用者資訊，存在「工具」&gt;「選項」&gt;「LibreOffice」&gt;「使用者資料」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124006Z" creationid="Franklin Weng" creationdate="20171223T093515Z">
+        <seg>一般使用者資訊，儲存在「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 使用者資料&lt;/f0&gt;」之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8807,8 +8799,8 @@
       <tuv lang="EN">
         <seg>They include page numbers, page counts, and other information &lt;f0&gt;commonly &lt;/f0&gt;placed in the header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093708Z" creationid="Franklin Weng" creationdate="20171223T093708Z">
-        <seg>包括頁碼、總頁數，還有其他放在標頭或註腳的共用資訊等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124126Z" creationid="Franklin Weng" creationdate="20171223T093708Z">
+        <seg>統計資料包括頁碼、總頁數，還有其他&lt;f0&gt;常&lt;/f0&gt;放在頁首或頁尾的資訊等。</seg>
       </tuv>
     </tu>
     <tu>
