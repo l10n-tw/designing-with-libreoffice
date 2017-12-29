@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Connectors join shapes together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T013858Z" creationid="Jeff Huang" creationdate="20171229T013858Z">
+        <seg>&lt;f0&gt;連接符將形狀相連。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Custom Styles:&lt;/f0&gt; The styles you have created, &lt;f1&gt;as opposed to the pre-defined ones.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142448Z" creationid="zerng07" creationdate="20171224T152833Z">
@@ -7140,6 +7148,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033138Z" creationid="Franklin Weng" creationdate="20171223T033138Z">
         <seg>設定新的預設範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T013748Z" creationid="Jeff Huang" creationdate="20171229T013748Z">
+        <seg>設定連接符</seg>
       </tuv>
     </tu>
     <tu>
