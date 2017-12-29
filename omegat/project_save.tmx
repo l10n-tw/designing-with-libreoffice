@@ -931,8 +931,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you are installing a large number of templates, &lt;f1&gt;placing them all in one directory, adding to the path, and re-starting LibreOffice is the quickest way of registering them.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140412Z" creationid="Franklin Weng" creationdate="20171223T133943Z">
-        <seg>如果你要同時安裝大量的範本，則將這些範本放在一個目錄中，並在範本路徑中加入該目錄，再重啟 LibreOffice 是同時註冊所有範本最快的方法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T143106Z" creationid="Franklin Weng" creationdate="20171223T133943Z">
+        <seg>如果你要同時安裝大量範本，&lt;f1&gt;則將這些範本放在一個目錄中，並在範本路徑中加入該目錄，再重新啟動LibreOffice。這樣是同時註冊所有範本的最快方法。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,8 +4387,8 @@
       <tuv lang="EN">
         <seg>For example, if you downloaded a Linux version directly from The Document Foundation, this directory will be in something like /opt/libreoffice4.4/share/template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133819Z" creationid="Franklin Weng" creationdate="20171223T133819Z">
-        <seg>祿如，如果你從文件基金會的網站那直接下載的 LInux 版本，可能就會安裝在像是 /opt/libreoffice4.4/share/template 之類的路徑中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142920Z" creationid="Franklin Weng" creationdate="20171223T133819Z">
+        <seg>例如，如果你是從文件基金會 (The Document Foundation) 的官方網站那直接下載的 Linux 版本，可能就會安裝在像是 /opt/libreoffice5.4/share/template 之類的路徑中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5348,8 +5348,8 @@
       <tuv lang="EN">
         <seg>If you want to make directories accessible to all users on the system, log in as root or administrator and go to the directory in which LibreOffice was installed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133750Z" creationid="Franklin Weng" creationdate="20171223T133750Z">
-        <seg>如果你要把目錄設成系統上所有使用者都可以使用，則用 root 或管理員帳號登入後，到 LibreOffice 安裝的路徑中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142820Z" creationid="Franklin Weng" creationdate="20171223T133750Z">
+        <seg>如果你要把目錄設成系統上所有使用者都可以使用，則用 root 帳號或管理員帳號登入後，進入LibreOffice的安裝路徑中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5605,8 +5605,8 @@
       <tuv lang="EN">
         <seg>In other cases, the top two directories may be different, but the bottom two should be the same.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133841Z" creationid="Franklin Weng" creationdate="20171223T133841Z">
-        <seg>在其他的系統可能前兩個目錄會不太一樣，但後面的應該會相同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T143008Z" creationid="Franklin Weng" creationdate="20171223T133841Z">
+        <seg>在其他的系統中，可能前兩個目錄會不太一樣，但後面的應該一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8348,8 +8348,8 @@
       <tuv lang="EN">
         <seg>The exact path differs with operating systems and LibreOffice releases.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133637Z" creationid="Franklin Weng" creationdate="20171223T133637Z">
-        <seg>你所看到的實際路徑會依作業系統與軟體版本而有所不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142737Z" creationid="Franklin Weng" creationdate="20171223T133637Z">
+        <seg>你所看到的實際路徑會依作業系統與LibreOffice發行版本而有所不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9921,8 +9921,8 @@
       <tuv lang="EN">
         <seg>You can add directories to the template path, separating them from each other with a semi-colon.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133702Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
-        <seg>你可以在範本路徑中新增其他目錄，用分號分隔即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142749Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
+        <seg>你可以在範本路徑中新增其他目錄，用半形分號分隔即可。</seg>
       </tuv>
     </tu>
     <tu>
