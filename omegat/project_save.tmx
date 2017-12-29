@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Line: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;A connector with a small segment at each end for adding a change of direction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020029Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;每個端點都有一小部份用來加入方向變更的連接符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;P&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;aragraph&lt;/f2&gt; styles are the most commonly used style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175213Z" creationid="zerng07" creationdate="20171223T175213Z">
