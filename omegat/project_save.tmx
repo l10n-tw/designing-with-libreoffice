@@ -513,8 +513,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick &lt;f1&gt;a sub-folder in the display if you want to specify where the template displays in the Template Manager.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T141624Z" creationid="Franklin Weng" creationdate="20171222T141747Z">
-        <seg>如果你要看特定的子目錄中的範本，就直接點擊子目錄即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111040Z" creationid="Franklin Weng" creationdate="20171222T141747Z">
+        <seg>如果你要看特定的子目錄中的範本，就直接點按子目錄即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -593,8 +593,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Save&lt;/f1&gt; icon at the top left, &lt;f2&gt;and give the new template a name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032718Z" creationid="Franklin Weng" creationdate="20171223T032718Z">
-        <seg>&lt;f0&gt;點擊&lt;/f0&gt;左上角的&lt;f1&gt;儲存&lt;/f1&gt;圖示，&lt;f2&gt;然後輸入新範本的名稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111136Z" creationid="Franklin Weng" creationdate="20171223T032718Z">
+        <seg>&lt;f0&gt;點按&lt;/f0&gt;左上角的「&lt;f1&gt;儲存&lt;/f1&gt;」圖示，&lt;f2&gt;然後輸入新範本的名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5003,8 +5003,8 @@
       <tuv lang="EN">
         <seg>If necessary, you can overwrite an existing template.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140430Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
-        <seg>必要的話，你可以把現有的範本蓋掉。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111217Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
+        <seg>如果必要的話，你也可以覆蓋現有的範本。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5172,8 +5172,8 @@
       <tuv lang="EN">
         <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T032639Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
-        <seg>如果你沒有選擇子目錄，那麼範本會根據它的檔案格式，儲存到適當的分頁去。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111121Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
+        <seg>如果你沒有選擇子目錄，那麼範本會根據它的檔案格式，儲存到適當的標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5244,8 +5244,8 @@
       <tuv lang="EN">
         <seg>If you have recently made several templates, you might need to &lt;f1&gt;click&lt;/f1&gt; &lt;f2&gt;Refresh&lt;/f2&gt; to have all existing templates display.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171222T141714Z" creationid="Franklin Weng" creationdate="20171222T141714Z">
-        <seg>如果你剛做好一些範本，那可能會需要點擊一下「重新整理」才會顯示出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111006Z" creationid="Franklin Weng" creationdate="20171222T141714Z">
+        <seg>如果你才剛做好一些範本，那可能需要&lt;f1&gt;點按&lt;/f1&gt;一下「&lt;f2&gt;重新整理&lt;/f2&gt;」才會全部顯示出來。</seg>
       </tuv>
     </tu>
     <tu>
