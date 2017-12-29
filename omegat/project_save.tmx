@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;Formatting an object's area means choosing a fill for it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035109Z" creationid="Jeff Huang" creationdate="20171229T035109Z">
+        <seg>&lt;/f6&gt;對物件的區域做格式設定代表了為它選擇填充。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;Other font formats exist, and may be supported by your operating system, but these formats may be limited in selection and quality.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144840Z" creationid="Franklin Weng" creationdate="20171224T075500Z">
@@ -1575,6 +1583,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150440Z" creationid="zerng07" creationdate="20171225T150320Z">
         <seg>&lt;f0&gt;不過第二種做法也不見得完全通行，因為不同版本的LibreOffice可能會有不同的&lt;/f0&gt;&lt;f2&gt;預設&lt;/f2&gt;樣式&lt;f3&gt;，但仍值得一試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To add a fill, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and select the tab for the type of fill you want to add.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035252Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
+        <seg>&lt;f0&gt;要新增填充，使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並選取你想要新增的填充類型的分頁。</seg>
       </tuv>
     </tu>
     <tu>
