@@ -6905,8 +6905,8 @@
       <tuv lang="EN">
         <seg>Place the cursor in the right hand frame and &lt;f0&gt;create one placeholder per line for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author, Position, Company, Email,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130839Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
-        <seg>直接將游標點按右邊的外框，然後每一行建立一個「文字」佔位項。第一個文字佔位項在欄位中直接寫「作者」，接下來在「欄位」中選擇「其他欄位」，照上面的方式選擇建立「位置」、「公司」、「電子郵件」還有&lt;f4&gt;&lt;f5&gt;「電話號碼」等等佔位符。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131108Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
+        <seg>直接將游標點按右邊的外框，然後每一行建立一個「文字」佔位項。第一個文字佔位項在欄位中寫下「作者」，第二個文字佔位項寫「職稱」，再依此類推寫下「公司」、「電子郵件」、還有&lt;f4&gt;&lt;f5&gt;「電話號碼」等佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7940,8 +7940,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123346Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
-        <seg>「欄位」中的「作者」會自動填入你在「工具」&gt;「選項」&gt;「LibreOffice」中的使用者資料的內容。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131222Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
+        <seg>選單「欄位」中的「作者」會自動填入你在「工具 &gt; 選項 &gt; LibreOffice &gt; 使用者資料」中的對應內容。</seg>
       </tuv>
     </tu>
     <tu>
