@@ -601,8 +601,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Set as Default&lt;/f1&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135643Z" creationid="Franklin Weng" creationdate="20171223T042851Z">
-        <seg>&lt;f0&gt;點擊&lt;/f0&gt;選擇「設為預設值」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112646Z" creationid="Franklin Weng" creationdate="20171223T042851Z">
+        <seg>&lt;f0&gt;點按&lt;/f0&gt;「&lt;f1&gt;設為預設值&lt;/f1&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6055,8 +6055,8 @@
       <tuv lang="EN">
         <seg>LibreOffice reverts to its &lt;f0&gt;original&lt;/f0&gt; &lt;f1&gt;Default&lt;/f1&gt; template &lt;f2&gt;(the default &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Default&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; if you delete the replacement default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043042Z" creationid="Franklin Weng" creationdate="20171223T043042Z">
-        <seg>如果你移除你自己的預設範本，則 LibreOffice 會改回使用它自己原始的預設範本（範本中名為 Default）的那一個。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112900Z" creationid="Franklin Weng" creationdate="20171223T043042Z">
+        <seg>如果你移除自己的替代範本，則LibreOffice會改回自己的原始&lt;f1&gt;預設&lt;/f1&gt;範本（即預設的「預設」範本）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6431,8 +6431,8 @@
       <tuv lang="EN">
         <seg>Now, each new document will use the default template unless you specifically choose another template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042912Z" creationid="Franklin Weng" creationdate="20171223T042912Z">
-        <seg>這樣，每一份新文件都會使用這些預設值，除非你額外指定其他的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112727Z" creationid="Franklin Weng" creationdate="20171223T042912Z">
+        <seg>這樣，每一份新文件都會預設使用這個範本，除非你改指定為其他的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7300,8 +7300,8 @@
       <tuv lang="EN">
         <seg>Select the replacement default template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042754Z" creationid="Franklin Weng" creationdate="20171223T042754Z">
-        <seg>選取你要預設使用的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112624Z" creationid="Franklin Weng" creationdate="20171223T042754Z">
+        <seg>選取你要取代使用的預設範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7684,8 +7684,8 @@
       <tuv lang="EN">
         <seg>Storing template &lt;f0&gt;structure&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T043049Z" creationid="Franklin Weng" creationdate="20171223T043049Z">
-        <seg>儲存範本結構</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112911Z" creationid="Franklin Weng" creationdate="20171223T043049Z">
+        <seg>儲存範本文稿結構</seg>
       </tuv>
     </tu>
     <tu>
