@@ -697,8 +697,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Either s&lt;/f0&gt;elect one of the templates in the Template pane &lt;f1&gt;or c&lt;/f1&gt;lick the &lt;f2&gt;From File&lt;/f2&gt; button and select a document template using the file manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140159Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
-        <seg>&lt;f0&gt;你可以從&lt;/f0&gt;「範本」視窗中選擇一個範本，或是點擊左下角「取自檔案」並選擇一個文件範本檔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141700Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
+        <seg>&lt;f0&gt;你可以從&lt;/f0&gt;「範本」窗格中選擇一個範本，或是點按左下角「&lt;f2&gt;取自檔案&lt;/f2&gt;」從檔案管理員中選擇一個文件範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7308,8 +7308,8 @@
       <tuv lang="EN">
         <seg>Select the types of styles to import by selecting the boxes along the &lt;f0&gt;bottom&lt;/f0&gt; of the &lt;f1&gt;Load Styles&lt;/f1&gt; window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132650Z" creationid="Franklin Weng" creationdate="20171223T132650Z">
-        <seg>勾選要匯入的樣式型態。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141756Z" creationid="Franklin Weng" creationdate="20171223T132650Z">
+        <seg>在&lt;f1&gt;載入樣式&lt;/f1&gt;視窗的&lt;f0&gt;底部&lt;/f0&gt;勾選要匯入的樣式類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7940,8 +7940,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Load Styles&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; window uses &lt;/f2&gt;&lt;f3&gt;Text&lt;/f3&gt; &lt;f4&gt;to &lt;/f4&gt;refer to both &lt;f5&gt;&lt;f6&gt;P&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;aragraph&lt;/f7&gt; and &lt;f8&gt;&lt;f9&gt;C&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;haracter&lt;/f10&gt; styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132721Z" creationid="Franklin Weng" creationdate="20171223T132721Z">
-        <seg>「載入樣式」視窗中的「文字」選項同時包含了段落與字元的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142001Z" creationid="Franklin Weng" creationdate="20171223T132721Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;載入樣式&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」視窗中的「&lt;/f2&gt;&lt;f3&gt;文字&lt;/f3&gt;」選項同時包含了&lt;f7&gt;段落&lt;/f7&gt;樣式與&lt;f10&gt;字元&lt;/f10&gt;樣式。</seg>
       </tuv>
     </tu>
     <tu>
