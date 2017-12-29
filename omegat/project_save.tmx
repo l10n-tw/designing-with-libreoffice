@@ -5562,6 +5562,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In many cases, all you need is to check the &lt;f1&gt;&lt;f2&gt;Use&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; shadow&lt;/f3&gt; box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T040355Z" creationid="Jeff Huang" creationdate="20171229T040355Z">
+        <seg>在許多例子中，你需要勾選的部份只有&lt;f1&gt;&lt;f2&gt;使用&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;陰影&lt;/f3&gt;勾選框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133215Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
@@ -7384,6 +7392,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shadows are easy to over-use, but can &lt;f0&gt;create&lt;/f0&gt; a 3D look.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T040218Z" creationid="Jeff Huang" creationdate="20171229T040218Z">
+        <seg>陰影容易被過度使用，但可以用來&lt;f0&gt;建立&lt;/f0&gt;立體外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shape &lt;f0&gt;choices&lt;/f0&gt; determine &lt;f1&gt;each object’s features&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081008Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
@@ -7972,6 +7988,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172904Z" creationid="zerng07" creationdate="20171225T153604Z">
         <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中&lt;f1&gt;通常包括&lt;/f1&gt;四個欄位：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Shadowing&lt;/f0&gt; tab lists settings to help customize a shadow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T040300Z" creationid="Jeff Huang" creationdate="20171229T040300Z">
+        <seg>&lt;f0&gt;陰影&lt;/f0&gt;分頁列出了協助自訂陰影的設定。</seg>
       </tuv>
     </tu>
     <tu>
