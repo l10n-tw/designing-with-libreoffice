@@ -4675,8 +4675,8 @@
       <tuv lang="EN">
         <seg>However, a conventional &lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ave&lt;/f2&gt; does not register and activate the new template for &lt;f3&gt;use on your system&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125442Z" creationid="Franklin Weng" creationdate="20171218T125442Z">
-        <seg>然而，單純只是儲存範本，並不會在你的系統中註冊與啟動此範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105514Z" creationid="Franklin Weng" creationdate="20171218T125442Z">
+        <seg>然而，傳統的&lt;f2&gt;儲存&lt;/f2&gt;方式，並不會在你的系統中註冊這個新範本並且啟用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7194,8 +7194,8 @@
       <tuv lang="EN">
         <seg>Save it with &lt;f0&gt;File &gt; Save as Template, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Templates &gt; Save as Template,&lt;/f2&gt;&lt;/f1&gt; or &lt;f3&gt;File &gt; TemplateMenu &gt; Save as Template &lt;/f3&gt;&lt;f4&gt;(all these options may not be available in all versions of LibreOffice).&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125850Z" creationid="Franklin Weng" creationdate="20171218T125850Z">
-        <seg>將檔案用「檔案」&gt;「範本」&gt;「另存為範本」（或是「檔案」&gt;「另存為範本」、「檔案」&gt;「範本選單」&gt;「另存為範本」，依版本而定）儲存。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105710Z" creationid="Franklin Weng" creationdate="20171218T125850Z">
+        <seg>將檔案用「&lt;f0&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f0&gt;」（或是「&lt;f1&gt;&lt;f2&gt;檔案 &gt; 另存為範本&lt;/f2&gt;&lt;/f1&gt;」、「&lt;f3&gt;檔案 &gt; 範本選單 &gt; 另存為範本&lt;/f3&gt;&lt;f4&gt;」，依LibreOffice版本而定）儲存。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9078,8 +9078,8 @@
       <tuv lang="EN">
         <seg>To make a template availabl&lt;f4&gt;e, follow these steps&lt;/f4&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T125500Z" creationid="Franklin Weng" creationdate="20171218T125500Z">
-        <seg>要啟用範本，需要依照下列步驟進行：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105537Z" creationid="Franklin Weng" creationdate="20171218T125500Z">
+        <seg>如果要啟用範本，需要依照下列步驟：</seg>
       </tuv>
     </tu>
     <tu>
