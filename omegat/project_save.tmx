@@ -1796,6 +1796,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Curved connectors are most suitable when you want an informal look to a diagram, perhaps to suggest that the relationships you are illustrating are approximate.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021224Z" creationid="Jeff Huang" creationdate="20171229T021224Z">
+        <seg>&lt;f1&gt;當你想要一個非正式的圖表，可能是想要表達所說的關係相近，此時適合使用曲線連接符。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Custom styles provide the specialized needs that &lt;/f1&gt;&lt;f2&gt;the&lt;/f2&gt;&lt;f3&gt; pre-defined styles do not.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103752Z" creationid="zerng07" creationdate="20171225T103752Z">
