@@ -2809,8 +2809,8 @@
       <tuv lang="EN">
         <seg>An Impress slide, with placeholders for the title and text, and a generic placeholder for tables, charts, images, and movies in the middle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
-        <seg>Impress 投影片，在標題、本文處有佔位項，還有中間有新增表格、圖表、影像與影片用的佔位項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120229Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
+        <seg>Impress投影片，有題名、內文的佔位項，還有中間有新增表格、圖表、影像與影片用的佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4851,8 +4851,8 @@
       <tuv lang="EN">
         <seg>However, templates &lt;f0&gt;can store&lt;/f0&gt; everything from return addresses to standard boilerplate such as corporate backgrounders – any information that you re-use but do not care to reinvent or type again.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115119Z" creationid="Franklin Weng" creationdate="20171223T043124Z">
-        <seg>不過，實際上範本&lt;f0&gt;可以儲存&lt;/f0&gt;所有的東西，從可變動的回覆地址到一成不變的企業標準識別背景等——任何你會重覆使用，但不在乎要重新做一次、輸入一次的資訊（因為要先作成範本嘛）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120058Z" creationid="Franklin Weng" creationdate="20171223T043124Z">
+        <seg>不過，實際上範本&lt;f0&gt;可以儲存&lt;/f0&gt;所有的東西，從信件的回覆地址到一成不變的企業標準識別背景等——任何你會重覆使用，但不在乎要重新做一次、輸入一次的資訊（因為要先作成範本）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,8 +5388,8 @@
       <tuv lang="EN">
         <seg>Impress &lt;f0&gt;has built-in placeholders for slide titles, body text, and inserted objects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
-        <seg>Impress &lt;f0&gt;在投影片標題、本文與插入物件處都放有佔位項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120203Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
+        <seg>Impress&lt;f0&gt;在投影片的題名、內文、插入物件等處都放有內建的佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,8 +6921,8 @@
       <tuv lang="EN">
         <seg>Placeholders are fields that mark the type of information needed at a certain spot, but leave you to fill in the details by clicking them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T092937Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
-        <seg>佔位項是在特定地方標記該處要填入哪一種資料，讓你點擊後可以直接填寫。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120009Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
+        <seg>佔位項是在特定位置上標記該處要填入哪一類資料，讓你點按之後就能直接填寫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9391,8 +9391,8 @@
       <tuv lang="EN">
         <seg>Using placeholders</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115838Z" creationid="Franklin Weng" creationdate="20171223T092212Z">
-        <seg>使用佔位項（Placeholder）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115923Z" creationid="Franklin Weng" creationdate="20171223T092212Z">
+        <seg>使用佔位項 (Placeholder)</seg>
       </tuv>
     </tu>
     <tu>
