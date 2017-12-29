@@ -2639,6 +2639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All connectors can end with an arrow or an open or filled circle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021353Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
+        <seg>所有連接符都可以以一個箭頭或開放式或封閉式的圓圈結束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All objects inserted to a Writer document are contained by a frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175002Z" creationid="zerng07" creationdate="20171223T180040Z">
@@ -8240,6 +8248,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The four types of connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021242Z" creationid="Jeff Huang" creationdate="20171229T021242Z">
+        <seg>四種連接符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The headings in this chapter will give you a checklist of steps to follow.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
@@ -9736,6 +9752,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133702Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
         <seg>你可以在範本路徑中新增其他目錄，用分號分隔即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can adjust the shape of a connector by selecting it and dragging on its handle, or by moving one of the objects to which it is attached.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021717Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
+        <seg>你可以透過選取連接符並拖曳其把手來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
       </tuv>
     </tu>
     <tu>
