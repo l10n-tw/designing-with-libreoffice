@@ -2713,8 +2713,8 @@
       <tuv lang="EN">
         <seg>All these formats can have two or &lt;f0&gt;four&lt;/f0&gt; digits for the year.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094846Z" creationid="Franklin Weng" creationdate="20171223T094846Z">
-        <seg>所有這些格式都可以用兩位數或四位數來表示年份。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125000Z" creationid="Franklin Weng" creationdate="20171223T094846Z">
+        <seg>所有這些格式都可以用兩位數或&lt;f0&gt;四位數&lt;/f0&gt;來表示西元紀年。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2761,8 +2761,8 @@
       <tuv lang="EN">
         <seg>Although a Month-Day-Year format is common in the United States, increasingly international use favors a consistent sequence – either Year-Month-Day or, less frequently, a Day-Month-Year format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094830Z" creationid="Franklin Weng" creationdate="20171223T094259Z">
-        <seg>雖然在美國通用的是月-日-年的格式，但國際上逐漸傾向於採用一致的順序 - 無論是年-月-日，還是較少見的日-月-年的格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125013Z" creationid="Franklin Weng" creationdate="20171223T094259Z">
+        <seg>在美國通用的是月-日-年的格式，但國際上逐漸傾向採用一致的順序——無論是年-月-日（臺灣用），還是較少見的日-月-年的格式。（要改成以臺灣為主的敘述）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4099,8 +4099,8 @@
       <tuv lang="EN">
         <seg>Example: &lt;f0&gt;Using &lt;/f0&gt;placeholders &lt;f1&gt;&amp;&lt;/f1&gt; fields</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094856Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
-        <seg>範例：使用佔位項</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125029Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
+        <seg>範例：使用佔位項和欄位</seg>
       </tuv>
     </tu>
     <tu>
@@ -6007,8 +6007,8 @@
       <tuv lang="EN">
         <seg>LibreOffice includes a tool for designing do-it-yourself business cards&lt;f0&gt;.&lt;/f0&gt; The tool is designed so that you add information on one &lt;f1&gt;sample &lt;/f1&gt;card, then add the information automatically to the rest.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T095020Z" creationid="Franklin Weng" creationdate="20171223T095020Z">
-        <seg>LibreOffice 中有個工具可以用來自行設計名片。這個工具的設計讓你可以在一個範例卡片中輸入資訊，然後其他的會自動產生。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125219Z" creationid="Franklin Weng" creationdate="20171223T095020Z">
+        <seg>LibreOffice中有個工具可以用來自行設計名片。這個工具設計讓你可以在一張&lt;f1&gt;樣本&lt;/f1&gt;卡片中輸入資訊，然後其餘資訊會自動加入。</seg>
       </tuv>
     </tu>
     <tu>
