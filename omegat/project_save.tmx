@@ -2697,8 +2697,8 @@
       <tuv lang="EN">
         <seg>All such items can go into an all-purpose template that can be the starting point for others.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124149Z" creationid="Franklin Weng" creationdate="20171213T124149Z">
-        <seg>這些項目都可以放入一份通用性的範本，做為起點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042533Z" creationid="Franklin Weng" creationdate="20171213T124149Z">
+        <seg>像這些項目都可以放入一份通用範本中，做為你的起點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2921,8 +2921,8 @@
       <tuv lang="EN">
         <seg>Are particular fonts part of your personal or corporate branding?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124033Z" creationid="Franklin Weng" creationdate="20171213T124033Z">
-        <seg>你的個人或企業品牌中是否包含特殊字型？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042500Z" creationid="Franklin Weng" creationdate="20171213T124033Z">
+        <seg>你的個人或企業品牌中是否有採用特定字型？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3105,8 +3105,8 @@
       <tuv lang="EN">
         <seg>Become more specific by recalling what documents you have written in the past.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124256Z" creationid="Franklin Weng" creationdate="20171213T124256Z">
-        <seg>仔細回想你過去寫過的文件的細節。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042706Z" creationid="Franklin Weng" creationdate="20171213T124256Z">
+        <seg>仔細回想你過去寫過的文件細節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3137,8 +3137,8 @@
       <tuv lang="EN">
         <seg>Begin your &lt;f0&gt;planning&lt;/f0&gt; by considering what your general layout will be.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123716Z" creationid="Franklin Weng" creationdate="20171213T123716Z">
-        <seg>先好好&lt;f0&gt;規劃&lt;/f0&gt;你經常使用到的版型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T040138Z" creationid="Franklin Weng" creationdate="20171213T123716Z">
+        <seg>一切&lt;f0&gt;規劃&lt;/f0&gt;就先從好好思考你常用的版型開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3441,8 +3441,8 @@
       <tuv lang="EN">
         <seg>Call the result something like &lt;f0&gt;General&lt;/f0&gt; or &lt;f1&gt;Standard.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124229Z" creationid="Franklin Weng" creationdate="20171213T124229Z">
-        <seg>把這一份稱為&lt;f0&gt;「一般」&lt;/f0&gt;或&lt;f1&gt;「標準」&lt;/f1&gt;範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042613Z" creationid="Franklin Weng" creationdate="20171213T124229Z">
+        <seg>你可以把它稱為&lt;f0&gt;「通用」&lt;/f0&gt;或&lt;f1&gt;「標準」&lt;/f1&gt;範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,8 +3521,8 @@
       <tuv lang="EN">
         <seg>Check the attachments in email&lt;f0&gt;s that you have sent.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124353Z" creationid="Franklin Weng" creationdate="20171213T124353Z">
-        <seg>看一下電子郵件中寄件備份裡的附檔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042750Z" creationid="Franklin Weng" creationdate="20171213T124353Z">
+        <seg>看一下電子郵件中寄件備份裡的夾帶附件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,8 +3866,8 @@
       <tuv lang="EN">
         <seg>Do you prefer a particular font size?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124048Z" creationid="Franklin Weng" creationdate="20171213T124048Z">
-        <seg>你是否屬意特定的字型大小？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042507Z" creationid="Franklin Weng" creationdate="20171213T124048Z">
+        <seg>你是否偏好特定的字型大小？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5016,11 +5016,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>看了一下這個地方，沒有地方可以設定表格標頭（heading）色彩的。我改寫成「欄位背景」。</note>
       <tuv lang="EN">
         <seg>If so, &lt;f1&gt;begin by creating&lt;/f1&gt; the colors in &lt;f2&gt;Tools &gt; Options &gt; Colors&lt;/f2&gt; so they are available for uses such as table borders and headings in color documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124015Z" creationid="Franklin Weng" creationdate="20171213T124015Z">
-        <seg>如果有，&lt;f1&gt;那麼從&lt;/f1&gt;&lt;f2&gt;「工具」&gt;「選項」&gt;「應用程式色彩」&lt;/f2&gt;中選擇企業代表色，這樣表格的邊框與標頭等就可以使用該顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042443Z" creationid="Franklin Weng" creationdate="20171213T124015Z">
+        <seg>如果有，&lt;f1&gt;那麼可以到&lt;/f1&gt;「&lt;f2&gt;工具 &gt; 選項 &gt; 應用程式色彩&lt;/f2&gt;」中選擇企業識別色，這樣彩色文件中的表格邊框、欄位背景等就可以使用這些顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5363,8 +5364,8 @@
       <tuv lang="EN">
         <seg>If you work for a company, does it have corporate colors that you will constantly use?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123755Z" creationid="Franklin Weng" creationdate="20171213T123755Z">
-        <seg>如果你是製作公司用的文件，裡面有沒有你會用到的企業代表色？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T040320Z" creationid="Franklin Weng" creationdate="20171213T123755Z">
+        <seg>如果你是在一間公司上班，那麼公司有沒有你經常用到的企業識別色？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6645,8 +6646,8 @@
       <tuv lang="EN">
         <seg>Open &lt;f0&gt;File &gt; Recent Documents.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T124333Z" creationid="Franklin Weng" creationdate="20171213T124333Z">
-        <seg>開啟&lt;f0&gt;「檔案」&gt;「最近使用的文件」。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042736Z" creationid="Franklin Weng" creationdate="20171213T124333Z">
+        <seg>開啟「&lt;f0&gt;檔案 &gt; 最近使用的文件&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9717,8 +9718,8 @@
       <tuv lang="EN">
         <seg>Whether you create &lt;f0&gt;or download &lt;/f0&gt;your templates, start by assessing the types of documents you create regularly.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Although you might be tempted to download or design every template available, installing or designing more templates than you &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;generally need will only make finding the ones you actually use harder.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T123642Z" creationid="Franklin Weng" creationdate="20171213T123642Z">
-        <seg>不管你是建立&lt;f0&gt;或下載&lt;/f0&gt;範本，最好都從評估你經常建立的文件型態開始。&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;雖然你可能會很想下載或設計每一種用得到的範本，不過&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;安裝或設計一堆你不常用到的範本，只會讓你更難找出你實際常用到的範本。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T040004Z" creationid="Franklin Weng" creationdate="20171213T123642Z">
+        <seg>無論你是製作範本&lt;f0&gt;或下載&lt;/f0&gt;，最好都從評估你經常製作的文件種類開始。&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;雖然你可能會很想下載或設計每一種用得到的範本，不過&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;安裝或設計一堆你不常用到的範本，只會讓你更難找出你實際在用的範本。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
