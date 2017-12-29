@@ -1957,6 +1957,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;They keep objects attached to each other even when one is moved.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014810Z" creationid="Jeff Huang" creationdate="20171229T014810Z">
+        <seg>&lt;f1&gt;即便物件移動了，它們也可以讓兩個物件保持連接狀態。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;This practice may disturb your work, but it means that &lt;/f1&gt;you won’t have to remember what changed, or wonder if you made an accidental change &lt;f2&gt;when you receive notice of the change the next time that you open the file.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151224Z" creationid="Franklin Weng" creationdate="20171212T120744Z">
@@ -3531,6 +3539,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175411Z" creationid="zerng07" creationdate="20171223T175411Z">
         <seg>常用的段落樣式包括內文&lt;t4/&gt;和標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connectors are lines attached to &lt;f0&gt;two&lt;/f0&gt; objects by means of glue points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014705Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
+        <seg>連接符是將&lt;f0&gt;兩個&lt;/f0&gt;物件透過連接點連線起來的線條。</seg>
       </tuv>
     </tu>
     <tu>
