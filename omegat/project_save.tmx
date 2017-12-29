@@ -8060,8 +8060,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;third&lt;/f0&gt; and most practical method is to transfer &lt;f1&gt;styles between documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140123Z" creationid="Franklin Weng" creationdate="20171223T130657Z">
-        <seg>第三種方法，也是最實際的方法，就是在兩份文件中轉換樣式。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140620Z" creationid="Franklin Weng" creationdate="20171223T130657Z">
+        <seg>第&lt;f0&gt;三種&lt;/f0&gt;方法，也是最實際的方法，就是在兩份文件中轉換樣式。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9191,8 +9191,8 @@
       <tuv lang="EN">
         <seg>Transferring styles is convenient when two people have been working on a document, but made their own changes to the template (something that happens, although you shouldn’t encourage it).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130814Z" creationid="Franklin Weng" creationdate="20171223T130814Z">
-        <seg>如果有兩個人使用同一份文件工作，但是各自對文件範本做過變更（其實最好不要這樣）時，轉換樣式是比較方便的做法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140739Z" creationid="Franklin Weng" creationdate="20171223T130814Z">
+        <seg>如果有兩個人在處理同一份文件，但是各自對文件範本做有過修改（有時候會發生，但建議最好不要）時，轉換樣式是比較方便的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10178,8 +10178,8 @@
       <tuv lang="EN">
         <seg>You might also use the feature to transfer manual formatting of &lt;f0&gt;a&lt;/f0&gt; document to &lt;f1&gt;its&lt;/f1&gt; template,&lt;f2&gt; &lt;/f2&gt;although making changes to the template is generally a more reliable practice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130941Z" creationid="Franklin Weng" creationdate="20171223T130941Z">
-        <seg>你也可以將一份文件中手動製訂的格式轉換到它的範本去的方式。但直接修改範本通常是比較可靠實際的方法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140937Z" creationid="Franklin Weng" creationdate="20171223T130941Z">
+        <seg>你也可以使用將文件中的手動格式設定轉換成範本的功能，但直接修改範本才是比較可靠、實際的方法。</seg>
       </tuv>
     </tu>
     <tu>
