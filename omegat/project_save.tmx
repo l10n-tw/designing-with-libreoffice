@@ -2383,8 +2383,8 @@
       <tuv lang="EN">
         <seg>&lt;f5&gt;Nor is there any means to apply multiple templates to the same document&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T140116Z" creationid="Franklin Weng" creationdate="20171223T124748Z">
-        <seg>&lt;f5&gt;此外，同一份文件也不能套用多個範本。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140035Z" creationid="Franklin Weng" creationdate="20171223T124748Z">
+        <seg>&lt;f5&gt;此外，同一份文件也不能套用多份範本。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,8 +4915,8 @@
       <tuv lang="EN">
         <seg>However, you &lt;f6&gt;can use three workarounds.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124820Z" creationid="Franklin Weng" creationdate="20171223T124820Z">
-        <seg>不過，你有三種方式可以解決上面的問題：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140044Z" creationid="Franklin Weng" creationdate="20171223T124820Z">
+        <seg>不過，你有三種方式可以解決上面的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8372,8 +8372,8 @@
       <tuv lang="EN">
         <seg>The first is to open a document based on another template, then copy and paste into it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124847Z" creationid="Franklin Weng" creationdate="20171223T124847Z">
-        <seg>第一種是用另一個範本開一個新檔案，然後把使用到你要修改的範本的檔案內容通通複製過去。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140154Z" creationid="Franklin Weng" creationdate="20171223T124847Z">
+        <seg>第一種是用另一個範本開一個新文件，然後把文件內容通通複製過去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,8 +8887,8 @@
       <tuv lang="EN">
         <seg>This method works best when all styles in both documents have the same names, because the styles in the original document will take on the formatting of the new document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124947Z" creationid="Franklin Weng" creationdate="20171223T124947Z">
-        <seg>這個方法適用於原本與副本的樣式名稱都一樣時。因為原始文件的樣式會套用新副本的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140301Z" creationid="Franklin Weng" creationdate="20171223T124947Z">
+        <seg>這個方法適用於原先範本樣式與新文件範本樣式名稱都一樣的時候。因為原始文件的樣式會套用新文件的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
