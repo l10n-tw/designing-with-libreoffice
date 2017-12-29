@@ -425,8 +425,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;As shown above, you might have sub-folders such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for templates that use American and Canadian English locales for dictionaries.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175714Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
-        <seg>&lt;f0&gt;如上所顯示，你可以用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 之類的類別，來分別代表這些範本使用美式英語和加拿大式英語的拼字檢查字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112406Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
+        <seg>&lt;f0&gt;如上所顯示，你可以用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 之類的類別，來分別代表這些範本使用美式英文和加拿大式英文的拼字檢查字典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2159,8 +2159,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;t assumes that most users want a generic &lt;t3/&gt;font, like Times New Roman or Liberation Serif.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112244Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
-        <seg>例如它根據大部份使用者的習慣，將字型設定為通用字型，像是 Times New Roman 或是 Liberation Serif 等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112413Z" creationid="Franklin Weng" creationdate="20171223T042425Z">
+        <seg>例如它根據大部份使用者的習慣，將字型設定為通用字型，像是Times New Roman或是Liberation Serif等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3689,8 +3689,8 @@
       <tuv lang="EN">
         <seg>Create and register the replacement &lt;f0&gt;template&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042734Z" creationid="Franklin Weng" creationdate="20171223T042734Z">
-        <seg>建立並註冊你自己的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112601Z" creationid="Franklin Weng" creationdate="20171223T042734Z">
+        <seg>建立並註冊你自己的取代用範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,8 +4763,8 @@
       <tuv lang="EN">
         <seg>However, if they don’t serve your needs, you can avoid making changes to every generic document that you start by changing the default template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042702Z" creationid="Franklin Weng" creationdate="20171223T042702Z">
-        <seg>不過，如果這些預設設定不符你的需求，你可以修改預設範本的設定，這樣就不用每份通用文件都要修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112542Z" creationid="Franklin Weng" creationdate="20171223T042702Z">
+        <seg>不過，如果這些設定不符你的需求，你可以修改預設範本的設定，這樣就不用每份通用文件都要另外修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5758,8 +5758,8 @@
       <tuv lang="EN">
         <seg>It assumes that a connection exists between language locale and paper size, so that an installation that defaults to American English will use letter-sized paper, while one that defaults to United Kingdom English will use A4 paper.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112351Z" creationid="Franklin Weng" creationdate="20171223T042615Z">
-        <seg>它也假設使用的語言地區設定和紙張大小間有一定的關聯。所以當安裝時使用的語言是美式英文的話，紙張大小預設會使用 Letter，而使用英式英文的話，紙張大小預設就使用 A4。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112510Z" creationid="Franklin Weng" creationdate="20171223T042615Z">
+        <seg>它也假設使用的語言地區設定和紙張大小間有一定的關聯。所以當安裝時使用的語言是美式英文的話，紙張大小預設會使用Letter；而使用英式英文的話，紙張大小預設就使用A4。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,8 +6663,8 @@
       <tuv lang="EN">
         <seg>Open the Template Manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042741Z" creationid="Franklin Weng" creationdate="20171223T042741Z">
-        <seg>打開「範本」視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112609Z" creationid="Franklin Weng" creationdate="20171223T042741Z">
+        <seg>開啟「範本管理員」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9039,8 +9039,8 @@
       <tuv lang="EN">
         <seg>To change the default template:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042710Z" creationid="Franklin Weng" creationdate="20171223T042710Z">
-        <seg>修改預設範本的方法：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112551Z" creationid="Franklin Weng" creationdate="20171223T042710Z">
+        <seg>修改預設範本：</seg>
       </tuv>
     </tu>
     <tu>
