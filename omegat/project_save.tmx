@@ -521,8 +521,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Carefully c&lt;/f0&gt;heck styles that were supposed to &lt;f1&gt;be &lt;/f1&gt;overwritten.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132842Z" creationid="Franklin Weng" creationdate="20171223T132842Z">
-        <seg>&lt;f0&gt;請仔細檢查要覆蓋的樣式。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142050Z" creationid="Franklin Weng" creationdate="20171223T132842Z">
+        <seg>&lt;f0&gt;請仔細&lt;/f0&gt;檢查要覆蓋的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5180,8 +5180,8 @@
       <tuv lang="EN">
         <seg>If you do not want to replace styles, leave the &lt;f0&gt;Overwrite&lt;/f0&gt; box unselected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132950Z" creationid="Franklin Weng" creationdate="20171223T132950Z">
-        <seg>如果你沒有要取代樣式，那麼記得別勾選「覆蓋」選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142115Z" creationid="Franklin Weng" creationdate="20171223T132950Z">
+        <seg>如果你沒有要取代樣式，那麼記得別勾選「&lt;f0&gt;覆蓋&lt;/f0&gt;」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5356,8 +5356,8 @@
       <tuv lang="EN">
         <seg>If you want to replace any styles in the current document that have the same name as the ones in the template or document &lt;t0/&gt;from which you are importing styles, &lt;f1&gt;click&lt;/f1&gt; the &lt;f2&gt;Overwrite&lt;/f2&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132816Z" creationid="Franklin Weng" creationdate="20171223T132816Z">
-        <seg>如果你要把目前文件中的樣式用範本裡相同名稱的樣式取代，就把「覆蓋」選項勾起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142032Z" creationid="Franklin Weng" creationdate="20171223T132816Z">
+        <seg>如果你要把目前文件中的樣式用範本裡相同名稱的樣式取代，就把「&lt;f2&gt;覆蓋&lt;/f2&gt;」選項&lt;f1&gt;勾&lt;/f1&gt;起來。</seg>
       </tuv>
     </tu>
     <tu>
