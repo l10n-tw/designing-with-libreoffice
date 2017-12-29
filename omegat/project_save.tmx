@@ -1637,8 +1637,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;True, i&lt;/f0&gt;f you save a file using &lt;f1&gt;File&gt; Sa&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ve&lt;/f3&gt;&lt;/f2&gt; or &lt;f4&gt;File &gt; Save As,&lt;/f4&gt; you can select a LibreOffice template from the drop-down list of formats in the &lt;f5&gt;Save&lt;/f5&gt; &lt;f6&gt;d&lt;/f6&gt;ialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124928Z" creationid="Franklin Weng" creationdate="20171218T124928Z">
-        <seg>&lt;f0&gt;當然&lt;/f0&gt;，如果你用「檔案」&gt;「儲存」或是「檔案」&gt;「另存新檔」，你可以在格式清單中選擇將檔案儲存成 LibreOffice 範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105310Z" creationid="Franklin Weng" creationdate="20171218T124928Z">
+        <seg>&lt;f0&gt;當然&lt;/f0&gt;，如果你用「&lt;f1&gt;檔案 &gt; 儲存&lt;/f1&gt;」或是「&lt;f4&gt;檔案 &gt; 另存新檔&lt;/f4&gt;」來儲存範本的話，確實可以在「儲存」對話視窗的格式清單中，將檔案格式選擇存成LibreOffice範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3297,8 +3297,8 @@
       <tuv lang="EN">
         <seg>By contrast, &lt;f0&gt;each&lt;/f0&gt; template must be registered with LibreOffice before you can use it, just as databases and address books must be.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124520Z" creationid="Franklin Weng" creationdate="20171218T124520Z">
-        <seg>但是，範本在使用前必須先向 LibreOffice 註冊才能使用，就好像資料庫跟通訊錄一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T104909Z" creationid="Franklin Weng" creationdate="20171218T124520Z">
+        <seg>但是，&lt;f0&gt;每一份&lt;/f0&gt;範本在使用之前都必須先向LibreOffice註冊過才能用，就好像資料庫跟通訊錄一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,8 +9502,8 @@
       <tuv lang="EN">
         <seg>What this means is that you &lt;f0&gt;cannot&lt;/f0&gt; simply save a template&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171218T124552Z" creationid="Franklin Weng" creationdate="20171218T124552Z">
-        <seg>這表示你&lt;f0&gt;不能&lt;/f0&gt;單純只儲存範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T104922Z" creationid="Franklin Weng" creationdate="20171218T124552Z">
+        <seg>這表示你&lt;f0&gt;不能&lt;/f0&gt;單單只儲存範本。</seg>
       </tuv>
     </tu>
     <tu>
