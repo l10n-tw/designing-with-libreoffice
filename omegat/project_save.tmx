@@ -898,8 +898,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, you can also u&lt;/f0&gt;se placeholders for &lt;f1&gt;text and objects in Writer &lt;/f1&gt;from&lt;f2&gt; Insert &gt; Fields &gt; Other &gt; Functions&lt;/f2&gt;.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Format,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; then give the placeholder a name in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Placeholder&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135700Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
-        <seg>&lt;f0&gt;不過，你也可以在&lt;/f0&gt;Writer 選單的「插入」&gt;「欄位」&gt;「更多欄位」&gt;「功能」中的「格式」分頁加入文件或物件的佔位項，然後在右邊的「佔位項」中加入名稱即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121120Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
+        <seg>&lt;f0&gt;不過，你也可以在&lt;/f0&gt;Writer 選單的「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 功能&lt;/f2&gt;」中，在左方「類型」區段選擇「佔位項」，再到「&lt;f5&gt;&lt;f6&gt;格式&lt;/f5&gt;&lt;/f6&gt;&lt;f7&gt;」區段加入文字或物件的對應選項，接著到右側的「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;佔位項&lt;/f9&gt;&lt;/f8&gt;」&lt;f10&gt;欄位中為它命名即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2809,8 +2809,8 @@
       <tuv lang="EN">
         <seg>An Impress slide, with placeholders for the title and text, and a generic placeholder for tables, charts, images, and movies in the middle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120229Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
-        <seg>Impress投影片，有題名、內文的佔位項，還有中間有新增表格、圖表、影像與影片用的佔位項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120340Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
+        <seg>在Impress投影片中，有給題名、內文使用的佔位項，還有中間用來新增表格、圖表、影像與影片用的通用佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,8 +5388,8 @@
       <tuv lang="EN">
         <seg>Impress &lt;f0&gt;has built-in placeholders for slide titles, body text, and inserted objects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120203Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
-        <seg>Impress&lt;f0&gt;在投影片的題名、內文、插入物件等處都放有內建的佔位項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120248Z" creationid="Franklin Weng" creationdate="20171223T092341Z">
+        <seg>Impress&lt;f0&gt;在投影片的題名、內文、插入物件等用途都有內建的佔位項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,8 +6921,8 @@
       <tuv lang="EN">
         <seg>Placeholders are fields that mark the type of information needed at a certain spot, but leave you to fill in the details by clicking them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120009Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
-        <seg>佔位項是在特定位置上標記該處要填入哪一類資料，讓你點按之後就能直接填寫。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120431Z" creationid="Franklin Weng" creationdate="20171223T092311Z">
+        <seg>佔位項是在特定定點上標記該處要填入哪一類資料的欄位，讓你點按之後就能直接填寫。</seg>
       </tuv>
     </tu>
     <tu>
