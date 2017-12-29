@@ -1935,8 +1935,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Neither is difficult in theory, although some of the ways that templates work may seem needlessly complicated until you realize that they exist to prevent file corruption.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134210Z" creationid="Franklin Weng" creationdate="20171223T134210Z">
-        <seg>&lt;f1&gt;這兩者理論上都不困難，雖然範本運作的方式有些看來是冗餘地複雜，但若你瞭解這些方式都是為了避免檔案毀損，你應該就比較能理解與接受。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T143304Z" creationid="Franklin Weng" creationdate="20171223T134210Z">
+        <seg>&lt;f1&gt;這兩者理論上都不困難，雖然範本運作的方式有些看來是不必要地複雜，但如果你能理解這些做法都是為了避免檔案毀損，你應該或多或少就能接受。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5236,8 +5236,8 @@
       <tuv lang="EN">
         <seg>If you have read Chapter 2, you should &lt;f0&gt;now &lt;/f0&gt;have a general sense of how styles and templates work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134030Z" creationid="Franklin Weng" creationdate="20171223T134030Z">
-        <seg>如果你也讀完了第 2 章，你現在應該對樣式與範本的運作方式有一般性的瞭解了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T143137Z" creationid="Franklin Weng" creationdate="20171223T134030Z">
+        <seg>如果你也讀過了第2章，你&lt;f0&gt;現在&lt;/f0&gt;應該對樣式和範本的運作方式有個概念性的瞭解了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8525,8 +8525,8 @@
       <tuv lang="EN">
         <seg>The next few chapters explain the points you need to consider to design useful and beautiful styles and templates.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134322Z" creationid="Franklin Weng" creationdate="20171223T134322Z">
-        <seg>接下來的幾章會解釋要設計有用且美觀的樣式與範本時，需要考慮的因素。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T143334Z" creationid="Franklin Weng" creationdate="20171223T134322Z">
+        <seg>接下來的幾章中會解釋要設計出有用且美觀的樣式和範本時，所需要考慮的重點。</seg>
       </tuv>
     </tu>
     <tu>
