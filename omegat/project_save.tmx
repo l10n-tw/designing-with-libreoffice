@@ -3177,8 +3177,8 @@
       <tuv lang="EN">
         <seg>Both have uses.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094025Z" creationid="Franklin Weng" creationdate="20171223T094025Z">
-        <seg>兩種都有用處。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124523Z" creationid="Franklin Weng" creationdate="20171223T094025Z">
+        <seg>兩種都有其用處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,16 +3737,16 @@
       <tuv lang="EN">
         <seg>Date and time fields &lt;f0&gt;are of two kinds.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124154Z" creationid="Franklin Weng" creationdate="20171223T093806Z">
-        <seg>日期與時間是&lt;f0&gt;兩種不同的欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124518Z" creationid="Franklin Weng" creationdate="20171223T093806Z">
+        <seg>日期與時間有&lt;f0&gt;兩種不同的欄位。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Date and time fields also support a number of formats, defaulting to the one listed for the current language.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094217Z" creationid="Franklin Weng" creationdate="20171223T094217Z">
-        <seg>日期與時間欄位也支援根據目前語言的設定採用不同的顯示格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124733Z" creationid="Franklin Weng" creationdate="20171223T094217Z">
+        <seg>日期與時間欄位也支援許多格式，預設會列出目前語言所使用的日期與時間格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4419,8 +4419,8 @@
       <tuv lang="EN">
         <seg>For example, you could place a fixed date field beside a witness' signature, and a variable date field at the top of a letter template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094127Z" creationid="Franklin Weng" creationdate="20171223T094127Z">
-        <seg>例如，你可以放一個固定日期的欄位在證人簽名處的旁邊，然後在信件範本的最上面放入一個變數日期欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124554Z" creationid="Franklin Weng" creationdate="20171223T094127Z">
+        <seg>例如，你可以放一個固定日期的欄位在見證人簽名處的旁邊，然後在書信範本的最上面放入一個可變日期欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6039,8 +6039,8 @@
       <tuv lang="EN">
         <seg>LibreOffice offers no way to change the default formats permanently.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T094232Z" creationid="Franklin Weng" creationdate="20171223T094232Z">
-        <seg>LibreOffice 不接受永久改變預設格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124800Z" creationid="Franklin Weng" creationdate="20171223T094232Z">
+        <seg>LibreOffice無法永久改變預設格式。</seg>
       </tuv>
     </tu>
     <tu>
