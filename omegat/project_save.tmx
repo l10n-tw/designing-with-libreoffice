@@ -1379,6 +1379,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Straight: &lt;/f0&gt;A connector that consists of a single vertical or horizontal line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020335Z" creationid="Jeff Huang" creationdate="20171229T020335Z">
+        <seg>&lt;f0&gt;直線：&lt;/f0&gt;一個僅包含垂直或水平線的連接符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;HTML&lt;/f1&gt; view shows the paragraph styles that LibreOffice has mapped directly to specific &lt;f2&gt;HTML&lt;/f2&gt; tags.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155704Z" creationid="zerng07" creationdate="20171224T155658Z">
@@ -9102,6 +9110,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153631Z" creationid="zerng07" creationdate="20171224T153631Z">
         <seg>建議你只有在完全找不出你所想用的樣式的時候，才開啟&lt;f5&gt;全部樣式&lt;/f5&gt;的檢視畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Line connectors in diagrams that are even more crowded than the ones in which you use Standard connectors.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020218Z" creationid="Jeff Huang" creationdate="20171229T020218Z">
+        <seg>與使用標準連接符時相比更擁擠的圖表中可以使用線條連接符。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
