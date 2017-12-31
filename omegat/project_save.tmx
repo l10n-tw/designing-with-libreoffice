@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>100: Extra Light.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124523Z" creationid="Franklin Weng" creationdate="20171231T124442Z">
+        <seg>100：極細體（Extra Light）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>10&lt;f0&gt;–&lt;/f0&gt;14</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094620Z" creationid="Franklin Weng" creationdate="20171231T094620Z">
@@ -118,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>200: Light.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124520Z" creationid="Franklin Weng" creationdate="20171231T124510Z">
+        <seg>200：細體（Light）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2&lt;f0&gt;–&lt;/f0&gt;4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094457Z" creationid="Franklin Weng" creationdate="20171231T094457Z">
@@ -134,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>300: Book.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124530Z" creationid="Franklin Weng" creationdate="20171231T124530Z">
+        <seg>300：書體（Book）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T064228Z" creationid="Franklin Weng" creationdate="20171224T064228Z">
         <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>400: Regular, Roman.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124605Z" creationid="Franklin Weng" creationdate="20171231T124605Z">
+        <seg>400：一般（Regular），或 Roman。</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>500: Medium.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124623Z" creationid="Franklin Weng" creationdate="20171231T124623Z">
+        <seg>500：中等（Medium）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5&lt;f0&gt;–&lt;/f0&gt;-6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094502Z" creationid="Franklin Weng" creationdate="20171231T094502Z">
         <seg>5&lt;f0&gt;–&lt;/f0&gt;-6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>600: Semi-Bold/Demi-&lt;f0&gt;b&lt;/f0&gt;old.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124503Z" creationid="Franklin Weng" creationdate="20171231T124503Z">
+        <seg>600：半粗體（Semi-Bold/Demi-bold）</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +214,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>700: Bold.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124517Z" creationid="Franklin Weng" creationdate="20171231T124517Z">
+        <seg>700：粗體（Bold）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>800: Heavy, Extra, Black.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124545Z" creationid="Franklin Weng" creationdate="20171231T124545Z">
+        <seg>800：重粗體、黑體（Heavy, Extra, Black）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>8&lt;f0&gt;–&lt;/f0&gt;9</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094617Z" creationid="Franklin Weng" creationdate="20171231T094617Z">
         <seg>8&lt;f0&gt;–&lt;/f0&gt;9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>900: Ultra, Extra.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124614Z" creationid="Franklin Weng" creationdate="20171231T124614Z">
+        <seg>900：特粗體（Ultra, Extra）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1193,6 +1265,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
         <seg>對樣式的迷思</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Many fonts use the same classifications.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124642Z" creationid="Franklin Weng" creationdate="20171231T124642Z">
+        <seg>&lt;f0&gt;許多字型使用相同的分類法。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4161,6 +4241,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even more important, what looks like a well-regulated system at first glance is on closer look extremely arbitrary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124223Z" creationid="Franklin Weng" creationdate="20171231T124223Z">
+        <seg>更重要的是，一個第一眼看起來管理良好的系統，仔細一看可能會發現其實它極度之隨便。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even so, you may sometimes save time by deleting existing connectors and adding new ones.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T022632Z" creationid="Jeff Huang" creationdate="20171229T022632Z">
@@ -4341,6 +4429,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T082454Z" creationid="Franklin Weng" creationdate="20171224T082454Z">
         <seg>字族（字型家族）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font styles in CSS.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124631Z" creationid="Franklin Weng" creationdate="20171231T124631Z">
+        <seg>CSS 中的字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8717,6 +8813,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The same is true for Outline fonts, &lt;f1&gt;which show only the borders of characters but no fill.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124016Z" creationid="Franklin Weng" creationdate="20171231T124016Z">
+        <seg>外框字型&lt;f1&gt;（Outline，只有外框輪廓的空心字型）&lt;/f1&gt;也是一樣的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The short answer is, “&lt;f0&gt;Whenever it saves time&lt;/f0&gt;.” Still, in practice, even experts sometimes use manual formatting in certain circumstances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114137Z" creationid="zerng07" creationdate="20171219T114137Z">
@@ -8798,6 +8902,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The use of names is not standardized in 300-500, or 700-900, and, while in theory a font could have a weight of 350, what exactly would that mean, &lt;f0&gt;except in relation to other fonts in the same family&lt;/f0&gt;?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124431Z" creationid="Franklin Weng" creationdate="20171231T124431Z">
+        <seg>字型名稱的使用在權重 300-500，或 700-900 並沒有統一。還有理論上字型權重可以是 350，&lt;f0&gt;但除了與相同字族其他字型的關係外，它實際上代表什麼？&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The window for each style throughout LibreOffice is divided into tabs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152552Z" creationid="zerng07" creationdate="20171225T152552Z">
@@ -8858,6 +8970,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042624Z" creationid="Franklin Weng" creationdate="20171223T042624Z">
         <seg>這些都是相當合理的假設。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These cautions do not mean that font styles are not useful in deciding what fonts &lt;f0&gt;to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T131730Z" creationid="Franklin Weng" creationdate="20171231T131730Z">
+        <seg>對這些細節的留意並不表示字型樣式對決定使用哪種字型是不管用的。</seg>
       </tuv>
     </tu>
     <tu>
