@@ -94,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10&lt;f0&gt;–&lt;/f0&gt;14</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094620Z" creationid="Franklin Weng" creationdate="20171231T094620Z">
+        <seg>10&lt;f0&gt;–&lt;/f0&gt;14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094625Z" creationid="Franklin Weng" creationdate="20171231T094625Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T091916Z" creationid="Franklin Weng" creationdate="20171231T091916Z">
@@ -126,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094646Z" creationid="Franklin Weng" creationdate="20171231T094646Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5&lt;f0&gt;–&lt;/f0&gt;-6</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094502Z" creationid="Franklin Weng" creationdate="20171231T094502Z">
@@ -138,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094506Z" creationid="Franklin Weng" creationdate="20171231T094506Z">
         <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>8&lt;f0&gt;–&lt;/f0&gt;9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094617Z" creationid="Franklin Weng" creationdate="20171231T094617Z">
+        <seg>8&lt;f0&gt;–&lt;/f0&gt;9</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,11 +4800,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>However, even being conservative, applying the style requires one-third the number of actions than making the changes manually.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113425Z" creationid="zerng07" creationdate="20171219T113425Z">
-        <seg>然而，保守來看，套用樣式需要手動修改步驟數的三分之一左右。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094825Z" creationid="zerng07" creationdate="20171219T113425Z">
+        <seg>即使是保守估計，套用樣式也只需要手動修改步驟數的三分之一左右。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7705,11 +7738,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>Specifically, you want to set &lt;f0&gt;the font, font size, font weight, font color, and the space above the paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111008Z" creationid="zerng07" creationdate="20171219T111008Z">
-        <seg>明確來說，你希望設定&lt;f0&gt;字型、字型大小、字重、字型色彩、段落上方的空間等。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094933Z" creationid="zerng07" creationdate="20171219T111008Z">
+        <seg>明確來說，你希望設定&lt;f0&gt;字型、字型大小、權重、字型色彩、段落上方的空間等。</seg>
       </tuv>
     </tu>
     <tu>
