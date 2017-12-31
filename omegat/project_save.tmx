@@ -1197,6 +1197,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the digital age, this measurement &lt;/f0&gt;has been standardized as one-seventy-second of an inch &lt;f1&gt;or 2.5 centimeters&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T132106Z" creationid="Franklin Weng" creationdate="20171231T132106Z">
+        <seg>&lt;f0&gt;在數位時代，字型的大小是以 1/72 英吋（一英吋約為 2.5 公分）為單位來測量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Its&lt;/f0&gt; Writer word processor &lt;f1&gt;in particular&lt;/f1&gt; is structured around the concept of styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T164336Z" creationid="zerng07" creationdate="20170817T154546Z">
@@ -2403,6 +2411,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Previously,&lt;/f2&gt; a point was actually slightly less, &lt;f3&gt;but points remain defiantly non-metric and a sign of typographic expertise.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T132934Z" creationid="Franklin Weng" creationdate="20171231T132934Z">
+        <seg>&lt;f2&gt;在此之前，&lt;/f2&gt;一個點實際上要再小一點，&lt;f3&gt;並且一直沒有一個標準，而是屬於印刷專業的一項指標。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Rather, it is a&lt;/f2&gt; powerful piece&lt;f3&gt;s&lt;/f3&gt; of software in &lt;f4&gt;its&lt;/f4&gt; own right, &lt;f5&gt;sometimes falling short of Microsoft Office, but just as often exceeding it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165606Z" creationid="zerng07" creationdate="20170822T163203Z">
@@ -2463,6 +2479,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T085432Z" creationid="Franklin Weng" creationdate="20171215T124719Z">
         <seg>&lt;f2&gt;這對於簡報背景範本來說是不錯的辦法，但是對於文字文件這一類就不一定，尤其是有複雜格式設定的文件，可能在匯入匯出上會出問題。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Y&lt;/f2&gt;ou can &lt;f3&gt;always &lt;/f3&gt;change the &lt;f4&gt;Measure&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;ment&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; unit&lt;/f7&gt; back to centimeters or inches &lt;f8&gt;when you start to add content to a template.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T133321Z" creationid="Franklin Weng" creationdate="20171231T133321Z">
+        <seg>然後&lt;f8)當你開始將內容加入範本時&lt;/f8&gt;，你隨時都可以把「定量單位」換回公分或英吋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4454,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124347Z" creationid="Franklin Weng" creationdate="20171223T093834Z">
         <seg>固定欄位會加入當下的資訊，並且不會再改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font &lt;f0&gt;s&lt;/f0&gt;izes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T131946Z" creationid="Franklin Weng" creationdate="20171231T131946Z">
+        <seg>字型大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -8283,6 +8315,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;font size refers to the amount of space given to each character and the empty space around it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134025Z" creationid="Franklin Weng" creationdate="20171231T134025Z">
+        <seg>&lt;f0&gt;字型大小指的是每個字元與週圍的間隔所佔用的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;nature&lt;/f0&gt; of styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083149Z" creationid="zerng07" creationdate="20171225T083149Z">
@@ -9455,6 +9495,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Traditionally, fonts are measured in points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T132001Z" creationid="Franklin Weng" creationdate="20171231T132001Z">
+        <seg>傳統上，字型大小是以點來計算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Transferring styles between documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130949Z" creationid="Franklin Weng" creationdate="20171223T130949Z">
@@ -9667,6 +9715,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115923Z" creationid="Franklin Weng" creationdate="20171223T092212Z">
         <seg>使用佔位項 (Placeholder)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using points will make &lt;f0&gt;designing much easier&lt;/f0&gt; &lt;f1&gt;because you have a consistent measurement&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T133204Z" creationid="Franklin Weng" creationdate="20171231T133204Z">
+        <seg>用點來做單位會讓&lt;f0&gt;設計變簡單一點&lt;/f0&gt;，&lt;f1&gt;因為測量的單位可以一致。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9917,6 +9973,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103939Z" creationid="Franklin Weng" creationdate="20171215T125912Z">
         <seg>當你完成範本的設定後，精靈預設會將產生的範本存到你個人的範本目錄的子目錄中並且註冊，讓你可以&lt;f0&gt;立即使用&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are setting up paragraph and character styles, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General &gt; Settings&lt;/f0&gt; and change the &lt;f1&gt;Measurement unit&lt;/f1&gt; to points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T133110Z" creationid="Franklin Weng" creationdate="20171231T133110Z">
+        <seg>當你設定段落與字元樣式時，到「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定&lt;/f0&gt;」中，把「&lt;f1&gt;定量單位&lt;/f1&gt;」改成「點」。</seg>
       </tuv>
     </tu>
     <tu>
