@@ -384,6 +384,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102344Z" creationid="Franklin Weng" creationdate="20171231T102344Z">
+        <seg>&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Inherit from (Linked With)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;:&lt;/f2&gt; The parent style in the hierarchy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171944Z" creationid="zerng07" creationdate="20171225T171944Z">
@@ -6918,12 +6926,13 @@
       </tuv>
     </tu>
     <tu>
-      <note>不清楚這是怎麼發生的。</note>
+      <note>不清楚這是怎麼發生的。
+Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Otherwise, you risk being entangled in the menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104822Z" creationid="zerng07" creationdate="20171226T103410Z">
-        <seg>不然你有機會陷入選單之中。？？？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102307Z" creationid="zerng07" creationdate="20171226T103410Z">
+        <seg>不然可能會點到內文選單去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9672,11 +9681,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 我猜它是講左上角的樣式，每個列出的樣式的右邊是 context menu。下方的解釋也是針對那個下拉式選單。</note>
       <tuv lang="EN">
         <seg>When applying a style, always click on the left of a list item.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104732Z" creationid="zerng07" creationdate="20171226T102904Z">
-        <seg>對清單項目套用樣式時，記得要點清單項目的左側。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102252Z" creationid="zerng07" creationdate="20171226T102904Z">
+        <seg>用左上角的下拉式選單套用樣式時，記得要點清單項目的左側。</seg>
       </tuv>
     </tu>
     <tu>
