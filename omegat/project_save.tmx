@@ -173,7 +173,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>Modified by Franklin
+      <note>
 </note>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
@@ -1987,8 +1987,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;If you prefer an italic, you might go searching for something compatible with the regular weight.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071348Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
-        <seg>&lt;f1&gt;如果你要用的是 italic 式斜體，你可能要去搜尋一些與一般權重相容的字型樣式。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122741Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
+        <seg>&lt;f1&gt;如果你要用的是義式斜體，你可能要去搜尋一些與一般權重相容的字型樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2084,8 +2084,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Since the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Emphasis &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;character style uses Italic and &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Strong Emphasis&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; uses Bold, Bold Italic serves no regular purpose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072104Z" creationid="Franklin Weng" creationdate="20171228T072104Z">
-        <seg>&lt;f1&gt;通常&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;強調&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;的字元會用斜體，而&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;特別強調&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;的字元會用粗體，而粗斜體其實沒什麼用處。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122756Z" creationid="Franklin Weng" creationdate="20171228T072104Z">
+        <seg>&lt;f1&gt;通常&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;強調&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;的字元會用義式斜體，而&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;特別強調&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;的字元會用粗體，而粗斜體其實沒什麼用處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,8 +3080,8 @@
       <tuv lang="EN">
         <seg>As you &lt;f0&gt;select fonts&lt;/f0&gt;, &lt;f1&gt;constantly ask&lt;/f1&gt; yourself: How appropriate &lt;f2&gt;is &lt;/f2&gt;a font to your subject matter and &lt;f3&gt;requirements&lt;/f3&gt;?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144233Z" creationid="Franklin Weng" creationdate="20171224T072319Z">
-        <seg>當你&lt;f0&gt;要選擇字型時&lt;/f0&gt;，要&lt;f1&gt;經常問你自己&lt;/f1&gt;：這份字型對你的&lt;f2&gt;題材&lt;/f2&gt;與&lt;f3&gt;需求&lt;/f3&gt;來說適當嗎？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122508Z" creationid="Franklin Weng" creationdate="20171224T072319Z">
+        <seg>當你&lt;f0&gt;要選擇字型時&lt;/f0&gt;，一定要&lt;f1&gt;問你自己&lt;/f1&gt;：這份字型對你的&lt;f2&gt;題材&lt;/f2&gt;與&lt;f3&gt;需求&lt;/f3&gt;來說適當嗎？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4571,8 +4571,8 @@
       <tuv lang="EN">
         <seg>For instance, Nobile Italic is not actually an &lt;f0&gt;i&lt;/f0&gt;talic at all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071236Z" creationid="Franklin Weng" creationdate="20171228T071210Z">
-        <seg>例如，Nobile Italic 實際上根本就不是 Italic 式斜體。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122708Z" creationid="Franklin Weng" creationdate="20171228T071210Z">
+        <seg>例如，Nobile Italic 實際上根本就不是義式斜體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5710,8 +5710,8 @@
       <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133215Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
-        <seg>在現代的字型中，斜體（Italic）有時會被另一種斜體（Oblique）取代，後者就類似往右斜的 Roman。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122621Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
+        <seg>在現代的字型中，義式斜體（Italic）有時會被另一種斜體（Oblique）取代，後者就類似往右斜的 Roman。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5814,8 +5814,8 @@
       <tuv lang="EN">
         <seg>Instead it is an oblique – the regular weight angled to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071311Z" creationid="Franklin Weng" creationdate="20171228T071227Z">
-        <seg>它其實是 oblique 式斜體 – 它是一般的權重，但是往右斜一個角度。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122731Z" creationid="Franklin Weng" creationdate="20171228T071227Z">
+        <seg>它其實是一般式斜體（Oblique） – 它是一般的權重，但是往右斜一個角度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5940,19 +5940,20 @@
       </tuv>
     </tu>
     <tu>
+      <note>修正請求</note>
       <tuv lang="EN">
         <seg>Italic and Oblique have no natural place, which is why you now see fonts designated as Italic or Oblique in their names.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T075349Z" creationid="Franklin Weng" creationdate="20171228T075349Z">
-        <seg>Italic and Oblique have no natural place, which is why you now see fonts designated as Italic or Oblique in their names.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T123704Z" creationid="Franklin Weng" creationdate="20171228T075349Z">
+        <seg>義式和一般斜體都沒有自然的地方（？），這也是為什麼義式和一般斜體字型都會直接在名稱上註明。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145541Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
-        <seg>斜體（Italic）：一種草寫字體，往右邊傾斜。主要用於突顯重點，或是用於&lt;f0&gt;書的標題&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122613Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>義式斜體（Italic）：一種草寫字體，往右邊傾斜。起源於義大利，主要用於突顯重點，或是用於&lt;f0&gt;書的標題&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
