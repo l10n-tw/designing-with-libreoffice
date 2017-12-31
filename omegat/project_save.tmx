@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094455Z" creationid="Franklin Weng" creationdate="20171231T094455Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T091916Z" creationid="Franklin Weng" creationdate="20171231T091916Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2&lt;f0&gt;–&lt;/f0&gt;4</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094457Z" creationid="Franklin Weng" creationdate="20171231T094457Z">
+        <seg>2&lt;f0&gt;–&lt;/f0&gt;4</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>5&lt;f0&gt;–&lt;/f0&gt;-6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094502Z" creationid="Franklin Weng" creationdate="20171231T094502Z">
+        <seg>5&lt;f0&gt;–&lt;/f0&gt;-6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094506Z" creationid="Franklin Weng" creationdate="20171231T094506Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132346Z" creationid="zerng07" creationdate="20171229T132346Z">
-        <seg>&lt;/f0&gt;」中。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094319Z" creationid="zerng07" creationdate="20171229T132346Z">
+        <seg>&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7308,8 +7340,8 @@
       <tuv lang="EN">
         <seg>Select font weight from the tool bar icon.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111526Z" creationid="zerng07" creationdate="20171219T111526Z">
-        <seg>從工具列圖示中選擇讓字重加粗。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094617Z" creationid="zerng07" creationdate="20171219T111526Z">
+        <seg>從工具列圖示中選擇字型的權重。</seg>
       </tuv>
     </tu>
     <tu>
