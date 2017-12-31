@@ -704,11 +704,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Modified by Franklin：現在是在側邊欄</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Clicking the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;More Styles... &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;link at the bottom of the list opens the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles and Formatting&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window, while selecting &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Edit Style&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; from a style’s drop-down menu opens the dialog window for the style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T105442Z" creationid="zerng07" creationdate="20171226T105442Z">
-        <seg>&lt;f0&gt;點按&lt;/f0&gt;清單最底部的「&lt;f1&gt;&lt;f2&gt;更多樣式...&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;連結，會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;樣式和格式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗。至於從各樣式自身的下拉選單中選取&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;編輯樣式&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;，則會開啟該樣式的對話視窗。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120627Z" creationid="zerng07" creationdate="20171226T105442Z">
+        <seg>&lt;f0&gt;點按&lt;/f0&gt;清單最底部的「&lt;f1&gt;&lt;f2&gt;更多樣式...&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;連結，會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;樣式和格式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗或側邊欄。至於從各樣式自身的下拉選單中選取&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;編輯樣式&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;，則會開啟該樣式的對話視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9895,8 +9896,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>With the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, you also have the option with some style categories of reversing the basic application technique, choosing the style first, and where to apply &lt;t1/&gt;it &lt;f2&gt;second.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T123206Z" creationid="zerng07" creationdate="20171226T113944Z">
-        <seg>利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗，有些樣式類別提供一種回到基本套用技巧的選項：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120323Z" creationid="zerng07" creationdate="20171226T113944Z">
+        <seg>在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗，有些樣式類別提供一種回到基本套用技巧的選項：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
