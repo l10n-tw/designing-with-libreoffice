@@ -2072,6 +2072,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>更新參照與頁數</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
@@ -7233,12 +7234,13 @@ Franklin: 猜測如上</note>
       </tuv>
     </tu>
     <tu>
-      <note>5.4 測試起來好像已經不是這樣了。按右鍵沒有作用。（環境：GNOME+Wayland）</note>
+      <note>5.4 測試起來好像已經不是這樣了。按右鍵沒有作用。（環境：GNOME+Wayland）
+Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在文件任意地方點滑鼠右鍵則會回到原來的樣式。透過填入設定的樣式會被取消。</note>
       <tuv lang="EN">
         <seg>Right-clicking anywhere in a document when &lt;f0&gt;Fill Format Mode&lt;/f0&gt; is turned on stops it from being applied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T123256Z" creationid="zerng07" creationdate="20171226T121258Z">
-        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵會停止套用？？？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T121247Z" creationid="zerng07" creationdate="20171226T121258Z">
+        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵，則剛才套用的部份都會恢復成原來的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9893,11 +9895,12 @@ Franklin: 猜測如上</note>
       </tuv>
     </tu>
     <tu>
+      <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>With the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, you also have the option with some style categories of reversing the basic application technique, choosing the style first, and where to apply &lt;t1/&gt;it &lt;f2&gt;second.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120323Z" creationid="zerng07" creationdate="20171226T113944Z">
-        <seg>在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗，有些樣式類別提供一種回到基本套用技巧的選項：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120811Z" creationid="zerng07" creationdate="20171226T113944Z">
+        <seg>在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗或側邊欄中，有些樣式類別也提供一種跟基本套用技巧相反的做法：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
