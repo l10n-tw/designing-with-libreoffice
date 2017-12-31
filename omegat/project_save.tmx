@@ -4224,6 +4224,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Each font uses a different amount of empty space, which explains why the actual height of fonts of the same size is inconsistent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134208Z" creationid="Franklin Weng" creationdate="20171231T134208Z">
+        <seg>每個字型間隔不同，這也是為何即使指定相同的大小，但不同字型的實際高度並不一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.2 改版之後，不管在那裡的「範本管理員」看起來都一樣了。 https://akkidevblog.wordpress.com/2016/07/23/redesigning-the-template-manager/</note>
       <tuv lang="EN">
         <seg>Each view of the Template Manager shows only the icons &lt;f0&gt;that apply to whatever is selected.</seg>
@@ -4574,6 +4582,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144119Z" creationid="Franklin Weng" creationdate="20171224T064604Z">
         <seg>字型、&lt;f0&gt;顏色與&lt;/f0&gt;魔術數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts, from left to right, are League Spartan, Oxygen Sans, and Liberation Sans.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134445Z" creationid="Franklin Weng" creationdate="20171231T134445Z">
+        <seg>字型，從左到右分別是：League Spartan, Oxygen Sans, 以及 Liberation Sans。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5007,6 +5023,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055704Z" creationid="Jeff Huang" creationdate="20171123T075855Z">
         <seg>然而，為每個元素指定名稱是一件困難的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, how each font uses the empty space can vary tremendously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134054Z" creationid="Franklin Weng" creationdate="20171231T134054Z">
+        <seg>不過，每種字型對間隔的使用可能極端不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5837,6 +5861,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, the actual height can vary considerably.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134349Z" creationid="Franklin Weng" creationdate="20171231T134349Z">
+        <seg>說不一致是說輕了一點，實際上差別可能相當的大。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In hard copy, paragraphs can be longer, but only if you need the extra length for a detailed argument.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054022Z" creationid="Jeff Huang" creationdate="20171111T131840Z">
@@ -6340,6 +6372,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032609Z" creationid="zerng07" creationdate="20171227T032609Z">
         <seg>如果樣式正被內容使用，LibreOffice會發出警告；但是它不會&lt;f0&gt;阻止&lt;/f0&gt;你刪除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice's &lt;f0&gt;pre-defined heading paragraph styles express size as&lt;/f0&gt; percentages of the Headings styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134628Z" creationid="Franklin Weng" creationdate="20171231T134628Z">
+        <seg>LibreOffice's &lt;f0&gt;pre-defined heading paragraph styles express size as&lt;/f0&gt; percentages of the Headings styles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8155,6 +8195,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text for captions and notes sometimes goes as low as 8 points, while headings and titles are rarely more than 28 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134623Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
+        <seg>說明與備註的文字通常會小到只有 8 點，而標頭與標題等則很少大於 28 點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Th&lt;f5&gt;ese &lt;/f5&gt;borders do not print, but to view the tables properly, &lt;f6&gt;un&lt;/f6&gt;check &lt;f7&gt;Table Boundaries&lt;/f7&gt; on the right-click menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084715Z" creationid="Jeff Huang" creationdate="20171214T065322Z">
@@ -8675,6 +8723,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The font size for each of these capitals is the same, but the &lt;f0&gt;height&lt;/f0&gt; of the letters varies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134424Z" creationid="Franklin Weng" creationdate="20171231T134424Z">
+        <seg>這些大寫字母的字型大小都一樣，但它的&lt;f0&gt;高度&lt;/f0&gt;則不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The four basic font styles &lt;f0&gt;in most font families.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072231Z" creationid="Franklin Weng" creationdate="20171228T072231Z">
@@ -8906,6 +8962,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T093039Z" creationid="zerng07" creationdate="20170817T093039Z">
         <seg>網站會偵測你使用的作業系統和語言，接著&lt;f0&gt;引導&lt;/f0&gt;下載適當的對應版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard size for body text is usually 10–&lt;f0&gt;1&lt;/f0&gt;4 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134520Z" creationid="Franklin Weng" creationdate="20171231T134520Z">
+        <seg>文章本文的標準大小通常為 10–14 點。</seg>
       </tuv>
     </tu>
     <tu>
