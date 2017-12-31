@@ -173,6 +173,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>Modified by Franklin
+</note>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
       </tuv>
@@ -266,6 +268,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T080246Z" creationid="Jeff Huang" creationdate="20171221T080246Z">
         <seg>&lt;/f1&gt;在 Draw 或 Impress 中工作時，你可能習慣使用 &lt;f2&gt;Ctrl+C&lt;/f2&gt; 與 &lt;f3&gt;Shift+F3&lt;/f3&gt; 來複製。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T100612Z" creationid="Franklin Weng" creationdate="20171231T100612Z">
+        <seg>&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5505,8 +5515,8 @@
       <tuv lang="EN">
         <seg>In Apache OpenOffice &lt;f0&gt;and earlier LIbreOffice releases&lt;/f0&gt;, the &lt;f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field &lt;/f3&gt;is called&lt;f4&gt; Linked with&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144501Z" creationid="zerng07" creationdate="20171225T144501Z">
-        <seg>在Apache OpenOffice&lt;f0&gt;和早期LIbreOffice發行版中&lt;/f0&gt;，這個「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;欄位&lt;/f3&gt;稱為「&lt;f4&gt;連結到&lt;/f4&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T101447Z" creationid="zerng07" creationdate="20171225T144501Z">
+        <seg>在Apache OpenOffice&lt;f0&gt;和早期LibreOffice發行版中&lt;/f0&gt;，這個「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;欄位&lt;/f3&gt;稱為「&lt;f4&gt;連結到&lt;/f4&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
