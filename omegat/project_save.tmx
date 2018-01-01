@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ascenders and descenders: respectively, vertical strokes that rise above the baseline and &lt;f0&gt;descend &lt;/f0&gt;below it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T131214Z" creationid="Franklin Weng" creationdate="20180101T130946Z">
+        <seg>升部（Ascenders）與降部（Descenders）：在字母的筆畫中，超過基線（跟 x 上下等高的線）上方（升部）與下方（降部）的部位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ask yourself: Is your &lt;f0&gt;discussion&lt;/f0&gt; complete?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T062750Z" creationid="Jeff Huang" creationdate="20171111T130420Z">
@@ -3506,6 +3514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T062659Z" creationid="Franklin Weng" creationdate="20171228T062659Z">
         <seg>下方：真正的斜體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bowls: The rounded parts of letters like “b,” “d,” and “o.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T131945Z" creationid="Franklin Weng" creationdate="20180101T131945Z">
+        <seg>封閉弧型（Bowls）：像是字母“b”、“d”、“o”等，會封閉起來的弧型部份稱為 Bowl。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5973,6 +5989,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, one font family is often all that is needed for effective design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130131Z" creationid="Franklin Weng" creationdate="20180101T130131Z">
+        <seg>事實上，一個有效的設計，往往一份字族就夠了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In fact, one school of thought holds that you have less trouble if you use only pre-defined styles, even though that may limit your designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103318Z" creationid="zerng07" creationdate="20171225T103318Z">
@@ -6299,6 +6323,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T151710Z" creationid="zerng07" creationdate="20171227T184310Z">
         <seg>Jan Tschichold著，《&lt;f0&gt;書的構成：好設計的品味》(The Form of the Book: Essays on the Morality of Good Design)，&lt;/f0&gt;英文版譯者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Judging fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130143Z" creationid="Franklin Weng" creationdate="20180101T130143Z">
+        <seg>判斷字型</seg>
       </tuv>
     </tu>
     <tu>
@@ -8675,6 +8707,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic terms to describe fonts physically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130235Z" creationid="Franklin Weng" creationdate="20180101T130235Z">
+        <seg>用於具體描述字型的基本名詞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic views &lt;f0&gt;vary with the application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142816Z" creationid="zerng07" creationdate="20171224T142810Z">
@@ -9295,6 +9335,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These styles are more than enough for most needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130041Z" creationid="Franklin Weng" creationdate="20180101T130041Z">
+        <seg>這些樣式其實都遠超過實際需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These wizards illustrate the kinds of decisions that you make when designing, and can give you a sense of the sorts of decisions you need to make when designing your own templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T091203Z" creationid="Franklin Weng" creationdate="20171215T125439Z">
@@ -9555,6 +9603,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T084001Z" creationid="zerng07" creationdate="20171226T084001Z">
         <seg>如果要套用樣式，你必須先選取一部份的文件內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To appreciate the &lt;f0&gt;differences between fonts, some typographical terms are useful:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130222Z" creationid="Franklin Weng" creationdate="20180101T130222Z">
+        <seg>要細細體味&lt;f0&gt;字型間的不同，有些文字排印學的名詞要先瞭解：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10391,6 +10447,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074557Z" creationid="zerng07" creationdate="20171224T092434Z">
         <seg>「&lt;f0&gt;樣式和格式&lt;/f0&gt;」的Writer版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X-height: the height of a letter “x” a&lt;f0&gt;nd&lt;/f0&gt; sixteen &lt;f1&gt;other&lt;/f1&gt; letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T131040Z" creationid="Franklin Weng" creationdate="20180101T130433Z">
+        <seg>X-字高（X-height）字母“x”和&lt;f1&gt;其他&lt;/f1&gt;16 個字母的高度。</seg>
       </tuv>
     </tu>
     <tu>
