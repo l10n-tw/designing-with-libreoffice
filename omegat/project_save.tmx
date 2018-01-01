@@ -681,6 +681,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;hoosing a head&lt;f1&gt;ing&lt;/f1&gt; font</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133321Z" creationid="Franklin Weng" creationdate="20180101T133321Z">
+        <seg>選擇標題字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;lick &lt;f1&gt;a sub-folder in the display if you want to specify where the template displays in the Template Manager.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111040Z" creationid="Franklin Weng" creationdate="20171222T141747Z">
@@ -1048,6 +1056,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080259Z" creationid="Jeff Huang" creationdate="20171213T030622Z">
         <seg>&lt;f0&gt;不過，請記住&lt;/f0&gt;拼寫檢查不能取代你自身的判斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However, if the ascenders and descenders are short, a high x-height might be less of an asset.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133308Z" creationid="Franklin Weng" creationdate="20180101T133308Z">
+        <seg>&lt;f0&gt;不過，如果升部與降部太短，X-字高太高就不見得好。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1755,6 +1771,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121426Z" creationid="Franklin Weng" creationdate="20171223T093157Z">
         <seg>&lt;f0&gt;佔位項加到文件中就成為欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The second font you probably need is for headings,&lt;/f0&gt; headers, footers, and sub-headings – &lt;f1&gt;everything that guides readers through the document but is not actually content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133841Z" creationid="Franklin Weng" creationdate="20180101T133841Z">
+        <seg>&lt;f0&gt;第二個要選擇的是給&lt;/f0&gt;標題、註腳、子標題 – &lt;f1&gt;任何不屬於內容本體，但是具有引導讀者性質的內容的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,6 +3266,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054437Z" creationid="Jeff Huang" creationdate="20171111T133329Z">
         <seg>你用的是讀者群說話的方式嗎？用的是他們所能理解的行話嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a rule, the higher the x-height, the more readable a font is likely to be.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133215Z" creationid="Franklin Weng" creationdate="20180101T133215Z">
+        <seg>一般規則是，X-字高越高，字型越容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,6 +6302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can belong to the same font family as the body text, but, if so, it should be a different font style, size, or color.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133936Z" creationid="Franklin Weng" creationdate="20180101T133905Z">
+        <seg>它可以跟本文主體使用同一個字族。不過這樣的話，它的字型樣式、大小、色彩要有所不同。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is as &lt;f0&gt;though&lt;/f0&gt; we have learned enough about cars to go downhill in them and coast &lt;f1&gt;across level ground&lt;/f1&gt;, but never learned about the ignition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T165423Z" creationid="zerng07" creationdate="20170817T151207Z">
@@ -6564,6 +6604,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124800Z" creationid="Franklin Weng" creationdate="20171223T094232Z">
         <seg>LibreOffice無法永久改變預設格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice provides for up to ten heading &lt;f0&gt;level&lt;/f0&gt;s, but this &lt;f1&gt;number &lt;/f1&gt;is overkill.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133939Z" creationid="Franklin Weng" creationdate="20180101T133939Z">
+        <seg>LibreOffice provides for up to ten heading &lt;f0&gt;level&lt;/f0&gt;s, but this &lt;f1&gt;number &lt;/f1&gt;is overkill.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7013,6 +7061,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061707Z" creationid="zerng07" creationdate="20170817T150139Z">
         <seg>辦公套裝軟體和個人電腦的歷史幾乎一樣久遠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, a key feature for &lt;f0&gt;body text&lt;/f0&gt; is the x-height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133910Z" creationid="Franklin Weng" creationdate="20180101T133104Z">
+        <seg>通常，&lt;f0&gt;本文主體&lt;/f0&gt;的其中一個主要特徵就是它的 X-字高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9547,6 +9603,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090259Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
         <seg>這個動作可以讓你知道定下精準標題的價值所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is just what it sounds like: the height of the letter “x” and sixteen other lower case letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133147Z" creationid="Franklin Weng" creationdate="20180101T133147Z">
+        <seg>就是字面上說的那樣：字母“x”和其他 16 個小寫字母的高度。</seg>
       </tuv>
     </tu>
     <tu>
