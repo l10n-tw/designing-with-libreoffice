@@ -1181,10 +1181,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In all other cases&lt;/f0&gt;, &lt;f1&gt;use &lt;/f1&gt;the &lt;f2&gt;Font Effect&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; tab &lt;f5&gt;cautiously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121530Z" creationid="Franklin Weng" creationdate="20180101T121530Z">
+        <seg>&lt;f0&gt;在其他的狀況下，&lt;/f0&gt;，&lt;f1&gt;請小心使用&lt;/f1&gt;「&lt;f2&gt;字型效果&lt;/f2&gt;」裡的功能。&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In each case, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Template Manager&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; opens, offering a virtual depiction of the templates saved for all users on the system and for your personal use only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105904Z" creationid="Franklin Weng" creationdate="20171218T144226Z">
         <seg>&lt;f0&gt;接下來，就會開啟&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;範本管理員&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」視窗，裡面包含系統上給所有使用者用的範本，還有你自己的個人範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In most circumstances, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Color&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Effects&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields are the most useful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T120942Z" creationid="Franklin Weng" creationdate="20180101T120942Z">
+        <seg>&lt;f0&gt;在大部份情況下，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型色彩&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;效果&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位都很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2957,6 +2973,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All three are largely&lt;f9&gt; for the automatic use of LibreOffice when displaying changes in a collaborative document.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121416Z" creationid="Franklin Weng" creationdate="20180101T121416Z">
+        <seg>這三個效果的主要用圖&lt;f9&gt;是在 LibreOffice 中協作一份文件時，追蹤顯示文件的變更情形。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All writers have their favorite words and expressions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171111T133507Z" creationid="Jeff Huang" creationdate="20171111T133507Z">
@@ -3531,6 +3555,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T131902Z" creationid="Franklin Weng" creationdate="20171231T131902Z">
         <seg>不過你確實要記得，相對於字族，所有的系統都是相似的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, &lt;f0&gt;&lt;f1&gt;Overlining&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Strikethrough&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Underlining&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;have limited use in most circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121303Z" creationid="Franklin Weng" creationdate="20180101T121303Z">
+        <seg>相反地，&lt;f0&gt;&lt;f1&gt;頂線&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;刪除線&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;和&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;底線&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;在大部份情況下用途都很有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5953,6 +5985,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111023Z" creationid="zerng07" creationdate="20171225T145917Z">
         <seg>在段落樣式和字元樣式中，這種樣式稱為「&lt;f2&gt;預設&lt;/f2&gt;」樣式。所有其他樣式都根基於&lt;f3&gt;預設&lt;/f3&gt;樣式而來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In particular, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Effects&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field includes the option for &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, which are used to make two or more upper case letters in a row more readable.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121155Z" creationid="Franklin Weng" creationdate="20180101T121155Z">
+        <seg>特別是，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;效果&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;欄位包含了一些給&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;，也就是前面提到，讓兩個以上的大寫字母放在一起讀起來比較容易的字型的效果。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
