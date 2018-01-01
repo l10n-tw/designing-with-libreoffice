@@ -2235,6 +2235,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The majority of fonts include a minimum of four font styles – Roman, Italic, Bold, and Bold Italic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T125606Z" creationid="Franklin Weng" creationdate="20180101T125606Z">
+        <seg>&lt;f1&gt;字型的主體包括最少四種字型樣式 – 羅馬字（Roman）、義式斜體（Italic）、粗體（Bold）和粗斜體（Bold Italic）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The rest is mostly about features that are not quite styles, or that are dependent on styles for full efficiency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163113Z" creationid="zerng07" creationdate="20170817T162745Z">
@@ -2753,6 +2761,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025639Z" creationid="zerng07" creationdate="20171227T025530Z">
         <seg>接著會開啟一個對話視窗讓請你幫新樣式命名。？？？&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A few fonts even come in pairs of a serif and a sans serif, &lt;f0&gt;and even a monospaced variation&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130018Z" creationid="Franklin Weng" creationdate="20180101T130018Z">
+        <seg>有些字型會包括有襯線、無襯線一起，&lt;f0&gt;甚至再加上等寬字型的樣式變化。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5263,6 +5279,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T152741Z" creationid="zerng07" creationdate="20171229T152741Z">
         <seg>不過，段落樣式和字元樣式緊密互動，如果我們只想談論其中之一卻忽略另一種，無疑是不可能的任務——它們甚至在對話視窗中有數個相同的分頁標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this is not &lt;f0&gt;quite &lt;/f0&gt;the limitation it sounds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T125517Z" creationid="Franklin Weng" creationdate="20180101T125517Z">
+        <seg>然而，實際上在做的時候並沒有聽起來那樣限制&lt;f0&gt;那麼多&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7978,6 +8002,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some have as many as nine, and a few have even more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T125630Z" creationid="Franklin Weng" creationdate="20180101T125611Z">
+        <seg>有些字型會多到九種，還有一些更多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these are for graphic text, but others are for general categories of drawing objects, such as &lt;f1&gt;Object with arrow.&lt;/f1&gt; Most are not for specific shapes, sizes, or purposes, except for &lt;f2&gt;Dimension Line.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082440Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
@@ -9923,6 +9955,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T133204Z" creationid="Franklin Weng" creationdate="20171231T133204Z">
         <seg>用點來做單位會讓&lt;f0&gt;設計變簡單一點&lt;/f0&gt;，&lt;f1&gt;因為測量的單位可以一致。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using so many font styles in the same document can look just as cluttered as too many different fonts, but nobody is likely to notice if you use several together.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T125858Z" creationid="Franklin Weng" creationdate="20180101T125858Z">
+        <seg>在同一份文件中使用多種字型樣式，會讓文件看起來跟使用多種字型一樣凌亂，但是不會有人真正去注意到你把多少字型樣式混在一起用。</seg>
       </tuv>
     </tu>
     <tu>
