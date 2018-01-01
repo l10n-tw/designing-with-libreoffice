@@ -1647,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Effects&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab contains a variety of features, with widely differing degrees of usefulness.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T120822Z" creationid="Franklin Weng" creationdate="20180101T120822Z">
+        <seg>&lt;f2&gt;字型效果&lt;/f2&gt;&lt;f3&gt;分頁裡有許多功能，用處非常廣泛。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is analogous to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Borders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the styles for other applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064249Z" creationid="Jeff Huang" creationdate="20171228T064249Z">
@@ -4478,6 +4486,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125429Z" creationid="Franklin Weng" creationdate="20171225T125429Z">
         <seg>字型樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font effects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T111540Z" creationid="Franklin Weng" creationdate="20180101T111540Z">
+        <seg>字型效果</seg>
       </tuv>
     </tu>
     <tu>
