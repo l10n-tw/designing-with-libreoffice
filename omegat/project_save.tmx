@@ -2957,6 +2957,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All these effects break the basic purpose of &lt;/f9&gt;&lt;t10/&gt;&lt;f11&gt;typography by calling attention to themselves while doing nothing to enhance the main text.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121915Z" creationid="Franklin Weng" creationdate="20180101T121915Z">
+        <seg>但這些效果其實會破壞文字排印學的基本目的，&lt;/f9&gt;&lt;t10/&gt;&lt;f11&gt;因為它們會把讀者的注意力往效果本身吸引，而沒有真正強化本文的效果。&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All these formats can have two or &lt;f0&gt;four&lt;/f0&gt; digits for the year.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125000Z" creationid="Franklin Weng" creationdate="20171223T094846Z">
@@ -3855,6 +3863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing basic fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T122432Z" creationid="Franklin Weng" creationdate="20180101T122432Z">
+        <seg>選擇基本字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on these rectangles to zoom in on the available templates and select from them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175802Z" creationid="Franklin Weng" creationdate="20171213T123130Z">
@@ -4286,6 +4302,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T123808Z" creationid="Franklin Weng" creationdate="20171223T123808Z">
         <seg>編輯範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effects&lt;/f5&gt; such as&lt;f6&gt; Shadow&lt;/f6&gt;,&lt;f7&gt; Blinking&lt;/f7&gt;, or &lt;f8&gt;Relief&lt;/f8&gt; &lt;f9&gt;are leftovers from when word processors were new and users over-indulged in all the effects they suddenly had.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121812Z" creationid="Franklin Weng" creationdate="20180101T121812Z">
+        <seg>字型的效果，&lt;/f5&gt;例如&lt;f6&gt;陰影&lt;/f6&gt;、&lt;f7&gt;閃動&lt;/f7&gt;、或是&lt;f8&gt;隱藏&lt;/f8&gt;&lt;f9&gt;等等，在文字處理器才剛出現時，使用者看到這些效果非常新奇而大量使用，並一直遺留到現在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6609,6 +6633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many of the choices on this tab should be used sparingly, if at all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T122427Z" creationid="Franklin Weng" creationdate="20180101T122427Z">
+        <seg>如果沒特別必要，在此分頁中的大部份選項，最好都少用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many of the others can be downloaded online, reg&lt;f0&gt;a&lt;/f0&gt;rdless of operating system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184038Z" creationid="zerng07" creationdate="20170817T102037Z">
@@ -8411,6 +8443,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Font Effect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt; tab for character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T122244Z" creationid="Franklin Weng" creationdate="20180101T122244Z">
+        <seg>在字元與段落格式中的「&lt;f0&gt;字型樣式&lt;/f0&gt;」分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Font&lt;/f0&gt; tab for character and paragraph styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145001Z" creationid="Franklin Weng" creationdate="20171224T082104Z">
@@ -9099,6 +9139,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142005Z" creationid="zerng07" creationdate="20171224T142005Z">
         <seg>Writer中的樣式類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The typographical convention is to limit each document to two font families: &lt;f0&gt;one for body text, and one for headings, headers, and footers.&lt;/f0&gt; &lt;f1&gt;Any&lt;/f1&gt; more tend to call attention to the design at the expense of the content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T124943Z" creationid="Franklin Weng" creationdate="20180101T124943Z">
+        <seg>在文字排印學的慣例中，一般一份文件只會用兩種字族：&lt;f0&gt;一種給文章本體，另一種給標題、頁首與註腳。&lt;/f0&gt; &lt;f1&gt;任何&lt;/f1&gt;其他的會吸引注意力的設計都會造成本文內容失焦。</seg>
       </tuv>
     </tu>
     <tu>
