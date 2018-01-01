@@ -1735,6 +1735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The first font you&lt;/f0&gt; need &lt;f1&gt;is &lt;/f1&gt;a body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132509Z" creationid="Franklin Weng" creationdate="20180101T132509Z">
+        <seg>&lt;f0&gt;你第一個&lt;/f0&gt;需要的字型，就是本文主體的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The official font for GNOME 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105723Z" creationid="zerng07" creationdate="20170817T105723Z">
@@ -2491,6 +2499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The main functional criterion for a body text font is that it must be easily readable &lt;/f2&gt;by your audience in the conditions in which they are likely to &lt;f3&gt;see&lt;/f3&gt; it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132712Z" creationid="Franklin Weng" creationdate="20180101T132712Z">
+        <seg>&lt;f2&gt;本文主體字型的主要功能標準&lt;/f2&gt;就是，讀者在&lt;f3&gt;任何可以看到它&lt;/f3&gt;的情況下都要能易於閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145233Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
@@ -2913,6 +2929,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T180052Z" creationid="zerng07" creationdate="20171223T174721Z">
         <seg>眾所皆知，樣式在其他應用程式中很少用處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After all, if you have names for features, you can more easily observe them.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132429Z" creationid="Franklin Weng" creationdate="20180101T132429Z">
+        <seg>畢竟，瞭解這些特徵的名稱後，你就可以更容易觀察它們。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3895,6 +3919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing a body font</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132441Z" creationid="Franklin Weng" creationdate="20180101T132441Z">
+        <seg>選擇本文主體字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing basic fonts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T122432Z" creationid="Franklin Weng" creationdate="20180101T122432Z">
@@ -4758,6 +4790,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162101Z" creationid="zerng07" creationdate="20171227T161926Z">
         <seg>舉例，一個清單樣式可能有個和它相關聯的字元樣式，讓它有彩色的項目符號或編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you are designing a memo template for a low-resolution fax, you might prefer a larger, bold text style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132749Z" creationid="Franklin Weng" creationdate="20180101T132749Z">
+        <seg>例如，如果你設計一份便條的範本或是低解析度的傳真，你可能就需要大而粗的本文主體字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5740,6 +5780,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you study &lt;f0&gt;different font samples&lt;/f0&gt;, you &lt;f1&gt;will&lt;/f1&gt; see how these elements differ between &lt;f2&gt;fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132338Z" creationid="Franklin Weng" creationdate="20180101T132338Z">
+        <seg>如果你研究&lt;f0&gt;不同的字型範例&lt;/f0&gt;，你&lt;f1&gt;會&lt;/f1&gt;看到不同字型在這些地方的&lt;f2&gt;差異之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you suspect that readers may not read the whole thing, you will want your most important points first, so they at least are read.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T053136Z" creationid="Jeff Huang" creationdate="20171123T060304Z">
@@ -6049,6 +6097,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T143008Z" creationid="Franklin Weng" creationdate="20171223T133841Z">
         <seg>在其他的系統中，可能前兩個目錄會不太一樣，但後面的應該一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other cases, you may be limited by a lower printer resolution or even a temporary shortage of toner to fonts with thick, consistent lines.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133036Z" creationid="Franklin Weng" creationdate="20180101T133036Z">
+        <seg>在其他的狀況下，你可能只有一台低解析度的印表機，或甚至碳粉暫時不足以印出粗而一致的字體。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7834,6 +7890,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Serifs: The small hooks at the bottom and top of &lt;f0&gt;ascenders and descenders found in some fonts.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132243Z" creationid="Franklin Weng" creationdate="20180101T132243Z">
+        <seg>襯線（Serifs）：在一些字型中&lt;f0&gt;升部頂端或降部底端的小勾勾&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting &lt;f0&gt;area options&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035427Z" creationid="Jeff Huang" creationdate="20171229T034215Z">
@@ -7910,6 +7974,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081008Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
         <seg>形狀&lt;f0&gt;選擇&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, a brochure aimed at seniors might use a larger font size than &lt;f0&gt;usual out of respect for their failing eyesight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132916Z" creationid="Franklin Weng" creationdate="20180101T132916Z">
+        <seg>相同地，給年紀大的人們看的小冊子，使用的字型大小就要比一般的大一點，&lt;f0&gt;以便讓他們能容易看得清楚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9475,6 +9547,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090259Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
         <seg>這個動作可以讓你知道定下精準標題的價值所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the first step in learning how to appreciate fonts professionally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132400Z" creationid="Franklin Weng" creationdate="20180101T132400Z">
+        <seg>這是學習如何更專業地賞析字型的第一步。</seg>
       </tuv>
     </tu>
     <tu>
