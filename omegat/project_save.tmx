@@ -4610,6 +4610,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For &lt;t0/&gt;this reason, setting headings in points as well only makes sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105148Z" creationid="Franklin Weng" creationdate="20180101T105148Z">
+        <seg>&lt;t0/&gt;同樣的理由，用點做單位來設定標題以一樣合理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Trish, Always</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171029T135226Z" creationid="zerng07" creationdate="20170817T093833Z">
@@ -4882,6 +4890,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Heading styles are measured by default in percentages because their size is often determined together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T111537Z" creationid="Franklin Weng" creationdate="20180101T111537Z">
+        <seg>標題樣式預設用百分比來測量表達是因為通常各層級樣式的大小都是連動的，都一起決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiding styles reduces the clutter in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031824Z" creationid="zerng07" creationdate="20171227T031824Z">
@@ -4958,6 +4974,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083522Z" creationid="Franklin Weng" creationdate="20171213T132848Z">
         <seg>不過，命名範本時還有個很實際的問題要特別注意，就是當你把檔案複製到其他電腦上時，如果範本取太過於菜市場的名字&lt;f0&gt;可能會&lt;/f0&gt;撞名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, as shown later in this chapter, many design elements are based on the size of the standard fonts, which are most conveniently measured in points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105102Z" creationid="Franklin Weng" creationdate="20180101T105102Z">
+        <seg>不過，在本章後面會顯示，許多設計元素是以標準字型的大小為基準，而標準字型大小則通常用點來做單位是最方便的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,8 +6402,8 @@
       <tuv lang="EN">
         <seg>LibreOffice's &lt;f0&gt;pre-defined heading paragraph styles express size as&lt;/f0&gt; percentages of the Headings styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134628Z" creationid="Franklin Weng" creationdate="20171231T134628Z">
-        <seg>LibreOffice's &lt;f0&gt;pre-defined heading paragraph styles express size as&lt;/f0&gt; percentages of the Headings styles.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105753Z" creationid="Franklin Weng" creationdate="20171231T134628Z">
+        <seg>LibreOffice &lt;f0&gt;預先定義的標題段落樣式的大小是以「標題」樣式大小的百分比來表示的。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7810,6 +7834,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the size of all headings are usually determined at the same time and in relation to each other, using percentages is logical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105013Z" creationid="Franklin Weng" creationdate="20180101T105013Z">
+        <seg>因為所有標題的大小通常一開始就會一起決定，而且是彼此相關的，因此使用百分比也相當合理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since you will probably be using at least some pre-defined styles, you &lt;f0&gt;may decide&lt;/f0&gt; to use the same conventions for custom styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161329Z" creationid="zerng07" creationdate="20171227T161329Z">
@@ -8197,8 +8229,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Text for captions and notes sometimes goes as low as 8 points, while headings and titles are rarely more than 28 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134623Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
-        <seg>說明與備註的文字通常會小到只有 8 點，而標頭與標題等則很少大於 28 點。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105411Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
+        <seg>說明與備註的文字通常會小到只有 8 點，而標題與題名等則很少大於 28 點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10391,6 +10423,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T064959Z" creationid="zerng07" creationdate="20171228T064607Z">
         <seg>你可以在市面上找到&lt;f0&gt;許許多多&lt;/f0&gt;探討文字排印學的書，其中不乏Frederick Goudy和Adrian Frutiger這幾位當代大師的著作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can force LibreOffice to display the size in points by placing the cursor in the &lt;f0&gt;Size&lt;/f0&gt; field of the &lt;f1&gt;Font&lt;/f1&gt; tab, and entering the size followed by “pt.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105909Z" creationid="Franklin Weng" creationdate="20180101T105909Z">
+        <seg>你可以強制 LibreOffice 以點來顯示大小，只要在「&lt;f1&gt;字型&lt;/f1&gt;」分頁的「&lt;f0&gt;大小&lt;/f0&gt;」欄位中，用手動輸入大小，後面加上“pt.”即可。</seg>
       </tuv>
     </tu>
     <tu>
