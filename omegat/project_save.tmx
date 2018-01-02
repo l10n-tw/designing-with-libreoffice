@@ -1405,6 +1405,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other c&lt;/f0&gt;onsiderations &lt;f1&gt;for &lt;/f1&gt;fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135454Z" creationid="Franklin Weng" creationdate="20180102T135454Z">
+        <seg>&lt;f0&gt;關於字型&lt;/f0&gt;的其他考量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Other names for&lt;/f0&gt; pre-defined styles are descriptive, such as &lt;f1&gt;Object without fill&lt;/f1&gt; &lt;f2&gt;in Draw.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161131Z" creationid="zerng07" creationdate="20171227T161131Z">
@@ -2359,6 +2367,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T162404Z" creationid="zerng07" creationdate="20170822T162208Z">
         <seg>&lt;f2&gt;有一些困擾似乎來自長年存在的臭蟲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Any more&lt;/f2&gt; than &lt;f3&gt;three or four&lt;/f3&gt; levels of headings &lt;f4&gt;(including chapter titles)&lt;/f4&gt; &lt;f5&gt;makes designing difficult and meaningless.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135101Z" creationid="Franklin Weng" creationdate="20180102T135101Z">
+        <seg>&lt;f2&gt;多於&lt;/f2&gt;&lt;f3&gt;三或四層&lt;/f3&gt;標題&lt;f4&gt;（包括章節標題）&lt;/f4&gt; &lt;f5&gt;就會讓整個設計變得困難而且沒有意義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3967,6 +3983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing fonts begins with the impression you want to make.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135651Z" creationid="Franklin Weng" creationdate="20180102T135651Z">
+        <seg>選擇字型一開始要先考慮你想要讓讀者產生怎麼樣的印象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on these rectangles to zoom in on the available templates and select from them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175802Z" creationid="Franklin Weng" creationdate="20171213T123130Z">
@@ -4966,6 +4990,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T080540Z" creationid="Jeff Huang" creationdate="20171221T080540Z">
         <seg>格式化繪製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting ten heading levels so that each is distinct &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;may just be possible, but neither the designer nor the reader is likely to be able to remember what all of them mean.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135428Z" creationid="Franklin Weng" creationdate="20180102T135428Z">
+        <seg>或許的確有可能做出十種不同的標題格式設定，&lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;但是不管是設計者或讀者都不可能記住這些標題格式代表什麼意義。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6610,8 +6642,8 @@
       <tuv lang="EN">
         <seg>LibreOffice provides for up to ten heading &lt;f0&gt;level&lt;/f0&gt;s, but this &lt;f1&gt;number &lt;/f1&gt;is overkill.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133939Z" creationid="Franklin Weng" creationdate="20180101T133939Z">
-        <seg>LibreOffice provides for up to ten heading &lt;f0&gt;level&lt;/f0&gt;s, but this &lt;f1&gt;number &lt;/f1&gt;is overkill.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T134956Z" creationid="Franklin Weng" creationdate="20180101T133939Z">
+        <seg>LibreOffice 裡提供了&lt;f0&gt;十層&lt;/f0&gt;的標題樣式，但其實&lt;f1&gt;十個&lt;/f1&gt;真的是太多了。</seg>
       </tuv>
     </tu>
     <tu>
