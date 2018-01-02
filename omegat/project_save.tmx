@@ -2909,6 +2909,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A tall, narrow page, for example, might be matched with a similarly tall and narrow font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135954Z" creationid="Franklin Weng" creationdate="20180102T135954Z">
+        <seg>比方說，較高、較窄的頁面可能用較高、較窄的字型比較適合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About the &lt;f0&gt;w&lt;/f0&gt;riter</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T145827Z" creationid="zerng07" creationdate="20170822T145827Z">
@@ -3406,6 +3414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At times, &lt;f0&gt;a font might need to fit the constraints of the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135920Z" creationid="Franklin Weng" creationdate="20180102T135920Z">
+        <seg>有的時候，&lt;f0&gt;字型會受限於頁面的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating style application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T043928Z" creationid="zerng07" creationdate="20171227T033125Z">
@@ -3739,6 +3755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090115Z" creationid="Jeff Huang" creationdate="20171123T060419Z">
         <seg>反過來說，如果你覺得讀者會讀完整份文件，那麼就把重點擺到最後，先從沒那麼重要的論點開始鋪陳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, in Europe typographers are much less likely to abide by this convention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140815Z" creationid="Franklin Weng" creationdate="20180102T140815Z">
+        <seg>相反地，歐洲的文字排印工則不會遵照這個慣例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,6 +4966,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122708Z" creationid="Franklin Weng" creationdate="20171228T071210Z">
         <seg>例如，Nobile Italic 實際上根本就不是義式斜體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, a commonly used font helps to put readers in an accepting mood, while a usual one might reinforce an impression of innovation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135847Z" creationid="Franklin Weng" creationdate="20180102T135847Z">
+        <seg>例如，常見的字型有助於讓讀者易於接受內容，而用不常見的字型則會給讀者一種強烈創新的感覺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6889,6 +6921,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More general considerations &lt;f0&gt;can &lt;/f0&gt;include:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140627Z" creationid="Franklin Weng" creationdate="20180102T140627Z">
+        <seg>其他的考量包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most Linux distributions include a copy in their package repositories, sometimes with extensions and distinct icon sets.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184658Z" creationid="zerng07" creationdate="20170817T092715Z">
@@ -7317,6 +7357,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T180055Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
         <seg>OpenOffice的範本管理員&lt;f0&gt;和LibreOffice 3.3之前版本提供的範本管理員，在使用上功能都相同。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or maybe a font has some &lt;/f0&gt;association with the content – for instance, &lt;f1&gt;at least&lt;/f1&gt; one &lt;f2&gt;edition&lt;/f2&gt; of Arthur Conan Doyle’s &lt;f3&gt;The Hound of the Baskervilles&lt;/f3&gt; &lt;f4&gt;was&lt;/f4&gt; printed in Baskerville &lt;f5&gt;font.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140620Z" creationid="Franklin Weng" creationdate="20180102T140620Z">
+        <seg>或者，字型有時可能會&lt;/f0&gt;與內容產生關聯 – 例如，&lt;f1&gt;至少&lt;/f1&gt;有一個&lt;f2&gt;版本&lt;/f2&gt;的「&lt;f3&gt;巴斯克維爾的獵犬&lt;/f3&gt;」（柯南道爾的福爾摩斯探案系列，東方出版社譯名《夜光怪獸》）&lt;f4&gt;就是以&lt;/f4&gt;巴斯克維爾（Baskerville）這種&lt;f5&gt;字型&lt;/f5&gt;印製的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8799,6 +8847,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070235Z" creationid="Jeff Huang" creationdate="20171123T080926Z">
         <seg>&lt;f0&gt;如果你的文件採用標題或是有描述性名稱的物件，那麼助手將是調整文件結構的理想工具。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The North American convention is to use a serif font for body text, and a sans serif for head&lt;f0&gt;ings&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140713Z" creationid="Franklin Weng" creationdate="20180102T140713Z">
+        <seg>北美洲的慣例是本文主體用有襯線字型，而標題則用無襯線字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10521,6 +10577,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where will the document be used?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140643Z" creationid="Franklin Weng" creationdate="20180102T140643Z">
+        <seg>這份文件會用在哪裡？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whether that is true is uncertain, but the pre-defined styles are useful references for what you can do with styles.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152101Z" creationid="zerng07" creationdate="20171225T103423Z">
@@ -10871,6 +10935,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170837Z" creationid="zerng07" creationdate="20170817T182740Z">
         <seg>通常從散布版軟體庫裡取得的版本會安裝到 /usr/lib/libreoffice/ 中，所以你可以據此辨別是否使用的是修改過的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a sans serif for body text in North America, but it may be perceived as avant-garde.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140856Z" creationid="Franklin Weng" creationdate="20180102T140856Z">
+        <seg>You can use a sans serif for body text in North America, but it may be perceived as avant-garde.</seg>
       </tuv>
     </tu>
     <tu>
