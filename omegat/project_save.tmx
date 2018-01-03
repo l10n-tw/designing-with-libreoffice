@@ -696,6 +696,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>Check for it</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;urrently, &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice does not support embedding fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125610Z" creationid="Franklin Weng" creationdate="20180103T125610Z">
+        <seg>目前的 &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice 尚不支援嵌入字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Carefully c&lt;/f0&gt;heck styles that were supposed to &lt;f1&gt;be &lt;/f1&gt;overwritten.</seg>
       </tuv>
@@ -2185,6 +2194,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Matching fonts is an art form rather than a science, but y&lt;/f1&gt;ou can increase the odds of finding fonts that go together by selecting ones that:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130816Z" creationid="Franklin Weng" creationdate="20180103T130816Z">
+        <seg>&lt;f1&gt;而字型的搭配與其說是科學，更像是一門藝術。&lt;/f1&gt;不過你可以透過以下的規則來選字型，增加找到適當字型的機會：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Most are self-explanatory divisions of the uses for styles, such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;HTML Styles&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Index Styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155455Z" creationid="zerng07" creationdate="20171224T154721Z">
@@ -2953,6 +2970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111924Z" creationid="zerng07" creationdate="20171219T111924Z">
         <seg>從工具列中加入&lt;f0&gt;編號清單&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add more, and a file with embedded fonts may become too large to send as an attachment, especially to an account that can only receive attachments of a certain size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125539Z" creationid="Franklin Weng" creationdate="20180103T125539Z">
+        <seg>這樣一來，文件可能過大而無法當成郵件附加檔傳送給收件者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4305,6 +4330,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you prefer to use only free-licensed fonts?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125626Z" creationid="Franklin Weng" creationdate="20180103T125626Z">
+        <seg>你是否只用自由授權的字型？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Document information, stored or displayed in &lt;f0&gt;File &gt; Properties.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132340Z" creationid="Franklin Weng" creationdate="20171223T093543Z">
@@ -4462,6 +4495,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075343Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
         <seg>你可以列印出一份紙本，或是用「&lt;f0&gt;檔案 &gt; 列印預覽」。&lt;/f0&gt; &lt;f1&gt;當然，最好的狀況是兩個方法都做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Embedding simplifies file-sharing, making it unnecessary for recipients to have the document’s fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125429Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
+        <seg>嵌入字型可以解決檔案分享時收件者沒有你所使用字型的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,6 +5267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, a file of 14 kilobytes balloons into one of 13.4 megabytes when only two fonts are embedded.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125506Z" creationid="Franklin Weng" creationdate="20180103T125506Z">
+        <seg>不過，一個原本 14 KB 的檔案，可能在嵌入兩個字型之後檔案大小就會變成 13.4 MB 了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, another practical reason for choosing template names carefully is that, if you copy a file to another computer, you &lt;f0&gt;might &lt;/f0&gt;have a naming conflict.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083522Z" creationid="Franklin Weng" creationdate="20171213T132848Z">
@@ -5295,6 +5344,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T075347Z" creationid="Franklin Weng" creationdate="20171228T075347Z">
         <seg>不過，即使這樣做還是會&lt;f0&gt;發生問題&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, free-licensed fonts are often cost-free.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125836Z" creationid="Franklin Weng" creationdate="20180103T125836Z">
+        <seg>不過，自由授權的字型是可以自由下載取得的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5608,6 +5665,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145811Z" creationid="Franklin Weng" creationdate="20171212T100648Z">
         <seg>如果是這樣的話，別怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>要修改頁數與附錄參照</note>
+      <tuv lang="EN">
+        <seg>If so, you will be unable to use some of the best-known fonts, although you can sometimes find substitutes for them &lt;f0&gt;(see Appendix D, “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125808Z" creationid="Franklin Weng" creationdate="20180103T125808Z">
+        <seg>如果這樣的話，有些最知名常見的字型就不能用了，雖然有些字型可以找到替代方案。&lt;f0&gt;（請參考附錄 D“&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,”第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁&lt;/f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6953,6 +7019,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matching fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130451Z" creationid="Franklin Weng" creationdate="20180103T130451Z">
+        <seg>字型搭配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modern typographers &lt;f0&gt;sometimes&lt;/f0&gt; design serif, sans serif, and monospaced fonts to be used together, &lt;f1&gt;which can be a great convenience.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130942Z" creationid="Franklin Weng" creationdate="20180103T130942Z">
+        <seg>現代文字排印者&lt;f0&gt;有時候sometimes&lt;/f0&gt; design serif, sans serif, and monospaced fonts to be used together, &lt;f1&gt;which can be a great convenience.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modern typography &lt;f0&gt;usually&lt;/f0&gt; uses separate fonts for body and heading text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130531Z" creationid="Franklin Weng" creationdate="20180103T130531Z">
+        <seg>現代的文字排印學&lt;f0&gt;通常&lt;/f0&gt;會對標題與本文文字使用不同的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monospace fonts can be either serif or sans serif, but the sans serif monospace &lt;f0&gt;fonts&lt;/f0&gt; usually &lt;f1&gt;look more contemporary&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145336Z" creationid="Franklin Weng" creationdate="20171225T100729Z">
@@ -8182,6 +8272,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081008Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
         <seg>形狀&lt;f0&gt;選擇&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share the same font family.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130823Z" creationid="Franklin Weng" creationdate="20180103T130823Z">
+        <seg>使用同一個字族的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,6 +9749,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T081941Z" creationid="zerng07" creationdate="20171224T081941Z">
         <seg>儲存格樣式也能自動設定儲存格的小數點位數、對某樣式的內容行文自動折行或加斷字符號等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also mean that recipients only need an Internet connect&lt;f0&gt;ion&lt;/f0&gt; to install the fonts they need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130433Z" creationid="Franklin Weng" creationdate="20180103T130433Z">
+        <seg>所以如果收件人沒有你所使用的字型，他們只要從網路上自由下載即可。</seg>
       </tuv>
     </tu>
     <tu>
