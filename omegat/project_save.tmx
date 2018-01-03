@@ -522,16 +522,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A recent design, Raleway hints at a serif for the lower case “a,” but its general tendency is sans serif.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145307Z" creationid="Franklin Weng" creationdate="20171225T100354Z">
-        <seg>&lt;f0&gt;在近期的設計中，Raleway 在小寫“a”的尾端還是有加一點襯線，但整體而言這個字型偏向 Sans serif 字族。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123502Z" creationid="Franklin Weng" creationdate="20171225T100354Z">
+        <seg>&lt;f0&gt;在近期的設計中，Raleway 在小寫“a”的尾端還是有加一點襯線，但整體而言這個字型偏向無襯線的字族。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123230Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
-        <seg>Serif 其中一個子類別叫粗襯線體（slab serif），&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123331Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
+        <seg>有襯線字型其中一個子類別叫粗襯線體（slab serif），&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2549,8 +2549,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145233Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
-        <seg>&lt;f2&gt;Slab serif 中的襯線比其他襯線字型都要來得厚。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123351Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
+        <seg>&lt;f2&gt;粗襯線字型中的襯線比其他襯線字型都要來得厚。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6578,8 +6578,8 @@
       <tuv lang="EN">
         <seg>Left: Serif font (Goudy Bookletter 1911).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050151Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
-        <seg>左邊：Serif 字型（Goudy Bookletter 1911）.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123303Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
+        <seg>左邊：有襯線（Serif）字型（Goudy Bookletter 1911）.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,8 +7187,8 @@
       <tuv lang="EN">
         <seg>Often, that means designing mainly with sans serifs and the occasional slab serif.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121540Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
-        <seg>通常這表示以無襯線字型為主體，偶而搭配板襯線（Slab Serif）字型較好。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123657Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
+        <seg>通常這表示以無襯線字型為主體，偶而搭配粗襯線（Slab Serif）字型較好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7833,8 +7833,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050204Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
-        <seg>右邊：&lt;f0&gt;Slab serif 字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123252Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
+        <seg>右邊：&lt;f0&gt;粗襯線（Slab Serif）字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,16 +7889,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sans &lt;f0&gt;s&lt;/f0&gt;erif: Literally, fonts whose lines lack the foot that characterizes serifs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T095905Z" creationid="Franklin Weng" creationdate="20171225T095905Z">
-        <seg>Sans serif：就字面上來說，就是線條尾端沒有襯線的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123402Z" creationid="Franklin Weng" creationdate="20171225T095905Z">
+        <seg>無襯線（Sans serif）：就字面上來說，就是線條尾端沒有襯線的字型。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sans &lt;f1&gt;s&lt;/f1&gt;erif &lt;f2&gt;font&lt;/f2&gt;s often read well online.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100011Z" creationid="Franklin Weng" creationdate="20171225T095907Z">
-        <seg>Sans serif 字族通常用在線上閱讀都不錯。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123418Z" creationid="Franklin Weng" creationdate="20171225T095907Z">
+        <seg>無襯線字型通常用在線上閱讀都不錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8052,8 +8052,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Serif: Fonts whose lines end with a foot or a hook.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T095919Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
-        <seg>Serif：字型線條尾端有襯線的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123339Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
+        <seg>有襯線（Serif）：字型線條尾端有襯線的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10491,8 +10491,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When the New Typography of the &lt;f0&gt;early twentieth century&lt;/f0&gt; favored them as part of the general simplification &lt;f1&gt;of design&lt;/f1&gt;, sans serif fonts gained a reputation for modernity that they still keep today.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145253Z" creationid="Franklin Weng" creationdate="20171225T100217Z">
-        <seg>&lt;f0&gt;在二十世紀初期&lt;/f0&gt;，新的文字排印學喜歡用這種字族做為&lt;f1&gt;通用簡約設計&lt;/f1&gt;的其中一個元素，Sans serif 字型也獲得了具有現代感的評價，直到今日還是如此。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123434Z" creationid="Franklin Weng" creationdate="20171225T100217Z">
+        <seg>&lt;f0&gt;在二十世紀初期&lt;/f0&gt;，新的文字排印學喜歡用這種字族做為&lt;f1&gt;通用簡約設計&lt;/f1&gt;的其中一個元素，無襯線字型也獲得了具有現代感的評價，直到今日還是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10637,6 +10637,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143959Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
         <seg>不管你用什麼範本，都要&lt;f0&gt;先完成範本註冊才能開始使用。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will recipients have the fonts installed on their computers to display the document properly?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124401Z" creationid="Franklin Weng" creationdate="20180103T123653Z">
+        <seg>收件人的電腦上是否安裝有你所使用的字型？Will recipients have the fonts installed on their computers to display the document properly?</seg>
       </tuv>
     </tu>
     <tu>
