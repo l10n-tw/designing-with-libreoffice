@@ -530,8 +530,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123331Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
-        <seg>有襯線字型其中一個子類別叫粗襯線體（slab serif），&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124413Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
+        <seg>有襯線字型其中一個子類別叫平粗襯線體（slab serif），&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2549,8 +2549,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123351Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
-        <seg>&lt;f2&gt;粗襯線字型中的襯線比其他襯線字型都要來得厚。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124413Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
+        <seg>&lt;f2&gt;平粗襯線字型中的襯線比其他襯線字型都要來得厚。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5660,6 +5660,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you &lt;f0&gt;use &lt;/f0&gt;Linux, and lack these fonts, look for the Liberation fonts, which are designed to take up the same space as the standard fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125256Z" creationid="Franklin Weng" creationdate="20180103T125256Z">
+        <seg>如果你&lt;f0&gt;用的&lt;/f0&gt;是 Linux，沒有這些字型，你可以找找 Liberation 系列字型，它們設計成使用的空間跟上述標準字型一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are a long-time user of office suites, you may be wary of templates because of how easily they became corrupted in Microsoft Word when you made any changes or tried to mix templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102640Z" creationid="Franklin Weng" creationdate="20171212T100643Z">
@@ -5872,6 +5880,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032220Z" creationid="zerng07" creationdate="20171227T031951Z">
         <seg>如果你需要再次使用樣式，你可以從&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;隱藏樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;檢視畫面中還原「顯示」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you only want recipients to view the document, you can send a &lt;f0&gt;PDF&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124452Z" creationid="Franklin Weng" creationdate="20180103T124452Z">
+        <seg>如果你只是要收件人看你的文件，你可以傳送 &lt;f0&gt;PDF&lt;/f0&gt; 檔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6350,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is embedding fonts in the file a solution?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125320Z" creationid="Franklin Weng" creationdate="20180103T125320Z">
+        <seg>將字型嵌入檔案內是解決的方法之一嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is the document for paper or online use?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121349Z" creationid="Franklin Weng" creationdate="20180103T113824Z">
@@ -6628,6 +6652,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T063530Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
         <seg>LibreOffice也會檢查一些文法與&lt;f3&gt;排版問題，例如英文句號後方應留一個空格而非兩個。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice has had font embedding since version 4.1.3.2.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125401Z" creationid="Franklin Weng" creationdate="20180103T125401Z">
+        <seg>LibreOffice 在 4.1.3.2 之後就有嵌入字型的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,8 +7219,8 @@
       <tuv lang="EN">
         <seg>Often, that means designing mainly with sans serifs and the occasional slab serif.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123657Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
-        <seg>通常這表示以無襯線字型為主體，偶而搭配粗襯線（Slab Serif）字型較好。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124413Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
+        <seg>通常這表示以無襯線字型為主體，偶而搭配平粗襯線（Slab Serif）字型較好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7494,6 +7526,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
         <seg>否則，結果&lt;f4&gt;可能&lt;/f4&gt;導致樣式陷入一片混亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, you &lt;t1/&gt;might be better off sticking to the standard Times New Roman, Arial or Helvetica, and Courier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124545Z" creationid="Franklin Weng" creationdate="20180103T124545Z">
+        <seg>不然，你&lt;t1/&gt;最好用一些常見標準字型，如 Times New Roman、Arial、Helvetica 或 Courier。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7833,8 +7873,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123252Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
-        <seg>右邊：&lt;f0&gt;粗襯線（Slab Serif）字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124413Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
+        <seg>右邊：&lt;f0&gt;平粗襯線（Slab Serif）字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10643,8 +10683,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Will recipients have the fonts installed on their computers to display the document properly?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124401Z" creationid="Franklin Weng" creationdate="20180103T123653Z">
-        <seg>收件人的電腦上是否安裝有你所使用的字型？Will recipients have the fonts installed on their computers to display the document properly?</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124428Z" creationid="Franklin Weng" creationdate="20180103T123653Z">
+        <seg>收件人的電腦上是否安裝有你所使用的字型？</seg>
       </tuv>
     </tu>
     <tu>
