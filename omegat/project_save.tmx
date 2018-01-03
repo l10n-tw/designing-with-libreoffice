@@ -504,6 +504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A designer’s preferences and habits may remain similar enough between fonts to give a common appearance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131220Z" creationid="Franklin Weng" creationdate="20180103T131220Z">
+        <seg>&lt;f0&gt;設計者的喜好與習慣會讓所設計的字型擁有一貫的風格外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A few fonts take a different approach, and divide fonts into Serif, Sans, and Monospace.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T055844Z" creationid="Franklin Weng" creationdate="20171228T055844Z">
@@ -588,6 +596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T144028Z" creationid="zerng07" creationdate="20171224T144028Z">
         <seg>&lt;f0&gt;套用的樣式：&lt;/f0&gt;目前文件所使用的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Are inspired by&lt;/f0&gt; the same &lt;f1&gt;historical era or are described in the same terms.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131400Z" creationid="Franklin Weng" creationdate="20180103T131400Z">
+        <seg>經由相同的歷史脈絡，或是用相同字眼描述&lt;f0&gt;所啟發設計的字型&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3198,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exception is the Liberation fonts, which are designed as replacements for Times Roman, Helvetica, and Courier, rather than for compatibility with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131123Z" creationid="Franklin Weng" creationdate="20180103T131123Z">
+        <seg>一個例外是 Liberation 系列字型，它是設計來取代 Times Roman、Helvetica 以及 Courier 等字型，而非為了彼此相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another &lt;f0&gt;point&lt;/f0&gt; to be aware of: &lt;f1&gt;Drawing &lt;/f1&gt;styles are for formatting only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075632Z" creationid="Jeff Huang" creationdate="20171220T075632Z">
@@ -3283,6 +3307,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071425Z" creationid="Jeff Huang" creationdate="20171221T071425Z">
         <seg>套用圖形樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are designed by the same typographer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131134Z" creationid="Franklin Weng" creationdate="20180103T131134Z">
+        <seg>使用同一位排印者設計的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,8 +3818,8 @@
       <tuv lang="EN">
         <seg>By contrast, in Europe typographers are much less likely to abide by this convention.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T110847Z" creationid="Franklin Weng" creationdate="20180102T140815Z">
-        <seg>相反地，歐洲的文字排印工則當然不會遵照這個北美佬的慣例囉。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130948Z" creationid="Franklin Weng" creationdate="20180102T140815Z">
+        <seg>相反地，歐洲的文字排印者則當然不會遵照這個北美佬的慣例囉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4539,6 +4571,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even if you are uncertain how a Humanist font (one based on Renaissance designs) differs from a Geometric font (one based on simple shapes), you can safely guess that the two are unlikely to go together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131555Z" creationid="Franklin Weng" creationdate="20180103T131555Z">
+        <seg>即使你不知道 Humanist 字型（基於文藝復興時期風格所設計）跟 Geometric 字型（基於簡單的形狀所設計）有什麼不同，你還是可以猜得到，這兩個字型最好別放在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even more important, what looks like a well-regulated system at first glance is on closer look extremely arbitrary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124223Z" creationid="Franklin Weng" creationdate="20171231T124223Z">
@@ -4839,6 +4879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145116Z" creationid="Franklin Weng" creationdate="20171224T082405Z">
         <seg>進一步我們還可以透過&lt;f7&gt;「字型效果」&lt;/f7&gt;分頁來改變字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts frequently defy easy categorizations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132023Z" creationid="Franklin Weng" creationdate="20180103T132023Z">
+        <seg>字型通常來說並不好分類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5235,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have a large number of font styles, especially if you plan to use the same font for both body text and headings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131310Z" creationid="Franklin Weng" creationdate="20180103T131310Z">
+        <seg>選擇有許多字型樣式的字型，特別是你打算讓標題與本文主體使用相同的字型時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Heading styles are measured by default in percentages because their size is often determined together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T111537Z" creationid="Franklin Weng" creationdate="20180101T111537Z">
@@ -5219,6 +5275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Historical categories are not mentioned anywhere in LibreOffice, but you can sometimes match fonts &lt;f0&gt;by choosing ones from the same historical category&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132331Z" creationid="Franklin Weng" creationdate="20180103T132331Z">
+        <seg>在 LibreOffice 中並沒有依歷史分類的方式來分類字型，但你有時還是&lt;f0&gt;可以選擇相同歷史分類的字型來搭配。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How does your document develop?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054515Z" creationid="Jeff Huang" creationdate="20171123T061422Z">
@@ -5231,6 +5295,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101051Z" creationid="Franklin Weng" creationdate="20171212T101051Z">
         <seg>範本的運作方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, &lt;f0&gt;no matter what criteria you use, &lt;/f0&gt;the only way to be sure that fonts match is to experiment with them, &lt;f1&gt;both on-screen and by printing frequent hard copy samples.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131951Z" creationid="Franklin Weng" creationdate="20180103T131951Z">
+        <seg>不過，&lt;f0&gt;不管你用的是哪一種規則標準，&lt;/f0&gt;要確定字型是否搭配合宜還是要去實驗看看，&lt;f1&gt;包括在螢幕上還有大量印出後呈現的樣子。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5468,6 +5540,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, some general historical trends do exist, &lt;f0&gt;even though experts do not always agree on the features that identify trends, or where each font belongs.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132150Z" creationid="Franklin Weng" creationdate="20180103T132150Z">
+        <seg>不過，還是有一些歷史的走向可以觀察，&lt;f0&gt;雖然專家不見得都同意某些特徵屬於什麼潮流走向，或是哪種字型屬於哪種流派。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, templates &lt;f0&gt;can store&lt;/f0&gt; everything from return addresses to standard boilerplate such as corporate backgrounders – any information that you re-use but do not care to reinvent or type again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120058Z" creationid="Franklin Weng" creationdate="20171223T043124Z">
@@ -5604,6 +5684,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Humanist &lt;f0&gt;s&lt;/f0&gt;erifs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132832Z" creationid="Franklin Weng" creationdate="20180103T132832Z">
+        <seg>人文主義字型（Humanist serifs）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I have been writing about free and open source software for &lt;f0&gt;over &lt;/f0&gt;a decade.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T181717Z" creationid="zerng07" creationdate="20170822T150920Z">
@@ -5640,6 +5728,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111254Z" creationid="Franklin Weng" creationdate="20171223T032729Z">
         <seg>如果必要的話，你也可以覆蓋既有的範本。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If nothing else, this criteri&lt;f0&gt;on&lt;/f0&gt; makes for a more symmetrical design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131827Z" creationid="Franklin Weng" creationdate="20180103T131827Z">
+        <seg>如果你沒有什麼其他的線索，這個標準可以讓你的設計比較對稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7019,6 +7115,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matching &lt;f0&gt;by &lt;/f0&gt;historical categories</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132000Z" creationid="Franklin Weng" creationdate="20180103T132000Z">
+        <seg>依歷史分類來搭配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matching fonts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130451Z" creationid="Franklin Weng" creationdate="20180103T130451Z">
@@ -7029,8 +7133,8 @@
       <tuv lang="EN">
         <seg>Modern typographers &lt;f0&gt;sometimes&lt;/f0&gt; design serif, sans serif, and monospaced fonts to be used together, &lt;f1&gt;which can be a great convenience.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130942Z" creationid="Franklin Weng" creationdate="20180103T130942Z">
-        <seg>現代文字排印者&lt;f0&gt;有時候sometimes&lt;/f0&gt; design serif, sans serif, and monospaced fonts to be used together, &lt;f1&gt;which can be a great convenience.&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131030Z" creationid="Franklin Weng" creationdate="20180103T130942Z">
+        <seg>現代文字排印者&lt;f0&gt;有時候&lt;/f0&gt;在設計時會把有襯線、無襯線與等寬字型放在一起，&lt;f1&gt;這樣會很方便。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7271,6 +7375,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014546Z" creationid="Jeff Huang" creationdate="20171229T014546Z">
         <seg>&lt;f0&gt;除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳&lt;/f0&gt;，否則連接符另一端的物件會留在原位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occupy the same horizontal or vertical width.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131759Z" creationid="Franklin Weng" creationdate="20180103T131759Z">
+        <seg>佔用相同的水平或垂直寬度的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, the more you know about the history of typography, the more you match fonts by their origins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131652Z" creationid="Franklin Weng" creationdate="20180103T131652Z">
+        <seg>當然，你對文字排印學的歷史知道得越多，你就越容易依據它們的起源來尋找搭配的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8085,6 +8205,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035339Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
         <seg>參閱第十三章以取得更多資訊。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>頁數修正</note>
+      <tuv lang="EN">
+        <seg>See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Matching by historical categories&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;19&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131744Z" creationid="Franklin Weng" creationdate="20180103T131744Z">
+        <seg>請參考「&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;依歷史分類來搭配&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;」這一段，在第 &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;19&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
