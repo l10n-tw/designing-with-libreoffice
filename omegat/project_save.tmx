@@ -2340,6 +2340,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Their name refers to the fact that their serifs are small, anticipating the rise of sans serifs.&lt;/f1&gt; Their strokes vary widely, their bowls are oval, and their serifs thin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T134959Z" creationid="Franklin Weng" creationdate="20180103T134959Z">
+        <seg>&lt;f1&gt;這種字型的襯線很小，也造成後來無襯線字型的崛起。&lt;/f1&gt;它們的筆畫粗細不一，封閉弧型的部份較橢圓，襯線很細。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;They are approximately equivalent to Borders in other LibreOffice applications, although the features are not identical.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064025Z" creationid="Jeff Huang" creationdate="20171228T064025Z">
@@ -3154,6 +3162,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T183302Z" creationid="zerng07" creationdate="20171227T183302Z">
         <seg>Google Books 上也可取得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also called Enlightenment, NeoClassical, and Modern, Transitional fonts first appeared &lt;f0&gt;d&lt;/f0&gt;uring the Enlightenment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T134712Z" creationid="Franklin Weng" creationdate="20180103T134712Z">
+        <seg>也被稱為「啟蒙時代字型」（Enlightenment）、「新古典主義字型」（NeoClassical）或「現代字型」（Modern），因為第一款過渡時期字型就是在所謂的啟蒙時代（約 17-18 世紀）出現的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4707,6 +4723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extreme versions, like &lt;f2&gt;the proprietary&lt;/f2&gt; Didot, have strokes that are so thin that they &lt;f3&gt;almost&lt;/f3&gt; disappear at small font sizes, or with a low-resolution printer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135108Z" creationid="Franklin Weng" creationdate="20180103T135108Z">
+        <seg>極致的版本，例如 Didot &lt;f2&gt;這種專有授權字型，&lt;/f2&gt;它的筆畫就很細，在字型大小較小，或印表機解析度較低的時候&lt;f3&gt;幾乎&lt;/f3&gt;看不見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Familiar fonts like Times Roman or Helvetica can work against you, because they encourage readers to pay less attention or unconsciously question the originality of your ideas.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144539Z" creationid="Franklin Weng" creationdate="20171224T073608Z">
@@ -4823,6 +4847,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133510Z" creationid="Franklin Weng" creationdate="20180103T133510Z">
         <seg>字型：&lt;f0&gt;Coelacanth，是 Bruce Roger 設計的 Centaur 字型的自由授權版本，就是受到文藝復興時期的設計者 Nicholas Jenson 的設計所啟發。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Baskervald ADF, a free-licensed version of Hugo Baskerville’s classic transitional font Baskerville.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135144Z" creationid="Franklin Weng" creationdate="20180103T135144Z">
+        <seg>字型：Baskervald ADF，由 Hugo Baskerville 所設計的過渡時期字型 Baskerville 的自由授權版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8573,6 +8605,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slab &lt;f0&gt;s&lt;/f0&gt;erifs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135214Z" creationid="Franklin Weng" creationdate="20180103T135209Z">
+        <seg>粗平襯線字型（Slab serifs）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slab serifs first appeared in the earl&lt;f0&gt;y 1800s&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135250Z" creationid="Franklin Weng" creationdate="20180103T135212Z">
+        <seg>粗平襯線體最早在&lt;f0&gt;十九世紀初期&lt;/f0&gt;出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Small Capitals (Small Caps): Specially designed upper case letters &lt;f0&gt;intended to&lt;/f0&gt; make more than two capitals in a row more readable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050013Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
@@ -10010,6 +10058,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are sometimes called Egyptian, because they were used in &lt;f1&gt;the publications of&lt;/f1&gt; the &lt;f2&gt;research done&lt;/f2&gt; in Egypt during Napoleon’s invasion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135447Z" creationid="Franklin Weng" creationdate="20180103T135447Z">
+        <seg>有時也被稱為埃及體（Egyptian），因為這種字型常在拿破崙侵略埃及時期&lt;f1&gt;發表&lt;/f1&gt;&lt;f2&gt;研究&lt;/f2&gt;時使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They do not affect shape or size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T080023Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
@@ -10438,6 +10494,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140739Z" creationid="Franklin Weng" creationdate="20171223T130814Z">
         <seg>如果有兩個人在處理同一份文件，但是各自對文件範本做有過修改（有時候會發生，但建議最好不要）時，轉換樣式是比較方便的做法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transitional</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133919Z" creationid="Franklin Weng" creationdate="20180103T133919Z">
+        <seg>過渡時期字型（Transitional）</seg>
       </tuv>
     </tu>
     <tu>
