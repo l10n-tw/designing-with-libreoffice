@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Old Style fonts&lt;/f0&gt; are characterized by wedge-shaped serifs, and their strokes show more variation in thickness than &lt;f1&gt;Humanist&lt;/f1&gt; fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133757Z" creationid="Franklin Weng" creationdate="20180103T133757Z">
+        <seg>&lt;f0&gt;舊式字型&lt;/f0&gt;的特徵包括楔形的襯線，筆畫粗細的變化較&lt;f1&gt;人文主義字型&lt;/f1&gt;要豐富。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, each font has three basic characteristics: its family, its style or typeface (depending on the version and &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;platform), and size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145100Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
@@ -2504,6 +2512,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145515Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
         <seg>它有時也被稱為「標準」（Regular 或 Book），或是「中等」（Medium），&lt;f3&gt;雖然這些詞在個別的字族中都不完全同義。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Like Humanist serifs, Old Style fonts are very popular for general purposes.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133824Z" creationid="Franklin Weng" creationdate="20180103T133824Z">
+        <seg>&lt;f2&gt;就跟人文主義字型一樣，舊式字型在一般通用場合也很受歡迎。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4803,6 +4819,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: &lt;f0&gt;Coelacanth, a free-licensed version of Bruce Roger’s popular Centaur, which in turn was inspired by the work of Renaissance designer Nicholas Jenson.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133510Z" creationid="Franklin Weng" creationdate="20180103T133510Z">
+        <seg>字型：&lt;f0&gt;Coelacanth，是 Bruce Roger 設計的 Centaur 字型的自由授權版本，就是受到文藝復興時期的設計者 Nicholas Jenson 的設計所啟發。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Cinzel, a font based on Roman inscriptions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102138Z" creationid="Franklin Weng" creationdate="20171225T102138Z">
@@ -4847,6 +4871,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145850Z" creationid="Franklin Weng" creationdate="20171225T135304Z">
         <seg>字型：Liberation Sans。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Linden Hill, &lt;f0&gt;a modern free-license rendering of Frederick Goudy’s Deepdene.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133852Z" creationid="Franklin Weng" creationdate="20180103T133852Z">
+        <seg>字型：Linden Hill，&lt;f0&gt;是 Frederick Goudy 所設計的 Deepdene 字型的自由授權版本。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5688,6 +5720,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132832Z" creationid="Franklin Weng" creationdate="20180103T132832Z">
         <seg>人文主義字型（Humanist serifs）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Humanist fonts are characterized by small x-heights, regular strokes, rounded bowls, small serifs, and a dark color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133102Z" creationid="Franklin Weng" creationdate="20180103T133102Z">
+        <seg>人文主義字型的特徵為：X-字高較小，筆畫有規律，封閉弧型（Bowls）部份較圓，具有小小的襯線，色彩較深等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Humanist serifs &lt;f0&gt;were originally&lt;/f0&gt; &lt;f1&gt;fonts designed during the Renaissance, mostly by Italian designers – which is why a standard font is called Roman and a cursive font Italic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132947Z" creationid="Franklin Weng" creationdate="20180103T132947Z">
+        <seg>人文主義字型&lt;f0&gt;起源於&lt;/f0&gt; &lt;f1&gt;文藝復興時期，主要由義大利設計者設計 – 這就是為何標準字型稱為 Roman 而斜體稱為 Italic 的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7131,6 +7179,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modern imitations sometimes reduce the darkness to make them more acceptable to modern tastes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133349Z" creationid="Franklin Weng" creationdate="20180103T133349Z">
+        <seg>現代的模仿字型有時會調得沒那麼暗，看起來較具現代感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modern typographers &lt;f0&gt;sometimes&lt;/f0&gt; design serif, sans serif, and monospaced fonts to be used together, &lt;f1&gt;which can be a great convenience.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131030Z" creationid="Franklin Weng" creationdate="20180103T130942Z">
@@ -7479,6 +7535,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T150408Z" creationid="zerng07" creationdate="20170817T150351Z">
         <seg>噢，我們大概是有學過要怎麼用辦公軟體做事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old Style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133525Z" creationid="Franklin Weng" creationdate="20180103T133525Z">
+        <seg>舊式字型（Old Style）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8589,6 +8653,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some strokes may be angled, such as the crossbar on the lower case “e.” &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133137Z" creationid="Franklin Weng" creationdate="20180103T133137Z">
+        <seg>有些筆畫會有個角度，如小寫“e”的橫線部份。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some tasks, like going uphill, we don’t imagine are even possible because &lt;f2&gt;of our ignorance&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T062521Z" creationid="zerng07" creationdate="20170817T151917Z">
@@ -8625,6 +8697,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145529Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
         <seg>有的時候字族中會有「窄版」（Narrow）或「緊實」（Condensed）的樣式，表示每個字元的&lt;f0&gt;寬度較窄&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes an alternate name for Humanist &lt;f0&gt;s&lt;/f0&gt;erifs, “Old Style” is &lt;f1&gt;technically&lt;/f1&gt; reserved &lt;f2&gt;for&lt;/f2&gt; seventeenth-century designs &lt;f3&gt;or designs inspired by them.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133640Z" creationid="Franklin Weng" creationdate="20180103T133640Z">
+        <seg>有時會被當成人文主義字型的替代詞。「舊式」字型&lt;f1&gt;技術上&lt;/f1&gt;特別指 17 世紀時的設計，或由 17 世紀設計所啟發的設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9616,6 +9696,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The original Humanist fonts were also extremely dark, perhaps to make them more legible by candlelight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133255Z" creationid="Franklin Weng" creationdate="20180103T133255Z">
+        <seg>原始的人文主義字型色彩是很暗的，這樣在燭光的照明下看得比較清楚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The real purpose of typography is to make the text more inviting and easy to read.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T141714Z" creationid="zerng07" creationdate="20170818T034410Z">
@@ -9910,6 +9998,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T065431Z" creationid="zerng07" creationdate="20171228T065101Z">
         <seg>書中的內容在文字排印學領域中屬於保守派，不過它們一同展現出現代文字排印學的基礎，並交代其基本原則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are popular choices for body text today, although some designers think they look old fashioned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133210Z" creationid="Franklin Weng" creationdate="20180103T133210Z">
+        <seg>現今這種字型常用在本文主體，雖然有些設計者認為它們已經過時了。</seg>
       </tuv>
     </tu>
     <tu>
