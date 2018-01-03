@@ -530,8 +530,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145206Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
-        <seg>Serif 其中一個子類別叫 slab serif，&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123230Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
+        <seg>Serif 其中一個子類別叫粗襯線體（slab serif），&lt;f1&gt;用了非常大量的襯線，適合放在海報與線上網頁等處。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,6 +5010,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For online use, you want fonts to have regular shapes, with a &lt;f0&gt;minimum&lt;/f0&gt; of tapering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121447Z" creationid="Franklin Weng" creationdate="20180103T121340Z">
+        <seg>在線上閱讀時，字型正規一點，&lt;f0&gt;不要太尖細&lt;/f0&gt;比較理想。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For years, the only alternative to paying for fonts was to use public domain fonts, &lt;f0&gt;which were often low quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144649Z" creationid="Franklin Weng" creationdate="20171224T073924Z">
@@ -6344,8 +6352,8 @@
       <tuv lang="EN">
         <seg>Is the document for paper or online use?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T113824Z" creationid="Franklin Weng" creationdate="20180103T113824Z">
-        <seg>這份文件是要印在紙上還是在螢幕上看的？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121349Z" creationid="Franklin Weng" creationdate="20180103T113824Z">
+        <seg>這份文件是要印在紙上還是在線上（螢幕上）看的？</seg>
       </tuv>
     </tu>
     <tu>
@@ -7173,6 +7181,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082659Z" creationid="Jeff Huang" creationdate="20171220T082659Z">
         <seg>不過，通常來說建立你自己的樣式較方便，即便你是從修改預定義的樣式開始也一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, that means designing mainly with sans serifs and the occasional slab serif.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121540Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
+        <seg>通常這表示以無襯線字型為主體，偶而搭配板襯線（Slab Serif）字型較好。</seg>
       </tuv>
     </tu>
     <tu>
