@@ -9222,6 +9222,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab &lt;f1&gt;expresses transparency as a percentage, with 0 being an unmodified or solid color, and 100% being completely transparent.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060748Z" creationid="Jeff Huang" creationdate="20180104T060748Z">
+        <seg>&lt;f0&gt;「透明度」&lt;/f0&gt;分頁&lt;f1&gt;以百分比的形式表示透明度，其中0為未修改或是純色，而100%則是完全透明。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;c&lt;/f0&gt;omplete &lt;f1&gt;b&lt;/f1&gt;asics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T144519Z" creationid="Franklin Weng" creationdate="20171223T134001Z">
