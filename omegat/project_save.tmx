@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If possible, use a font used elsewhere in the document.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075428Z" creationid="Jeff Huang" creationdate="20180104T075428Z">
+        <seg>&lt;f0&gt;如果可以的話，請使用在文件中其他地方使用的字型。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the document uses headings, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View &gt; Navigator &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or press the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;F5 &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;key.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075441Z" creationid="Jeff Huang" creationdate="20171123T061659Z">
@@ -1242,6 +1250,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105904Z" creationid="Franklin Weng" creationdate="20171218T144226Z">
         <seg>&lt;f0&gt;接下來，就會開啟&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;範本管理員&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」視窗，裡面包含系統上給所有使用者用的範本，還有你自己的個人範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In most cases, i&lt;/f0&gt;gnore all except &lt;f1&gt;Font color&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075636Z" creationid="Jeff Huang" creationdate="20180104T075636Z">
+        <seg>&lt;f0&gt;在大多數的情況下，&lt;/f0&gt;忽略除了&lt;f1&gt;字體顏色&lt;/f1&gt;以外的項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,6 +4891,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font Effects</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075441Z" creationid="Jeff Huang" creationdate="20180104T075441Z">
+        <seg>字型效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font effects</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T111540Z" creationid="Franklin Weng" creationdate="20180101T111540Z">
@@ -8341,6 +8365,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123418Z" creationid="Franklin Weng" creationdate="20171225T095907Z">
         <seg>無襯線字型通常用在線上閱讀都不錯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sans serifs often make for clarity.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075403Z" creationid="Jeff Huang" creationdate="20180104T075403Z">
+        <seg>無襯線通常較清晰。</seg>
       </tuv>
     </tu>
     <tu>
