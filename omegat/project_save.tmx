@@ -9134,6 +9134,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Transparency&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab&lt;/f2&gt; also includes options for creating a gradient, duplicating the options at &lt;f3&gt;Format &gt; Area &gt; Gradient&lt;/f3&gt; &lt;t4/&gt;&lt;f5&gt;(see above).&lt;/f5&gt; In terms of graphic styles, the tab’s gradient control allow&lt;f6&gt;s&lt;/f6&gt; you to customize gradients, while the &lt;f7&gt;Area&lt;/f7&gt; tab only lets you choose pre-defined gradients.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T064000Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「透明」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;分頁&lt;/f2&gt;也包含了建立件層的選項，其與&lt;f3&gt;「格式 &gt; 區塊 &gt; 漸層」&lt;/f3&gt;中的選項相同 &lt;t4/&gt;&lt;f5&gt;（參見上面的內容）。&lt;/f5&gt;就圖形樣式而言，分頁的漸層控制讓你可以自訂漸層，而&lt;f7&gt;區塊&lt;/f7&gt;分頁則僅能讓你選擇預先定義好的漸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Author&lt;/f0&gt; field is filled automatically with the name entered in the User Data for LibreOffice’s general use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131316Z" creationid="Franklin Weng" creationdate="20171223T123108Z">
@@ -9224,8 +9232,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab &lt;f1&gt;expresses transparency as a percentage, with 0 being an unmodified or solid color, and 100% being completely transparent.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060748Z" creationid="Jeff Huang" creationdate="20180104T060748Z">
-        <seg>&lt;f0&gt;「透明度」&lt;/f0&gt;分頁&lt;f1&gt;以百分比的形式表示透明度，其中0為未修改或是純色，而100%則是完全透明。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060852Z" creationid="Jeff Huang" creationdate="20180104T060748Z">
+        <seg>&lt;f0&gt;「透明」&lt;/f0&gt;分頁&lt;f1&gt;以百分比的形式表示透明度，其中0為未修改或是純色，而100%則是完全透明。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
