@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you change the shadow’s position, use the same position for other shadows throughout the document.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T055945Z" creationid="Jeff Huang" creationdate="20180104T055945Z">
+        <seg>&lt;f0&gt;如果你變更了陰影的位置，請把整份文件中其他地方的陰影也調整至相同的位置。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you do see problems, consider repeating the final editing process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091642Z" creationid="Jeff Huang" creationdate="20171214T064507Z">
@@ -9426,6 +9434,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
         <seg>交叉參照只能在主控文件中正確顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default position for the shadow is the lower right, assuming a light source in the upper left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T055756Z" creationid="Jeff Huang" creationdate="20180104T055756Z">
+        <seg>陰影的預設位置在右下方，其並假設光源的位置在左上方。</seg>
       </tuv>
     </tu>
     <tu>
