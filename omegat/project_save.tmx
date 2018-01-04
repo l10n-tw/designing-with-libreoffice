@@ -312,6 +312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;Consider alternatives, such as &lt;f2&gt;tables, especially when the design is frequently changing.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080442Z" creationid="Jeff Huang" creationdate="20180104T080442Z">
+        <seg>&lt;/f1&gt;請考慮其他替代方案，如&lt;f2&gt;表格，特別是經常變更設計時。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;Font: Linux Libertine G.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063615Z" creationid="Franklin Weng" creationdate="20171228T063615Z">
@@ -645,6 +653,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152958Z" creationid="zerng07" creationdate="20171224T152927Z">
         <seg>&lt;f0&gt;自動：&lt;/f0&gt;一份&lt;f1&gt;預先定義&lt;/f1&gt;樣式的極簡主義版清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Awkward &lt;/f0&gt;with graphic text, &lt;f1&gt;and not really needed with the right spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080348Z" creationid="Jeff Huang" creationdate="20180104T080348Z">
+        <seg>圖形文字略顯&lt;f0&gt;尷尬&lt;/f0&gt;，&lt;f1&gt;其並不需要正確的間隔。</seg>
       </tuv>
     </tu>
     <tu>
