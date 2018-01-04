@@ -11821,6 +11821,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
         <seg>“11 Tips for Moving to OpenOffice.org” 這篇是2004年3月&lt;f0&gt;Linux Journal &lt;/f0&gt;的封面文章(&lt;f1&gt;http://www.linuxjournal.com/article/7158&lt;/f1&gt;)。</seg>
       </tuv>
     </tu>
+    <tu>
+      <note>參考錯誤，略過不譯。</note>
+      <tuv lang="EN">
+        <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,” &lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
