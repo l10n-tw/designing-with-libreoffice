@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A sample riddled with hyphens is a sign that you will either have to change the font, or adjust its size or alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120930Z" creationid="Franklin Weng" creationdate="20180105T120930Z">
+        <seg>如果整份文件被連字符弄得千瘡百孔，那就表示要嘛就是要換字型，不然就是要調整它的大小與對齊方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A second method is to create a new master document with a different template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130623Z" creationid="Franklin Weng" creationdate="20171223T130038Z">
@@ -3543,6 +3551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you work with a template, you will probably make changes the first few times you use it, including to the fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T121004Z" creationid="Franklin Weng" creationdate="20180105T121004Z">
+        <seg>當你剛開始幾次使用範本時，你可能會需要改變它的格式，包括字型在內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you work with shape characteristics, you will soon find that many of the available settings apply only to certain shapes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082331Z" creationid="Jeff Huang" creationdate="20171221T082331Z">
@@ -3579,6 +3595,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102052Z" creationid="Franklin Weng" creationdate="20171212T100959Z">
         <seg>如果一份範本的設計以最少需要三小時來算，正因為有這樣一份範本，才能替我接下來的日子中，輕鬆省下超過一個月的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At a minimum, you need several lines, while page design usually requires an entire page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120405Z" creationid="Franklin Weng" creationdate="20180105T120405Z">
+        <seg>至少你需要幾行文字，而頁面設計則通常需要一兩頁才能有感覺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,6 +4538,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not rely on the font preview in the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar &lt;f1&gt;or the sidebar.&lt;/f1&gt; A single word is not enough to judge a font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120321Z" creationid="Franklin Weng" creationdate="20180105T120321Z">
+        <seg>不要太倚賴「&lt;f0&gt;格式設定&lt;/f0&gt;」工具列或&lt;f1&gt;側邊欄&lt;/f1&gt;的預覽。單獨一個字是不能用來評段一個字型的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you prefer a particular font size?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042507Z" creationid="Franklin Weng" creationdate="20171213T124048Z">
@@ -5351,6 +5383,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121447Z" creationid="Franklin Weng" creationdate="20180103T121340Z">
         <seg>在線上閱讀時，字型正規一點，&lt;f0&gt;不要太尖細&lt;/f0&gt;比較理想。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For that matter, even if you read Latin, the passage is unlikely to distract you for very long, because you will see it so often that you will soon ignore the sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115950Z" creationid="Franklin Weng" creationdate="20180105T115950Z">
+        <seg>關於這個問題，其實即使你真的會讀拉丁文，這篇文章的內容也不會吸引你太久，因為你會一直看著它，很快就不會對內容有太多感覺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7274,6 +7314,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Look, too, for body text that fills a page or column without many hyphens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120742Z" creationid="Franklin Weng" creationdate="20180105T120742Z">
+        <seg>同時也要看看填在頁面或欄的本文主體的文字，不要有太多斷字與連字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Making the final check</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083954Z" creationid="Jeff Huang" creationdate="20171214T063640Z">
@@ -9110,6 +9158,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Study how the fonts you choose work together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120527Z" creationid="Franklin Weng" creationdate="20180105T120527Z">
+        <seg>研究如何讓選擇的字型搭配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175051Z" creationid="zerng07" creationdate="20171223T175051Z">
@@ -9528,8 +9584,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;traditional &lt;/f0&gt;dummy text &lt;f1&gt;in typography &lt;/f1&gt;is the Lorem Ipsum, &lt;f2&gt;a passage &lt;/f2&gt;so-called from its opening words.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115316Z" creationid="Franklin Weng" creationdate="20180105T115304Z">
-        <seg>在&lt;f1&gt;文字排印學&lt;/f1&gt;中，&lt;f0&gt;傳統使用的&lt;/f0&gt;虛擬文字稱為 Lorem Ipsum，是&lt;f2&gt;一篇以 "Lorem Ipsum" 兩個字開頭，但內文沒有什麼意義的文章&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115819Z" creationid="Franklin Weng" creationdate="20180105T115304Z">
+        <seg>在&lt;f1&gt;文字排印學&lt;/f1&gt;中，&lt;f0&gt;傳統使用的&lt;/f0&gt;虛擬文字稱為 Lorem Ipsum，是&lt;f2&gt;一篇以 “Lorem Ipsum”兩個字開頭的文章&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,8 +9632,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The Lorem Ipsum is &lt;f3&gt;fractured Latin, based on &lt;/f3&gt;a passage from Cicero’s essay, “The Extremes of Good and Evil,” and can be downloaded from several sites.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115524Z" creationid="Franklin Weng" creationdate="20180105T115310Z">
-        <seg>Lorem Ipsum 是以&lt;f3&gt;片段的拉丁文所組成，&lt;/f3&gt;從喜賽羅（Cicero，106 B.C.-43 B.C，古羅馬哲學家與政治家） 的《善惡之盡》“The Extremes of Good and Evil,” and can be downloaded from several sites.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115631Z" creationid="Franklin Weng" creationdate="20180105T115310Z">
+        <seg>Lorem Ipsum 是以&lt;f3&gt;片段的拉丁文所組成，&lt;/f3&gt;從喜賽羅（Cicero，106 B.C.-43 B.C，古羅馬哲學家與政治家） 的《善惡之盡》（“The Extremes of Good and Evil”）所衍生出來的文章。你可以在網路上一些站台下載得到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9658,6 +9714,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035550Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
         <seg>繪製物件的區塊可以使用&lt;f2&gt;&lt;f3&gt;顏色&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;來格式化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The assumption &lt;f0&gt;behind the Lorem Ipsum&lt;/f0&gt; is that, unless you can read Latin, you will not be distracted by the meaning of the words when you focused on formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115806Z" creationid="Franklin Weng" creationdate="20180105T115806Z">
+        <seg>&lt;f0&gt;Lorem Ipsum&lt;/f0&gt; 背後的假設為，除非你會讀拉丁文，不然你無法理解文章的內容，因此可以專注在格式設定上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10153,6 +10217,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The start of the Lorem Ipsum, the popular dummy text passage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115715Z" creationid="Franklin Weng" creationdate="20180105T115715Z">
+        <seg>Lorem Ipsum，這一篇常用來測試字型與排版的虛擬文章的起源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The storage directory for templates varies with the operating system and software release, but you can find which directories your installation is using by going to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; Paths &gt; Templates.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142544Z" creationid="Franklin Weng" creationdate="20171223T133543Z">
@@ -10414,6 +10486,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T132932Z" creationid="Franklin Weng" creationdate="20171223T132932Z">
         <seg>如果你的文件很大，但電腦記憶體不太夠，那麼有可能無法完整取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They should not be jarringly different, but they should be sufficiently different for read&lt;f0&gt;er&lt;/f0&gt;s to tell them apart at a glance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120634Z" creationid="Franklin Weng" creationdate="20180105T120634Z">
+        <seg>字型間不應該明顯地不協調，但也要讓讀者能在第一時間就區分得出它們的差異。</seg>
       </tuv>
     </tu>
     <tu>
