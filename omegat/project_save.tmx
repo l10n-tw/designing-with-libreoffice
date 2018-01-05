@@ -3559,6 +3559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you can see by opening professionally published books, you &lt;f0&gt;usually &lt;/f0&gt;want the body text to be neither too black &lt;f1&gt;n&lt;/f1&gt;or too washed out&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T132333Z" creationid="Franklin Weng" creationdate="20180105T132333Z">
+        <seg>當你打開一本公開發行的書籍時，你&lt;f0&gt;通常&lt;/f0&gt;會看到本文主體不會太暗也不會看起來像褪色一樣。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you get down to the word level, consider whether every piece of jargon is necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T052128Z" creationid="Jeff Huang" creationdate="20171111T133052Z">
@@ -9430,6 +9438,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That line spacing is the magic number &lt;f0&gt;that &lt;/f0&gt;can be the key to &lt;f1&gt;the &lt;/f1&gt;rest of your design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T131828Z" creationid="Franklin Weng" creationdate="20180105T131828Z">
+        <seg>這個行間距就是所謂的「魔術數字」，&lt;f0&gt;它&lt;/f0&gt;會是你的設計的關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means, &lt;f2&gt;for example,&lt;/f2&gt; that the pre-defined &lt;f3&gt;Object with Shadow &lt;/f3&gt;style &lt;f4&gt;can format &lt;/f4&gt;both a rectangle and &lt;f5&gt;shapes that are identical except for dimensions.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081112Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
@@ -10886,6 +10902,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T180733Z" creationid="zerng07" creationdate="20170817T180718Z">
         <seg>時至今日，OpenOffice.org已不存在，存續的是Apache OpenOffice。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too black a color can be disturbing, while too washed out a color can be hard to read and looks like a publisher’s error.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T132629Z" creationid="Franklin Weng" creationdate="20180105T132629Z">
+        <seg>色彩太暗會讓人覺得不安，色彩太亮則不易閱讀，看起來會像印刷的問題。</seg>
       </tuv>
     </tu>
     <tu>
