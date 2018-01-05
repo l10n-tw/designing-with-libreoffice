@@ -376,6 +376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;Font: Universalis &lt;f3&gt;ADF Std.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135500Z" creationid="Franklin Weng" creationdate="20180105T135500Z">
+        <seg>&lt;/f2&gt;字型：Universalis &lt;f3&gt;ADF Std&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144902Z" creationid="Franklin Weng" creationdate="20171224T075622Z">
         <seg>&lt;f0&gt;如果你有管理員權限&lt;/f0&gt;，你&lt;f1&gt;可以在作業系統中安裝新的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In LibreOffice Writer, line spacing appears to be set by the font size&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134757Z" creationid="Franklin Weng" creationdate="20180105T134757Z">
+        <seg>&lt;f0&gt;在 LibreOffice Writer 中。行間距看起來是由字型大小來設定&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2404,6 +2420,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The exact measurement&lt;/f1&gt; is displayed when you set the &lt;f2&gt;Line Spacing&lt;/f2&gt; field to &lt;f3&gt;Fixed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134923Z" creationid="Franklin Weng" creationdate="20180105T134923Z">
+        <seg>&lt;f1&gt;不過精確的距離&lt;/f1&gt;是你把「&lt;f2&gt;行距&lt;/f2&gt;」設為&lt;f3&gt;「固定」時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The majority of fonts include a minimum of four font styles – Roman, Italic, Bold, and Bold Italic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T125606Z" creationid="Franklin Weng" creationdate="20180101T125606Z">
@@ -2986,6 +3010,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130018Z" creationid="Franklin Weng" creationdate="20180101T130018Z">
         <seg>有些字型會包括有襯線、無襯線一起，&lt;f0&gt;甚至再加上等寬字型的樣式變化。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A font set solid (in this case, 12/12&lt;f0&gt;)&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;With so little line spacing, the text is cramped and hard to read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135449Z" creationid="Franklin Weng" creationdate="20180105T135449Z">
+        <seg>緊實的段落（這個例子是 12/12）。&lt;f2&gt;行間距這麼小，文字看起來會很窄而難以閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5267,6 +5299,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For convenience, typographers notate &lt;f0&gt;line spacing&lt;/f0&gt; after the font size, so that a paragraph set in 12/14 has a 12 point font size and 14 points of line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135039Z" creationid="Franklin Weng" creationdate="20180105T135039Z">
+        <seg>為了方便起見，排印者把&lt;f0&gt;行間距&lt;/f0&gt;記在字型大小之後，所以段落設定為 12/14 指的是字型大小為 12，行間距為 14。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For detailed information about the &lt;f0&gt;Alignment, Font, Font Effect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, Indents &amp; Spacing,&lt;/f3&gt; and &lt;f4&gt;Tabs&lt;/f4&gt; tab&lt;f5&gt;s&lt;/f5&gt;, see &lt;f6&gt;Chapters 3-5.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081416Z" creationid="Jeff Huang" creationdate="20171228T062709Z">
@@ -7366,6 +7406,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134527Z" creationid="Franklin Weng" creationdate="20180105T134527Z">
         <seg>行間距的定義為&lt;f0&gt;從一行的基線（想像對齊字母“n”或“m”下方的線條）到另一行基線的距離&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line spacing is the distance between two baselines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134538Z" creationid="Franklin Weng" creationdate="20180105T134538Z">
+        <seg>行間距就是兩條基線間的距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9622,6 +9670,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135528Z" creationid="Franklin Weng" creationdate="20180105T135528Z">
+        <seg>「&lt;f0&gt;縮排和間距&lt;/f0&gt;」分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Organizer&lt;/f0&gt; tab &lt;f1&gt;can include&lt;/f1&gt; four fields:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172904Z" creationid="zerng07" creationdate="20171225T153604Z">
@@ -11462,6 +11518,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175011Z" creationid="zerng07" creationdate="20171224T140659Z">
         <seg>當看到外框出現時放開浮動視窗，視窗就會停駐在該位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a paragraph’s font size and line space are identical – for instance, 12/12 – then the paragraph is said to be “set solid.” However, you rarely see a paragraph set solid except for short lines of text in brochures or ad&lt;f0&gt;s&lt;/f0&gt;, because the lines look crowded &lt;t1/&gt;&lt;f2&gt;except with a few fonts with small letter sizes with plenty of white space around them.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135351Z" creationid="Franklin Weng" creationdate="20180105T135351Z">
+        <seg>當段落的字型大小與行間距相等時 – 比方說，12/12 – 那麼我們會說這個段落「很緊實」。不過，我們很少會看到這種「緊實」的段落設定，除非是小手冊或廣告中空間行數有限。因為這種「緊實」的段落看起來會很擠，&lt;t1/&gt;&lt;f2&gt;除非中間有幾行的字母大小較小，留出一些空間在週邊。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
