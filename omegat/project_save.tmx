@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;It is &lt;/f0&gt;used so you can &lt;f1&gt;focus on&lt;/f1&gt; the result of formatting changes &lt;f2&gt;rather than the content.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093247Z" creationid="Franklin Weng" creationdate="20180105T093247Z">
+        <seg>&lt;f0&gt;它是&lt;/f0&gt;用來讓你&lt;f1&gt;聚焦&lt;/f1&gt;在格式變更後的結果，&lt;f2&gt;而不受到內文的影響。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Its&lt;/f0&gt; Writer word processor &lt;f1&gt;in particular&lt;/f1&gt; is structured around the concept of styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T164336Z" creationid="zerng07" creationdate="20170817T154546Z">
@@ -1692,6 +1700,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052613Z" creationid="Franklin Weng" creationdate="20171228T052613Z">
         <seg>&lt;f0&gt;Small capitals 不只比一般大寫字母小，它的寬高比例也不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Some&lt;/f0&gt; Humanist sans serifs are versatile enough to be used for both headings and body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092946Z" creationid="Franklin Weng" creationdate="20180105T092946Z">
+        <seg>&lt;f0&gt;有一些&lt;/f0&gt;人文主義無襯線字型的設計在標題跟本文主體都適用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3751,6 +3767,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both the Arts and Crafts and Art Nouveau schools of design favored them, &lt;f0&gt;and they remain popular today&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092847Z" creationid="Franklin Weng" creationdate="20180105T092732Z">
+        <seg>美術工藝設計學校跟新藝術風格設計學校都比較喜歡用這類字型，&lt;f0&gt;到現在還是一樣。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both these templates include not only formatting, but a standard set of slides for developing a presentation with certain goals in mind.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T073750Z" creationid="Franklin Weng" creationdate="20171212T100403Z">
@@ -3884,6 +3908,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171919Z" creationid="zerng07" creationdate="20171225T171919Z">
         <seg>相反的，「&lt;f5&gt;內文&lt;/f5&gt;」的&lt;f6&gt;下一個樣式&lt;/f6&gt;通常還是「&lt;f7&gt;內文&lt;/f7&gt;」， 因為文字幾乎都是好幾個段落排在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, Humanist sans serif or Modern Humanist fonts are based on the clean lines of Roman inscriptions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092716Z" creationid="Franklin Weng" creationdate="20180105T092716Z">
+        <seg>相反地，人文主義式無襯線字型（Humanist sans serif）或現代人文主義字型（Modern Humanist fonts）是奠基於羅馬式（Roman）的簡潔線條而來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4642,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dummy text is text unrelated to the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093204Z" creationid="Franklin Weng" creationdate="20180105T093043Z">
+        <seg>虛擬文字（Dummy text）是指文字本身跟文件沒有關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During that part of my working life, I had several chances to stress-test OpenOffice.org, including writing several manuals of over 700 pages.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T063636Z" creationid="zerng07" creationdate="20170822T161048Z">
@@ -4971,6 +5011,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Cantarell, the default font for the GNOME desktop &lt;f0&gt;in Linux.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093010Z" creationid="Franklin Weng" creationdate="20180105T093010Z">
+        <seg>字型：Cantarell，&lt;f0&gt;Linux&lt;/f0&gt; 上 GNOME 桌面系統的預設字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Cinzel, a font based on Roman inscriptions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102138Z" creationid="Franklin Weng" creationdate="20171225T102138Z">
@@ -5031,6 +5079,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072328Z" creationid="Franklin Weng" creationdate="20171228T072328Z">
         <seg>字型：Nobile。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Oxygen, the default for KDE’s Plasma desktop &lt;f0&gt;in Linux.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092603Z" creationid="Franklin Weng" creationdate="20180105T092603Z">
+        <seg>字型：Oxygen，&lt;f0&gt;Linux&lt;/f0&gt; 上 KDE Plasma 桌面系統的預設字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5389,8 +5445,8 @@
       <tuv lang="EN">
         <seg>Geometric fonts were popular with Modernist schools fo&lt;f0&gt;r&lt;/f0&gt; design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092519Z" creationid="Franklin Weng" creationdate="20180105T092519Z">
-        <seg>幾何字型在現代主義的設計中頗受歡迎。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092750Z" creationid="Franklin Weng" creationdate="20180105T092519Z">
+        <seg>幾何字型在現代主義的設計學校中頗受歡迎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7373,8 +7429,8 @@
       <tuv lang="EN">
         <seg>Modern sans serifs usually fall into one of two categories.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092331Z" creationid="Franklin Weng" creationdate="20180105T092331Z">
-        <seg>現代的無襯線字型通常屬於兩種分類之一。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093149Z" creationid="Franklin Weng" creationdate="20180105T092331Z">
+        <seg>現代的無襯線字型通常屬於兩種分類其中一種。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8443,8 +8499,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sans serif fonts are exactly what their &lt;f0&gt;French &lt;/f0&gt;name implies: fonts without serifs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092129Z" creationid="Franklin Weng" creationdate="20180105T092129Z">
-        <seg>無襯線字型（Sans serif）就完全如同它的&lt;f0&gt;法文名稱&lt;/f0&gt;：沒有襯線的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093123Z" creationid="Franklin Weng" creationdate="20180105T092129Z">
+        <seg>無襯線字型就完全如同它的&lt;f0&gt;法文名稱&lt;/f0&gt;：沒有襯線的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,6 +9522,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140620Z" creationid="Franklin Weng" creationdate="20171223T130657Z">
         <seg>第&lt;f0&gt;三種&lt;/f0&gt;方法，也是最實際的方法，就是在兩份文件中轉換樣式。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;traditional &lt;/f0&gt;dummy text &lt;f1&gt;in typography &lt;/f1&gt;is the Lorem Ipsum, &lt;f2&gt;a passage &lt;/f2&gt;so-called from its opening words.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115304Z" creationid="Franklin Weng" creationdate="20180105T115304Z">
+        <seg>在&lt;f1&gt;文字排印學&lt;/f1&gt;中，&lt;f0&gt;傳統使用的&lt;/f0&gt;虛擬文字稱為 Lorem Ipsum，是&lt;f2&gt;一篇以 "Lorem Ipsum" 開頭，但內文沒有什麼意義的文章&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10970,6 +11034,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using dummy text to experiment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093054Z" creationid="Franklin Weng" creationdate="20180105T093041Z">
+        <seg>使用虛擬文字來實驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using fields in templates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093400Z" creationid="Franklin Weng" creationdate="20171223T093400Z">
@@ -11222,8 +11294,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When they first appeared in the early nineteenth century, they were called “grotesque” and “gothic.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092314Z" creationid="Franklin Weng" creationdate="20180105T092314Z">
-        <seg>它們在 19 世紀早期出現，最開始被稱為「哥德式」（gothic）或「古怪」字型（grotesque）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T093130Z" creationid="Franklin Weng" creationdate="20180105T092314Z">
+        <seg>它們在 19 世紀早期出現，最開始被稱為「哥德式」（gothic）或「古怪」（grotesque）字型。</seg>
       </tuv>
     </tu>
     <tu>
