@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Adjusting &lt;f0&gt;Scale width&lt;/f0&gt; and &lt;f1&gt;Spacing&lt;/f1&gt; on the &lt;f2&gt;Position&lt;/f2&gt; &lt;f3&gt;t&lt;/f3&gt;ab may help as well.&lt;f4&gt;)&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144612Z" creationid="Franklin Weng" creationdate="20180105T144612Z">
+        <seg>（在「&lt;f2&gt;位置&lt;/f2&gt;」分頁中調整「&lt;f0&gt;縮排寬度&lt;/f0&gt;」與「&lt;f1&gt;間距&lt;/f1&gt;」可能也會有些幫助。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Hartley and Marks: Vancouver, 1996): Widely regarded as the Bible of typography, because most of Bringhurst’s opinions are reasonable ones.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T065828Z" creationid="zerng07" creationdate="20171228T065655Z">
@@ -568,6 +576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Acceptable color may also depend to a degree on culture, era, and the principles of different design schools.&lt;/f0&gt; &lt;f1&gt;However, certain contexts are more likely to need adjustments in line spacing than others.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144405Z" creationid="Franklin Weng" creationdate="20180105T144405Z">
+        <seg>&lt;f0&gt;可接受的色彩某種程度上會受到文化、時代，還有不同設計學校的原則等等影響。&lt;/f0&gt; &lt;f1&gt;不過，在某些條件下還是需要對行間距做調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adjusting the page c&lt;/f0&gt;olor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T130657Z" creationid="Franklin Weng" creationdate="20180105T130657Z">
@@ -747,8 +763,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ontexts for changing color</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140723Z" creationid="Franklin Weng" creationdate="20180105T140723Z">
-        <seg>&lt;f0&gt;C&lt;/f0&gt;ontexts for changing color</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144020Z" creationid="Franklin Weng" creationdate="20180105T140723Z">
+        <seg>何時要改變色彩</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,6 +895,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142448Z" creationid="zerng07" creationdate="20171224T152833Z">
         <seg>&lt;f0&gt;自訂樣式：&lt;/f0&gt;和預先設定的樣式不同，&lt;f1&gt;這是你自己建立的樣式。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Decrease&lt;/f0&gt; spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144456Z" creationid="Franklin Weng" creationdate="20180105T144456Z">
+        <seg>&lt;f0&gt;要減少&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1354,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T132106Z" creationid="Franklin Weng" creationdate="20171231T132106Z">
         <seg>&lt;f0&gt;在數位時代，字型的大小是以 1/72 英吋（一英吋約為 2.5 公分）為單位來測量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Increase &lt;/f0&gt;spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144442Z" creationid="Franklin Weng" creationdate="20180105T144442Z">
+        <seg>&lt;f0&gt;要增加&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A l&lt;f0&gt;ine of text greater than about 80 characters.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144717Z" creationid="Franklin Weng" creationdate="20180105T144717Z">
+        <seg>&lt;f0&gt;一行文字超過 80 字元時。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more plausible reason for not using templates is that setting them up takes time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101452Z" creationid="Franklin Weng" creationdate="20171212T100916Z">
@@ -4624,6 +4664,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Developing an eye for line spacing takes practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144140Z" creationid="Franklin Weng" creationdate="20180105T143617Z">
+        <seg>要發展對行間距的敏銳感覺需要不斷實作練習。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>3997: needs review</note>
       <tuv lang="EN">
         <seg>Different members of a font family are often called weights.</seg>
@@ -4979,6 +5027,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Experiment until you get acceptable results.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144424Z" creationid="Franklin Weng" creationdate="20180105T144424Z">
+        <seg>不斷地實驗，直到你覺得可以接受為止。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting a template takes a copy of the template, de-registers the copy, and saves it to the directory of your choice.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T135921Z" creationid="Franklin Weng" creationdate="20171223T124642Z">
@@ -5279,6 +5335,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132023Z" creationid="Franklin Weng" creationdate="20180103T132023Z">
         <seg>字型通常來說並不好分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts whose characters are broad and have relatively large spaces between them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144638Z" creationid="Franklin Weng" creationdate="20180105T144638Z">
+        <seg>字型中的字元較寬，相對間的間距較大時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts whose characters are narrow or have smaller spaces between them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144515Z" creationid="Franklin Weng" creationdate="20180105T144515Z">
+        <seg>字型中的字元較窄，字元間的間距較小時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6528,8 +6600,8 @@
       <tuv lang="EN">
         <seg>If you need to fiddle too much with &lt;f0&gt;Scale width&lt;/f0&gt; or &lt;f1&gt;Spacing&lt;/f1&gt; in a paragraph style, then &lt;f2&gt;finding another font is probably less effort for more aesthetic results.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T130646Z" creationid="Franklin Weng" creationdate="20180105T130646Z">
-        <seg>如果你必須要在段落樣式中大量調整&lt;f0&gt;寬度&lt;/f0&gt;或&lt;f1&gt;間距&lt;/f1&gt;，那麼&lt;f2&gt;換個字型可能會比較省事，並得到較美的效果。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T143718Z" creationid="Franklin Weng" creationdate="20180105T130646Z">
+        <seg>如果你必須要在段落樣式中大量調整「&lt;f0&gt;縮放寬度&lt;/f0&gt;」或「&lt;f1&gt;間距&lt;/f1&gt;」，那麼&lt;f2&gt;換個字型可能會比較省事，並得到較美的效果。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
