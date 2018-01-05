@@ -2590,8 +2590,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Many&lt;/f2&gt; are an exception to the conventional wisdom that serif fonts cannot be used online, &lt;f3&gt;and are often highly readable online or in slide shows.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135638Z" creationid="Franklin Weng" creationdate="20180103T135638Z">
-        <seg>&lt;f2&gt;Many&lt;/f2&gt; are an exception to the conventional wisdom that serif fonts cannot be used online, &lt;f3&gt;and are often highly readable online or in slide shows.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092019Z" creationid="Franklin Weng" creationdate="20180103T135638Z">
+        <seg>雖然傳統的觀念上認為有襯線字型不適合在線上閱讀，但實際上&lt;f2&gt;有許多&lt;/f2&gt;&lt;f3&gt;字型在線上閱讀或放在投影片中是沒問題的。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4955,6 +4955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: &lt;f0&gt;Josefin Slab.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092026Z" creationid="Franklin Weng" creationdate="20180105T092026Z">
+        <seg>字型：&lt;f0&gt;Josefin Slab。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Baskervald ADF, a free-licensed version of Hugo Baskerville’s classic transitional font Baskerville.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135144Z" creationid="Franklin Weng" creationdate="20180103T135144Z">
@@ -5367,6 +5375,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150557Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
         <seg>一般來說，你可能會希望盡量避免&lt;f0&gt;讓文件與其範本失去連結。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Geometric fonts are marked by regular strokes and simple shapes, including circles for bowls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092440Z" creationid="Franklin Weng" creationdate="20180105T092440Z">
+        <seg>幾何字型（Geometric fonts）是由規律的筆畫與簡單的形狀組成，像是封閉弧型部份呈圓形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Geometric fonts were popular with Modernist schools fo&lt;f0&gt;r&lt;/f0&gt; design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092519Z" creationid="Franklin Weng" creationdate="20180105T092519Z">
+        <seg>幾何字型在現代主義的設計中頗受歡迎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,6 +7371,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modern sans serifs usually fall into one of two categories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092331Z" creationid="Franklin Weng" creationdate="20180105T092331Z">
+        <seg>現代的無襯線字型通常屬於兩種分類之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modern typographers &lt;f0&gt;sometimes&lt;/f0&gt; design serif, sans serif, and monospaced fonts to be used together, &lt;f1&gt;which can be a great convenience.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131030Z" creationid="Franklin Weng" creationdate="20180103T130942Z">
@@ -8393,10 +8425,26 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sans &lt;f0&gt;s&lt;/f0&gt;erifs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092047Z" creationid="Franklin Weng" creationdate="20180105T092047Z">
+        <seg>無襯線字型（Sans serifs）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sans &lt;f1&gt;s&lt;/f1&gt;erif &lt;f2&gt;font&lt;/f2&gt;s often read well online.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123418Z" creationid="Franklin Weng" creationdate="20171225T095907Z">
         <seg>無襯線字型通常用在線上閱讀都不錯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sans serif fonts are exactly what their &lt;f0&gt;French &lt;/f0&gt;name implies: fonts without serifs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092129Z" creationid="Franklin Weng" creationdate="20180105T092129Z">
+        <seg>無襯線字型（Sans serif）就完全如同它的&lt;f0&gt;法文名稱&lt;/f0&gt;：沒有襯線的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11168,6 +11216,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055548Z" creationid="Jeff Huang" creationdate="20171123T072148Z">
         <seg>當行文順序對你來說很清楚時，那麼對讀者來說也會很合邏輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When they first appeared in the early nineteenth century, they were called “grotesque” and “gothic.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092314Z" creationid="Franklin Weng" creationdate="20180105T092314Z">
+        <seg>它們在 19 世紀早期出現，最開始被稱為「哥德式」（gothic）或「古怪」字型（grotesque）。</seg>
       </tuv>
     </tu>
     <tu>
