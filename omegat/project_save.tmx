@@ -1003,6 +1003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;irst line indent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150710Z" creationid="Franklin Weng" creationdate="20180105T150710Z">
+        <seg>第一行縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice’&lt;f2&gt;s collection of extensions and templates&lt;/f2&gt;, &lt;f3&gt;go to:&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193326Z" creationid="zerng07" creationdate="20170817T171125Z">
@@ -1096,6 +1104,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133617Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
         <seg>&lt;f0&gt;在範本管理員下，選擇要刪除的個人範本，在上面點按右鍵選擇&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;刪除&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕即可。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;H&lt;/f0&gt;eader/footer height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150747Z" creationid="Franklin Weng" creationdate="20180105T150747Z">
+        <seg>標頭/註腳的高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;age margins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150715Z" creationid="Franklin Weng" creationdate="20180105T150715Z">
+        <seg>頁面間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;aragraph styles define the general formatting for any text-heavy document, while character styles provide brief variations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T152950Z" creationid="zerng07" creationdate="20171229T152950Z">
@@ -1698,6 +1722,38 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101711Z" creationid="Franklin Weng" creationdate="20171212T100944Z">
         <seg>在那之後，我用&lt;f1&gt;那一份&lt;/f1&gt;通用範本製作了數以百計的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;pace above paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150738Z" creationid="Franklin Weng" creationdate="20180105T150738Z">
+        <seg>段落之上的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;pace below paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150754Z" creationid="Franklin Weng" creationdate="20180105T150754Z">
+        <seg>段落之下的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;pace between a header and footer and main text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150809Z" creationid="Franklin Weng" creationdate="20180105T150809Z">
+        <seg>標頭、註腳與本文的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;pace between numbers/bullet and list items.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150907Z" creationid="Franklin Weng" creationdate="20180105T150907Z">
+        <seg>編號與項目清單中，各項目間的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1832,6 +1888,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;abs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150705Z" creationid="Franklin Weng" creationdate="20180105T150705Z">
+        <seg>定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;ext indents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150655Z" creationid="Franklin Weng" creationdate="20180105T150655Z">
+        <seg>文字縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;HTML&lt;/f1&gt; view shows the paragraph styles that LibreOffice has mapped directly to specific &lt;f2&gt;HTML&lt;/f2&gt; tags.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155704Z" creationid="zerng07" creationdate="20171224T155658Z">
@@ -1852,6 +1924,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075344Z" creationid="Jeff Huang" creationdate="20171220T075344Z">
         <seg>在 Draw 與 Impress 中的繪圖工具列有一些 Writer 與 Calc 沒有的圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he combination of heading font size, the space above/&lt;f1&gt;below.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150926Z" creationid="Franklin Weng" creationdate="20180105T150926Z">
+        <seg>標題字型大小、上下方間距的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he space above or below a graphic or any other inserted object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150946Z" creationid="Franklin Weng" creationdate="20180105T150946Z">
+        <seg>圖形或其他插入物件上下的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,6 +3871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At &lt;f0&gt;times, you might use half the line spacing instead of a whole multiple.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151059Z" creationid="Franklin Weng" creationdate="20180105T151059Z">
+        <seg>&lt;f0&gt;有時候，你可能會想用行距的一半，而不是整個行距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At a minimum of three hours per template design, I have easily saved over a month’s time thanks to that one template alone.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102052Z" creationid="Franklin Weng" creationdate="20171212T100959Z">
@@ -4067,6 +4163,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T173959Z" creationid="zerng07" creationdate="20170930T173829Z">
         <seg>但如果你有設定樣式，不到一分鐘就能改好字型和大小，甚至列印出小論文後時間還綽綽有餘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But the easiest is what I call – for want of a better name – the magic number.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150314Z" creationid="Franklin Weng" creationdate="20180105T150314Z">
+        <seg>最簡單的就是我所說的 - 雖然找不到更好的名字 - 所謂的魔術數字。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7103,6 +7207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In theory, you could use quarter-line spacing, or an even smaller fraction, but that is harder to track.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151129Z" creationid="Franklin Weng" creationdate="20180105T151129Z">
+        <seg>理論上，你可以用到四分之一的行距，或更小，但這樣很難追蹤。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In these cases, &lt;f0&gt;you can interact with templates through a file manager.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142522Z" creationid="Franklin Weng" creationdate="20171223T133438Z">
@@ -7328,6 +7440,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>修改請求</note>
+      <tuv lang="EN">
+        <seg>Its application is simple: whenever possible, a&lt;f1&gt;ny measurement in a document&lt;/f1&gt; will be a multiple of the selected line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150615Z" creationid="Franklin Weng" creationdate="20180105T150615Z">
+        <seg>它的應用很簡單：只要可以，&lt;f1&gt;任何文件的測量&lt;/f1&gt;都應該是選擇的行間距的倍數。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Its focus is not abstract design, but practical concerns like providing margins wide enough so that readers can comfortably hold a book, &lt;f0&gt;or features that make a document easier to update.</seg>
       </tuv>
@@ -7373,6 +7494,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130143Z" creationid="Franklin Weng" creationdate="20180101T130143Z">
         <seg>判斷字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just as importantly, half line-spacing quickly puts spacing back to the magic number itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151152Z" creationid="Franklin Weng" creationdate="20180105T151152Z">
+        <seg>Just as importantly, half line-spacing quickly puts spacing back to the magic number itself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8031,6 +8160,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050131Z" creationid="Franklin Weng" creationdate="20171228T050131Z">
         <seg>因為在舊式數字字型旁邊放一般大寫字母的話，字母會看起來特別大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not every design element can use the magic number, but most of the important ones can:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150647Z" creationid="Franklin Weng" creationdate="20180105T150647Z">
+        <seg>並不是每種設計元素都可以用魔術數字，但最重要的這些元素可以：Not every design element can use the magic number, but most of the important ones can:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9381,6 +9518,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some design elements to be adjusted using multiples of the magic number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151023Z" creationid="Franklin Weng" creationdate="20180105T151023Z">
+        <seg>一些可以用魔術數字的倍數來調整的設計元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some fonts store metrics for different weights within the same file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T060012Z" creationid="Franklin Weng" creationdate="20171228T060012Z">
@@ -10484,6 +10629,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110208Z" creationid="zerng07" creationdate="20171226T110208Z">
         <seg>這個樣式清單的優勢在於提供各種段落樣式的預覽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The magic number is the line spacing that gives the &lt;f0&gt;preferred&lt;/f0&gt; color with the chosen Body Text font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150400Z" creationid="Franklin Weng" creationdate="20180105T150400Z">
+        <seg>魔術數字就是讓選好的本文主體的字型能呈現出最好的色彩的行間距。</seg>
       </tuv>
     </tu>
     <tu>
