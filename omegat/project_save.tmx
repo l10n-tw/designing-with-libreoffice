@@ -560,6 +560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Adjusting the page c&lt;/f0&gt;olor</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T130657Z" creationid="Franklin Weng" creationdate="20180105T130657Z">
+        <seg>&lt;f0&gt;調整頁面色彩&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All Styles:&lt;/f0&gt; Especially when you are viewing paragraph styles, &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;All Styles&lt;/f2&gt; &lt;f3&gt;view&lt;/f3&gt; can give you so many names to scan that &lt;f4&gt;using it&lt;/f4&gt; is counter-productive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153531Z" creationid="zerng07" creationdate="20171224T153043Z">
@@ -2266,6 +2274,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In this context, “color” does not refer to whether the text or the paper is black or green.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T130753Z" creationid="Franklin Weng" creationdate="20180105T130753Z">
+        <seg>&lt;f1&gt;在這裡所說的「色彩」並不是指文字或紙張是黑色或綠色的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Instead, be satisfied with being 4 or fewer lines from the bottom of every page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T063720Z" creationid="Jeff Huang" creationdate="20171214T055814Z">
@@ -3354,6 +3370,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131123Z" creationid="Franklin Weng" creationdate="20180103T131123Z">
         <seg>一個例外是 Liberation 系列字型，它是設計來取代 Times Roman、Helvetica 以及 Courier 等字型，而非為了彼此相容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An important aspect of choosing fonts is &lt;f0&gt;the color of the body font&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T130729Z" creationid="Franklin Weng" creationdate="20180105T130729Z">
+        <seg>另一個選擇字型的重要考量角度是&lt;f0&gt;本文字型的色彩。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6835,6 +6859,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122731Z" creationid="Franklin Weng" creationdate="20171228T071227Z">
         <seg>它其實是一般式斜體（Oblique） – 它是一般的權重，但是往右斜一個角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, color is the typographical term for how dark or light a passage or a page looks overall.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T130846Z" creationid="Franklin Weng" creationdate="20180105T130846Z">
+        <seg>而是在文字排印學中的名詞，指的是一篇文章或一個頁面整體看來是較暗還是較亮。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11464,6 +11496,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083417Z" creationid="Jeff Huang" creationdate="20171214T061504Z">
         <seg>當你在兩份子文件之間有交叉參照時，目標子文件中的錯誤訊息可能會比主控文件中的交叉參照還長。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have found the line spacing that gives the color most pleasing to your eye, make a note of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T131709Z" creationid="Franklin Weng" creationdate="20180105T131709Z">
+        <seg>當你覺得行間距讓你感覺色彩看起來很舒服，就把這個間距記下來。</seg>
       </tuv>
     </tu>
     <tu>
