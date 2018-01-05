@@ -640,6 +640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Applying&lt;/f0&gt; the magic number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145129Z" creationid="Franklin Weng" creationdate="20180105T145129Z">
+        <seg>&lt;f0&gt;套用&lt;/f0&gt;魔術數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Are inspired by&lt;/f0&gt; the same &lt;f1&gt;historical era or are described in the same terms.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131400Z" creationid="Franklin Weng" creationdate="20180103T131400Z">
@@ -1658,6 +1666,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072008Z" creationid="zerng07" creationdate="20171228T072008Z">
         <seg>&lt;f0&gt;Robin Williams著，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Roman f&lt;/f0&gt;onts that &lt;f1&gt;are&lt;/f1&gt; &lt;f2&gt;light &lt;/f2&gt;gray&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145027Z" creationid="Franklin Weng" creationdate="20180105T145027Z">
+        <seg>羅馬（&lt;f0&gt;Roman&lt;/f0&gt;）字型用亮灰色時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Roman f&lt;/f0&gt;onts that a&lt;f1&gt;re&lt;/f1&gt; too black.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144954Z" creationid="Franklin Weng" creationdate="20180105T144954Z">
+        <seg>羅馬（&lt;f0&gt;Roman&lt;/f0&gt;）字型看起來太暗時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3037,6 +3061,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;line of text less than 45 characters.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144731Z" creationid="Franklin Weng" creationdate="20180105T144731Z">
+        <seg>&lt;f0&gt;一行文字少於 45 字元時。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f1&gt;page&lt;/f1&gt; style might list everything about how a page is designed, from the width of its margins to its orientation and the background color.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T145231Z" creationid="zerng07" creationdate="20170903T144903Z">
@@ -3559,6 +3591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any italic or oblique font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145052Z" creationid="Franklin Weng" creationdate="20180105T145052Z">
+        <seg>任何斜體字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125250Z" creationid="Franklin Weng" creationdate="20171212T125250Z">
@@ -3883,6 +3923,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T040138Z" creationid="Franklin Weng" creationdate="20171213T123716Z">
         <seg>一切&lt;f0&gt;規劃&lt;/f0&gt;就先從好好思考你常用的版型開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beginning typographers often wonder &lt;f0&gt;how to proportion&lt;/f0&gt; documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150036Z" creationid="Franklin Weng" creationdate="20180105T150036Z">
+        <seg>初學的排印者常常會抓不到&lt;f0&gt;如何安排文件的比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4601,6 +4649,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deciding whether to increase or decrease font spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145118Z" creationid="Franklin Weng" creationdate="20180105T145118Z">
+        <seg>決定是否要增加或減少字型間距的考慮狀況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting templates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124117Z" creationid="Franklin Weng" creationdate="20171223T124117Z">
@@ -5187,6 +5243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font sizes of less than 10 points, or more than 14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144743Z" creationid="Franklin Weng" creationdate="20180105T144743Z">
+        <seg>字型大小小於 10 點或大於 14 點時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font styles in CSS.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124631Z" creationid="Franklin Weng" creationdate="20171231T124631Z">
@@ -5335,6 +5399,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132023Z" creationid="Franklin Weng" creationdate="20180103T132023Z">
         <seg>字型通常來說並不好分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts of 10&lt;f0&gt;–&lt;/f0&gt;14 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144751Z" creationid="Franklin Weng" creationdate="20180105T144751Z">
+        <seg>字型大小介於 10-14 點時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7875,6 +7947,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most sans-serif fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145039Z" creationid="Franklin Weng" creationdate="20180105T145039Z">
+        <seg>大部份無襯線字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mostly, templates store formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160414Z" creationid="Franklin Weng" creationdate="20171212T100331Z">
@@ -8451,6 +8531,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101208Z" creationid="Franklin Weng" creationdate="20171212T100821Z">
         <seg>這些年來，我不斷聽到有使用者說，範本一點都不實用，因為他們製作的每份文件都不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Over the years, countless theories &lt;f1&gt;have evolved, many of them uncomfortably elaborate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150201Z" creationid="Franklin Weng" creationdate="20180105T150201Z">
+        <seg>許多年下來，有&lt;f1&gt;數不盡的理論發展出來，但其中有許多都太過複雜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9337,6 +9425,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143154Z" creationid="zerng07" creationdate="20171219T143154Z">
         <seg>有些編輯文件的人不知道怎麼用樣式，而且拒絕學習。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some serif fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145047Z" creationid="Franklin Weng" creationdate="20180105T145047Z">
+        <seg>某些有襯線字型。</seg>
       </tuv>
     </tu>
     <tu>
