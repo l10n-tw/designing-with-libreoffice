@@ -9528,8 +9528,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;traditional &lt;/f0&gt;dummy text &lt;f1&gt;in typography &lt;/f1&gt;is the Lorem Ipsum, &lt;f2&gt;a passage &lt;/f2&gt;so-called from its opening words.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115304Z" creationid="Franklin Weng" creationdate="20180105T115304Z">
-        <seg>在&lt;f1&gt;文字排印學&lt;/f1&gt;中，&lt;f0&gt;傳統使用的&lt;/f0&gt;虛擬文字稱為 Lorem Ipsum，是&lt;f2&gt;一篇以 "Lorem Ipsum" 開頭，但內文沒有什麼意義的文章&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115316Z" creationid="Franklin Weng" creationdate="20180105T115304Z">
+        <seg>在&lt;f1&gt;文字排印學&lt;/f1&gt;中，&lt;f0&gt;傳統使用的&lt;/f0&gt;虛擬文字稱為 Lorem Ipsum，是&lt;f2&gt;一篇以 "Lorem Ipsum" 兩個字開頭，但內文沒有什麼意義的文章&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9570,6 +9570,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141443Z" creationid="Franklin Weng" creationdate="20171223T132508Z">
         <seg>這會開啟「載入樣式」視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Lorem Ipsum is &lt;f3&gt;fractured Latin, based on &lt;/f3&gt;a passage from Cicero’s essay, “The Extremes of Good and Evil,” and can be downloaded from several sites.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115524Z" creationid="Franklin Weng" creationdate="20180105T115310Z">
+        <seg>Lorem Ipsum 是以&lt;f3&gt;片段的拉丁文所組成，&lt;/f3&gt;從喜賽羅（Cicero，106 B.C.-43 B.C，古羅馬哲學家與政治家） 的《善惡之盡》“The Extremes of Good and Evil,” and can be downloaded from several sites.</seg>
       </tuv>
     </tu>
     <tu>
