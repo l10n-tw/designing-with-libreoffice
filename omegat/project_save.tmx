@@ -2484,6 +2484,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;You may find that squinting helps you to focus on the color and to ignore the content&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133429Z" creationid="Franklin Weng" creationdate="20180105T133429Z">
+        <seg>&lt;f1&gt;你可能會發現，斜視可幫助你專注於顏色並忽略內容。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;A &lt;/f2&gt;sizable minority&lt;f3&gt; &lt;/f3&gt;have been about OpenOffice.org or LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T151759Z" creationid="zerng07" creationdate="20170822T151759Z">
@@ -3561,8 +3569,8 @@
       <tuv lang="EN">
         <seg>As you can see by opening professionally published books, you &lt;f0&gt;usually &lt;/f0&gt;want the body text to be neither too black &lt;f1&gt;n&lt;/f1&gt;or too washed out&lt;f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T132333Z" creationid="Franklin Weng" creationdate="20180105T132333Z">
-        <seg>當你打開一本公開發行的書籍時，你&lt;f0&gt;通常&lt;/f0&gt;會看到本文主體不會太暗也不會看起來像褪色一樣。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T132855Z" creationid="Franklin Weng" creationdate="20180105T132333Z">
+        <seg>當你打開一本公開發行的書籍時，你&lt;f0&gt;通常&lt;/f0&gt;會希望看到本文主體不會太暗也不會看起來像褪色一樣。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6551,6 +6559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice, line spacing is set in the&lt;f0&gt; Line Spacing&lt;/f0&gt; field on the &lt;f1&gt;Indents &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Spacing&lt;/f4&gt; tab for paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133728Z" creationid="Franklin Weng" creationdate="20180105T133728Z">
+        <seg>在 LibreOffice 中，行間距在「格式 &gt; 段落」中，「&lt;f1&gt;縮排和間距&lt;/f1&gt;」裡的「&lt;f0&gt;行距&lt;/f0&gt;」設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T092340Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
@@ -6900,6 +6916,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132819Z" creationid="Franklin Weng" creationdate="20171223T123906Z">
         <seg>通常前幾次你在使用範本時，可能會發現不少需要改進的地方，持續修正才不必往後每次都要手動再調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, you want a consistent dark gray.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T132834Z" creationid="Franklin Weng" creationdate="20180105T132834Z">
+        <seg>相對的，你會比較想要一種一致的深灰色。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7334,6 +7358,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132701Z" creationid="Franklin Weng" creationdate="20171213T132701Z">
         <seg>就跟樣式名稱一樣，範本名稱也最好清楚描述使用目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line spacing is defined as the &lt;f0&gt;measurement from one baseline (the imaginary line that the bottom of a letter like “n” or “m” sits on) to the next &lt;/f0&gt;one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134527Z" creationid="Franklin Weng" creationdate="20180105T134527Z">
+        <seg>行間距的定義為&lt;f0&gt;從一行的基線（想像對齊字母“n”或“m”下方的線條）到另一行基線的距離&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8179,6 +8211,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, you can ignore the color of headings and concentrate on the body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133046Z" creationid="Franklin Weng" creationdate="20180105T133046Z">
+        <seg>不然，你可以忽略標題的色彩，專注在本文上。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>3960: 工具 &gt; 選項 &gt; 路徑 下沒有系統路徑這一條。即使 4.0 版也沒有。</note>
       <tuv lang="EN">
         <seg>Otherwise, you can install fonts only for LibreOffice by placing their files in the /share/fonts folder in the system path listed at &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Options &gt; Path&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and restarting LibreOffice.</seg>
@@ -8395,6 +8435,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164739Z" creationid="zerng07" creationdate="20171226T140117Z">
         <seg>按下&lt;f0&gt;Ctrl+1 ... &lt;/f0&gt;到&lt;f1&gt;&lt;f2&gt;Ctrl+&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;10&lt;/f3&gt; 可以套用&lt;f4&gt;標題 1 到標題 10&lt;/f4&gt;的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Print a page to get another perspective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133349Z" creationid="Franklin Weng" creationdate="20180105T133349Z">
+        <seg>把頁面印出來，可以讓你從另一個角度去觀察。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8809,6 +8857,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033138Z" creationid="Franklin Weng" creationdate="20171223T033138Z">
         <seg>設定新的預設範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting color through line spacing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133459Z" creationid="Franklin Weng" creationdate="20180105T133459Z">
+        <seg>透過設定行間距設定色彩</seg>
       </tuv>
     </tu>
     <tu>
@@ -9846,6 +9902,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The color of headings &lt;f0&gt;is &lt;/f0&gt;usually d&lt;f1&gt;arker than the body text, so it stands out when you are browsing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133058Z" creationid="Franklin Weng" creationdate="20180105T133018Z">
+        <seg>標題的色彩通常&lt;f1&gt;會比本體深，因此在你瀏覽時就會看起來比較明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cross-reference only displays correctly from the master document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
@@ -10261,6 +10325,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T135239Z" creationid="zerng07" creationdate="20171224T134747Z">
         <seg>側邊欄會一直維持在停駐位置上，即便你退出Libre&lt;f0&gt;O&lt;/f0&gt;ffice並重新啟動都是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The single most important influence on color is line-spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133517Z" creationid="Franklin Weng" creationdate="20180105T133517Z">
+        <seg>影響色彩最重要的單一因素就是行間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11358,6 +11430,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115123Z" creationid="zerng07" creationdate="20171226T115105Z">
         <seg>當&lt;f0&gt;填充模式&lt;/f0&gt;可以使用時，游標會變成傾倒油漆桶的樣貌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;looking at&lt;/f0&gt; color, set the zoom to 100%.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133141Z" creationid="Franklin Weng" creationdate="20180105T133141Z">
+        <seg>在&lt;f0&gt;看&lt;/f0&gt;色彩時，把遠近係數設到 100%。</seg>
       </tuv>
     </tu>
     <tu>
