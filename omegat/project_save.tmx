@@ -744,6 +744,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;ontexts for changing color</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140723Z" creationid="Franklin Weng" creationdate="20180105T140723Z">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;ontexts for changing color</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Check for it</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;urrently, &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice does not support embedding fonts.</seg>
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T164336Z" creationid="zerng07" creationdate="20170817T154546Z">
         <seg>&lt;f0&gt;它的&lt;/f0&gt;Writer文書處理器&lt;f1&gt;特別&lt;/f1&gt;根據樣式的概念架構而成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;L&lt;/f0&gt;ibreOffice sets a &lt;f1&gt;default&lt;/f1&gt; line spacing based on the font size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135634Z" creationid="Franklin Weng" creationdate="20180105T135634Z">
+        <seg>LibreOffice &lt;f1&gt;預設&lt;/f1&gt;的行間距是依字型大小而設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2089,6 +2105,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;While you might not think such a small measurement would make a difference, it often can.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140012Z" creationid="Franklin Weng" creationdate="20180105T140012Z">
+        <seg>&lt;f0&gt;你可能不覺得這麼小的差異沒什麼關係，實際上是有影響的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wizards are&lt;/f0&gt; available from the &lt;f1&gt;File &gt; Wizards&lt;/f1&gt; sub-menu.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Some of the wizards give you the option of using a LibreOffice Base database or the address book of an email client for filling in fields, which is convenient for mass mail-outs.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103911Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
@@ -2588,6 +2612,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;For a 12 point font, that average is just over 14 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135701Z" creationid="Franklin Weng" creationdate="20180105T135701Z">
+        <seg>&lt;f2&gt;以 12 點的字型大小，通常平均的行間距大約比 14 點多一點點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;For instance, a modern geometric font may seem futuristic, and therefore more appropriate for science fiction.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072643Z" creationid="Franklin Weng" creationdate="20171224T072643Z">
@@ -2921,6 +2953,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T134322Z" creationid="Franklin Weng" creationdate="20171223T134322Z">
         <seg>&lt;t0&gt;28&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;34&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140811Z" creationid="Franklin Weng" creationdate="20180105T140811Z">
+        <seg>&lt;t0&gt;34&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4004,6 +4044,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171919Z" creationid="zerng07" creationdate="20171225T171919Z">
         <seg>相反的，「&lt;f5&gt;內文&lt;/f5&gt;」的&lt;f6&gt;下一個樣式&lt;/f6&gt;通常還是「&lt;f7&gt;內文&lt;/f7&gt;」， 因為文字幾乎都是好幾個段落排在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, Apache OpenOffice still allows settings of 1/10 points.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140032Z" creationid="Franklin Weng" creationdate="20180105T140032Z">
+        <seg>相反的，Apache OpenOffice 仍然允許設到 1/10 點。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,8 +5285,16 @@
       <tuv lang="EN">
         <seg>Fonts, &lt;f0&gt;color,&lt;/f0&gt; &lt;f1&gt;and&lt;/f1&gt; the magic number</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144119Z" creationid="Franklin Weng" creationdate="20171224T064604Z">
-        <seg>字型、&lt;f0&gt;顏色與&lt;/f0&gt;魔術數字</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140802Z" creationid="Franklin Weng" creationdate="20171224T064604Z">
+        <seg>字型、&lt;f0&gt;色彩與&lt;/f0&gt;魔術數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fonts, color, and the magic number</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140811Z" creationid="Franklin Weng" creationdate="20180105T140811Z">
+        <seg>字型、色彩與魔術數字</seg>
       </tuv>
     </tu>
     <tu>
@@ -5715,6 +5771,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, LibreOffice uses “fixed” to refer to leading, and “leading” to refer to space &lt;f0&gt;in addition to&lt;/f0&gt; the font size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140701Z" creationid="Franklin Weng" creationdate="20180105T140319Z">
+        <seg>不過，LibreOffice 用「固定」來處理行距，而“leading”則是指字型大小之外&lt;f0&gt;再加上去&lt;/f0&gt;的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, a conventional &lt;f0&gt;&lt;f1&gt;S&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ave&lt;/f2&gt; does not register and activate the new template for &lt;f3&gt;use on your system&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105514Z" creationid="Franklin Weng" creationdate="20171218T125442Z">
@@ -5759,6 +5823,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193137Z" creationid="zerng07" creationdate="20170817T171437Z">
         <seg>不過，請注意有些擴充套件可能沒有持續更新，以致&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;無法在最新版本中運作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, because each font uses the space for characters differently, the default line spacing is not always ideal.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135827Z" creationid="Franklin Weng" creationdate="20180105T135827Z">
+        <seg>不過，因為每個字型的字元空間都不一樣，因此預設的行間距並不見得是最理想的。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5928,6 +6000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132150Z" creationid="Franklin Weng" creationdate="20180103T132150Z">
         <seg>不過，還是有一些歷史的走向可以觀察，&lt;f0&gt;雖然專家不見得都同意某些特徵屬於什麼潮流走向，或是哪種字型屬於哪種流派。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, starting with the 4.2 release, you can only set line spacing to the nearest point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135939Z" creationid="Franklin Weng" creationdate="20180105T135939Z">
+        <seg>不過從 4.2 系列開始，你只能將行間距設為最接近的整數點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,6 +7430,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112900Z" creationid="Franklin Weng" creationdate="20171223T043042Z">
         <seg>如果你移除自己的替代範本，則LibreOffice會改回自己的原始&lt;f1&gt;預設&lt;/f1&gt;範本（即預設的「預設」範本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice used to allow you to set line spacing to one-tenth of a point (1/720th of an inch).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140041Z" creationid="Franklin Weng" creationdate="20180105T135918Z">
+        <seg>LibreOffice 以前允許行間距設到 1/10 點（1/720 英吋）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9550,6 +9638,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That magic number can be the key to much of the rest of your design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140129Z" creationid="Franklin Weng" creationdate="20180105T140129Z">
+        <seg>這個魔術數字會是你設計很重要的關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means, &lt;f2&gt;for example,&lt;/f2&gt; that the pre-defined &lt;f3&gt;Object with Shadow &lt;/f3&gt;style &lt;f4&gt;can format &lt;/f4&gt;both a rectangle and &lt;f5&gt;shapes that are identical except for dimensions.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081112Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
@@ -9958,6 +10054,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The color is adjusted &lt;f1&gt;mainly&lt;/f1&gt; by setting the &lt;f2&gt;Line Spacing&lt;/f2&gt; field to a fixed distance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135608Z" creationid="Franklin Weng" creationdate="20180105T135608Z">
+        <seg>色彩&lt;f1&gt;主要&lt;/f1&gt;透過把「&lt;f2&gt;行距&lt;/f2&gt;」設定為固定值來調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The color of headings &lt;f0&gt;is &lt;/f0&gt;usually d&lt;f1&gt;arker than the body text, so it stands out when you are browsing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133058Z" creationid="Franklin Weng" creationdate="20180105T133018Z">
@@ -10276,6 +10380,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111308Z" creationid="Franklin Weng" creationdate="20171223T032740Z">
         <seg>現在你就可以使用新儲存的範本了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next chapter continues where this one leaves off, going into more detail about character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140837Z" creationid="Franklin Weng" creationdate="20180105T140837Z">
+        <seg>The next chapter continues where this one leaves off, going into more detail about character and paragraph styles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11162,6 +11274,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typography calls line-spacing “leading,” because of the pieces of metal that were once inserted between lines of text &lt;f0&gt;on a printing press.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140539Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
+        <seg>文字排印學中行距的英文是“leading”，源自於排版印刷時放在印刷機裡，行跟行中間的金屬塊（鉛塊，lead 也有「鉛」的意思）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Understanding their behaviors is essential for working with all styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104135Z" creationid="zerng07" creationdate="20171225T104135Z">
@@ -11664,6 +11784,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083417Z" creationid="Jeff Huang" creationdate="20171214T061504Z">
         <seg>當你在兩份子文件之間有交叉參照時，目標子文件中的錯誤訊息可能會比主控文件中的交叉參照還長。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have found the line spacing that gives the best color, make a note of it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140109Z" creationid="Franklin Weng" creationdate="20180105T140109Z">
+        <seg>當你覺得行間距的設定所呈現的色彩感覺是最好的，就把它記下來。</seg>
       </tuv>
     </tu>
     <tu>
