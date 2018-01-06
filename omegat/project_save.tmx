@@ -320,6 +320,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;All measurements are in points&lt;f2&gt; and can be used for setting other sizes and spacing&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023349Z" creationid="Franklin Weng" creationdate="20180106T023349Z">
+        <seg>所有的紀錄都以點為單位，&lt;f2&gt;可以用來紀錄其他大小與間距的設定。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;Consider alternatives, such as &lt;f2&gt;tables, especially when the design is frequently changing.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080442Z" creationid="Jeff Huang" creationdate="20180104T080442Z">
@@ -661,6 +669,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112406Z" creationid="Franklin Weng" creationdate="20171213T123054Z">
         <seg>&lt;f0&gt;如上所顯示，你可以用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 之類的類別，來分別代表這些範本使用美式英文和加拿大式英文的拼字檢查字典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;As you design, you may want to keep a calculator handy, or else jot down a palette – a list of the multiples or half-multiples that you will be using.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023408Z" creationid="Franklin Weng" creationdate="20180106T023230Z">
+        <seg>&lt;f0&gt;當你在設計時，可能在手邊放個計算機，或是紀錄板，記下你會使用到的行間距或半行間距的數字。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T174544Z" creationid="zerng07" creationdate="20170818T033201Z">
         <seg>人們大多對文字排印學 (Typography) 一直有怪異的想法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Page c&lt;/f0&gt;olor &lt;f1&gt;can be affected by many variables, including the designer’s eye, the paper, and the toner left in the printer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023713Z" creationid="Franklin Weng" creationdate="20180106T023713Z">
+        <seg>&lt;f0&gt;頁面&lt;/f0&gt;色彩&lt;f1&gt;會受到許多變因的影響，包括設計者的眼睛、紙張、還有印表機內剩下的碳粉量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3153,6 +3177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144731Z" creationid="Franklin Weng" creationdate="20180105T144731Z">
         <seg>&lt;f0&gt;一行文字少於 45 字元時。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;line-spacing&lt;/f0&gt; palette for &lt;f1&gt;typical body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023359Z" creationid="Franklin Weng" creationdate="20180106T023308Z">
+        <seg>&lt;f1&gt;典型本文&lt;/f1&gt;的&lt;f0&gt;行間距&lt;/f0&gt;紀錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5211,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: &lt;f0&gt;Solving the magic numbers&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023611Z" creationid="Franklin Weng" creationdate="20180106T023611Z">
+        <seg>範例：&lt;f0&gt;找出魔術數字&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: &lt;f0&gt;Using &lt;/f0&gt;placeholders &lt;f1&gt;&amp;&lt;/f1&gt; fields</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125029Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
@@ -5399,6 +5439,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102138Z" creationid="Franklin Weng" creationdate="20171225T102138Z">
         <seg>字型：Cinzel，基於 Roman 款式的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Cinzel.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023414Z" creationid="Franklin Weng" creationdate="20180106T023414Z">
+        <seg>字型：Cinzel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9655,6 +9703,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, it can be subjective, particularly if your eyesight is imperfect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T024342Z" creationid="Franklin Weng" creationdate="20180106T024342Z">
+        <seg>這有時會很主觀，特別是你的眼光不是很精確完美時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes, these ideas may be excuses to rationalize not using styles, but often they are misunderstandings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T140424Z" creationid="zerng07" creationdate="20171212T140424Z">
@@ -11852,6 +11908,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the magic number is painstaking – but it is precise and unambiguous.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023516Z" creationid="Franklin Weng" creationdate="20180106T023516Z">
+        <seg>使用魔術數字是有點辛苦 – 但是它會相當精確，不會有模糊的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variants may have names like Black, &lt;f0&gt;Semi-bold, &lt;/f0&gt;Demi-bold, &lt;f1&gt;Extra, &lt;/f1&gt;or Heavy, &lt;f2&gt;sometimes &lt;/f2&gt;each with a different thickness of line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145817Z" creationid="Franklin Weng" creationdate="20171225T133106Z">
@@ -12701,6 +12765,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133056Z" creationid="Franklin Weng" creationdate="20171223T133056Z">
         <seg>不會有任何確認視窗，通常只要幾秒中就可以匯入完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should have no trouble detecting a document designed with the magic number, because of its unified appearance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023557Z" creationid="Franklin Weng" creationdate="20180106T023557Z">
+        <seg>你在偵測文件設計的魔術數字時應該不會有什麼問題，因為它的外觀是一致的。</seg>
       </tuv>
     </tu>
     <tu>
