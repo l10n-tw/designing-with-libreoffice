@@ -3727,6 +3727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An unexpected journey</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044511Z" creationid="Franklin Weng" creationdate="20180106T044511Z">
+        <seg>未知的旅程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another &lt;f0&gt;point&lt;/f0&gt; to be aware of: &lt;f1&gt;Drawing &lt;/f1&gt;styles are for formatting only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075632Z" creationid="Jeff Huang" creationdate="20171220T075632Z">
@@ -4156,6 +4164,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042123Z" creationid="Franklin Weng" creationdate="20180106T042123Z">
         <seg>下方為 E.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below: Raleway Regular, 12./14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044209Z" creationid="Franklin Weng" creationdate="20180106T044209Z">
+        <seg>下方為 Raleway Regular, 12/14。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5552,6 +5568,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043057Z" creationid="Franklin Weng" creationdate="20180106T043057Z">
         <seg>字型：上方為 Heuristica 12/14。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Above, Raleway Thin 12/14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044152Z" creationid="Franklin Weng" creationdate="20180106T044152Z">
+        <seg>字型：上方為 Above, Raleway Thin 12/14。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8017,6 +8041,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105753Z" creationid="Franklin Weng" creationdate="20171231T134628Z">
         <seg>LibreOffice &lt;f0&gt;預先定義的標題段落樣式的大小是以「標題」樣式大小的百分比來表示的。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice’s defaults may not be what you need, so experiment &lt;f1&gt;as widely as possible as you search for the best possible page color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044318Z" creationid="Franklin Weng" creationdate="20180106T044318Z">
+        <seg>LibreOffice 的預設值可能不是你要的，所以&lt;f1&gt;多做實驗，盡可能找出最好的頁面色彩的組合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10947,6 +10979,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The lesson &lt;f0&gt;in these examples&lt;/f0&gt;?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044229Z" creationid="Franklin Weng" creationdate="20180106T044229Z">
+        <seg>&lt;f0&gt;從這些範例&lt;/f0&gt;我們學到什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license allows them to do so, but if you pay more than about ten dollars for shipping and handling, they are taking advantage of you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061622Z" creationid="zerng07" creationdate="20170817T181658Z">
@@ -11037,8 +11077,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The next chapter continues where this one leaves off, going into more detail about character and paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140837Z" creationid="Franklin Weng" creationdate="20180105T140837Z">
-        <seg>The next chapter continues where this one leaves off, going into more detail about character and paragraph styles.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044613Z" creationid="Franklin Weng" creationdate="20180105T140837Z">
+        <seg>下一章我們會繼續這一部份，詳細介紹字元與段落的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11485,6 +11525,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter started with selecting fonts, but it ends well into character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044533Z" creationid="Franklin Weng" creationdate="20180106T044533Z">
+        <seg>這一章我們從選擇字型開始，然後以字元與段落樣式結束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This check is especially important for cross-references, which may have been repositioned as you edited.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083948Z" creationid="Jeff Huang" creationdate="20171214T063149Z">
@@ -11801,6 +11849,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T132629Z" creationid="Franklin Weng" creationdate="20180105T132629Z">
         <seg>色彩太暗會讓人覺得不安，色彩太亮則不易閱讀，看起來會像印刷的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>修改請求</note>
+      <tuv lang="EN">
+        <seg>Too much depends on it for you settle for anything less.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044506Z" creationid="Franklin Weng" creationdate="20180106T044506Z">
+        <seg>太過於倚賴它你就只能退而求其次了。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
