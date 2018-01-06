@@ -2426,6 +2426,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;(Perhaps it is meant to add a shadow?)&lt;/f1&gt; Changing the font size or the space between char&lt;f2&gt;a&lt;/f2&gt;cters worked slightly, but not enough.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043342Z" creationid="Franklin Weng" creationdate="20180106T043342Z">
+        <seg>&lt;f1&gt;（可能是為了增加陰影？）&lt;/f1&gt;改變字型大小或字元間距有稍微好一點點，但是還不夠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;And the next, and the next.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041351Z" creationid="zerng07" creationdate="20170824T173811Z">
@@ -3695,6 +3703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example is Colecanth:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042419Z" creationid="Franklin Weng" creationdate="20180106T042419Z">
+        <seg>這裡有一個範例，Colecanth：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exception is the Liberation fonts, which are designed as replacements for Times Roman, Helvetica, and Courier, rather than for compatibility with each other.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131123Z" creationid="Franklin Weng" creationdate="20180103T131123Z">
@@ -4000,6 +4016,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At other times, if all else fails, try a different font style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043208Z" creationid="Franklin Weng" creationdate="20180106T043208Z">
+        <seg>其他的時候，如果所有嘗試都失敗，那就試著換一個不同的字型樣式看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At this point, you should see very few problems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084245Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
@@ -4116,6 +4140,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150036Z" creationid="Franklin Weng" creationdate="20180105T150036Z">
         <seg>初學的排印者常常會抓不到&lt;f0&gt;如何安排文件的比例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below, Heuristica 12/16, with .8pts of extra spacing between characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043136Z" creationid="Franklin Weng" creationdate="20180106T043136Z">
+        <seg>下方為 Heuristica 12/16，每個字元間的間距多出 0.8 點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5236,6 +5268,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even then, the font was darker than ideal, but much more increased space between letters would have destroyed the look of the font completely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043010Z" creationid="Franklin Weng" creationdate="20180106T043010Z">
+        <seg>即使這樣，字型還是比理想中暗了一點，但字母間距的增加就把整個字型的外觀都給毀了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even today, text on a screen is lower resolution than professional printing, and may be processed differently by the brain than words on a page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121327Z" creationid="Franklin Weng" creationdate="20180103T121327Z">
@@ -5508,6 +5548,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Above, Heuristica 12/14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043057Z" creationid="Franklin Weng" creationdate="20180106T043057Z">
+        <seg>字型：上方為 Heuristica 12/14。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Baskervald ADF, a free-licensed version of Hugo Baskerville’s classic transitional font Baskerville.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135144Z" creationid="Franklin Weng" creationdate="20180103T135144Z">
@@ -5568,6 +5616,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135246Z" creationid="Franklin Weng" creationdate="20171225T135246Z">
         <seg>字型：Goudy Bookletter 1911。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font: Humanist (Co&lt;f0&gt;e&lt;/f0&gt;l&lt;f1&gt;a&lt;/f1&gt;canth), 12/14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042437Z" creationid="Franklin Weng" creationdate="20180106T042437Z">
+        <seg>字型：Humanist （Co&lt;f0&gt;e&lt;/f0&gt;l&lt;f1&gt;a&lt;/f1&gt;canth）, 12/14。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5784,6 +5840,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162101Z" creationid="zerng07" creationdate="20171227T161926Z">
         <seg>舉例，一個清單樣式可能有個和它相關聯的字元樣式，讓它有彩色的項目符號或編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, after wrestling Heuristica to a setting of 12/16, I found it still too dark, so I set the Spacing to add .8 of a point more between characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043143Z" creationid="Franklin Weng" creationdate="20180106T042927Z">
+        <seg>例如，把 Heuristica 設定為 12/16 之後，我發現它還是太暗，所以我把字元間距增加了 0.8 個點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7007,6 +7071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you really want to use a font with a dark color, try changing the width of characters from &lt;f0&gt;Position &gt; Scaling,&lt;/f0&gt; or the spacing between fonts from &lt;f1&gt;Position &gt; Spacing.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042814Z" creationid="Franklin Weng" creationdate="20180106T042814Z">
+        <seg>如果你真的要用暗色系的字型，試著用&lt;f0&gt;「位置」分頁內的「縮放寬度」&lt;/f0&gt;來改變字元的寬度，或是&lt;f1&gt;「間距」&lt;/f1&gt;來改變字元的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you study &lt;f0&gt;different font samples&lt;/f0&gt;, you &lt;f1&gt;will&lt;/f1&gt; see how these elements differ between &lt;f2&gt;fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T132338Z" creationid="Franklin Weng" creationdate="20180101T132338Z">
@@ -7364,6 +7436,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121155Z" creationid="Franklin Weng" creationdate="20180101T121155Z">
         <seg>特別是，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;效果&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;欄位包含了一些給&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;，也就是前面提到，讓兩個以上的大寫字母放在一起讀起來比較容易的字型的效果。&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the end, I concluded that I was using Raleway Thin for a purpose that it was simply not intended for, and switched to Raleway’s Regular weight instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044140Z" creationid="Franklin Weng" creationdate="20180106T044140Z">
+        <seg>最後，我的結論是 Raleway Thin 並不適用於我想呈現的目的，所以我改用 Raleway Regular。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,6 +8462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not every modern Humanist Serif is as dark as its inspirations, but many are.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042407Z" creationid="Franklin Weng" creationdate="20180106T042407Z">
+        <seg>不是每個現代的人文主義字型都跟最初設計概念的一樣暗，但大部份都是。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not everything &lt;f1&gt;Writer &lt;/f1&gt;flags &lt;f2&gt;is mis-spelled&lt;/f2&gt;, and the grammar check is far from complete.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T080314Z" creationid="Jeff Huang" creationdate="20171213T030751Z">
@@ -9106,6 +9194,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Raleway Thin, to take one example, &lt;f0&gt;is&lt;/f0&gt; too pale for body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043256Z" creationid="Franklin Weng" creationdate="20180106T043256Z">
+        <seg>舉例來說，Raleway Thin 用於本文主體&lt;f0&gt;會&lt;/f0&gt;顯得太灰白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re-at&lt;f0&gt;t&lt;/f0&gt;aching styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151458Z" creationid="Franklin Weng" creationdate="20171212T121339Z">
@@ -9588,6 +9684,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T130823Z" creationid="Franklin Weng" creationdate="20180103T130823Z">
         <seg>使用同一個字族的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you encounter a modern font that remains very dark despite&lt;f0&gt; all adjustments,&lt;/f0&gt; that is probably a sign that it Is designed for headings or as a display font, and should not be used for body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042614Z" creationid="Franklin Weng" creationdate="20180106T042614Z">
+        <seg>當你遇到一個現代字型，不管怎麼調整都還是很暗，那可能表示它本來就設計用在標題或是螢幕顯示用，而不應該用在本文主體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11825,6 +11929,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140539Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
         <seg>文字排印學中行距的英文是“leading”，源自於排版印刷時放在印刷機裡，行跟行中間的金屬塊（鉛塊，lead 也有「鉛」的意思）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under the circumstances, this final modification was the best I could manage, and is still darker than ideal:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043047Z" creationid="Franklin Weng" creationdate="20180106T043047Z">
+        <seg>在這個狀況下，我所能做的最好改變如下，雖然還是比期望中有一些暗：</seg>
       </tuv>
     </tu>
     <tu>
