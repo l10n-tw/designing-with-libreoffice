@@ -1953,6 +1953,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sometimes, a summary slide show makes sense – for example, if the presentation is meant to run unattended as a continuous loop at a trade show.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134850Z" creationid="Franklin Weng" creationdate="20180106T134850Z">
+        <seg>&lt;f0&gt;當然，有的時候摘要式的投影片是 OK 的 – 例如，這個展示是要在展覽中自動循環播放的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes&lt;/f0&gt;, however, you may want to deal with templates &lt;f1&gt;from outside LibreOffice&lt;/f1&gt;, either because LibreOffice is not open or because you are dealing with &lt;f2&gt;more than one template at a time&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142445Z" creationid="Franklin Weng" creationdate="20171223T133349Z">
@@ -7488,6 +7496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In many cases, presenters&lt;/f2&gt; could have sent their slides and stayed at home for all that their physical presence adds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134445Z" creationid="Franklin Weng" creationdate="20180106T134445Z">
+        <seg>像這類的演講，演講者其實&lt;/f2&gt;只要把投影片送出去播放給聽眾看就好了，其實自己可以待在家裡翹腳休息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122621Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
@@ -9928,6 +9944,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slide&lt;f0&gt;s&lt;/f0&gt; like this one &lt;f1&gt;are only effective when a presentation is running unattended.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134057Z" creationid="Franklin Weng" creationdate="20180106T134057Z">
+        <seg>像這種投影片，&lt;f1&gt;只有在沒有聽眾的演講上有用。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Small Capitals (Small Caps): Specially designed upper case letters &lt;f0&gt;intended to&lt;/f0&gt; make more than two capitals in a row more readable.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050013Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
@@ -11405,6 +11429,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Their talks follow from bullet to bullet in the most &lt;/f1&gt;unimaginative&lt;f2&gt; way possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134307Z" creationid="Franklin Weng" creationdate="20180106T134307Z">
+        <seg>這些人的演講中，總是一個又一個的重點，以最&lt;/f1&gt;缺乏想像力&lt;f2&gt;的方式展現出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then assign one graphic style per element.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082931Z" creationid="Jeff Huang" creationdate="20171220T082931Z">
@@ -11689,6 +11721,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102801Z" creationid="Franklin Weng" creationdate="20171212T101103Z">
         <seg>這樣做的目的在&lt;f2&gt;避免&lt;/f2&gt;&lt;f3&gt;過度編輯&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;預設&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;範本&lt;/f6&gt;而造成範本損毀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This one-way flow of information &lt;f0&gt;tempts&lt;/f0&gt; many speakers to believe that a presentation &lt;f1&gt;should be a complete summary of their ideas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134211Z" creationid="Franklin Weng" creationdate="20180106T134211Z">
+        <seg>單向的資訊流通讓許多演講者相信，演講&lt;f1&gt;就是要把自己的想法完整摘要出來講給聽眾聽。</seg>
       </tuv>
     </tu>
     <tu>
