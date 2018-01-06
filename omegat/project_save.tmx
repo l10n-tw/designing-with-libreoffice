@@ -1067,6 +1067,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Font: Josefin Slab&lt;/f0&gt;, 12/14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041428Z" creationid="Franklin Weng" creationdate="20180106T041428Z">
+        <seg>&lt;f0&gt;字型：Josefin Slab&lt;/f0&gt;, 12/14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Font: Nobile.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063513Z" creationid="Franklin Weng" creationdate="20171228T063513Z">
@@ -1270,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;ncre&lt;f1&gt;ase&lt;/f1&gt; the font size and line-spacing a bit at a time, and work with different combinations &lt;f2&gt;systematically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041157Z" creationid="Franklin Weng" creationdate="20180106T041157Z">
+        <seg>字型大小與間距一次只增加一點點就好，然後用不同的組合去做&lt;f2&gt;有系統的測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Identifying&lt;/f0&gt; a template</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152148Z" creationid="Franklin Weng" creationdate="20171212T125026Z">
@@ -1378,6 +1394,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T120942Z" creationid="Franklin Weng" creationdate="20180101T120942Z">
         <seg>&lt;f0&gt;在大部份情況下，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型色彩&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;效果&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位都很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In my experience, 20&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;35% of fonts need no adjustments.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041400Z" creationid="Franklin Weng" creationdate="20180106T041400Z">
+        <seg>&lt;f0&gt;在我的經驗中，大約 20&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;35% 的字型不需要做調整。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1871,6 +1895,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>修改請求</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Since that is the way they are meant to be seen, trying to lighten them would fail to do them justice.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042335Z" creationid="Franklin Weng" creationdate="20180106T042335Z">
+        <seg>&lt;f0&gt;既然當時設計有其用意，試圖把它們弄亮一點對它們來說並不公平。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Small capitals are not only smaller than regular capitals, but also proportioned differently.</seg>
       </tuv>
@@ -1988,6 +2021,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080204Z" creationid="Jeff Huang" creationdate="20180104T080204Z">
         <seg>&lt;f0&gt;表格&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;That is just as well, because a couple of extra points between each line can add dozens of pages to a book and increase its production cost.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041626Z" creationid="Franklin Weng" creationdate="20180106T041626Z">
+        <seg>&lt;f0&gt;這也是一樣，在每一行中間多一些多餘的空間，可能會讓整本書的頁數增加許多，進而增加它的量產成本。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2397,6 +2438,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063606Z" creationid="Franklin Weng" creationdate="20171228T063606Z">
         <seg>&lt;f1&gt;下方：一般的大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Choosing the page &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;color is always highly contextual, and small changes in formatting can sometimes have large effects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041047Z" creationid="Franklin Weng" creationdate="20180106T041047Z">
+        <seg>&lt;f1&gt;選擇頁面&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;色彩一直都是跟整體情境息息相關，小小的變動可能就會造成巨大的影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +3639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always experiment systematically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041102Z" creationid="Franklin Weng" creationdate="20180106T041102Z">
+        <seg>實驗時要系統性地進行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always experiment thoroughly before selecting a font.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T131942Z" creationid="Franklin Weng" creationdate="20171231T131942Z">
@@ -4063,6 +4120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below: E.B.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042123Z" creationid="Franklin Weng" creationdate="20180106T042123Z">
+        <seg>下方為 E.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Besides copying, the &lt;f0&gt;Duplicate&lt;/f0&gt; window can enlarge and color copies, and offset them, &lt;f1&gt;so you can make a copy as you need it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T075836Z" creationid="Jeff Huang" creationdate="20171221T075836Z">
@@ -4496,6 +4561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the line spacing to 12/16 improves the layout:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042102Z" creationid="Franklin Weng" creationdate="20180106T042102Z">
+        <seg>把它調整為 12/16 （行間距改為 16）就會看起來比較好：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175550Z" creationid="zerng07" creationdate="20171223T175550Z">
@@ -4894,6 +4967,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T102052Z" creationid="Franklin Weng" creationdate="20171225T102052Z">
         <seg>Display：不常用的字型，通常只用在標題，或小冊子、廣告當中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not assume that because a color worked once, it will work equally well under other &lt;f0&gt;circumstance&lt;/f0&gt;s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T040956Z" creationid="Franklin Weng" creationdate="20180106T040956Z">
+        <seg>不要假設一種色彩調好之後，在&lt;f0&gt;其他條件&lt;/f0&gt;下它也一樣沒問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5419,6 +5500,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Above, E.B Garamond, 12/14.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042116Z" creationid="Franklin Weng" creationdate="20180106T042116Z">
+        <seg>字型：上方為 E.B Garamond, 12/14。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Baskervald ADF, a free-licensed version of Hugo Baskerville’s classic transitional font Baskerville.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T135144Z" creationid="Franklin Weng" creationdate="20180103T135144Z">
@@ -5667,6 +5756,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;at the default 12/14, E. B. Garamond’s color is acceptable, but the height of the upper cases letters is unusually high, and makes the lines a little pinched.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042037Z" creationid="Franklin Weng" creationdate="20180106T042037Z">
+        <seg>例如，&lt;f0&gt;預設的 12/14，E. B. Garamond 字型的色彩是可接受的，但是大寫字母的高度太高，行跟行之間看起來就有點擠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;here is Josefin Slab without modifications:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041419Z" creationid="Franklin Weng" creationdate="20180106T041419Z">
+        <seg>例如，&lt;f0&gt;這裡的 Josefin Slab 字型就不需要做變動：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;page numbers will be more noticeable if placed by the outer margin of each page.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090640Z" creationid="Jeff Huang" creationdate="20171212T035607Z">
@@ -5887,6 +5992,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141434Z" creationid="Franklin Weng" creationdate="20171223T132459Z">
         <seg>在圖示列的最右邊有一個下拉式選單，拉下來後&lt;f0&gt;選擇&lt;/f0&gt;「&lt;f1&gt;載入樣式&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Garamond, 12/16.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042127Z" creationid="Franklin Weng" creationdate="20180106T042127Z">
+        <seg>Garamond, 12/16。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6284,6 +6397,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, other fonts r&lt;f0&gt;e&lt;/f0&gt;quire testing, changing the font size and line-spacing one at a time, and trying out different combinations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041651Z" creationid="Franklin Weng" creationdate="20180106T041651Z">
+        <seg>不過，其他的字型需要測試。一次變更一個字型跟行間距，然後多試一些組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, remember to register your changes by saving with &lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Save &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;A&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;s Template.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133129Z" creationid="Franklin Weng" creationdate="20171223T124113Z">
@@ -6476,6 +6597,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Humanist fonts designed in the Renaissance were often designed to be very black by modern standards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042202Z" creationid="Franklin Weng" creationdate="20180106T042202Z">
+        <seg>文藝復興時期所設計的人文主義字型，以現代標準來說看起來都很黑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Humanist serifs &lt;f0&gt;were originally&lt;/f0&gt; &lt;f1&gt;fonts designed during the Renaissance, mostly by Italian designers – which is why a standard font is called Roman and a cursive font Italic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132947Z" creationid="Franklin Weng" creationdate="20180103T132947Z">
@@ -6634,6 +6763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T082806Z" creationid="Franklin Weng" creationdate="20171213T132557Z">
         <seg>如果你跟大多數人一樣，&lt;f0&gt;可能會&lt;/f0&gt;得出需要常用到&lt;f1&gt;至少三到四種&lt;/f1&gt;不同的範本。如果你不是從下載得到這些範本，那麼最好依照使用需求逐步打造範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are lucky, LibreOffice’s default settings of 12/14 (font size = 12 points, line-spacing = 14 points) may require no tweaking.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041327Z" creationid="Franklin Weng" creationdate="20180106T041244Z">
+        <seg>如果你夠幸運，LibreOffice 的預設設定（字型 12 點，間距 14 點）應該不太需要調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7155,6 +7292,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134349Z" creationid="Franklin Weng" creationdate="20171231T134349Z">
         <seg>說不一致是說輕了一點，實際上差別可能相當的大。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, the variables are so numerous that, each time you use a font, you need to ask yourself if the circumstances are different enough that you need to re-test the color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T040921Z" creationid="Franklin Weng" creationdate="20180106T040921Z">
+        <seg>實際上，因為變數實在太多，每次你用一個字型時，你就要問問自己，在這個狀況下是否會需要重新測試整體色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7872,6 +8017,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120742Z" creationid="Franklin Weng" creationdate="20180105T120742Z">
         <seg>同時也要看看填在頁面或欄的本文主體的文字，不要有太多斷字與連字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Making large changes will only waste time by forcing you to backtrack.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041248Z" creationid="Franklin Weng" creationdate="20180106T041240Z">
+        <seg>一次做太大的變動，在要回溯時會很浪費時間。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10628,6 +10781,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134424Z" creationid="Franklin Weng" creationdate="20171231T134424Z">
         <seg>這些大寫字母的字型大小都一樣，但它的&lt;f0&gt;高度&lt;/f0&gt;則不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font size might be increased, but on the whole Josefin Slab’s default color is acceptable as is.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041453Z" creationid="Franklin Weng" creationdate="20180106T041453Z">
+        <seg>字型大小可以增加，但整個 Josefin Slab 的預設色彩是可以接受的。</seg>
       </tuv>
     </tu>
     <tu>
