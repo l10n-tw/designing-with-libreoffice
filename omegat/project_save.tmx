@@ -2131,8 +2131,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The emphasis in designing shifts w&lt;/f0&gt;ith Impress, LibreOffice’s slide show application.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T122549Z" creationid="Franklin Weng" creationdate="20180106T122549Z">
-        <seg>&lt;f0&gt;設計的重點轉移到&lt;/f0&gt; Impress，LibreOffice 裡製作與展示投影片的應用程式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T122624Z" creationid="Franklin Weng" creationdate="20180106T122549Z">
+        <seg>&lt;f0&gt;現在我們把設計的重點轉移到&lt;/f0&gt; Impress，LibreOffice 裡製作與展示投影片的應用程式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2462,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041351Z" creationid="zerng07" creationdate="20170824T173811Z">
         <seg>&lt;f1&gt;然後一個接一個。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;As in Writer, t&lt;/f1&gt;emplates remain important, but styles become relatively &lt;f2&gt;minor&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T122745Z" creationid="Franklin Weng" creationdate="20180106T122600Z">
+        <seg>&lt;f1&gt;跟在 Writer 裡一樣，&lt;/f1&gt;範本還是很重樣，但樣式的重要性就&lt;f2&gt;相對降低&lt;/f2&gt;了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7629,6 +7637,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152805Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
         <seg>它會將&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; 路徑 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」中所列出的範本目錄下所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;範本管理員&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, the &lt;f3&gt;attention turns&lt;/f3&gt; &lt;f4&gt;from formatting &lt;/f4&gt;to &lt;f5&gt;structuring content&lt;/f5&gt; – often, to the challenge of &lt;f6&gt;avoiding designing&lt;/f6&gt; a slide show that &lt;f7&gt;is all summary, so that you are constantly twisting your head away from the audience to read directly from the slides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T124220Z" creationid="Franklin Weng" creationdate="20180106T124220Z">
+        <seg>取而代之的，我們的&lt;f3&gt;注意力&lt;/f3&gt;&lt;f4&gt;要從格式設定&lt;/f4&gt;轉移到&lt;f5&gt;內容的結構化&lt;/f5&gt; – 通常，這個挑戰是要&lt;f6&gt;避免設計出&lt;/f6&gt;&lt;f7&gt;都是摘要的投影片，而你必須不斷把眼光從聽眾那轉回去直接讀投影片的內容。</seg>
       </tuv>
     </tu>
     <tu>
