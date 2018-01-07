@@ -9468,6 +9468,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Positioning &lt;f0&gt;and&lt;/f0&gt; automating text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180107T210457Z" creationid="Ｖ字龍" creationdate="20180107T210457Z">
+        <seg>調整文字位置&lt;f0&gt;與&lt;/f0&gt;自動化文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Positioning &lt;f0&gt;objects&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T072557Z" creationid="Jeff Huang" creationdate="20171213T023518Z">
@@ -10608,6 +10616,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105411Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
         <seg>說明與備註的文字通常會小到只有 8 點，而標題與題名等則很少大於 28 點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>無意義標記，無視</note>
+      <tuv lang="EN">
+        <seg>Th&lt;f0&gt;is chapter concludes the ongoing discussion about character and paragraph styles by talking about &lt;/f0&gt;the&lt;f1&gt;ir&lt;/f1&gt; advanced features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180107T211517Z" creationid="Ｖ字龍" creationdate="20180107T211517Z">
+        <seg>本章藉由介紹字元與段落樣式的一些進階特色來總結過去一直在討論的字元與段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
