@@ -4152,6 +4152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Audience participation is limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062420Z" creationid="Franklin Weng" creationdate="20180107T062420Z">
+        <seg>聽眾不被允許與講者互動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating style application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T043928Z" creationid="zerng07" creationdate="20171227T033125Z">
@@ -8486,6 +8494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Members of the audience require individual attention &lt;f0&gt;or discussion is important&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062453Z" creationid="Franklin Weng" creationdate="20180107T062453Z">
+        <seg>聽眾需要個別的互動與討論。&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modern imitations sometimes reduce the darkness to make them more acceptable to modern tastes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133349Z" creationid="Franklin Weng" creationdate="20180103T133349Z">
@@ -8970,6 +8986,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090416Z" creationid="Jeff Huang" creationdate="20171123T072728Z">
         <seg>還有一點：LibreOffice 會自動為標題、影像與其他元素&lt;f0&gt;指定&lt;/f0&gt;一個無趣的名稱，如&lt;f1&gt;標題1&lt;/f1&gt;或&lt;f2&gt;表格11。&lt;/f2&gt;比較好的方式是，為每個元素指定一個獨一無二的名稱來協助&lt;f3&gt;澄清&lt;/f3&gt;文件的結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of yo&lt;f0&gt;ur goals is audience participation.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062355Z" creationid="Franklin Weng" creationdate="20180107T062355Z">
+        <seg>你其中的一個目的是希望&lt;f0&gt;聽眾可以參與互動。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13435,6 +13459,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your audience does not need diagrams or illustrations, or you are presenting them in handouts or some other way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062829Z" creationid="Franklin Weng" creationdate="20180107T062829Z">
+        <seg>你的聽眾不需要看圖表或插圖，或是你的圖表與插圖是另外手繪或用其他方式呈現的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your choices will determine not only the look of your document, but, in a well-designed document, other details of your design as well.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T072208Z" creationid="Franklin Weng" creationdate="20171224T072208Z">
@@ -13455,6 +13487,62 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T061848Z" creationid="Franklin Weng" creationdate="20180107T061848Z">
         <seg>你的目的是希望不被中斷地傳達資訊，&lt;f0&gt;不管有沒有演講者。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your talk has a series of questions and answers, as in a vocabulary drill.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T063229Z" creationid="Franklin Weng" creationdate="20180107T063229Z">
+        <seg>你的演講有一系列的問答，類似在做詞彙練習。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your talk includes diagrams or illustrations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062800Z" creationid="Franklin Weng" creationdate="20180107T062800Z">
+        <seg>你的演講中包含圖表與其他插圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your talk is about high-level, abstract concepts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T063306Z" creationid="Franklin Weng" creationdate="20180107T063306Z">
+        <seg>你的演講是屬於較高階、較抽象的概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your topic involves an understanding or appreciation of language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062721Z" creationid="Franklin Weng" creationdate="20180107T062721Z">
+        <seg>你的主題包括對語言的理解或賞析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your topic is complex or abstract, and the connection between ideas is essential for understanding the whole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062653Z" creationid="Franklin Weng" creationdate="20180107T062653Z">
+        <seg>你的主題很複雜、抽象，而且要把一些想法連結起來才能瞭解整體概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your topic is simple or well-unified.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062611Z" creationid="Franklin Weng" creationdate="20180107T062611Z">
+        <seg>你的主題很簡單或很明確一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your topic is technical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062700Z" creationid="Franklin Weng" creationdate="20180107T062700Z">
+        <seg>你的主題是技術性的。</seg>
       </tuv>
     </tu>
     <tu>
