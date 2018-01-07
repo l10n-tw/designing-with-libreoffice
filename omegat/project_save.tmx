@@ -399,6 +399,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>先改用現有的功能來重寫內容。</note>
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;You can make Impress default to using the wizard by clicking&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;T&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ools &gt; Options &gt; General&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;New Document &gt; Start with wizard&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; check box.&lt;/f13&gt;</seg>
       </tuv>
@@ -7438,6 +7439,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>先改用現有的功能來重寫</note>
+      <tuv lang="EN">
+        <seg>Impress’ Presentation Wizard helps you to structure your presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T135657Z" creationid="Franklin Weng" creationdate="20180107T130124Z">
+        <seg>Impress 的Presentation Wizard helps you to structure your presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>In &lt;f0&gt;some releases of &lt;/f0&gt;LibreOffice, &lt;f1&gt;P&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;rint&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Preview&lt;/f4&gt; shows the borders around a table even if you have turned them off entirely.</seg>
       </tuv>
@@ -7548,6 +7558,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111045Z" creationid="zerng07" creationdate="20171219T111045Z">
         <seg>此外，你想要編輯標題來讓標題能以數字開頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In all these stages, keep &lt;f0&gt;everything&lt;/f0&gt; simple and make design choices to enhance legibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T130133Z" creationid="Franklin Weng" creationdate="20180107T130133Z">
+        <seg>In all these stages, keep &lt;f0&gt;everything&lt;/f0&gt; simple and make design choices to enhance legibility.</seg>
       </tuv>
     </tu>
     <tu>
