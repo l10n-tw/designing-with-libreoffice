@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In early releases, OpenOffice.org used to start Impress with a wizard that made clear the design is both format and structure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T122556Z" creationid="Franklin Weng" creationdate="20180107T122556Z">
+        <seg>&lt;f0&gt;在早期的版本中，OpenOffice.org 在啟動 Impress 時會開啟一個精靈，清楚地讓你瞭解設計包括格式與結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In fact, with comic exaggeration, he likens them to a Soviet May Day rally.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T131457Z" creationid="Franklin Weng" creationdate="20180106T131457Z">
@@ -9494,6 +9502,15 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063556Z" creationid="zerng07" creationdate="20171212T062531Z">
         <seg>現實世界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>注意：5.x 版以後是 Start with Template 而沒有 Wizards &gt; Presentation。</note>
+      <tuv lang="EN">
+        <seg>Recent releases of LibreOffice no longer follow that practice, but you might still consider starting your building of a presentation by running &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Wizards &gt; Presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125031Z" creationid="Franklin Weng" creationdate="20180107T125031Z">
+        <seg>而最近版本的 LibreOffice 則不再以精靈啟動，而改用範本。</seg>
       </tuv>
     </tu>
     <tu>
