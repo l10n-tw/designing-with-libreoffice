@@ -584,6 +584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt; slide show i&lt;f1&gt;s&lt;/f1&gt; a medium with serious limitations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T032042Z" creationid="Franklin Weng" creationdate="20180107T031737Z">
+        <seg>&lt;f0&gt;投影片展示&lt;/f0&gt;是一種具有幾個重要限制的媒介。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124413Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
@@ -628,6 +636,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134357Z" creationid="Franklin Weng" creationdate="20171215T125929Z">
         <seg>&lt;f0&gt;雖然產生的範本通常會比實際需要的複雜，但範本精靈對學習範本來說是一個很好的起點。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Amazon, for example, has gone so far as to ban presentations in its business.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T031426Z" creationid="Franklin Weng" creationdate="20180107T031426Z">
+        <seg>&lt;f0&gt;例如亞馬遜（Amazon），目前就在它的商業模式中完全不做投影片展示這部份。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -765,6 +781,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102246Z" creationid="Franklin Weng" creationdate="20171212T101036Z">
         <seg>&lt;f0&gt;但不管怎麼說&lt;/f0&gt;，設計範本一開始所花費的時間，總是可以在接下來的歲月裡替你省下無數的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;But such reactions are too harsh.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T031525Z" creationid="Franklin Weng" creationdate="20180107T031525Z">
+        <seg>&lt;f0&gt;這些反應講真的也太過頭了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,6 +5018,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deciding when to use a slide show</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T031709Z" creationid="Franklin Weng" creationdate="20180107T031709Z">
+        <seg>使用投影片展示的時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deciding whether to increase or decrease font spacing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145118Z" creationid="Franklin Weng" creationdate="20180105T145118Z">
@@ -6128,6 +6160,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144649Z" creationid="Franklin Weng" creationdate="20171224T073924Z">
         <seg>而這些年來，如果不用這些要付費的字型，取代方案通常是公共授權的字型，而代價是&lt;f0&gt;字型的品質並不高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forewarned of the problems, you can still make your slides&lt;/f0&gt; an enhancement of your talk, and not a &lt;f1&gt;substitution that overwhelms it.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T031700Z" creationid="Franklin Weng" creationdate="20180107T031700Z">
+        <seg>如果事前對上面這些問題有所準備，你還是可以用投影片&lt;/f0&gt;來輔助強化你的演說，而不是完全用它來替代。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12797,6 +12837,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175021Z" creationid="zerng07" creationdate="20171226T091928Z">
         <seg>甚至在外框樣式和頁面樣式下，這個預覽可說是令人分心（？5.4 在外框樣式和頁面樣式下已經沒有這個預覽）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With no more than &lt;f2&gt;75&lt;/f2&gt; words per screen, &lt;f3&gt;a slide by itself&lt;/f3&gt; cannot easily communicate complex information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T031835Z" creationid="Franklin Weng" creationdate="20180107T031835Z">
+        <seg>螢幕上每張投影片不超過 &lt;f2&gt;75&lt;/f2&gt; 個字的話，&lt;f3&gt;投影片本身&lt;/f3&gt;不容易傳達一些複雜的訊息。</seg>
       </tuv>
     </tu>
     <tu>
