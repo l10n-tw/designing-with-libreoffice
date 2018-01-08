@@ -4249,6 +4249,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avoid text animations as obsolete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T141111Z" creationid="Jeff Huang" creationdate="20180108T141111Z">
+        <seg>避免使用過時的文字動畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avoid using old style figures in spreadsheets &lt;f0&gt;or in diagrams in which you want to align numbers.&lt;/f0&gt; &lt;f1&gt;T&lt;/f1&gt;heir lack of a common baseline is distracting in long columns &lt;f2&gt;or tables &lt;/f2&gt;of numbers, &lt;f3&gt;and they are difficult to position manually.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145928Z" creationid="Franklin Weng" creationdate="20171225T135658Z">
@@ -13096,6 +13104,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T124235Z" creationid="Franklin Weng" creationdate="20180106T124235Z">
         <seg>為什麼投影片內容顯得很無聊？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why undermine yourself?&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T135809Z" creationid="Jeff Huang" creationdate="20180108T135809Z">
+        <seg>為何要陷自己於不義呢？&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
