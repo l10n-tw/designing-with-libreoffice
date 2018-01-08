@@ -2660,6 +2660,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In fact, they have little purpose except to call attention to themselves.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T132727Z" creationid="Jeff Huang" creationdate="20180108T132727Z">
+        <seg>&lt;f1&gt;事實上，它們除了引起注意以外沒什麼用。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In particular, the Draw and Impress version has &lt;/f1&gt;&lt;f2&gt;Connectors&lt;/f2&gt; and &lt;f3&gt;Arrow&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075504Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
@@ -7316,6 +7324,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072518Z" creationid="Franklin Weng" creationdate="20171228T072518Z">
         <seg>如果你知道&lt;f0&gt;&lt;f1&gt;CSS&lt;/f1&gt;&lt;/f0&gt;，你可能記得它是&lt;f2&gt;如何用三碼數字&lt;/f2&gt;來分類字型的&lt;f4&gt;權重&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you must use text &lt;f0&gt;animation&lt;/f0&gt;, &lt;f1&gt;be merciful&lt;/f1&gt; and set it to run only a &lt;f2&gt;few&lt;/f2&gt; times before stopping.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T134126Z" creationid="Jeff Huang" creationdate="20180108T134126Z">
+        <seg>如果你必須使用文字&lt;f0&gt;動畫&lt;/f0&gt;，請將其設定為在停止前執行次數愈&lt;f2&gt;少&lt;/f2&gt;愈好。</seg>
       </tuv>
     </tu>
     <tu>
