@@ -455,14 +455,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f4&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080430Z" creationid="Franklin Weng" creationdate="20171224T073816Z">
-        <seg>&lt;/f3&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T121240Z" creationid="Franklin Weng" creationdate="20171223T121240Z">
@@ -770,8 +762,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Both &lt;/f0&gt;LibreOffice &lt;f1&gt;and Apache OpenOffice &lt;/f1&gt;support Post&lt;f2&gt;S&lt;/f2&gt;cript &lt;f3&gt;(.pfb)&lt;/f3&gt;, TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;, &lt;f5&gt;and&lt;/f5&gt; OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; font &lt;f7&gt;file formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080610Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
-        <seg>LibreOffice 與 Apache OpenOffice 都支援 PostScript &lt;f3&gt;(.pfb)&lt;/f3&gt;、TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt; 與 OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; 字型檔案格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080756Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
+        <seg>&lt;f0&gt;LibreOffice 與 Apache OpenOffice 都支援 PostScript &lt;/f0&gt;&lt;f3&gt;(.pfb)&lt;/f3&gt;、TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt; 與 OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; 字型檔案格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5155,8 +5147,8 @@
       <tuv lang="EN">
         <seg>Design houses like Adobe &lt;f2&gt;sell hundreds&lt;/f2&gt;, including &lt;f3&gt;official versions of famous fonts&lt;/f3&gt; like &lt;f4&gt;Gill Sans or Didot.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080422Z" creationid="Franklin Weng" creationdate="20171224T073815Z">
-        <seg>像 Adobe 這家設計公司就&lt;f2&gt;販售了上百種字型的正式版本&lt;/f2&gt;，包括&lt;f4&gt; Gill Sans 或 Didot &lt;/f4&gt;這些&lt;f3&gt;極受歡迎的字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080952Z" creationid="Franklin Weng" creationdate="20171224T073815Z">
+        <seg>像 Adobe 這家設計公司就&lt;f2&gt;販售了上百種字型的正式版本&lt;/f2&gt;，包括&lt;f4&gt; Gill Sans 或 Didot &lt;/f4&gt;&lt;f3&gt;這些極受歡迎的字型。&lt;/f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
