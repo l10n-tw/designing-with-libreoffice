@@ -8905,8 +8905,8 @@
       <tuv lang="EN">
         <seg>Monospace: Fonts in which every letter occupies exactly the same amount of &lt;f0&gt;horizontal &lt;/f0&gt;space.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145315Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
-        <seg>Monospace：這個字型的每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;長度都完全相同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T163902Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
+        <seg>等寬體 (Monospace)：這類字型的每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;寬度都完全相同。如果是中文等寬字型，除了拉丁字母水平寬度相同外，中文字的水平寬度則是拉丁字母的兩倍寬。</seg>
       </tuv>
     </tu>
     <tu>
