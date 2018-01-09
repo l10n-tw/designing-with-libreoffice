@@ -3463,8 +3463,8 @@
       <tuv lang="EN">
         <seg>&lt;t2/&gt;Because of their association with typewriters, monospace fonts are unpopular today, except for specific uses such as writing code or movie scripts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T100831Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
-        <seg>因為這個字型跟打字機的關聯，現在 monospace 比較沒那麼流行，通常只被某些使用者用來呈現程式碼或電影的字幕用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164446Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
+        <seg>因為這個字族和打字機之間很有關聯，現在等寬字體比較沒那麼流行，通常只被某些使用者用來呈現程式碼或電影的字幕用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8905,8 +8905,8 @@
       <tuv lang="EN">
         <seg>Monospace: Fonts in which every letter occupies exactly the same amount of &lt;f0&gt;horizontal &lt;/f0&gt;space.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T163902Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
-        <seg>等寬體 (Monospace)：這類字型的每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;寬度都完全相同。如果是中文等寬字型，除了拉丁字母水平寬度相同外，中文字的水平寬度則是拉丁字母的兩倍寬。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164606Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
+        <seg>等寬字體 (Monospace)：這個字族的字型每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;寬度都完全相同。如果是中文等寬字型，除了拉丁字母水平寬度相同外，中文字的水平寬度則是拉丁字母的兩倍寬。</seg>
       </tuv>
     </tu>
     <tu>
