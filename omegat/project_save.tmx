@@ -1695,8 +1695,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, each font has three basic characteristics: its family, its style or typeface (depending on the version and &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;platform), and size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145100Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
-        <seg>&lt;f2&gt;在「字型」&lt;/f2&gt;&lt;f3&gt;分頁中，每個字型都有三種基本特徵：字族、樣式或字樣&lt;/f3&gt;（根據平台與版本而定），還有大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T123453Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
+        <seg>在「&lt;f1&gt;&lt;f2&gt;字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，每個字型都有三種基本特徵：字族、樣式或字樣&lt;/f3&gt;（用語根據平台與版本而定）、大小三者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10966,8 +10966,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Font&lt;/f0&gt; tab for character and paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145001Z" creationid="Franklin Weng" creationdate="20171224T082104Z">
-        <seg>字元與段落樣式中的&lt;f0&gt;「字型」&lt;/f0&gt;分頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T123203Z" creationid="Franklin Weng" creationdate="20171224T082104Z">
+        <seg>字元樣式與段落樣式中的&lt;f0&gt;「字型」&lt;/f0&gt;標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11858,8 +11858,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The&lt;f1&gt;y&lt;/f1&gt; are &lt;f2&gt;chosen&lt;/f2&gt; on the &lt;f3&gt;Font&lt;/f3&gt; tab of a paragraph or character style&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T081301Z" creationid="Franklin Weng" creationdate="20171224T082045Z">
-        <seg>字型可以在段落或字元樣式中的「&lt;f3&gt;字型&lt;/f3&gt;」標籤頁中設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T123149Z" creationid="Franklin Weng" creationdate="20171224T082045Z">
+        <seg>字型可以在段落樣式或字元樣式中的「&lt;f3&gt;字型&lt;/f3&gt;」標籤頁中設定。</seg>
       </tuv>
     </tu>
     <tu>
