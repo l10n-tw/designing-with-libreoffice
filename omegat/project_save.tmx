@@ -1629,6 +1629,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Making a s&lt;/f0&gt;tructural &lt;f1&gt;t&lt;/f1&gt;emplate</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132321Z" creationid="Franklin Weng" creationdate="20180109T132240Z">
+        <seg>&lt;f0&gt;製作&lt;/f0&gt;結構化的範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Many fonts use the same classifications.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124642Z" creationid="Franklin Weng" creationdate="20171231T124642Z">
@@ -3116,6 +3124,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Listeners can follow your presentation better if they have a sense of the structure of your talk.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T133025Z" creationid="Franklin Weng" creationdate="20180109T133025Z">
+        <seg>&lt;f2&gt;聽眾在聽你講之前，如果就可以先對你演講的結構有大概的認識，那麼他們就比較能跟上你簡報的腳步。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Many&lt;/f2&gt; are an exception to the conventional wisdom that serif fonts cannot be used online, &lt;f3&gt;and are often highly readable online or in slide shows.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T092019Z" creationid="Franklin Weng" creationdate="20180103T135638Z">
@@ -3642,6 +3658,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143320Z" creationid="zerng07" creationdate="20171225T143320Z">
         <seg>一個樣式的直接上一層樣式&lt;f0&gt;稱為&lt;/f0&gt;此樣式的親代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A sub-title page: Sub-title pages can be &lt;f0&gt;shown brief&lt;/f0&gt;ly to let listeners know what stage your talk is at.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T133042Z" creationid="Franklin Weng" creationdate="20180109T133042Z">
+        <seg>A sub-title page: Sub-title pages can be &lt;f0&gt;shown brief&lt;/f0&gt;ly to let listeners know what stage your talk is at.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4295,6 +4319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the very least, you might want to save a structural template with the first few slides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132349Z" creationid="Franklin Weng" creationdate="20180109T132349Z">
+        <seg>至少，你應該可以儲存前幾張投影片做為範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At this point, you should see very few problems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084245Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
@@ -4467,6 +4499,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T075836Z" creationid="Jeff Huang" creationdate="20171221T075836Z">
         <seg>除了複製以外，&lt;f0&gt;再製&lt;/f0&gt;視窗可以放大並複製顏色，以及將它們並列，&lt;f1&gt;這樣你就可以在你需要的時候製作一份拷貝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Biography: &lt;f0&gt;P&lt;/f0&gt;laced near the start, this slide is not a general life history, but &lt;f1&gt;proof that &lt;/f1&gt;you &lt;f2&gt;are&lt;/f2&gt; an expert on &lt;f3&gt;your&lt;/f3&gt; subject, &lt;f4&gt;and that your ideas are worth listening to.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132734Z" creationid="Franklin Weng" creationdate="20180109T132734Z">
+        <seg>自傳、自我介紹：在開頭的地方。這張投影片不是介紹你的生平，而是要&lt;f1&gt;證明&lt;/f1&gt;你&lt;f2&gt;是&lt;/f2&gt;這個講題的專家，&lt;f4&gt;而且聽眾們都應該好好聽你的演講。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7398,6 +7438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you find yourself continually doing similar types of presentations, you can save structural templates.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132317Z" creationid="Franklin Weng" creationdate="20180109T132317Z">
+        <seg>如果你發現你一直持續在做同樣型態的簡報，你可以把它儲存成結構化的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you find yourself getting lost in the sheer &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;number of free fonts, anything from The League can be counted on to be of high quality, and usually includes small capitals and old style figures.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T134416Z" creationid="zerng07" creationdate="20170817T134416Z">
@@ -7418,6 +7466,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083415Z" creationid="Franklin Weng" creationdate="20171213T132956Z">
         <seg>而如果你又剛好忘了另存新檔，那整個排版格式可能就得要重新來過了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a reputation among audience members for your expertise, you might omit the biography.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132821Z" creationid="Franklin Weng" creationdate="20180109T132821Z">
+        <seg>如果你已經在聽眾群的眼中頗有名氣，那你可以省略這部份。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7708,6 +7764,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162628Z" creationid="zerng07" creationdate="20171227T161833Z">
         <seg>在Writer中，你有時候會發現你在不同的樣式類別中使用&lt;f0&gt;相同的設計&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a long slide show, you might want title pages for each section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132545Z" creationid="Franklin Weng" creationdate="20180109T132545Z">
+        <seg>在較長的簡報中，你可能會要在每個區段都放一張題名投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10819,6 +10883,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Talk &lt;f0&gt;o&lt;/f0&gt;utline: &lt;f1&gt;A&lt;/f1&gt; summary of the major sections of your talk after the title page and biography.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132901Z" creationid="Franklin Weng" creationdate="20180109T132901Z">
+        <seg>演講大綱：你的演講中主要部份的摘要，放在題名與自傳頁後。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Technically, Writer has no table styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043644Z" creationid="zerng07" creationdate="20171224T043644Z">
@@ -11864,6 +11936,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The title page: Use the &lt;f0&gt;Title Slide&lt;/f0&gt; layout, with the presentation’s title at the top and your name below it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132509Z" creationid="Franklin Weng" creationdate="20180109T132509Z">
+        <seg>題名頁：用「&lt;f0&gt;題名投影片&lt;/f0&gt;」的版面配置，內容上方是簡報的題目，下面是你的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The trouble is, just as many people never learn how to use a word process&lt;f2&gt;or&lt;/f2&gt; properly, many fail to understand the uses and limitations of a slide show.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T124529Z" creationid="Franklin Weng" creationdate="20180106T124529Z">
@@ -11996,6 +12076,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T064148Z" creationid="Franklin Weng" creationdate="20180107T064148Z">
         <seg>這些準則將投影片使用時機限制在：你要傳遞的資訊很難用其他辦法展示，只有像古早的講師用燈泡式投影機加透明投影片的方式才有用的時候。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These include:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132356Z" creationid="Franklin Weng" creationdate="20180109T132356Z">
+        <seg>這些投影片包括：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13657,6 +13745,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T062520Z" creationid="zerng07" creationdate="20171212T060230Z">
         <seg>你還可以幫相片加個統一的外框、設定開章首字大寫、自動更改頁面的版面配置等等。設定樣式能讓你&lt;f4&gt;免除煩惱&lt;/f4&gt;，只要專注在&lt;f5&gt;內容&lt;/f5&gt;上就好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can make it more informal by wording the sections as questions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132933Z" creationid="Franklin Weng" creationdate="20180109T132933Z">
+        <seg>你可以不用太正規化，改用提問的方式來突顯你的主題。</seg>
       </tuv>
     </tu>
     <tu>
