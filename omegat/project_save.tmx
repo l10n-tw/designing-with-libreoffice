@@ -505,8 +505,8 @@
       <tuv lang="EN">
         <seg>&lt;/f7&gt;&lt;t8/&gt;&lt;f9&gt;Other font formats exist, and may be supported by your operating system, but these formats may be limited in selection and quality.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144840Z" creationid="Franklin Weng" creationdate="20171224T075500Z">
-        <seg>&lt;f9&gt;另外還有別種字型檔格式，而且可能你的作業系統也支援，但是這些格式可能在選擇與品質上都受限。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T112916Z" creationid="Franklin Weng" creationdate="20171224T075500Z">
+        <seg>&lt;/f7&gt;&lt;f9&gt;另外也有其他字型檔格式，可能你的作業系統也支援，但是這些格式在選擇上與品質上可能都有限。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,8 +778,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Both &lt;/f0&gt;LibreOffice &lt;f1&gt;and Apache OpenOffice &lt;/f1&gt;support Post&lt;f2&gt;S&lt;/f2&gt;cript &lt;f3&gt;(.pfb)&lt;/f3&gt;, TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;, &lt;f5&gt;and&lt;/f5&gt; OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; font &lt;f7&gt;file formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080756Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
-        <seg>&lt;f0&gt;LibreOffice 與 Apache OpenOffice 都支援 PostScript &lt;/f0&gt;&lt;f3&gt;(.pfb)&lt;/f3&gt;、TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt; 與 OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; 字型檔案格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T112742Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
+        <seg>&lt;f0&gt;LibreOffice和Apache OpenOffice都支援PostScript &lt;/f0&gt;&lt;f3&gt;(.pfb)&lt;/f3&gt;、TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;、OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; 等 字型&lt;f7&gt;檔案格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3038,8 +3038,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;For instance, a modern geometric font may seem futuristic, and therefore more appropriate for science fiction.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T085103Z" creationid="Franklin Weng" creationdate="20171224T072643Z">
-        <seg>&lt;f2&gt;例如，現代幾何字型看起來可能讓人有種機械性的未來感，所以適合用於科幻小說。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T112631Z" creationid="Franklin Weng" creationdate="20171224T072643Z">
+        <seg>&lt;f2&gt;例如，現代幾何風字型看起來可能讓人有種機械性的未來感，所以適合用於科幻小說。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
