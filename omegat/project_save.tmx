@@ -2250,8 +2250,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The best place to begin a presentation in Impress is in the Outline view.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095148Z" creationid="Franklin Weng" creationdate="20180109T095148Z">
-        <seg>&lt;f0&gt;The best place to begin a presentation in Impress is in the Outline view.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T130624Z" creationid="Franklin Weng" creationdate="20180109T095148Z">
+        <seg>&lt;f0&gt;用 Impress 做投影片，最好開始的地方就是進入「大綱」模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5502,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084040Z" creationid="Franklin Weng" creationdate="20180109T083757Z">
         <seg>每一次的簡報，實際上就是一次在&lt;f0&gt;有限條件下&lt;/f0&gt;的設計練習。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each top outline heading is a new slide, the others a bullet point on the slide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T130743Z" creationid="Franklin Weng" creationdate="20180109T130743Z">
+        <seg>在大綱模式中，每個頂層的大綱標題都代表一張新投影片，而其他的則是投影片中的圓點項目。</seg>
       </tuv>
     </tu>
     <tu>
