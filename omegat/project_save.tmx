@@ -9330,8 +9330,8 @@
       <tuv lang="EN">
         <seg>Otherwise, you can install fonts only for LibreOffice by placing their files in the /share/fonts folder in the system path listed at &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Tools &gt; Options &gt; Path&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and restarting LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144940Z" creationid="Franklin Weng" creationdate="20171224T081917Z">
-        <seg>不然，你也可以把字型檔放在&lt;f3&gt;「工具 &gt; 選項 &gt; 路徑」&lt;/f3&gt;中的系統路徑底下的 /share/fonts&lt;/f1&gt;，然後再&lt;f4&gt;重新啟動 LibreOffice。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T081218Z" creationid="Franklin Weng" creationdate="20171224T081917Z">
+        <seg>不然，你也可以把字型檔放在「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;工具 &gt; 選項 &gt; 路徑&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」中的系統路徑底下的 /share/fonts，然後再重新啟動 LibreOffice。</seg>
       </tuv>
     </tu>
     <tu>
