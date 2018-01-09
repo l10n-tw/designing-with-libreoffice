@@ -647,6 +647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alternatively, outline in Writer, then transfer the outline to Impress by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Send &gt; Outline to Presentation.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131244Z" creationid="Franklin Weng" creationdate="20180109T131244Z">
+        <seg>&lt;f0&gt;另外一種方式是在 Writer 中寫好大綱，然後選擇選單中的&lt;/f0&gt;「&lt;f2&gt;檔案 &gt; 傳送 &gt; 大綱送至簡報&lt;/f2&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Although often more elaborate than strictly necessary, these wizards can give you a starting point to studying templates.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134357Z" creationid="Franklin Weng" creationdate="20171215T125929Z">
@@ -2412,6 +2420,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
         <seg>&lt;f0&gt;不像 Writer 中的樣式，圖形樣式可以僅在形狀加入到文件後才套用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;Impress’ &lt;f1&gt;Outline&lt;/f1&gt; tab &lt;f2&gt;as&lt;/f2&gt; the starting point for a slide show.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131118Z" creationid="Franklin Weng" creationdate="20180109T131118Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt; Impress 的「&lt;f1&gt;大綱&lt;/f1&gt;」模式&lt;f2&gt;來做為&lt;/f2&gt;簡報的起點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,6 +4227,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T131214Z" creationid="Franklin Weng" creationdate="20180101T130946Z">
         <seg>升部（Ascenders）與降部（Descenders）：在字母的筆畫中，超過基線（跟 x 上下等高的線）上方（升部）與下方（降部）的部位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aside from structural slides such as the title page, only these points will have a slide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131651Z" creationid="Franklin Weng" creationdate="20180109T131651Z">
+        <seg>除了像題名頁面這種結構化的投影片外，只有這些重點需要額外的投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7012,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, whichever way you work, do not stop with the outline.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131448Z" creationid="Franklin Weng" creationdate="20180109T131448Z">
+        <seg>不管使用哪一種方式，都不要只停留在大綱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you &lt;f0&gt;can &lt;/f0&gt;save and apply table designs in a style-like way by selecting &lt;f1&gt;Table &gt; Auto&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;ormat &gt; Add.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075146Z" creationid="zerng07" creationdate="20171224T075146Z">
@@ -8935,6 +8967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No firm rule exists, but if more than about &lt;f0&gt;one-third of&lt;/f0&gt; your points are listed as having a slide, you are probably still too close to a summary presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131820Z" creationid="Franklin Weng" creationdate="20180109T131820Z">
+        <seg>當然這沒有一定的規則，但如果你發現有超過近&lt;f0&gt;三分之一&lt;/f0&gt;的大綱被你列為重點，需要額外的投影片，那你可能就離最糟糕的摘要式簡報不遠了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No matter how you format, thanks to graphics, tables, and other objects, you are likely to have pages that end more than a few lines before the bottom of the page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T081559Z" creationid="Jeff Huang" creationdate="20171213T031920Z">
@@ -9816,6 +9856,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T071701Z" creationid="Jeff Huang" creationdate="20180104T071701Z">
         <seg>不論你是使用一般文字或是圖形化文字，印刷慣例仍大致相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rework the outline until points marked to become slides are &lt;f1&gt;as few as possible.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131930Z" creationid="Franklin Weng" creationdate="20180109T131930Z">
+        <seg>此時，你需要重新思考、粹鍊、簡化這些被標記的重點，讓它&lt;f1&gt;越少越好&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10992,6 +11040,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172904Z" creationid="zerng07" creationdate="20171225T153604Z">
         <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中&lt;f1&gt;通常包括&lt;/f1&gt;四個欄位：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Outline&lt;/f0&gt; view is simple yet powerful enough that you might consider using it for all your outlining, even for text documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131023Z" creationid="Franklin Weng" creationdate="20180109T131023Z">
+        <seg>&lt;f0&gt;大綱&lt;/f0&gt;模式很單純，但也夠強大到你可以考慮所有的綱要都用大綱模式，甚至是文字文件也一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13171,6 +13227,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have the complete outline, go back &lt;f0&gt;a&lt;/f0&gt;nd mark the &lt;f1&gt;items&lt;/f1&gt; that &lt;f2&gt;should&lt;/f2&gt; be enhanced by illustrations &lt;f3&gt;o&lt;/f3&gt;r emphasize&lt;f4&gt;d&lt;/f4&gt; by giving them a slide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131612Z" creationid="Franklin Weng" creationdate="20180109T131612Z">
+        <seg>當你完成所有的大綱之後，回去標記那些&lt;f2&gt;需要&lt;/f2&gt;用圖形強化，或需要用單獨一張投影片來強調的&lt;f1&gt;重點項目&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you open a document, you are warned &lt;f0&gt;that&lt;/f0&gt; its template has been edited.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150517Z" creationid="Franklin Weng" creationdate="20171212T120350Z">
@@ -13413,6 +13477,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You &lt;f0&gt;should &lt;/f0&gt;now have &lt;f1&gt;an outline consisting&lt;/f1&gt; consists of only useful slides, and that &lt;f2&gt;you cannot simply read when presenting.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132219Z" creationid="Franklin Weng" creationdate="20180109T132219Z">
+        <seg>最後，你&lt;f0&gt;應該&lt;/f0&gt;會剩下只包含真正有用的投影片所組成的&lt;f1&gt;大綱&lt;/f1&gt;，而這份大綱&lt;f2&gt;讓你不能在簡報時直接閱讀它的內容。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You &lt;f1&gt;may &lt;/f1&gt;have to restart LibreOffice &lt;f2&gt;for the change to take effect&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150451Z" creationid="Franklin Weng" creationdate="20171212T120317Z">
@@ -13537,6 +13609,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150241Z" creationid="zerng07" creationdate="20171225T150040Z">
         <seg>你可以選擇&lt;f0&gt;編輯&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式以便設置這份文件的基本格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can descend a level in the outline by pressing &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and ascend a level by pressing &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T130919Z" creationid="Franklin Weng" creationdate="20180109T130919Z">
+        <seg>按&lt;f2&gt;Tab&lt;/f2&gt;鍵，你可以把大綱往下移動一層。&lt;/f0&gt;&lt;f3&gt;要往上移動一層，則是按&lt;/f3&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
