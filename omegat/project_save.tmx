@@ -431,6 +431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;Too many, though, plunge into developing a slide show with only a limited idea of the structure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T094116Z" creationid="Franklin Weng" creationdate="20180109T094116Z">
+        <seg>&lt;/f2&gt;不過儘管如此，還是有很多人只靠著一點點對投影片結構有限的想法，就直接跳到設計投影片的步驟了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T140620Z" creationid="Franklin Weng" creationdate="20171215T140620Z">
@@ -579,6 +587,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T123502Z" creationid="Franklin Weng" creationdate="20171225T100354Z">
         <seg>&lt;f0&gt;在近期的設計中，Raleway 在小寫“a”的尾端還是有加一點襯線，但整體而言這個字型偏向無襯線的字族。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A tree of main points, mind mapping, scribbling main points &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; all can be effective ways for different types of people to plan.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T093850Z" creationid="Franklin Weng" creationdate="20180109T093850Z">
+        <seg>&lt;f0&gt;比方說要點的樹狀圖，心智圖，重點的塗鴉 &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; 這些都是很不錯的方式，協助大家做規劃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1341,6 +1357,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;f you really want a complex format, design slides &lt;f1&gt;as&lt;/f1&gt; Writer &lt;f2&gt;pages&lt;/f2&gt;, and then export them to &lt;f3&gt;PDF&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T085528Z" creationid="Franklin Weng" creationdate="20180109T085528Z">
+        <seg>如果你真的要用很複雜的格式，你可以改用 Writer 來做，然後匯出成 &lt;f3&gt;PDF&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;ncre&lt;f1&gt;ase&lt;/f1&gt; the font size and line-spacing a bit at a time, and work with different combinations &lt;f2&gt;systematically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041157Z" creationid="Franklin Weng" creationdate="20180106T041157Z">
@@ -1713,6 +1737,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161131Z" creationid="zerng07" creationdate="20171227T161131Z">
         <seg>&lt;f0&gt;其他預先定義樣式&lt;/f0&gt;都採用描述性名稱，例如&lt;f2&gt;Draw&lt;/f2&gt;中有個&lt;f1&gt;不填色的物件&lt;/f1&gt;樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Outlining&lt;/f0&gt; slide shows</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T092717Z" creationid="Franklin Weng" creationdate="20180109T092658Z">
+        <seg>簡報的&lt;f0&gt;大綱&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,6 +2136,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;his approach is inefficient, because it means that you are trying to get ideas down at the same time that you are structuring, giving only half your mind to &lt;f1&gt;each of &lt;/f1&gt;two tasks, &lt;f2&gt;each of which&lt;/f2&gt; deserve&lt;f3&gt;s&lt;/f3&gt; your full attention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095009Z" creationid="Franklin Weng" creationdate="20180109T095009Z">
+        <seg>這樣做很沒效率，因為這表示你在發想的時候同時做投影片的結構，一心二用的結果把&lt;f2&gt;這兩個&lt;/f2&gt;應該要全付心力處理的事給分散掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;ypography may have worked out a general set of principles, but it remains an art more than a &lt;f1&gt;science&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T144315Z" creationid="Franklin Weng" creationdate="20171224T072539Z">
@@ -2204,6 +2244,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152331Z" creationid="zerng07" creationdate="20170903T145416Z">
         <seg>&lt;f0&gt;樣式的優勢在於&lt;/f0&gt;你只需把&lt;f1&gt;這些項目&lt;/f1&gt;設定過一次就行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The best place to begin a presentation in Impress is in the Outline view.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095148Z" creationid="Franklin Weng" creationdate="20180109T095148Z">
+        <seg>&lt;f0&gt;The best place to begin a presentation in Impress is in the Outline view.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,6 +2613,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063606Z" creationid="Franklin Weng" creationdate="20171228T063606Z">
         <seg>&lt;f1&gt;下方：一般的大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;C&lt;/f1&gt;ompare&lt;f2&gt;d&lt;/f2&gt; to the possibilities of a Writer document, a presentation &lt;f3&gt;is extremely simple, with limited choices to make.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084345Z" creationid="Franklin Weng" creationdate="20180109T084345Z">
+        <seg>跟 Writer 的文件比起來，簡報&lt;f3&gt;其實極端簡單，而且選擇也很有限。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3236,10 +3292,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Instead of thinking and structuring well, you most likely end up doing both poorly.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095043Z" creationid="Franklin Weng" creationdate="20180109T095043Z">
+        <seg>&lt;f4&gt;結果就會是發想與結構化兩件事都做不好。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;LibreOffice remembers whether the window is docked or undocked when you restart it.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101502Z" creationid="zerng07" creationdate="20171224T101502Z">
         <seg>&lt;f4&gt;LibreOffice能記住視窗位置是否停駐在那個位置，下次重新啟動時依然能與上次一致。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;You will need to be careful that you don't use font sizes that are too small, but m&lt;/f4&gt;any alternative presentation apps use PDF slides, and the audience &lt;f5&gt;probably never notices.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T090932Z" creationid="Franklin Weng" creationdate="20180109T090932Z">
+        <seg>&lt;f4&gt;要這樣做的話要留意，用的字型不要太小。&lt;/f4&gt;許多簡報展示的應用程式都會用 PDF 投影片，而底下的聽眾&lt;/f5&gt;其實也分辨不太出來。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5425,6 +5497,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Each slide show is, in fact, an exercise in design &lt;f0&gt;under restricted conditions&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084040Z" creationid="Franklin Weng" creationdate="20180109T083757Z">
+        <seg>每一次的簡報，實際上就是一次在&lt;f0&gt;有限條件下&lt;/f0&gt;的設計練習。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.2 改版之後，不管在那裡的「範本管理員」看起來都一樣了。 https://akkidevblog.wordpress.com/2016/07/23/redesigning-the-template-manager/</note>
       <tuv lang="EN">
         <seg>Each view of the Template Manager shows only the icons &lt;f0&gt;that apply to whatever is selected.</seg>
@@ -5551,6 +5631,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T121327Z" creationid="Franklin Weng" creationdate="20180103T121327Z">
         <seg>時至今日，文字在螢幕上的呈現其解析度還是比專頁印刷低，而我們的大腦在處理螢幕上跟紙上的字的方式可能也不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even worse, this practice encourages slide shows that are complete summaries of your talk.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095122Z" creationid="Franklin Weng" creationdate="20180109T095122Z">
+        <seg>更糟的是，這樣做最後你的投影片就會變成摘要式的投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6251,6 +6339,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, instead of setting up a complex format feature by feature, you are more likely to choose a slide design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084509Z" creationid="Franklin Weng" creationdate="20180109T084509Z">
+        <seg>例如，你不需要一個個功能去設定複雜的格式。相反地，你通常只需要選擇一種投影片設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For many users, the &lt;f0&gt;&lt;f1&gt;Styles and Formatting&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; window &lt;/f2&gt;is the most efficient way to apply styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091319Z" creationid="zerng07" creationdate="20171226T091319Z">
@@ -6575,6 +6671,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105102Z" creationid="Franklin Weng" creationdate="20180101T105102Z">
         <seg>不過，在本章後面會顯示，許多設計元素是以標準字型的大小為基準，而標準字型大小則通常用點來做單位是最方便的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, as you design, take constant reality checks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084840Z" creationid="Franklin Weng" creationdate="20180109T084840Z">
+        <seg>不過，在你設計的時候，一定要不斷地檢查實際的狀況。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you &lt;f0&gt;start feeling&lt;/f0&gt; that you are struggling against the structure of Impress &lt;f1&gt;–&lt;/f1&gt; &lt;t2/&gt;&lt;f3&gt;for instance, by trying&lt;/f3&gt; to wrap text around a graphic, or &lt;f4&gt;to &lt;/f4&gt;set up text to flow from frame to frame – &lt;f5&gt;you &lt;/f5&gt;should probably give up and accept the limitations of a slide show.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T085413Z" creationid="Franklin Weng" creationdate="20180109T085413Z">
+        <seg>如果你&lt;f0&gt;開始覺得&lt;/f0&gt;在 Impress 的結構上掙扎 &lt;f1&gt;–&lt;/f1&gt; &lt;t2/&gt;&lt;f3&gt;比方說，一直試著要把&lt;/f3&gt;文字順著圖形折行，或者是試著設定讓文字一張張「流動」 – &lt;f5&gt;那你&lt;/f5&gt;還是放棄，接受投影片的限制吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you &lt;f0&gt;use &lt;/f0&gt;Linux, and lack these fonts, look for the Liberation fonts, which are designed to take up the same space as the standard fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125256Z" creationid="Franklin Weng" creationdate="20180103T125256Z">
@@ -7649,6 +7761,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In effect, you are designing a series of posters that are readable at a distance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084618Z" creationid="Franklin Weng" creationdate="20180109T084618Z">
+        <seg>事實上，你就好比在設計一系列從一段距離以外觀看的海報一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In effect, you are using the office application as though it were a typewriter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T181241Z" creationid="zerng07" creationdate="20170824T174633Z">
@@ -8145,6 +8265,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023033Z" creationid="Franklin Weng" creationdate="20180105T151152Z">
         <seg>同樣重要的是，半行間距會很快地把間距放回魔術數字本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just as the average &lt;f1&gt;text-based &lt;/f1&gt;document rarely needs more than two fonts (plus, of course, their &lt;f2&gt;font styles or weights&lt;/f2&gt;), so a slide show rarely needs more than one &lt;f3&gt;type of &lt;/f3&gt;slide transition, or more than a few slide designs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T083737Z" creationid="Franklin Weng" creationdate="20180109T083737Z">
+        <seg>就像一般&lt;f1&gt;文字&lt;/f1&gt;文件很少用到超過兩種字型（當然，加上&lt;f2&gt;字型樣式跟權重&lt;/f2&gt;），所以投影片展示很少需要&lt;f3&gt;一種以上&lt;/f3&gt;的過場，也只需要少數不同的設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9423,6 +9551,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T121305Z" creationid="zerng07" creationdate="20171226T121305Z">
         <seg>貼上樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>People plan in different ways.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T092730Z" creationid="Franklin Weng" creationdate="20180109T092701Z">
+        <seg>每個人做規劃的方式都不太一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12156,6 +12292,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021906Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
         <seg>要調整連接符，請到圖樣的&lt;f0&gt;連接符&lt;/f0&gt;分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To an extent, you can add some flexibility by adding graphic text, which is treated as an object instead of as regular text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T084717Z" creationid="Franklin Weng" creationdate="20180109T084717Z">
+        <seg>在某種程度上，你可以用圖形式的文字來增加彈性。這類文字會被當成物件，而不是一般的文字。</seg>
       </tuv>
     </tu>
     <tu>
