@@ -5819,6 +5819,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expect to have &lt;f0&gt;to &lt;/f0&gt;reposition objects, and possibly resize as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135114Z" creationid="Jeff Huang" creationdate="20180111T135114Z">
+        <seg>預期會重新定位物件，並可能同時調整大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Experiment until you get acceptable results.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144424Z" creationid="Franklin Weng" creationdate="20180105T144424Z">
