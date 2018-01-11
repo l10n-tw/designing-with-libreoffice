@@ -2579,8 +2579,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can modify dimensions lines from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensioning&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a graphic style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081430Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
-        <seg>&lt;f0&gt;你可以在圖樣的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸標註&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁修改尺寸。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120551Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
+        <seg>&lt;f0&gt;你可以在圖樣的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸標註&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁修改尺寸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12450,8 +12450,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To adjust a connector, go to the &lt;f0&gt;Connector&lt;/f0&gt; tab of a graphic style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021906Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
-        <seg>要調整連接符，請到圖樣的&lt;f0&gt;連接符&lt;/f0&gt;分頁。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120118Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
+        <seg>要調整連接符，請到圖樣的&lt;f0&gt;連接符&lt;/f0&gt;標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
