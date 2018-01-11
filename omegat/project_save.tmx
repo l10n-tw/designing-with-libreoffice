@@ -7220,6 +7220,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I borrow&lt;f1&gt;ed&lt;/f1&gt; rounded rectangles from the tool bar’s &lt;f2&gt;Rectangle&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124233Z" creationid="Jeff Huang" creationdate="20180111T124233Z">
+        <seg>我從工具列中的&lt;f2&gt;矩形&lt;/f2&gt;按鈕中借用圓角矩形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I have been writing about free and open source software for &lt;f0&gt;over &lt;/f0&gt;a decade.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T181717Z" creationid="zerng07" creationdate="20170822T150920Z">
@@ -8738,6 +8746,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T063757Z" creationid="Jeff Huang" creationdate="20171228T063757Z">
         <seg>線條在區域中繪出形狀的輪廓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lines ending with an arrow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124331Z" creationid="Jeff Huang" creationdate="20180111T124331Z">
+        <seg>以箭頭結尾的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lines starting with an arrow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124306Z" creationid="Jeff Huang" creationdate="20180111T124306Z">
+        <seg>以箭頭開始的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10999,6 +11023,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105411Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
         <seg>說明與備註的文字通常會小到只有 8 點，而標題與題名等則很少大於 28 點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124244Z" creationid="Jeff Huang" creationdate="20180111T124244Z">
+        <seg>文字</seg>
       </tuv>
     </tu>
     <tu>
