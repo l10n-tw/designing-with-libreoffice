@@ -4183,6 +4183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with any diagram, you can plan a flow chart by placing elements outside the margin of the document until you are ready to use them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T122244Z" creationid="Jeff Huang" creationdate="20180111T122244Z">
+        <seg>與任何其他的圖表相同，你可以在準備好使用特定元素前，透過將它們置於文件邊緣之外來設計流程圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with styles, the &lt;f0&gt;short&lt;/f0&gt; answer is, “&lt;f1&gt;Whenever possible.&lt;/f1&gt;” &lt;f2&gt;Not only are templates more efficient than designing from scratch, but using them consistently helps you get used to the concepts behind them.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101145Z" creationid="Franklin Weng" creationdate="20171212T100732Z">
@@ -5909,8 +5917,8 @@
       <tuv lang="EN">
         <seg>Flow charts &lt;f0&gt;appear to have been invented several times between 1850–1930.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T121305Z" creationid="Jeff Huang" creationdate="20180111T121305Z">
-        <seg>流程圖&lt;f0&gt;似乎在1850年至1930年間被發明了許多次。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T121909Z" creationid="Jeff Huang" creationdate="20180111T121305Z">
+        <seg>流程似乎在1850年至1930年間被發明了許多次。</seg>
       </tuv>
     </tu>
     <tu>
