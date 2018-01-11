@@ -5185,6 +5185,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create one each of the basic flow chart elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124536Z" creationid="Jeff Huang" creationdate="20180111T124536Z">
+        <seg>建立基礎流程圖元素的其中之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create two frames of equal width and height from &lt;f0&gt;Insert &gt; Frame.&lt;/f0&gt; One is for a graphic on the left, and the other for text on the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130203Z" creationid="Franklin Weng" creationdate="20171223T120856Z">
@@ -8758,6 +8766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lines starting and ending with an arrow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124359Z" creationid="Jeff Huang" creationdate="20180111T124359Z">
+        <seg>開始與結尾都是箭頭的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lines starting with an arrow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124306Z" creationid="Jeff Huang" creationdate="20180111T124306Z">
@@ -10935,6 +10951,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063302Z" creationid="zerng07" creationdate="20171212T063302Z">
         <seg>想用樣式得記住很多名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles should include settings for font effect, lines, area, and possibly transparency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124454Z" creationid="Jeff Huang" creationdate="20180111T124454Z">
+        <seg>樣式應該包含字型效果、線條、區域與透明度等設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13141,6 +13165,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152757Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
         <seg>範本管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the grid, size and position each shape and apply the style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124643Z" creationid="Jeff Huang" creationdate="20180111T124643Z">
+        <seg>為每個形狀選取網格、大小與位置，然後套用樣式。</seg>
       </tuv>
     </tu>
     <tu>
