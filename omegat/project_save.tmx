@@ -1205,8 +1205,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Animation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in a graphic style, you can set LibreOffice’s equivalent of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;HTML&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; tags, either making text blink off and on, or scroll in one of several ways in the text frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T125437Z" creationid="Jeff Huang" creationdate="20180108T125437Z">
-        <seg>&lt;f0&gt;在圖形樣式的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文字動畫&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁中，你可以設定 LibreOffice 中等價於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;HTML&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; 標籤的項目，不管是開關文字閃爍，或是以多種方式捲動文字方塊。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115625Z" creationid="Jeff Huang" creationdate="20180108T125437Z">
+        <seg>&lt;f0&gt;在圖形樣式的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文字動畫&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中，你可以設定 LibreOffice 中等價於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;HTML&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; 標籤的項目，不管是開關文字閃爍，或是以多種方式捲動文字方塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,6 +5189,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T185102Z" creationid="zerng07" creationdate="20170817T142039Z">
         <seg>專為GNU/Linux作業系統上之&lt;f0&gt;KDE&lt;/f0&gt;桌面環境所製作的字型，Oxygen是現代幾何風字型，形狀簡潔，但極為易讀，看起來很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a flow chart</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115551Z" creationid="Jeff Huang" creationdate="20180111T115551Z">
+        <seg>建立流程圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,8 +11038,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Transparency&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab&lt;/f2&gt; also includes options for creating a gradient, duplicating the options at &lt;f3&gt;Format &gt; Area &gt; Gradient&lt;/f3&gt; &lt;t4/&gt;&lt;f5&gt;(see above).&lt;/f5&gt; In terms of graphic styles, the tab’s gradient control allow&lt;f6&gt;s&lt;/f6&gt; you to customize gradients, while the &lt;f7&gt;Area&lt;/f7&gt; tab only lets you choose pre-defined gradients.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T064000Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「透明」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;分頁&lt;/f2&gt;也包含了建立件層的選項，其與&lt;f3&gt;「格式 &gt; 區塊 &gt; 漸層」&lt;/f3&gt;中的選項相同 &lt;t4/&gt;&lt;f5&gt;（參見上面的內容）。&lt;/f5&gt;就圖形樣式而言，分頁的漸層控制讓你可以自訂漸層，而&lt;f7&gt;區塊&lt;/f7&gt;分頁則僅能讓你選擇預先定義好的漸層。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115919Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「透明」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;標籤頁&lt;/f2&gt;也包含了建立件層的選項，其與&lt;f3&gt;「格式 &gt; 區塊 &gt; 漸層」&lt;/f3&gt;中的選項相同 &lt;t4/&gt;&lt;f5&gt;（參見上面的內容）。&lt;/f5&gt;就圖形樣式而言，標籤頁裡的漸層控制讓你可以自訂漸層，而&lt;f7&gt;區塊&lt;/f7&gt;標籤頁則僅能讓你選擇預先定義好的漸層。</seg>
       </tuv>
     </tu>
     <tu>
