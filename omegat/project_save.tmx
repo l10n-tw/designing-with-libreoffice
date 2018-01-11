@@ -2186,8 +2186,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for graphic text is roughly equivalent to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Background&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in some other types of styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035354Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
-        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;分頁大約等價於&lt;/f3&gt;在其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;分頁。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120041Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
+        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁大約等價於&lt;/f3&gt;在其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,8 +2370,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To add a fill, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and select the tab for the type of fill you want to add.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035252Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
-        <seg>&lt;f0&gt;要新增填充，使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並選取你想要新增的填充類型的分頁。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120015Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
+        <seg>&lt;f0&gt;要新增填充，使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並選取你想要新增的填充類型的標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11134,8 +11134,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Shadowing&lt;/f0&gt; tab lists settings to help customize a shadow.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T040300Z" creationid="Jeff Huang" creationdate="20171229T040300Z">
-        <seg>&lt;f0&gt;陰影&lt;/f0&gt;分頁列出了協助自訂陰影的設定。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120005Z" creationid="Jeff Huang" creationdate="20171229T040300Z">
+        <seg>&lt;f0&gt;陰影&lt;/f0&gt;標籤頁列出了協助自訂陰影的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11150,8 +11150,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab &lt;f1&gt;expresses transparency as a percentage, with 0 being an unmodified or solid color, and 100% being completely transparent.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060852Z" creationid="Jeff Huang" creationdate="20180104T060748Z">
-        <seg>&lt;f0&gt;「透明」&lt;/f0&gt;分頁&lt;f1&gt;以百分比的形式表示透明度，其中0為未修改或是純色，而100%則是完全透明。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115952Z" creationid="Jeff Huang" creationdate="20180104T060748Z">
+        <seg>&lt;f0&gt;「透明」&lt;/f0&gt;標籤頁&lt;f1&gt;以百分比的形式表示透明度，其中0為未修改或是純色，而100%則是完全透明。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
