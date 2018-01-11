@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add text to each object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135601Z" creationid="Jeff Huang" creationdate="20180111T135601Z">
+        <seg>新增文字到每個物件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjust the zoom so you &lt;f0&gt;can &lt;/f0&gt;work comfortably on the sample card.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130028Z" creationid="Franklin Weng" creationdate="20171223T120714Z">
@@ -7799,6 +7807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In 4.4 or higher, simply start typing inside each element.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T140315Z" creationid="Jeff Huang" creationdate="20180111T140315Z">
+        <seg>在4.4或更新的版本中，只要直接在每個元素中輸入文字就可以了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f0&gt;some releases of &lt;/f0&gt;LibreOffice, &lt;f1&gt;P&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;rint&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Preview&lt;/f4&gt; shows the borders around a table even if you have turned them off entirely.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084631Z" creationid="Jeff Huang" creationdate="20171214T065118Z">
@@ -7820,6 +7836,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090636Z" creationid="zerng07" creationdate="20171224T092232Z">
         <seg>在LibreOffice 4.4以前的發行版本，還有Apache OpenOffice中，你可以點按&lt;f1&gt;格式化&lt;/f1&gt;工具列中（底部的預設工具列）最左方的第一個圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice versions prior to 4.4, adding text requires creating text boxes and positioning them inside the flow chart elements, grouping them for &lt;t0/&gt;convenience.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135740Z" creationid="Jeff Huang" creationdate="20180111T135740Z">
+        <seg>在 LibreOffice 4.4 前的版本，新增文字需要建立文字方塊並將它們定位至流程圖的元素中，然後再將它們組成群組以方便使用。&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
