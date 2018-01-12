@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All features in a chart are editable, but LibreOffice supplies no means to save formatting choices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140328Z" creationid="Jeff Huang" creationdate="20180112T140328Z">
+        <seg>所有在圖表中的圖徽都是可編輯的，但 LibreOffice 無法儲存格式設定的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All objects inserted to a Writer document are contained by a frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175002Z" creationid="zerng07" creationdate="20171223T180040Z">
@@ -4756,6 +4764,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T131902Z" creationid="Franklin Weng" creationdate="20171231T131902Z">
         <seg>不過你確實要記得，相對於字族，所有的系統都是相似的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By changing the colors used in a chart, you can make the chart fit with other decisions about color in the document, or reflect corporate or project branding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140216Z" creationid="Jeff Huang" creationdate="20180112T140216Z">
+        <seg>透過變更在圖表中使用的色彩，你可以讓圖表符合其他在文件中關於色彩的決策，或是反映企業或專案品牌。</seg>
       </tuv>
     </tu>
     <tu>
