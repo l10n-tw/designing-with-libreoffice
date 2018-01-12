@@ -1082,6 +1082,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Except in Calc, t&lt;/f0&gt;he &lt;f1&gt;Chart&lt;/f1&gt; sub-system works much like the one for &lt;f2&gt;Font&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;w&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;ork&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135532Z" creationid="Jeff Huang" creationdate="20180112T135532Z">
+        <seg>除了 Calc 以外，&lt;f1&gt;圖表&lt;/f1&gt;子系統的運作方式比較像是美術字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Except with Template Changer or another extension, y&lt;/f0&gt;ou cannot &lt;f1&gt;directly change&lt;/f1&gt; &lt;f2&gt;which&lt;/f2&gt; template &lt;f3&gt;is &lt;/f3&gt;used by a &lt;f4&gt;document&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140021Z" creationid="Franklin Weng" creationdate="20171223T124732Z">
@@ -13607,6 +13615,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084807Z" creationid="Jeff Huang" creationdate="20171214T065738Z">
         <seg>當你發現&lt;f0&gt;沒有東西需要修改時&lt;/f0&gt;，那麼你就知道文件準備好&lt;f1&gt;出版或張貼到網路上了&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select &lt;f6&gt;Insert &gt; Chart&lt;/f6&gt;, LibreOffice adds a &lt;f7&gt;default&lt;/f7&gt; chart to your document – &lt;f8&gt;specifically, a &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;2d &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;bar graph&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135820Z" creationid="Jeff Huang" creationdate="20180112T135820Z">
+        <seg>當你選取&lt;f6&gt;「插入 &gt; 圖表」&lt;/f6&gt;後，LibreOffice 會新增一個&lt;f7&gt;預設的&lt;/f7&gt;圖表到你的文件中，&lt;f8&gt;準確地來說是一張&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;平面&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;長條圖&lt;/f11&gt;。</seg>
       </tuv>
     </tu>
     <tu>
