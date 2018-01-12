@@ -3525,6 +3525,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A chart or graph is a visual comparison of two or more pieces of data, such as the unemployment rate over time, &lt;f0&gt;or the distribution of results by population.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T134313Z" creationid="Jeff Huang" creationdate="20180112T134313Z">
+        <seg>圖表是兩種或更多資料，如失業率對時間，&lt;f0&gt;或是人口結果分佈等等的視覺化比較。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A consistent format doesn’t matter for some other reason.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143359Z" creationid="zerng07" creationdate="20171219T143359Z">
@@ -3754,6 +3762,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135601Z" creationid="Jeff Huang" creationdate="20180111T135601Z">
         <seg>新增文字到每個物件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding charts and graphs</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T134056Z" creationid="Jeff Huang" creationdate="20180112T134056Z">
+        <seg>新增圖表</seg>
       </tuv>
     </tu>
     <tu>
