@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add lines with arrows and their captions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T133248Z" creationid="Jeff Huang" creationdate="20180112T133248Z">
+        <seg>新增帶有箭頭的線條與它們的標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add more, and a file with embedded fonts may become too large to send as an attachment, especially to an account that can only receive attachments of a certain size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125539Z" creationid="Franklin Weng" creationdate="20180103T125539Z">
