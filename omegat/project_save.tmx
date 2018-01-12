@@ -14044,6 +14044,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>這一分節的原文與現在的 LibreOffice 版本行為不太一樣，我做了一些修改。</note>
+      <tuv lang="EN">
+        <seg>You can use &lt;f0&gt;c&lt;/f0&gt;harts in Writer &lt;f1&gt;by selecting &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert &gt; Object &gt; Chart &lt;/f3&gt;&lt;/f2&gt;from the main menu, or in other LibreOffice applications &lt;f4&gt;by selecting &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Insert &gt; Chart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135005Z" creationid="Jeff Huang" creationdate="20180112T135005Z">
+        <seg>你可以在 Writer 中使用圖表，請&lt;f1&gt;選取&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「插入 &gt; 圖表」&lt;/f3&gt;&lt;/f2&gt;，在其他 LibreOffice 應用程式中亦如是。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can use a sans serif for body text in North America, but it may be perceived as avant-garde.</seg>
       </tuv>
