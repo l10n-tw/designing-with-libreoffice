@@ -481,8 +481,8 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155443Z" creationid="zerng07" creationdate="20171224T155443Z">
-        <seg>&lt;/f6&gt;&lt;/f5&gt;」等等。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135021Z" creationid="zerng07" creationdate="20171224T155443Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -7867,6 +7867,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T101447Z" creationid="zerng07" creationdate="20171225T144501Z">
         <seg>在Apache OpenOffice&lt;f0&gt;和早期LibreOffice發行版中&lt;/f0&gt;，這個「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;欄位&lt;/f3&gt;稱為「&lt;f4&gt;連結到&lt;/f4&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, adding a chart opens a wizard that guides you through formatting a chart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135145Z" creationid="Jeff Huang" creationdate="20180112T135145Z">
+        <seg>在 Calc 中，新增圖表將會開啟精靈來指引你進行圖表的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
