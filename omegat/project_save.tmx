@@ -11628,6 +11628,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The chart uses the default chart &lt;f0&gt;colors&lt;/f0&gt;, which you can adjust in &lt;f1&gt;Tools &gt; Options &gt; Charts &gt; Default Colors &lt;/f1&gt;&lt;f2&gt;or by right-clicking on the chart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140026Z" creationid="Jeff Huang" creationdate="20180112T140026Z">
+        <seg>圖表使用預設的圖表&lt;f0&gt;色彩&lt;/f0&gt;，你可以在&lt;f1&gt;「工具 &gt; 選項 &gt; 圖表 &gt; 預設色彩」&lt;/f1&gt;中調整&lt;f2&gt;，或是在圖表上點按右鍵也可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The choice of fonts is meant to &lt;f0&gt;enhance your content&lt;/f0&gt;, not to &lt;f1&gt;make the layout the&lt;/f1&gt; center of attention.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T090205Z" creationid="Franklin Weng" creationdate="20171224T073018Z">
