@@ -3533,6 +3533,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A chart &lt;f0&gt;is&lt;/f0&gt; ready to edit &lt;f1&gt;when it has a gray border.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140537Z" creationid="Jeff Huang" creationdate="20180112T140537Z">
+        <seg>當圖表出現灰色邊框時，其即代表可以編輯。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A chart or graph is a visual comparison of two or more pieces of data, such as the unemployment rate over time, &lt;f0&gt;or the distribution of results by population.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T134313Z" creationid="Jeff Huang" creationdate="20180112T134313Z">
@@ -6611,6 +6619,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting charts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140448Z" creationid="Jeff Huang" creationdate="20180112T140448Z">
+        <seg>圖表格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting drawings</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T080540Z" creationid="Jeff Huang" creationdate="20171221T080540Z">
@@ -7810,6 +7826,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T121027Z" creationid="Jeff Huang" creationdate="20171220T084316Z">
         <seg>如果你想要&lt;f1&gt;以不同的方式套用此樣式&lt;/f1&gt;──也許是&lt;f2&gt;使用&lt;/f2&gt;不同顏色&lt;f3&gt;的形狀&lt;/f3&gt;來指出不同的部門&lt;f4&gt;或是專案領導人&lt;/f4&gt;──從&lt;f10&gt;組織者&lt;/f10&gt;標籤頁使用&lt;f5&gt;&lt;f6&gt;繼承自&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;與&lt;/f7&gt;&lt;f8&gt;下一&lt;/f8&gt;&lt;f9&gt;欄&lt;/f9&gt;來建立名字像是&lt;f11&gt;位置框&lt;/f11&gt; &lt;f12&gt;或&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;專案領導人&lt;/f14&gt;&lt;/f13&gt;的子樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want a chart to look similar to another one, you &lt;f0&gt;must&lt;/f0&gt; copy and paste.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140433Z" creationid="Jeff Huang" creationdate="20180112T140433Z">
+        <seg>如果你想要讓一張圖表看起來像另一個，你&lt;f0&gt;必須&lt;/f0&gt;複製並貼上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12780,6 +12804,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125225Z" creationid="Franklin Weng" creationdate="20171223T095033Z">
         <seg>建例樣本卡片：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the &lt;f0&gt;look and &lt;/f0&gt;structure of a chart, click twice until the chart is outlined by a thick gray border.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140656Z" creationid="Jeff Huang" creationdate="20180112T140656Z">
+        <seg>要編輯圖表的外觀與結構，在圖表外框是厚灰色邊框時點按兩下。</seg>
       </tuv>
     </tu>
     <tu>
