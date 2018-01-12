@@ -13009,6 +13009,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, in Writer, Draw, and Impress, you must format manually without styles or much of anything else to help you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135428Z" creationid="Jeff Huang" creationdate="20180112T135428Z">
+        <seg>不幸的是，在 Writer、Draw 與 Impress 中，你必須在沒有樣式或其他功能協助你的情況下手動進行格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately, some of the original formatting, including the text color and any underlining, &lt;f0&gt;sometimes remains when available system memory is low.&lt;/f0&gt; When it does, applying the &lt;f1&gt;Default&lt;/f1&gt; character style may remove it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135538Z" creationid="zerng07" creationdate="20171226T135538Z">
