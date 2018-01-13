@@ -1267,6 +1267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;GL3D Bar:&lt;/f0&gt; &lt;f1&gt;A bar graph that uses OpenGL for rendering three dimensional graphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134445Z" creationid="Jeff Huang" creationdate="20180113T134445Z">
+        <seg>&lt;f0&gt;GL3D 條狀圖：&lt;/f0&gt;&lt;f1&gt;使用 OpenGL 算繪三維圖表的條狀圖表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;eader/footer height.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150747Z" creationid="Franklin Weng" creationdate="20180105T150747Z">
@@ -1713,6 +1721,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063556Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
         <seg>&lt;f0&gt;中間&lt;/f0&gt;：相同字型，但是是製成後的 small capitals。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Most of these types of charts have sub-types as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134648Z" creationid="Jeff Huang" creationdate="20180113T134648Z">
+        <seg>&lt;f0&gt;這幾個類型的圖表也大多都有子類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5159,7 +5175,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>我在 5.4 版中怎麼算都只有 10 種Orz</note>
       <tuv lang="EN">
         <seg>Charts are available in &lt;f0&gt;eleven&lt;/f0&gt; types, many in &lt;f1&gt;both &lt;/f1&gt;2D and 3D.</seg>
       </tuv>
@@ -12741,6 +12756,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083948Z" creationid="Jeff Huang" creationdate="20171214T063149Z">
         <seg>這種檢查對交叉參照尤其重要，因為在你編輯的時候，這些參照的位置有可能已經改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This choice only works when your video &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;driver has hardware acceleration, which some Linux installations will not have.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134557Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
+        <seg>這個選擇僅當你的視訊&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;驅動程式有硬體加速時才能運作，部份 Linux 安裝是沒有的。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
