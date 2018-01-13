@@ -776,6 +776,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Bar: &lt;/f0&gt;&lt;f1&gt;The data displays in horizontal columns.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132110Z" creationid="Jeff Huang" creationdate="20180113T132110Z">
+        <seg>&lt;f0&gt;橫列：&lt;/f0&gt;&lt;f1&gt;資料以橫列顯示。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Below: Lining figures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145848Z" creationid="Franklin Weng" creationdate="20171225T135252Z">
@@ -966,6 +974,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120627Z" creationid="zerng07" creationdate="20171226T105442Z">
         <seg>&lt;f0&gt;點按&lt;/f0&gt;清單最底部的「&lt;f1&gt;&lt;f2&gt;更多樣式...&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;連結，會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;樣式和格式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗或側邊欄。至於從各樣式自身的下拉選單中選取&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;編輯樣式&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;，則會開啟該樣式的對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Column: &lt;/f0&gt;&lt;f1&gt;The data displays in vertical columns.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132009Z" creationid="Jeff Huang" creationdate="20180113T132009Z">
+        <seg>&lt;f0&gt;直欄：&lt;/f0&gt;&lt;f1&gt;資料以直欄顯示。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1825,6 +1841,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082118Z" creationid="zerng07" creationdate="20171224T082118Z">
         <seg>&lt;f0&gt;頁面&lt;/f0&gt;樣式可以設定&lt;f1&gt;所選工作表&lt;/f1&gt;或儲存格在列印成紙本時的安排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Pie:&lt;/f0&gt; &lt;f1&gt;Chart data is depicted as wedges in a round shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132249Z" creationid="Jeff Huang" creationdate="20180113T132249Z">
+        <seg>&lt;f0&gt;圓餅：&lt;/f0&gt;&lt;f1&gt;圖表資料被描繪為圓形。</seg>
       </tuv>
     </tu>
     <tu>
