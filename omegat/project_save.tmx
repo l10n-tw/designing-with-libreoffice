@@ -816,6 +816,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Bubble:&lt;/f0&gt; &lt;f1&gt;A graph that displays three dimensions: the X and Y axis and the size of the bubble that depicts the data point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133543Z" creationid="Jeff Huang" creationdate="20180113T133543Z">
+        <seg>&lt;f0&gt;泡泡：&lt;/f0&gt;&lt;f1&gt;顯示三個維度的圖表：X 與 Y 軸和描繪資料點大小的泡泡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;But always&lt;/f0&gt;, the initial hours lost to template design have &lt;f1&gt;still &lt;/f1&gt;been regained countless times over the years.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102246Z" creationid="Franklin Weng" creationdate="20171212T101036Z">
