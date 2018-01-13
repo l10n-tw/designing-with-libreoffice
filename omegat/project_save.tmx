@@ -2168,6 +2168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Stick with the chart types you understand – if you don’t know the uses of a graph, or are unable to see what is useful about a sub-type, you shouldn’t be using it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T135226Z" creationid="Jeff Huang" creationdate="20180113T135226Z">
+        <seg>&lt;f0&gt;盡可能使用你已經了解的圖表類型，若你不知道圖表的用途，或是無法看出一個子類型有什麼用途，你就不應該使用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Stock: &lt;/f0&gt;&lt;f1&gt;As the name implies, a graph often used to show changes in stock values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134122Z" creationid="Jeff Huang" creationdate="20180113T134122Z">
