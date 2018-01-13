@@ -5063,6 +5063,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>我在 5.4 版中怎麼算都只有 10 種Orz</note>
+      <tuv lang="EN">
+        <seg>Charts are available in &lt;f0&gt;eleven&lt;/f0&gt; types, many in &lt;f1&gt;both &lt;/f1&gt;2D and 3D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131729Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
+        <seg>圖表一共有&lt;f0&gt;十一種&lt;/f0&gt;類型，大多數都&lt;f1&gt;同時&lt;/f1&gt;有 2D 與 3D 的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Check the attachments in email&lt;f0&gt;s that you have sent.&lt;/f0&gt;</seg>
       </tuv>
@@ -7104,6 +7113,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T082418Z" creationid="Jeff Huang" creationdate="20171213T032932Z">
         <seg>然而，就像所有的手動格式設定一樣，你添加得越多，文件就越難維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, many charts only require one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131404Z" creationid="Jeff Huang" creationdate="20180113T131404Z">
+        <seg>不過，大多數的圖表只需要一個。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10490,6 +10507,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting chart types</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131415Z" creationid="Jeff Huang" creationdate="20180113T131415Z">
+        <seg>選取圖表類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting fonts by font styles / &lt;f0&gt;typefaces&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063645Z" creationid="Franklin Weng" creationdate="20171228T063645Z">
@@ -11712,6 +11737,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
         <seg>交叉參照只能在主控文件中正確顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default chart includes &lt;f0&gt;three&lt;/f0&gt; Y axis values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131343Z" creationid="Jeff Huang" creationdate="20180113T131343Z">
+        <seg>預設的圖表包含了&lt;f0&gt;三個&lt;/f0&gt; Y 軸的值。</seg>
       </tuv>
     </tu>
     <tu>
