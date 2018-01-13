@@ -9647,6 +9647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often, the differences in the sub-types are subtle, so you may have to look twice to see the difference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134844Z" creationid="Jeff Huang" creationdate="20180113T134844Z">
+        <seg>一般來說，子類型的不同之處都是標題，所以你可能要多看幾次才能看出差別。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often, those key elements should be headings, because they are useful in many other ways.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T065934Z" creationid="Jeff Huang" creationdate="20171123T080111Z">
@@ -12299,6 +12307,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122820Z" creationid="zerng07" creationdate="20171226T121500Z">
         <seg>無論你是用「&lt;f0&gt;貼上&lt;/f0&gt;」或「&lt;f1&gt;選擇性貼上&lt;/f1&gt;」，或是從一份文件複製內容貼到另一份文件上，複製並貼上樣式時所遵循的規則很簡單：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same is also true for the three dimensional options for most types of graphs, which can have a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Simple&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Realistic&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; rendering.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T135014Z" creationid="Jeff Huang" creationdate="20180113T135014Z">
+        <seg>多種圖表的 3D 選項也是如此，其可以有&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;簡單&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;真實&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;的算繪。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
