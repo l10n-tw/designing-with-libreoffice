@@ -718,6 +718,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Area:&lt;/f0&gt; A line graph with several lines, and the space between lines shaded in with colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133101Z" creationid="Jeff Huang" creationdate="20180113T133101Z">
+        <seg>&lt;f0&gt;面積：&lt;/f0&gt;有許多線條的圖表，在線條間的空間有色彩填充。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LibreOffice 中看不到這些類別。作者可能有一些其他來源的範本，例如裝過 StarOffice 或 Lotus Symphony 之類的發行版提供這些東西？！需要改寫。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;As shown above, you might have sub-folders such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for templates that use American and Canadian English locales for dictionaries.</seg>
@@ -2557,6 +2565,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103911Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
         <seg>&lt;f0&gt;範本精靈&lt;/f0&gt;可以從「&lt;f1&gt;檔案 &gt; 精靈&lt;/f1&gt;」選單中找到。&lt;f3&gt;有些精靈會有使用LibreOffice Base資料庫，或是從電子郵件客戶端的通訊錄填入欄位中的功能，這對用於需要大量發信的文件來說很有用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;XY (Scatter): &lt;/f0&gt;&lt;f1&gt;A type of chart for comparing the results of two or more trials of an experiment.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133329Z" creationid="Jeff Huang" creationdate="20180113T133329Z">
+        <seg>&lt;f0&gt;XY（散佈）：&lt;/f0&gt;&lt;f1&gt;比較兩個或更多實驗中的嘗試的圖表類型。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
