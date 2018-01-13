@@ -2144,6 +2144,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Stock: &lt;/f0&gt;&lt;f1&gt;As the name implies, a graph often used to show changes in stock values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134122Z" creationid="Jeff Huang" creationdate="20180113T134122Z">
+        <seg>&lt;f0&gt;股票：&lt;/f0&gt;&lt;f1&gt;就像名稱所暗示的，這個圖表經常用於顯示股票價值的變動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Straight: &lt;/f0&gt;A connector that consists of a single vertical or horizontal line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020335Z" creationid="Jeff Huang" creationdate="20171229T020335Z">
@@ -4283,6 +4291,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054437Z" creationid="Jeff Huang" creationdate="20171111T133329Z">
         <seg>你用的是讀者群說話的方式嗎？用的是他們所能理解的行話嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result, results are not a point or a line, but an enclosed shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133839Z" creationid="Jeff Huang" creationdate="20180113T133839Z">
+        <seg>結果不是一個點或一條線，而是一個封閉的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12829,6 +12845,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125939Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
         <seg>權重的意思是用組成各個字母的線條粗細做為參考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This type of chart can be difficult to read for an audience not accustomed to it.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133941Z" creationid="Jeff Huang" creationdate="20180113T133941Z">
+        <seg>這個類型的圖表對於不熟悉它的讀者來說可能會難以閱讀。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
