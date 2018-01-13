@@ -1725,6 +1725,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Net: &lt;/f0&gt;&lt;f1&gt;A chart in which every X axis has a separate Y axis.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133744Z" creationid="Jeff Huang" creationdate="20180113T133744Z">
+        <seg>&lt;f0&gt;網狀：&lt;/f0&gt;&lt;f1&gt;每個 X 軸都有獨立的 Y 軸的圖表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Next Style:&lt;/f0&gt; The style that is automatically used next when you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T154451Z" creationid="zerng07" creationdate="20171225T153747Z">
@@ -4747,6 +4755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T131945Z" creationid="Franklin Weng" creationdate="20180101T131945Z">
         <seg>封閉弧型（Bowls）：像是字母“b”、“d”、“o”等，會封閉起來的弧型部份稱為 Bowl。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bubble graphs are a variation of an XY chart.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133637Z" creationid="Jeff Huang" creationdate="20180113T133637Z">
+        <seg>泡泡圖就是 XY 圖的變形。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
