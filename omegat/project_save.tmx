@@ -994,6 +994,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Column and Line:&lt;/f0&gt; &lt;f1&gt;A chart that offers both a column and line representation of the same data.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134339Z" creationid="Jeff Huang" creationdate="20180113T134339Z">
+        <seg>&lt;f0&gt;欄與線：&lt;/f0&gt;&lt;f1&gt;同時提供了同一份資料欄與線表示方式的圖表。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Column: &lt;/f0&gt;&lt;f1&gt;The data displays in vertical columns.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132009Z" creationid="Jeff Huang" creationdate="20180113T132009Z">
@@ -8591,6 +8599,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T165423Z" creationid="zerng07" creationdate="20170817T151207Z">
         <seg>這好比說&lt;f0&gt;雖然&lt;/f0&gt;我們剛學會怎麼讓汽車順著下坡，還有&lt;f1&gt;在平地四處晃&lt;/f1&gt;，但卻都還沒學過怎樣發動引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is described technically as a depiction of changes in the values of the X axis.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134201Z" creationid="Jeff Huang" creationdate="20180113T134201Z">
+        <seg>其在技術上是描述 X 軸的值變化的圖。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
