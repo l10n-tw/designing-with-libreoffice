@@ -1066,6 +1066,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Designing with&lt;/f0&gt; master slides</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T133932Z" creationid="Franklin Weng" creationdate="20180114T133932Z">
+        <seg>&lt;f0&gt;使用母片做設計&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object styles (also known as Image styles and formerly as Graphic styles)&lt;/f0&gt; define the characteristics of a &lt;f1&gt;d&lt;/f1&gt;rawing object in Draw or Impress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074347Z" creationid="Jeff Huang" creationdate="20171220T074347Z">
@@ -1078,6 +1086,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074159Z" creationid="Jeff Huang" creationdate="20171220T074159Z">
         <seg>&lt;f0&gt;繪製物件&lt;/f0&gt;&lt;f1&gt;樣式與圖表&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>改寫為現況並注記 4.x 版。截圖可能要截 5.x 版較理想</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;E&lt;/f0&gt;dit master slides &lt;f1&gt;from&lt;/f1&gt; &lt;f2&gt;View &gt; Master &gt; Slide Master.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134634Z" creationid="Franklin Weng" creationdate="20180114T134623Z">
+        <seg>要編輯母片，&lt;f2&gt;從選單中的「檢視 &gt; 投影片母片」來編輯。（LibreOffice 4.x 版為「檢視 &gt; 母片 &gt; 投影片母片」）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1199,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111821Z" creationid="Franklin Weng" creationdate="20171213T121123Z">
         <seg>「&lt;f0&gt;檔案 &gt; 範本&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; 管理&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;或是&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;檔案 &gt; 範本選單&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;，依所使用的作業系統或軟體版本而有不同。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Find&lt;/f0&gt; &lt;f1&gt;a&lt;/f1&gt; background &lt;f2&gt;template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134710Z" creationid="Franklin Weng" creationdate="20180114T134710Z">
+        <seg>&lt;f0&gt;先找&lt;/f0&gt;一個背景&lt;f2&gt;範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3056,6 +3081,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014810Z" creationid="Jeff Huang" creationdate="20171229T014810Z">
         <seg>&lt;f1&gt;即便物件移動了，它們也可以讓兩個物件保持連接狀態。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;They set&lt;/f1&gt; the look of your slides &lt;f2&gt;in one place rather than for each slide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134046Z" creationid="Franklin Weng" creationdate="20180114T134046Z">
+        <seg>&lt;f1&gt;母片可以&lt;/f1&gt;將投影片的外觀&lt;f2&gt;在一處設定好，而不用每張投影片都重新設定。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,6 +5514,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating &lt;f0&gt;m&lt;/f0&gt;aster &lt;f1&gt;s&lt;/f1&gt;lides</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134642Z" creationid="Franklin Weng" creationdate="20180114T134642Z">
+        <seg>建立母片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a flow chart</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115551Z" creationid="Jeff Huang" creationdate="20180111T115551Z">
@@ -7404,6 +7445,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, unlike page styles, each master slide also has its own set of styles &lt;f3&gt;for text&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134124Z" creationid="Franklin Weng" creationdate="20180114T134124Z">
+        <seg>不過，跟頁面樣式不同的是，每張母片都有它自己的&lt;f3&gt;文字&lt;/f3&gt;樣式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, whatever the conditions, the fonts you choose should never be more noticeable than the content.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T090038Z" creationid="Franklin Weng" creationdate="20171224T072932Z">
@@ -7488,6 +7537,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034825Z" creationid="Jeff Huang" creationdate="20171229T034825Z">
         <seg>不過你可以使用繪製來自行定義填充。&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you may want design elements such as reversing the background and foreground colors on title and biography pages to emphasize their differences from the body of the presentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134245Z" creationid="Franklin Weng" creationdate="20180114T134245Z">
+        <seg>不過，你可以設計一些不同的母片，例如在題名與參考書目的地方把前景背景顏色反轉，以強調它們與簡報主體的不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9319,6 +9376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master slides are Impress’ equivalent of Writer’&lt;f0&gt;s&lt;/f0&gt; page styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T133959Z" creationid="Franklin Weng" creationdate="20180114T133959Z">
+        <seg>Impress 中的「母片」（Master slides）就相當於 Writer 中的頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matching &lt;f0&gt;by &lt;/f0&gt;historical categories</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132000Z" creationid="Franklin Weng" creationdate="20180103T132000Z">
@@ -9451,6 +9516,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173222Z" creationid="zerng07" creationdate="20171223T173116Z">
         <seg>大多數的辦公套裝軟體都限定在文書處理器中使用樣式，一般只有段落樣式和字元樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most presentations need only a single master slide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134133Z" creationid="Franklin Weng" creationdate="20180114T134133Z">
+        <seg>大部份的簡報都只需要一種母片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10653,6 +10726,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074521Z" creationid="zerng07" creationdate="20171224T084007Z">
         <seg>從選單列中選取「&lt;f0&gt;樣式 &gt; 樣式和格式設定&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a presentation structure from &lt;f0&gt;File &gt; New &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; LibreOffice has a separate folder in the &lt;f4&gt;T&lt;/f4&gt;emplate &lt;f5&gt;Manager&lt;/f5&gt; for structures, marked simply &lt;f6&gt;Presentations.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135533Z" creationid="Franklin Weng" creationdate="20180114T135150Z">
+        <seg>也可以在「&lt;f0&gt;檔案 &gt; 新增 &gt; 範本&lt;/f0&gt;」中選取一個符合你需要的簡報結構的範本。在 LibreOffice 中的「範本」視窗中，可以透過「篩選器」選取「&lt;f6&gt;簡報&lt;/f6&gt;」，裡面就有許多種不同結構的簡報範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13096,6 +13177,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create each master slide:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134650Z" creationid="Franklin Weng" creationdate="20180114T134650Z">
+        <seg>建立母片的方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create the sample card:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125225Z" creationid="Franklin Weng" creationdate="20171223T095033Z">
@@ -14619,6 +14708,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140937Z" creationid="Franklin Weng" creationdate="20171223T130941Z">
         <seg>你也可以使用將文件中的手動格式設定轉換成範本的功能，但直接修改範本才是比較可靠、實際的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>改寫為現況，現況的範本視窗中沒有「顏色」。
+</note>
+      <tuv lang="EN">
+        <seg>You might find one in the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Presentations Backgrounds&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; folder of the Template Manager, or else create one&lt;/f5&gt; using Draw or a third-party application like &lt;f6&gt;GIMP&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135254Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
+        <seg>你可以&lt;/f2&gt;用 Draw 或其他像是 &lt;f6&gt;GIMP&lt;/f6&gt; 之類的美術設計軟體來建立母片的背景。</seg>
       </tuv>
     </tu>
     <tu>
