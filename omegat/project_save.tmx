@@ -1573,6 +1573,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In other circumstances, you might omit the bibliography, but, if you do, be ready to provide your sources for those who ask for them.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055856Z" creationid="Franklin Weng" creationdate="20180114T055856Z">
+        <seg>&lt;f0&gt;在其他的狀況下，通常不太需要列出參考資料。不過如果要列，要記得聽眾詢問時要拿得出來。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In other words, they occupy the same vertical and horizontal space, although they may otherwise be designed differently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135711Z" creationid="zerng07" creationdate="20170817T135446Z">
@@ -3076,6 +3084,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Usually, if you use sub-titles, you should also use a talk outline.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055419Z" creationid="Franklin Weng" creationdate="20180114T055419Z">
+        <seg>&lt;f1&gt;通常，如果你用了次標題頁，前面就要搭配使用演講大綱。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Usually,&lt;/f1&gt; the more you use styles, the more time you save.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T060639Z" creationid="zerng07" creationdate="20171212T060639Z">
@@ -3808,8 +3824,8 @@
       <tuv lang="EN">
         <seg>A sub-title page: Sub-title pages can be &lt;f0&gt;shown brief&lt;/f0&gt;ly to let listeners know what stage your talk is at.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T133042Z" creationid="Franklin Weng" creationdate="20180109T133042Z">
-        <seg>A sub-title page: Sub-title pages can be &lt;f0&gt;shown brief&lt;/f0&gt;ly to let listeners know what stage your talk is at.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055353Z" creationid="Franklin Weng" creationdate="20180109T133042Z">
+        <seg>次標題頁：次標題業是用來&lt;f0&gt;簡單顯示&lt;/f0&gt;你的演講進行到哪一個階段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3898,6 +3914,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T134056Z" creationid="Jeff Huang" creationdate="20180112T134056Z">
         <seg>新增圖表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding tables can be laborious in Impress, so add a slide with a table in the colors you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T133630Z" creationid="Franklin Weng" creationdate="20180114T133630Z">
+        <seg>在 Impress 中加入表格有時是很費力的，所以可以加一張投影片放表格，並用顏色突顯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4695,6 +4719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bibliography: In a formal or academic presentation, you may want to show your sources and comment on them briefly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055817Z" creationid="Franklin Weng" creationdate="20180114T055817Z">
+        <seg>參考資料：在正式或學術發表的場合，你可能會需要展示你的內容的參考來源，並且簡單介紹評論一下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Biography: &lt;f0&gt;P&lt;/f0&gt;laced near the start, this slide is not a general life history, but &lt;f1&gt;proof that &lt;/f1&gt;you &lt;f2&gt;are&lt;/f2&gt; an expert on &lt;f3&gt;your&lt;/f3&gt; subject, &lt;f4&gt;and that your ideas are worth listening to.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132734Z" creationid="Franklin Weng" creationdate="20180109T132734Z">
@@ -5349,6 +5381,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175411Z" creationid="zerng07" creationdate="20171223T175411Z">
         <seg>常用的段落樣式包括內文&lt;t4/&gt;和標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conclusion: &lt;f0&gt;A&lt;/f0&gt; summary, &lt;f1&gt;a call to action, or an example that emphasizes your main point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055620Z" creationid="Franklin Weng" creationdate="20180114T055620Z">
+        <seg>結論頁：總結，&lt;f1&gt;接下來的行動計畫，或是再次強調你的主要重點的範例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6831,6 +6871,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150557Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
         <seg>一般來說，你可能會希望盡量避免&lt;f0&gt;讓文件與其範本失去連結。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally, you want to time your presentation so that the audience has at least fifteen minutes to discuss it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T060013Z" creationid="Franklin Weng" creationdate="20180114T060013Z">
+        <seg>一般來說，你的簡報時間要控制好，至少要留 15 分鐘來討論。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10275,6 +10323,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Question: The last slide in the presentation, the Question slide indicates that you are opening the topic to general discussion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055941Z" creationid="Franklin Weng" creationdate="20180114T055941Z">
+        <seg>問答：簡報的最後一張投影片。到了這一頁表示可以開始讓大家提問並討論。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Raleway Thin, to take one example, &lt;f0&gt;is&lt;/f0&gt; too pale for body text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043256Z" creationid="Franklin Weng" creationdate="20180106T043256Z">
@@ -13669,6 +13725,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141316Z" creationid="zerng07" creationdate="20171212T141316Z">
         <seg>你對樣式做的設定會套用到&lt;f0&gt;所有&lt;/f0&gt;文件上，&lt;f1&gt;所以&lt;/f1&gt;樣式比起手動格式設定更侷限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever tactic you choose, the &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;conclusion is your last chance to leave an impression with listeners.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055653Z" creationid="Franklin Weng" creationdate="20180114T055653Z">
+        <seg>不管你選用什麼樣的策略，&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;結論頁都是你給聽眾深刻印象的最後機會。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
