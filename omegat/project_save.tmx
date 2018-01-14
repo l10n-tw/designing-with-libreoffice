@@ -10007,6 +10007,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現狀修改。</note>
+      <tuv lang="EN">
+        <seg>Optionally, click the &lt;f0&gt;Rename Master&lt;/f0&gt; icon &lt;f1&gt;i&lt;/f1&gt;n the floating window &lt;f2&gt;i&lt;/f2&gt;n the top middle of the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T140314Z" creationid="Franklin Weng" creationdate="20180114T135743Z">
+        <seg>此外，在編輯母片時，可以透過選單中的「投影片 &gt; 重新命名投影片」，或是在投影片預覽視窗中，對著母片縮圖點按右鍵，選擇「重新命名母片」來修改母片名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Or maybe a font has some &lt;/f0&gt;association with the content – for instance, &lt;f1&gt;at least&lt;/f1&gt; one &lt;f2&gt;edition&lt;/f2&gt; of Arthur Conan Doyle’s &lt;f3&gt;The Hound of the Baskervilles&lt;/f3&gt; &lt;f4&gt;was&lt;/f4&gt; printed in Baskerville &lt;f5&gt;font.&lt;/f5&gt;</seg>
       </tuv>
@@ -10509,6 +10518,23 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click anywhere on the &lt;f0&gt;master &lt;/f0&gt;slide and select &lt;f1&gt;Set Background &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Image&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; for Slide &lt;/f4&gt;&lt;f5&gt;or the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Available for Use&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; pane in the sidebar&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T140941Z" creationid="Franklin Weng" creationdate="20180114T140941Z">
+        <seg>在編輯母片時，選擇「投影片 &gt; 設定背景影像」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀改寫</note>
+      <tuv lang="EN">
+        <seg>Right-click anywhere on the master slide and select &lt;f0&gt;Page &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;etup&lt;/f3&gt; to set the slide dimensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T140435Z" creationid="Franklin Weng" creationdate="20180114T140435Z">
+        <seg>在母片上空白處點按右鍵，並選擇「屬性」，可以設定母片頁面的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a style in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window and select &lt;f1&gt;Modify&lt;/f1&gt; to edit the selected style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T024242Z" creationid="zerng07" creationdate="20171227T024242Z">
@@ -10726,6 +10752,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074521Z" creationid="zerng07" creationdate="20171224T084007Z">
         <seg>從選單列中選取「&lt;f0&gt;樣式 &gt; 樣式和格式設定&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀改寫</note>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;View &gt; Master &gt; Slide Master.&lt;/f0&gt; The Slide Master&lt;f1&gt; &lt;/f1&gt;view opens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135619Z" creationid="Franklin Weng" creationdate="20180114T135619Z">
+        <seg>選擇「&lt;f0&gt;檢視 &gt; 投影片母片&lt;/f0&gt;」，就會開啟母片編輯的功能。</seg>
       </tuv>
     </tu>
     <tu>
