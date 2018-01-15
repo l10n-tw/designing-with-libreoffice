@@ -8337,8 +8337,8 @@
       <tuv lang="EN">
         <seg>If you use old style figures for numbers, use small caps beside them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T054819Z" creationid="Franklin Weng" creationdate="20171228T050108Z">
-        <seg>如果你的阿拉伯數字是舊式數字，可以合併搭配小型大寫字母。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T054848Z" creationid="Franklin Weng" creationdate="20171228T050108Z">
+        <seg>如果你的阿拉伯數字是舊式數字，旁邊可以搭配使用小型大寫字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9899,8 +9899,8 @@
       <tuv lang="EN">
         <seg>Normal caps look outlandishly large beside old style figures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T050131Z" creationid="Franklin Weng" creationdate="20171228T050131Z">
-        <seg>因為在舊式數字字型旁邊放一般大寫字母的話，字母會看起來特別大。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T054930Z" creationid="Franklin Weng" creationdate="20171228T050131Z">
+        <seg>因為在舊式數字旁放一般大寫字母的話，這些字母會看起來會異常的大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,8 +13706,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Top: True small caps, created using the font’s metrics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T052550Z" creationid="Franklin Weng" creationdate="20171228T050147Z">
-        <seg>上方：Small caps 的大寫字母，用字型的詮釋資料所建立。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T055253Z" creationid="Franklin Weng" creationdate="20171228T050147Z">
+        <seg>上方：真正的小型大寫字母，使用字型提供的特性設計製作。</seg>
       </tuv>
     </tu>
     <tu>
