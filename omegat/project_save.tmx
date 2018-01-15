@@ -5529,6 +5529,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click twice on the chart so that it is surrounded by a gray bord&lt;f0&gt;er&lt;/f0&gt;, then &lt;f1&gt;o&lt;/f1&gt;pen the right-click menu to select&lt;f2&gt; Chart Type &lt;/f2&gt;and choose the chart design to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T033121Z" creationid="Jeff Huang" creationdate="20180115T033121Z">
+        <seg>在圖表上點按兩次以使其被灰色邊框包圍，然後開啟右鍵選單以選取要使用的&lt;f2&gt;圖表類型&lt;/f2&gt;與圖表設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175105Z" creationid="zerng07" creationdate="20171223T175105Z">
@@ -9212,6 +9220,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T161558Z" creationid="zerng07" creationdate="20170822T161558Z">
         <seg>LibreOffice&lt;f0&gt;並不&lt;/f0&gt;完美。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice adds a 2D bar chart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032938Z" creationid="Jeff Huang" creationdate="20180115T032938Z">
+        <seg>LibreOffice 加入平面長條圖。</seg>
       </tuv>
     </tu>
     <tu>
