@@ -1696,8 +1696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In most circumstances, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Color&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Effects&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields are the most useful.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T120942Z" creationid="Franklin Weng" creationdate="20180101T120942Z">
-        <seg>&lt;f0&gt;在大部份情況下，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型色彩&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;效果&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位都很有用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120710Z" creationid="Franklin Weng" creationdate="20180101T120942Z">
+        <seg>&lt;f0&gt;在大部份情況下，&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;字型色彩&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;和&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;效果&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;欄位是最常用的部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2459,8 +2459,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Effects&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab contains a variety of features, with widely differing degrees of usefulness.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120612Z" creationid="Franklin Weng" creationdate="20180101T120822Z">
-        <seg>&lt;f2&gt;字型效果&lt;/f2&gt;&lt;f3&gt;標籤頁中有許多好用功能，涵蓋非常廣泛。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120629Z" creationid="Franklin Weng" creationdate="20180101T120822Z">
+        <seg>&lt;f2&gt;字型效果&lt;/f2&gt;&lt;f3&gt;標籤頁中有許多好用功能，涵蓋範圍非常廣泛。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5292,8 +5292,8 @@
       <tuv lang="EN">
         <seg>By contrast, &lt;f0&gt;&lt;f1&gt;Overlining&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Strikethrough&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Underlining&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;have limited use in most circumstances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121303Z" creationid="Franklin Weng" creationdate="20180101T121303Z">
-        <seg>相反地，&lt;f0&gt;&lt;f1&gt;頂線&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;刪除線&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;和&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;底線&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;在大部份情況下用途都很有限。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120954Z" creationid="Franklin Weng" creationdate="20180101T121303Z">
+        <seg>至於「&lt;f0&gt;&lt;f1&gt;頂線&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;、&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;刪除線&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;和&lt;/f5&gt;「&lt;f6&gt;&lt;f7&gt;底線&lt;/f7&gt;&lt;/f6&gt;」在大多數情況下用途都很有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9310,8 +9310,8 @@
       <tuv lang="EN">
         <seg>In particular, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Effects&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field includes the option for &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, which are used to make two or more upper case letters in a row more readable.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121155Z" creationid="Franklin Weng" creationdate="20180101T121155Z">
-        <seg>特別是，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;效果&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;欄位包含了一些給&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;，也就是前面提到，讓兩個以上的大寫字母放在一起讀起來比較容易的字型的效果。&lt;/f12&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120850Z" creationid="Franklin Weng" creationdate="20180101T121155Z">
+        <seg>尤其是&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;效果&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;欄位包含&lt;/f9&gt;「&lt;f10&gt;&lt;f11&gt;小型大寫字母&lt;/f11&gt;&lt;/f10&gt;」的選項&lt;f12&gt;，也就是前面提到能讓兩個以上的大寫字母放在一起，讀起來更加容易的字型效果。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
