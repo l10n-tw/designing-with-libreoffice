@@ -1704,8 +1704,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the digital age, this measurement &lt;/f0&gt;has been standardized as one-seventy-second of an inch &lt;f1&gt;or 2.5 centimeters&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T083947Z" creationid="Franklin Weng" creationdate="20171231T132106Z">
-        <seg>&lt;f0&gt;在數位時代，字型的大小是以 1/72 英吋（一英吋約為 2.5 公分）為單位來測量。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T080614Z" creationid="Franklin Weng" creationdate="20171231T132106Z">
+        <seg>&lt;f0&gt;在數位時代，字型的大小是以 1/72 英吋（一英吋約為 2.5 公分）為單位作測量。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3447,8 +3447,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Previously,&lt;/f2&gt; a point was actually slightly less, &lt;f3&gt;but points remain defiantly non-metric and a sign of typographic expertise.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T132934Z" creationid="Franklin Weng" creationdate="20171231T132934Z">
-        <seg>&lt;f2&gt;在此之前，&lt;/f2&gt;一個點實際上要再小一點，&lt;f3&gt;並且一直沒有一個標準，而是屬於印刷專業的一項指標。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081148Z" creationid="Franklin Weng" creationdate="20171231T132934Z">
+        <seg>&lt;f2&gt;更早之前，&lt;/f2&gt;一個點實際上比這再小一點，&lt;f3&gt;但是一直都沒有個公制標準，不同的大小象徵各地不同的印刷專業。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14458,8 +14458,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Traditionally, fonts are measured in points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T132001Z" creationid="Franklin Weng" creationdate="20171231T132001Z">
-        <seg>傳統上，字型大小是以點來計算。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T080525Z" creationid="Franklin Weng" creationdate="20171231T132001Z">
+        <seg>傳統上，字型大小是以「點」（point）這個單位作計算。</seg>
       </tuv>
     </tu>
     <tu>
