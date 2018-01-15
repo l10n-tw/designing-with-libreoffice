@@ -1448,8 +1448,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hundreds of dingbat fonts are available, from practical ones useful in charts and diagrams to fun ones with dinosaurs and medieval figures.&lt;/f0&gt; &lt;f1&gt;Their advantage over clip art is that they are scalable; their disadvantage is that they only display in one color.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145408Z" creationid="Franklin Weng" creationdate="20171225T125405Z">
-        <seg>&lt;f0&gt;Dingbat 有上百種字型，從實用型的，用於圖表中的，到逗趣型的用恐龍還有中世紀造型的都有。&lt;/f0&gt;&lt;f1&gt;相對於藝術字體，它的優點是可以縮放大小；但缺點是只用一種顏色來顯示。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T032814Z" creationid="Franklin Weng" creationdate="20171225T125405Z">
+        <seg>&lt;f0&gt;雜錦圖字型有上百種，包括方便在圖表中使用的實用字型，還有恐龍圖案的、甚至連中世紀圖徽的有趣字型都有。&lt;/f0&gt;&lt;f1&gt;與美工圖案相比，雜錦圖字型的優點是大小可以隨意縮放不會失真；但缺點是只能用一種顏色顯示。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5845,8 +5845,8 @@
       <tuv lang="EN">
         <seg>Different members of a font family are often called weights.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T133115Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
-        <seg>字族中對各個不同成員以權重（weights）來區分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T032939Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
+        <seg>在一個字族之中，通常會以字重 (font weight) 粗細來區分字族的成員。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5869,8 +5869,8 @@
       <tuv lang="EN">
         <seg>Display: Unusual fonts, usually used only in short lines in a heading or on a pamphlet or ad.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T031524Z" creationid="Franklin Weng" creationdate="20171225T102052Z">
-        <seg>標題字 (Display)：不普通的字型，通常只用在標題或小冊子、廣告的簡短文句中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T032634Z" creationid="Franklin Weng" creationdate="20171225T102052Z">
+        <seg>美術字 (Display)：不普通的字型，通常只用在標題或小冊子、廣告的簡短文句中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8549,8 +8549,8 @@
       <tuv lang="EN">
         <seg>In character and paragraph styles, LibreOffice refers to &lt;f1&gt;a &lt;/f1&gt;weight as a &lt;f2&gt;font&lt;/f2&gt; style &lt;f3&gt;or typeface&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145444Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
-        <seg>在字元與段落的樣式中，LibreOffice 將權重稱為&lt;f2&gt;字型的樣式&lt;/f2&gt;或&lt;f3&gt;字樣。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T033319Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
+        <seg>在LibreOffice的字元樣式與段落樣式中，則將字重稱為&lt;f2&gt;字型&lt;/f2&gt;「樣式」或「&lt;f3&gt;字樣&lt;/f3&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13361,8 +13361,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This term is a reference to the thickness of the lines that make up &lt;t0/&gt;the individual letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125939Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
-        <seg>權重的意思是用組成各個字母的線條粗細做為參考。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T033044Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
+        <seg>字重這個詞語，是指組成各個字母的線條粗細。</seg>
       </tuv>
     </tu>
     <tu>
