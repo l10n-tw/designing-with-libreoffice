@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In Calc, creat&lt;/f0&gt;ing a chart is easy; &lt;f1&gt;a&lt;/f1&gt;dding a chart opens a wizard that lets you work through the stages of formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031628Z" creationid="Jeff Huang" creationdate="20180115T031628Z">
+        <seg>&lt;f0&gt;在 Calc 中，建立&lt;/f0&gt;圖表相當簡單；新增圖表會開啟讓你逐步進行格式設定的圖表精靈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In LibreOffice Writer, line spacing appears to be set by the font size&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134757Z" creationid="Franklin Weng" creationdate="20180105T134757Z">
@@ -5626,6 +5634,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a chart</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031445Z" creationid="Jeff Huang" creationdate="20180115T031445Z">
+        <seg>建立圖表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a flow chart</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115551Z" creationid="Jeff Huang" creationdate="20180111T115551Z">
@@ -8211,6 +8227,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184757Z" creationid="zerng07" creationdate="20170817T101809Z">
         <seg>如果你採用的是GNU/Linux作業系統，有些自由字型可以直接從你散布版所提供的軟體庫安裝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use charts regularly, consider a template with samples of the charts you are most likely to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031416Z" creationid="Jeff Huang" creationdate="20180115T031416Z">
+        <seg>如果你會定期使用圖表，請考慮使用包含你最常使用圖表的範本。</seg>
       </tuv>
     </tu>
     <tu>
