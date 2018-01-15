@@ -7326,8 +7326,8 @@
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;remember that &lt;/f0&gt;just because two font styles have the same name does not mean you are under any obligation to use them together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T071150Z" creationid="Franklin Weng" creationdate="20171228T071150Z">
-        <seg>不過，&lt;f0&gt;請記住&lt;/f0&gt;兩個名稱相同的字型樣式並不代表你可以把它們放在一起用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T070913Z" creationid="Franklin Weng" creationdate="20171228T071150Z">
+        <seg>不過，&lt;f0&gt;請記住&lt;/f0&gt;兩個名稱相同的字型樣式不見得表示你可以搭配在一起用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13713,8 +13713,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To start with, a font family traditionally contains four main styles: Regular, Italic, Bold, and Bold Italic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T070506Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
-        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：Regular（一般）、Italic（義式斜體）、Bold（粗體）、Bold Italic（義式粗斜體）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T071051Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
+        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：Regular（一般）、Italic（義大利體）、Bold（粗體）、Bold Italic（粗義大利體）；在LibreOffice中則對應為標準、義式斜體、粗體、義式粗斜體。</seg>
       </tuv>
     </tu>
     <tu>
