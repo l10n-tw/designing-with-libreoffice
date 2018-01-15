@@ -1816,8 +1816,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Middle&lt;/f0&gt;: Manufactured small capitals for the same font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063556Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
-        <seg>&lt;f0&gt;中間&lt;/f0&gt;：相同字型，但是是製成後的 small capitals。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065916Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
+        <seg>&lt;f0&gt;中間&lt;/f0&gt;：相同字型，不過是電腦仿造的小型大寫字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7567,8 +7567,8 @@
       <tuv lang="EN">
         <seg>However, in practice, font styles are inconsistent enough that &lt;f0&gt;the best they can give you is a rough indication of whether a font is suitable for your needs.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063810Z" creationid="Franklin Weng" creationdate="20171228T063810Z">
-        <seg>不過實際上，字型的樣式變化很大，所以&lt;f0&gt;最多只能給你一個粗略的概念，看某個字型是否符合你的需求。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T070127Z" creationid="Franklin Weng" creationdate="20171228T063810Z">
+        <seg>不過，實際上各個字族提供的字型樣式很不一致，所以&lt;f0&gt;這裡最多只能給你一個粗略的概念，看某個字型是否符合你的需求。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8861,8 +8861,8 @@
       <tuv lang="EN">
         <seg>In theory, font styles should help you to choose fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063700Z" creationid="Franklin Weng" creationdate="20171228T063700Z">
-        <seg>理論上，字型的樣式可以協助你選擇字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T070010Z" creationid="Franklin Weng" creationdate="20171228T063700Z">
+        <seg>理論上，字型樣式能協助你選擇字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,8 +10461,8 @@
       <tuv lang="EN">
         <seg>Others have separate fonts for each weight, but if you change the weight while using the regular weight, you get manufactured versions of the different weights &lt;f0&gt;which have little resemblance to the real ones.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T064856Z" creationid="Franklin Weng" creationdate="20171228T060213Z">
-        <seg>其他則是不同字重分別有不同的獨立字型；但如果你在使用一般（Regular）字重時改變了字重（例如按了粗體、斜體按鈕），那麼你得到的是電腦計算出來的不同字重版本，看起來和真正設計的字重版本一點都不像。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065900Z" creationid="Franklin Weng" creationdate="20171228T060213Z">
+        <seg>其他則是不同字重分別有不同的獨立字型；但如果你在使用一般（Regular）字重時改變了字重（例如按了粗體、斜體按鈕），那麼你得到的是電腦仿造出來的不同字重版本，看起來和真正設計的字重版本一點都不像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10808,8 +10808,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Real fonts vs. manufactured ones</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063841Z" creationid="Franklin Weng" creationdate="20171228T055951Z">
-        <seg>真實字型與電腦計算字型</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065854Z" creationid="Franklin Weng" creationdate="20171228T055951Z">
+        <seg>真實字型與電腦仿造字型</seg>
       </tuv>
     </tu>
     <tu>
@@ -11227,8 +11227,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Selecting fonts by font styles / &lt;f0&gt;typefaces&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063645Z" creationid="Franklin Weng" creationdate="20171228T063645Z">
-        <seg>用樣式/&lt;f0&gt;字樣&lt;/f0&gt;來選擇字型</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065952Z" creationid="Franklin Weng" creationdate="20171228T063645Z">
+        <seg>用字型樣式或&lt;f0&gt;字樣&lt;/f0&gt;選擇字型</seg>
       </tuv>
     </tu>
     <tu>
@@ -12349,8 +12349,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The angle on the manufactured italics makes them awkward and harder to read, &lt;f0&gt;and the letter shapes are frankly flights of fantasy.&lt;/f0&gt; Font: Nobile.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065617Z" creationid="Franklin Weng" creationdate="20171228T063407Z">
-        <seg>電腦計算的義大利體傾斜角度讓它們看起來怪怪的、也不好閱讀，&lt;f0&gt;而且老實說字母外形變得過於虛假。&lt;/f0&gt;字型：Nobile。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065907Z" creationid="Franklin Weng" creationdate="20171228T063407Z">
+        <seg>電腦仿造的義大利體傾斜角度讓它們看起來怪怪的、也不好閱讀，&lt;f0&gt;而且老實說字母外形變得過於虛假。&lt;/f0&gt;字型：Nobile。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13778,16 +13778,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Top: A manufactured bold style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065625Z" creationid="Franklin Weng" creationdate="20171228T063419Z">
-        <seg>上方：電腦計算的粗體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065910Z" creationid="Franklin Weng" creationdate="20171228T063419Z">
+        <seg>上方：電腦仿造的粗體。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Top: Manufactured italics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065442Z" creationid="Franklin Weng" creationdate="20171228T062653Z">
-        <seg>上方：電腦計算的義大利體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065903Z" creationid="Franklin Weng" creationdate="20171228T062653Z">
+        <seg>上方：電腦仿造的義大利體。</seg>
       </tuv>
     </tu>
     <tu>
