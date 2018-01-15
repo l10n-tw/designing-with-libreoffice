@@ -4898,8 +4898,8 @@
       <tuv lang="EN">
         <seg>Bold: A version of the font with heavier lines on each character.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063028Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
-        <seg>Bold（粗體）：字型中每個字的主要線條有加粗的版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065221Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
+        <seg>Bold粗體：字型中每個字的主要線條有加粗的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5877,8 @@
       <tuv lang="EN">
         <seg>Different members of a font family are often called weights.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T060243Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
-        <seg>在同一個字型家族之中，通常會以字重 (font weight) 區分字族的成員。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065408Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
+        <seg>在同一個字型家族之間，通常會以字重 (font weight) 區分字族的成員。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,8 +8564,8 @@
       <tuv lang="EN">
         <seg>In addition, some font families include styles such as Bold Italic, Thin, and Outline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065144Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
-        <seg>此外，有些字族還包含Bold Italic義大利粗斜體、Thin細體與Outline輪廓體等等樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065336Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
+        <seg>此外，有些字族還包含Bold Italic（義大利粗斜體）、Thin（細體）與Outline（輪廓體）等等樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9111,8 +9111,8 @@
       <tuv lang="EN">
         <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T062915Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
-        <seg>Italic（義大利體）：一種手寫體，特徵為字往右邊傾斜，起源於義大利。在LibreOffice中又稱為「義式斜體」，在英文排版中主要在強調、或是指稱&lt;f0&gt;書名&lt;/f0&gt;時使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065215Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>Italic義大利體：一種手寫體，特徵為字往右邊傾斜，起源於義大利。在LibreOffice中又稱為「義式斜體」，在英文排版中主要在強調、或是指稱&lt;f0&gt;書名&lt;/f0&gt;時使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10171,8 +10171,8 @@
       <tuv lang="EN">
         <seg>Old Style Figures: Numbers which have no common baseline, &lt;f0&gt;originally designed in the Renaissance&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063125Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
-        <seg>Old Style Figure（舊式數字）：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065235Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
+        <seg>Old Style Figure舊式數字：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10941,8 +10941,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Roman: &lt;f0&gt;T&lt;/f0&gt;his is the font style most often used for &lt;f1&gt;body text&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T062707Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
-        <seg>Roman（羅馬體）：起源自羅馬石刻的字母寫法。這是最常用於&lt;f1&gt;內文&lt;/f1&gt;的字型樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065201Z" creationid="Franklin Weng" creationdate="20171225T130314Z">
+        <seg>Roman羅馬體：起源自羅馬石刻的字母寫法。這是最常用於&lt;f1&gt;內文&lt;/f1&gt;的字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,8 +11475,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Small Capitals (Small Caps): Specially designed upper case letters &lt;f0&gt;intended to&lt;/f0&gt; make more than two capitals in a row more readable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T054721Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
-        <seg>小型大寫字母 (Small Caps)：專為大寫字母所做的特別設計，&lt;f0&gt;目的是&lt;/f0&gt;讓同一排兩個字以上的大寫字母文字更容易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065313Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
+        <seg>小型大寫字母Small Caps：專為大寫字母所做的特別設計，&lt;f0&gt;目的是&lt;/f0&gt;讓同一排兩個字以上的大寫字母文字更容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13754,8 +13754,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Top: Manufactured italics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T062653Z" creationid="Franklin Weng" creationdate="20171228T062653Z">
-        <seg>上方：製成後的斜體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065442Z" creationid="Franklin Weng" creationdate="20171228T062653Z">
+        <seg>上方：電腦計算的義大利體。</seg>
       </tuv>
     </tu>
     <tu>
