@@ -3527,8 +3527,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Y&lt;/f2&gt;ou can &lt;f3&gt;always &lt;/f3&gt;change the &lt;f4&gt;Measure&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;ment&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; unit&lt;/f7&gt; back to centimeters or inches &lt;f8&gt;when you start to add content to a template.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T084007Z" creationid="Franklin Weng" creationdate="20171231T133321Z">
-        <seg>然後&lt;f8&gt;當你開始將內容加入範本時&lt;/f8&gt;，你隨時都可以把「定量單位」換回公分或英吋。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081850Z" creationid="Franklin Weng" creationdate="20171231T133321Z">
+        <seg>&lt;f8&gt;當你開始將內容加入範本時&lt;/f8&gt;，你隨時都可以把「定量單位」換回公分或英吋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7919,8 +7919,8 @@
       <tuv lang="EN">
         <seg>However, how each font uses the empty space can vary tremendously.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134054Z" creationid="Franklin Weng" creationdate="20171231T134054Z">
-        <seg>不過，每種字型對間隔的使用可能極端不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T082007Z" creationid="Franklin Weng" creationdate="20171231T134054Z">
+        <seg>不過，每個字型對空間的使用方式可能極為不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12821,8 +12821,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;font size refers to the amount of space given to each character and the empty space around it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134025Z" creationid="Franklin Weng" creationdate="20171231T134025Z">
-        <seg>&lt;f0&gt;字型大小指的是每個字元與週圍的間隔所佔用的空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081933Z" creationid="Franklin Weng" creationdate="20171231T134025Z">
+        <seg>&lt;f0&gt;字型大小指的是每個字符與其周圍的間隔所佔用的空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14818,8 +14818,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Using points will make &lt;f0&gt;designing much easier&lt;/f0&gt; &lt;f1&gt;because you have a consistent measurement&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081710Z" creationid="Franklin Weng" creationdate="20171231T133204Z">
-        <seg>用點做單位會讓&lt;f0&gt;設計之事變得更為簡單&lt;/f0&gt;，&lt;f1&gt;因為測量的單位可以一致。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081726Z" creationid="Franklin Weng" creationdate="20171231T133204Z">
+        <seg>用點做單位會讓&lt;f0&gt;設計之事變得更為簡單&lt;/f0&gt;，&lt;f1&gt;因為測量的單位彼此之間可以一致。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
