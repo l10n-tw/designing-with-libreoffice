@@ -8693,8 +8693,8 @@
       <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T122621Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
-        <seg>在現代的字型中，義式斜體（Italic）有時會被另一種斜體（Oblique）取代，後者就類似往右斜的 Roman。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034930Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
+        <seg>在現代字型中，義大利體 (Italic) 有時會由另一種「斜體」(Oblique) 取代，這種「斜體」其實只是單純將羅馬體向右傾斜而已，沒有另外設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9047,8 +9047,8 @@
       <tuv lang="EN">
         <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034514Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
-        <seg>義大利體 (Italic)：一種手寫體，字往右邊傾斜。起源於義大利，在LibreOffice中又稱為義式斜體，主要在強調、或是指稱&lt;f0&gt;書名&lt;/f0&gt;時使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035046Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>義大利體 (Italic)：一種手寫體，特徵為字往右邊傾斜，起源於義大利。在LibreOffice中又稱為「義式斜體」，在英文排版中主要在強調、或是指稱&lt;f0&gt;書名&lt;/f0&gt;時使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11531,8 +11531,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes a Narrow or Condensed version is available, in which the characters take up less &lt;f0&gt;width&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034211Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
-        <seg>有的時候字族中會有「窄版」(Narrow) 或「緊實」(Condensed) 的樣式，表示每個字元的&lt;f0&gt;寬度較窄&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034655Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
+        <seg>有些字族還會有「窄版」(Narrow) 或「緊實」(Condensed) 的樣式，表示每個字的&lt;f0&gt;寬度較窄&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,8 +12671,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The most common &lt;f0&gt;styles&lt;/f0&gt; are:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145450Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
-        <seg>最常用的&lt;f0&gt;樣式&lt;/f0&gt;有：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034615Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
+        <seg>最常用的西方字型&lt;f0&gt;樣式&lt;/f0&gt;有：</seg>
       </tuv>
     </tu>
     <tu>
