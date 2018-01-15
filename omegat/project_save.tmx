@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Metrical equivalents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072344Z" creationid="Jeff Huang" creationdate="20180115T072344Z">
+        <seg>* 度量相等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
@@ -5401,6 +5409,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cabin, Gillius ADF, Hammersmith &lt;f0&gt;One&lt;/f0&gt;, &lt;f1&gt;Railway&lt;/f1&gt; Regular, Raleway</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072039Z" creationid="Jeff Huang" creationdate="20180115T072039Z">
+        <seg>Cabin, Gillius ADF, Hammersmith &lt;f0&gt;One&lt;/f0&gt;, &lt;f1&gt;Railway&lt;/f1&gt; Regular, Raleway</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Caladea*</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071624Z" creationid="Jeff Huang" creationdate="20180115T071624Z">
@@ -5677,6 +5693,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135651Z" creationid="Franklin Weng" creationdate="20180102T135651Z">
         <seg>選擇字型一開始要先考慮你想要讓讀者產生怎麼樣的印象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cinzel</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072213Z" creationid="Jeff Huang" creationdate="20180115T072213Z">
+        <seg>Cinzel</seg>
       </tuv>
     </tu>
     <tu>
@@ -5970,6 +5994,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Crimson Text, EB Garamond</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072026Z" creationid="Jeff Huang" creationdate="20180115T072026Z">
+        <seg>Crimson Text, EB Garamond</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customized lines are stored in the /user/config directory of your personal configuration path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071909Z" creationid="Jeff Huang" creationdate="20171228T071909Z">
@@ -6022,6 +6054,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145118Z" creationid="Franklin Weng" creationdate="20180105T145118Z">
         <seg>決定是否要增加或減少字型間距的考慮狀況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DejaVu Sans</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072229Z" creationid="Jeff Huang" creationdate="20180115T072229Z">
+        <seg>DejaVu Sans</seg>
       </tuv>
     </tu>
     <tu>
@@ -6664,6 +6704,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T094028Z" creationid="Franklin Weng" creationdate="20171224T073608Z">
         <seg>採用大眾字型，例如Times Roman或是Helvetica，或許會有些反效果；因為它們可能會讓讀者較難注意到你的內容，或是無意識地在腦中質疑你這些想法的原創性。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fanwood</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072111Z" creationid="Jeff Huang" creationdate="20180115T072111Z">
+        <seg>Fanwood</seg>
       </tuv>
     </tu>
     <tu>
@@ -7444,6 +7492,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Garamond**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072022Z" creationid="Jeff Huang" creationdate="20180115T072022Z">
+        <seg>Garamond**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Garamond, 12/16.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042127Z" creationid="Franklin Weng" creationdate="20180106T042127Z">
@@ -7492,6 +7548,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Georgia</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072030Z" creationid="Jeff Huang" creationdate="20180115T072030Z">
+        <seg>Georgia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gill Sans</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072036Z" creationid="Jeff Huang" creationdate="20180115T072036Z">
+        <seg>Gill Sans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Give each line a right alignment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131234Z" creationid="Franklin Weng" creationdate="20171223T123354Z">
@@ -7512,6 +7584,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T071255Z" creationid="zerng07" creationdate="20170824T064944Z">
         <seg>認識樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goudy Bookletter 1911, &lt;f0&gt;Linden Hill, &lt;/f0&gt;Sort Mills</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072047Z" creationid="Jeff Huang" creationdate="20180115T072047Z">
+        <seg>Goudy Bookletter 1911, &lt;f0&gt;Linden Hill, &lt;/f0&gt;Sort Mills</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goudy Old Style**</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072044Z" creationid="Jeff Huang" creationdate="20180115T072044Z">
+        <seg>Goudy Old Style**</seg>
       </tuv>
     </tu>
     <tu>
@@ -7552,6 +7640,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T111537Z" creationid="Franklin Weng" creationdate="20180101T111537Z">
         <seg>標題樣式預設用百分比來測量表達是因為通常各層級樣式的大小都是連動的，都一起決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Helvetica</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072050Z" creationid="Jeff Huang" creationdate="20180115T072050Z">
+        <seg>Helvetica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Helvetica Narrow</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072059Z" creationid="Jeff Huang" creationdate="20180115T072059Z">
+        <seg>Helvetica Narrow</seg>
       </tuv>
     </tu>
     <tu>
@@ -9494,10 +9598,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Joanna</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072107Z" creationid="Jeff Huang" creationdate="20180115T072107Z">
+        <seg>Joanna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Josefin Sans, Josefin Slab</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072118Z" creationid="Jeff Huang" creationdate="20180115T072118Z">
+        <seg>Josefin Sans, Josefin Slab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Judging fonts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130143Z" creationid="Franklin Weng" creationdate="20180101T130143Z">
         <seg>判斷字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Junction, Pt.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072125Z" creationid="Jeff Huang" creationdate="20180115T072125Z">
+        <seg>Junction, Pt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9616,6 +9744,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Letter Gothic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072115Z" creationid="Jeff Huang" creationdate="20180115T072115Z">
+        <seg>Letter Gothic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Liberation Fonts &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184947Z" creationid="zerng07" creationdate="20170817T134450Z">
@@ -9644,6 +9780,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071529Z" creationid="Jeff Huang" creationdate="20180115T071529Z">
         <seg>Liberation Sans,* Pt Sans, Open Sans Condensed, Lato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Liberation Serif, Linux Libertine</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072205Z" creationid="Jeff Huang" creationdate="20180115T072205Z">
+        <seg>Liberation Serif, Linux Libertine</seg>
       </tuv>
     </tu>
     <tu>
@@ -9932,6 +10076,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T120742Z" creationid="Franklin Weng" creationdate="20180105T120742Z">
         <seg>同時也要看看填在頁面或欄的本文主體的文字，不要有太多斷字與連字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucida Sans, Nimbus Sans</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072157Z" creationid="Jeff Huang" creationdate="20180115T072157Z">
+        <seg>Lucida Sans, Nimbus Sans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lustria</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072150Z" creationid="Jeff Huang" creationdate="20180115T072150Z">
+        <seg>Lustria</seg>
       </tuv>
     </tu>
     <tu>
@@ -10273,6 +10433,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Myriad</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072122Z" creationid="Jeff Huang" creationdate="20180115T072122Z">
+        <seg>Myriad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Naming styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032712Z" creationid="zerng07" creationdate="20171227T032712Z">
@@ -10301,6 +10469,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T080136Z" creationid="Jeff Huang" creationdate="20171212T034840Z">
         <seg>橫書文件的開章頁是否都從右頁開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>News Cycle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072136Z" creationid="Jeff Huang" creationdate="20180115T072136Z">
+        <seg>News Cycle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>News Gothic</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072133Z" creationid="Jeff Huang" creationdate="20180115T072133Z">
+        <seg>News Gothic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nimbus Roman No. 9</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072032Z" creationid="Jeff Huang" creationdate="20180115T072032Z">
+        <seg>Nimbus Roman No. 9</seg>
       </tuv>
     </tu>
     <tu>
@@ -10405,6 +10597,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112727Z" creationid="Franklin Weng" creationdate="20171223T042912Z">
         <seg>這樣，每一份新文件都會預設使用這個範本，除非你改指定為其他的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nunito</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072143Z" creationid="Jeff Huang" creationdate="20180115T072143Z">
+        <seg>Nunito</seg>
       </tuv>
     </tu>
     <tu>
@@ -11379,6 +11579,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sans</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072129Z" creationid="Jeff Huang" creationdate="20180115T072129Z">
+        <seg>Sans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sans &lt;f0&gt;s&lt;/f0&gt;erif: Literally, fonts whose lines lack the foot that characterizes serifs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T162638Z" creationid="Franklin Weng" creationdate="20171225T095905Z">
@@ -12114,6 +12322,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stone Sans</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072139Z" creationid="Jeff Huang" creationdate="20180115T072139Z">
+        <seg>Stone Sans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stone Serif</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072146Z" creationid="Jeff Huang" creationdate="20180115T072146Z">
+        <seg>Stone Serif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Storing template &lt;f0&gt;structure&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112911Z" creationid="Franklin Weng" creationdate="20171223T043049Z">
@@ -12286,6 +12510,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184426Z" creationid="zerng07" creationdate="20171227T184426Z">
         <seg>&lt;f0&gt;從介紹性書籍，到深入專論都有。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tahoma</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072154Z" creationid="Jeff Huang" creationdate="20180115T072154Z">
+        <seg>Tahoma</seg>
       </tuv>
     </tu>
     <tu>
@@ -13943,6 +14175,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Times New Roman</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072201Z" creationid="Jeff Huang" creationdate="20180115T072201Z">
+        <seg>Times New Roman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tip</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T173216Z" creationid="zerng07" creationdate="20170817T173216Z">
@@ -14208,6 +14448,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trajan</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072209Z" creationid="Jeff Huang" creationdate="20180115T072209Z">
+        <seg>Trajan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Transferring styles between documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130949Z" creationid="Franklin Weng" creationdate="20171223T130949Z">
@@ -14340,6 +14588,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110345Z" creationid="zerng07" creationdate="20171226T110345Z">
         <seg>美中不足的是，這個預覽僅限於表現樣式名稱，所以有許多格式設定元素不會在預覽中顯示出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Univers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072217Z" creationid="Jeff Huang" creationdate="20180115T072217Z">
+        <seg>Univers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Universalist-std</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072221Z" creationid="Jeff Huang" creationdate="20180115T072221Z">
+        <seg>Universalist-std</seg>
       </tuv>
     </tu>
     <tu>
@@ -14636,6 +14900,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040616Z" creationid="Franklin Weng" creationdate="20171225T133106Z">
         <seg>粗體的變化型包括黑體 (Black)、&lt;f0&gt;半粗體&lt;/f0&gt; (Semi-bold, Demi-bold)、&lt;f1&gt;特粗&lt;/f1&gt; (Extra) 或是極重  (Heavy)，有些字族中上述每個詞語代表不同的粗細版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Verdana</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072225Z" creationid="Jeff Huang" creationdate="20180115T072225Z">
+        <seg>Verdana</seg>
       </tuv>
     </tu>
     <tu>
