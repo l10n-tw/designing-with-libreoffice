@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>* Metrical equivalents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T095611Z" creationid="Jeff Huang" creationdate="20180115T072344Z">
-        <seg>* 數據規格相同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100723Z" creationid="Jeff Huang" creationdate="20180115T072344Z">
+        <seg>* 數據規格上相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -689,8 +689,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;All&lt;/f0&gt; of these fonts can be found from the sources listed in Appendix &lt;f1&gt;C&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071442Z" creationid="Jeff Huang" creationdate="20180115T071442Z">
-        <seg>這些字型&lt;f0&gt;全部&lt;/f0&gt;都可以在附錄&lt;f1&gt;C&lt;/f1&gt;中列出的來源中找到。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100623Z" creationid="Jeff Huang" creationdate="20180115T071442Z">
+        <seg>這些字型&lt;f0&gt;全部&lt;/f0&gt;都可以在〈附錄&lt;f1&gt;C&lt;/f1&gt;〉中列出的來源中找到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3922,8 +3922,8 @@
       <tuv lang="EN">
         <seg>A few proprietary fonts, such as Optima, have no free equivalent at all, so far as I can see.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071057Z" creationid="Jeff Huang" creationdate="20180115T071057Z">
-        <seg>就我所知，有一些專有字型，如 Optima，並沒有自由等價替代品。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100556Z" creationid="Jeff Huang" creationdate="20180115T071057Z">
+        <seg>就我目前所知，有一些專有字型，例如Optima，還沒有自由的同等替代品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7431,8 +7431,8 @@
       <tuv lang="EN">
         <seg>For this reason, the &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;listings in the table below are mostly the closest equivalents, and rarely exact replicas.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071355Z" creationid="Jeff Huang" creationdate="20180115T071355Z">
-        <seg>出於這個原因，&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;下表中列出的多數是最接近的等價替代品，很少有完全相同的替代品。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100611Z" creationid="Jeff Huang" creationdate="20180115T071355Z">
+        <seg>出於這個原因，&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;下表中列出的多數是最接近的同等替代品，但很少有完全相同的替代品。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9278,8 +9278,8 @@
       <tuv lang="EN">
         <seg>In other cases, the free fonts are inspired by their proprietary counterparts, but the designer never intended exact copies, &lt;/f0&gt;and the most you can expect is a general resemblance&lt;f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T070939Z" creationid="Jeff Huang" creationdate="20180115T070939Z">
-        <seg>在其他情況下，自由字型是由其對應的專有字型啟發，但設計師從來不打算做出完全相同的複製品，&lt;/f0&gt;可以預期的是其大致上會相似。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100504Z" creationid="Jeff Huang" creationdate="20180115T070939Z">
+        <seg>在其他情況下，自由字型是由其對應的專有字型啟發，但設計師從來不打算做出完全相同的複製品，&lt;/f0&gt;你唯一可以預期的是大致相似。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11482,8 +11482,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Proprietary</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071449Z" creationid="Jeff Huang" creationdate="20180115T071449Z">
-        <seg>專有</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100626Z" creationid="Jeff Huang" creationdate="20180115T071449Z">
+        <seg>專有授權</seg>
       </tuv>
     </tu>
     <tu>
