@@ -2563,8 +2563,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This problem is common with TrueType fonts, and when you change weights&lt;/f0&gt; from the tool bar or a &lt;f1&gt;Character&lt;/f1&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T083900Z" creationid="Franklin Weng" creationdate="20171228T060638Z">
-        <seg>&lt;f0&gt;這個問題在 TrueType 字型都會發生，還有你從工具列或「&lt;/f0&gt;&lt;f1&gt;字元&lt;/f1&gt;」對話框改變字型權重時也會。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065011Z" creationid="Franklin Weng" creationdate="20171228T060638Z">
+        <seg>&lt;f0&gt;這個問題在TrueType字型很常發生，還有你從工具列或&lt;/f0&gt;&lt;f1&gt;「字元」&lt;/f1&gt;對話視窗中改變字重時也會遇到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3359,8 +3359,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;It may also&lt;/f2&gt; called Regular, Book, or Medium, &lt;f3&gt;although these are not always exact synonyms in individual font families.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T062818Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
-        <seg>&lt;f3&gt;雖然以下幾個詞語的實際意義不盡然完全相同&lt;/f3&gt;，&lt;f2&gt;但羅馬體有時也被對應為&lt;/f2&gt;Regualr（標準體）、Book（書本體），或是Medium（中等體） 。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065117Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
+        <seg>&lt;f3&gt;雖然以下幾個詞語的實際意義不盡然完全相同&lt;/f3&gt;，&lt;f2&gt;但 Roman 羅馬體有時也被對應成&lt;/f2&gt;Regualr（標準體）、Book（書本體），或是Medium（中等體） 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8564,8 +8564,8 @@
       <tuv lang="EN">
         <seg>In addition, some font families include styles such as Bold Italic, Thin, and Outline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063224Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
-        <seg>此外，有些字族還包含Bold Italic（義大利粗斜體）、Thin細體與Outline輪廓體等等樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065144Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
+        <seg>此外，有些字族還包含Bold Italic義大利粗斜體、Thin細體與Outline輪廓體等等樣式。</seg>
       </tuv>
     </tu>
     <tu>
