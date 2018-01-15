@@ -29,16 +29,16 @@
 
 ## 翻譯階段
 已完成的有：
-第一章、第十六章、附錄A、附錄B、附錄C
+第一章、第十六章、附錄A、附錄B、附錄C、附錄D
 
 翻譯中的有：
-第四章（Franklin Weng）、第五章 (Cheng-Chia Tseng)、第六章（Mark Hung）、第十四章 (Jeff Huang)
+第五章 (Cheng-Chia Tseng)、第六章（Mark Hung）、第七章 (Vdragon)、 第十二章（Franklin Weng）
 
 校對中的有：
-第二章、第三章
+第四章 (Cheng-Chia Tseng)、第十四章
 
 未處理的有：
-第七章至第十三章、第十五章、附錄D
+第八章至第十一章、第十三章、第十五章
 
 ## 改作階段
 尚未進入此階段
