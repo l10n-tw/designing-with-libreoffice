@@ -5353,6 +5353,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Charts has no means of saving designs for later use, so copy and paste instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031334Z" creationid="Jeff Huang" creationdate="20180115T031334Z">
+        <seg>圖表無法儲存設計供之後使用，所以請複製貼上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the attachments in email&lt;f0&gt;s that you have sent.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042750Z" creationid="Franklin Weng" creationdate="20171213T124353Z">
@@ -6024,6 +6032,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173048Z" creationid="Franklin Weng" creationdate="20171223T134413Z">
         <seg>範本管理員的各種檢視狀態下，只會顯示適用於&lt;f0&gt;該選擇情境的相關圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editable parts of a chart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031142Z" creationid="Jeff Huang" creationdate="20180115T031142Z">
+        <seg>圖表中可編輯的部份。</seg>
       </tuv>
     </tu>
     <tu>
