@@ -8589,8 +8589,8 @@
       <tuv lang="EN">
         <seg>In character and paragraph styles, LibreOffice refers to &lt;f1&gt;a &lt;/f1&gt;weight as a &lt;f2&gt;font&lt;/f2&gt; style &lt;f3&gt;or typeface&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T033319Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
-        <seg>在LibreOffice的字元樣式與段落樣式中，則將字重稱為&lt;f2&gt;字型&lt;/f2&gt;「樣式」或「&lt;f3&gt;字樣&lt;/f3&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040847Z" creationid="Franklin Weng" creationdate="20171225T130114Z">
+        <seg>而在LibreOffice的字元樣式與段落樣式中，則將字重稱為&lt;f2&gt;字型&lt;/f2&gt;「樣式」(Style) 或「&lt;f3&gt;字樣&lt;/f3&gt;」(Typeface)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10131,8 +10131,8 @@
       <tuv lang="EN">
         <seg>Old Style Figures: Numbers which have no common baseline, &lt;f0&gt;originally designed in the Renaissance&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145833Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
-        <seg>舊式數字（Old Style Figure）：數字字型底下的基線不是對齊的。&lt;f0&gt;原先是在文藝復興時期設計的。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040644Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
+        <seg>舊式數字 (Old Style Figure)：數字字型底下的基線不是對齊的。&lt;f0&gt;原先是在文藝復興時期設計的。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13425,8 +13425,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This term is a reference to the thickness of the lines that make up &lt;t0/&gt;the individual letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035904Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
-        <seg>字重這個詞語，是指構成各個字母的線條粗細特徵。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040710Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
+        <seg>字重這個詞語，是指構成各個字符的線條粗細特徵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14154,8 +14154,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Variants may have names like Black, &lt;f0&gt;Semi-bold, &lt;/f0&gt;Demi-bold, &lt;f1&gt;Extra, &lt;/f1&gt;or Heavy, &lt;f2&gt;sometimes &lt;/f2&gt;each with a different thickness of line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040534Z" creationid="Franklin Weng" creationdate="20171225T133106Z">
-        <seg>粗體的變化型包括黑體 (Black)、&lt;f0&gt;半粗體&lt;/f0&gt; (Semi-bold, Demi-bold)、&lt;f1&gt;特粗&lt;/f1&gt; (Extra) 或是極重  (Heavy)，在一些字族中上述每個詞語都代表不同的粗細版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040616Z" creationid="Franklin Weng" creationdate="20171225T133106Z">
+        <seg>粗體的變化型包括黑體 (Black)、&lt;f0&gt;半粗體&lt;/f0&gt; (Semi-bold, Demi-bold)、&lt;f1&gt;特粗&lt;/f1&gt; (Extra) 或是極重  (Heavy)，有些字族中上述每個詞語代表不同的粗細版本。</seg>
       </tuv>
     </tu>
     <tu>
