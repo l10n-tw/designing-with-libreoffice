@@ -585,8 +585,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A few fonts take a different approach, and divide fonts into Serif, Sans, and Monospace.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T062659Z" creationid="Franklin Weng" creationdate="20171228T055844Z">
-        <seg>&lt;f0&gt;而有一些西方字族則是以不同特性作區分，例如分為 Serif（有襯線）、Sans（無襯線）與 Monospace（等寬字）等。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063232Z" creationid="Franklin Weng" creationdate="20171228T055844Z">
+        <seg>&lt;f0&gt;而有一些西方字族則是以不同特性作區分，例如分為Serif（有襯線）、Sans（無襯線）與 Monospace（等寬字）等。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8556,8 +8556,8 @@
       <tuv lang="EN">
         <seg>In addition, some font families include styles such as Bold Italic, Thin, and Outline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T055524Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
-        <seg>此外，有些字族還包含義大利粗斜體（義式粗斜體）、細體與輪廓體等等樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063224Z" creationid="Franklin Weng" creationdate="20171228T052654Z">
+        <seg>此外，有些字族還包含Bold Italic（義大利粗斜體）、Thin細體與Outline輪廓體等等樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10155,8 +10155,8 @@
       <tuv lang="EN">
         <seg>Old Style Figures: Numbers which have no common baseline, &lt;f0&gt;originally designed in the Renaissance&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T042732Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
-        <seg>舊式數字 (Old Style Figure)：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063125Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
+        <seg>Old Style Figure（舊式數字）：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11491,8 +11491,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some fonts store metrics for different weights within the same file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T060012Z" creationid="Franklin Weng" creationdate="20171228T060012Z">
-        <seg>有些字型會把不同權重等等的詮釋資料存在同一個檔案中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063336Z" creationid="Franklin Weng" creationdate="20171228T060012Z">
+        <seg>有些字型會把不同字重的數據資料存在同一份檔案中。</seg>
       </tuv>
     </tu>
     <tu>
