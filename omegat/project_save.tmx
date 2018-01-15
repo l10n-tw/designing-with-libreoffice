@@ -3712,8 +3712,8 @@
       <tuv lang="EN">
         <seg>&lt;t2/&gt;Because of their association with typewriters, monospace fonts are unpopular today, except for specific uses such as writing code or movie scripts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T165058Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
-        <seg>因為等寬體字族和打字機之間有相當大的關聯，現在等寬字型已經沒那麼流行，通常只在展現程式碼或電影上的字幕時使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T041421Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
+        <seg>因為等寬字和打字機之間有相當大的關聯，現在等寬字型已經沒那麼流行，通常只在展現程式碼或電影上的字幕時使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5203,8 +5203,8 @@
       <tuv lang="EN">
         <seg>By contrast, in most fonts, letters take up different amounts of space, with “i” taking up the least and “m” the most.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164111Z" creationid="Franklin Weng" creationdate="20171225T100531Z">
-        <seg>相反地，在大部份字型中，字母佔用的水平空間都不太一樣。通常「i」最小而「m」最大。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T041354Z" creationid="Franklin Weng" creationdate="20171225T100531Z">
+        <seg>相反地，大部份字型中，字母佔用的水平空間都不太一樣。通常「i」最小而「m」最大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9731,8 +9731,8 @@
       <tuv lang="EN">
         <seg>Monospace: Fonts in which every letter occupies exactly the same amount of &lt;f0&gt;horizontal &lt;/f0&gt;space.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164717Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
-        <seg>等寬體 (Monospace)：這個字族的字型每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;寬度都完全相同。如果是中文等寬字型，除了拉丁字母水平寬度相同外，中文字的水平寬度則是拉丁字母的兩倍寬。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T041333Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
+        <seg>等寬字 (Monospace)：這個字族的字型每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;寬度都完全相同。如果是中文等寬字型，除了拉丁字母的水平寬度相同外，中文字的水平寬度則是拉丁字母的兩倍寬。</seg>
       </tuv>
     </tu>
     <tu>
