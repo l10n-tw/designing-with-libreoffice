@@ -721,8 +721,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Another point to consider is that you are rarely likely to need &lt;/f0&gt;Bold Italic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073455Z" creationid="Franklin Weng" creationdate="20171228T071930Z">
-        <seg>&lt;f0&gt;另一個要考慮的點是，其實義大利粗體（義式粗斜體）很少會用到。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073904Z" creationid="Franklin Weng" creationdate="20171228T071930Z">
+        <seg>&lt;f0&gt;另一個要考慮的點是，其實義大利粗體（義式粗斜體）很少用到。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,8 +3110,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Since the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Emphasis &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;character style uses Italic and &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Strong Emphasis&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; uses Bold, Bold Italic serves no regular purpose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073315Z" creationid="Franklin Weng" creationdate="20171228T072104Z">
-        <seg>&lt;f1&gt;因為在西方文字排印學中，一般&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;強調&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;用的字元樣式會用「義大利體」，而&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;特別強調&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;用的字元樣式則會用「粗體」，所以「義大利粗體」幾乎不會用到。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073918Z" creationid="Franklin Weng" creationdate="20171228T072104Z">
+        <seg>&lt;f1&gt;因為在西方文字排印學中，一般&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;強調&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;用的字元樣式會用「義大利體」，而&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;特別強調&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;用的字元樣式則會用「粗體」，所以「義大利粗體」幾乎用不到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,8 +6108,8 @@
       <tuv lang="EN">
         <seg>Designers regularly borrow ampersands (and sometimes question marks) when they want an elegant touch.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T072505Z" creationid="Franklin Weng" creationdate="20171228T071814Z">
-        <seg>設計師一般會借用 &amp; 符號（有時用問號）來表現優雅的筆觸風格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073823Z" creationid="Franklin Weng" creationdate="20171228T071814Z">
+        <seg>設計師一般會借用&amp;符號（有時用問號）來表現優雅的筆觸風格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9518,8 +9518,8 @@
       <tuv lang="EN">
         <seg>It may be useful as a display or heading font, but often you can ignore a Bold Italic style if the other styles suit your needs.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072201Z" creationid="Franklin Weng" creationdate="20171228T072201Z">
-        <seg>它可能可以用於顯示或標題的字型，但通常能用其他樣式就不要用粗斜體。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T074107Z" creationid="Franklin Weng" creationdate="20171228T072201Z">
+        <seg>義大利粗體可用於美術字或標題字，但如果有其他字型更符合你需求的話，那就不必用到它了。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9559,8 +9559,8 @@
       <tuv lang="EN">
         <seg>Italic: A cursive font, slanted to the right, used mainly for emphasis &lt;f0&gt;and book titles&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065215Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
-        <seg>Italic義大利體：一種手寫體，特徵為字往右邊傾斜，起源於義大利。在LibreOffice中又稱為「義式斜體」，在英文排版中主要在強調、或是指稱&lt;f0&gt;書名&lt;/f0&gt;時使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073717Z" creationid="Franklin Weng" creationdate="20171225T132424Z">
+        <seg>Italic義大利體：一種手寫體，特徵為字往右邊傾斜，起源於文藝復興時期的義大利。在LibreOffice中又稱為「義式斜體」，在英文排版中主要在強調、或是指稱&lt;f0&gt;書名&lt;/f0&gt;時使用。</seg>
       </tuv>
     </tu>
     <tu>
