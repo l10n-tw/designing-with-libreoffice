@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>** “Garamond” and “Goudy” are generic names for fonts inspired by particular designers, &lt;f0&gt;so the actual typefaces with these names can be very different from one another.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072520Z" creationid="Jeff Huang" creationdate="20180115T072520Z">
+        <seg>** “Garamond”與“Goudy”是由特定設計師所啟發的通用字型名稱，&lt;f0&gt;所以以此為名的不同字樣可能彼此之間有相當大的差距。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
@@ -7432,6 +7440,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T064608Z" creationid="Jeff Huang" creationdate="20180115T064608Z">
         <seg>標準字型的自由&lt;f0&gt;授權&lt;/f0&gt;等價替代品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free-licensed equivalents for standard fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072604Z" creationid="Jeff Huang" creationdate="20180115T072604Z">
+        <seg>標準字型的自由等價替代品</seg>
       </tuv>
     </tu>
     <tu>
