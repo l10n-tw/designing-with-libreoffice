@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;f you need to add a logo to the slide background, consider placing it where the footer would otherwise go.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T093119Z" creationid="Franklin Weng" creationdate="20180115T093119Z">
+        <seg>如果你要在投影片背景加入標誌，最好考慮將它放在頁尾的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you really want a complex format, design slides &lt;f1&gt;as&lt;/f1&gt; Writer &lt;f2&gt;pages&lt;/f2&gt;, and then export them to &lt;f3&gt;PDF&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T085528Z" creationid="Franklin Weng" creationdate="20180109T085528Z">
@@ -2790,6 +2798,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103911Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
         <seg>&lt;f0&gt;範本精靈&lt;/f0&gt;可以從「&lt;f1&gt;檔案 &gt; 精靈&lt;/f1&gt;」選單中找到。&lt;f3&gt;有些精靈會有使用LibreOffice Base資料庫，或是從電子郵件客戶端的通訊錄填入欄位中的功能，這對用於需要大量發信的文件來說很有用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T093357Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
+        <seg>&lt;f0&gt;Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7404,6 +7420,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, do not rely on rescaling without thoroughly checking the results.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T092246Z" creationid="Franklin Weng" creationdate="20180115T092246Z">
+        <seg>因此，如果大小經過調整，務必檢查調整後的結果。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, the &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;listings in the table below are mostly the closest equivalents, and rarely exact replicas.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071355Z" creationid="Jeff Huang" creationdate="20180115T071355Z">
@@ -9935,6 +9959,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現狀改寫</note>
       <tuv lang="EN">
         <seg>LibreOffice comes with a selection of backgrounds, &lt;f0&gt;in the Presentation Backgrounds folder of the Template Manager.&lt;/f0&gt; &lt;f1&gt;Y&lt;/f1&gt;ou can &lt;f2&gt;also &lt;/f2&gt;find &lt;f3&gt;many more&lt;/f3&gt; choices with a quick web search&lt;f4&gt;, although the quality of the selections varies.</seg>
       </tuv>
@@ -14828,6 +14853,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125819Z" creationid="Franklin Weng" creationdate="20180107T125819Z">
         <seg>用 Impress 中類似 Draw 的功能來建立圖表、&lt;f1&gt;表格&lt;/f1&gt;等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀改寫，要重新截圖</note>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Format &gt; Page &gt; Background&lt;/f0&gt; to des&lt;f1&gt;ign and choose&lt;/f1&gt; a patterned background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T092904Z" creationid="Franklin Weng" creationdate="20180115T092440Z">
+        <seg>用&lt;f0&gt;右方側邊欄的投影片「屬性」中的「背景」&lt;/f0&gt;來&lt;f1&gt;設計與選擇&lt;/f1&gt;背景的樣式。</seg>
       </tuv>
     </tu>
     <tu>
