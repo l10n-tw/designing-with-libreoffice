@@ -721,8 +721,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Another point to consider is that you are rarely likely to need &lt;/f0&gt;Bold Italic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073348Z" creationid="Franklin Weng" creationdate="20171228T071930Z">
-        <seg>&lt;f0&gt;另一個值得納入考慮的點是，其實義大利粗體（義式粗斜體）很少會用到。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073455Z" creationid="Franklin Weng" creationdate="20171228T071930Z">
+        <seg>&lt;f0&gt;另一個要考慮的點是，其實義大利粗體（義式粗斜體）很少會用到。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2989,8 +2989,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;If you prefer an italic, you might go searching for something compatible with the regular weight.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T072735Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
-        <seg>&lt;f1&gt;如果你偏好的是義大利體（Italic，義式斜體），那麼你可能得尋找一些能和一般字重互相搭配的其他字型。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073542Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
+        <seg>&lt;f1&gt;如果你偏好的是義大利體 (Italic)，那麼你可能得尋找一些能和一般字重互相搭配的其他字型。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14353,8 +14353,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To start with, a font family traditionally contains four main styles: Regular, Italic, Bold, and Bold Italic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T071438Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
-        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：Regular（一般）、Italic（義大利體）、Bold（粗體）、Bold Italic（粗義大利體），在LibreOffice中的字型樣式表中則對應到標準、義式斜體、粗體、義式粗斜體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073632Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
+        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：Regular（一般）、Italic（義大利體）、Bold（粗體）、Bold Italic（粗義大利體），在LibreOffice中的字型樣式選單中則對應到「標準」、「義式斜體」、「粗體」、「義式粗斜體」。</seg>
       </tuv>
     </tu>
     <tu>
