@@ -29,7 +29,7 @@
 
 ## 翻譯階段
 已完成的有：
-第一章、第十六章、附錄A、附錄B、附錄C、附錄D
+第一章至第三章、第十六章、附錄A、附錄B、附錄C、附錄D
 
 翻譯中的有：
 第五章 (Cheng-Chia Tseng)、第六章（Mark Hung）、第七章 (Vdragon)、 第十二章（Franklin Weng）
