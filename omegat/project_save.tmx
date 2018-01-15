@@ -3157,6 +3157,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;The ideal background is somewhere between these extremes, with the more complicated parts of the design either extremely simple, or else &lt;/f1&gt;confined to the corners or the top and bottom of the slide, leaving the center free for displaying text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090139Z" creationid="Franklin Weng" creationdate="20180115T090139Z">
+        <seg>&lt;f1&gt;比較理想的背景是這兩個極端的平衡，在極簡的背景中加入一些複雜一點的元素，或是&lt;/f1&gt;把顏色限制在投影片的角落或上下端，讓中間空出來顯示文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The majority of fonts include a minimum of four font styles – Roman, Italic, Bold, and Bold Italic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T125606Z" creationid="Franklin Weng" creationdate="20180101T125606Z">
@@ -6764,6 +6772,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding backgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090615Z" creationid="Franklin Weng" creationdate="20180115T090615Z">
+        <seg>尋找背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding character styles is not directly possibly, but &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Find &amp; Replace&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;’s &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Other Options&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; do include search by settings of character styles using &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Attributes&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Format.&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082916Z" creationid="zerng07" creationdate="20171225T082916Z">
@@ -8735,6 +8751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you plan to distribute your slides in grayscale, also check how your slides look in black and white.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090441Z" creationid="Franklin Weng" creationdate="20180115T090441Z">
+        <seg>如果你打算把投影片印成灰階，那就要確定你的投影片在黑白狀況下看起來如何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer not to design your templates from scratch, you can &lt;f0&gt;use pre-existing&lt;/f0&gt; templates instead, modifying them as necessary.&lt;f1&gt; Appendix A lists some of the larger sites for templates.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T084603Z" creationid="Franklin Weng" creationdate="20171215T120040Z">
@@ -9663,6 +9687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just as importantly, you might want a background that uses personal or corporate colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090509Z" creationid="Franklin Weng" creationdate="20180115T090509Z">
+        <seg>同樣重要的是，你的背景中可能會需要加入個人或企業的代表色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Just as the average &lt;f1&gt;text-based &lt;/f1&gt;document rarely needs more than two fonts (plus, of course, their &lt;f2&gt;font styles or weights&lt;/f2&gt;), so a slide show rarely needs more than one &lt;f3&gt;type of &lt;/f3&gt;slide transition, or more than a few slide designs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T083737Z" creationid="Franklin Weng" creationdate="20180109T083737Z">
@@ -9683,6 +9715,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032139Z" creationid="zerng07" creationdate="20171219T032139Z">
         <seg>不過利用樣式到底能節省多少時間？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just make sure that the two contrast, so that the text is as readable as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090359Z" creationid="Franklin Weng" creationdate="20180115T090359Z">
+        <seg>要確定背景跟文字兩者的對比可以讓文字閱讀起來清晰可讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9852,6 +9892,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T063530Z" creationid="Jeff Huang" creationdate="20171213T030518Z">
         <seg>LibreOffice也會檢查一些文法與&lt;f3&gt;排版問題，例如英文句號後方應留一個空格而非兩個。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice comes with a selection of backgrounds, &lt;f0&gt;in the Presentation Backgrounds folder of the Template Manager.&lt;/f0&gt; &lt;f1&gt;Y&lt;/f1&gt;ou can &lt;f2&gt;also &lt;/f2&gt;find &lt;f3&gt;many more&lt;/f3&gt; choices with a quick web search&lt;f4&gt;, although the quality of the selections varies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091530Z" creationid="Franklin Weng" creationdate="20180115T091530Z">
+        <seg>LibreOffice 過去在 4.x 版的範本管理員中有&lt;f0&gt;「簡報背景」資料夾&lt;/f0&gt;可以選擇不同顏色的背景，現在則是以範本視窗中的「簡報」分類，還有在母片編輯時右方的「屬性」可以選擇不同樣式的背景。此外你也&lt;f2&gt;可以&lt;/f2&gt;在網路上找到&lt;f3&gt;許多&lt;/f3&gt;背景範本，&lt;f4&gt;雖然網路上找到的範本品質有好有壞。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10789,6 +10837,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065235Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
         <seg>Old Style Figure舊式數字：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the one hand, a single-color background risks looking amateurish.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T085650Z" creationid="Franklin Weng" creationdate="20180115T085650Z">
+        <seg>從一方面看，選擇單一顏色的背景會顯得沒那麼專業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the other hand, a background full of gradients or different colors risks leaving large portions of the screen &lt;f0&gt;with too little or too much contrast&lt;/f0&gt; for adding text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T085939Z" creationid="Franklin Weng" creationdate="20180115T085939Z">
+        <seg>但從另一方面看，背景滿滿都是顏色漸層或是五彩繽紛的色彩，卻也會在加入文字後跟背景的對比不是太強就是太弱。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11929,6 +11993,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting the background to be partly transparent can &lt;t1/&gt;often make a major difference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090305Z" creationid="Franklin Weng" creationdate="20180115T090305Z">
+        <seg>把背景設成部份透明通常可以&lt;t1/&gt;產生一些不同的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting transparencies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060258Z" creationid="Jeff Huang" creationdate="20180104T060258Z">
@@ -12574,6 +12646,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T062807Z" creationid="Jeff Huang" creationdate="20171111T131332Z">
         <seg>有沒有漏掉什麼術語、假設、&lt;f1&gt;步驟&lt;/f1&gt;或是背景知識？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test possible backgrounds against a variety of different color&lt;f0&gt;ed&lt;/f0&gt; texts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090225Z" creationid="Franklin Weng" creationdate="20180115T090225Z">
+        <seg>測試背景時，要用許多不同顏色的文字來測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15276,8 +15356,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you select backgrounds, you face &lt;f0&gt;the usual design challenges of any background (see “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T141349Z" creationid="Franklin Weng" creationdate="20180114T141349Z">
-        <seg>當你選擇背景時，When you select backgrounds, you face &lt;f0&gt;the usual design challenges of any background (see “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T085551Z" creationid="Franklin Weng" creationdate="20180114T141349Z">
+        <seg>選擇背景是&lt;f0&gt;在做設計時常見的挑戰。（請參考「=&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;」，第&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
