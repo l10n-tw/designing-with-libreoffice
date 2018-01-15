@@ -5489,6 +5489,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;f0&gt;the chosen &lt;/f0&gt;elements or data series to edit their appearance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T033605Z" creationid="Jeff Huang" creationdate="20180115T033605Z">
+        <seg>點按&lt;f0&gt;所選的&lt;/f0&gt;元素或資料序列以編輯其外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on these rectangles to zoom in on the available templates and select from them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175802Z" creationid="Franklin Weng" creationdate="20171213T123130Z">
@@ -5525,6 +5533,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084247Z" creationid="zerng07" creationdate="20171224T084223Z">
         <seg>在&lt;f1&gt;格式設定&lt;/f1&gt;工具列中的樣式清單底部點按「&lt;f0&gt;更多樣式...&lt;/f0&gt;」連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the chart so that the gray border disappears and the object handles appear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T034414Z" creationid="Jeff Huang" creationdate="20180115T034414Z">
+        <seg>點按圖表讓灰色邊框消失，並讓物件把手出現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14223,6 +14239,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>When an element is selected, the right-click menu contains a menu item for formatting it, such as &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Format Legend.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T033519Z" creationid="Jeff Huang" creationdate="20180115T033519Z">
+        <seg>當元素被選取時，右鍵選單會包含設定其格式的項目，如&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;設定圖例格式等。&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Franklin: 我猜它是講左上角的樣式，每個列出的樣式的右邊是 context menu。下方的解釋也是針對那個下拉式選單。</note>
       <tuv lang="EN">
         <seg>When applying a style, always click on the left of a list item.</seg>
@@ -14510,6 +14534,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124428Z" creationid="Franklin Weng" creationdate="20180103T123653Z">
         <seg>收件人的電腦上是否安裝有你所使用的字型？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With &lt;f0&gt;some chart types&lt;/f0&gt;, you can select a data series, then right-click to select &lt;f1&gt;Arrange&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ment.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; For example, if you are using a pie chart, you can select a data series and drag it out of the pie.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T034325Z" creationid="Jeff Huang" creationdate="20180115T034325Z">
+        <seg>在&lt;f0&gt;部份圖表類型中&lt;/f0&gt;，你可以選取一份資料序列，然後右鍵點按並選取&lt;f1&gt;排列。&lt;/f1&gt;&lt;f4&gt;舉例來說，如果你正在使用圓餅圖，您可以選取一份資料序列並將其拖曳出圓餅圖之外。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14824,6 +14856,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T161841Z" creationid="Franklin Weng" creationdate="20171212T100501Z">
         <seg>你可以發展出那般詳細的文稿結構式範本，來讓你的作業流程更加自動化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can drag on the handles to move or resize the chart, or right-click to change features such as alignment, or edit the Line to create a border or Area to change the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T034704Z" creationid="Jeff Huang" creationdate="20180115T034704Z">
+        <seg>你可以拖曳以移動或調整圖表大小，或是右鍵點選以變更如對齊等等特徵，或是編輯線條以建立邊框，又或是變更區域背景。</seg>
       </tuv>
     </tu>
     <tu>
