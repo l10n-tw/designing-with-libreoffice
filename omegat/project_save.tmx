@@ -7991,6 +7991,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are printing in black and white, test colors for contrast.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032608Z" creationid="Jeff Huang" creationdate="20180115T032608Z">
+        <seg>如果你是使用黑白列印，請測試色彩間的對比度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are publishing online, then paragraphs should be no more than four or five sentences long &lt;f0&gt;for easy comprehension.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054027Z" creationid="Jeff Huang" creationdate="20171111T131629Z">
@@ -10970,6 +10978,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074521Z" creationid="zerng07" creationdate="20171224T084007Z">
         <seg>從選單列中選取「&lt;f0&gt;樣式 &gt; 樣式和格式設定&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>目前版本的 Writer 加入圖表已與前幾個應用程式相同了。</note>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Insert &gt; Chart&lt;/f0&gt; in Calc, Draw, or Impress, or &lt;f1&gt;Insert &gt; Object &gt; Chart&lt;/f1&gt; in Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032910Z" creationid="Jeff Huang" creationdate="20180115T032910Z">
+        <seg>在 Calc、Draw、Impress 或 Writer 中選取&lt;f0&gt;「插入 &gt; 圖表」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
