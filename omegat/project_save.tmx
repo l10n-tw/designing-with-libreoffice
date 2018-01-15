@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;LibreOffice uses the colors in the order they are listed under &lt;f1&gt;Default Colors.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032539Z" creationid="Jeff Huang" creationdate="20180115T032539Z">
+        <seg>&lt;/f0&gt;LibreOffice 都會以列在&lt;f1&gt;預設色彩&lt;/f1&gt;中的順序使用色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Nor do you want everyone working on a project to design their own &lt;f1&gt;documents&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T073549Z" creationid="Franklin Weng" creationdate="20171212T100242Z">
@@ -6088,6 +6096,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T121812Z" creationid="Franklin Weng" creationdate="20180101T121812Z">
         <seg>字型的效果，&lt;/f5&gt;例如&lt;f6&gt;陰影&lt;/f6&gt;、&lt;f7&gt;閃動&lt;/f7&gt;、或是&lt;f8&gt;隱藏&lt;/f8&gt;&lt;f9&gt;等等，在文字處理器才剛出現時，使用者看到這些效果非常新奇而大量使用，並一直遺留到現在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either accept the default colors, or change them at &lt;f0&gt;Tools &gt; Options &gt; Charts &gt; Default Colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032343Z" creationid="Jeff Huang" creationdate="20180115T032343Z">
+        <seg>不論是使用預設色彩，或是在&lt;f0&gt;「工具 &gt; 選項 &gt; 圖表 &gt; 預設色彩」中變更它們。</seg>
       </tuv>
     </tu>
     <tu>
