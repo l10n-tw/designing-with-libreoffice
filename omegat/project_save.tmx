@@ -2459,8 +2459,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Effects&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab contains a variety of features, with widely differing degrees of usefulness.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T120822Z" creationid="Franklin Weng" creationdate="20180101T120822Z">
-        <seg>&lt;f2&gt;字型效果&lt;/f2&gt;&lt;f3&gt;分頁裡有許多功能，用處非常廣泛。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120612Z" creationid="Franklin Weng" creationdate="20180101T120822Z">
+        <seg>&lt;f2&gt;字型效果&lt;/f2&gt;&lt;f3&gt;標籤頁中有許多好用功能，涵蓋非常廣泛。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7719,8 +7719,8 @@
       <tuv lang="EN">
         <seg>Heading styles are measured by default in percentages because their size is often determined together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T111537Z" creationid="Franklin Weng" creationdate="20180101T111537Z">
-        <seg>標題樣式預設用百分比來測量表達是因為通常各層級樣式的大小都是連動的，都一起決定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120534Z" creationid="Franklin Weng" creationdate="20180101T111537Z">
+        <seg>標題樣式預設用百分比來測量，是因為通常各層級樣式的大小都是連動的，方便一起決定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15865,8 +15865,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can force LibreOffice to display the size in points by placing the cursor in the &lt;f0&gt;Size&lt;/f0&gt; field of the &lt;f1&gt;Font&lt;/f1&gt; tab, and entering the size followed by “pt.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105909Z" creationid="Franklin Weng" creationdate="20180101T105909Z">
-        <seg>你可以強制 LibreOffice 以點來顯示大小，只要在「&lt;f1&gt;字型&lt;/f1&gt;」分頁的「&lt;f0&gt;大小&lt;/f0&gt;」欄位中，用手動輸入大小，後面加上“pt.”即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120455Z" creationid="Franklin Weng" creationdate="20180101T105909Z">
+        <seg>你可以強制讓LibreOffice以點為單位顯示大小，只要在「&lt;f1&gt;字型&lt;/f1&gt;」標籤頁的「&lt;f0&gt;大小&lt;/f0&gt;」欄位中，手動輸入大小數字，後方再加上「點」或「pt」即可。</seg>
       </tuv>
     </tu>
     <tu>
