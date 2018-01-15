@@ -3359,8 +3359,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;It may also&lt;/f2&gt; called Regular, Book, or Medium, &lt;f3&gt;although these are not always exact synonyms in individual font families.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034141Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
-        <seg>&lt;f3&gt;雖然這幾個詞語在各個字族中的意義不盡然完全相同&lt;/f3&gt;，&lt;f2&gt;但羅馬體有時也被稱為&lt;/f2&gt;「標準體」(Regular)、「書本體」(Book)，或是「中等體」(Medium)。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040020Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
+        <seg>&lt;f3&gt;雖然以下幾個詞語的實際意義不盡然完全相同&lt;/f3&gt;，&lt;f2&gt;但羅馬體有時也被對應為&lt;/f2&gt;「標準體」(Regular)、「書本體」(Book)，或是「中等體」(Medium) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4898,8 +4898,8 @@
       <tuv lang="EN">
         <seg>Bold: A version of the font with heavier lines on each character.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035304Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
-        <seg>粗體 (Bold)：每個字元的線條都加粗的字型樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035603Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
+        <seg>粗體 (Bold)：字型中每個字的主要線條有加粗的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,7 +6494,7 @@
       <tuv lang="EN">
         <seg>Font &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T125429Z" creationid="Franklin Weng" creationdate="20171225T125429Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035405Z" creationid="Franklin Weng" creationdate="20171225T125429Z">
         <seg>字型樣式</seg>
       </tuv>
     </tu>
@@ -8717,8 +8717,8 @@
       <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034930Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
-        <seg>在現代字型中，義大利體 (Italic) 有時會由另一種「斜體」(Oblique) 取代，這種「斜體」其實只是單純將羅馬體向右傾斜而已，沒有另外設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035426Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
+        <seg>在現代字型中，義大利體 (Italic) 有時會由另一種「斜體」(Oblique) 取代，這種「斜體」其實只是單純將羅馬體向右傾斜而已，並非特別設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9210,8 +9210,8 @@
       <tuv lang="EN">
         <seg>Left &lt;f0&gt;Font&lt;/f0&gt;: ADF Baskervald.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145553Z" creationid="Franklin Weng" creationdate="20171225T132541Z">
-        <seg>左邊的&lt;f0&gt;字型&lt;/f0&gt;：ADF Baskervald。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035438Z" creationid="Franklin Weng" creationdate="20171225T132541Z">
+        <seg>左方&lt;f0&gt;字型&lt;/f0&gt;：ADF Baskervald。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10801,8 +10801,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Right &lt;f1&gt;Font&lt;/f1&gt;: ADF Gillus.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145556Z" creationid="Franklin Weng" creationdate="20171225T132602Z">
-        <seg>右邊的&lt;f1&gt;字型&lt;/f1&gt;：ADF Gillus。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035443Z" creationid="Franklin Weng" creationdate="20171225T132602Z">
+        <seg>右方&lt;f1&gt;字型&lt;/f1&gt;：ADF Gillus。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11563,8 +11563,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes a Narrow or Condensed version is available, in which the characters take up less &lt;f0&gt;width&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T034655Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
-        <seg>有些字族還會有「窄版」(Narrow) 或「緊實」(Condensed) 的樣式，表示每個字的&lt;f0&gt;寬度較窄&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T040216Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
+        <seg>此外，還有些字族還會提供窄版 (Narrow) 或緊密 (Condensed) 的樣式，這代表每個字符的&lt;f0&gt;寬度&lt;/f0&gt;比標準要窄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13425,8 +13425,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This term is a reference to the thickness of the lines that make up &lt;t0/&gt;the individual letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T033339Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
-        <seg>字重這個詞語，是指構成各個字母的線條粗細。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035904Z" creationid="Franklin Weng" creationdate="20171225T125834Z">
+        <seg>字重這個詞語，是指構成各個字母的線條粗細特徵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14002,8 +14002,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Used for strong emphasis and headings, this weight &lt;f0&gt;sometimes&lt;/f0&gt; replace&lt;f1&gt;s&lt;/f1&gt; Italic online.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T132818Z" creationid="Franklin Weng" creationdate="20171225T132720Z">
-        <seg>用於強調、標題，有時在網頁上會用它取代斜體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035807Z" creationid="Franklin Weng" creationdate="20171225T132720Z">
+        <seg>常在特別強調、標題時使用，&lt;f0&gt;有時候&lt;/f0&gt;網頁上會以粗體代替義大利體使用。</seg>
       </tuv>
     </tu>
     <tu>
