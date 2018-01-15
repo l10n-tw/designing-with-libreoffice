@@ -10413,8 +10413,8 @@
       <tuv lang="EN">
         <seg>Others have separate fonts for each weight, but if you change the weight while using the regular weight, you get manufactured versions of the different weights &lt;f0&gt;which have little resemblance to the real ones.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T060213Z" creationid="Franklin Weng" creationdate="20171228T060213Z">
-        <seg>而有些則是不同權重分別存在不同檔案中，當你使用正規的權重，但是要改變權重時，它會&lt;f0&gt;重組原來的真實字型&lt;/f0&gt;，依你所指定的權重產生一個新的製成版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063829Z" creationid="Franklin Weng" creationdate="20171228T060213Z">
+        <seg>其餘則是不同字重分別有不同的獨立字型，但如果你在使用標準字重時改變了字重，你得到的是電腦計算出來的不同字重版本，和真正設計的字重版本一點都不像。</seg>
       </tuv>
     </tu>
     <tu>
