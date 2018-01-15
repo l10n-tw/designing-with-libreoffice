@@ -10792,6 +10792,14 @@ Franklin: 猜測如上</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the chart when the gray border is visible and select&lt;f0&gt; Chart Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table&lt;/f2&gt;&lt;/f1&gt; to enter the data points for the chart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T033307Z" creationid="Jeff Huang" creationdate="20180115T033307Z">
+        <seg>在可以看到灰色邊框時於圖表上點按右鍵，並選取&lt;f0&gt;資料&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標格&lt;/f2&gt;&lt;/f1&gt;以輸入圖表的資料點。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4 測試起來好像已經不是這樣了。按右鍵沒有作用。（環境：GNOME+Wayland）
 Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在文件任意地方點滑鼠右鍵則會回到原來的樣式。透過填入設定的樣式會被取消。</note>
       <tuv lang="EN">
@@ -14544,6 +14552,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120811Z" creationid="zerng07" creationdate="20171226T113944Z">
         <seg>在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗或側邊欄中，有些樣式類別也提供一種跟基本套用技巧相反的做法：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the gray border still visible, &lt;f0&gt;click&lt;/f0&gt; &lt;f1&gt;an&lt;/f1&gt; element &lt;f2&gt;to edit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T033404Z" creationid="Jeff Huang" creationdate="20180115T033404Z">
+        <seg>在灰色邊框仍然可見時，&lt;f0&gt;點按&lt;/f0&gt;元素&lt;f2&gt;來編輯。</seg>
       </tuv>
     </tu>
     <tu>
