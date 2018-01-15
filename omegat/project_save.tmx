@@ -609,8 +609,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A few fonts take a different approach, and divide fonts into Serif, Sans, and Monospace.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T063232Z" creationid="Franklin Weng" creationdate="20171228T055844Z">
-        <seg>&lt;f0&gt;而有一些西方字族則是以不同特性作區分，例如分為Serif（有襯線）、Sans（無襯線）與 Monospace（等寬字）等。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125539Z" creationid="Franklin Weng" creationdate="20171228T055844Z">
+        <seg>&lt;f0&gt;而有一些西方字族則是以不同特徵作區分，例如分為有襯線 (Serif)、無襯線 (Sans) 和等寬字 (Mono) 等。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,8 +3809,8 @@
       <tuv lang="EN">
         <seg>&lt;t2/&gt;Because of their association with typewriters, monospace fonts are unpopular today, except for specific uses such as writing code or movie scripts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T124634Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
-        <seg>因為等寬字和打字機之間有相當大的關聯，現在等寬字型已經沒那麼流行，通常只在展現程式碼或在電影上的字幕時使用。這個字族也簡稱為 Mono（&lt;f3&gt;非正式&lt;/f3&gt;說法）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125652Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
+        <seg>因為等寬字和打字機之間有相當大的關聯，現在等寬字型已經沒那麼流行，通常只在展現程式碼或在電影上的字幕時使用。這個字族也簡稱為 Mono（非正式說法）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11743,8 +11743,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sans &lt;f0&gt;s&lt;/f0&gt;erif: Literally, fonts whose lines lack the foot that characterizes serifs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T162638Z" creationid="Franklin Weng" creationdate="20171225T095905Z">
-        <seg>無襯線體 (Sans serif)：就字面上來說，就是線條末端沒有襯線設計的字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125856Z" creationid="Franklin Weng" creationdate="20171225T095905Z">
+        <seg>無襯線 (Sans serif)：就字面上來說，就是線條末端沒有襯線設計的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11815,8 +11815,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Script: Fonts that imitate cursive handwriting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T165858Z" creationid="Franklin Weng" creationdate="20171225T102203Z">
-        <seg>手寫體 (Script)：模仿手寫的曲線性字型，例如Comic Sans、Zapfino。中文字體則可對應到楷體、行體、草體、手寫體、娃娃體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125750Z" creationid="Franklin Weng" creationdate="20171225T102203Z">
+        <seg>手寫體 (Script)：模仿手寫的曲線性字型，例如Comic Sans、Zapfino。中文字體則可對應到楷體、行體、草體、手寫體、娃娃體等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11989,8 +11989,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Serif: Fonts whose lines end with a foot or a hook.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T144304Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
-        <seg>襯線體 (Serif)：字型線條末端有線狀或爪狀裝飾的字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125836Z" creationid="Franklin Weng" creationdate="20171225T092510Z">
+        <seg>有襯線 (Serif)：字型線條末端有線狀或爪狀裝飾的字型。</seg>
       </tuv>
     </tu>
     <tu>
