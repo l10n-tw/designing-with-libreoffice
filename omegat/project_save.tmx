@@ -6381,8 +6381,8 @@
       <tuv lang="EN">
         <seg>Each font uses a different amount of empty space, which explains why the actual height of fonts of the same size is inconsistent.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134208Z" creationid="Franklin Weng" creationdate="20171231T134208Z">
-        <seg>每個字型間隔不同，這也是為何即使指定相同的大小，但不同字型的實際高度並不一致。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T082159Z" creationid="Franklin Weng" creationdate="20171231T134208Z">
+        <seg>每個字型的間隔空間都不同，這就是為何即使指定了相同的大小，不同字型的實際高度也不會一致的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9141,8 +9141,8 @@
       <tuv lang="EN">
         <seg>In fact, the actual height can vary considerably.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T134349Z" creationid="Franklin Weng" creationdate="20171231T134349Z">
-        <seg>說不一致是說輕了一點，實際上差別可能相當的大。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T082304Z" creationid="Franklin Weng" creationdate="20171231T134349Z">
+        <seg>說不一致是說輕了一點，實際上字型高度可能相當的大。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
