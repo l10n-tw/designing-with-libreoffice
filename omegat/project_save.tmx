@@ -7175,8 +7175,8 @@
       <tuv lang="EN">
         <seg>For &lt;t0/&gt;this reason, setting headings in points as well only makes sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105148Z" creationid="Franklin Weng" creationdate="20180101T105148Z">
-        <seg>&lt;t0/&gt;同樣的理由，用點做單位來設定標題以一樣合理。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120302Z" creationid="Franklin Weng" creationdate="20180101T105148Z">
+        <seg>&lt;t0/&gt;基於同樣理由，用點做單位設定標題也一樣合理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7863,8 +7863,8 @@
       <tuv lang="EN">
         <seg>However, as shown later in this chapter, many design elements are based on the size of the standard fonts, which are most conveniently measured in points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105102Z" creationid="Franklin Weng" creationdate="20180101T105102Z">
-        <seg>不過，在本章後面會顯示，許多設計元素是以標準字型的大小為基準，而標準字型大小則通常用點來做單位是最方便的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120214Z" creationid="Franklin Weng" creationdate="20180101T105102Z">
+        <seg>不過，在本章後面會顯示，許多設計元素是以標準字型的大小為基準，而標準字型大小如果用點來做單位是最方便的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10084,8 +10084,8 @@
       <tuv lang="EN">
         <seg>LibreOffice's &lt;f0&gt;pre-defined heading paragraph styles express size as&lt;/f0&gt; percentages of the Headings styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105753Z" creationid="Franklin Weng" creationdate="20171231T134628Z">
-        <seg>LibreOffice &lt;f0&gt;預先定義的標題段落樣式的大小是以「標題」樣式大小的百分比來表示的。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120056Z" creationid="Franklin Weng" creationdate="20171231T134628Z">
+        <seg>LibreOffice&lt;f0&gt;預先定義的標題段落樣式大小是以「標題」樣式大小的百分比來表示的。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12205,8 +12205,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since the size of all headings are usually determined at the same time and in relation to each other, using percentages is logical.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T105013Z" creationid="Franklin Weng" creationdate="20180101T105013Z">
-        <seg>因為所有標題的大小通常一開始就會一起決定，而且是彼此相關的，因此使用百分比也相當合理。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120140Z" creationid="Franklin Weng" creationdate="20180101T105013Z">
+        <seg>因為所有標題的大小通常會全部一起決定，而且彼此相關，因此使用百分比也相當合理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,8 +12734,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Text for captions and notes sometimes goes as low as 8 points, while headings and titles are rarely more than 28 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T094356Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
-        <seg>圖說、圖表標示與備註的文字通常小到8點，而標題與題名等則很少大於28點。而現代中文書籍內文字大小通常是9-12點，而圖說等小字常見為6-8點，至於標題與題名則常見14-36點之間，但沒有固定做法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120022Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
+        <seg>圖說、圖表標示與備註的文字通常小到8點，而標題與題名等則很少大於28點。至於現代中文書籍內文字大小通常是9-12點，而圖說等小字常見為6-8點，至於標題與題名則常見14-36點之間，但都沒有固定做法。</seg>
       </tuv>
     </tu>
     <tu>
