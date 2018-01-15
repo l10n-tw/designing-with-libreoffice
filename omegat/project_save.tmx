@@ -2801,11 +2801,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>原文 Writer??  先改成 Impress</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T093357Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
-        <seg>&lt;f0&gt;Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T094031Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
+        <seg>&lt;f0&gt;Impress 會盡可能調整影像，但為了確保不會失真，&lt;/f0&gt;用以下的Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
       </tuv>
     </tu>
     <tu>
