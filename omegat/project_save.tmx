@@ -3135,8 +3135,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The six main font families are:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T060051Z" creationid="Franklin Weng" creationdate="20171225T092351Z">
-        <seg>&lt;f1&gt;字型家族有六種主要的分類：&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T060153Z" creationid="Franklin Weng" creationdate="20171225T092351Z">
+        <seg>&lt;f1&gt;字型家族有六種主要分類：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5869,8 +5869,8 @@
       <tuv lang="EN">
         <seg>Different members of a font family are often called weights.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T033326Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
-        <seg>在一個字族之中，通常會以字重 (font weight) 區分字族的成員。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T060243Z" creationid="Franklin Weng" creationdate="20171225T125831Z">
+        <seg>在同一個字型家族之中，通常會以字重 (font weight) 區分字族的成員。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6494,8 +6494,8 @@
       <tuv lang="EN">
         <seg>Font &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T035405Z" creationid="Franklin Weng" creationdate="20171225T125429Z">
-        <seg>字型樣式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T060214Z" creationid="Franklin Weng" creationdate="20171225T125429Z">
+        <seg>字型樣式（字樣）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8484,8 +8484,8 @@
       <tuv lang="EN">
         <seg>In LibreOffice, related fonts &lt;f0&gt;are&lt;/f0&gt; called a family.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T132402Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
-        <seg>在LibreOffice中，彼此之間有相關設計元素的字型合稱為一個字型家族。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T060144Z" creationid="Franklin Weng" creationdate="20171224T082459Z">
+        <seg>在LibreOffice中，彼此之間有相關設計元素的字型合稱為一個字型家族，簡稱爲字族。</seg>
       </tuv>
     </tu>
     <tu>
