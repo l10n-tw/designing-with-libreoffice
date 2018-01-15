@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>500: Medium.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124623Z" creationid="Franklin Weng" creationdate="20171231T124623Z">
-        <seg>500：中等（Medium）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T075925Z" creationid="Franklin Weng" creationdate="20171231T124623Z">
+        <seg>500：中等 (Medium)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3399,8 +3399,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;It may also&lt;/f2&gt; called Regular, Book, or Medium, &lt;f3&gt;although these are not always exact synonyms in individual font families.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065117Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
-        <seg>&lt;f3&gt;雖然以下幾個詞語的實際意義不盡然完全相同&lt;/f3&gt;，&lt;f2&gt;但 Roman 羅馬體有時也被對應成&lt;/f2&gt;Regualr（標準體）、Book（書本體），或是Medium（中等體） 。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T075931Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
+        <seg>&lt;f3&gt;雖然以下幾個詞語的實際意義不盡然完全相同&lt;/f3&gt;，&lt;f2&gt;但 Roman 羅馬體有時也被對應成&lt;/f2&gt;Regualr（標準）、Book（書本體），或是Medium（中等） 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6862,8 +6862,8 @@
       <tuv lang="EN">
         <seg>Font styles in CSS.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124631Z" creationid="Franklin Weng" creationdate="20171231T124631Z">
-        <seg>CSS 中的字型樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T075859Z" creationid="Franklin Weng" creationdate="20171231T124631Z">
+        <seg>CSS中的字型樣式分類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13793,8 +13793,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These cautions do not mean that font styles are not useful in deciding what fonts &lt;f0&gt;to use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T084420Z" creationid="Franklin Weng" creationdate="20171231T131730Z">
-        <seg>對這些細節的留意並不表示字型樣式對決定使用哪種字型是不管用的。&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T080146Z" creationid="Franklin Weng" creationdate="20171231T131730Z">
+        <seg>上述這些說法並不代表字型樣式對於決定要使用哪種字型而言不大管用。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
