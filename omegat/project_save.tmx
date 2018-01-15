@@ -12285,8 +12285,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some equivalents, such as the Liberation fonts, are only metrical – that is, they take up the same space as their proprietary equivalents, but the letters themselves are different.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100423Z" creationid="Jeff Huang" creationdate="20180115T070306Z">
-        <seg>有一些同等替代品，如Liberation字型，僅在數據規格上一致；也就是說，它與相對應的專有字型在版面上佔據完全相同的空間，但是字母外形設計本身並不相同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T101935Z" creationid="Jeff Huang" creationdate="20180115T070306Z">
+        <seg>有一些同等替代品，如Liberation字型，僅在數據規格上一致；也就是說，它與相對應的專有字型在版面上佔據完全相同的空間，但是字符外形設計本身並不相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14515,8 +14515,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To start with, a font family traditionally contains four main styles: Regular, Italic, Bold, and Bold Italic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073632Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
-        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：Regular（一般）、Italic（義大利體）、Bold（粗體）、Bold Italic（粗義大利體），在LibreOffice中的字型樣式選單中則對應到「標準」、「義式斜體」、「粗體」、「義式粗斜體」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T102251Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
+        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：一般 (Regular)、義大利體 (Italic)、粗體 (Bold)、粗義大利體 (Bold Italic)；而在LibreOffice中的字型樣式選單中則對應到「標準」、「義式斜體」、「粗體」、「義式粗斜體」。</seg>
       </tuv>
     </tu>
     <tu>
