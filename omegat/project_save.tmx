@@ -792,6 +792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Axes:&lt;/f0&gt; The horizontal and vertical values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030921Z" creationid="Jeff Huang" creationdate="20180115T030921Z">
+        <seg>&lt;f0&gt;軸：&lt;/f0&gt;水平與垂直的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Bar: &lt;/f0&gt;&lt;f1&gt;The data displays in horizontal columns.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132110Z" creationid="Jeff Huang" creationdate="20180113T132110Z">
@@ -1312,6 +1320,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134445Z" creationid="Jeff Huang" creationdate="20180113T134445Z">
         <seg>&lt;f0&gt;GL3D 條狀圖：&lt;/f0&gt;&lt;f1&gt;使用 OpenGL 算繪三維圖表的條狀圖表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Grid:&lt;/f0&gt; The lines against the wall that make values &lt;f1&gt;in the axes easier&lt;/f1&gt; to read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030852Z" creationid="Jeff Huang" creationdate="20180115T030852Z">
+        <seg>&lt;f0&gt;網格：&lt;/f0&gt;在背景上的線，讓在&lt;f1&gt;軸上的值更容易&lt;/f1&gt;閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2545,6 +2561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Title: &lt;/f0&gt;The name of the whole graph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030942Z" creationid="Jeff Huang" creationdate="20180115T030942Z">
+        <seg>&lt;f0&gt;標題：&lt;/f0&gt;整個圖表的名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To add a fill, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and select the tab for the type of fill you want to add.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120015Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
@@ -2646,6 +2670,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T092202Z" creationid="zerng07" creationdate="20171226T092202Z">
         <seg>&lt;f0&gt;使用&lt;/f0&gt;格式化工具列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Wall:&lt;/f0&gt; The background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030728Z" creationid="Jeff Huang" creationdate="20180115T030728Z">
+        <seg>&lt;f0&gt;背景牆：&lt;/f0&gt;背景。</seg>
       </tuv>
     </tu>
     <tu>
