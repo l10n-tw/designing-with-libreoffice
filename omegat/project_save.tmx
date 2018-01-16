@@ -2688,6 +2688,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現況改寫</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To design your own&lt;/f0&gt; patterned backgrounds, &lt;f1&gt;g&lt;/f1&gt;o to &lt;f2&gt;View &gt; Master &gt; Slide Master,&lt;/f2&gt; and from the menu select &lt;f3&gt;Format &gt; Page &gt; Background&lt;/f3&gt; to choose a color, gradient, cross-hatching, or bitmap tile for the background &lt;f4&gt;for all slides with the same master slide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T053213Z" creationid="Franklin Weng" creationdate="20180116T053213Z">
+        <seg>&lt;f0&gt;要設計你自己的&lt;/f0&gt;背景樣式，從選單選擇「&lt;f2&gt;檢視 &gt; 投影片母片&lt;/f2&gt;」，並在右方側欄的「&lt;f3&gt;背景&lt;/f3&gt;」中選擇要使用色彩、漸層、陰影線、點陣圖或樣式。這樣&lt;f4&gt;所有的投影片就都會使用同一個背景</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To draw a dimension line, click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lines and Arrows&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button on the Drawing tool bar (the ninth from the left), and select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Dimension Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the available tools.</seg>
       </tuv>
@@ -2837,8 +2846,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T094031Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
-        <seg>&lt;f0&gt;Impress 會盡可能調整影像，但為了確保不會失真，&lt;/f0&gt;用以下的Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T051833Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
+        <seg>&lt;f0&gt;Impress 會盡可能調整影像，但為了確保不會失真，&lt;/f0&gt;最好用以下的標準螢幕比例：寬螢幕 16:9，舊式螢幕 4:3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5855,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T120651Z" creationid="Franklin Weng" creationdate="20171223T120651Z">
         <seg>然後點擊「新文件」繼續。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Gallery &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;button on the sidebar for more patterns and images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T053320Z" creationid="Franklin Weng" creationdate="20180116T053320Z">
+        <seg>點按側邊欄上的「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;圖庫&lt;/f6&gt;&lt;/f5&gt;」&lt;f7&gt;按鈕，可以找到更多樣式與圖像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16004,6 +16021,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031856Z" creationid="Jeff Huang" creationdate="20180116T031856Z">
         <seg>你也可以匯入在另一個應用程式中製作的圖形，然後再進行一些簡單的佈局調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use the tools &lt;f0&gt;o&lt;/f0&gt;n &lt;f1&gt;the&lt;/f1&gt; &lt;f2&gt;Background&lt;/f2&gt; tab to reduce an image’s size, position it, or offset it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T051913Z" creationid="Franklin Weng" creationdate="20180116T051913Z">
+        <seg>你也可以用&lt;f2&gt;「背景」&lt;/f2&gt;頁籤裡的工具來調整影像的大小、位置與位移。</seg>
       </tuv>
     </tu>
     <tu>
