@@ -8923,8 +8923,8 @@
       <tuv lang="EN">
         <seg>If you &lt;f0&gt;use &lt;/f0&gt;Linux, and lack these fonts, look for the Liberation fonts, which are designed to take up the same space as the standard fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125256Z" creationid="Franklin Weng" creationdate="20180103T125256Z">
-        <seg>如果你&lt;f0&gt;用的&lt;/f0&gt;是 Linux，沒有這些字型，你可以找找 Liberation 系列字型，它們設計成使用的空間跟上述標準字型一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123520Z" creationid="Franklin Weng" creationdate="20180103T125256Z">
+        <seg>如果你&lt;f0&gt;用的&lt;/f0&gt;是GNU/Linux，而且也沒有上述這些字型的話，你可以找Liberation系列字型來用，因為這套字型所佔據的排印空間設計得跟常見的標準字型一模一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9219,8 +9219,8 @@
       <tuv lang="EN">
         <seg>If you only want recipients to view the document, you can send a &lt;f0&gt;PDF&lt;/f0&gt; file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124452Z" creationid="Franklin Weng" creationdate="20180103T124452Z">
-        <seg>如果你只是要收件人看你的文件，你可以傳送 &lt;f0&gt;PDF&lt;/f0&gt; 檔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123050Z" creationid="Franklin Weng" creationdate="20180103T124452Z">
+        <seg>如果你只是要收件人閱讀你的文件的話，可以寄送&lt;f0&gt;PDF&lt;/f0&gt;檔給他。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11712,8 +11712,8 @@
       <tuv lang="EN">
         <seg>Otherwise, you &lt;t1/&gt;might be better off sticking to the standard Times New Roman, Arial or Helvetica, and Courier.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124545Z" creationid="Franklin Weng" creationdate="20180103T124545Z">
-        <seg>不然，你&lt;t1/&gt;最好用一些常見標準字型，如 Times New Roman、Arial、Helvetica 或 Courier。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123120Z" creationid="Franklin Weng" creationdate="20180103T124545Z">
+        <seg>不然，你最好用一些常見的標準字型，例如Times New Roman、Arial、Helvetica或Courier……等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16186,8 +16186,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Will recipients have the fonts installed on their computers to display the document properly?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T124428Z" creationid="Franklin Weng" creationdate="20180103T123653Z">
-        <seg>收件人的電腦上是否安裝有你所使用的字型？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123015Z" creationid="Franklin Weng" creationdate="20180103T123653Z">
+        <seg>收件人的電腦上是否安裝有你文件中所使用的字型？</seg>
       </tuv>
     </tu>
     <tu>
