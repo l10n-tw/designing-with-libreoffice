@@ -4288,6 +4288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alignment: &lt;f0&gt;Shows whether elements are or are not connected by their alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T033747Z" creationid="Jeff Huang" creationdate="20180116T033747Z">
+        <seg>對齊：&lt;f0&gt;以對齊的方式顯示元素間互相是否有關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All connectors can end with an arrow or an open or filled circle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021353Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
@@ -7409,6 +7417,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173417Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
         <seg>舉例而言，在GNU/Linux下，當你在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;範本選單&lt;/f2&gt;&lt;/f1&gt;中儲存時&lt;f3&gt;，範本管理員只能儲存、搜尋和檢視。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, list items have a common alignment, while the return address is the only part of the letter to have a right alignment because it is unconnected to the rest of the letter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T033929Z" creationid="Jeff Huang" creationdate="20180116T033929Z">
+        <seg>舉例來說，清單中的項目有共同的對齊方式，但回信地址卻是一封信內唯一一個靠右對齊的項目，因此可以看出其與信件剩下的部份並無關聯。</seg>
       </tuv>
     </tu>
     <tu>
