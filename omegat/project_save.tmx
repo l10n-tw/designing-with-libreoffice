@@ -6076,6 +6076,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contrast</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T070929Z" creationid="Jeff Huang" creationdate="20180116T070929Z">
+        <seg>對比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contrast: Emphasize&lt;f0&gt;s&lt;/f0&gt; differences between elements on a page by design differences.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T035328Z" creationid="Jeff Huang" creationdate="20180116T035328Z">
@@ -12553,6 +12561,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162832Z" creationid="zerng07" creationdate="20171227T162832Z">
         <seg>因為樣式放在&lt;f2&gt;不同的&lt;/f2&gt;類別中，&lt;f3&gt;無論是你或LibreOffice都不會因此搞混。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since the design already splits into two columns with two different types of information, why not &lt;f0&gt;make the design more interesting &lt;/f0&gt;by giving one column a different background &lt;f1&gt;color&lt;/f1&gt;?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T071609Z" creationid="Jeff Huang" creationdate="20180116T071609Z">
+        <seg>因為其設計已經分成兩欄，分別是兩種不同的資訊，為什麼不給其中一欄不同的背景&lt;f1&gt;色彩&lt;/f1&gt;，&lt;f0&gt;讓設計更有趣呢？</seg>
       </tuv>
     </tu>
     <tu>
