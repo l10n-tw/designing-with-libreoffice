@@ -2747,8 +2747,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This problem is common with TrueType fonts, and when you change weights&lt;/f0&gt; from the tool bar or a &lt;f1&gt;Character&lt;/f1&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065011Z" creationid="Franklin Weng" creationdate="20171228T060638Z">
-        <seg>&lt;f0&gt;這個問題在TrueType字型很常發生，還有你從工具列或&lt;/f0&gt;&lt;f1&gt;「字元」&lt;/f1&gt;對話視窗中改變字重時也會遇到。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T133042Z" creationid="Franklin Weng" creationdate="20171228T060638Z">
+        <seg>&lt;f0&gt;這個問題在TrueType字型很常發生，還有當你直接從工具列或&lt;/f0&gt;&lt;f1&gt;「字元」&lt;/f1&gt;對話視窗中改變字重時也容易遇到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8441,8 +8441,8 @@
       <tuv lang="EN">
         <seg>However, in practice, font styles are inconsistent enough that &lt;f0&gt;the best they can give you is a rough indication of whether a font is suitable for your needs.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T070127Z" creationid="Franklin Weng" creationdate="20171228T063810Z">
-        <seg>不過，實際上各個字族提供的字型樣式很不一致，所以&lt;f0&gt;這裡最多只能給你一個粗略的概念，看某個字型是否符合你的需求。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T133124Z" creationid="Franklin Weng" creationdate="20171228T063810Z">
+        <seg>不過，實際上各個字族提供的字型樣式很不一致，所以&lt;f0&gt;這裡最多只能給你一個粗略的概念，看看某個字型是否符合你的需求。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8529,8 +8529,8 @@
       <tuv lang="EN">
         <seg>However, some general historical trends do exist, &lt;f0&gt;even though experts do not always agree on the features that identify trends, or where each font belongs.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T132150Z" creationid="Franklin Weng" creationdate="20180103T132150Z">
-        <seg>不過，還是有一些歷史的走向可以觀察，&lt;f0&gt;雖然專家不見得都同意某些特徵屬於什麼潮流走向，或是哪種字型屬於哪種流派。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T133441Z" creationid="Franklin Weng" creationdate="20180103T132150Z">
+        <seg>不過，確實還是可以觀察到一些歷史風潮，&lt;f0&gt;雖然專家不見得都能同意某些特徵屬於什麼潮流走向、或是哪個字型屬於哪種流派。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9807,8 +9807,8 @@
       <tuv lang="EN">
         <seg>In theory, font styles should help you to choose fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T070131Z" creationid="Franklin Weng" creationdate="20171228T063700Z">
-        <seg>理論上，字型樣式能協助你選擇出所要的字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T133113Z" creationid="Franklin Weng" creationdate="20171228T063700Z">
+        <seg>理論上，字型樣式能協助你挑出所要的字型。</seg>
       </tuv>
     </tu>
     <tu>
