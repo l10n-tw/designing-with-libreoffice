@@ -6872,8 +6872,8 @@
       <tuv lang="EN">
         <seg>Embedding simplifies file-sharing, making it unnecessary for recipients to have the document’s fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125429Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
-        <seg>嵌入字型可以解決檔案分享時收件者沒有你所使用字型的問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123713Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
+        <seg>嵌入字型確實可以輕鬆解決分享檔案時收件者沒有所用字型的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8240,8 +8240,8 @@
       <tuv lang="EN">
         <seg>However, a file of 14 kilobytes balloons into one of 13.4 megabytes when only two fonts are embedded.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125506Z" creationid="Franklin Weng" creationdate="20180103T125506Z">
-        <seg>不過，一個原本 14 KB 的檔案，可能在嵌入兩個字型之後檔案大小就會變成 13.4 MB 了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123801Z" creationid="Franklin Weng" creationdate="20180103T125506Z">
+        <seg>不過，一份原本只要14 KB的檔案，可能在嵌入兩個字型之後暴增為13.4 MB。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9968,8 +9968,8 @@
       <tuv lang="EN">
         <seg>Is embedding fonts in the file a solution?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125320Z" creationid="Franklin Weng" creationdate="20180103T125320Z">
-        <seg>將字型嵌入檔案內是解決的方法之一嗎？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123600Z" creationid="Franklin Weng" creationdate="20180103T125320Z">
+        <seg>可以將字型嵌入檔案中作為解決方法嗎？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,8 +10461,8 @@
       <tuv lang="EN">
         <seg>LibreOffice has had font embedding since version 4.1.3.2.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125401Z" creationid="Franklin Weng" creationdate="20180103T125401Z">
-        <seg>LibreOffice 在 4.1.3.2 之後就有嵌入字型的功能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123614Z" creationid="Franklin Weng" creationdate="20180103T125401Z">
+        <seg>LibreOffice從4.1.3.2以後就有嵌入字型的功能。</seg>
       </tuv>
     </tu>
     <tu>
