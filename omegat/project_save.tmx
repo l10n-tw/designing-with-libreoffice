@@ -639,6 +639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt; simple design is preferable to a complicated one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T060809Z" creationid="Jeff Huang" creationdate="20180116T060809Z">
+        <seg>簡單的設計比複雜的要好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; slide show i&lt;f1&gt;s&lt;/f1&gt; a medium with serious limitations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T032042Z" creationid="Franklin Weng" creationdate="20180107T031737Z">
@@ -8829,6 +8837,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142115Z" creationid="Franklin Weng" creationdate="20171223T132950Z">
         <seg>如果你沒有要取代樣式，那麼記得別勾選「&lt;f0&gt;覆蓋&lt;/f0&gt;」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you don’t have a reason for a design &lt;f0&gt;element&lt;/f0&gt;, &lt;f1&gt;delete it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T062919Z" creationid="Jeff Huang" creationdate="20180116T062919Z">
+        <seg>如果你沒有設計&lt;f0&gt;元素&lt;/f0&gt;的理由，請&lt;f1&gt;刪除它。</seg>
       </tuv>
     </tu>
     <tu>
