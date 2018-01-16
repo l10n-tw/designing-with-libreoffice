@@ -689,8 +689,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; sub-category of serifs is called slab serifs, and uses very large &lt;f1&gt;serifs, making them suitable for posters and online&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164740Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
-        <seg>襯線體其中一種子類別稱作平粗襯線體（Slab Serif），&lt;f1&gt;用了非常大而明顯的襯線，很適合用在海報與網頁等處。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145655Z" creationid="Franklin Weng" creationdate="20171225T092532Z">
+        <seg>襯線體其中一種子類別稱作粗平襯線體（Slab Serif），&lt;f1&gt;用了非常大而明顯的襯線，很適合用在海報與網頁等處。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3617,8 +3617,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Like Humanist serifs, Old Style fonts are very popular for general purposes.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T144637Z" creationid="Franklin Weng" creationdate="20180103T133824Z">
-        <seg>&lt;f2&gt;就跟人文主義風字型一樣，舊式字型在一般通用場合也很受歡迎。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145454Z" creationid="Franklin Weng" creationdate="20180103T133824Z">
+        <seg>&lt;f2&gt;就跟人文主義字型一樣，舊式字型在一般通用場合也很受歡迎。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,8 +3713,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164803Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
-        <seg>&lt;f2&gt;平粗襯線字型中的襯線比其他襯線字型都要來得更厚實。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145705Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
+        <seg>&lt;f2&gt;粗平襯線字型中的襯線比其他襯線字型都要來得更厚實。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11334,8 +11334,8 @@
       <tuv lang="EN">
         <seg>Often, that means designing mainly with sans serifs and the occasional slab serif.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T122955Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
-        <seg>通常這代表應該以無襯線字型為主，並偶爾使用平粗襯線字型比較好。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145732Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
+        <seg>通常這代表應該以無襯線字型為主，並偶爾使用粗平襯線字型比較好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12208,8 +12208,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164755Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
-        <seg>右：&lt;f0&gt;平粗襯線 (Slab serif) 字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145700Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
+        <seg>右：&lt;f0&gt;粗平襯線 (Slab serif) 字型&lt;/f0&gt;（&lt;f1&gt;Chunk&lt;/f1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12791,8 +12791,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Slab &lt;f0&gt;s&lt;/f0&gt;erifs</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T144819Z" creationid="Franklin Weng" creationdate="20180103T135209Z">
-        <seg>粗平襯線體 (Slab serifs)</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145543Z" creationid="Franklin Weng" creationdate="20180103T135209Z">
+        <seg>粗平襯線體 (Slab serif)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12967,8 +12967,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes an alternate name for Humanist &lt;f0&gt;s&lt;/f0&gt;erifs, “Old Style” is &lt;f1&gt;technically&lt;/f1&gt; reserved &lt;f2&gt;for&lt;/f2&gt; seventeenth-century designs &lt;f3&gt;or designs inspired by them.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T133640Z" creationid="Franklin Weng" creationdate="20180103T133640Z">
-        <seg>有時會被當成人文主義字型的替代詞。「舊式」字型&lt;f1&gt;技術上&lt;/f1&gt;特別指 17 世紀時的設計，或由 17 世紀設計所啟發的設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145512Z" creationid="Franklin Weng" creationdate="20180103T133640Z">
+        <seg>有時會被當成人文主義字型的替代詞。「舊式」字體&lt;f1&gt;技術上&lt;/f1&gt;特別指 17 世紀時的設計，或由 17 世紀設計所啟發的設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14259,8 +14259,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The original Humanist fonts were also extremely dark, perhaps to make them more legible by candlelight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T144011Z" creationid="Franklin Weng" creationdate="20180103T133255Z">
-        <seg>原始的人文主義風字型灰度較深，可能是為了讓文字在燭光的照明下看得比較清楚之故。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145441Z" creationid="Franklin Weng" creationdate="20180103T133255Z">
+        <seg>原始的人文主義字型灰度較深，可能是為了讓文字在燭光的照明下看得比較清楚之故。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15302,8 +15302,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Transitional</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T144709Z" creationid="Franklin Weng" creationdate="20180103T133919Z">
-        <seg>過渡字體（Transitional）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145517Z" creationid="Franklin Weng" creationdate="20180103T133919Z">
+        <seg>過渡字體 (Transitional)</seg>
       </tuv>
     </tu>
     <tu>
