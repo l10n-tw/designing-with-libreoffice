@@ -1237,8 +1237,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Example&lt;/f0&gt;: &lt;f1&gt;a&lt;/f1&gt;pplying design</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T064836Z" creationid="Jeff Huang" creationdate="20180116T064836Z">
-        <seg>&lt;f0&gt;例子&lt;/f0&gt;：套用設計</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T065110Z" creationid="Jeff Huang" creationdate="20180116T064836Z">
+        <seg>&lt;f0&gt;例子&lt;/f0&gt;：應用設計</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,6 +13347,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144326Z" creationid="zerng07" creationdate="20171225T144326Z">
         <seg>&lt;f3&gt;繼承的&lt;/f3&gt;來源樣式是目前樣式的親代——目前的樣式繼承了它的樣貌特徵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The After cards, while not &lt;f0&gt;necessarily&lt;/f0&gt; the best of &lt;f1&gt;all possible &lt;/f1&gt;designs, are at least noticeable improvements over the Before cards.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T065545Z" creationid="Jeff Huang" creationdate="20180116T065545Z">
+        <seg>雖然修改後的卡片雖然不&lt;f0&gt;一定&lt;/f0&gt;是&lt;f1&gt;所有可能&lt;/f1&gt;的設計中最好的版本，但至少與修改前相比有明顯的改進。</seg>
       </tuv>
     </tu>
     <tu>
