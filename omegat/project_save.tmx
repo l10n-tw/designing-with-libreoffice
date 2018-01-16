@@ -3505,8 +3505,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Any more&lt;/f2&gt; than &lt;f3&gt;three or four&lt;/f3&gt; levels of headings &lt;f4&gt;(including chapter titles)&lt;/f4&gt; &lt;f5&gt;makes designing difficult and meaningless.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135101Z" creationid="Franklin Weng" creationdate="20180102T135101Z">
-        <seg>&lt;f2&gt;多於&lt;/f2&gt;&lt;f3&gt;三或四層&lt;/f3&gt;標題&lt;f4&gt;（包括章節標題）&lt;/f4&gt; &lt;f5&gt;就會讓整個設計變得困難而且沒有意義。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T120347Z" creationid="Franklin Weng" creationdate="20180102T135101Z">
+        <seg>&lt;f2&gt;只要多於&lt;/f2&gt;&lt;f3&gt;三層或四層&lt;/f3&gt;標題&lt;f4&gt;（包含各章的章名）&lt;/f4&gt;&lt;f5&gt;就會讓設計變得更為困難，而且這種做法本身毫無意義可言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10024,8 +10024,8 @@
       <tuv lang="EN">
         <seg>It can belong to the same font family as the body text, but, if so, it should be a different font style, size, or color.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T115948Z" creationid="Franklin Weng" creationdate="20180101T133905Z">
-        <seg>它可以跟內文使用同一個字族。不過要這樣做的話，這部分文字所用的字型樣式、大小、色彩等就要有所區隔。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T115957Z" creationid="Franklin Weng" creationdate="20180101T133905Z">
+        <seg>它可以跟內文使用同一個字族。不過要這樣做的話，這部分文字所用的字型樣式、大小、色彩等就要與內文有所區隔。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10533,8 +10533,8 @@
       <tuv lang="EN">
         <seg>LibreOffice provides for up to ten heading &lt;f0&gt;level&lt;/f0&gt;s, but this &lt;f1&gt;number &lt;/f1&gt;is overkill.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T134956Z" creationid="Franklin Weng" creationdate="20180101T133939Z">
-        <seg>LibreOffice 裡提供了&lt;f0&gt;十層&lt;/f0&gt;的標題樣式，但其實&lt;f1&gt;十個&lt;/f1&gt;真的是太多了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T120037Z" creationid="Franklin Weng" creationdate="20180101T133939Z">
+        <seg>LibreOffice提供多達&lt;f0&gt;十層&lt;/f0&gt;的標題樣式，但其實&lt;f1&gt;十個&lt;/f1&gt;真的太多了。</seg>
       </tuv>
     </tu>
     <tu>
