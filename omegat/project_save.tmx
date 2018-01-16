@@ -1469,6 +1469,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, if you want to draw or edit an image, programs like Inkscape or Krita have more tools.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031955Z" creationid="Jeff Huang" creationdate="20180116T031955Z">
+        <seg>&lt;f0&gt;不過，如果你想要繪製或編輯圖片，Inkscape 或 Krita 等程式會有更多的工具讓你使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, one thing that this book&lt;/f0&gt; is not &lt;f1&gt;is &lt;/f1&gt;a relentless death march &lt;f2&gt;in regimented order&lt;/f2&gt; through every item in the menus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184855Z" creationid="zerng07" creationdate="20170817T163306Z">
@@ -15859,6 +15867,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T092030Z" creationid="zerng07" creationdate="20171224T092030Z">
         <seg>你也可以反白選取輸入內容，接著在工具列的樣式清單中選取「&lt;f2&gt;編輯&lt;/f2&gt;」來開啟樣式的對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also import graphics prepared in another application, and do simple layout.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031856Z" creationid="Jeff Huang" creationdate="20180116T031856Z">
+        <seg>你也可以匯入在另一個應用程式中製作的圖形，然後再進行一些簡單的佈局調整。</seg>
       </tuv>
     </tu>
     <tu>
