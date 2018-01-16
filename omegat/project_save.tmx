@@ -2609,6 +2609,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The design is intricate, but small enough that foreground text is readable.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091503Z" creationid="Franklin Weng" creationdate="20180116T091503Z">
+        <seg>&lt;f0&gt;這個設計看起來有點錯縱複雜，但是因為夠小所以不至於影響前景文字的閱讀。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The emphasis in designing shifts w&lt;/f0&gt;ith Impress, LibreOffice’s slide show application.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T122624Z" creationid="Franklin Weng" creationdate="20180106T122549Z">
@@ -2693,6 +2701,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T165128Z" creationid="Franklin Weng" creationdate="20171225T100855Z">
         <seg>&lt;f0&gt;這個字型在大部份的GNU/Linux散布版中都有收錄。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This gradient leaves most of the slide’s center with a strong contrast, leaving the lesser contrast to the sides where there is less text.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091834Z" creationid="Franklin Weng" creationdate="20180116T091834Z">
+        <seg>&lt;f0&gt;觀察這個背景的漸層，中間部份顏色沒有漸層，能提供與前景較大的反差；四個角落則以漸層表現，因為比較不會影響到文字的閱讀。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4073,6 +4089,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A gradient background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091658Z" creationid="Franklin Weng" creationdate="20180116T091658Z">
+        <seg>漸層式的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A hatched backgro&lt;f0&gt;und.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091535Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
+        <seg>鑲嵌式的背景。&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A l&lt;f0&gt;ine of text greater than about 80 characters.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144717Z" creationid="Franklin Weng" creationdate="20180105T144717Z">
@@ -4197,6 +4229,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T135954Z" creationid="Franklin Weng" creationdate="20180102T135954Z">
         <seg>比方說，較高、較窄的頁面可能用較高、較窄的字型比較適合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A tiled background using a brick pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091349Z" creationid="Franklin Weng" creationdate="20180116T091349Z">
+        <seg>磚牆樣式的背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,6 +5118,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071555Z" creationid="Jeff Huang" creationdate="20180115T071555Z">
         <seg>Baskerville</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful that a hatched background has enough contrast with the foreground text and is readable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091628Z" creationid="Franklin Weng" creationdate="20180116T091628Z">
+        <seg>要留意的是這種背景要跟前景文字有足夠的反差，才好閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8699,6 +8747,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T131827Z" creationid="Franklin Weng" creationdate="20180103T131827Z">
         <seg>如果你沒有什麼其他的線索，這個標準可以讓你的設計比較對稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If other options fail, create a patterned background.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T053408Z" creationid="Franklin Weng" creationdate="20180116T053408Z">
+        <seg>如果其他的選項都無法滿足你的需求，那就建立一個具樣式的背景。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13066,6 +13122,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072154Z" creationid="Jeff Huang" creationdate="20180115T072154Z">
         <seg>Tahoma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take particular care when printing in black and white.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091648Z" creationid="Franklin Weng" creationdate="20180116T091648Z">
+        <seg>特別是在黑白模式下列印時要特別注意。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
