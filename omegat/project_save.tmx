@@ -5363,6 +5363,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By comparison, word count and the author’s name do not belong in the same header or footer unless you have no other place to put them.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T053327Z" creationid="Jeff Huang" creationdate="20180116T053327Z">
+        <seg>相較之下，字數與作者名並不會放在相同的地方，除非沒有其他地方能放了。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By contrast, &lt;f0&gt;&lt;f1&gt;Overlining&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Strikethrough&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Underlining&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;have limited use in most circumstances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120954Z" creationid="Franklin Weng" creationdate="20180101T121303Z">
@@ -11790,6 +11798,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091734Z" creationid="Franklin Weng" creationdate="20180115T091734Z">
         <seg>你也可以用 PowerPoint 的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetition: &lt;f0&gt;U&lt;/f0&gt;nifies the document &lt;f1&gt;by r&lt;/f1&gt;epeating design elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T053637Z" creationid="Jeff Huang" creationdate="20180116T053637Z">
+        <seg>重複：透過重複設計元素來讓文件一致。</seg>
       </tuv>
     </tu>
     <tu>
