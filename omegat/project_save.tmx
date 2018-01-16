@@ -551,6 +551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;The background is then available for use &lt;f7&gt;in other presentations.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092048Z" creationid="Franklin Weng" creationdate="20180116T092048Z">
+        <seg>&lt;/f6&gt;這個背景就可以讓&lt;f7&gt;其他的簡報&lt;/f7&gt;使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032920Z" creationid="Franklin Weng" creationdate="20171231T100259Z">
@@ -4337,6 +4345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding footer information</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092106Z" creationid="Franklin Weng" creationdate="20180116T092106Z">
+        <seg>加入頁尾資訊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding tables can be laborious in Impress, so add a slide with a table in the colors you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T133630Z" creationid="Franklin Weng" creationdate="20180114T133630Z">
@@ -4445,6 +4461,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175002Z" creationid="zerng07" creationdate="20171223T180040Z">
         <seg>插入Writer中的所有物件都是包在外框之內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All slides include three frames for footers: from left to right, date and time, optional fields, and slide number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092215Z" creationid="Franklin Weng" creationdate="20180116T092215Z">
+        <seg>每張投影片在頁尾處都包含三個框，從左到右分別是：日期與時間、選擇性存放資訊、還有投影片頁碼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6681,6 +6705,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031228Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
         <seg>Draw 與 Impress 共享了一組圖形編輯工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing Object styles (called Graphics styles in OpenOffice &lt;f0&gt;and earlier versions of LibreOffice&lt;/f0&gt;) treat text as &lt;f1&gt;one feature of &lt;/f1&gt;objects, and are covered in Chapter 1&lt;f2&gt;3&lt;/f2&gt; when Draw is discussed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094356Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
+        <seg>「繪圖樣式」（Drawing Object styles，&lt;f0&gt;在 OpenOffice 跟早期版本的 LibreOffice 稱為「圖形樣式」 Graphics styles&lt;/f0&gt;）是把文字當成物件的&lt;f1&gt;其中一種&lt;/f1&gt;，這部份在第 13 章討論 Draw 時會談。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9313,6 +9345,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Impress has two types of styles for fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092504Z" creationid="Franklin Weng" creationdate="20180116T092504Z">
+        <seg>Impress 有兩種字型的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>先改用現有的功能來重寫</note>
       <tuv lang="EN">
         <seg>Impress’ Presentation Wizard helps you to structure your presentation.</seg>
@@ -9669,6 +9709,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, only the slide number is used regularly these days, &lt;f0&gt;and, sometimes, not even it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092257Z" creationid="Franklin Weng" creationdate="20180116T092257Z">
+        <seg>現在實作上通常只會放頁碼，&lt;f0&gt;有時甚至連頁碼都不放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some situations, using more than one principle at once can strengthen the design, &lt;f0&gt;but in others they can work against each other&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T033311Z" creationid="Jeff Huang" creationdate="20180116T033311Z">
@@ -9850,6 +9898,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132819Z" creationid="Franklin Weng" creationdate="20171223T123906Z">
         <seg>通常前幾次你在使用範本時，可能會發現不少需要改進的地方，持續修正才不必往後每次都要手動再調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, the footer area often holds a company logo and ignores the frame altogether.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092336Z" creationid="Franklin Weng" creationdate="20180116T092336Z">
+        <seg>而在頁尾處則改放公司的標誌之類的，不管原先所定義的框的用處。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12453,6 +12509,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting Presentation &lt;f0&gt;s&lt;/f0&gt;tyles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092454Z" creationid="Franklin Weng" creationdate="20180116T092408Z">
+        <seg>設定簡報樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting a new default</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033138Z" creationid="Franklin Weng" creationdate="20171223T033138Z">
@@ -13899,6 +13963,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041453Z" creationid="Franklin Weng" creationdate="20180106T041453Z">
         <seg>字型大小可以增加，但整個 Josefin Slab 的預設色彩是可以接受的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The footer section of Impress’ &lt;f0&gt;Master View&lt;/f0&gt; &lt;f1&gt;provides a simple arrangement for basic information.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092448Z" creationid="Franklin Weng" creationdate="20180116T092404Z">
+        <seg>頁尾的部份可以在 Impress 的「&lt;f0&gt;母片檢視&lt;/f0&gt;」中製作，預設提供了排放基本資訊的三個框。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15851,6 +15923,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113745Z" creationid="zerng07" creationdate="20171219T113745Z">
         <seg>當你修改一個&lt;f0&gt;段落樣式時，&lt;/f0&gt;你也同時修改同一份文件中&lt;f1&gt;所有使用相同樣式&lt;/f1&gt;的其他地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀改寫</note>
+      <tuv lang="EN">
+        <seg>When you are finished designing, save the result by selecting &lt;f0&gt;File &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; Save As Template &gt; Presentation Background&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092020Z" creationid="Franklin Weng" creationdate="20180116T092020Z">
+        <seg>當你設計完成後，用「&lt;f0&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f0&gt;」儲存起來。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
