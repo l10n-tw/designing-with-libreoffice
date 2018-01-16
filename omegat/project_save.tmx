@@ -2601,6 +2601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;These tools are partly reproduced in the Drawing tool bar of other applications.&lt;/f0&gt; &lt;f1&gt;Like stand-alone graphic editors as Inkscape, these tools work with vector graphics, which are formats stored mathematically and which therefore can be expanded to any size.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T030526Z" creationid="Jeff Huang" creationdate="20180116T030526Z">
+        <seg>&lt;f0&gt;其他應用程式的繪圖工具列也包含了部份功能。&lt;/f0&gt;&lt;f1&gt;如同 Inkscape 這般獨立的圖形編輯器，這些工具可以處理向量圖，向量圖是以數學方式儲存的格式，其可以被縮放為任意大小。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;They also hold&lt;/f0&gt; true for any Open Document Format file, including those created in Apache OpenOffice or Calligra Suite, the free office program designed for the &lt;f1&gt;KDE&lt;/f1&gt; desktop.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135047Z" creationid="zerng07" creationdate="20171226T122658Z">
@@ -6163,6 +6171,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;drawing content&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T025917Z" creationid="Jeff Huang" creationdate="20180116T025917Z">
+        <seg>設計&lt;f0&gt;繪圖內容&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Designing a presentation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T122215Z" creationid="Franklin Weng" creationdate="20180107T064343Z">
@@ -6400,6 +6416,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101516Z" creationid="zerng07" creationdate="20171224T082123Z">
         <seg>Draw和Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw and Impress share a set of graphic editing tools.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T030041Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
+        <seg>Draw 與 Impress 共享了一組圖片編輯工具。</seg>
       </tuv>
     </tu>
     <tu>
