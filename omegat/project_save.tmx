@@ -979,8 +979,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;urrently, &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice does not support embedding fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125610Z" creationid="Franklin Weng" creationdate="20180103T125610Z">
-        <seg>目前的 &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice 尚不支援嵌入字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T124019Z" creationid="Franklin Weng" creationdate="20180103T125610Z">
+        <seg>目前的&lt;f1&gt;Apache &lt;/f1&gt;OpenOffice還不支援嵌入字型？？？？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4347,8 +4347,8 @@
       <tuv lang="EN">
         <seg>Add more, and a file with embedded fonts may become too large to send as an attachment, especially to an account that can only receive attachments of a certain size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125539Z" creationid="Franklin Weng" creationdate="20180103T125539Z">
-        <seg>這樣一來，文件可能過大而無法當成郵件附加檔傳送給收件者。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123955Z" creationid="Franklin Weng" creationdate="20180103T125539Z">
+        <seg>這樣一來，文件可能過大而無法當成郵件的附件傳送給收件者，尤其是電子信箱供應商有限制附件大小時就會變得很麻煩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6607,8 +6607,8 @@
       <tuv lang="EN">
         <seg>Do you prefer to use only free-licensed fonts?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125626Z" creationid="Franklin Weng" creationdate="20180103T125626Z">
-        <seg>你是否只用自由授權的字型？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T124041Z" creationid="Franklin Weng" creationdate="20180103T125626Z">
+        <seg>你是否偏好只用自由授權的字型？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8851,8 +8851,8 @@
       <tuv lang="EN">
         <seg>If so, you will be unable to use some of the best-known fonts, although you can sometimes find substitutes for them &lt;f0&gt;(see Appendix D, “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180103T125808Z" creationid="Franklin Weng" creationdate="20180103T125808Z">
-        <seg>如果這樣的話，有些最知名常見的字型就不能用了，雖然有些字型可以找到替代方案。&lt;f0&gt;（請參考附錄 D“&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,”第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁&lt;/f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T124223Z" creationid="Franklin Weng" creationdate="20180103T125808Z">
+        <seg>如果是這樣的話，有些大家熟知的字型就不能用了，雖然有些你可以找到同等替代字型。&lt;f0&gt;（請參考〈附錄 D〉，「&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;」，第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁&lt;/f6&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
