@@ -3609,8 +3609,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;It may also&lt;/f2&gt; called Regular, Book, or Medium, &lt;f3&gt;although these are not always exact synonyms in individual font families.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132137Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
-        <seg>&lt;f3&gt;雖然以下幾個詞語在不同字族中的實際意義不盡相同&lt;/f3&gt;，&lt;f2&gt;但羅馬體的Roman一詞有時也會被對應成&lt;/f2&gt;標準 (Regualr)、書本體 (Book)，或是中等體 (Medium) 。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132244Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
+        <seg>&lt;f3&gt;雖然以下幾個詞語在不同字族中的實際意義不盡相同&lt;/f3&gt;，&lt;f2&gt;但羅馬體一詞有時也會被對應成&lt;/f2&gt;標準 (Regualr)、書本體 (Book)，或是中等體 (Medium) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9695,8 +9695,8 @@
       <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T131604Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
-        <seg>在現代字型家族中，Italic有時會以另一種「Oblique」（斜體） 取代，然而這種「斜體」其實只是將羅馬體向右傾斜而已，並不像義大利體一樣是手寫體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132411Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
+        <seg>在現代字型家族中，義大利體有時會以另一種「斜體」(Oblique) 取代，然而這種「斜體」其實只是將羅馬體向右傾斜而已，不像義大利體是手寫體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12959,8 +12959,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes a Narrow or Condensed version is available, in which the characters take up less &lt;f0&gt;width&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T131329Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
-        <seg>此外，還有些字族還會提供窄體 (Narrow) 或壓縮體 (Condensed) 的字型樣式，這代表每個字符的&lt;f0&gt;寬度&lt;/f0&gt;比一般要窄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132216Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
+        <seg>此外，還有些字族還會提供窄體 (Narrow) 或壓縮體 (Condensed) 的字型樣式，代表每個字符的&lt;f0&gt;寬度&lt;/f0&gt;比一般還要窄。</seg>
       </tuv>
     </tu>
     <tu>
