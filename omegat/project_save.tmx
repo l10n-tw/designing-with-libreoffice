@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;The design &lt;f1&gt;is simpler – and therefore stronger – with all contact information in a single column, and the name and company are still prominent because they are at the top of the column.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T070832Z" creationid="Jeff Huang" creationdate="20180116T070832Z">
+        <seg>&lt;/f0&gt;設計&lt;f1&gt;較簡潔有力，所有的資訊的放在單獨一欄裡，因為名字與公司放在欄位頂端，所以仍然很明顯。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;When you move an object that has connectors, the connectors are modified to keep them attached to the objects at the other end.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014117Z" creationid="Jeff Huang" creationdate="20171229T014117Z">
