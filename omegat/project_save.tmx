@@ -4988,8 +4988,8 @@
       <tuv lang="EN">
         <seg>Ascenders and descenders: respectively, vertical strokes that rise above the baseline and &lt;f0&gt;descend &lt;/f0&gt;below it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T131214Z" creationid="Franklin Weng" creationdate="20180101T130946Z">
-        <seg>升部（Ascenders）與降部（Descenders）：在字母的筆畫中，超過基線（跟 x 上下等高的線）上方（升部）與下方（降部）的部位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T112552Z" creationid="Franklin Weng" creationdate="20180101T130946Z">
+        <seg>上伸部 (Ascender) 與下伸部 (Descender)：分別代表小寫字母筆畫中，伸出x字高上方的部位（上伸部），以及低於基線下方的部位（下伸部）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16316,8 +16316,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>X-height: the height of a letter “x” a&lt;f0&gt;nd&lt;/f0&gt; sixteen &lt;f1&gt;other&lt;/f1&gt; letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T124507Z" creationid="Franklin Weng" creationdate="20180101T130433Z">
-        <seg>x高 (x-height)：字母「x」與16個&lt;f1&gt;其他&lt;/f1&gt;字母的高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T111815Z" creationid="Franklin Weng" creationdate="20180101T130433Z">
+        <seg>x字高 (x-height)：小寫字母「x」與16個&lt;f1&gt;其他&lt;/f1&gt;小寫字母的高度。</seg>
       </tuv>
     </tu>
     <tu>
