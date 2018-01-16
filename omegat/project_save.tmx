@@ -1485,6 +1485,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, you can also import bitmap formats such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.jpeg&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.png, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;which store information as pixels, from editors like &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;GIMP&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T030740Z" creationid="Jeff Huang" creationdate="20180116T030740Z">
+        <seg>&lt;f0&gt;不過，你也可以匯入點陣圖，如 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.jpeg&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;與 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.png，&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;其以像素的方式儲存資訊，此時其行為就會像是&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;GIMP&lt;/f8&gt;&lt;/f7&gt;這樣的編輯器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, you can also u&lt;/f0&gt;se placeholders for &lt;f1&gt;text and objects in Writer &lt;/f1&gt;from&lt;f2&gt; Insert &gt; Fields &gt; Other &gt; Functions&lt;/f2&gt;.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Select &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Format,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; then give the placeholder a name in the &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Placeholder&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; field.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121120Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
@@ -6215,6 +6223,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133331Z" creationid="Franklin Weng" creationdate="20171213T133331Z">
         <seg>從頭設計你自己的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Despite the&lt;f0&gt;ir&lt;/f0&gt; names, &lt;f1&gt;Draw and Impress&lt;/f1&gt; are not meant to be a complete set of tools for editing graphics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031221Z" creationid="Jeff Huang" creationdate="20180116T031221Z">
+        <seg>即便名字看起來很像，但&lt;f1&gt;Draw and Impress&lt;/f1&gt;並不是完整的圖形編輯工具。</seg>
       </tuv>
     </tu>
     <tu>
