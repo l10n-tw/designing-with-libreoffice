@@ -10674,6 +10674,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>又有參照錯誤......</note>
+      <tuv lang="EN">
+        <seg>LibreOffice and Apache OpenOffice extensions &lt;f0&gt;(see Appendix A, “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T092912Z" creationid="Jeff Huang" creationdate="20180118T092912Z">
+        <seg>LibreOffice 與 Apache OpenOffice 擴充套件&lt;f0&gt;（請見附錄A，“&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;”，第&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;頁&lt;f6&gt;）。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現狀改寫</note>
       <tuv lang="EN">
         <seg>LibreOffice comes with a selection of backgrounds, &lt;f0&gt;in the Presentation Backgrounds folder of the Template Manager.&lt;/f0&gt; &lt;f1&gt;Y&lt;/f1&gt;ou can &lt;f2&gt;also &lt;/f2&gt;find &lt;f3&gt;many more&lt;/f3&gt; choices with a quick web search&lt;f4&gt;, although the quality of the selections varies.</seg>
@@ -15745,6 +15754,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090535Z" creationid="Jeff Huang" creationdate="20171212T035319Z">
         <seg>盡可能別被&lt;f0&gt;頁面預覽無法準確顯示兩頁檢視&lt;/f0&gt;的實際狀況打亂你的看法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try:&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T092729Z" creationid="Jeff Huang" creationdate="20180118T092729Z">
+        <seg>試試看：&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
