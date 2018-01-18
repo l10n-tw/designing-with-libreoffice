@@ -1081,6 +1081,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click any other part of the object than the handles, &lt;/f0&gt;and &lt;f1&gt;you can move an object without changing its size and proportions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122313Z" creationid="Jeff Huang" creationdate="20180118T122313Z">
+        <seg>&lt;f0&gt;點按物件上除了把手以外的地方，&lt;/f0&gt;然後&lt;f1&gt;你就可以移動物件而不會改變其大小與比例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;OK&lt;/f1&gt; button on the top right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142157Z" creationid="Franklin Weng" creationdate="20171223T133033Z">
@@ -4545,6 +4553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you insert an object, you can move and resize it by clicking &lt;f0&gt;then dragging it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T121606Z" creationid="Jeff Huang" creationdate="20180118T121606Z">
+        <seg>在你插入物件後，你可以透過點按並拖曳它來移動與調整大小。&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Al&lt;f0&gt;w&lt;/f0&gt;ays keep documents connected to their templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150727Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
@@ -5062,6 +5078,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T115149Z" creationid="Franklin Weng" creationdate="20180105T132333Z">
         <seg>當你打開一本專業的出版書時，&lt;f0&gt;通常&lt;/f0&gt;會期待內文字不要黑成一陀，也不會像水洗過一樣落彩。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122112Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
+        <seg>當你拖曳一個物件時，它會出現在對齊線上，這樣你就可以更精確的地定位其與其他物件之間的關係。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9591,6 +9615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142032Z" creationid="Franklin Weng" creationdate="20171223T132816Z">
         <seg>如果你要把目前文件中的樣式用範本裡相同名稱的樣式取代，就把「&lt;f2&gt;覆蓋&lt;/f2&gt;」選項&lt;f1&gt;勾&lt;/f1&gt;起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to resize the object or change its shape, drag it by the handles that appear when you click it.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122725Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
+        <seg>如果你想要調整物件大小或是改變它的形狀，請拖曳在你點按它時所顯示的把手。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16542,6 +16574,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081612Z" creationid="Franklin Weng" creationdate="20171231T133110Z">
         <seg>當你在設定段落樣式和字元樣式時，前往「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定&lt;/f0&gt;」中，把「&lt;f1&gt;定量單位&lt;/f1&gt;」改成「點」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you do, a frame with eight handles appears around the object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T121738Z" creationid="Jeff Huang" creationdate="20180118T121738Z">
+        <seg>當你這樣做的時候，物件旁就會出現有八個把手的框架。</seg>
       </tuv>
     </tu>
     <tu>
