@@ -4569,6 +4569,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you add a primitive, you may need to &lt;f0&gt;click&lt;/f0&gt; the &lt;f1&gt;Select&lt;/f1&gt; button, the first on the left of the tool bar, to restore the drawing tools to their default state.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T125116Z" creationid="Jeff Huang" creationdate="20180118T125116Z">
+        <seg>在你新增基本圖形元素後，可能需要&lt;f0&gt;按一下&lt;/f0&gt;工具列左側的&lt;f1&gt;選取&lt;/f1&gt;按鈕，來將繪圖工具復原至其原始狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you insert an object, you can move and resize it by clicking &lt;f0&gt;then dragging it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T121606Z" creationid="Jeff Huang" creationdate="20180118T121606Z">
@@ -12060,6 +12068,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
         <seg>否則，結果&lt;f4&gt;可能&lt;/f4&gt;導致樣式陷入一片混亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, you &lt;f2&gt;might not be able to add&lt;/f2&gt; another shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T125313Z" creationid="Jeff Huang" creationdate="20180118T125313Z">
+        <seg>否則，你&lt;f2&gt;可能無法再新增&lt;/f2&gt;其他形狀。</seg>
       </tuv>
     </tu>
     <tu>
