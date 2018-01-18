@@ -9050,8 +9050,8 @@
       <tuv lang="EN">
         <seg>However, starting with the 4.2 release, you can only set line spacing to the nearest point.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T133526Z" creationid="Franklin Weng" creationdate="20180105T135939Z">
-        <seg>不過從4.2版起，你只能將行距設為最接近的整數點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T173147Z" creationid="Franklin Weng" creationdate="20180105T135939Z">
+        <seg>不過從4.2版起，你只能將行距設為最接近的整數點？？？？可是測試 5.4 可以手動設定「固定」行距為「14.2」之類的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11135,8 +11135,8 @@
       <tuv lang="EN">
         <seg>LibreOffice used to allow you to set line spacing to one-tenth of a point (1/720th of an inch).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T133505Z" creationid="Franklin Weng" creationdate="20180105T135918Z">
-        <seg>LibreOffice以前允許將行距設為1/10點（即1/720 英吋）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T173051Z" creationid="Franklin Weng" creationdate="20180105T135918Z">
+        <seg>LibreOffice以前允許將行距設到0.1點（即1/720 英吋）。</seg>
       </tuv>
     </tu>
     <tu>
