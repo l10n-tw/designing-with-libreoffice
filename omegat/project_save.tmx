@@ -2916,8 +2916,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding &lt;/f0&gt;freeform line&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132552Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;任意曲線</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132708Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;自由形線條</seg>
       </tuv>
     </tu>
     <tu>
@@ -4285,6 +4285,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T132807Z" creationid="Franklin Weng" creationdate="20180105T135449Z">
         <seg>設定緊實的段落（這個例子是12/12）。&lt;f2&gt;行距這麼小，文字看起來很窄，難以閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A freeform line is one that follows the direction of the &lt;f0&gt;cursor&lt;/f0&gt; as you move it in the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132859Z" creationid="Jeff Huang" creationdate="20180118T132859Z">
+        <seg>自由形線條是一種在編輯視窗中會跟隨你的&lt;f0&gt;游標&lt;/f0&gt;方向的曲線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14357,6 +14365,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152852Z" creationid="Franklin Weng" creationdate="20171212T130015Z">
         <seg>範本管理員會顯示不同類別的子資料夾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Writer and Calc &lt;f1&gt;D&lt;/f1&gt;rawing tool bars have a separate button for freeform lines, but in Draw and Impress, they are the last option when you select the &lt;f2&gt;Curves&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T133134Z" creationid="Jeff Huang" creationdate="20180118T133134Z">
+        <seg>Writer與Calc的繪圖工具列有自由形曲線的單獨按鈕，但是在Draw與Impress中，它們是&lt;f2&gt;曲線&lt;/f2&gt;按鈕中的一個選項。</seg>
       </tuv>
     </tu>
     <tu>
