@@ -2914,6 +2914,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Understanding &lt;/f0&gt;freeform line&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132552Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;任意曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; connectors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130903Z" creationid="Jeff Huang" creationdate="20180118T130903Z">
@@ -2991,6 +2999,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080552Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
         <seg>&lt;f0&gt;拼寫檢查工具可以減少找出拼寫錯誤與常見錯誤的工作量&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When you are done, selecting the curve reveals the points that you can drag on to adjust the shape.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132500Z" creationid="Jeff Huang" creationdate="20180118T132500Z">
+        <seg>&lt;f0&gt;當你完成時，選取曲線將會顯示可以拖動的點，這些點可以用來調整形狀。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
