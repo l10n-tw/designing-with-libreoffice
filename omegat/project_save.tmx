@@ -6060,6 +6060,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Callouts are used to indicate and explain parts of a diagram.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134140Z" creationid="Jeff Huang" creationdate="20180118T134140Z">
+        <seg>標註用於圖表中的指示與解釋部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Callouts describing some of the basic shapes in Northwest Coast &lt;f0&gt;formline design.&lt;/f0&gt; &lt;f1&gt;In this example, the text blocks have been made borderless.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134011Z" creationid="Jeff Huang" creationdate="20180118T134011Z">
@@ -14827,6 +14835,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The lines act like connectors, changing shape if you drag the text box around.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134439Z" creationid="Jeff Huang" creationdate="20180118T134439Z">
+        <seg>這些線條就是像是連接符一樣，如果你拖曳文字方塊就會變更形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list has the advantage of offering a preview of each paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110208Z" creationid="zerng07" creationdate="20171226T110208Z">
@@ -15481,6 +15497,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T152019Z" creationid="Franklin Weng" creationdate="20180103T135447Z">
         <seg>它有時也被稱為埃及體 (Egyptian)，因為這種字型在拿破崙侵略埃及時期，由埃及的&lt;f2&gt;研究&lt;/f2&gt;&lt;f1&gt;出版物&lt;/f1&gt;使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They consist of a line pointing to part of the diagram and a text box, both of which are edited together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134311Z" creationid="Jeff Huang" creationdate="20180118T134311Z">
+        <seg>它們包含了一條指向圖表的線條與一個文字方塊，兩個會一起被編輯。</seg>
       </tuv>
     </tu>
     <tu>
