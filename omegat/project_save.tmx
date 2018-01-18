@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>(Adjusting &lt;f0&gt;Scale width&lt;/f0&gt; and &lt;f1&gt;Spacing&lt;/f1&gt; on the &lt;f2&gt;Position&lt;/f2&gt; &lt;f3&gt;t&lt;/f3&gt;ab may help as well.&lt;f4&gt;)&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144612Z" creationid="Franklin Weng" creationdate="20180105T144612Z">
-        <seg>（在「&lt;f2&gt;位置&lt;/f2&gt;」分頁中調整「&lt;f0&gt;縮排寬度&lt;/f0&gt;」與「&lt;f1&gt;間距&lt;/f1&gt;」可能也會有些幫助。）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140419Z" creationid="Franklin Weng" creationdate="20180105T144612Z">
+        <seg>（在「&lt;f2&gt;位置&lt;/f2&gt;」標籤頁中調整「&lt;f0&gt;縮放寬度&lt;/f0&gt;」和「&lt;f1&gt;間距&lt;/f1&gt;」可能也會有幫助。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1180,8 +1180,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Decrease&lt;/f0&gt; spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144456Z" creationid="Franklin Weng" creationdate="20180105T144456Z">
-        <seg>&lt;f0&gt;要減少&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140236Z" creationid="Franklin Weng" creationdate="20180105T144456Z">
+        <seg>&lt;f0&gt;得減少&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,8 +1856,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Increase &lt;/f0&gt;spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144442Z" creationid="Franklin Weng" creationdate="20180105T144442Z">
-        <seg>&lt;f0&gt;要增加&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140233Z" creationid="Franklin Weng" creationdate="20180105T144442Z">
+        <seg>&lt;f0&gt;得增加&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7433,8 +7433,8 @@
       <tuv lang="EN">
         <seg>Experiment until you get acceptable results.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144424Z" creationid="Franklin Weng" creationdate="20180105T144424Z">
-        <seg>不斷地實驗，直到你覺得可以接受為止。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140224Z" creationid="Franklin Weng" creationdate="20180105T144424Z">
+        <seg>不斷實驗，直到你覺得可以接受為止。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7857,16 +7857,16 @@
       <tuv lang="EN">
         <seg>Fonts whose characters are broad and have relatively large spaces between them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144638Z" creationid="Franklin Weng" creationdate="20180105T144638Z">
-        <seg>字型中的字元較寬，相對間的間距較大時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140502Z" creationid="Franklin Weng" creationdate="20180105T144638Z">
+        <seg>字型的字符較扁胖，或行與行的間距較大時。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Fonts whose characters are narrow or have smaller spaces between them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144515Z" creationid="Franklin Weng" creationdate="20180105T144515Z">
-        <seg>字型中的字元較窄，字元間的間距較小時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140347Z" creationid="Franklin Weng" creationdate="20180105T144515Z">
+        <seg>字型的字符較瘦長，或行與行的間距較小時。</seg>
       </tuv>
     </tu>
     <tu>
