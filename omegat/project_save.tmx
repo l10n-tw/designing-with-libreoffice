@@ -2906,6 +2906,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Understanding&lt;/f0&gt; connectors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130903Z" creationid="Jeff Huang" creationdate="20180118T130903Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;連接符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Unlike styles in Writer, graphic styles can only be applied after a shape is added to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
@@ -6385,6 +6393,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014705Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
         <seg>連接符是將&lt;f0&gt;兩個&lt;/f0&gt;物件透過連接點連線起來的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connectors are lines attached to two objects by means of glue points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131042Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
+        <seg>連接符是透過膠合點來連接兩個物件的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13804,6 +13820,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120022Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
         <seg>圖說、圖表標示與備註的文字通常小到8點，而標題與題名等則很少大於28點。至於現代中文書籍內文字大小通常是9-12點，而圖說等小字常見為6-8點，至於標題與題名則常見14-36點之間，但都沒有固定做法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text outside a shape is still added by creating a text box first.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130804Z" creationid="Jeff Huang" creationdate="20180118T130804Z">
+        <seg>在圖形外的文字仍舊是以建立文字方塊的方式新增。</seg>
       </tuv>
     </tu>
     <tu>
