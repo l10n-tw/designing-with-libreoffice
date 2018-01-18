@@ -1486,8 +1486,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;eader/footer height.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150747Z" creationid="Franklin Weng" creationdate="20180105T150747Z">
-        <seg>標頭/註腳的高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145121Z" creationid="Franklin Weng" creationdate="20180105T150747Z">
+        <seg>頁首或頁尾的高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;age margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150715Z" creationid="Franklin Weng" creationdate="20180105T150715Z">
-        <seg>頁面間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145059Z" creationid="Franklin Weng" creationdate="20180105T150715Z">
+        <seg>頁面邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,16 +2320,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;pace between a header and footer and main text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150809Z" creationid="Franklin Weng" creationdate="20180105T150809Z">
-        <seg>標頭、註腳與本文的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145140Z" creationid="Franklin Weng" creationdate="20180105T150809Z">
+        <seg>頁首、頁尾與正文之間的間距。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;pace between numbers/bullet and list items.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150907Z" creationid="Franklin Weng" creationdate="20180105T150907Z">
-        <seg>編號與項目清單中，各項目間的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145302Z" creationid="Franklin Weng" creationdate="20180105T150907Z">
+        <seg>編號與項目符號清單中各條文之間的間距。</seg>
       </tuv>
     </tu>
     <tu>
