@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;All measurements are in points&lt;f2&gt; and can be used for setting other sizes and spacing&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T023349Z" creationid="Franklin Weng" creationdate="20180106T023349Z">
-        <seg>所有的紀錄都以點為單位，&lt;f2&gt;可以用來紀錄其他大小與間距的設定。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150626Z" creationid="Franklin Weng" creationdate="20180106T023349Z">
+        <seg>所有的紀錄數據都以點為單位，&lt;f2&gt;可以用來設定其他大小與間距。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,8 +850,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;As you design, you may want to keep a calculator handy, or else jot down a palette – a list of the multiples or half-multiples that you will be using.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150334Z" creationid="Franklin Weng" creationdate="20180106T023230Z">
-        <seg>&lt;f0&gt;所以當你在規劃設計時，可能要在手邊放個計算機和記事本，列出你會使用到的倍數或要有幾個半行行距。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150751Z" creationid="Franklin Weng" creationdate="20180106T023230Z">
+        <seg>&lt;f0&gt;所以當你在規劃設計時，可能要在手邊放個計算機和記事本，列出你會使用到的整數倍數或是半數的倍數。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5292,8 +5292,8 @@
       <tuv lang="EN">
         <seg>At &lt;f0&gt;times, you might use half the line spacing instead of a whole multiple.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150153Z" creationid="Franklin Weng" creationdate="20180105T151059Z">
-        <seg>&lt;f0&gt;有時候，你可能會想用半個行距，而不是魔術數字的倍數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150701Z" creationid="Franklin Weng" creationdate="20180105T151059Z">
+        <seg>&lt;f0&gt;有時候，你可能會想用魔術數字的一半，而不是整數倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10376,8 +10376,8 @@
       <tuv lang="EN">
         <seg>In theory, you could use quarter-line spacing, or an even smaller fraction, but that is harder to track.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145539Z" creationid="Franklin Weng" creationdate="20180105T151129Z">
-        <seg>理論上，你可以用到四分之一行距，或是更小，但這樣比例關係會變得很難追蹤。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150711Z" creationid="Franklin Weng" creationdate="20180105T151129Z">
+        <seg>理論上，你可以用到四分之一倍，或是更小，但這樣比例關係會變得很難追蹤。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,8 +10780,8 @@
       <tuv lang="EN">
         <seg>Just as importantly, half line-spacing quickly puts spacing back to the magic number itself.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150228Z" creationid="Franklin Weng" creationdate="20180105T151152Z">
-        <seg>比較重要的是，採用半個行距的話，比例關係通常很快就會回到魔術數字本身。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150716Z" creationid="Franklin Weng" creationdate="20180105T151152Z">
+        <seg>比較重要的是，採用半個倍數的話，比例關係通常很快就會回到魔術數字本身。</seg>
       </tuv>
     </tu>
     <tu>
