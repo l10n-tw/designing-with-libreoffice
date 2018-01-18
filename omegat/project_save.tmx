@@ -8585,8 +8585,8 @@
       <tuv lang="EN">
         <seg>However, LibreOffice uses “fixed” to refer to leading, and “leading” to refer to space &lt;f0&gt;in addition to&lt;/f0&gt; the font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140701Z" creationid="Franklin Weng" creationdate="20180105T140319Z">
-        <seg>不過，LibreOffice 用「固定」來處理行距，而“leading”則是指字型大小之外&lt;f0&gt;再加上去&lt;/f0&gt;的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134300Z" creationid="Franklin Weng" creationdate="20180105T140319Z">
+        <seg>不過，LibreOffice中用「固定」(Fixed) 來指稱文字排印學上的「行距」(Line spacing)，而「鉛插」(Leading) 則是指字型大小之外&lt;f0&gt;再額外插入&lt;/f0&gt;的空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16160,8 +16160,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Typography calls line-spacing “leading,” because of the pieces of metal that were once inserted between lines of text &lt;f0&gt;on a printing press.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140539Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
-        <seg>文字排印學中行距的英文是“leading”，源自於排版印刷時放在印刷機裡，行跟行中間的金屬塊（鉛塊，lead 也有「鉛」的意思）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134315Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
+        <seg>實際在文字排印學中，行距的英文是「Leading」，源自於過去活字排版印刷時，將金屬片（鉛片，Lead 也有「鉛」的意思）插入文字行與行之間的動作。</seg>
       </tuv>
     </tu>
     <tu>
