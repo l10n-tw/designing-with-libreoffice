@@ -2922,6 +2922,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Understanding&lt;/f0&gt; curves</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131943Z" creationid="Jeff Huang" creationdate="20180118T131943Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Unlike styles in Writer, graphic styles can only be applied after a shape is added to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
@@ -6681,6 +6689,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124117Z" creationid="Franklin Weng" creationdate="20171223T124117Z">
         <seg>刪除範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on your selection, a curve can b&lt;f1&gt;e&lt;/f1&gt; open, or filled with a color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132153Z" creationid="Jeff Huang" creationdate="20180118T132153Z">
+        <seg>取決於你的選擇，曲線可以是開放的，也可以是有填充色彩的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14009,6 +14025,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Curves&lt;/f0&gt; button is for drawing freeform shapes, usually (but not always) with curved sides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132103Z" creationid="Jeff Huang" creationdate="20180118T132103Z">
+        <seg>&lt;f0&gt;曲線&lt;/f0&gt;按鈕可被用於繪製任意形狀，通常（但並不總是）會有曲線的邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;D&lt;/f0&gt;rawing tool bar also has block arrows that you can group with a line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071811Z" creationid="Jeff Huang" creationdate="20171228T071811Z">
@@ -16750,6 +16774,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T121738Z" creationid="Jeff Huang" creationdate="20180118T121738Z">
         <seg>當你這樣做的時候，物件旁就會出現有八個把手的框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you draw a curve, click once to change directions, and twice to stop drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132308Z" creationid="Jeff Huang" creationdate="20180118T132308Z">
+        <seg>當你繪製一條曲線時，點按一下以變更方向，兩下以停止繪製。</seg>
       </tuv>
     </tu>
     <tu>
