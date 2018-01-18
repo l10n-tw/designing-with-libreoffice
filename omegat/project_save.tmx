@@ -729,8 +729,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Acceptable color may also depend to a degree on culture, era, and the principles of different design schools.&lt;/f0&gt; &lt;f1&gt;However, certain contexts are more likely to need adjustments in line spacing than others.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144405Z" creationid="Franklin Weng" creationdate="20180105T144405Z">
-        <seg>&lt;f0&gt;可接受的色彩某種程度上會受到文化、時代，還有不同設計學校的原則等等影響。&lt;/f0&gt; &lt;f1&gt;不過，在某些條件下還是需要對行間距做調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140206Z" creationid="Franklin Weng" creationdate="20180105T144405Z">
+        <seg>&lt;f0&gt;可接受的色彩灰度某種程度上受到社會文化、時代，還有不同設計學校的原則……等影響。&lt;/f0&gt;&lt;f1&gt;不過，在某些情境下還是得對行距做些調整才行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,8 +994,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ontexts for changing color</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144020Z" creationid="Franklin Weng" creationdate="20180105T140723Z">
-        <seg>何時要改變色彩</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134838Z" creationid="Franklin Weng" creationdate="20180105T140723Z">
+        <seg>得修改色彩的情境</seg>
       </tuv>
     </tu>
     <tu>
@@ -6879,8 +6879,8 @@
       <tuv lang="EN">
         <seg>Developing an eye for line spacing takes practice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144140Z" creationid="Franklin Weng" creationdate="20180105T143617Z">
-        <seg>要發展對行間距的敏銳感覺需要不斷實作練習。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140027Z" creationid="Franklin Weng" creationdate="20180105T143617Z">
+        <seg>要有雙對行距很敏銳的眼睛得不斷地練習。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8617,8 +8617,8 @@
       <tuv lang="EN">
         <seg>However, LibreOffice uses “fixed” to refer to leading, and “leading” to refer to space &lt;f0&gt;in addition to&lt;/f0&gt; the font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134623Z" creationid="Franklin Weng" creationdate="20180105T140319Z">
-        <seg>不過，在LibreOffice中是用「固定」(Fixed) 來指稱文字排印學上的「行距」，而將「鉛插」(Leading) 指為字型大小之外&lt;f0&gt;再額外插入&lt;/f0&gt;的空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134754Z" creationid="Franklin Weng" creationdate="20180105T140319Z">
+        <seg>不過，在LibreOffice中是用「固定」(Fixed) 來指稱文字排印學上的「行距」，而將「鉛插」(Leading) 作為字型大小之外&lt;f0&gt;再額外插入&lt;/f0&gt;的空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16240,8 +16240,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Typography calls line-spacing “leading,” because of the pieces of metal that were once inserted between lines of text &lt;f0&gt;on a printing press.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134315Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
-        <seg>實際在文字排印學中，行距的英文是「Leading」，源自於過去活字排版印刷時，將金屬片（鉛片，Lead 也有「鉛」的意思）插入文字行與行之間的動作。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T134724Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
+        <seg>實際在文字排印學中，行距的英文是「Leading」，源自於過去活字排版印刷時代，師傅將金屬片（一般是鉛片，Lead 也有「鉛」的意思）插入文字行與行之間的動作。</seg>
       </tuv>
     </tu>
     <tu>
