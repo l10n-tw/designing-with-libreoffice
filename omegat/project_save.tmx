@@ -4209,6 +4209,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dimension line for a three-dimensional shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130259Z" creationid="Jeff Huang" creationdate="20180118T130259Z">
+        <seg>尺寸線用於三維圖形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few fonts even come in pairs of a serif and a sans serif, &lt;f0&gt;and even a monospaced variation&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T124606Z" creationid="Franklin Weng" creationdate="20180101T130018Z">
@@ -5398,6 +5406,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165421Z" creationid="zerng07" creationdate="20170822T160832Z">
         <seg>&lt;f0&gt;做記者之前&lt;/f0&gt;，我是技術文章創作者也是平面設計師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before release 4.4, to add text inside a shape required that you draw the shape and the graphic text separately, then position and group them so that the text was overlaying the shape (see below).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130633Z" creationid="Jeff Huang" creationdate="20180118T130633Z">
+        <seg>在4.4版前，要在圖形中新增文字，你需要分開繪製圖形與圖形化文字，然後將它們定位好並做成群組，讓文字覆蓋在形狀上（見下方）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16010,6 +16026,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T125734Z" creationid="Jeff Huang" creationdate="20180118T125734Z">
         <seg>熟悉尺寸線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Understanding text inside a shape</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130344Z" creationid="Jeff Huang" creationdate="20180118T130344Z">
+        <seg>熟悉圖形中的文字</seg>
       </tuv>
     </tu>
     <tu>
