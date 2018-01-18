@@ -2555,8 +2555,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he combination of heading font size, the space above/&lt;f1&gt;below.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150926Z" creationid="Franklin Weng" creationdate="20180105T150926Z">
-        <seg>標題字型大小、上下方間距的組合。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145413Z" creationid="Franklin Weng" creationdate="20180105T150926Z">
+        <seg>標題字型大小，再加標題之上之下的總間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5292,8 +5292,8 @@
       <tuv lang="EN">
         <seg>At &lt;f0&gt;times, you might use half the line spacing instead of a whole multiple.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151059Z" creationid="Franklin Weng" creationdate="20180105T151059Z">
-        <seg>&lt;f0&gt;有時候，你可能會想用行距的一半，而不是整個行距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145450Z" creationid="Franklin Weng" creationdate="20180105T151059Z">
+        <seg>&lt;f0&gt;有時候，你可能會想用行距的一半，而不是行距的整數倍數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10368,8 +10368,8 @@
       <tuv lang="EN">
         <seg>In theory, you could use quarter-line spacing, or an even smaller fraction, but that is harder to track.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151129Z" creationid="Franklin Weng" creationdate="20180105T151129Z">
-        <seg>理論上，你可以用到四分之一的行距，或更小，但這樣很難追蹤。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145539Z" creationid="Franklin Weng" creationdate="20180105T151129Z">
+        <seg>理論上，你可以用到四分之一行距，或是更小，但這樣比例關係會變得很難追蹤。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13569,8 +13569,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some design elements to be adjusted using multiples of the magic number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T151023Z" creationid="Franklin Weng" creationdate="20180105T151023Z">
-        <seg>一些可以用魔術數字的倍數來調整的設計元素。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145421Z" creationid="Franklin Weng" creationdate="20180105T151023Z">
+        <seg>一些可以用魔術數字倍數來調整的設計元素。</seg>
       </tuv>
     </tu>
     <tu>
