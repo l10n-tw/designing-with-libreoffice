@@ -4401,6 +4401,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjusting &lt;f0&gt;l&lt;/f0&gt;ists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T121247Z" creationid="Franklin Weng" creationdate="20180117T121247Z">
+        <seg>調整清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjusting hyphenation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073559Z" creationid="Jeff Huang" creationdate="20171213T024348Z">
@@ -5186,6 +5194,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because backgrounds vary more in slide shows than in text documents, experiment with the colors on the &lt;f0&gt;Font Effects&lt;/f0&gt; tab to get the one that stands out most from the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120842Z" creationid="Franklin Weng" creationdate="20180117T120842Z">
+        <seg>簡報的背景會比文字文件更多變化，所以要用「&lt;f0&gt;字型效果&lt;/f0&gt;」頁籤中的色彩去實驗，看看哪一種色彩跟簡報的背景的對比夠強，易於閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because of these problems, some critics discard the idea of presentations altogether.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T031310Z" creationid="Franklin Weng" creationdate="20180107T031310Z">
@@ -5679,6 +5695,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T060641Z" creationid="Jeff Huang" creationdate="20180115T060641Z">
         <seg>相較之下，從樣式開始可以協助你分離兩種思考&lt;f0&gt;方式&lt;/f0&gt;，而且對於同一件事來說可能更有效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, the temptation to make a font &lt;f0&gt;size&lt;/f0&gt; smaller than the defaults is a &lt;f1&gt;sure&lt;/f1&gt; sign th&lt;f2&gt;a&lt;/f2&gt;t you are cramming too many details on the slide &lt;f3&gt;and need to rethink.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T121241Z" creationid="Franklin Weng" creationdate="20180117T121241Z">
+        <seg>相反地，如果你必須要把字型&lt;f0&gt;縮得比預設更小&lt;/f0&gt;，那就是一個&lt;f1&gt;明確的信號&lt;/f1&gt;：你的投影片內容太多了，&lt;f3&gt;要重新構思！&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8989,6 +9013,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113230Z" creationid="zerng07" creationdate="20171219T113230Z">
         <seg>如果你習慣使用樣式，那麼很可能「&lt;f0&gt;樣式和格式設定&lt;/f0&gt;」視窗早就已經開好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can possibly make the &lt;f1&gt;Outline 1&lt;/f1&gt; style larger, do so.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T121036Z" creationid="Franklin Weng" creationdate="20180117T121036Z">
+        <seg>如果你覺得&lt;f1&gt;第一層大綱&lt;/f1&gt;可以再放大一點，就盡量放大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12751,8 +12783,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since slides are presented at a low resolution, sans serif &lt;f0&gt;or slab serif&lt;/f0&gt; fonts are generally preferable &lt;f1&gt;to serif ones for content.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T095631Z" creationid="Franklin Weng" creationdate="20180116T095631Z">
-        <seg>Since slides are presented at a low resolution, sans serif &lt;f0&gt;or slab serif&lt;/f0&gt; fonts are generally preferable &lt;f1&gt;to serif ones for content.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120607Z" creationid="Franklin Weng" creationdate="20180116T095631Z">
+        <seg>因為在簡報時，投影片的解析度通常不高，所以內容的字型一般來說用無襯線&lt;f0&gt;或是粗平襯線體&lt;/f0&gt;會比用&lt;f1&gt;有襯線字體要好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13679,6 +13711,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Outline styles in Impress default to bullet lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T121316Z" creationid="Franklin Weng" creationdate="20180117T121316Z">
+        <seg>Impress 中的大綱樣式預設使用的是圓點項目清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Presentation Wizard in Impress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T104644Z" creationid="Franklin Weng" creationdate="20171218T123934Z">
@@ -13843,6 +13883,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131343Z" creationid="Jeff Huang" creationdate="20180113T131343Z">
         <seg>預設的圖表包含了&lt;f0&gt;三個&lt;/f0&gt; Y 軸的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default font sizes for slides are 44 points for a title and 18 points for an &lt;f0&gt;Outline 1&lt;/f0&gt; style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120921Z" creationid="Franklin Weng" creationdate="20180117T120921Z">
+        <seg>預設投影片的字型大小為：標題 44 點，&lt;f0&gt;第一層大綱&lt;/f0&gt;為 18 點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14999,6 +15047,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T173216Z" creationid="zerng07" creationdate="20170817T173216Z">
         <seg>祕訣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Titles and sub-titles are generally large enough that they can use any fonts.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120639Z" creationid="Franklin Weng" creationdate="20180117T120639Z">
+        <seg>題名跟子標題通常比較大，所以字型的選擇影響比較不大。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16518,6 +16574,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150241Z" creationid="zerng07" creationdate="20171225T150040Z">
         <seg>你可以選擇&lt;f0&gt;編輯&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式以便設置這份文件的基本格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize them using the &lt;f0&gt;Bullets&lt;/f0&gt;,&lt;f1&gt; Numbering Type&lt;/f1&gt;, &lt;f2&gt;Image&lt;/f2&gt;, and &lt;f3&gt;Customize&lt;/f3&gt; tabs, but, as with list styles &lt;f4&gt;in Writer&lt;/f4&gt;, avoid the retro-styled &lt;f5&gt;Image&lt;/f5&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T023912Z" creationid="Franklin Weng" creationdate="20180118T023912Z">
+        <seg>你可以在編輯樣式的視窗中，用「&lt;f0&gt;項目符號&lt;/f0&gt;」、「&lt;f1&gt;編號&lt;/f1&gt;」、「&lt;f2&gt;影像&lt;/f2&gt;」與「&lt;f3&gt;自訂&lt;/f3&gt;」等頁籤來修改。但是就跟在 &lt;f4&gt;Writer&lt;/f4&gt; 裡的清單樣式一樣，盡量避免使用老式的「&lt;f5&gt;影像&lt;/f5&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
