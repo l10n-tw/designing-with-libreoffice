@@ -13833,6 +13833,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;D&lt;/f0&gt;rawing tool bar is complete in Draw and Impress only.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094106Z" creationid="Jeff Huang" creationdate="20180118T094106Z">
+        <seg>繪圖工具列只有在 Draw 與 Impress 中才是完整的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Fields&lt;/f0&gt; dialog window for adding placeholders in Writer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121402Z" creationid="Franklin Weng" creationdate="20171223T093130Z">
@@ -13965,6 +13973,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T115819Z" creationid="Franklin Weng" creationdate="20180105T115304Z">
         <seg>在&lt;f1&gt;文字排印學&lt;/f1&gt;中，&lt;f0&gt;傳統使用的&lt;/f0&gt;虛擬文字稱為 Lorem Ipsum，是&lt;f2&gt;一篇以 “Lorem Ipsum”兩個字開頭的文章&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;D&lt;/f1&gt;rawing tool bar con&lt;f2&gt;tain&lt;/f2&gt;s &lt;f3&gt;most&lt;/f3&gt;ly basic shapes &lt;f4&gt;like rectangles or ovals, or primitives, as designers call them.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094034Z" creationid="Jeff Huang" creationdate="20180118T094034Z">
+        <seg>繪圖工具列包含了&lt;f3&gt;大多數的&lt;/f3&gt;基本形狀&lt;f4&gt;，如矩形或橢圓形，或是設計師可能會稱之為基本圖形元素。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16768,6 +16784,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125259Z" creationid="Franklin Weng" creationdate="20171212T125259Z">
         <seg>Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer and Calc versions of the tool bar are missing &lt;f1&gt;a few&lt;/f1&gt; tools such as connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094157Z" creationid="Jeff Huang" creationdate="20180118T094157Z">
+        <seg>Writer與Calc的版本遺失了&lt;f1&gt;一些&lt;/f1&gt;工具，如連接符等。</seg>
       </tuv>
     </tu>
     <tu>
