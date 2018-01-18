@@ -3301,6 +3301,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;If you find the default slide designs too limiting, you are likely trying to make slides do something that they were never intended to.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142351Z" creationid="Franklin Weng" creationdate="20180118T142351Z">
+        <seg>&lt;f1&gt;但如果你覺得預設的設定限制太多，你可能會試著用一些比較特別的方式來排列內容。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;If you prefer an italic, you might go searching for something compatible with the regular weight.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073542Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
@@ -3603,6 +3611,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033716Z" creationid="Franklin Weng" creationdate="20180118T033716Z">
         <seg>你的聽眾其實不太會注意到你是怎麼對齊的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;You can a&lt;/f1&gt;dd a table by positioning the cursor and selecting &lt;f2&gt;Insert &gt; Table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142833Z" creationid="Franklin Weng" creationdate="20180118T142833Z">
+        <seg>&lt;f1&gt;你可以&lt;/f1&gt;先把游標移到要擺放表格的位置，然後在選單選擇&lt;f2&gt;「插入 &gt; 表格」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4653,6 +4669,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T125116Z" creationid="Jeff Huang" creationdate="20180118T125116Z">
         <seg>在你新增基本圖形元素後，可能需要&lt;f0&gt;按一下&lt;/f0&gt;工具列左側的&lt;f1&gt;選取&lt;/f1&gt;按鈕，來將繪圖工具復原至其原始狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have added a table, a table design pane opens in the sidebar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T143030Z" creationid="Franklin Weng" creationdate="20180118T143030Z">
+        <seg>新增表格之後，在側邊欄會出現一個表格設計面板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8583,6 +8607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, &lt;f0&gt;if you decide that you do have a reason for &lt;/f0&gt;more complex &lt;f1&gt;layouts&lt;/f1&gt;, you can use the &lt;f2&gt;Tab&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; tab for a&lt;f5&gt; &lt;/f5&gt;Presentation style, or &lt;f6&gt;else &lt;/f6&gt;a table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142607Z" creationid="Franklin Weng" creationdate="20180118T142607Z">
+        <seg>不過，&lt;f0&gt;如果你有個好理由&lt;/f0&gt;，決定用&lt;f1&gt;比較複雜&lt;/f1&gt;的方式來安排佈局，你可以用「簡報樣式」中的「&lt;f2&gt;定位點&lt;/f2&gt;」頁籤來做，&lt;f6&gt;或是&lt;/f6&gt;用表格來定位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, &lt;f0&gt;no matter what criteria you use, &lt;/f0&gt;the only way to be sure that fonts match is to experiment with them, &lt;f1&gt;both on-screen and by printing frequent hard copy samples.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T131031Z" creationid="Franklin Weng" creationdate="20180103T131951Z">
@@ -11590,6 +11622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most&lt;f0&gt;ly,&lt;/f0&gt; you can let slide designs determine how content is arranged on slides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142231Z" creationid="Franklin Weng" creationdate="20180118T142231Z">
+        <seg>大部份的狀況下，你直接讓投影片的預設值來安排內容的排列方式即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mostly, templates store formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160414Z" creationid="Franklin Weng" creationdate="20171212T100331Z">
@@ -11842,6 +11882,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T130503Z" creationid="Franklin Weng" creationdate="20180103T131652Z">
         <seg>當然，隨著你對文字排印學的歷史瞭解得越多，你就越容易依據字型的起源找出適合搭配的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of the two &lt;f0&gt;choices, &lt;/f0&gt;a table positions information more securely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142738Z" creationid="Franklin Weng" creationdate="20180118T142738Z">
+        <seg>在這兩種&lt;f0&gt;選擇&lt;/f0&gt;中，表格會用比較安全的方式來排列資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16893,6 +16941,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113745Z" creationid="zerng07" creationdate="20171219T113745Z">
         <seg>當你修改一個&lt;f0&gt;段落樣式時，&lt;/f0&gt;你也同時修改同一份文件中&lt;f1&gt;所有使用相同樣式&lt;/f1&gt;的其他地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you add a table, the &lt;f0&gt;Properties&lt;/f0&gt; pane adds &lt;f1&gt;a&lt;/f1&gt; &lt;f2&gt;Table Design&lt;/f2&gt; &lt;f3&gt;tab.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;Many of the check boxes under &lt;f5&gt;Table Design&lt;/f5&gt; can be useful for formatting, but, unfortunately, the default colors are unlikely to &lt;f6&gt;match&lt;/f6&gt; your slide show.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T143457Z" creationid="Franklin Weng" creationdate="20180118T143457Z">
+        <seg>在新增表格之後，在側邊欄的「&lt;f0&gt;屬性&lt;/f0&gt;」中會多一個「&lt;f2&gt;表格設計&lt;/f2&gt;」&lt;f3&gt;頁籤&lt;/f3&gt;。在這「&lt;f5&gt;表格設計&lt;/f5&gt;」裡有許多的勾選框，可以用來做格式設定。不過可惜的是，預設的色彩多半&lt;f6&gt;不會符合&lt;/f6&gt;你的簡報設計。</seg>
       </tuv>
     </tu>
     <tu>
