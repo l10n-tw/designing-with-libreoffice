@@ -1744,8 +1744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In LibreOffice Writer, line spacing appears to be set by the font size&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123913Z" creationid="Franklin Weng" creationdate="20180105T134757Z">
-        <seg>&lt;f0&gt;在 LibreOffice Writer 中。行距看起來是由字型大小來設定&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T131321Z" creationid="Franklin Weng" creationdate="20180105T134757Z">
+        <seg>&lt;f0&gt;在LibreOffice Writer中，行距看來是由字型大小決定&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3473,8 +3473,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The exact measurement&lt;/f1&gt; is displayed when you set the &lt;f2&gt;Line Spacing&lt;/f2&gt; field to &lt;f3&gt;Fixed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134923Z" creationid="Franklin Weng" creationdate="20180105T134923Z">
-        <seg>&lt;f1&gt;不過精確的距離&lt;/f1&gt;是你把「&lt;f2&gt;行距&lt;/f2&gt;」設為&lt;f3&gt;「固定」時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T131516Z" creationid="Franklin Weng" creationdate="20180105T134923Z">
+        <seg>&lt;f1&gt;不過準確的距離&lt;/f1&gt;要你在「&lt;f2&gt;行距&lt;/f2&gt;」欄位設為&lt;f3&gt;「固定」時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4283,8 +4283,8 @@
       <tuv lang="EN">
         <seg>A font set solid (in this case, 12/12&lt;f0&gt;)&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;With so little line spacing, the text is cramped and hard to read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123932Z" creationid="Franklin Weng" creationdate="20180105T135449Z">
-        <seg>緊實的段落（這個例子是 12/12）。&lt;f2&gt;行距這麼小，文字看起來會很窄而難以閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T132807Z" creationid="Franklin Weng" creationdate="20180105T135449Z">
+        <seg>設定緊實的段落（這個例子是12/12）。&lt;f2&gt;行距這麼小，文字看起來很窄，難以閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7897,8 +7897,8 @@
       <tuv lang="EN">
         <seg>For convenience, typographers notate &lt;f0&gt;line spacing&lt;/f0&gt; after the font size, so that a paragraph set in 12/14 has a 12 point font size and 14 points of line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123918Z" creationid="Franklin Weng" creationdate="20180105T135039Z">
-        <seg>為了方便起見，排印者把&lt;f0&gt;行距&lt;/f0&gt;記在字型大小之後，所以段落設定為 12/14 指的是字型大小為 12，行間距為 14。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T131902Z" creationid="Franklin Weng" creationdate="20180105T135039Z">
+        <seg>為了方便之故，字體排印師把&lt;f0&gt;行距&lt;/f0&gt;記在字型大小之後，所以段落設定為12/14，指的是字型大小為12點，行距為14點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11071,8 +11071,8 @@
       <tuv lang="EN">
         <seg>Line spacing is the distance between two baselines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123909Z" creationid="Franklin Weng" creationdate="20180105T134538Z">
-        <seg>行距就是兩條基線間的距離。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T124633Z" creationid="Franklin Weng" creationdate="20180105T134538Z">
+        <seg>行距就是兩條基線之間的距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14091,8 +14091,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135528Z" creationid="Franklin Weng" creationdate="20180105T135528Z">
-        <seg>「&lt;f0&gt;縮排和間距&lt;/f0&gt;」分頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T132816Z" creationid="Franklin Weng" creationdate="20180105T135528Z">
+        <seg>「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16633,8 +16633,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When a paragraph’s font size and line space are identical – for instance, 12/12 – then the paragraph is said to be “set solid.” However, you rarely see a paragraph set solid except for short lines of text in brochures or ad&lt;f0&gt;s&lt;/f0&gt;, because the lines look crowded &lt;t1/&gt;&lt;f2&gt;except with a few fonts with small letter sizes with plenty of white space around them.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123929Z" creationid="Franklin Weng" creationdate="20180105T135351Z">
-        <seg>當段落的字型大小與行距相等時 – 比方說，12/12 – 那麼我們會說這個段落「很緊實」。不過，我們很少會看到這種「緊實」的段落設定，除非是小手冊或廣告中空間行數有限。因為這種「緊實」的段落看起來會很擠，&lt;t1/&gt;&lt;f2&gt;除非中間有幾行的字母大小較小，留出一些空間在週邊。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T132720Z" creationid="Franklin Weng" creationdate="20180105T135351Z">
+        <seg>當段落的字型大小與行距相等時——比如12/12——那麼我們會說這個段落行距「設定緊實」(set solid)。不過，你會很少看到這樣設定緊實的段落，除非是小手冊或廣告中空間有限才有。因為這類緊實的段落看起來很擠，&lt;f2&gt;除非用了一些字身高度較小的字型，周邊可以多留出一些空白。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
