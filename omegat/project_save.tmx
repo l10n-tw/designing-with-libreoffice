@@ -2264,16 +2264,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Roman f&lt;/f0&gt;onts that &lt;f1&gt;are&lt;/f1&gt; &lt;f2&gt;light &lt;/f2&gt;gray&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145027Z" creationid="Franklin Weng" creationdate="20180105T145027Z">
-        <seg>羅馬（&lt;f0&gt;Roman&lt;/f0&gt;）字型用亮灰色時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140639Z" creationid="Franklin Weng" creationdate="20180105T145027Z">
+        <seg>字型的羅馬體 (&lt;f0&gt;Roman&lt;/f0&gt;) 看起來太亮時。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Roman f&lt;/f0&gt;onts that a&lt;f1&gt;re&lt;/f1&gt; too black.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144954Z" creationid="Franklin Weng" creationdate="20180105T144954Z">
-        <seg>羅馬（&lt;f0&gt;Roman&lt;/f0&gt;）字型看起來太暗時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140558Z" creationid="Franklin Weng" creationdate="20180105T144954Z">
+        <seg>字型的羅馬體 (&lt;f0&gt;Roman&lt;/f0&gt;) 看起來太黑時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4186,8 +4186,8 @@
       <tuv lang="EN">
         <seg>A &lt;f0&gt;line of text less than 45 characters.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144731Z" creationid="Franklin Weng" creationdate="20180105T144731Z">
-        <seg>&lt;f0&gt;一行文字少於 45 字元時。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140523Z" creationid="Franklin Weng" creationdate="20180105T144731Z">
+        <seg>&lt;f0&gt;一行文字少於45個字元時。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4331,8 +4331,8 @@
       <tuv lang="EN">
         <seg>A l&lt;f0&gt;ine of text greater than about 80 characters.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144717Z" creationid="Franklin Weng" creationdate="20180105T144717Z">
-        <seg>&lt;f0&gt;一行文字超過 80 字元時。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140518Z" creationid="Franklin Weng" creationdate="20180105T144717Z">
+        <seg>&lt;f0&gt;一行文字超過80個字元時。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5012,8 +5012,8 @@
       <tuv lang="EN">
         <seg>Any italic or oblique font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145052Z" creationid="Franklin Weng" creationdate="20180105T145052Z">
-        <seg>任何斜體字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T141345Z" creationid="Franklin Weng" creationdate="20180105T145052Z">
+        <seg>任何義大利體或斜體字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7649,8 +7649,8 @@
       <tuv lang="EN">
         <seg>Font sizes of less than 10 points, or more than 14.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144743Z" creationid="Franklin Weng" creationdate="20180105T144743Z">
-        <seg>字型大小小於 10 點或大於 14 點時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140532Z" creationid="Franklin Weng" creationdate="20180105T144743Z">
+        <seg>字型大小小於10點，或大於14點時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7849,8 +7849,8 @@
       <tuv lang="EN">
         <seg>Fonts of 10&lt;f0&gt;–&lt;/f0&gt;14 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T144751Z" creationid="Franklin Weng" creationdate="20180105T144751Z">
-        <seg>字型大小介於 10-14 點時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140538Z" creationid="Franklin Weng" creationdate="20180105T144751Z">
+        <seg>字型大小介於10-14點時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11568,8 +11568,8 @@
       <tuv lang="EN">
         <seg>Most sans-serif fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145039Z" creationid="Franklin Weng" creationdate="20180105T145039Z">
-        <seg>大部份無襯線字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140700Z" creationid="Franklin Weng" creationdate="20180105T145039Z">
+        <seg>大多數的無襯線字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13553,8 +13553,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some serif fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145047Z" creationid="Franklin Weng" creationdate="20180105T145047Z">
-        <seg>某些有襯線字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140707Z" creationid="Franklin Weng" creationdate="20180105T145047Z">
+        <seg>某些襯線字型。</seg>
       </tuv>
     </tu>
     <tu>
