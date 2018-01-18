@@ -3911,6 +3911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Customize&lt;/f7&gt; tab allows adjustment of spacing or the &lt;f8&gt;selection &lt;/f8&gt;of custom bullets and numbers or larger-sized ones for special circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T024153Z" creationid="Franklin Weng" creationdate="20180118T024153Z">
+        <seg>「&lt;f7&gt;自訂&lt;/f7&gt;」頁籤用在特別狀況下，可以讓你&lt;f8&gt;選擇&lt;/f8&gt;使用的項目符號與編號，相對大小與間距等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f7&gt;Helps you decide where to make changes in multiple styles by editing just one of them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T143959Z" creationid="zerng07" creationdate="20171224T143959Z">
@@ -8463,6 +8471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, in many cases, the default spacing is adequate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T024220Z" creationid="Franklin Weng" creationdate="20180118T024220Z">
+        <seg>不過，在大部份的狀況下，預設的間距就已經很適當了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, in practice, font styles are inconsistent enough that &lt;f0&gt;the best they can give you is a rough indication of whether a font is suitable for your needs.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T133124Z" creationid="Franklin Weng" creationdate="20171228T063810Z">
@@ -9077,6 +9093,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111121Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
         <seg>如果你沒有選擇子目錄，那麼範本會根據它的檔案格式，儲存到適當的標籤頁中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not want lists, set the &lt;f0&gt;Number&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab to &lt;f2&gt;None&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T024450Z" creationid="Franklin Weng" creationdate="20180118T024450Z">
+        <seg>如果你不想用清單的方式，If you do not want lists, set the &lt;f0&gt;Number&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab to &lt;f2&gt;None&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13395,6 +13419,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T140129Z" creationid="Franklin Weng" creationdate="20180105T140129Z">
         <seg>這個魔術數字會是你設計很重要的關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that you may be mostly using the &lt;f0&gt;Bullets&lt;/f0&gt; and &lt;f1&gt;Numbering Type&lt;/f1&gt; tabs to set up list&lt;f2&gt;s&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T024301Z" creationid="Franklin Weng" creationdate="20180118T024301Z">
+        <seg>這表示你最多只需要用到「&lt;f0&gt;項目符號&lt;/f0&gt;」與「&lt;f1&gt;編號&lt;/f1&gt;」來設定清單。</seg>
       </tuv>
     </tu>
     <tu>
