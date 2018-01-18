@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;For instance&lt;f2&gt;, while the flow chart library contains most of the basic shapes for creating flow charts, some of the shapes you need may be available from other buttons on the tool bars.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T035755Z" creationid="Jeff Huang" creationdate="20180118T035755Z">
+        <seg>舉例來說&lt;f2&gt;，當流程圖庫包含了供建立流程圖的大部份基本形狀，你可能需要從工具列上的其他按鈕來取得一些所需的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;However, &lt;f2&gt;most of the book&lt;/f2&gt; applies to Apache OpenOffice as much as LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165104Z" creationid="zerng07" creationdate="20170822T144736Z">
@@ -11577,6 +11585,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T065934Z" creationid="Jeff Huang" creationdate="20171123T080111Z">
         <seg>通常，這些關鍵元素應該會是標題，因為標題在其他地方也很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, though, &lt;f0&gt;you need more than the &lt;/f0&gt;primitives&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T034953Z" creationid="Jeff Huang" creationdate="20180118T034953Z">
+        <seg>但一般情況下，&lt;f0&gt;你需要的不僅僅是&lt;/f0&gt;基本元素。</seg>
       </tuv>
     </tu>
     <tu>
