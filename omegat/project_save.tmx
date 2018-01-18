@@ -14025,6 +14025,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;snap lines&lt;/f0&gt; are useful for exact positioning, even with the grid turned off, &lt;f1&gt;because you can see the exact position on the horizontal and vertical rulers.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T124105Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
+        <seg>即便在網格關閉的情況下，&lt;f0&gt;貼齊線&lt;/f0&gt;仍可用於精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;styles available are&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175048Z" creationid="zerng07" creationdate="20171223T175048Z">
