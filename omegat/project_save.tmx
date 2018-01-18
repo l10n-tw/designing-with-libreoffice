@@ -1910,6 +1910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice offers nearly sixty different transitions available from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Slide Transition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Slide Transition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the sidebar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144607Z" creationid="Franklin Weng" creationdate="20180118T144419Z">
+        <seg>&lt;f0&gt;LibreOffice 提供了接近六十種不同的轉場效果，從選單中選擇「&lt;f2&gt;投影片 &gt; 投影片轉場&lt;/f2&gt;」，或是在側邊欄的「&lt;f5&gt;投影片轉場&lt;/f5&gt;」圖示按下去就可以看到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice templates&lt;/f0&gt; are designed to eliminate the problems that &lt;f1&gt;caused the corruption&lt;/f1&gt; in Word.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102735Z" creationid="Franklin Weng" creationdate="20171212T100709Z">
@@ -10286,6 +10294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In particular, the default black text will probably need to be changed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144101Z" creationid="Franklin Weng" creationdate="20180118T144101Z">
+        <seg>特別是預設的黑色文字可能會需要換掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, only the slide number is used regularly these days, &lt;f0&gt;and, sometimes, not even it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092257Z" creationid="Franklin Weng" creationdate="20180116T092257Z">
@@ -13171,6 +13187,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075504Z" creationid="Jeff Huang" creationdate="20171214T062547Z">
         <seg>按下「&lt;f0&gt;工具 &gt; 更新 &gt; 全部更新&lt;/f0&gt;」以確保所有欄位都是最新狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting a slide transition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144423Z" creationid="Franklin Weng" creationdate="20180118T144346Z">
+        <seg>選擇投影片的轉場效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -16933,6 +16957,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T100722Z" creationid="Franklin Weng" creationdate="20171212T100722Z">
         <seg>使用範本的時機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using Impress’ &lt;f0&gt;Table Design&lt;/f0&gt; tab, a plain gray table is the least garish choice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144338Z" creationid="Franklin Weng" creationdate="20180118T144338Z">
+        <seg>Impress 的「&lt;f0&gt;表格設計&lt;/f0&gt;」頁籤中的灰色的表格，是所有選擇中最樸實好用的。</seg>
       </tuv>
     </tu>
     <tu>
