@@ -17622,8 +17622,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can force LibreOffice to display the size in points by placing the cursor in the &lt;f0&gt;Size&lt;/f0&gt; field of the &lt;f1&gt;Font&lt;/f1&gt; tab, and entering the size followed by “pt.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120455Z" creationid="Franklin Weng" creationdate="20180101T105909Z">
-        <seg>你可以強制讓LibreOffice以點為單位顯示大小，只要在「&lt;f1&gt;字型&lt;/f1&gt;」標籤頁的「&lt;f0&gt;大小&lt;/f0&gt;」欄位中，手動輸入大小數字，後方再加上「點」或「pt」即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T161136Z" creationid="Franklin Weng" creationdate="20180101T105909Z">
+        <seg>你可以強制讓LibreOffice以點為單位顯示大小，只要在「&lt;f1&gt;字型&lt;/f1&gt;」標籤頁的「&lt;f0&gt;大小&lt;/f0&gt;」欄位中，手動輸入大小數字，後方再補上單位「點」或「pt」即可。</seg>
       </tuv>
     </tu>
     <tu>
