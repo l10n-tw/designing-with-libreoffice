@@ -1672,8 +1672,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;ncre&lt;f1&gt;ase&lt;/f1&gt; the font size and line-spacing a bit at a time, and work with different combinations &lt;f2&gt;systematically.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041157Z" creationid="Franklin Weng" creationdate="20180106T041157Z">
-        <seg>字型大小與間距一次只增加一點點就好，然後用不同的組合去做&lt;f2&gt;有系統的測試。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T153552Z" creationid="Franklin Weng" creationdate="20180106T041157Z">
+        <seg>字型大小與間距一次只增加一點點就好，然後用不同的組合去做&lt;f2&gt;系統性測試。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,8 +3230,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Choosing the page &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;color is always highly contextual, and small changes in formatting can sometimes have large effects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T041047Z" creationid="Franklin Weng" creationdate="20180106T041047Z">
-        <seg>&lt;f1&gt;選擇頁面&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;色彩一直都是跟整體情境息息相關，小小的變動可能就會造成巨大的影響。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151850Z" creationid="Franklin Weng" creationdate="20180106T041047Z">
+        <seg>&lt;f1&gt;頁面&lt;/f1&gt;&lt;f3&gt;色彩的決定一直都跟當下情境息息相關，小小的格式設定變動可能就有大大的影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6976,8 +6976,8 @@
       <tuv lang="EN">
         <seg>Do not assume that because a color worked once, it will work equally well under other &lt;f0&gt;circumstance&lt;/f0&gt;s.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151743Z" creationid="Franklin Weng" creationdate="20180106T040956Z">
-        <seg>不要假定某個畫面色彩之前都很好，在&lt;f0&gt;其他情況&lt;/f0&gt;下也會一樣沒問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151928Z" creationid="Franklin Weng" creationdate="20180106T040956Z">
+        <seg>不要假定某個頁面色彩之前看起來很好，在&lt;f0&gt;其他情況&lt;/f0&gt;下也會一樣沒問題。</seg>
       </tuv>
     </tu>
     <tu>
