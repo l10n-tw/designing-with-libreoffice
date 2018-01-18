@@ -1934,6 +1934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Lines at the center of one side are connectors, while broken lines are the snap lines for positioning the object being moved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131852Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
+        <seg>&lt;f0&gt;在一側中心的線條是連接符，而虛線是用於被移動的物件的定位線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Linking&lt;/f0&gt; templates &lt;f1&gt;with documents&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145226Z" creationid="Franklin Weng" creationdate="20171212T114753Z">
@@ -4317,6 +4325,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085644Z" creationid="Jeff Huang" creationdate="20171111T132234Z">
         <seg>無論採取何種出版方式，只要一個段落超過半頁篇幅以上，一般就應該再切分成多個段落，畢竟讀者看到超長的段落很容易就會自動跳過。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A rectangle attached to two others with connectors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131612Z" creationid="Jeff Huang" creationdate="20180118T131612Z">
+        <seg>一個矩形以連接符連到另外兩個矩形上。</seg>
       </tuv>
     </tu>
     <tu>
