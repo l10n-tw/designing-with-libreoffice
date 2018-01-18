@@ -13835,8 +13835,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;D&lt;/f0&gt;rawing tool bar is complete in Draw and Impress only.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094106Z" creationid="Jeff Huang" creationdate="20180118T094106Z">
-        <seg>繪圖工具列只有在 Draw 與 Impress 中才是完整的。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094309Z" creationid="Jeff Huang" creationdate="20180118T094106Z">
+        <seg>繪圖工具列只有在Draw與Impress中才是完整的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15569,6 +15569,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125225Z" creationid="Franklin Weng" creationdate="20171223T095033Z">
         <seg>建例樣本卡片：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To draw a primitive, select an item from the &lt;f0&gt;D&lt;/f0&gt;rawing tool bar, and then move the cursor to the editing window, &lt;f1&gt;clicking and &lt;/f1&gt;dragging to size the object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094456Z" creationid="Jeff Huang" creationdate="20180118T094456Z">
+        <seg>要繪製基本圖形元素，從繪圖工具列中選取一個項目，然後移動游標到編輯視窗，&lt;f1&gt;點按並&lt;/f1&gt;拖曳以調整物件的大小。</seg>
       </tuv>
     </tu>
     <tu>
