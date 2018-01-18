@@ -1744,8 +1744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In LibreOffice Writer, line spacing appears to be set by the font size&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134757Z" creationid="Franklin Weng" creationdate="20180105T134757Z">
-        <seg>&lt;f0&gt;在 LibreOffice Writer 中。行間距看起來是由字型大小來設定&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123913Z" creationid="Franklin Weng" creationdate="20180105T134757Z">
+        <seg>&lt;f0&gt;在 LibreOffice Writer 中。行距看起來是由字型大小來設定&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,8 +1880,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;ibreOffice sets a &lt;f1&gt;default&lt;/f1&gt; line spacing based on the font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135634Z" creationid="Franklin Weng" creationdate="20180105T135634Z">
-        <seg>LibreOffice &lt;f1&gt;預設&lt;/f1&gt;的行間距是依字型大小而設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123937Z" creationid="Franklin Weng" creationdate="20180105T135634Z">
+        <seg>LibreOffice &lt;f1&gt;預設&lt;/f1&gt;的行距是依字型大小而設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3279,8 +3279,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;In this context, “color” does not refer to whether the text or the paper is black or green.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T105001Z" creationid="Franklin Weng" creationdate="20180105T130753Z">
-        <seg>&lt;f1&gt;這裡說的「色彩」，並不是指文字或紙張是黑色或綠色的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T124548Z" creationid="Franklin Weng" creationdate="20180105T130753Z">
+        <seg>&lt;f1&gt;這裡說的「色彩」，並不是指文字或紙張是黑色還綠色的那種色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3641,8 +3641,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;For a 12 point font, that average is just over 14 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135701Z" creationid="Franklin Weng" creationdate="20180105T135701Z">
-        <seg>&lt;f2&gt;以 12 點的字型大小，通常平均的行間距大約比 14 點多一點點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123945Z" creationid="Franklin Weng" creationdate="20180105T135701Z">
+        <seg>&lt;f2&gt;以 12 點的字型大小，通常平均的行距大約比 14 點多一點點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4235,8 +4235,8 @@
       <tuv lang="EN">
         <seg>A font set solid (in this case, 12/12&lt;f0&gt;)&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;With so little line spacing, the text is cramped and hard to read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135449Z" creationid="Franklin Weng" creationdate="20180105T135449Z">
-        <seg>緊實的段落（這個例子是 12/12）。&lt;f2&gt;行間距這麼小，文字看起來會很窄而難以閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123932Z" creationid="Franklin Weng" creationdate="20180105T135449Z">
+        <seg>緊實的段落（這個例子是 12/12）。&lt;f2&gt;行距這麼小，文字看起來會很窄而難以閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6960,8 +6960,8 @@
       <tuv lang="EN">
         <seg>Dummy text is text unrelated to the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T095823Z" creationid="Franklin Weng" creationdate="20180105T093043Z">
-        <seg>假文 (dummy text) 是指和文件本身沒有任何關聯的文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T124513Z" creationid="Franklin Weng" creationdate="20180105T093043Z">
+        <seg>假文 (Dummy text) 是指和文件本身沒有任何關聯的文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7801,8 +7801,8 @@
       <tuv lang="EN">
         <seg>For convenience, typographers notate &lt;f0&gt;line spacing&lt;/f0&gt; after the font size, so that a paragraph set in 12/14 has a 12 point font size and 14 points of line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135039Z" creationid="Franklin Weng" creationdate="20180105T135039Z">
-        <seg>為了方便起見，排印者把&lt;f0&gt;行間距&lt;/f0&gt;記在字型大小之後，所以段落設定為 12/14 指的是字型大小為 12，行間距為 14。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123918Z" creationid="Franklin Weng" creationdate="20180105T135039Z">
+        <seg>為了方便起見，排印者把&lt;f0&gt;行距&lt;/f0&gt;記在字型大小之後，所以段落設定為 12/14 指的是字型大小為 12，行間距為 14。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9743,8 +9743,8 @@
       <tuv lang="EN">
         <seg>In LibreOffice, line spacing is set in the&lt;f0&gt; Line Spacing&lt;/f0&gt; field on the &lt;f1&gt;Indents &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Spacing&lt;/f4&gt; tab for paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133728Z" creationid="Franklin Weng" creationdate="20180105T133728Z">
-        <seg>在 LibreOffice 中，行間距在「格式 &gt; 段落」中，「&lt;f1&gt;縮排和間距&lt;/f1&gt;」裡的「&lt;f0&gt;行距&lt;/f0&gt;」設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123855Z" creationid="Franklin Weng" creationdate="20180105T133728Z">
+        <seg>在LibreOffice中，行距設定放在「格式 &gt; 段落」中，「&lt;f1&gt;縮排和間距&lt;/f1&gt;」裡的「&lt;f0&gt;行距&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10216,8 +10216,8 @@
       <tuv lang="EN">
         <seg>Instead, color is the typographical term for how dark or light a passage or a page looks overall.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T115229Z" creationid="Franklin Weng" creationdate="20180105T130846Z">
-        <seg>而是文字排印學中的術語，色彩指的是一段文字、或一個頁面，整體畫面看來較暗還是較亮；如果是白底黑字時又稱為「灰度」。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T124602Z" creationid="Franklin Weng" creationdate="20180105T130846Z">
+        <seg>而是文字排印學中的術語，指的是一段文字、或一個頁面，整體畫面看來較暗還是較亮；如果是白底黑字時又稱為「灰度」。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,16 +10943,16 @@
       <tuv lang="EN">
         <seg>Line spacing is defined as the &lt;f0&gt;measurement from one baseline (the imaginary line that the bottom of a letter like “n” or “m” sits on) to the next &lt;/f0&gt;one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134527Z" creationid="Franklin Weng" creationdate="20180105T134527Z">
-        <seg>行間距的定義為&lt;f0&gt;從一行的基線（想像對齊字母“n”或“m”下方的線條）到另一行基線的距離&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123750Z" creationid="Franklin Weng" creationdate="20180105T134527Z">
+        <seg>行距的定義為&lt;f0&gt;從一行文字的基線（一條對齊字母「n」或「m」底部的假想線）到另一行基線之間的距離&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Line spacing is the distance between two baselines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T134538Z" creationid="Franklin Weng" creationdate="20180105T134538Z">
-        <seg>行間距就是兩條基線間的距離。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123909Z" creationid="Franklin Weng" creationdate="20180105T134538Z">
+        <seg>行距就是兩條基線間的距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12993,8 +12993,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting color through line spacing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T122214Z" creationid="Franklin Weng" creationdate="20180105T133459Z">
-        <seg>設定行間距離調整色彩</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123817Z" creationid="Franklin Weng" creationdate="20180105T133459Z">
+        <seg>設定行距調整色彩</seg>
       </tuv>
     </tu>
     <tu>
@@ -13787,8 +13787,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That line spacing is the magic number &lt;f0&gt;that &lt;/f0&gt;can be the key to &lt;f1&gt;the &lt;/f1&gt;rest of your design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T114759Z" creationid="Franklin Weng" creationdate="20180105T131828Z">
-        <seg>這樣的行間就是所謂的「魔術數字」，&lt;f0&gt;它&lt;/f0&gt;就是設計其餘部分的關鍵。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123811Z" creationid="Franklin Weng" creationdate="20180105T131828Z">
+        <seg>這樣的行距就是所謂的「魔術數字」，&lt;f0&gt;它&lt;/f0&gt;就是設計其餘部分的關鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14878,8 +14878,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The single most important influence on color is line-spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T133517Z" creationid="Franklin Weng" creationdate="20180105T133517Z">
-        <seg>影響色彩最重要的單一因素就是行間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123821Z" creationid="Franklin Weng" creationdate="20180105T133517Z">
+        <seg>影響灰度最重要的一個因素就是行距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16449,8 +16449,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When a paragraph’s font size and line space are identical – for instance, 12/12 – then the paragraph is said to be “set solid.” However, you rarely see a paragraph set solid except for short lines of text in brochures or ad&lt;f0&gt;s&lt;/f0&gt;, because the lines look crowded &lt;t1/&gt;&lt;f2&gt;except with a few fonts with small letter sizes with plenty of white space around them.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135351Z" creationid="Franklin Weng" creationdate="20180105T135351Z">
-        <seg>當段落的字型大小與行間距相等時 – 比方說，12/12 – 那麼我們會說這個段落「很緊實」。不過，我們很少會看到這種「緊實」的段落設定，除非是小手冊或廣告中空間行數有限。因為這種「緊實」的段落看起來會很擠，&lt;t1/&gt;&lt;f2&gt;除非中間有幾行的字母大小較小，留出一些空間在週邊。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123929Z" creationid="Franklin Weng" creationdate="20180105T135351Z">
+        <seg>當段落的字型大小與行距相等時 – 比方說，12/12 – 那麼我們會說這個段落「很緊實」。不過，我們很少會看到這種「緊實」的段落設定，除非是小手冊或廣告中空間行數有限。因為這種「緊實」的段落看起來會很擠，&lt;t1/&gt;&lt;f2&gt;除非中間有幾行的字母大小較小，留出一些空間在週邊。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16644,8 +16644,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you have found the line spacing that gives the color most pleasing to your eye, make a note of it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T115244Z" creationid="Franklin Weng" creationdate="20180105T131709Z">
-        <seg>一旦你看到行與行之間的間隔（用語為「行間」）讓你覺得整體色彩很舒服，就把這個距離記錄下來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123808Z" creationid="Franklin Weng" creationdate="20180105T131709Z">
+        <seg>一旦你看到行距讓你覺得整體色彩很舒服，就把這個距離記錄下來。</seg>
       </tuv>
     </tu>
     <tu>
