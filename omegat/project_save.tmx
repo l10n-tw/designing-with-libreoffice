@@ -12072,6 +12072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other objects at the other end of the connector remain in place unless you select both objects, which drags the objects and the connectors between them as though all elements were grouped.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131434Z" creationid="Jeff Huang" creationdate="20180118T131434Z">
+        <seg>除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳，否則連接符另一端的物件會留在原位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other options might be sub-folders named for a client or project or specific themes, such as light or dark backgrounds – whatever works best for you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175519Z" creationid="Franklin Weng" creationdate="20171213T123128Z">
@@ -16766,6 +16774,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131612Z" creationid="Franklin Weng" creationdate="20180109T131612Z">
         <seg>當你完成所有的大綱之後，回去標記那些&lt;f2&gt;需要&lt;/f2&gt;用圖形強化，或需要用單獨一張投影片來強調的&lt;f1&gt;重點項目&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move an object that has a connector, the connectors are modified to keep them attached to the objects at the other end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131138Z" creationid="Jeff Huang" creationdate="20180118T131138Z">
+        <seg>移動帶有連接符的物件時，連接符也會跟著修改以保持連到另一個物件上。</seg>
       </tuv>
     </tu>
     <tu>
