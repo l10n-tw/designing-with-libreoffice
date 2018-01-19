@@ -481,8 +481,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Automatic&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is the default view when you open a new document.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142532Z" creationid="zerng07" creationdate="20171224T152955Z">
-        <seg>「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視是您開啓新文件時的預設檢視畫面。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155441Z" creationid="zerng07" creationdate="20171224T152955Z">
+        <seg>&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視是您開啓新文件時的預設檢視畫面。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -579,14 +579,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092048Z" creationid="Franklin Weng" creationdate="20180116T092048Z">
         <seg>&lt;/f6&gt;這個背景就可以讓&lt;f7&gt;其他的簡報&lt;/f7&gt;使用。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f7&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032920Z" creationid="Franklin Weng" creationdate="20171231T100259Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -882,8 +874,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic:&lt;/f0&gt; A minimalist list of &lt;f1&gt;pre-defined &lt;/f1&gt;styles&lt;f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152958Z" creationid="zerng07" creationdate="20171224T152927Z">
-        <seg>&lt;f0&gt;自動：&lt;/f0&gt;一份&lt;f1&gt;預先定義&lt;/f1&gt;樣式的極簡主義版清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155432Z" creationid="zerng07" creationdate="20171224T152927Z">
+        <seg>&lt;f0&gt;自動：&lt;/f0&gt;一份&lt;f1&gt;預先定義&lt;/f1&gt;樣式的極簡主義版清單。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
