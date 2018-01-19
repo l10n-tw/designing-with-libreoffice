@@ -1519,8 +1519,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T143053Z" creationid="zerng07" creationdate="20171224T143053Z">
-        <seg>&lt;f0&gt;階層式&lt;/f0&gt;：顯示樣式彼此之間的關係（&lt;f1&gt;請見&lt;f4&gt;第&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;頁&lt;/f4&gt;&lt;/f1&gt;〈&lt;f2&gt;&lt;bf3&gt;樣式的階層&lt;/bf3&gt;&lt;/f2&gt;〉）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160117Z" creationid="zerng07" creationdate="20171224T143053Z">
+        <seg>&lt;f0&gt;階層式&lt;/f0&gt;：顯示樣式彼此之間的關係（&lt;f1&gt;請見第&lt;/f1&gt;&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;&lt;f4&gt;頁&lt;/f4&gt;〈&lt;f2&gt;&lt;bf3&gt;樣式的階層&lt;/bf3&gt;&lt;/f2&gt;〉）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,8 +1960,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;List&lt;/f0&gt; styles can be applied directly to a list, or, more elegantly, &lt;t1/&gt;associated with one or more paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060558Z" creationid="zerng07" creationdate="20171224T060558Z">
-        <seg>&lt;f0&gt;清單&lt;/f0&gt;樣式可以直接套用到清單上，或者，可以更優雅地&lt;t1/&gt;讓它和一個或多個段落樣式產生關聯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160409Z" creationid="zerng07" creationdate="20171224T060558Z">
+        <seg>&lt;f0&gt;清單&lt;/f0&gt;樣式可以直接套用到清單上，或者，可以更優雅地讓它和一個或多個段落樣式產生關聯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6495,8 +6495,8 @@
       <tuv lang="EN">
         <seg>Common paragraph styles include those for body text &lt;t4/&gt;and headings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175411Z" creationid="zerng07" creationdate="20171223T175411Z">
-        <seg>常用的段落樣式包括內文&lt;t4/&gt;和標題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160342Z" creationid="zerng07" creationdate="20171223T175411Z">
+        <seg>常用的段落樣式包括內文和標題。</seg>
       </tuv>
     </tu>
     <tu>
