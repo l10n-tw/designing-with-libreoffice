@@ -8057,8 +8057,8 @@
       <tuv lang="EN">
         <seg>For example, after wrestling Heuristica to a setting of 12/16, I found it still too dark, so I set the Spacing to add .8 of a point more between characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T043143Z" creationid="Franklin Weng" creationdate="20180106T042927Z">
-        <seg>例如，把 Heuristica 設定為 12/16 之後，我發現它還是太暗，所以我把字元間距增加了 0.8 個點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135031Z" creationid="Franklin Weng" creationdate="20180106T042927Z">
+        <seg>例如，把Heuristica設定為12/16之後，我覺得還是太黑，所以我把字元之間的「間距」增加了0.8 個點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9788,8 +9788,8 @@
       <tuv lang="EN">
         <seg>If you really want to use a font with a dark color, try changing the width of characters from &lt;f0&gt;Position &gt; Scaling,&lt;/f0&gt; or the spacing between fonts from &lt;f1&gt;Position &gt; Spacing.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T042814Z" creationid="Franklin Weng" creationdate="20180106T042814Z">
-        <seg>如果你真的要用暗色系的字型，試著用&lt;f0&gt;「位置」分頁內的「縮放寬度」&lt;/f0&gt;來改變字元的寬度，或是&lt;f1&gt;「間距」&lt;/f1&gt;來改變字元的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134931Z" creationid="Franklin Weng" creationdate="20180106T042814Z">
+        <seg>如果你真的要用很黑的字型，試著用&lt;f0&gt;「位置」標籤頁下的「縮放寬度」&lt;/f0&gt;來改變字的寬度，或是&lt;f1&gt;「間距」&lt;/f1&gt;來改變字的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13425,8 +13425,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Should you encounter a modern font that remains very dark despite&lt;f0&gt; all adjustments,&lt;/f0&gt; that is probably a sign that it Is designed for headings or as a display font, and should not be used for body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134759Z" creationid="Franklin Weng" creationdate="20180106T042614Z">
-        <seg>當你遇到一個現代字型，不管再怎麼調整灰度都還是很黑，那可能本來就是設計用在標題使用，或是螢幕顯示用的，不應該用在內文中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134810Z" creationid="Franklin Weng" creationdate="20180106T042614Z">
+        <seg>當你遇到一個現代字型，不管再怎麼調整灰度都還是很黑，那可能本來就是設計用在標題上，或是螢幕顯示用的，不應該用在內文中。</seg>
       </tuv>
     </tu>
     <tu>
