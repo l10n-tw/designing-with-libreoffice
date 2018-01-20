@@ -1283,6 +1283,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Example: &lt;/f0&gt;Displaying one &lt;f1&gt;line&lt;/f1&gt; at a time</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T113027Z" creationid="Franklin Weng" creationdate="20180120T113027Z">
+        <seg>&lt;f0&gt;範例：&lt;/f0&gt;一次顯示&lt;f1&gt;一行&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Example&lt;/f0&gt;: &lt;f1&gt;a&lt;/f1&gt;pplying design</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T065110Z" creationid="Jeff Huang" creationdate="20180116T064836Z">
@@ -2962,6 +2970,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Rehearse Timings&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to help sync movies and sounds with your narration.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T112850Z" creationid="Franklin Weng" creationdate="20180120T112850Z">
+        <seg>&lt;f0&gt;用&lt;/f0&gt;選單上的「&lt;f1&gt;&lt;f2&gt;投影片放映 &gt; 排練計時&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;來同步播放影片與聲音的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Use &lt;/f0&gt;Impress’ &lt;f1&gt;Outline&lt;/f1&gt; tab &lt;f2&gt;as&lt;/f2&gt; the starting point for a slide show.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131118Z" creationid="Franklin Weng" creationdate="20180109T131118Z">
@@ -4039,11 +4055,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現狀修改</note>
       <tuv lang="EN">
         <seg>&lt;f4&gt;Do this&lt;/f4&gt; by right-clicking on the slide and filling in the field &lt;f5&gt;Slide Transition &gt; Advance Slide &gt; Automatically After.&lt;/f5&gt; In this circumstance, each slide needs its own transition setting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T112043Z" creationid="Franklin Weng" creationdate="20180120T112043Z">
-        <seg>&lt;f4&gt;設定時&lt;/f4&gt; by right-clicking on the slide and filling in the field &lt;f5&gt;Slide Transition &gt; Advance Slide &gt; Automatically After.&lt;/f5&gt; In this circumstance, each slide needs its own transition setting.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T112737Z" creationid="Franklin Weng" creationdate="20180120T112043Z">
+        <seg>&lt;f4&gt;要調整每張投影片的自動換頁時間，&lt;/f4&gt;在右方側邊欄的&lt;f5&gt;「投影片轉場」設定中，「下一張投影片」裡選擇「自動翻換每隔：」&lt;/f5&gt; 。在這種狀況下，每張投影片都要調整各自的轉場設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9386,6 +9403,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I remember, for example, an animation that showed how the links in chain mail slide into place so that each ring is connected to six other rings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T113956Z" creationid="Franklin Weng" creationdate="20180120T113956Z">
+        <seg>例如，我還記得有一個動畫，顯示連環信（要求你轉發給很多人否則會怎樣的那種信）裡的連結如何「滑進」適當的位置，讓每個環可以連到另外六個環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If adding these elements sounds too complex, don’t worry – few presentations use them, and you can deliver an effective slide show without them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T113013Z" creationid="Franklin Weng" creationdate="20180120T113013Z">
+        <seg>如果新增上面這些元素的做法聽起來太過複雜，其實不用擔心 – 簡報並不常用到這些，你也不見得要用這些效果來做簡報。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If designing your own templates is too large a step, start by using the wizards that LibreOffice installs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T090927Z" creationid="Franklin Weng" creationdate="20171215T125301Z">
@@ -11460,6 +11493,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T093715Z" creationid="Franklin Weng" creationdate="20171224T075018Z">
         <seg>許多GNU/Linux散布版的軟體庫中都有收錄&lt;f0&gt;一些&lt;/f0&gt;自由授權字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many animations are not worth the time they take to develop, although sometimes they can take the place of before and after pictures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T113244Z" creationid="Franklin Weng" creationdate="20180120T113244Z">
+        <seg>許多動畫效果其實都並不值得你花那麼多時間去調整，雖然的確有時候它們可以代替前後的圖片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14287,8 +14328,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That means that, if you want a continuous narration, you must break it down slide by slide, and set each slide to change only after the narration is complete.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T111825Z" creationid="Franklin Weng" creationdate="20180120T072009Z">
-        <seg>這表示說，如果你要敘說一個故事，你必須先把整個故事分解成一張一張投影片，然後整個故事完成後再每張投影片一張張去修改設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T112108Z" creationid="Franklin Weng" creationdate="20180120T072009Z">
+        <seg>這表示說，如果你要連續播放一段故事，你必須先把整個故事分解成一張一張投影片，然後整個故事完成後再每張投影片一張張去修改設定。</seg>
       </tuv>
     </tu>
     <tu>
