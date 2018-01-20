@@ -1475,6 +1475,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fontwork Alignment:&lt;/f0&gt; Align the entire sample, or each word.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T135923Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
+        <seg>&lt;f0&gt;美術字對齊：&lt;/f0&gt;對齊整個樣品，或是每個字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Same Letter Height&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;:&lt;/f3&gt; Toggles letters to same height or restores original letter heights.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T134748Z" creationid="Jeff Huang" creationdate="20180120T134748Z">
