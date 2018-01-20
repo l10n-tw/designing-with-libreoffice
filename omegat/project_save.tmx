@@ -1527,8 +1527,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, &lt;/f0&gt;obsessing over slide transition&lt;f1&gt;s&lt;/f1&gt; is not the best use of your time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T154805Z" creationid="Franklin Weng" creationdate="20180118T154805Z">
-        <seg>&lt;f0&gt;不過，&lt;/f0&gt;obsessing over slide transition&lt;f1&gt;s&lt;/f1&gt; is not the best use of your time.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T062555Z" creationid="Franklin Weng" creationdate="20180118T154805Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;太沉迷於轉場效果也是很浪費時間的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2635,8 +2635,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for Presentation styles&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;sets how content fits into Impress’ pre-existing frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T034348Z" creationid="Franklin Weng" creationdate="20180118T034348Z">
-        <seg>&lt;f3&gt;簡報樣式&lt;/f3&gt;中的「&lt;f2&gt;文字&lt;/f2&gt;」頁籤可以設定文字內容跟預先定義好外框大小之間的關係。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T034348Z">
+        <seg>&lt;f3&gt;簡報樣式&lt;/f3&gt;中的「&lt;f2&gt;文字&lt;/f2&gt;」標籤頁可以設定文字內容跟預先定義好外框大小之間的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3341,6 +3341,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In practice, however, the last six have far too many frames to be useful except for handouts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T064700Z" creationid="Franklin Weng" creationdate="20180120T063807Z">
+        <seg>&lt;f1&gt;然而，實際上，超過四個以上外框的版面配置並不太實用，因為外框太多了；除非你是用來打發時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In this context, “color” does not refer to whether the text or the paper is black or green.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T162813Z" creationid="Franklin Weng" creationdate="20180105T130753Z">
@@ -3711,6 +3719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Few ever notice the visual slide transitions – t&lt;/f2&gt;he audience will judge your talk on its content and its delivery.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T062659Z" creationid="Franklin Weng" creationdate="20180120T062659Z">
+        <seg>&lt;f2&gt;很少人真的會去注意轉場的視覺效果 – &lt;/f2&gt;聽眾們還是依內容與表達方式來評斷你的演講。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;For a 12 point font, that average is just over 14 points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T172904Z" creationid="Franklin Weng" creationdate="20180105T135701Z">
@@ -3999,6 +4015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Whenever possible,&lt;/f3&gt; choose a transition and &lt;f4&gt;click&lt;/f4&gt; the &lt;f5&gt;Apply to All Slides&lt;/f5&gt; button, and move on as quickly as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T062930Z" creationid="Franklin Weng" creationdate="20180120T062930Z">
+        <seg>&lt;f3&gt;只要有時間，&lt;/f3&gt;選擇一個轉場特效然後&lt;f4&gt;點按&lt;/f4&gt;下方的「&lt;f5&gt;將轉場套用到所有投影片&lt;/f5&gt;」按鍵，然後試著快速一張張播放看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;And having spent the time to set up styles, you would prefer not to do the same work all over again for your next document, so templates also become an important part of your work flow.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165848Z" creationid="zerng07" creationdate="20170817T155039Z">
@@ -4081,8 +4105,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Customize&lt;/f7&gt; tab allows adjustment of spacing or the &lt;f8&gt;selection &lt;/f8&gt;of custom bullets and numbers or larger-sized ones for special circumstances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T024153Z" creationid="Franklin Weng" creationdate="20180118T024153Z">
-        <seg>「&lt;f7&gt;自訂&lt;/f7&gt;」頁籤用在特別狀況下，可以讓你&lt;f8&gt;選擇&lt;/f8&gt;使用的項目符號與編號，相對大小與間距等。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T024153Z">
+        <seg>「&lt;f7&gt;自訂&lt;/f7&gt;」標籤頁用在特別狀況下，可以讓你&lt;f8&gt;選擇&lt;/f8&gt;使用的項目符號與編號，相對大小與間距等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5460,8 +5484,8 @@
       <tuv lang="EN">
         <seg>Because backgrounds vary more in slide shows than in text documents, experiment with the colors on the &lt;f0&gt;Font Effects&lt;/f0&gt; tab to get the one that stands out most from the background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120842Z" creationid="Franklin Weng" creationdate="20180117T120842Z">
-        <seg>簡報的背景會比文字文件更多變化，所以要用「&lt;f0&gt;字型效果&lt;/f0&gt;」頁籤中的色彩去實驗，看看哪一種色彩跟簡報的背景的對比夠強，易於閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180117T120842Z">
+        <seg>簡報的背景會比文字文件更多變化，所以要用「&lt;f0&gt;字型效果&lt;/f0&gt;」標籤頁中的色彩去實驗，看看哪一種色彩跟簡報的背景的對比夠強，易於閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7263,6 +7287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Elaborate transitions are rarely worth the effort to pick them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063049Z" creationid="Franklin Weng" creationdate="20180120T063049Z">
+        <seg>太密的轉場特效通常不值得花那個功夫去選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding simplifies file-sharing, making it unnecessary for recipients to have the document’s fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123713Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
@@ -8625,8 +8657,8 @@
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;if you decide that you do have a reason for &lt;/f0&gt;more complex &lt;f1&gt;layouts&lt;/f1&gt;, you can use the &lt;f2&gt;Tab&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; tab for a&lt;f5&gt; &lt;/f5&gt;Presentation style, or &lt;f6&gt;else &lt;/f6&gt;a table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142607Z" creationid="Franklin Weng" creationdate="20180118T142607Z">
-        <seg>不過，&lt;f0&gt;如果你有個好理由&lt;/f0&gt;，決定用&lt;f1&gt;比較複雜&lt;/f1&gt;的方式來安排佈局，你可以用「簡報樣式」中的「&lt;f2&gt;定位點&lt;/f2&gt;」頁籤來做，&lt;f6&gt;或是&lt;/f6&gt;用表格來定位。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063403Z" creationid="Franklin Weng" creationdate="20180118T142607Z">
+        <seg>不過，&lt;f0&gt;如果你有個好理由&lt;/f0&gt;，決定用&lt;f1&gt;比較複雜&lt;/f1&gt;的方式來安排版面配置，你可以用「簡報樣式」中的「&lt;f2&gt;定位點&lt;/f2&gt;」標籤頁來做，&lt;f6&gt;或是&lt;/f6&gt;用表格來定位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9572,8 +9604,8 @@
       <tuv lang="EN">
         <seg>If you do not want lists, set the &lt;f0&gt;Number&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab to &lt;f2&gt;None&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T030504Z" creationid="Franklin Weng" creationdate="20180118T024450Z">
-        <seg>如果你不想用清單，就到「&lt;f1&gt;自訂&lt;/f1&gt;」頁籤中，把「&lt;f0&gt;數字&lt;/f0&gt;」那邊的下拉式選單中選擇「&lt;f2&gt;沒有&lt;/f2&gt;」即可。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T024450Z">
+        <seg>如果你不想用清單，就到「&lt;f1&gt;自訂&lt;/f1&gt;」標籤頁中，把「&lt;f0&gt;數字&lt;/f0&gt;」那邊的下拉式選單中選擇「&lt;f2&gt;沒有&lt;/f2&gt;」即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11215,8 +11247,8 @@
       <tuv lang="EN">
         <seg>Line spacing, indentati&lt;f0&gt;o&lt;/f0&gt;ns, and spacing above and below lines are all set on the &lt;f1&gt;Indents &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Spacing &lt;/f4&gt;tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T034007Z" creationid="Franklin Weng" creationdate="20180118T034007Z">
-        <seg>行距、縮排與間距都在「&lt;f1&gt;縮排與間距&lt;/f1&gt;」頁籤中。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T034007Z">
+        <seg>行距、縮排與間距都在「&lt;f1&gt;縮排與間距&lt;/f1&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12037,6 +12069,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現狀修改：現有 16 種</note>
+      <tuv lang="EN">
+        <seg>On the &lt;f1&gt;sidebar&lt;/f1&gt;, you can select &lt;f2&gt;from &lt;/f2&gt;twelve different layouts, each with frames for different combinations of text and objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063926Z" creationid="Franklin Weng" creationdate="20180120T063550Z">
+        <seg>在&lt;f1&gt;側邊欄&lt;/f1&gt;中，你可以&lt;f2&gt;從&lt;/f2&gt;16 種不同的版面配置中選擇一種，每一種都有不同的外框、文字與物件的組合。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>On the one hand, a single-color background risks looking amateurish.</seg>
       </tuv>
@@ -12613,8 +12654,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Presentation styles include an &lt;f0&gt;Alignment&lt;/f0&gt; tab, so those who &lt;f1&gt;want j&lt;/f1&gt;ustified &lt;f2&gt;text in&lt;/f2&gt; slides can have them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033431Z" creationid="Franklin Weng" creationdate="20180118T033326Z">
-        <seg>簡報的樣式中有一個「&lt;f0&gt;對齊&lt;/f0&gt;」頁籤，想要在投影片中&lt;f2&gt;對齊文字&lt;/f2&gt;時可以使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T033326Z">
+        <seg>簡報的樣式中有一個「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁，想要在投影片中&lt;f2&gt;對齊文字&lt;/f2&gt;時可以使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13351,6 +13392,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting slide layouts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063210Z" creationid="Franklin Weng" creationdate="20180120T063059Z">
+        <seg>設定投影片版面配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting the background to be partly transparent can &lt;t1/&gt;often make a major difference.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090305Z" creationid="Franklin Weng" creationdate="20180115T090305Z">
@@ -13547,6 +13596,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T151303Z" creationid="Franklin Weng" creationdate="20180103T135212Z">
         <seg>粗平襯線體襯線體最早在&lt;f0&gt;十九世紀初期&lt;/f0&gt;出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide layouts are &lt;f0&gt;applied to&lt;/f0&gt; individual slides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063138Z" creationid="Franklin Weng" creationdate="20180120T063138Z">
+        <seg>投影片版面配置是&lt;f0&gt;套用在&lt;/f0&gt;個別投影片上的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14951,6 +15008,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145733Z" creationid="Franklin Weng" creationdate="20171212T115935Z">
         <seg>這個標籤頁的呈現配置和LibreOffice 4.3以前不同，之前的範本是列在視窗的最下方。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layouts allow you to place text and objects with &lt;f0&gt;a&lt;/f0&gt; degree of symmetry without requiring much time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063651Z" creationid="Franklin Weng" creationdate="20180120T063651Z">
+        <seg>版面配置讓你可以把文字與物件在一定程度上對稱地放置，不需要花太多時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16987,8 +17052,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When using Impress’ &lt;f0&gt;Table Design&lt;/f0&gt; tab, a plain gray table is the least garish choice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144338Z" creationid="Franklin Weng" creationdate="20180118T144338Z">
-        <seg>Impress 的「&lt;f0&gt;表格設計&lt;/f0&gt;」頁籤中的灰色的表格，是所有選擇中最樸實好用的。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T144338Z">
+        <seg>Impress 的「&lt;f0&gt;表格設計&lt;/f0&gt;」標籤頁中的灰色的表格，是所有選擇中最樸實好用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,8 +17068,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you add a table, the &lt;f0&gt;Properties&lt;/f0&gt; pane adds &lt;f1&gt;a&lt;/f1&gt; &lt;f2&gt;Table Design&lt;/f2&gt; &lt;f3&gt;tab.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;Many of the check boxes under &lt;f5&gt;Table Design&lt;/f5&gt; can be useful for formatting, but, unfortunately, the default colors are unlikely to &lt;f6&gt;match&lt;/f6&gt; your slide show.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T143457Z" creationid="Franklin Weng" creationdate="20180118T143457Z">
-        <seg>在新增表格之後，在側邊欄的「&lt;f0&gt;屬性&lt;/f0&gt;」中會多一個「&lt;f2&gt;表格設計&lt;/f2&gt;」&lt;f3&gt;頁籤&lt;/f3&gt;。在這「&lt;f5&gt;表格設計&lt;/f5&gt;」裡有許多的勾選框，可以用來做格式設定。不過可惜的是，預設的色彩多半&lt;f6&gt;不會符合&lt;/f6&gt;你的簡報設計。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T143457Z">
+        <seg>在新增表格之後，在側邊欄的「&lt;f0&gt;屬性&lt;/f0&gt;」中會多一個「&lt;f2&gt;表格設計&lt;/f2&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;。在這「&lt;f5&gt;表格設計&lt;/f5&gt;」裡有許多的勾選框，可以用來做格式設定。不過可惜的是，預設的色彩多半&lt;f6&gt;不會符合&lt;/f6&gt;你的簡報設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17534,8 +17599,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can also use the tools &lt;f0&gt;o&lt;/f0&gt;n &lt;f1&gt;the&lt;/f1&gt; &lt;f2&gt;Background&lt;/f2&gt; tab to reduce an image’s size, position it, or offset it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T051913Z" creationid="Franklin Weng" creationdate="20180116T051913Z">
-        <seg>你也可以用&lt;f2&gt;「背景」&lt;/f2&gt;頁籤裡的工具來調整影像的大小、位置與位移。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180116T051913Z">
+        <seg>你也可以用&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁裡的工具來調整影像的大小、位置與位移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17574,8 +17639,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can customize them using the &lt;f0&gt;Bullets&lt;/f0&gt;,&lt;f1&gt; Numbering Type&lt;/f1&gt;, &lt;f2&gt;Image&lt;/f2&gt;, and &lt;f3&gt;Customize&lt;/f3&gt; tabs, but, as with list styles &lt;f4&gt;in Writer&lt;/f4&gt;, avoid the retro-styled &lt;f5&gt;Image&lt;/f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T023912Z" creationid="Franklin Weng" creationdate="20180118T023912Z">
-        <seg>你可以在編輯樣式的視窗中，用「&lt;f0&gt;項目符號&lt;/f0&gt;」、「&lt;f1&gt;編號&lt;/f1&gt;」、「&lt;f2&gt;影像&lt;/f2&gt;」與「&lt;f3&gt;自訂&lt;/f3&gt;」等頁籤來修改。但是就跟在 &lt;f4&gt;Writer&lt;/f4&gt; 裡的清單樣式一樣，盡量避免使用老式的「&lt;f5&gt;影像&lt;/f5&gt;」樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T023912Z">
+        <seg>你可以在編輯樣式的視窗中，用「&lt;f0&gt;項目符號&lt;/f0&gt;」、「&lt;f1&gt;編號&lt;/f1&gt;」、「&lt;f2&gt;影像&lt;/f2&gt;」與「&lt;f3&gt;自訂&lt;/f3&gt;」等標籤頁來修改。但是就跟在 &lt;f4&gt;Writer&lt;/f4&gt; 裡的清單樣式一樣，盡量避免使用老式的「&lt;f5&gt;影像&lt;/f5&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
