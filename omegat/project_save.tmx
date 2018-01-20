@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Many&lt;/f0&gt; versions of LibreOffice have a console built in that let you &lt;f1&gt;read the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Notes&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab &lt;/f4&gt;as the slide show runs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121345Z" creationid="Franklin Weng" creationdate="20180120T121345Z">
+        <seg>在&lt;f0&gt;許多&lt;/f0&gt;版本的 LibreOffice 都有內建一個功能，讓你在簡報期間可以看你做的備註。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Middle&lt;/f0&gt;: Manufactured small capitals for the same font.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065916Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
@@ -3872,6 +3880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Make sure that any animations you add are not just bells and whistles, but illustrate something that cannot be easily shown any other way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120819Z" creationid="Franklin Weng" creationdate="20180120T120819Z">
+        <seg>&lt;f2&gt;要記住，加入任何動畫的目的不是單純點綴裝飾而已，而是要傳達出用其他方式不容易輕易傳達的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Many&lt;/f2&gt; are an exception to the conventional wisdom that serif fonts cannot be used online, &lt;f3&gt;and are often highly readable online or in slide shows.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T152309Z" creationid="Franklin Weng" creationdate="20180103T135638Z">
@@ -4157,6 +4173,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150120Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
         <seg>&lt;f5&gt;不過，&lt;/f5&gt;&lt;f6&gt;「&lt;f7&gt;屬性&lt;/f7&gt;&lt;/f6&gt;」&lt;f8&gt;視窗中依然會列出最初使用的範本，即使文件已經脫勾也一樣。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;If yours does not, consider installing &lt;/f5&gt;the Presenter Console extension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121426Z" creationid="Franklin Weng" creationdate="20180120T121426Z">
+        <seg>&lt;f5&gt;如果你用的版本沒有這個功能，你可以考慮安裝&lt;/f5&gt; Presenter Console 擴充套件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4551,6 +4575,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134003Z" creationid="Franklin Weng" creationdate="20180106T134003Z">
         <seg>一張「摘要式」投影片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A slide that uses animation to reveal a question in one line, then the answer &lt;f0&gt;in the second line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121109Z" creationid="Franklin Weng" creationdate="20180120T121109Z">
+        <seg>利用動畫將問題顯示在一行，然後&lt;f0&gt;答案顯示在另一行的投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,6 +7345,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During the presentation, each line will be hidden until you click on it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121126Z" creationid="Franklin Weng" creationdate="20180120T121126Z">
+        <seg>在簡報期間，每一行都會等你點按時才會出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>EB Garamond</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071607Z" creationid="Jeff Huang" creationdate="20180115T071607Z">
@@ -8710,6 +8750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T072657Z" creationid="Jeff Huang" creationdate="20171213T023745Z">
         <seg>圖片、表格、圖表、其他物件等，都應該要盡可能靠近它們所指涉的文字旁邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Handouts are generally copies of the slide show printed out to give to the audience.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121852Z" creationid="Franklin Weng" creationdate="20180120T121852Z">
+        <seg>所謂的講義通常就是把投影片印出來給聽眾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10577,6 +10625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In theory, presenters can prepare any sort of handout, but, typically, unless you do a detailed summary presentation, handout&lt;f0&gt;s&lt;/f0&gt; usually give only the vaguest sense of your talk and are only minimally useful.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122203Z" creationid="Franklin Weng" creationdate="20180120T122203Z">
+        <seg>理論上，演講者可以準備任何形式的講義。不過除非你做的是一份詳盡的摘要式簡報，不然講義通常只會給大家含糊不清的概念，對演講沒什麼幫助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In theory, you could use quarter-line spacing, or an even smaller fraction, but that is harder to track.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150711Z" creationid="Franklin Weng" creationdate="20180105T151129Z">
@@ -12315,6 +12371,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once part of any well-organized slide presentation, they have been largely replaced in recent years by putting the entire presentation online.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122022Z" creationid="Franklin Weng" creationdate="20180120T122022Z">
+        <seg>講義曾經是簡報的一部份，但是近年來多半改成把投影片檔案直接上傳到網路上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you are used to the new way of thinking, you are likely to have far fewer false starts than if you design manually – and, probably, wish that Chart was designed for styles, too.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T061107Z" creationid="Jeff Huang" creationdate="20180115T061107Z">
@@ -12848,6 +12912,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preparing notes and handouts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121226Z" creationid="Franklin Weng" creationdate="20180120T121226Z">
+        <seg>準備備註與講義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Presentation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T082203Z" creationid="zerng07" creationdate="20171224T082203Z">
@@ -13069,6 +13141,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T031859Z" creationid="Jeff Huang" creationdate="20180118T031859Z">
         <seg>記得要限制字型數的建議嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat steps 1–&lt;f0&gt;4&lt;/f0&gt; for the &lt;f1&gt;paragraph for the answer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120920Z" creationid="Franklin Weng" creationdate="20180120T120920Z">
+        <seg>&lt;f1&gt;在答案的部份，可以重複步驟 1–&lt;f0&gt;4&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14515,6 +14595,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132103Z" creationid="Jeff Huang" creationdate="20180118T132103Z">
         <seg>&lt;f0&gt;曲線&lt;/f0&gt;按鈕可被用於繪製任意形狀，通常（但並不總是）會有曲線的邊緣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀修改，需要重新截圖</note>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Custom Animation &lt;/f0&gt;pane &lt;f1&gt;and&lt;/f1&gt; its dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120709Z" creationid="Franklin Weng" creationdate="20180120T120709Z">
+        <seg>動畫面板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17045,6 +17134,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually, animations are particularly useful when you need to show motion.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120846Z" creationid="Franklin Weng" creationdate="20180120T120846Z">
+        <seg>通常，在你需要顯示動作時，動畫效果會特別有用。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Variants may have names like Black, &lt;f0&gt;Semi-bold, &lt;/f0&gt;Demi-bold, &lt;f1&gt;Extra, &lt;/f1&gt;or Heavy, &lt;f2&gt;sometimes &lt;/f2&gt;each with a different thickness of line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125124Z" creationid="Franklin Weng" creationdate="20171225T133106Z">
@@ -17315,6 +17412,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113745Z" creationid="zerng07" creationdate="20171219T113745Z">
         <seg>當你修改一個&lt;f0&gt;段落樣式時，&lt;/f0&gt;你也同時修改同一份文件中&lt;f1&gt;所有使用相同樣式&lt;/f1&gt;的其他地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you &lt;f0&gt;present, move the mouse cursor to the start of a line and &lt;/f0&gt;click the mouse &lt;f1&gt;once &lt;/f1&gt;to reveal &lt;f2&gt;the&lt;/f2&gt; line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121028Z" creationid="Franklin Weng" creationdate="20180120T121028Z">
+        <seg>在&lt;f0&gt;簡報展示時&lt;/f0&gt;，點按&lt;f1&gt;一下&lt;/f1&gt;滑鼠就會出現一行。</seg>
       </tuv>
     </tu>
     <tu>
