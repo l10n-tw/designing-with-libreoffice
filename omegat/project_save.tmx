@@ -3076,8 +3076,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; the Fontwork Gallery</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T125714Z" creationid="Jeff Huang" creationdate="20180120T125714Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;美術字畫廊</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T130309Z" creationid="Jeff Huang" creationdate="20180120T125714Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;美術字圖庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -15070,6 +15070,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T034100Z" creationid="Jeff Huang" creationdate="20180118T034100Z">
         <seg>繪圖工具列在&lt;f0&gt;其圖示中&lt;/f0&gt;包含了豐富的圖形元素或基本繪圖形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Fontwork Gallery is available from the Drawing tool bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T130519Z" creationid="Jeff Huang" creationdate="20180120T130519Z">
+        <seg>美術字圖庫可從繪圖工具列中使用。</seg>
       </tuv>
     </tu>
     <tu>
