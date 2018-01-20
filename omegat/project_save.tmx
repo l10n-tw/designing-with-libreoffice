@@ -1475,6 +1475,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fontwork Same Letter Height&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;:&lt;/f3&gt; Toggles letters to same height or restores original letter heights.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T134748Z" creationid="Jeff Huang" creationdate="20180120T134748Z">
+        <seg>&lt;f0&gt;美術字相同字母高度&lt;/f0&gt;：切換字母到相同高度或恢復原始字母高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Shape:&lt;/f0&gt; Choose the shape of the baseline.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T133427Z" creationid="Jeff Huang" creationdate="20180120T133427Z">
