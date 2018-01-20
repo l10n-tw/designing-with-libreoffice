@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;In the &lt;f1&gt;Custom Animation &lt;/f1&gt;pane, &lt;f2&gt;click&lt;/f2&gt; the &lt;f3&gt;Plus&lt;/f3&gt; button and select&lt;f4&gt; Entran&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;c&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;e &gt; Appear &lt;/f7&gt;from the dialog box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120432Z" creationid="Franklin Weng" creationdate="20180120T120432Z">
+        <seg>&lt;/f0&gt;在右方的&lt;f1&gt;動畫面板&lt;/f1&gt;上，&lt;f2&gt;點按&lt;/f2&gt;「&lt;f3&gt;+&lt;/f3&gt;」鍵，然後在下面的「效果」選擇「&lt;f4&gt;現身&lt;/f4&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Knowing how to use styles and templates is the equivalent of being handed the key to that coasting car and shown the gas pedal – suddenly, you can take control of the vehicle, instead of getting by on clumsy makeshifts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165122Z" creationid="zerng07" creationdate="20170817T153543Z">
@@ -2214,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Place the cursor at the start of the first line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120246Z" creationid="Franklin Weng" creationdate="20180120T120246Z">
+        <seg>&lt;f0&gt;把游標放在第一行的開頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T145913Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
@@ -3124,6 +3140,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can adjust animations from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Direction&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Speed&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields, but in this case you probably don’t need to.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120630Z" creationid="Franklin Weng" creationdate="20180120T120630Z">
+        <seg>&lt;f0&gt;你可以調整動畫出現的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;方向&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;速度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，不過在這個例子中並不需要。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Glue Point&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button on the Drawing tool bar.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021821Z" creationid="Jeff Huang" creationdate="20171229T021821Z">
@@ -4028,6 +4052,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T182804Z" creationid="zerng07" creationdate="20170817T144033Z">
         <seg>&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;SIL&lt;/f4&gt;開放字型授權 (OFL)&lt;f5&gt; 是最廣為使用的自由字型授權，自由字型之所以能有今日的光景皆歸功於它。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Custom Animation&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; pane opens.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120228Z" creationid="Franklin Weng" creationdate="20180120T120228Z">
+        <seg>&lt;f3&gt;右方會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;動畫&lt;/f5&gt;&lt;/f4&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6375,6 +6407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that &lt;f0&gt;Effect Appear &gt; Start &lt;/f0&gt;on the&lt;f1&gt; Custom Animation&lt;/f1&gt; pane is set to &lt;f2&gt;On Click.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120515Z" creationid="Franklin Weng" creationdate="20180120T120515Z">
+        <seg>在下面的「&lt;f0&gt;開始&lt;/f0&gt;」選單中選擇「&lt;f2&gt;點按時&lt;/f2&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the attachments in email&lt;f0&gt;s that you have sent.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042750Z" creationid="Franklin Weng" creationdate="20171213T124353Z">
@@ -7390,6 +7430,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123713Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
         <seg>嵌入字型確實可以輕鬆解決分享檔案時收件者沒有所用字型的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the question or vocabulary item on &lt;f0&gt;the first line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T115732Z" creationid="Franklin Weng" creationdate="20180120T115732Z">
+        <seg>把問題或字彙等放在&lt;f0&gt;第一行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13311,6 +13359,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>依現狀修改</note>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Custom Animation&lt;/f0&gt; from the&lt;f1&gt; Slide Show&lt;/f1&gt; men&lt;f2&gt;u&lt;/f2&gt; or sidebar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120146Z" creationid="Franklin Weng" creationdate="20180120T120146Z">
+        <seg>在右方側邊欄按下「&lt;f0&gt;動畫&lt;/f0&gt;」圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4.4 已經將「樣式和格式」從「格式」中獨立出來到「樣式」選單列項目中，所以這裡改為「樣式 &gt; 樣式和格式設定」。</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting&lt;/f0&gt; &lt;f1&gt;from the menu bar.&lt;/f1&gt;</seg>
@@ -13696,6 +13753,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162832Z" creationid="zerng07" creationdate="20171227T162832Z">
         <seg>因為樣式放在&lt;f2&gt;不同的&lt;/f2&gt;類別中，&lt;f3&gt;無論是你或LibreOffice都不會因此搞混。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since only two items are on the slide, you can make the font size much larger than usual.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T115756Z" creationid="Franklin Weng" creationdate="20180120T115756Z">
+        <seg>因為投影片上只有兩個項目，你可以把字盡量放大。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16214,6 +16279,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120118Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
         <seg>要調整連接符，請到圖樣的&lt;f0&gt;連接符&lt;/f0&gt;標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To advance the slide show one line at a time:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T115708Z" creationid="Franklin Weng" creationdate="20180120T115708Z">
+        <seg>要讓投影片一次放一行的方式：</seg>
       </tuv>
     </tu>
     <tu>
