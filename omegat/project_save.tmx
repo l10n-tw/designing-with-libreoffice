@@ -3156,6 +3156,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can use Drawing Object styles &lt;/f0&gt;to add your own &lt;f1&gt;unique &lt;/f1&gt;designs, but selecting from the &lt;f2&gt;pre&lt;/f2&gt;-defined layouts is &lt;f3&gt;almost always &lt;/f3&gt;a better use of your time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065113Z" creationid="Franklin Weng" creationdate="20180120T065113Z">
+        <seg>&lt;f0&gt;你可以用「繪圖樣式」&lt;/f0&gt;來新增你自己&lt;f1&gt;獨特&lt;/f1&gt;的設計。不過從&lt;f2&gt;預先&lt;/f2&gt;幫你做好的這些版面配置中選擇是&lt;f3&gt;最省時間也最有效的&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can’t do anything manually that you can’t do with styles much more easily.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031545Z" creationid="zerng07" creationdate="20171219T031300Z">
@@ -3340,6 +3348,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現況改寫</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;In practice, however, the last six have far too many frames to be useful except for handouts.</seg>
       </tuv>
@@ -4617,10 +4626,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding other elements</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065220Z" creationid="Franklin Weng" creationdate="20180120T065220Z">
+        <seg>新增其他元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding tables can be laborious in Impress, so add a slide with a table in the colors you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T133630Z" creationid="Franklin Weng" creationdate="20180114T133630Z">
         <seg>在 Impress 中加入表格有時是很費力的，所以可以加一張投影片放表格，並用顏色突顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional &lt;f0&gt;images&lt;/f0&gt; (&lt;f1&gt;Insert &gt; Image&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065428Z" creationid="Franklin Weng" creationdate="20180120T065428Z">
+        <seg>新的&lt;f0&gt;影像&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5334,6 +5359,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151855Z" creationid="Franklin Weng" creationdate="20171212T124659Z">
         <seg>無論如何，試圖交換所使用的範本很有機會造成文件（還有你的心靈）損毀，所以在正式使用前請先再製一份副本，接著拿這份副本去測試這個擴充套件，直到你確信運作上沒問題才做。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At best, they make your slides hard to read.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T064740Z" creationid="Franklin Weng" creationdate="20180120T064740Z">
+        <seg>充其量這些版面配置只會讓你的投影片更難閱讀而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9200,6 +9233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can also add:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065348Z" creationid="Franklin Weng" creationdate="20180120T065348Z">
+        <seg>不過，你也可以加上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can also download fonts for print use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T133412Z" creationid="zerng07" creationdate="20170817T133412Z">
@@ -9959,6 +10000,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092504Z" creationid="Franklin Weng" creationdate="20180116T092504Z">
         <seg>Impress 有兩種字型的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress slide shows are primarily words and &lt;f0&gt;images&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065433Z" creationid="Franklin Weng" creationdate="20180120T065341Z">
+        <seg>Impress 簡報主要的元素就是文字與&lt;f0&gt;影像&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,6 +11963,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125258Z" creationid="Franklin Weng" creationdate="20171212T125258Z">
         <seg>OOo 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Objects (&lt;f0&gt;Insert &gt; Object&lt;/f0&gt;): A separate LibreOffice file that can be updated as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065516Z" creationid="Franklin Weng" creationdate="20180120T065516Z">
+        <seg>物件（「&lt;f0&gt;插入 &gt; 物件&lt;/f0&gt;」）：另一個 LibreOffice 的檔案，在需要時可以更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14978,6 +15035,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The frames on slide layouts can be adjusted by dragging on their edges with the mouse.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T064847Z" creationid="Franklin Weng" creationdate="20180120T064847Z">
+        <seg>投影片版面配置裡的外框，可以用滑鼠拖曳它們的邊緣或角落來調整大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The headings in this chapter will give you a checklist of steps to follow.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
@@ -17259,6 +17324,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While you can design your own slide layouts, there are few reasons not to stay with the &lt;f0&gt;default ones.&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065307Z" creationid="Franklin Weng" creationdate="20180120T065212Z">
+        <seg>雖然你也可以自己設計投影片的版面配置，但實際上沒有太多理由不去使用這些&lt;f0&gt;預設的配置&lt;/f0&gt;...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whole books are written about design, and perfecting &lt;f0&gt;your expertise &lt;/f0&gt;can be a life-long study.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032621Z" creationid="Jeff Huang" creationdate="20180116T032621Z">
@@ -17569,6 +17642,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021717Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
         <seg>你可以透過選取連接符並拖曳其把手來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also delete (but not add) frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T064910Z" creationid="Franklin Weng" creationdate="20180120T064910Z">
+        <seg>你也可以刪除（但無法新增）這些外框。</seg>
       </tuv>
     </tu>
     <tu>
