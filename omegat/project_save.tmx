@@ -1474,6 +1474,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Fontwork Shape:&lt;/f0&gt; Choose the shape of the baseline.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T133427Z" creationid="Jeff Huang" creationdate="20180120T133427Z">
+        <seg>&lt;f0&gt;美術字形狀：&lt;/f0&gt;選擇基線的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
@@ -15438,6 +15446,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131937Z" creationid="Jeff Huang" creationdate="20180113T131937Z">
         <seg>可用的圖表有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The baseline for text is the imaginary line on which the bottom of an “m” or “n” rests upon.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T133708Z" creationid="Jeff Huang" creationdate="20180120T133708Z">
+        <seg>文字的基線就是“m”或“n”的底部所依賴的假想線。</seg>
       </tuv>
     </tu>
     <tu>
