@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Type &gt; Auto&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; sets the time between repetitions of the presentation when it runs unattended.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123617Z" creationid="Franklin Weng" creationdate="20180120T123617Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;簡報模式 &gt; 於後面時間後循環播放&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;是設定重覆循環播放簡報間的時間間隔。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;View&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Clip Art &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Gallery &lt;/f5&gt;&lt;f6&gt;(also found in the sidebar as &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Gallery&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;) is a convenient place to store these libraries.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093549Z" creationid="Jeff Huang" creationdate="20180118T093549Z">
@@ -1142,6 +1150,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T013858Z" creationid="Jeff Huang" creationdate="20171229T013858Z">
         <seg>&lt;f0&gt;連接符將形狀相連。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Create custom slides shows from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Custom Slide Show.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123302Z" creationid="Franklin Weng" creationdate="20180120T123302Z">
+        <seg>&lt;f0&gt;你可以透過選單的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;投影片放映 &gt; 自訂投影片放映&lt;/f2&gt;&lt;/f1&gt;」功能來做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2042,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065916Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
         <seg>&lt;f0&gt;中間&lt;/f0&gt;：相同字型，不過是電腦仿造的小型大寫字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Most of the options in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dialog window are obvious from their description.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122936Z" creationid="Franklin Weng" creationdate="20180120T122936Z">
+        <seg>&lt;f0&gt;在「&lt;f2&gt;投影片放映&lt;/f2&gt;」&lt;f3&gt;視窗中大部份的選項都很直覺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3030,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
         <seg>&lt;f0&gt;不像 Writer 中的樣式，圖形樣式可以僅在形狀加入到文件後才套用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Until you create a custom slide show, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Use Custom Slide Show&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option is not active.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123433Z" creationid="Franklin Weng" creationdate="20180120T123433Z">
+        <seg>&lt;f0&gt;你要先到「自訂投影片放映」那邊建立放映順序，「範圍」這裡的「&lt;f2&gt;自訂投影片放映&lt;/f2&gt;」&lt;f3&gt;才會亮起來讓你可以選擇。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4048,6 +4080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Put the information in bullet or number lists to keep yourself from reading the notes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122403Z" creationid="Franklin Weng" creationdate="20180120T122403Z">
+        <seg>&lt;f3&gt;將這些資訊用條列或編號清單列出來，方便閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Right-click on a selected frame for the manual equivalent.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175004Z" creationid="zerng07" creationdate="20171224T043559Z">
@@ -4205,6 +4245,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140035Z" creationid="Franklin Weng" creationdate="20171223T124748Z">
         <seg>&lt;f5&gt;此外，同一份文件也不能套用多份範本。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;Within the same presentation, you can store several different shows, each for a different audience or circumstance.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123214Z" creationid="Franklin Weng" creationdate="20180120T123214Z">
+        <seg>&lt;f5&gt;在同一份簡報中，你可以儲存幾種不同的展演方式，針對不同的聽眾或情境。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9275,6 +9323,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the implications of some are not always clear:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123017Z" creationid="Franklin Weng" creationdate="20180120T123017Z">
+        <seg>不過，有些選項字面含意仍然不是很清楚：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the last edit before you &lt;f2&gt;finish&lt;/f2&gt; a document is also an important part of the &lt;f3&gt;design and composition &lt;/f3&gt;process&lt;f4&gt;es&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091645Z" creationid="Jeff Huang" creationdate="20171111T023602Z">
@@ -9805,6 +9861,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do decide to use handouts and cannot print them in color, check &lt;f0&gt;their&lt;/f0&gt; appearance &lt;f1&gt;i&lt;/f1&gt;n black and white &lt;f2&gt;for contrast&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122243Z" creationid="Franklin Weng" creationdate="20180120T122243Z">
+        <seg>如果你決定要用講義，但是無法用彩色列印，記得要檢查你的簡報在黑白模式下是否可讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111121Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
@@ -10178,6 +10242,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065433Z" creationid="Franklin Weng" creationdate="20180120T065341Z">
         <seg>Impress 簡報主要的元素就是文字與&lt;f0&gt;影像&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress’ &lt;f0&gt;Note&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt; tab is for information you want to remember while presenting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122336Z" creationid="Franklin Weng" creationdate="20180120T122336Z">
+        <seg>Impress 的&lt;f0&gt;備註&lt;/f0&gt;標籤頁是存放你在簡報時要記住的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,6 +11532,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132701Z" creationid="Franklin Weng" creationdate="20171213T132701Z">
         <seg>就跟樣式名稱一樣，範本名稱也最好清楚描述使用目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>不確定「隱藏字型效果」是指什麼，先 skip</note>
+      <tuv lang="EN">
+        <seg>Like the &lt;f0&gt;Hide Font &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ffect,&lt;/f3&gt; the &lt;f4&gt;Range&lt;/f4&gt; pane is useful for single-sourcing similar presentations in the same file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123138Z" creationid="Franklin Weng" creationdate="20180120T123138Z">
+        <seg>「範圍」選項可以用在同一份檔案，使用類似但是不同的簡報方式時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13625,6 +13706,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033855Z" creationid="Franklin Weng" creationdate="20180118T033855Z">
         <seg>設定縮排間距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting &lt;f0&gt;presentation options&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122525Z" creationid="Franklin Weng" creationdate="20180120T122525Z">
+        <seg>設定&lt;f0&gt;簡報選項&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16841,6 +16930,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T082902Z" creationid="Franklin Weng" creationdate="20171213T132634Z">
         <seg>除非你有一些範本用途極度相近，否則你&lt;f3&gt;應該&lt;/f3&gt;不會想要一次就設計一個以上的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unless you are an accomplished speaker, you will sound much worse reading your notes word for word.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122510Z" creationid="Franklin Weng" creationdate="20180120T122510Z">
+        <seg>不過要注意，除非你是很有經驗的講者，不然如果你把備註一個字一個字念出來，效果會更糟糕。</seg>
       </tuv>
     </tu>
     <tu>
