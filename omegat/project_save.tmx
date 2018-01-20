@@ -1712,8 +1712,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;f you have downloaded a large number of templates, you can &lt;f1&gt;register&lt;/f1&gt; a large number of them by moving them to one of the directories listed in the &lt;f2&gt;Paths&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111427Z" creationid="Franklin Weng" creationdate="20171223T032934Z">
-        <seg>如果你一次下載大量範本，你可以把它們全都移到「&lt;f3&gt;工具 &gt; 選項&lt;/f3&gt;」中「&lt;f2&gt;路徑&lt;/f2&gt;」區段裡列出的目錄下，這樣就註冊完成。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131300Z" creationid="Franklin Weng" creationdate="20171223T032934Z">
+        <seg>如果你一次下載大量範本，你可以把它們全都移到「工具 &gt; 選項」中「&lt;f2&gt;路徑&lt;/f2&gt;」區段裡列出的目錄下，這樣就註冊完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,8 +1984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice offers nearly sixty different transitions available from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Slide Transition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Slide Transition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the sidebar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144607Z" creationid="Franklin Weng" creationdate="20180118T144419Z">
-        <seg>&lt;f0&gt;LibreOffice 提供了接近六十種不同的轉場效果，從選單中選擇「&lt;f2&gt;投影片 &gt; 投影片轉場&lt;/f2&gt;」，或是在側邊欄的「&lt;f5&gt;投影片轉場&lt;/f5&gt;」圖示按下去就可以看到。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131427Z" creationid="Franklin Weng" creationdate="20180118T144419Z">
+        <seg>&lt;f0&gt;LibreOffice 提供了接近六十種不同的轉場效果&lt;/f0&gt;，從選單中選擇「&lt;f2&gt;投影片 &gt; 投影片轉場&lt;/f2&gt;」，或是在側邊欄的「&lt;f5&gt;投影片轉場&lt;/f5&gt;」圖示按下去就可以看到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,8 +2096,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most of the options in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dialog window are obvious from their description.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122936Z" creationid="Franklin Weng" creationdate="20180120T122936Z">
-        <seg>&lt;f0&gt;在「&lt;f2&gt;投影片放映&lt;/f2&gt;」&lt;f3&gt;視窗中大部份的選項都很直覺。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131454Z" creationid="Franklin Weng" creationdate="20180120T122936Z">
+        <seg>&lt;f0&gt;在「&lt;f2&gt;投影片放映&lt;/f2&gt;」&lt;/f0&gt;&lt;f3&gt;視窗中大部份的選項都很直覺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3124,8 +3124,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Until you create a custom slide show, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Use Custom Slide Show&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option is not active.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123433Z" creationid="Franklin Weng" creationdate="20180120T123433Z">
-        <seg>&lt;f0&gt;你要先到「自訂投影片放映」那邊建立放映順序，「範圍」這裡的「&lt;f2&gt;自訂投影片放映&lt;/f2&gt;」&lt;f3&gt;才會亮起來讓你可以選擇。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131514Z" creationid="Franklin Weng" creationdate="20180120T123433Z">
+        <seg>&lt;f0&gt;你要先到「自訂投影片放映」那邊建立放映順序&lt;/f0&gt;，「範圍」這裡的「&lt;f2&gt;自訂投影片放映&lt;/f2&gt;」&lt;f3&gt;才會亮起來讓你可以選擇。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4307,8 +4307,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;You will need to be careful that you don't use font sizes that are too small, but m&lt;/f4&gt;any alternative presentation apps use PDF slides, and the audience &lt;f5&gt;probably never notices.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T090932Z" creationid="Franklin Weng" creationdate="20180109T090932Z">
-        <seg>&lt;f4&gt;要這樣做的話要留意，用的字型不要太小。&lt;/f4&gt;許多簡報展示的應用程式都會用 PDF 投影片，而底下的聽眾&lt;/f5&gt;其實也分辨不太出來。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131356Z" creationid="Franklin Weng" creationdate="20180109T090932Z">
+        <seg>&lt;f4&gt;要這樣做的話要留意，用的字型不要太小。&lt;/f4&gt;許多簡報展示的應用程式都會用 PDF 投影片，而底下的聽眾&lt;f5&gt;其實也分辨不太出來。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12076,8 +12076,8 @@
       <tuv lang="EN">
         <seg>Members of the audience require individual attention &lt;f0&gt;or discussion is important&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062453Z" creationid="Franklin Weng" creationdate="20180107T062453Z">
-        <seg>聽眾需要個別的互動與討論。&lt;/f0&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131335Z" creationid="Franklin Weng" creationdate="20180107T062453Z">
+        <seg>聽眾需要&lt;f0&gt;個別的互動與討論。&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12686,8 +12686,8 @@
       <tuv lang="EN">
         <seg>On the other hand, a background full of gradients or different colors risks leaving large portions of the screen &lt;f0&gt;with too little or too much contrast&lt;/f0&gt; for adding text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T085939Z" creationid="Franklin Weng" creationdate="20180115T085939Z">
-        <seg>但從另一方面看，背景滿滿都是顏色漸層或是五彩繽紛的色彩，卻也會在加入文字後跟背景的對比不是太強就是太弱。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131209Z" creationid="Franklin Weng" creationdate="20180115T085939Z">
+        <seg>但從另一方面看，背景滿滿都是顏色漸層或是五彩繽紛的色彩，卻也會在加入文字後&lt;f0&gt;跟背景的對比不是太強就是太弱。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15700,8 +15700,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The footer section of Impress’ &lt;f0&gt;Master View&lt;/f0&gt; &lt;f1&gt;provides a simple arrangement for basic information.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092448Z" creationid="Franklin Weng" creationdate="20180116T092404Z">
-        <seg>頁尾的部份可以在 Impress 的「&lt;f0&gt;母片檢視&lt;/f0&gt;」中製作，預設提供了排放基本資訊的三個框。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131412Z" creationid="Franklin Weng" creationdate="20180116T092404Z">
+        <seg>頁尾的部份可以在 Impress 的「&lt;f0&gt;母片檢視&lt;/f0&gt;」中製作，&lt;f1&gt;預設提供了排放基本資訊的三個框。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
