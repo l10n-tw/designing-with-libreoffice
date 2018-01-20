@@ -4064,6 +4064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;They are especially useful for before and after pictures when giving instructions.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T070148Z" creationid="Franklin Weng" creationdate="20180120T070148Z">
+        <seg>&lt;f4&gt;特別是在說明做法時，在圖片之前之後加入特別好用。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;You will need to be careful that you don't use font sizes that are too small, but m&lt;/f4&gt;any alternative presentation apps use PDF slides, and the audience &lt;f5&gt;probably never notices.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T090932Z" creationid="Franklin Weng" creationdate="20180109T090932Z">
@@ -5022,6 +5030,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044511Z" creationid="Franklin Weng" creationdate="20180106T044511Z">
         <seg>未知的旅程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀改寫，現在的版本似乎沒有 GIF，不確定是否正確。</note>
+      <tuv lang="EN">
+        <seg>Animated &lt;f0&gt;GIF&lt;/f0&gt;s (&lt;f1&gt;Insert &gt; Animated Image&lt;/f1&gt;): Animations can be constructed using &lt;f2&gt;Slide Show &gt; Custom Animation,&lt;/f2&gt; setting up &lt;t3/&gt;the separate images one at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T070108Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
+        <seg>&lt;f0&gt;GIF&lt;/f0&gt; 動畫（「&lt;f1&gt;插入 &gt; 媒體 &gt; 動畫式影像&lt;/f1&gt;」）：動畫可以一次一張自行建構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11739,6 +11756,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160414Z" creationid="Franklin Weng" creationdate="20171212T100331Z">
         <seg>一般來說，範本儲存的是你的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現狀改寫</note>
+      <tuv lang="EN">
+        <seg>Movies and &lt;f0&gt;s&lt;/f0&gt;ound (&lt;f1&gt;Insert &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Media &gt; Audio or Video&lt;/f3&gt;&lt;/f2&gt;): Both are set to play only on a certain slide.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T071951Z" creationid="Franklin Weng" creationdate="20180120T071951Z">
+        <seg>音訊或視訊（「&lt;f1&gt;插入 &gt; 音訊或視訊&lt;/f1&gt;」）：在特定投影片中播放音訊或視訊。</seg>
       </tuv>
     </tu>
     <tu>
