@@ -14110,6 +14110,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting letter&lt;f4&gt;s&lt;/f4&gt; to the same height is not the same as converting all the letters to upper case, but produces its own distortions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T135523Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
+        <seg>設定字母為相同高度與將所有字母都轉換為大寫，但會產生自己的變形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting line formatting</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064116Z" creationid="Jeff Huang" creationdate="20171228T063625Z">
