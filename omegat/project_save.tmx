@@ -16524,6 +16524,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The only drawback to this technique is that ungrouping may become more difficult.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134757Z" creationid="Jeff Huang" creationdate="20180121T134757Z">
+        <seg>這種方法唯一的缺點是，要將其解體可能更加困難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The only styles that do not have a hierarchical parent are those at the top of the &lt;f0&gt;entire&lt;/f0&gt; tree.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T145736Z" creationid="zerng07" creationdate="20171225T145736Z">
