@@ -18259,6 +18259,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have decided on the formatting choices, you can always drag a selected passage to the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window to create a style from it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T093305Z" creationid="zerng07" creationdate="20180121T093305Z">
+        <seg>決定好格式設定選擇之後，你可以把這段文字拖曳到「&lt;f1&gt;樣式和格式&lt;/f1&gt;」視窗中根據其格式製作成樣式。（在 Fedora 27 的 GNOME on Wayland 環境下試驗失敗…）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have found the line spacing that gives the best color, make a note of it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T164656Z" creationid="Franklin Weng" creationdate="20180105T140109Z">
