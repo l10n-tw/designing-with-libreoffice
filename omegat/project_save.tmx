@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1&lt;f0&gt;4&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051506Z" creationid="Franklin Weng" creationdate="20180121T051506Z">
+        <seg>1&lt;f0&gt;4&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T091916Z" creationid="Franklin Weng" creationdate="20171231T091916Z">
@@ -1284,16 +1292,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object styles (also known as Image styles and formerly as Graphic styles)&lt;/f0&gt; define the characteristics of a &lt;f1&gt;d&lt;/f1&gt;rawing object in Draw or Impress.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074347Z" creationid="Jeff Huang" creationdate="20171220T074347Z">
-        <seg>&lt;f0&gt;繪製物件樣式（也被稱為影像樣式，或是先前稱為圖形樣式）&lt;/f0&gt;在 Draw 或 Impress 中定義了繪製物件的特徵。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051517Z" creationid="Jeff Huang" creationdate="20171220T074347Z">
+        <seg>&lt;f0&gt;繪圖物件樣式（也被稱為影像樣式，或是先前稱為圖形樣式）&lt;/f0&gt;在 Draw 或 Impress 中定義了繪圖物件的特徵。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object&lt;/f0&gt; &lt;f1&gt;styles and charts&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074159Z" creationid="Jeff Huang" creationdate="20171220T074159Z">
-        <seg>&lt;f0&gt;繪製物件&lt;/f0&gt;&lt;f1&gt;樣式與圖表&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051509Z" creationid="Jeff Huang" creationdate="20171220T074159Z">
+        <seg>&lt;f0&gt;繪圖物件&lt;/f0&gt;&lt;f1&gt;樣式與圖表&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,6 +4458,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;23&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051505Z" creationid="Franklin Weng" creationdate="20180121T051505Z">
+        <seg>&lt;t0&gt;23&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;24&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T042220Z" creationid="Franklin Weng" creationdate="20180121T042220Z">
@@ -5366,8 +5382,8 @@
       <tuv lang="EN">
         <seg>Another &lt;f0&gt;point&lt;/f0&gt; to be aware of: &lt;f1&gt;Drawing &lt;/f1&gt;styles are for formatting only.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075632Z" creationid="Jeff Huang" creationdate="20171220T075632Z">
-        <seg>還有&lt;f0&gt;一點&lt;/f0&gt;要注意：&lt;f1&gt;繪製&lt;/f1&gt;樣式僅用於格式化。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051525Z" creationid="Jeff Huang" creationdate="20171220T075632Z">
+        <seg>還有&lt;f0&gt;一點&lt;/f0&gt;要注意：&lt;f1&gt;繪圖&lt;/f1&gt;樣式僅用於格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7587,8 +7603,8 @@
       <tuv lang="EN">
         <seg>Drawing Object styles and charts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074003Z" creationid="Jeff Huang" creationdate="20171220T074003Z">
-        <seg>繪製物件樣式與圖表</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051504Z" creationid="Jeff Huang" creationdate="20171220T074003Z">
+        <seg>繪圖物件樣式與圖表</seg>
       </tuv>
     </tu>
     <tu>
@@ -15002,8 +15018,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That means, &lt;f2&gt;for example,&lt;/f2&gt; that the pre-defined &lt;f3&gt;Object with Shadow &lt;/f3&gt;style &lt;f4&gt;can format &lt;/f4&gt;both a rectangle and &lt;f5&gt;shapes that are identical except for dimensions.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081112Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
-        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;有一個以&lt;f3&gt;帶有陰影的&lt;/f3&gt;樣式預定義好的物件&lt;f4&gt;可以格式化為&lt;/f4&gt;同時是矩形與&lt;f5&gt;除了尺寸以外都一樣的形狀。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T052636Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
+        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它可以同時對一個矩形和&lt;f5&gt;除了大小以外都全等的形狀&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16608,8 +16624,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They do not affect shape or size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T080023Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
-        <seg>其並不會影響形狀與大小。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051052Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
+        <seg>並不會影響形狀與大小。</seg>
       </tuv>
     </tu>
     <tu>
