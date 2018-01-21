@@ -2793,6 +2793,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tables are not on the Drawing tool bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125139Z" creationid="Jeff Huang" creationdate="20180121T125139Z">
+        <seg>&lt;f0&gt;表格不在繪圖工具列上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;That is just as well, because a couple of extra points between each line can add dozens of pages to a book and increase its production cost.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T165132Z" creationid="Franklin Weng" creationdate="20180106T041626Z">
@@ -3198,6 +3206,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131943Z" creationid="Jeff Huang" creationdate="20180118T131943Z">
         <seg>&lt;f0&gt;熟悉&lt;/f0&gt;曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Understanding&lt;/f0&gt; tables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125122Z" creationid="Jeff Huang" creationdate="20180121T125122Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;表格</seg>
       </tuv>
     </tu>
     <tu>
@@ -5921,6 +5937,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T141111Z" creationid="Jeff Huang" creationdate="20180108T141111Z">
         <seg>避免使用過時的文字動畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid using 3D shapes unless they result in a diagram that is genuinely easier to read than a 2D one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125056Z" creationid="Jeff Huang" creationdate="20180121T125056Z">
+        <seg>盡可能不要使用3D圖形，除非它們比2D圖形容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11350,6 +11374,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092336Z" creationid="Franklin Weng" creationdate="20180116T092336Z">
         <seg>而在頁尾處則改放公司的標誌之類的，不管原先所定義的框的用處。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125230Z" creationid="Jeff Huang" creationdate="20180121T125230Z">
+        <seg>請使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 表格」。</seg>
       </tuv>
     </tu>
     <tu>
