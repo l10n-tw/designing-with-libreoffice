@@ -2576,6 +2576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the default measure to points in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General &gt; Settings &gt; Measurement Unit.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; You can reset the default unit to centimeters or inches when you are done, but points are the most commonly used unit of measurement for general typography.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T084953Z" creationid="zerng07" creationdate="20180121T084953Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定 &gt; 定量單位&lt;/f2&gt;&lt;/f1&gt;」中，將預設單位設為「點」。&lt;f3&gt;完成設計之後，你可以把預設單位設回公分或英吋，但一般字體排印最常用的單位還是「點」。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Showing bullet points one at a time&lt;/f0&gt; is &lt;f1&gt;especially handy&lt;/f1&gt; for oral quizzes or in-class vocabulary reviews, &lt;f2&gt;or any sort of question/answer structure&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T114412Z" creationid="Franklin Weng" creationdate="20180120T114412Z">
@@ -9084,8 +9092,8 @@
       <tuv lang="EN">
         <seg>Have a calculator &lt;f0&gt;and a list of multiples of the line spacing &lt;/f0&gt;ready so you can check basic measurements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T084627Z" creationid="zerng07" creationdate="20180121T084627Z">
-        <seg>準備好一臺計算機，&lt;f0&gt;和一份行距倍數表，方便你確定基礎量測值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T084653Z" creationid="zerng07" creationdate="20180121T084627Z">
+        <seg>準備好一臺計算機，&lt;f0&gt;和一份行距倍數表，方便你確定基礎量值。</seg>
       </tuv>
     </tu>
     <tu>
