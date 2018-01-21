@@ -509,6 +509,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;The tool is similar to the one in Impress, but defaults to gray column headings and row.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125352Z" creationid="Jeff Huang" creationdate="20180121T125352Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;這個工具與 Impress 中的類似，但預設的標題列與欄都是灰色的。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>先改用現有的功能來重寫內容。</note>
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;You can make Impress default to using the wizard by clicking&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;T&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ools &gt; Options &gt; General&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;New Document &gt; Start with wizard&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; check box.&lt;/f13&gt;</seg>
@@ -17410,6 +17418,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T092845Z" creationid="zerng07" creationdate="20170930T173021Z">
         <seg>如果想要進一步體會手動格式設定和用樣式作格式設定之間的差異，請想像一下你現在正準備繳交一份長達20頁的大學課堂小論文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get more options, either take a screen shot of a Writer table, or add the Writer table to the Draw or Impress document using &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Object &gt; OLE Object.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125634Z" creationid="Jeff Huang" creationdate="20180121T125634Z">
+        <seg>要取得更多選項，可以使用 Writer 表格的螢幕截圖，或是利用&lt;f4&gt;&lt;f5&gt;「插入 &gt; 物件 &gt; OLE 物件」&lt;/f5&gt;&lt;/f4&gt;來將 Writer 表格新增到 Draw 或 Impress 文件中。</seg>
       </tuv>
     </tu>
     <tu>
