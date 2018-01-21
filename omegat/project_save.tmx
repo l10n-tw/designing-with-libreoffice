@@ -2578,8 +2578,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the default measure to points in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General &gt; Settings &gt; Measurement Unit.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; You can reset the default unit to centimeters or inches when you are done, but points are the most commonly used unit of measurement for general typography.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T084953Z" creationid="zerng07" creationdate="20180121T084953Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定 &gt; 定量單位&lt;/f2&gt;&lt;/f1&gt;」中，將預設單位設為「點」。&lt;f3&gt;完成設計之後，你可以把預設單位設回公分或英吋，但一般字體排印最常用的單位還是「點」。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085046Z" creationid="zerng07" creationdate="20180121T084953Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定 &gt; 定量單位&lt;/f2&gt;&lt;/f1&gt;」中，將預設單位設為「點」。&lt;f3&gt;完成設計之後，你可以把預設單位設回公分或英吋，但一般字體排印最常用的單位還是點。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5929,6 +5929,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130633Z" creationid="Jeff Huang" creationdate="20180118T130633Z">
         <seg>在4.4版前，要在圖形中新增文字，你需要分開繪製圖形與圖形化文字，然後將它們定位好並做成群組，讓文字覆蓋在形狀上（見下方）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before you design, set the &lt;f0&gt;&lt;f1&gt;M&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;easurement &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Unit &lt;/f4&gt;&lt;/f3&gt;to points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085043Z" creationid="zerng07" creationdate="20180121T085043Z">
+        <seg>在你開始設計之前，先將&lt;f2&gt;定量&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;單位&lt;/f4&gt;&lt;/f3&gt;設為點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13465,6 +13473,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Print or zoom in or out periodically so you can get a different perspective.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085356Z" creationid="zerng07" creationdate="20180121T085356Z">
+        <seg>把文件列印成紙本，或每隔一段時間就拉近或拉遠看看，這樣能用不同的觀點去看文件。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Probably, the idea was to differentiate different types of information, but the encoding is not immediately obvious.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T032749Z" creationid="Jeff Huang" creationdate="20180118T032749Z">
@@ -14114,6 +14130,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125717Z" creationid="Franklin Weng" creationdate="20180107T125717Z">
         <seg>根據個別投影片的需要來設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the zoom to 100% so you can &lt;f0&gt;judge the page color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085144Z" creationid="zerng07" creationdate="20180121T085144Z">
+        <seg>將遠近調整係數設為100%，以利你&lt;f0&gt;判斷頁面色彩。</seg>
       </tuv>
     </tu>
     <tu>
