@@ -4385,6 +4385,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;This tool is not available in some versions of LibreOffice.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T121349Z" creationid="Jeff Huang" creationdate="20180121T121349Z">
+        <seg>&lt;f4&gt;這個工具在某些版本的 LibreOffice 中無法使用。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;You will need to be careful that you don't use font sizes that are too small, but m&lt;/f4&gt;any alternative presentation apps use PDF slides, and the audience &lt;f5&gt;probably never notices.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131356Z" creationid="Franklin Weng" creationdate="20180109T090932Z">
