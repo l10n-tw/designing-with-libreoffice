@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;Then select&lt;f2&gt; Group &lt;/f2&gt;from the &lt;f3&gt;Modify &lt;/f3&gt;menu or the right-click menu from one of the shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T133508Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
-        <seg>&lt;/f1&gt;然後從&lt;f3&gt;「修改」&lt;/f3&gt;選單中，或是從其中一個形狀的右鍵選單中選取&lt;f2&gt;「分組」&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T133916Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
+        <seg>&lt;/f1&gt;然後從&lt;f3&gt;「修改」&lt;/f3&gt;選單中，或是從其中一個形狀的右鍵選單中選取&lt;f2&gt;「群組」&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4437,6 +4437,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101502Z" creationid="zerng07" creationdate="20171224T101502Z">
         <seg>&lt;f4&gt;LibreOffice能記住視窗位置是否停駐在那個位置，下次重新啟動時依然能與上次一致。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;The option changes to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Ungroup&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; so you can undo the group.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134434Z" creationid="Jeff Huang" creationdate="20180121T134434Z">
+        <seg>&lt;f4&gt;之後，該選項會變為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;取消群組&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;，這樣你就可以將它們分開。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
