@@ -4578,6 +4578,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;F&lt;/f0&gt;ontwork sample ready for the text to be edited,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T121606Z" creationid="Jeff Huang" creationdate="20180121T121606Z">
+        <seg>準備好編輯文字的美術字型，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;Title&lt;/f0&gt; paragraph style is usually followed by a &lt;f1&gt;Subtitle, &lt;/f1&gt;and a &lt;f2&gt;Text Body&lt;/f2&gt; paragraph style by another &lt;f3&gt;Text Body.&lt;/f3&gt; A &lt;f4&gt;First Page&lt;/f4&gt; style is usually followed by a &lt;f5&gt;Left Page, &lt;/f5&gt;which is followed by a &lt;f6&gt;Right Page&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163403Z" creationid="zerng07" creationdate="20171227T163403Z">
@@ -15139,6 +15147,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T090225Z" creationid="Franklin Weng" creationdate="20180115T090225Z">
         <seg>測試背景時，要用許多不同顏色的文字來測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text &lt;f0&gt;pasted into a Fontwork sample &lt;/f0&gt;i&lt;f1&gt;s displayed&lt;/f1&gt; unformatted &lt;f2&gt;until you finish creating the&lt;/f2&gt; sample.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T121527Z" creationid="Jeff Huang" creationdate="20180121T121527Z">
+        <seg>&lt;f0&gt;貼上到美術字型樣品中的文字&lt;/f0&gt;&lt;f1&gt;會顯示未&lt;/f1&gt;格式化的樣子&lt;f2&gt;，一直到您樣品建立完成為止&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
