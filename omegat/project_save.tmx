@@ -8690,6 +8690,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, paragraph styles &lt;t2/&gt;&lt;f3&gt;Heading 5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;–&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;10&lt;/f6&gt; are far more headings than anyone can manage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T113858Z" creationid="zerng07" creationdate="20180121T113858Z">
+        <seg>舉例，&lt;t2/&gt;&lt;f3&gt;標題5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;到&lt;/f5&gt;&lt;/f4&gt;標題&lt;f6&gt;10&lt;/f6&gt;的段落樣式，實在遠超乎一般人所能管理的層數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, two frames &lt;f1&gt;seldom&lt;/f1&gt; occur one after the other, so a &lt;f2&gt;Frame&lt;/f2&gt; style window omits the &lt;f3&gt;Next Style&lt;/f3&gt; category.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175012Z" creationid="zerng07" creationdate="20171226T080524Z">
@@ -13369,6 +13377,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps, too, you have no use for &lt;f7&gt;paragraph&lt;/f7&gt; styles like &lt;f8&gt;L&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;i&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;st 1 Cont.&lt;/f11&gt;,&lt;f12&gt; List 1 End&lt;/f12&gt;, and &lt;f13&gt;List 1 Start&lt;/f13&gt;, and they will only clutter up the &lt;f14&gt;Styles and Formatting &lt;/f14&gt;window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T114343Z" creationid="zerng07" creationdate="20180121T114343Z">
+        <seg>或許，你也不用&lt;f11&gt;項目符號1繼續&lt;/f11&gt;、&lt;f12&gt; 項目符號1結束&lt;/f12&gt;、&lt;f13&gt;項目符號1起始&lt;/f13&gt;……之類的&lt;f7&gt;段落&lt;/f7&gt;樣式，那些樣式會讓「&lt;f14&gt;樣式和格式&lt;/f14&gt;」視窗看起來更雜亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Photo credit: Todd Stephens, “Jorja and I.”&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134055Z" creationid="Jeff Huang" creationdate="20180118T134055Z">
@@ -16576,8 +16592,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Then go through the list of &lt;f0&gt;pre-defined &lt;/f0&gt;styles and decid&lt;f1&gt;e&lt;/f1&gt; which ones you do not need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T113714Z" creationid="zerng07" creationdate="20180121T113714Z">
-        <seg>接著瀏覽一下&lt;f0&gt;預先定義&lt;/f0&gt;樣式清單，並決定哪些樣式你不需要。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T113727Z" creationid="zerng07" creationdate="20180121T113714Z">
+        <seg>接著瀏覽一下&lt;f0&gt;預先定義&lt;/f0&gt;樣式清單，決定你不需要用到哪些樣式。</seg>
       </tuv>
     </tu>
     <tu>
