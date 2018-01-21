@@ -863,6 +863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Any primitive can be made into a rotatable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; object by selecting it and then clicking &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Modify &gt; Convert &gt; To 3D.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T123412Z" creationid="Jeff Huang" creationdate="20180121T123412Z">
+        <seg>&lt;f0&gt;任何基本圖形元素都可以透過選取該元素，然後點按&lt;f4&gt;&lt;f5&gt;「修改 &gt; 轉換 &gt; 轉換為 3D」&lt;/f5&gt;&lt;/f4&gt;來變成可旋轉的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Applied Styles:&lt;/f0&gt; The styles used in the current document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T144028Z" creationid="zerng07" creationdate="20171224T144028Z">
