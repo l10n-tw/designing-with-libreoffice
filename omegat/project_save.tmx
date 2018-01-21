@@ -10695,8 +10695,8 @@
       <tuv lang="EN">
         <seg>If you want &lt;f1&gt;to apply this style somewhat differently &lt;/f1&gt;– perhaps &lt;f2&gt;using&lt;/f2&gt; different color&lt;f3&gt;ed shapes&lt;/f3&gt; to indicate different departments &lt;f4&gt;or the project lead&lt;/f4&gt; – use the &lt;f5&gt;&lt;f6&gt;Inherit from&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;f8&gt;Next&lt;/f8&gt; field&lt;f9&gt;s &lt;/f9&gt;on the &lt;f10&gt;Organizer&lt;/f10&gt; tab to create subordinate styles with names like &lt;f11&gt;Position Box&lt;/f11&gt; &lt;f12&gt;or &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Project Lead.&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T121027Z" creationid="Jeff Huang" creationdate="20171220T084316Z">
-        <seg>如果你想要&lt;f1&gt;以不同的方式套用此樣式&lt;/f1&gt;──也許是&lt;f2&gt;使用&lt;/f2&gt;不同顏色&lt;f3&gt;的形狀&lt;/f3&gt;來指出不同的部門&lt;f4&gt;或是專案領導人&lt;/f4&gt;──從&lt;f10&gt;組織者&lt;/f10&gt;標籤頁使用&lt;f5&gt;&lt;f6&gt;繼承自&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;與&lt;/f7&gt;&lt;f8&gt;下一&lt;/f8&gt;&lt;f9&gt;欄&lt;/f9&gt;來建立名字像是&lt;f11&gt;位置框&lt;/f11&gt; &lt;f12&gt;或&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;專案領導人&lt;/f14&gt;&lt;/f13&gt;的子樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T131308Z" creationid="Jeff Huang" creationdate="20171220T084316Z">
+        <seg>如果你想要&lt;f1&gt;以不同的方式套用此樣式&lt;/f1&gt; ─ 也許是&lt;f2&gt;使用&lt;/f2&gt;不同顏色&lt;f3&gt;的形狀&lt;/f3&gt;來指出不同的部門&lt;f4&gt;或是專案領導人&lt;/f4&gt; ─ 從&lt;f10&gt;組織者&lt;/f10&gt;樣式標籤頁，使用「&lt;f5&gt;&lt;f6&gt;繼承自&lt;/f6&gt;&lt;/f5&gt;」&lt;f7&gt;與&lt;/f7&gt;「&lt;f8&gt;下一個&lt;/f8&gt;&lt;f9&gt;樣式&lt;/f9&gt;」來建立名稱為「&lt;f11&gt;職位框&lt;/f11&gt;」&lt;f12&gt;或&lt;/f12&gt;「&lt;f13&gt;&lt;f14&gt;專案領導人&lt;/f14&gt;&lt;/f13&gt;」的子樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12965,8 +12965,8 @@
       <tuv lang="EN">
         <seg>Often, however, creating your own styles is more convenient, even if you start by modifying a pre-defined style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082659Z" creationid="Jeff Huang" creationdate="20171220T082659Z">
-        <seg>不過，通常來說建立你自己的樣式較方便，即便你是從修改預定義的樣式開始也一樣。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T130704Z" creationid="Jeff Huang" creationdate="20171220T082659Z">
+        <seg>不過，通常來說，建立你自己的樣式較方便，即便你是從修改預定義的樣式開始也一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13651,8 +13651,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Planning graphic styles</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081638Z" creationid="Jeff Huang" creationdate="20171220T081638Z">
-        <seg>規畫圖形樣式</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T052730Z" creationid="Jeff Huang" creationdate="20171220T081638Z">
+        <seg>規劃圖形樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -14824,8 +14824,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some of these are for graphic text, but others are for general categories of drawing objects, such as &lt;f1&gt;Object with arrow.&lt;/f1&gt; Most are not for specific shapes, sizes, or purposes, except for &lt;f2&gt;Dimension Line.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T082440Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
-        <seg>其中一些用於圖形化的文字，但其它則用於繪圖物件的一般分類，如&lt;f1&gt;帶有箭頭的物件。&lt;/f1&gt;除了&lt;f2&gt;尺寸線&lt;/f2&gt;以外，大多數並非僅適用於特定的形狀、大小或用途。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T130647Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
+        <seg>其中一些用於圖形化的文字，但其它則用於繪圖物件的一般分類，如「&lt;f1&gt;帶箭頭的物件。&lt;/f1&gt;」等等。除了&lt;f2&gt;尺寸線&lt;/f2&gt;以外，大多數都不限于特定的形狀、大小或用途。</seg>
       </tuv>
     </tu>
     <tu>
