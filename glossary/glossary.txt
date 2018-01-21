@@ -8,7 +8,6 @@ click	點按
 Italic	義式斜體	字型樣式
 Headings	標題	樣式 -> Headings1, Headings2, ... etc.
 Header	頁首	Header, header, headers
-Footer	頁尾	footer, Footers
 footnote	註腳	footnote=註腳，endnote=尾註
 Slab Serif	粗平襯線體
 tab	標籤頁
@@ -19,3 +18,4 @@ memo	備忘錄
 dummy text	假文
 typographer	字體排印家
 layout	版面配置	layout, layouts
+Footer	頁尾	footer, footers
