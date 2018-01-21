@@ -4723,6 +4723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A multi-page &lt;f0&gt;display &lt;/f0&gt;gives a design overview.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092307Z" creationid="zerng07" creationdate="20180121T092307Z">
+        <seg>多頁&lt;f0&gt;顯示&lt;/f0&gt;可以給你設計的概觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A paragraph begins and ends when you press the &lt;f3&gt;Enter&lt;/f3&gt; key.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175346Z" creationid="zerng07" creationdate="20171223T175346Z">
@@ -9142,6 +9150,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072059Z" creationid="Jeff Huang" creationdate="20180115T072059Z">
         <seg>Helvetica Narrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here, it confirms that &lt;f1&gt;footers &lt;/f1&gt;are mirrored as intended.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092513Z" creationid="zerng07" creationdate="20180121T092513Z">
+        <seg>像這裡，它能確認&lt;f1&gt;頁尾&lt;/f1&gt;有如設想中的左右頁互相對稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17577,8 +17593,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Unless you are struggling with a small monitor, a two-page spread helps you see the effect of your design choices.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T090010Z" creationid="zerng07" creationdate="20180121T090010Z">
-        <seg>除非你正在和小螢幕努力奮戰，不然這樣的雙頁檢視配置很能幫助你看出選擇的設計效果。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092230Z" creationid="zerng07" creationdate="20180121T090010Z">
+        <seg>除非你正在和小螢幕努力奮戰，不然這樣的雙頁跨頁檢視很能幫助你看出選擇的設計效果。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
