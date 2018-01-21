@@ -4843,6 +4843,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A rotatable &lt;f0&gt;3D rectangle.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T124734Z" creationid="Jeff Huang" creationdate="20180121T124734Z">
+        <seg>可旋轉的&lt;f0&gt;3D矩形。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A sample riddled with hyphens is a sign that you will either have to change the font, or adjust its size or alignment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T103425Z" creationid="Franklin Weng" creationdate="20180105T120930Z">
@@ -12044,6 +12052,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081832Z" creationid="Jeff Huang" creationdate="20171220T081832Z">
         <seg>就像其他的 LibreOffice 應用程式一樣，Draw &lt;f0&gt;包含了&lt;/f0&gt;預定義的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like shadows on text frames, 3D objects are easy to overdo.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T124945Z" creationid="Jeff Huang" creationdate="20180121T124945Z">
+        <seg>如同文字框架上的陰影，3D物件也很容易被濫用。</seg>
       </tuv>
     </tu>
     <tu>
