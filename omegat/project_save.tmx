@@ -488,8 +488,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;When working in Draw or Impress, you might get into the habit of replacing &lt;f2&gt;Ctrl+C&lt;/f2&gt; with &lt;f3&gt;Shift+F3&lt;/f3&gt; for copying.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T080246Z" creationid="Jeff Huang" creationdate="20171221T080246Z">
-        <seg>&lt;/f1&gt;在 Draw 或 Impress 中工作時，你可能習慣使用 &lt;f2&gt;Ctrl+C&lt;/f2&gt; 與 &lt;f3&gt;Shift+F3&lt;/f3&gt; 來複製。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132418Z" creationid="Jeff Huang" creationdate="20171221T080246Z">
+        <seg>&lt;/f1&gt;在 Draw 或 Impress 中工作時，你可能會改變使用 &lt;f2&gt;Ctrl+C&lt;/f2&gt; 的習慣，改用 &lt;f3&gt;Shift+F3&lt;/f3&gt; 來複製。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1349,8 +1349,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; saves copying and pasting shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T073758Z" creationid="Jeff Huang" creationdate="20171221T073758Z">
-        <seg>&lt;f0&gt;編輯→再製&lt;/f0&gt;儲存複製並貼上形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132204Z" creationid="Jeff Huang" creationdate="20171221T073758Z">
+        <seg>「&lt;f0&gt;編輯→再製複本&lt;/f0&gt;」會儲存複製並貼上形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2843,8 +2843,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is analogous to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Borders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the styles for other applications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120612Z" creationid="Jeff Huang" creationdate="20171228T064249Z">
-        <seg>在樣式中的&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁類似於其他應用程式中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;外框&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;分頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133439Z" creationid="Jeff Huang" creationdate="20171228T064249Z">
+        <seg>在樣式中的&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁類似於其他應用程式中的&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;邊框&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,8 +3890,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;They are approximately equivalent to Borders in other LibreOffice applications, although the features are not identical.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064025Z" creationid="Jeff Huang" creationdate="20171228T064025Z">
-        <seg>&lt;f1&gt;它們大約等價於其他 LibreOffice 應用程式中的外框，雖然這兩個功能並不相同。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133313Z" creationid="Jeff Huang" creationdate="20171228T064025Z">
+        <seg>&lt;f1&gt;它們大約等同於其他 LibreOffice 應用程式中的「邊框」，雖然這兩個功能並不相同。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6191,8 +6191,8 @@
       <tuv lang="EN">
         <seg>Besides copying, the &lt;f0&gt;Duplicate&lt;/f0&gt; window can enlarge and color copies, and offset them, &lt;f1&gt;so you can make a copy as you need it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T075836Z" creationid="Jeff Huang" creationdate="20171221T075836Z">
-        <seg>除了複製以外，&lt;f0&gt;再製&lt;/f0&gt;視窗可以放大並複製顏色，以及將它們並列，&lt;f1&gt;這樣你就可以在你需要的時候製作一份拷貝。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132233Z" creationid="Jeff Huang" creationdate="20171221T075836Z">
+        <seg>除了複製以外，「&lt;f0&gt;再製&lt;/f0&gt;」視窗可以放大並複製顏色，以及將它們並列，&lt;f1&gt;這樣你就可以在你需要的時候製作一份拷貝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7594,8 +7594,8 @@
       <tuv lang="EN">
         <seg>Details about style features unique to graphic styles follow in this chapter.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T063524Z" creationid="Jeff Huang" creationdate="20171228T063524Z">
-        <seg>關於每個圖樣的獨特樣式會在此章節後面介紹。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133058Z" creationid="Jeff Huang" creationdate="20171228T063524Z">
+        <seg>關於每個圖樣的獨特樣式特徵會在此章節後面做詳細介紹。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8900,8 +8900,8 @@
       <tuv lang="EN">
         <seg>For example, you may have few needs for a border or background in most Writer styles, but in Draw such characteristics &lt;f0&gt;(named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;area&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt; become a primary concern.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082137Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
-        <seg>舉例來說，在大多數的 Writer 樣式中，你可能不需要邊框或背景，但在 Draw 中，這樣的特性&lt;f0&gt;（稱為 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;與&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;）&lt;/f6&gt;變成了重點。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132829Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
+        <seg>舉例來說，在大多數的 Writer 樣式中，你可能不需要邊框或背景，但在 Draw 中，這樣的特性&lt;f0&gt;（稱為 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;與&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;）&lt;/f6&gt;就變成了重點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8940,8 +8940,8 @@
       <tuv lang="EN">
         <seg>For instance, if you are building an organizational chart, you might have a style called &lt;f0&gt;Position Boxes &lt;/f0&gt;to indicate each job.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T083506Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
-        <seg>舉例來說，如果你正在建構一份組織架構圖，你可能會有一個稱為&lt;f0&gt;位置框&lt;/f0&gt;的樣式來指出每一個工作。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T131315Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
+        <seg>舉例來說，如果你正在建構一份組織架構圖，你可能會有一個稱為&lt;f0&gt;職位框&lt;/f0&gt;的樣式來指出每一個工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10165,8 +10165,8 @@
       <tuv lang="EN">
         <seg>If lines are irrelevant to your design, set the &lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ine&lt;/f2&gt; &lt;f3&gt;Style&lt;/f3&gt; to &lt;f4&gt;None, &lt;/f4&gt;and you only need to be concerned about &lt;f5&gt;a&lt;/f5&gt;rea formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T065802Z" creationid="Jeff Huang" creationdate="20171228T065802Z">
-        <seg>若線條與你的設計無關，請將線條&lt;f3&gt;樣式&lt;/f3&gt;設定為&lt;f4&gt;無，&lt;/f4&gt;而你只需要關心區域格式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133456Z" creationid="Jeff Huang" creationdate="20171228T065802Z">
+        <seg>若線條與你的設計無關，請將線條&lt;f3&gt;樣式&lt;/f3&gt;設定為&lt;f4&gt;無，&lt;/f4&gt;這樣你只需要關心區域格式設定即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10732,6 +10732,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>圖形樣式設定中似乎沒有「下一個樣式」</note>
       <tuv lang="EN">
         <seg>If you want &lt;f1&gt;to apply this style somewhat differently &lt;/f1&gt;– perhaps &lt;f2&gt;using&lt;/f2&gt; different color&lt;f3&gt;ed shapes&lt;/f3&gt; to indicate different departments &lt;f4&gt;or the project lead&lt;/f4&gt; – use the &lt;f5&gt;&lt;f6&gt;Inherit from&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;f8&gt;Next&lt;/f8&gt; field&lt;f9&gt;s &lt;/f9&gt;on the &lt;f10&gt;Organizer&lt;/f10&gt; tab to create subordinate styles with names like &lt;f11&gt;Position Box&lt;/f11&gt; &lt;f12&gt;or &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Project Lead.&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
@@ -12243,8 +12244,8 @@
       <tuv lang="EN">
         <seg>Lines distinguish the outline of a shape from the &lt;f0&gt;a&lt;/f0&gt;rea.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T063757Z" creationid="Jeff Huang" creationdate="20171228T063757Z">
-        <seg>線條在區域中繪出形狀的輪廓。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133126Z" creationid="Jeff Huang" creationdate="20171228T063757Z">
+        <seg>線條可以在區域中區別出形狀的輪廓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12404,8 +12405,8 @@
       <tuv lang="EN">
         <seg>Many are similar to those found in other styles, but in a diagram they become more important.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081540Z" creationid="Jeff Huang" creationdate="20171221T081540Z">
-        <seg>很多都與其他樣式類似，但在圖表中，它們會變得更重要。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132858Z" creationid="Jeff Huang" creationdate="20171221T081540Z">
+        <seg>繪圖樣式裡很多選項都與其他樣式類似。但在圖表中，這些選擇會變得更重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13166,8 +13167,8 @@
       <tuv lang="EN">
         <seg>Once you have added the style to one type of object, you can copy and paste to create others of the same type, or else use&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Duplicate&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075420Z" creationid="Jeff Huang" creationdate="20171221T072727Z">
-        <seg>一旦你將樣式加入到某一種類型的物件後，你就可以複製並貼上以建立其他相同類型的物件，或是使用&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 再製&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132014Z" creationid="Jeff Huang" creationdate="20171221T072727Z">
+        <seg>一旦你將樣式加入到某一種類型的物件後，你就可以複製並貼上以建立其他相同類型的物件，或是使用&lt;f0&gt; &lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯 &gt; 再製複本&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13440,8 +13441,8 @@
       <tuv lang="EN">
         <seg>Others you may choose to ignore, &lt;f0&gt;either because&lt;/f0&gt; the defaults are &lt;f1&gt;good&lt;/f1&gt; enough for your purposes &lt;f2&gt;or because your drawing has &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;nothing that could be affected by the setting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T082638Z" creationid="Jeff Huang" creationdate="20171221T082638Z">
-        <seg>你可能會選擇忽略其他東西，&lt;f0&gt;可能是因為&lt;/f0&gt;預設值對你的目的來說&lt;f1&gt;已經足夠了&lt;/f1&gt;，&lt;f2&gt;又或是因為你的繪圖&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;不會受到設定所影響。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133008Z" creationid="Jeff Huang" creationdate="20171221T082638Z">
+        <seg>你可能會選擇忽略其他東西，&lt;f0&gt;因為&lt;/f0&gt;預設值&lt;f1&gt;已經可以滿足你的目的&lt;/f1&gt;，&lt;f2&gt;或是因為你的繪圖&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;不會受到設定所影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14624,8 +14625,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Shape &lt;f0&gt;choices&lt;/f0&gt; determine &lt;f1&gt;each object’s features&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T081008Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
-        <seg>形狀&lt;f0&gt;選擇&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132438Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
+        <seg>形狀&lt;f0&gt;的選擇會&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
