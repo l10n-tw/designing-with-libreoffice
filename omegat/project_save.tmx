@@ -7168,6 +7168,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating styles at this point is just an extra step &lt;f0&gt;until you have finished experimenting&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092907Z" creationid="zerng07" creationdate="20180121T092907Z">
+        <seg>&lt;f0&gt;等到完成實驗之後&lt;/f0&gt;，此時只要再一個額外步驟就能製作成樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating templates with wizards</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T085850Z" creationid="Franklin Weng" creationdate="20171215T125230Z">
@@ -18375,6 +18383,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065307Z" creationid="Franklin Weng" creationdate="20180120T065212Z">
         <seg>雖然你也可以自己設計投影片的版面配置，但實際上沒有太多理由不去使用這些&lt;f0&gt;預設的配置&lt;/f0&gt;...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While you design, use manual formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092929Z" creationid="zerng07" creationdate="20180121T092756Z">
+        <seg>在設計時先用手動格式設定。</seg>
       </tuv>
     </tu>
     <tu>
