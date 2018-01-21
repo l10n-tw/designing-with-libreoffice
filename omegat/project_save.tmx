@@ -11041,6 +11041,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the status bar at the bottom of the editing window, set LibreOffice to display &lt;f0&gt;multiple pages, selecting the third button from the left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085817Z" creationid="zerng07" creationdate="20180121T085817Z">
+        <seg>在編輯視窗底部的狀態列中，選取左邊數來第三個按鈕，把LibreOffice設為「&lt;f0&gt;多頁」檢視的畫面配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In theory, font styles should help you to choose fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T133113Z" creationid="Franklin Weng" creationdate="20171228T063700Z">
@@ -13475,8 +13483,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Print or zoom in or out periodically so you can get a different perspective.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085356Z" creationid="zerng07" creationdate="20180121T085356Z">
-        <seg>把文件列印成紙本，或每隔一段時間就拉近或拉遠看看，這樣能用不同的觀點去看文件。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085443Z" creationid="zerng07" creationdate="20180121T085356Z">
+        <seg>把文件列印成紙本，或每隔一段時間就拉近或拉遠看看，這樣能用不同的觀點看文件。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
