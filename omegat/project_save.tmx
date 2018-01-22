@@ -1274,6 +1274,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Intersect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084245Z" creationid="Jeff Huang" creationdate="20180122T084245Z">
+        <seg>&lt;f0&gt;透過選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀 &gt; 交叉」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來從重疊的物件中建立形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Merge.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; The result is a shape with the outlines of the objects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034854Z" creationid="Jeff Huang" creationdate="20180122T034854Z">
