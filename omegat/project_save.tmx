@@ -5124,6 +5124,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A gradient is a gradual transition from one color to &lt;f0&gt;another&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123920Z" creationid="Jeff Huang" creationdate="20180122T123920Z">
+        <seg>漸層是從一種顏色逐漸轉換到&lt;f0&gt;另一種&lt;/f0&gt;顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A hatched backgro&lt;f0&gt;und.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091535Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
@@ -9795,6 +9803,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gradients are a popular choice for presentations and desktop wallpapers on computers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124314Z" creationid="Jeff Huang" creationdate="20180122T124314Z">
+        <seg>漸變是在電腦上的簡報與桌布中許多人使用的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gradually, though, other paragraph styles are listed as they are used in the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111246Z" creationid="zerng07" creationdate="20171226T105047Z">
@@ -10678,8 +10694,8 @@
       <tuv lang="EN">
         <seg>If a color is important in the document – perhaps because it is a corporate color – give it a suitable name, such as &lt;f0&gt;Devilfish Software Red&lt;/f0&gt;, so you can locate it quickly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123439Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
-        <seg>如果文件中的某個顏色很重要（也許因為它是公司識別色），你可以給它一個適合的名字，如&lt;f0&gt;Devilfish 軟體紅&lt;/f0&gt;等，這樣您就可以快速地找到它。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123930Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
+        <seg>如果文件中的某個顏色很重要（也許因為它是公司識別色），你可以給它一個適合的名字，如&lt;f0&gt;章魚軟體紅&lt;/f0&gt;等，這樣您就可以快速地找到它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11591,6 +11607,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T130241Z" creationid="Jeff Huang" creationdate="20180121T130241Z">
         <seg>舉例來說，在組織架構圖中，你可能會想要把所有職位擺在同一個高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In between the starting color and the ending color are a number of intermediate colors, or increments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124040Z" creationid="Jeff Huang" creationdate="20180122T124040Z">
+        <seg>在起始色彩與結束色彩間有多種不同的中間色。</seg>
       </tuv>
     </tu>
     <tu>
