@@ -2737,6 +2737,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Spacing&lt;/f0&gt; &lt;f1&gt;between paragraphs&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034604Z" creationid="zerng07" creationdate="20180122T034604Z">
+        <seg>&lt;f1&gt;段落與段落間&lt;/f1&gt;的&lt;f0&gt;間距&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Stacking &lt;/f0&gt;shapes &lt;f1&gt;into other shapes&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025437Z" creationid="Jeff Huang" creationdate="20180122T025437Z">
@@ -5131,6 +5139,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Above: 8 point Liberation Serif with automatic single spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034433Z" creationid="zerng07" creationdate="20180122T034407Z">
+        <seg>上：8點Liberation Serif搭配自動單行行距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Above: Old style figures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171225T135239Z" creationid="Franklin Weng" creationdate="20171225T135239Z">
@@ -6321,6 +6337,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135248Z" creationid="Franklin Weng" creationdate="20180106T043136Z">
         <seg>下方為Heuristica 12/16，且每個字元間的間距多加0.8點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below: 8/12 Liberation Serif.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034417Z" creationid="zerng07" creationdate="20180122T034417Z">
+        <seg>下：8/12的Liberation Serif。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8590,6 +8614,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T055854Z" creationid="Franklin Weng" creationdate="20171224T082454Z">
         <seg>字型家族（字族）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font sizes of less than 10 points almost always require extra line-spacing for readability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034526Z" creationid="zerng07" creationdate="20180122T034526Z">
+        <seg>小於10點的字型幾乎都要有額外的行距增加可讀性。</seg>
       </tuv>
     </tu>
     <tu>
