@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T134935Z" creationid="Jeff Huang" creationdate="20180122T134935Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.&lt;f0&gt;otg&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125307Z" creationid="Franklin Weng" creationdate="20171212T125307Z">
@@ -8077,6 +8085,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123843Z" creationid="Jeff Huang" creationdate="20180122T123843Z">
         <seg>設計區域漸層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;a&lt;/f0&gt;rea &lt;f1&gt;h&lt;/f1&gt;atchings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T135258Z" creationid="Jeff Huang" creationdate="20180122T135258Z">
+        <seg>設計區域陰影</seg>
       </tuv>
     </tu>
     <tu>
@@ -20757,6 +20773,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your custom gradient fills are stored in the /user/config directory of your personal configuration path in a file with an &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T134931Z" creationid="Jeff Huang" creationdate="20180122T134931Z">
+        <seg>你的自訂漸層填充會儲存在你的個人設定路徑中的/user/config裡的以</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your favorite things</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070254Z" creationid="Jeff Huang" creationdate="20171123T081001Z">
@@ -20873,6 +20897,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T092944Z" creationid="zerng07" creationdate="20170817T092944Z">
         <seg>http://zh-tw.libreoffice.org/download/libreoffice-fresh/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sog extension (StarOffice Gradients).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T135010Z" creationid="Jeff Huang" creationdate="20180122T135010Z">
+        <seg>sog為副檔名的檔案（StarOffice漸層）。</seg>
       </tuv>
     </tu>
     <tu>
