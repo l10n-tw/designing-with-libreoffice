@@ -3942,6 +3942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;If a gradient starts in a different position, it will look slightly different.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T133927Z" creationid="Jeff Huang" creationdate="20180122T133927Z">
+        <seg>&lt;f1&gt;如果漸層從不同的位置開始，它看起來就會有點不同。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;If you are speaking in a language that &lt;/f1&gt;reads left to right, &lt;f2&gt;listeners’&lt;/f2&gt; eyes are more likely to move toward you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T130025Z" creationid="Franklin Weng" creationdate="20180120T130025Z">
@@ -5672,6 +5680,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140328Z" creationid="Jeff Huang" creationdate="20180112T140328Z">
         <seg>所有在圖表中的圖徽都是可編輯的，但 LibreOffice 無法儲存格式設定的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All gradients are defined by the colors they begin with &lt;f0&gt;(From)&lt;/f0&gt; and end with &lt;f1&gt;(To)&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;G&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;radients can also have&lt;/f5&gt; a border, at which the current color partially fades, as well as an angle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T134436Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
+        <seg>所有漸層都是由從&lt;f0&gt;(From)&lt;/f0&gt;開始並結束於&lt;f1&gt;(To)&lt;/f1&gt;。&lt;f5&gt;漸層也可以有&lt;/f5&gt;邊框，目前的顏色會消失，也可以有角度。</seg>
       </tuv>
     </tu>
     <tu>
