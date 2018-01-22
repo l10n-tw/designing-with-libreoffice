@@ -5268,6 +5268,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091154Z" creationid="Jeff Huang" creationdate="20180122T091154Z">
+        <seg>新增圖片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding other elements</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065220Z" creationid="Franklin Weng" creationdate="20180120T065220Z">
@@ -7926,6 +7934,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T101943Z" creationid="Franklin Weng" creationdate="20180105T120321Z">
         <seg>不要太依賴「&lt;f0&gt;格式化&lt;/f0&gt;」工具列或&lt;f1&gt;側邊欄&lt;/f1&gt;中的字型預覽。只看到幾個字還不夠評斷一個字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not try to use &lt;f0&gt;Connect&lt;/f0&gt; or &lt;f1&gt;Combine&lt;/f1&gt; with closed shapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090442Z" creationid="Jeff Huang" creationdate="20180122T090442Z">
+        <seg>不要試圖在封閉形狀上使用&lt;f0&gt;連接&lt;/f0&gt;或&lt;f1&gt;結合&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10778,6 +10794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142115Z" creationid="Franklin Weng" creationdate="20171223T132950Z">
         <seg>如果你沒有要取代樣式，那麼記得別勾選「&lt;f0&gt;覆蓋&lt;/f0&gt;」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do, the result is an abstract shape with few practical purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090539Z" creationid="Jeff Huang" creationdate="20180122T090539Z">
+        <seg>如果你這樣做了，那麼結果就會是一個抽象的形狀，幾乎沒有實際意義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,8 +18155,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To split lines, click &lt;f2&gt;Modify &gt; Break.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090154Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
-        <seg>要分離線條，點按&lt;f2&gt;修改 &gt; 打斷。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090328Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
+        <seg>要分離線條，點按&lt;f2&gt;「修改 &gt; 打斷」。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
