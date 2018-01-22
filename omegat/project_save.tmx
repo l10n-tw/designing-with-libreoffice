@@ -4433,6 +4433,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;It used to accept entries of 1/10 of a point (1/720 of an inch), but, since LibreOffice 4.2, the field rounds entries to the nearest point (1/72) or an inch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023157Z" creationid="zerng07" creationdate="20180122T023157Z">
+        <seg>&lt;f4&gt;過去可以接受輸入以0.1點（1/720 英吋）為最小單位的數值，但從LibreOffice 4.2起，這個欄位會自動捨入成最接近的點數 (1/72) 或英吋數？經測試，5.4 目前可以輸入小數點以下一位喔～</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;LibreOffice remembers whether the window is docked or undocked when you restart it.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101502Z" creationid="zerng07" creationdate="20171224T101502Z">
@@ -14607,6 +14615,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting vertical line spacing</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022721Z" creationid="zerng07" creationdate="20180122T022721Z">
+        <seg>設定垂直行距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting wrap</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T034230Z" creationid="Franklin Weng" creationdate="20180118T034230Z">
@@ -18954,6 +18970,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175725Z" creationid="zerng07" creationdate="20171223T174459Z">
         <seg>Writer可能還不如InDesign這類工具所表現的那般精準，但它確實能媲美FrameMaker這種善於處理大量文字的文書工具。事實上，我還認識一些使用Writer作書籍設計工具的出版社。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer’s &lt;f0&gt;&lt;f1&gt;Line spacing&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; field is&lt;/f2&gt; on the &lt;f3&gt;Indents and Spacing&lt;/f3&gt; tab of each paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022855Z" creationid="zerng07" creationdate="20180122T022855Z">
+        <seg>Writer的「&lt;f0&gt;&lt;f1&gt;行距&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;欄位&lt;/f2&gt;放在各個段落樣式的「&lt;f3&gt;縮排和間距&lt;/f3&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
