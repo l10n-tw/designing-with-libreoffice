@@ -2566,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;RGB&lt;/f0&gt; uses red, green, and blue, &lt;f1&gt;CMYK &lt;/f1&gt;cyan, magenta, yellow, and black.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120002Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
+        <seg>&lt;f0&gt;RGB&lt;/f0&gt;使用了紅、綠、藍，&lt;f1&gt;CMYK &lt;/f1&gt;則使用了青色、洋紅色、黃色與黑色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Readying&lt;/f0&gt; templates &lt;f1&gt;for use&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083717Z" creationid="Franklin Weng" creationdate="20171213T133202Z">
