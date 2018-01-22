@@ -7353,6 +7353,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connecting lines and curves</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084941Z" creationid="Jeff Huang" creationdate="20180122T084941Z">
+        <seg>將線與曲線相連</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connectors are lines attached to &lt;f0&gt;two&lt;/f0&gt; objects by means of glue points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042951Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
@@ -16388,6 +16396,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The bottom of the &lt;f0&gt;&lt;f1&gt;M&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;odify&lt;/f2&gt; menu arranges items &lt;f3&gt;in &lt;/f3&gt;combinations of general curves, lines, and shapes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T085252Z" creationid="Jeff Huang" creationdate="20180122T085252Z">
+        <seg>「修改」選單的底部以一般曲線、線條與形狀組合而成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The characteristics of graphic text are mostly the same as for &lt;f0&gt;text documents, with a few minor changes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T070635Z" creationid="Jeff Huang" creationdate="20180104T070635Z">
@@ -18831,6 +18847,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115123Z" creationid="zerng07" creationdate="20171226T115105Z">
         <seg>當&lt;f0&gt;填充模式&lt;/f0&gt;可以使用時，游標會變成傾倒油漆桶的樣貌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;Intersect&lt;/f0&gt; is chosen, the visible portion of the rectangle disappears, leav&lt;f1&gt;ing&lt;/f1&gt; the objects in the middle merged to form a flaming ship.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084923Z" creationid="Jeff Huang" creationdate="20180122T084923Z">
+        <seg>當選擇&lt;f0&gt;相交時&lt;/f0&gt;，矩形可見的部份會消失，留下中間的物件並合併成火燄船。</seg>
       </tuv>
     </tu>
     <tu>
