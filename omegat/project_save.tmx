@@ -1153,6 +1153,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Change Image: &lt;/f0&gt;Replaces the current image with another one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092135Z" creationid="Jeff Huang" creationdate="20180122T092135Z">
+        <seg>&lt;f0&gt;變更圖片：&lt;/f0&gt;以另一張圖片取代目前的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Changing&lt;/f0&gt; the style hierarchy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143929Z" creationid="zerng07" creationdate="20171225T143929Z">
@@ -1262,6 +1270,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132009Z" creationid="Jeff Huang" creationdate="20180113T132009Z">
         <seg>&lt;f0&gt;直欄：&lt;/f0&gt;&lt;f1&gt;資料以直欄顯示。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Compress Image: &lt;/f0&gt;Reduces the resolution, and therefore the size of the LibreOffice file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092315Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
+        <seg>&lt;f0&gt;壓縮圖片：&lt;/f0&gt;降低解析度，以及 LibreOffice 檔案的大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,6 +1439,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030133Z" creationid="zerng07" creationdate="20171227T030124Z">
         <seg>&lt;f0&gt;從工具列中編輯樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit with External Tool:&lt;/f0&gt; Opens the image in the system’s default graphics editor.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092411Z" creationid="Jeff Huang" creationdate="20180122T092411Z">
+        <seg>&lt;f0&gt;以外部工具編輯：&lt;/f0&gt;以系統的預設圖形編輯器開啟圖片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2642,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T094610Z" creationid="zerng07" creationdate="20170822T184603Z">
         <seg>&lt;f0&gt;SIL&lt;/f0&gt; International &lt;f1&gt;是個任務型組織，&lt;/f1&gt;專注於少數語言的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save Image:&lt;/f0&gt; Copies the image to its own file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092225Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
+        <seg>&lt;f0&gt;儲存圖片：&lt;/f0&gt;將圖片另存成一個檔案。</seg>
       </tuv>
     </tu>
     <tu>
