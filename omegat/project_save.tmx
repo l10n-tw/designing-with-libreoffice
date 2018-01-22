@@ -5613,6 +5613,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apache OpenOffice still allows entries of 1/10 &lt;f0&gt;points.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023520Z" creationid="zerng07" creationdate="20180122T023520Z">
+        <seg>Apache OpenOffice也一樣容許以1/10&lt;f0&gt;點為單位輸入。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T125250Z" creationid="Franklin Weng" creationdate="20171212T125250Z">
@@ -6169,6 +6177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T144345Z" creationid="Franklin Weng" creationdate="20180105T150036Z">
         <seg>初學的字體排印家常常受困於&lt;f0&gt;如何拿捏文件中各空間的比例關係&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Believe it or not, 1/10 of a point can make a large visual difference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023427Z" creationid="zerng07" creationdate="20180122T023427Z">
+        <seg>無論你相不相信，這1/10個點確實能大幅改變視覺上的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10753,6 +10769,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T054848Z" creationid="Franklin Weng" creationdate="20171228T050108Z">
         <seg>如果你的阿拉伯數字是舊式數字，旁邊可以搭配使用小型大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used your choice of fonts to determine the magic number, then you have already adjusted this option &lt;f0&gt;using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Fixed&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; setting in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Line spacing&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023853Z" creationid="zerng07" creationdate="20180122T023853Z">
+        <seg>如果你有依據選擇的字型決定魔術數字，那麼你應該已經有調整過「&lt;f4&gt;&lt;f5&gt;行距&lt;/f5&gt;&lt;/f4&gt;」欄位中的「&lt;f1&gt;&lt;f2&gt;固定&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;選項設定&lt;/f3&gt;&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17369,8 +17393,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This rounding produces adequate results, but not always optimal ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023305Z" creationid="zerng07" creationdate="20180122T023305Z">
-        <seg>這個捨入進位的動作產生的效果算是不錯，但不是最佳做法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023444Z" creationid="zerng07" creationdate="20180122T023305Z">
+        <seg>這個捨入進位的動作產生的結果還算不錯，但不是最佳做法。</seg>
       </tuv>
     </tu>
     <tu>
