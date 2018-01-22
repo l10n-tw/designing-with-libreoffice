@@ -7369,6 +7369,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect two curves with &lt;f0&gt;Modify &gt; Combine&lt;/f0&gt;, and split them with &lt;f1&gt;Modify &gt; Split&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090314Z" creationid="Jeff Huang" creationdate="20180122T090314Z">
+        <seg>以&lt;f0&gt;「修改 &gt; 結合」&lt;/f0&gt;連接兩條曲線，或以&lt;f1&gt;「修改 &gt; 分離」&lt;/f1&gt;來分離它們。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connecting lines and curves</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084941Z" creationid="Jeff Huang" creationdate="20180122T084941Z">
@@ -18117,6 +18125,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134856Z" creationid="Jeff Huang" creationdate="20180118T134856Z">
         <seg>要移除它們，在物件上點按右鍵並選取&lt;f0&gt;「線條 &gt; 樣式 &gt; 無」。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To split lines, click &lt;f2&gt;Modify &gt; Break.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090154Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
+        <seg>要分離線條，點按&lt;f2&gt;修改 &gt; 打斷。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
