@@ -17023,6 +17023,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The same effect could be &lt;f0&gt;m&lt;/f0&gt;ad&lt;f1&gt;e&lt;/f1&gt; by changing the dingbat’s color, but a white character on a white background would be easy to lose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T083319Z" creationid="Jeff Huang" creationdate="20180122T083319Z">
+        <seg>同樣的效果可以透過變更 dingbat 的顏色來做到，但白色的字在白色的背景上很容易看不到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same is also true for the three dimensional options for most types of graphs, which can have a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Simple&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Realistic&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; rendering.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T135014Z" creationid="Jeff Huang" creationdate="20180113T135014Z">
