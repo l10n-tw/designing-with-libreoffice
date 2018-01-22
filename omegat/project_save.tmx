@@ -3009,6 +3009,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The other options for line spacing are different ways of expressing line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T025944Z" creationid="zerng07" creationdate="20180122T025944Z">
+        <seg>&lt;f0&gt;其他的行距選項則是不同的行距表達方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The placeholders are added as fields in the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121426Z" creationid="Franklin Weng" creationdate="20171223T093157Z">
@@ -7456,6 +7464,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cut-off characters are a sign that the &lt;f0&gt;Fixed&lt;/f0&gt; line spacing needs to be either adjusted or replaced by &lt;f1&gt;At Least.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T025918Z" creationid="zerng07" creationdate="20180122T025918Z">
+        <seg>看到被截斷的字，代表應該調整「&lt;f0&gt;固定&lt;/f0&gt;」行距數值，或是替換為「&lt;f1&gt;至少&lt;/f1&gt;」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date and time fields &lt;f0&gt;are of two kinds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124518Z" creationid="Franklin Weng" creationdate="20171223T093806Z">
@@ -8254,6 +8270,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125029Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
         <seg>範例：使用佔位項和欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Except for quick, one-off documents, avoid the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Single, 1.5 lines,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Double&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T030227Z" creationid="zerng07" creationdate="20180122T030227Z">
+        <seg>除了方便求快、一次性的文件之外，都應該避免使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「單行」、「1.5 行」、&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「雙行」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;這些選項。</seg>
       </tuv>
     </tu>
     <tu>
