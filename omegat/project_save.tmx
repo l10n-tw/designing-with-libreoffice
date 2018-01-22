@@ -14689,8 +14689,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, in a simple document, an automatic first line indent may completely remove the need to set tab stops.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022435Z" creationid="zerng07" creationdate="20180122T022435Z">
-        <seg>還有，如果是一份簡單的文件，啟用自動第一行縮排後幾乎能完全免除設置定位點的需求。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022642Z" creationid="zerng07" creationdate="20180122T022435Z">
+        <seg>還有，如果處理的是簡單文件，啟用自動第一行縮排後幾乎能完全免除設置定位點的需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16223,6 +16223,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142737Z" creationid="Franklin Weng" creationdate="20171223T133637Z">
         <seg>你所看到的實際路徑會依作業系統與LibreOffice發行版本而有所不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fact that many defaults can be used unchanged or entirely ignored greatly reduces the amount of designing necessary to complete a template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022712Z" creationid="zerng07" creationdate="20180122T022613Z">
+        <seg>所以，實際上有許多預設值你都可以直接沿用或是完全忽略，如此可大幅降低完成範本設計所需的工作量。</seg>
       </tuv>
     </tu>
     <tu>
