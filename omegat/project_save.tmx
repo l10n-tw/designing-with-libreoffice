@@ -641,8 +641,8 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;Formatting an object's area means choosing a fill for it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035109Z" creationid="Jeff Huang" creationdate="20171229T035109Z">
-        <seg>&lt;/f6&gt;對物件的區域做格式設定代表了為它選擇填充。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100139Z" creationid="Jeff Huang" creationdate="20171229T035109Z">
+        <seg>&lt;/f6&gt;對物件的區塊做格式設定的意思是選擇用什麼樣式來填滿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you change the shadow’s position, use the same position for other shadows throughout the document.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T055945Z" creationid="Jeff Huang" creationdate="20180104T055945Z">
-        <seg>&lt;f0&gt;如果你變更了陰影的位置，請把整份文件中其他地方的陰影也調整至相同的位置。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100429Z" creationid="Jeff Huang" creationdate="20180104T055945Z">
+        <seg>&lt;f0&gt;如果你變更了陰影的位置，記得把整份文件中其他地方的陰影也調整至相同的位置。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3003,8 +3003,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for graphic text is roughly equivalent to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Background&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in some other types of styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120041Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
-        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁大約等價於&lt;/f3&gt;在其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100058Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
+        <seg>圖形化文字的&lt;f1&gt;&lt;f2&gt;區塊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁大致上跟&lt;/f3&gt;其他樣式中的&lt;f4&gt;&lt;f5&gt;背景&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤頁相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3291,8 +3291,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To add a fill, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and select the tab for the type of fill you want to add.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120015Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
-        <seg>&lt;f0&gt;要新增填充，使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並選取你想要新增的填充類型的標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100201Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
+        <seg>&lt;f0&gt;要新增填充格式，到選單中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並選取你想要新增的填充類型的標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9109,8 +9109,8 @@
       <tuv lang="EN">
         <seg>For Tab</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T071718Z" creationid="Jeff Huang" creationdate="20180104T071718Z">
-        <seg>分頁</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101418Z" creationid="Jeff Huang" creationdate="20180104T071718Z">
+        <seg>標籤頁</seg>
       </tuv>
     </tu>
     <tu>
@@ -10510,8 +10510,8 @@
       <tuv lang="EN">
         <seg>However, you can use Draw to define custom fills.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034825Z" creationid="Jeff Huang" creationdate="20171229T034825Z">
-        <seg>不過你可以使用繪製來自行定義填充。&lt;/f13&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T095952Z" creationid="Jeff Huang" creationdate="20171229T034825Z">
+        <seg>不過你可以用 Draw 來自己做填充格式。&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11653,8 +11653,8 @@
       <tuv lang="EN">
         <seg>In many cases, all you need is to check the &lt;f1&gt;&lt;f2&gt;Use&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; shadow&lt;/f3&gt; box.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T040355Z" creationid="Jeff Huang" creationdate="20171229T040355Z">
-        <seg>在許多例子中，你需要勾選的部份只有&lt;f1&gt;&lt;f2&gt;使用&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;陰影&lt;/f3&gt;勾選框。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100356Z" creationid="Jeff Huang" creationdate="20171229T040355Z">
+        <seg>在大部份狀況下，你需要的只有勾選「&lt;f1&gt;&lt;f2&gt;使用&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;陰影&lt;/f3&gt;」勾選框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12118,8 +12118,8 @@
       <tuv lang="EN">
         <seg>It is less common today, but can still be useful in creating a quick illusion of three dimensions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T040037Z" creationid="Jeff Huang" creationdate="20171229T040037Z">
-        <seg>現在已經不流行了，不過用來快速建立三維錯覺還是很有用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100307Z" creationid="Jeff Huang" creationdate="20171229T040037Z">
+        <seg>現在已經不流行了，不過用來快速建立三維的視覺還是很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14867,8 +14867,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See Chapter 13 for more details.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035339Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
-        <seg>參閱第十三章以取得更多資訊。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100246Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
+        <seg>詳情可以看第 13 章。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16108,8 +16108,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Transparency&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab&lt;/f2&gt; also includes options for creating a gradient, duplicating the options at &lt;f3&gt;Format &gt; Area &gt; Gradient&lt;/f3&gt; &lt;t4/&gt;&lt;f5&gt;(see above).&lt;/f5&gt; In terms of graphic styles, the tab’s gradient control allow&lt;f6&gt;s&lt;/f6&gt; you to customize gradients, while the &lt;f7&gt;Area&lt;/f7&gt; tab only lets you choose pre-defined gradients.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115919Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「透明」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;標籤頁&lt;/f2&gt;也包含了建立件層的選項，其與&lt;f3&gt;「格式 &gt; 區塊 &gt; 漸層」&lt;/f3&gt;中的選項相同 &lt;t4/&gt;&lt;f5&gt;（參見上面的內容）。&lt;/f5&gt;就圖形樣式而言，標籤頁裡的漸層控制讓你可以自訂漸層，而&lt;f7&gt;區塊&lt;/f7&gt;標籤頁則僅能讓你選擇預先定義好的漸層。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100523Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「透明」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;標籤頁&lt;/f2&gt;也包含了建立漸層的選項，與&lt;f3&gt;「格式 &gt; 區塊 &gt; 漸層」&lt;/f3&gt;中的選項相同 &lt;t4/&gt;&lt;f5&gt;（參見上面的內容）。&lt;/f5&gt;就圖形樣式而言，標籤頁裡的漸層控制讓你可以自訂漸層，而&lt;f7&gt;區塊&lt;/f7&gt;標籤頁則僅能讓你選擇預先定義好的漸層。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16542,8 +16542,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The area of a draw&lt;f0&gt;ing&lt;/f0&gt; object can be formatted &lt;f1&gt;with&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;Colors&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;,&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Gradients&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Hatchings&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, and &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Bitmaps&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035550Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
-        <seg>繪製物件的區塊可以使用&lt;f2&gt;&lt;f3&gt;顏色&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;來格式化。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T095842Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
+        <seg>繪圖物件的區塊內可以選擇使用&lt;f2&gt;&lt;f3&gt;顏色&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;等格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,8 +19819,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You are restricted to the fills already defined in LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T034750Z" creationid="Jeff Huang" creationdate="20171229T034750Z">
-        <seg>你只能使用已在 LibreOffice 中定義的填充。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T095902Z" creationid="Jeff Huang" creationdate="20171229T034750Z">
+        <seg>你只能使用已在 LibreOffice 中定義的這些填充格式。</seg>
       </tuv>
     </tu>
     <tu>
