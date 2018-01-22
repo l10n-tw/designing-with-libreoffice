@@ -3145,6 +3145,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The fact that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is used online and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for hard copy explains &lt;/f6&gt;w&lt;f7&gt;hy printing exactly the colors you see&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;online can be challenging.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120510Z" creationid="Jeff Huang" creationdate="20180122T120510Z">
+        <seg>&lt;f0&gt;事實上，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;用於線上，而&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;則用於印刷，這可以解釋&lt;/f6&gt;&lt;f7&gt;為什麼印刷色彩較精準&lt;/f7&gt;&lt;f10&gt;，而線上的色彩則各個不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The first font you&lt;/f0&gt; need &lt;f1&gt;is &lt;/f1&gt;a body text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T113732Z" creationid="Franklin Weng" creationdate="20180101T132509Z">
@@ -16376,6 +16384,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164745Z" creationid="zerng07" creationdate="20171226T164524Z">
         <seg>或許「&lt;f1&gt;預設樣式&lt;/f1&gt;」和「&lt;f2&gt;內文&lt;/f2&gt;」段落樣式會很適合作巨集使用，此外還有「&lt;f3&gt;強調&lt;/f3&gt;」和「&lt;f4&gt;特別強調&lt;/f4&gt;」字元樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f2&gt;CMYK&lt;/f2&gt; model is generally considered the most accurate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120107Z" creationid="Jeff Huang" creationdate="20180122T120107Z">
+        <seg>&lt;f2&gt;CMYK&lt;/f2&gt;模型通常被認為較精準。</seg>
       </tuv>
     </tu>
     <tu>
