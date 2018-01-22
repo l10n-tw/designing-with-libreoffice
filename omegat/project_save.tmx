@@ -8970,6 +8970,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, line spacing may be unimportant in headings, since &lt;f0&gt;headings&lt;/f0&gt; are often less than a single line in length.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T021932Z" creationid="zerng07" creationdate="20180122T021932Z">
+        <seg>例如，行距設定在標題中可能就沒那麼重要，畢竟&lt;f0&gt;標題&lt;/f0&gt;的長度很少會超過一行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For many users, the &lt;f0&gt;&lt;f1&gt;Styles and Formatting&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; window &lt;/f2&gt;is the most efficient way to apply styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091319Z" creationid="zerng07" creationdate="20171226T091319Z">
@@ -14675,6 +14683,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T160953Z" creationid="zerng07" creationdate="20171227T160953Z">
         <seg>相同的，字元樣式包含&lt;f5&gt;強調&lt;/f5&gt;和&lt;f6&gt;網際網路連結&lt;/f6&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, in a simple document, an automatic first line indent may completely remove the need to set tab stops.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022435Z" creationid="zerng07" creationdate="20180122T022435Z">
+        <seg>還有，如果是一份簡單的文件，啟用自動第一行縮排後幾乎能完全免除設置定位點的需求。</seg>
       </tuv>
     </tu>
     <tu>
