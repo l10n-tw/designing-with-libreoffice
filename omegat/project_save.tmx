@@ -895,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Another vague option is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Leading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031839Z" creationid="zerng07" creationdate="20180122T031839Z">
+        <seg>&lt;f0&gt;另一個名稱有點模糊的選項是「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;鉛插</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Another&lt;/f0&gt; problem with these official sites is that each template must be downloaded and installed separately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T084848Z" creationid="Franklin Weng" creationdate="20171215T124243Z">
@@ -8316,8 +8324,8 @@
       <tuv lang="EN">
         <seg>Except for quick, one-off documents, avoid the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Single, 1.5 lines,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Double&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; options.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T030227Z" creationid="zerng07" creationdate="20180122T030227Z">
-        <seg>除了方便求快、一次性的文件之外，都應該避免使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「單行」、「1.5 行」、&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「雙行」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;這些選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031023Z" creationid="zerng07" creationdate="20180122T030227Z">
+        <seg>除了方便求快、一次性的文件之外，都應該避免使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「單行」、「1.15行」、「1.5 行」、&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「雙行」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;這些選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11412,8 +11420,8 @@
       <tuv lang="EN">
         <seg>In other words, this option places you two removes from the actual figure for line spacing.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031006Z" creationid="zerng07" creationdate="20180122T031006Z">
-        <seg>換言之，&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031806Z" creationid="zerng07" creationdate="20180122T031006Z">
+        <seg>換言之，這個選項讓你避開行距的實際數字。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17177,8 +17185,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These options use Writer’s standard defaults for line spacing, and are optimal for any given font only by luck.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T030533Z" creationid="zerng07" creationdate="20180122T030520Z">
-        <seg>這些選項使用Writer的行距標準預設值，所以要有最佳字型視覺效果就只能碰碰運氣了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031033Z" creationid="zerng07" creationdate="20180122T030520Z">
+        <seg>這些選項使用Writer的行距標準預設值，所以想得到最佳字型視覺效果就只能碰碰運氣了。</seg>
       </tuv>
     </tu>
     <tu>
