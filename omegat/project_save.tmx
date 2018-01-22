@@ -384,8 +384,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;When you move an object that has connectors, the connectors are modified to keep them attached to the objects at the other end.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041219Z" creationid="Jeff Huang" creationdate="20171229T014117Z">
-        <seg>&lt;/f0&gt;當你移動有連接點的物件時，連接點將會自動修正以保持另一邊的物件仍然相連。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042940Z" creationid="Jeff Huang" creationdate="20171229T014117Z">
+        <seg>&lt;/f0&gt;當你移動有連接線接著的物件時，連接線將會自動修正以保持另一邊的物件仍然相連。</seg>
       </tuv>
     </tu>
     <tu>
@@ -697,8 +697,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Line: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;A connector with a small segment at each end for adding a change of direction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041407Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;每個端點都有一小部份用來加入方向變更的連接點。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043043Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;每個端點都有一小部份用來加入方向變更的連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1268,8 +1268,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Connectors join shapes together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041210Z" creationid="Jeff Huang" creationdate="20171229T013858Z">
-        <seg>&lt;f0&gt;連接點將形狀相連在一起。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042910Z" creationid="Jeff Huang" creationdate="20171229T013858Z">
+        <seg>&lt;f0&gt;連接線將形狀相連在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1292,8 +1292,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Curved:&lt;/f0&gt; A connector with one curved line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020953Z" creationid="Jeff Huang" creationdate="20171229T020953Z">
-        <seg>&lt;f0&gt;曲線：&lt;/f0&gt;包含一條曲線的連接符。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043147Z" creationid="Jeff Huang" creationdate="20171229T020953Z">
+        <seg>&lt;f0&gt;曲線：&lt;/f0&gt;包含一條曲線的連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2763,8 +2763,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Standard:&lt;/f0&gt; A connector with horizontal and vertical lines, &lt;f1&gt;possibly &lt;/f1&gt;with one right angle in it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041331Z" creationid="Jeff Huang" creationdate="20171229T015109Z">
-        <seg>&lt;f0&gt;標準：&lt;/f0&gt;有水平線與垂直線的連接點，&lt;f1&gt;也可能&lt;/f1&gt;包含一個直角。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043029Z" creationid="Jeff Huang" creationdate="20171229T015109Z">
+        <seg>&lt;f0&gt;標準：&lt;/f0&gt;有水平線與垂直線的連接線，&lt;f1&gt;也可能&lt;/f1&gt;包含一個直角。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,8 +2787,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Straight: &lt;/f0&gt;A connector that consists of a single vertical or horizontal line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020335Z" creationid="Jeff Huang" creationdate="20171229T020335Z">
-        <seg>&lt;f0&gt;直線：&lt;/f0&gt;一個僅包含垂直或水平線的連接符。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043054Z" creationid="Jeff Huang" creationdate="20171229T020335Z">
+        <seg>&lt;f0&gt;直線：&lt;/f0&gt;一個僅包含垂直或水平線的連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,8 +3511,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can also select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Glue Point&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button on the Drawing tool bar.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021821Z" creationid="Jeff Huang" creationdate="20171229T021821Z">
-        <seg>&lt;f0&gt;你也可以點選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;連接點&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕，其位於繪圖工具列上。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043207Z" creationid="Jeff Huang" creationdate="20171229T021821Z">
+        <seg>&lt;f0&gt;你也可以點選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕，其位於繪圖工具列上。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3671,8 +3671,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Curved connectors are most suitable when you want an informal look to a diagram, perhaps to suggest that the relationships you are illustrating are approximate.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021224Z" creationid="Jeff Huang" creationdate="20171229T021224Z">
-        <seg>&lt;f1&gt;當你想要一個非正式的圖表，可能是想要表達所說的關係相近，此時適合使用曲線連接符。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043151Z" creationid="Jeff Huang" creationdate="20171229T021224Z">
+        <seg>&lt;f1&gt;當你想要一個非正式的圖表，可能是想要表達所說的關係相近，此時適合使用曲線連接線。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,8 +3930,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Straight connectors are by far the easiest ones &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;to use, but you may not always have the space for them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020751Z" creationid="Jeff Huang" creationdate="20171229T020751Z">
-        <seg>&lt;f1&gt;直線連接符是到目前為止最容易使用的連接符&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;，但你可能並不會一直空間給它們使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043136Z" creationid="Jeff Huang" creationdate="20171229T020751Z">
+        <seg>&lt;f1&gt;直線連接線是到目前為止最容易使用的連接線&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;，但能並不一定有空間給它們用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,8 +4115,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;A Standard connector is useful in crowded hierarchical diagrams, in which several objects are subordinate to one above them, such as directors below executive officers in a company chart.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041400Z" creationid="Jeff Huang" creationdate="20171229T015813Z">
-        <seg>&lt;f2&gt;標準連接點在擁擠的分層圖中很有用，在這種分層圖中，可能會有幾個物件從屬於其上的物件，如執行長下的處長等等。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043033Z" creationid="Jeff Huang" creationdate="20171229T015813Z">
+        <seg>&lt;f2&gt;標準連接線在擁擠的分層圖中很有用，在這種分層圖中，可能會有幾個物件從屬於其上的物件，如執行長下的處長等等。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5398,8 +5398,8 @@
       <tuv lang="EN">
         <seg>All connectors can end with an arrow or an open or filled circle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021353Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
-        <seg>所有連接符都可以以一個箭頭或開放式或封閉式的圓圈結束。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043158Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
+        <seg>所有連接線都可以以一個箭頭或開放式或封閉式的圓圈結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7347,8 +7347,8 @@
       <tuv lang="EN">
         <seg>Connectors are lines attached to &lt;f0&gt;two&lt;/f0&gt; objects by means of glue points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041258Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
-        <seg>連接點是將&lt;f0&gt;兩個&lt;/f0&gt;物件透過固定的接點連線起來的線條。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042951Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
+        <seg>連接線是將&lt;f0&gt;兩個&lt;/f0&gt;物件透過固定的接點連線起來的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8309,8 +8309,8 @@
       <tuv lang="EN">
         <seg>Even so, you may sometimes save time by deleting existing connectors and adding new ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T022632Z" creationid="Jeff Huang" creationdate="20171229T022632Z">
-        <seg>即使如此，有時移除既有的連接符並新增另一個可能較為節省時間。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043327Z" creationid="Jeff Huang" creationdate="20171229T022632Z">
+        <seg>即使如此，有時移除既有的連接線並新增另一個可能較為節省時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8437,8 +8437,8 @@
       <tuv lang="EN">
         <seg>Extend a connector to the center of one side of a shape, and it immediately converts to a Straight connector.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020858Z" creationid="Jeff Huang" creationdate="20171229T020858Z">
-        <seg>將連接符延伸至形狀一邊的中心，然後它就會立刻轉換為直線連接符。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043144Z" creationid="Jeff Huang" creationdate="20171229T020858Z">
+        <seg>將連接線延伸至形狀一邊的中心，然後它就會立刻轉換為直線連接線。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8941,8 +8941,8 @@
       <tuv lang="EN">
         <seg>For a Line or Straight connector, you can also adjust the &lt;t1/&gt;line skew – that is, the length of the line segments included – &lt;f2&gt;and the horizontal and vertical space for the line segments.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T022242Z" creationid="Jeff Huang" creationdate="20171229T022242Z">
-        <seg>對於線條或直線連接符，你也可以調整&lt;t1/&gt;線段偏斜（此即包含線段的長度）&lt;f2&gt;以及線段的水平與垂直間距。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043255Z" creationid="Jeff Huang" creationdate="20171229T022242Z">
+        <seg>對於線條或直線連接線，你也可以調整&lt;t1/&gt;線段偏斜（此即包含線段的長度）&lt;f2&gt;以及線段的水平與垂直間距。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13279,8 +13279,8 @@
       <tuv lang="EN">
         <seg>Objects at the other end of the connector remain in place &lt;f0&gt;unless you select both objects, which drags the objects and the connectors between them as though all elements were grouped.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041226Z" creationid="Jeff Huang" creationdate="20171229T014546Z">
-        <seg>&lt;f0&gt;除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳&lt;/f0&gt;，否則連接點另一端的物件會留在原位。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042946Z" creationid="Jeff Huang" creationdate="20171229T014546Z">
+        <seg>&lt;f0&gt;除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳&lt;/f0&gt;，否則連接線另一端的物件會留在原位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14890,8 +14890,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting connectors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041202Z" creationid="Jeff Huang" creationdate="20171229T013748Z">
-        <seg>設定連接點</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042918Z" creationid="Jeff Huang" creationdate="20171229T013748Z">
+        <seg>設定連接線（Connectors）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16662,8 +16662,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The four types of connectors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021242Z" creationid="Jeff Huang" creationdate="20171229T021242Z">
-        <seg>四種連接符。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043153Z" creationid="Jeff Huang" creationdate="20171229T021242Z">
+        <seg>四種連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17362,8 +17362,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These settings are especially useful when repositioning has twisted connectors out of shape, or when you are adding the final touches to a diagram and trying to make everything consistent and uncluttered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T022520Z" creationid="Jeff Huang" creationdate="20171229T022520Z">
-        <seg>這些設定在重新定位已經偏離原本形狀的連接符，或是當你在圖表上做最後修正以讓一切看起來整齊一致時相當有用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043320Z" creationid="Jeff Huang" creationdate="20171229T022520Z">
+        <seg>這些設定在重新定位已經偏離原本形狀的連接線，或是當你在圖表上做最後修正以讓一切看起來整齊一致時相當有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17847,19 +17847,20 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 移除左邊算來第幾個的描述</note>
       <tuv lang="EN">
         <seg>To add a connector, click the &lt;f0&gt;Connector&lt;/f0&gt; button on the Drawing tool bar (the eighth from the left).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041322Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
-        <seg>要新增連接點，在繪圖工具列上點選&lt;f0&gt;連接點&lt;/f0&gt;按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043022Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
+        <seg>要新增連接線，在繪圖工具列上點選&lt;f0&gt;連接線&lt;/f0&gt;按鈕。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To adjust a connector, go to the &lt;f0&gt;Connector&lt;/f0&gt; tab of a graphic style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120118Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
-        <seg>要調整連接符，請到圖樣的&lt;f0&gt;連接符&lt;/f0&gt;標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043248Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
+        <seg>要調整連接線，請到繪圖樣式中的&lt;f0&gt;連接線&lt;/f0&gt;標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18476,8 +18477,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Use Line connectors in diagrams that are even more crowded than the ones in which you use Standard connectors.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T020218Z" creationid="Jeff Huang" creationdate="20171229T020218Z">
-        <seg>與使用標準連接符時相比更擁擠的圖表中可以使用線條連接符。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043050Z" creationid="Jeff Huang" creationdate="20171229T020218Z">
+        <seg>與使用標準連接線時相比更擁擠的圖表中可以使用線條連接線。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19562,8 +19563,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can adjust the shape of a connector by selecting it and dragging on its handle, or by moving one of the objects to which it is attached.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T021717Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
-        <seg>你可以透過選取連接符並拖曳其把手來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043203Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
+        <seg>你可以透過選取連接線並拖曳其把手來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19634,8 +19635,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can choose between four kinds of connector:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041326Z" creationid="Jeff Huang" creationdate="20171229T015000Z">
-        <seg>你可以從四種連接點中任選一種：</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043025Z" creationid="Jeff Huang" creationdate="20171229T015000Z">
+        <seg>你可以從四種連接線中任選一種：</seg>
       </tuv>
     </tu>
     <tu>
