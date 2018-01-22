@@ -6726,6 +6726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bitmaps &lt;f0&gt;refer in this context to&lt;/f0&gt; tiles that are used to create a repeating pattern.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140118Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
+        <seg>點陣圖&lt;f0&gt;在這種情況下&lt;/f0&gt;用於建立重複圖案的拼貼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blinking and scrolling are usually the antithesis of everything that a design element is supposed to do – instead of enhancing content, they distract readers’ attention from it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T132646Z" creationid="Jeff Huang" creationdate="20180108T132646Z">
@@ -20277,6 +20285,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025539Z" creationid="Jeff Huang" creationdate="20180122T025539Z">
         <seg>你可以透過以不同的方式組合基本形狀來建構較複雜的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can build your own tile, pixel by pixel in the Pattern Editor, or load a fill from another source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140235Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
+        <seg>你可以從像素開始，使用胚騰編輯器建立你自己的拼貼，或是從其他來源載入已有的填充。</seg>
       </tuv>
     </tu>
     <tu>
