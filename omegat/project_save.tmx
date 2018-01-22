@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T110946Z" creationid="Franklin Weng" creationdate="20180122T110946Z">
+        <seg>&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Fixed&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; remains by far the best setting, because it is the only option that gives an exact measurement.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024039Z" creationid="zerng07" creationdate="20180122T024039Z">
@@ -4965,8 +4973,8 @@
       <tuv lang="EN">
         <seg>A chart &lt;f0&gt;is&lt;/f0&gt; ready to edit &lt;f1&gt;when it has a gray border.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140537Z" creationid="Jeff Huang" creationdate="20180112T140537Z">
-        <seg>當圖表出現灰色邊框時，其即代表可以編輯。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T111253Z" creationid="Jeff Huang" creationdate="20180112T140537Z">
+        <seg>當圖表出現灰色邊框時，就代表可以編輯。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7199,11 +7207,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 6.0 版只看到 10 種</note>
       <tuv lang="EN">
         <seg>Charts are available in &lt;f0&gt;eleven&lt;/f0&gt; types, many in &lt;f1&gt;both &lt;/f1&gt;2D and 3D.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131729Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
-        <seg>圖表一共有&lt;f0&gt;十一種&lt;/f0&gt;類型，大多數都&lt;f1&gt;同時&lt;/f1&gt;有 2D 與 3D 的版本。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112550Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
+        <seg>圖表一共有&lt;f0&gt;10 種&lt;/f0&gt;類型，大多數都&lt;f1&gt;同時&lt;/f1&gt;有 2D 與 3D 的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,8 +11234,8 @@
       <tuv lang="EN">
         <seg>If you want a chart to look similar to another one, you &lt;f0&gt;must&lt;/f0&gt; copy and paste.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140433Z" creationid="Jeff Huang" creationdate="20180112T140433Z">
-        <seg>如果你想要讓一張圖表看起來像另一個，你&lt;f0&gt;必須&lt;/f0&gt;複製並貼上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T111238Z" creationid="Jeff Huang" creationdate="20180112T140433Z">
+        <seg>如果你想要建立一張類似的圖表，你&lt;f0&gt;必須&lt;/f0&gt;複製並貼上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11339,8 +11348,8 @@
       <tuv lang="EN">
         <seg>In 4.4 or higher, simply start typing inside each element.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T140315Z" creationid="Jeff Huang" creationdate="20180111T140315Z">
-        <seg>在4.4或更新的版本中，只要直接在每個元素中輸入文字就可以了。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T110822Z" creationid="Jeff Huang" creationdate="20180111T140315Z">
+        <seg>在4.4 以後的版本中，只要直接在每個元素中輸入文字就可以了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11573,8 +11582,8 @@
       <tuv lang="EN">
         <seg>In either case, you may come to appreciate the advantages of styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135243Z" creationid="Jeff Huang" creationdate="20180111T135243Z">
-        <seg>無論在哪種例子中，你都可以體會到樣式的優點。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T110741Z" creationid="Jeff Huang" creationdate="20180111T135243Z">
+        <seg>無論在哪種狀況中，你都可以體會到樣式的優點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12362,8 +12371,8 @@
       <tuv lang="EN">
         <seg>Keep the line length and position as regular and as few as possible, unless you are trying for an informal look.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T133600Z" creationid="Jeff Huang" creationdate="20180112T133600Z">
-        <seg>請讓線條長度與位置盡可能保持整齊，除非你想要非正式的外觀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T110844Z" creationid="Jeff Huang" creationdate="20180112T133600Z">
+        <seg>請讓線條長度與位置盡可能保持整齊，除非你只是在嘗試非正式的外觀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19239,8 +19248,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When the gray border &lt;f0&gt;does not show&lt;/f0&gt;, you can edit the separate elements of the chart, &lt;f1&gt;but not the general structure.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140826Z" creationid="Jeff Huang" creationdate="20180112T140826Z">
-        <seg>在灰色邊框&lt;f0&gt;未顯示時&lt;/f0&gt;，你可以編輯圖表中各別元素，&lt;f1&gt;但無法編輯一般結構。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T111310Z" creationid="Jeff Huang" creationdate="20180112T140826Z">
+        <seg>在灰色邊框&lt;f0&gt;未顯示時&lt;/f0&gt;，你可以編輯圖表中個別元素，&lt;f1&gt;但無法編輯一般結構。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
