@@ -1298,6 +1298,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Crop Image:&lt;/f0&gt; Display only part of the image, or resize the image display.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091928Z" creationid="Jeff Huang" creationdate="20180122T091928Z">
+        <seg>&lt;f0&gt;裁切圖片：&lt;/f0&gt;僅顯示一部份的圖片，或是調整圖片顯示的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Curved:&lt;/f0&gt; A connector with one curved line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043147Z" creationid="Jeff Huang" creationdate="20171229T020953Z">
@@ -17058,6 +17066,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145441Z" creationid="Franklin Weng" creationdate="20180103T133255Z">
         <seg>原始的人文主義字型灰度較深，可能是為了讓文字在燭光的照明下看得比較清楚之故。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The original picture file is not affected in either case.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092101Z" creationid="Jeff Huang" creationdate="20180122T092101Z">
+        <seg>不論在什麼情況下，原始的圖片檔都不會被影響。</seg>
       </tuv>
     </tu>
     <tu>
