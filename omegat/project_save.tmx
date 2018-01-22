@@ -5452,6 +5452,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All standard graphic formats are supported, but Draw is especially useful because of its support of vector graphics – images that are stored as a series of mathematical relationships rather than pixels and are therefore easier to resize.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091613Z" creationid="Jeff Huang" creationdate="20180122T091613Z">
+        <seg>支援所有的圖形格式，但Draw特別有用，因為其支援向量圖形，向量圖形是儲存一系列的數學關係，而非像素，因此較容易調整大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All such items can go into an all-purpose template that can be the starting point for others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042533Z" creationid="Franklin Weng" creationdate="20171213T124149Z">
@@ -8094,6 +8102,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031228Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
         <seg>Draw 與 Impress 共享了一組圖形編輯工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draw, &lt;f0&gt;Impress,&lt;/f0&gt; and &lt;f1&gt;the Drawing&lt;/f1&gt; tool bar treat images as another form of primitive.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091355Z" creationid="Jeff Huang" creationdate="20180122T091355Z">
+        <seg>Draw、&lt;f0&gt;Impress&lt;/f0&gt;與&lt;f1&gt;繪圖&lt;/f1&gt;工具列都將圖片當做另一種形式的基本圖形元素。</seg>
       </tuv>
     </tu>
     <tu>
