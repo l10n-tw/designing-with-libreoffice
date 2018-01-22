@@ -1660,6 +1660,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Format &gt; Area &gt; Colors &lt;/f0&gt;creates new colors with the RGB color model for use throughout LibreO&lt;f1&gt;f&lt;/f1&gt;fice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T095956Z" creationid="Jeff Huang" creationdate="20180122T095956Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 色彩」&lt;/f0&gt;會建立可用於整個LibreOffice的RGB色彩模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Four&lt;/f0&gt; kinds of fields are likely to &lt;f1&gt;be &lt;/f1&gt;useful:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123916Z" creationid="Franklin Weng" creationdate="20171223T093433Z">
@@ -1962,6 +1970,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T113010Z" creationid="Franklin Weng" creationdate="20171224T075622Z">
         <seg>&lt;f0&gt;如果你有管理員權利，&lt;/f0&gt;&lt;f1&gt;你可以在作業系統中安裝新的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you need to add a specific color, sample it in a graphics program to get its &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; definition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T100115Z" creationid="Jeff Huang" creationdate="20180122T100115Z">
+        <seg>&lt;f0&gt;如果你需要新增特定的色彩，在圖形程式中對其取樣以取得其&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;定義。</seg>
       </tuv>
     </tu>
     <tu>
