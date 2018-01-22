@@ -665,8 +665,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Fixed&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; also has the advantage that documents will be register-true, regardless of whether the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Register-true&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; setting is turned on.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024437Z" creationid="zerng07" creationdate="20180122T024437Z">
-        <seg>「&lt;f0&gt;&lt;f1&gt;固定&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;行距能讓文件直接具備「行距皆相等」(Register-true) 的特性，所以下方&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;行距皆相等&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;的設定有沒有啟用都無所謂。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024717Z" creationid="zerng07" creationdate="20180122T024437Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;固定&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;行距能讓讓文件具備「行距皆相等」(Register-true) 的特性，所以不必去管下方&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;行距皆相等&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;的設定有沒有啟用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11021,6 +11021,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140344Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
         <seg>此外，任何在原始文件中使用的自訂名稱樣式，也都會一併複製到新文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, should you print on &lt;f0&gt;both&lt;/f0&gt; sides of a page, the lines will overlap &lt;f1&gt;in most places&lt;/f1&gt;, preventing the shadow of the other page showing through thin paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024809Z" creationid="zerng07" creationdate="20180122T024809Z">
+        <seg>此外，In addition, should you print on &lt;f0&gt;both&lt;/f0&gt; sides of a page, the lines will overlap &lt;f1&gt;in most places&lt;/f1&gt;, preventing the shadow of the other page showing through thin paper.</seg>
       </tuv>
     </tu>
     <tu>
