@@ -2086,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Format &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Area,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;fills are designed for use throughout LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T094545Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f3&gt;「格式 &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域」&lt;/f5&gt;&lt;/f4&gt;中，&lt;f7&gt;填充是專為在LibreOffice中使用所設計的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Increase &lt;/f0&gt;spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140233Z" creationid="Franklin Weng" creationdate="20180105T144442Z">
