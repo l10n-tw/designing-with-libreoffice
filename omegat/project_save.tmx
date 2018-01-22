@@ -2697,6 +2697,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Stacking &lt;/f0&gt;shapes &lt;f1&gt;into other shapes&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025437Z" creationid="Jeff Huang" creationdate="20180122T025437Z">
+        <seg>將形狀&lt;f0&gt;堆疊&lt;/f0&gt;&lt;f1&gt;至其他形狀中&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Standard:&lt;/f0&gt; A connector with horizontal and vertical lines, &lt;f1&gt;possibly &lt;/f1&gt;with one right angle in it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T015109Z" creationid="Jeff Huang" creationdate="20171229T015109Z">
@@ -9374,6 +9382,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125846Z" creationid="Jeff Huang" creationdate="20180121T125846Z">
         <seg>形狀分組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping shapes is an under-&lt;f0&gt;apprecia&lt;/f0&gt;ted feature of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T024803Z" creationid="Jeff Huang" creationdate="20180122T024803Z">
+        <seg>形狀群組是 LibreOffice 的其中一個不足之處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16655,8 +16671,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The only drawback to this technique is that ungrouping may become more difficult.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134757Z" creationid="Jeff Huang" creationdate="20180121T134757Z">
-        <seg>這種方法唯一的缺點是，要將其解體可能更加困難。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T022858Z" creationid="Jeff Huang" creationdate="20180121T134757Z">
+        <seg>這種方法唯一的缺點是，要將其分離可能更加困難。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18393,6 +18409,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Very few people seem to use it, so it is rarely explained in &lt;f1&gt;any meaningful way in&lt;/f1&gt; manuals or online help, &lt;t2/&gt;which in turn means that fewer people consider using it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025228Z" creationid="Jeff Huang" creationdate="20180122T025228Z">
+        <seg>似乎很少有人使用它，所以在手冊或是線上說明中很少以&lt;f1&gt;有意義的方式說明&lt;/f1&gt;，這代表了考慮使用它的人只會更少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Viewing styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142106Z" creationid="zerng07" creationdate="20171224T142106Z">
@@ -19110,6 +19134,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yet, with ingenuity, it can &lt;f3&gt;produce results that cannot be created with any other feature&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025346Z" creationid="Jeff Huang" creationdate="20180122T025346Z">
+        <seg>然後其仍有獨創性，可以&lt;f3&gt;製造出無法使用其他功能建立的結果&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yet, without them, LibreOffice would not be nearly so powerful.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164413Z" creationid="zerng07" creationdate="20170822T164107Z">
@@ -19262,6 +19294,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can build complicated shapes by combining basic shapes in different ways.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025539Z" creationid="Jeff Huang" creationdate="20180122T025539Z">
+        <seg>你可以透過以不同的方式組合基本形狀來建構較複雜的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the default chart type by selecting &lt;f0&gt;Chart Type &lt;/f0&gt;from the right-click menu, and choosing from the &lt;f1&gt;graphs shown.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131847Z" creationid="Jeff Huang" creationdate="20180113T131847Z">
@@ -19322,6 +19362,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T034704Z" creationid="Jeff Huang" creationdate="20180115T034704Z">
         <seg>你可以拖曳以移動或調整圖表大小，或是右鍵點選以變更如對齊等等特徵，或是編輯線條以建立邊框，又或是變更區域背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit an individual shape in a group by selecting &lt;f0&gt;Enter Group&lt;/f0&gt; from the &lt;f1&gt;&lt;f2&gt;Modify&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu&lt;/f3&gt; or &lt;f4&gt;right&lt;/f4&gt;-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T024702Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
+        <seg>你可以透過從&lt;f1&gt;&lt;f2&gt;修改&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中選取&lt;f0&gt;進入群組&lt;/f0&gt;來編輯群組中單獨的形狀。</seg>
       </tuv>
     </tu>
     <tu>
