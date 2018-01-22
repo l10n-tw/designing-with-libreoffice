@@ -18923,6 +18923,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the circle and a dingbat set are stacked, &lt;f0&gt;&lt;f1&gt;subtract&lt;/f1&gt;&lt;/f0&gt; leaves a cutout showing the color of the paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T040023Z" creationid="Jeff Huang" creationdate="20180122T040023Z">
+        <seg>當圓圈與其他東西堆疊時，&lt;f0&gt;&lt;f1&gt;去除&lt;/f1&gt;&lt;/f0&gt;會留下顯示紙張顏色的缺口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the gray border &lt;f0&gt;does not show&lt;/f0&gt;, you can edit the separate elements of the chart, &lt;f1&gt;but not the general structure.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140826Z" creationid="Jeff Huang" creationdate="20180112T140826Z">
