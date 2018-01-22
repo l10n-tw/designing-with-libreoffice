@@ -6238,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful that they are actually touching, because &lt;t1/&gt;otherwise LibreOffice draws a connection that may be crooked.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090120Z" creationid="Jeff Huang" creationdate="20180122T090120Z">
+        <seg>請注意，它們實際上是互有關係的，因為 LibreOffice 可能繪製出歪七扭八的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be sure to rename it immediately.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023548Z" creationid="zerng07" creationdate="20171227T023548Z">
@@ -17981,6 +17989,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112551Z" creationid="Franklin Weng" creationdate="20171223T042710Z">
         <seg>修改預設範本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To connect two lines, select them, then click &lt;f0&gt;Modify &gt; Connect&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T085548Z" creationid="Jeff Huang" creationdate="20180122T085548Z">
+        <seg>要連接兩條線，選取它們，然後點按&lt;f0&gt;「修改 &gt; 連接」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
