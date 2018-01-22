@@ -1764,6 +1764,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;H&lt;/f0&gt;owever, you can ignore all except the colors and still produce an original gradient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T131136Z" creationid="Jeff Huang" creationdate="20180122T131136Z">
+        <seg>不過，你可以忽略除了色彩以外的項目，並還是可以建立原創漸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Here, the Before card’s design uses two different fonts and several weights and font sizes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T032231Z" creationid="Jeff Huang" creationdate="20180118T032231Z">
@@ -6274,6 +6282,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T064740Z" creationid="Franklin Weng" creationdate="20180120T064740Z">
         <seg>充其量這些版面配置只會讓你的投影片更難閱讀而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At first glance, these settings may seem mathematically complex for such a simple goal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T125151Z" creationid="Jeff Huang" creationdate="20180122T125151Z">
+        <seg>乍看之下，這些設定於這麼一個簡單的目標來說似乎在數學上太複雜了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12670,6 +12686,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091530Z" creationid="Franklin Weng" creationdate="20180115T091530Z">
         <seg>LibreOffice 過去在 4.x 版的範本管理員中有&lt;f0&gt;「簡報背景」資料夾&lt;/f0&gt;可以選擇不同顏色的背景，現在則是以範本視窗中的「簡報」分類，還有在母片編輯時右方的「屬性」可以選擇不同樣式的背景。此外你也&lt;f2&gt;可以&lt;/f2&gt;在網路上找到&lt;f3&gt;許多&lt;/f3&gt;背景範本，&lt;f4&gt;雖然網路上找到的範本品質有好有壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice gradients can have up to nine settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T125020Z" creationid="Jeff Huang" creationdate="20180122T125020Z">
+        <seg>LibreOffice最多可以設定九個漸層。</seg>
       </tuv>
     </tu>
     <tu>
