@@ -7961,6 +7961,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;a&lt;/f0&gt;rea &lt;f1&gt;g&lt;/f1&gt;radients</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123843Z" creationid="Jeff Huang" creationdate="20180122T123843Z">
+        <seg>設計區域漸層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Designing &lt;f0&gt;drawing content&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T025917Z" creationid="Jeff Huang" creationdate="20180116T025917Z">
@@ -10664,6 +10672,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T113956Z" creationid="Franklin Weng" creationdate="20180120T113956Z">
         <seg>例如，我還記得有一個動畫，顯示連環信（要求你轉發給很多人否則會怎樣的那種信）裡的連結如何「滑進」適當的位置，讓每個環可以連到另外六個環。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a color is important in the document – perhaps because it is a corporate color – give it a suitable name, such as &lt;f0&gt;Devilfish Software Red&lt;/f0&gt;, so you can locate it quickly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123439Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
+        <seg>如果文件中的某個顏色很重要（也許因為它是公司識別色），你可以給它一個適合的名字，如&lt;f0&gt;Devilfish 軟體紅&lt;/f0&gt;等，這樣您就可以快速地找到它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17640,6 +17656,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no exact correspondence between the two color models, so results can be different between the screen and paper.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120613Z" creationid="Jeff Huang" creationdate="20180122T120613Z">
+        <seg>兩種色彩模型間沒有明確的對應關係，因此螢幕與紙張的結果可能會不同。&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These additional styles greatly extend what LibreOffice &lt;f0&gt;can do&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173506Z" creationid="zerng07" creationdate="20171223T173506Z">
@@ -20513,6 +20537,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T080235Z" creationid="Franklin Weng" creationdate="20171224T072208Z">
         <seg>你的選擇不只決定了文件的外觀，因為在一份設計良好的文件中，你所採用的字型也會影響其他設計細節。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your custom color fills are stored in the /user/config directory of your personal configuration path in a file with an .soc extension (StarOffice Colors).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123655Z" creationid="Jeff Huang" creationdate="20180122T123655Z">
+        <seg>你的自訂色彩檔案儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.soc（StarOffice 色彩）的檔案儲存。</seg>
       </tuv>
     </tu>
     <tu>
