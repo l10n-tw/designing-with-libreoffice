@@ -1724,6 +1724,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Format &gt; Area &gt; Bitmaps&lt;/f0&gt; are tiles used for a quick area fill.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140421Z" creationid="Jeff Huang" creationdate="20180122T140421Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 點陣圖」&lt;/f0&gt;是用於區域快速填充的拼貼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; Colors &lt;/f0&gt;creates new colors with the RGB color model for use throughout LibreO&lt;f1&gt;f&lt;/f1&gt;fice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T095956Z" creationid="Jeff Huang" creationdate="20180122T095956Z">
@@ -20815,8 +20823,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Your custom color fills are stored in the /user/config directory of your personal configuration path in a file with an .soc extension (StarOffice Colors).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123655Z" creationid="Jeff Huang" creationdate="20180122T123655Z">
-        <seg>你的自訂色彩檔案儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.soc（StarOffice 色彩）的檔案儲存。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140319Z" creationid="Jeff Huang" creationdate="20180122T123655Z">
+        <seg>你的自訂色彩檔案儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.soc（StarOffice色彩）的檔案儲存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your custom fills are stored in the /user/config directory of your personal configuration path in a file with an .sob extension (StarOffice Bitmap).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140311Z" creationid="Jeff Huang" creationdate="20180122T140311Z">
+        <seg>你的自訂色彩檔案儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.sob（StarOffice點陣圖）的檔案儲存。</seg>
       </tuv>
     </tu>
     <tu>
