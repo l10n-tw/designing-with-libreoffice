@@ -535,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;“Leading”&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;is a term from the days of manual typesetting, when scraps of lead or anything else around the print shop were used to increase line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T032514Z" creationid="zerng07" creationdate="20180122T031917Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。鉛插&lt;/f3&gt;&lt;f6&gt;是個早年手工活字印刷時期的動作，師傅會拿一小片鉛塊或其他印刷行裡找得到的東西，插在不同行之間增加行距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Automatic&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is the default view when you open a new document.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155441Z" creationid="zerng07" creationdate="20171224T152955Z">
@@ -897,8 +905,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Another vague option is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Leading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031839Z" creationid="zerng07" creationdate="20180122T031839Z">
-        <seg>&lt;f0&gt;另一個名稱有點模糊的選項是「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;鉛插</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T032030Z" creationid="zerng07" creationdate="20180122T031839Z">
+        <seg>&lt;f0&gt;還有個名稱讓人搞不大清楚的選項是「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;鉛插</seg>
       </tuv>
     </tu>
     <tu>
