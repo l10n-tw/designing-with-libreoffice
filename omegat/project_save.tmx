@@ -1274,6 +1274,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Merge.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; The result is a shape with the outlines of the objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034854Z" creationid="Jeff Huang" creationdate="20180122T034854Z">
+        <seg>&lt;f0&gt;透過選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀 &gt; 合併」&lt;/f2&gt;&lt;/f1&gt;來從重疊的物件建立形狀。&lt;f3&gt;結果會是物件輪廓的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create custom slides shows from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Custom Slide Show.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123302Z" creationid="Franklin Weng" creationdate="20180120T123302Z">
@@ -7452,6 +7460,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071749Z" creationid="Jeff Huang" creationdate="20180115T071749Z">
         <seg>Cousine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a shape from overlapping objects by selectin&lt;f0&gt;g&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Modify &gt; S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;hapes &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; subtract.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T035900Z" creationid="Jeff Huang" creationdate="20180122T035900Z">
+        <seg>透過選取&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀&lt;/f2&gt;&lt;/f1&gt; &gt;&lt;f4&gt;&lt;f5&gt; 去除&lt;/f5&gt;&lt;/f4&gt;」來從重疊的物件中建立形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13842,6 +13858,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overlapping areas disappear, and the area color is the fill of the object at the bottom of the stack.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034942Z" creationid="Jeff Huang" creationdate="20180122T034942Z">
+        <seg>重疊區域消失，區域色彩會變為堆疊底部物件的填充。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043604Z" creationid="zerng07" creationdate="20171224T043604Z">
@@ -18863,6 +18887,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140605Z" creationid="Franklin Weng" creationdate="20171223T130618Z">
         <seg>而當不是用主控文件開啟時，則會還原到原始的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When shapes are merged, a single new shape results &lt;f0&gt;that is easier to keep track of.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T035400Z" creationid="Jeff Huang" creationdate="20180122T035400Z">
+        <seg>當形狀被合併時，單一個新形狀&lt;f0&gt;會更易於追蹤。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
