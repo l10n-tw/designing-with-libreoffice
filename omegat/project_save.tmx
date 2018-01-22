@@ -9851,6 +9851,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, one problem with paragraph &lt;f0&gt;styles with larger font sizes, such as headings, &lt;/f0&gt;is that they can &lt;f1&gt;have the tops or bottoms of letters cut off when &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Fixed&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T025503Z" creationid="zerng07" creationdate="20180122T025503Z">
+        <seg>然而，像標題這類大字的段落&lt;f0&gt;樣式，如果使用&lt;f2&gt;&lt;f3&gt;固定&lt;/f3&gt;&lt;/f2&gt;行距的話會遇到一項問題，&lt;/f0&gt;就是文字的&lt;f1&gt;頂端或底部會被截斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, other fonts r&lt;f0&gt;e&lt;/f0&gt;quire testing, changing the font size and line-spacing one at a time, and trying out different combinations.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T154404Z" creationid="Franklin Weng" creationdate="20180106T041651Z">
