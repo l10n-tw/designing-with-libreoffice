@@ -32,13 +32,13 @@
 第一章至第四章、第十六章、附錄A、附錄B、附錄C、附錄D
 
 翻譯中的有：
-第五章 (Cheng-Chia Tseng)、第六章（Mark Hung）、第七章 (Vdragon)、第十三章 (Jeff Huang)
+第五章 (Cheng-Chia Tseng)、第六章（Mark Hung）、第七章 (Vdragon)、第十三章 (Jeff Huang)、第十五章（Franklin）
 
 校對中的有：
-第十二章（未）、第十四章 (Franklin Weng)
+第十二章（未）、第十四章 (Cheng-Chia Tseng)
 
 未處理的有：
-第八章至第十一章、第十五章
+第八章至第十一章
 
 ## 改作階段
 尚未進入此階段
