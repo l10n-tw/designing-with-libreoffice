@@ -537,8 +537,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;“Leading”&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;is a term from the days of manual typesetting, when scraps of lead or anything else around the print shop were used to increase line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T032514Z" creationid="zerng07" creationdate="20180122T031917Z">
-        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。鉛插&lt;/f3&gt;&lt;f6&gt;是個早年手工活字印刷時期的動作，師傅會拿一小片鉛塊或其他印刷行裡找得到的東西，插在不同行之間增加行距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T032655Z" creationid="zerng07" creationdate="20180122T031917Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。鉛插&lt;/f3&gt;&lt;f6&gt;是個早年手工活字印刷時期的動作，師傅會拿一小片鉛塊或印刷行裡找得到的其他東西，插在不同行之間增加行距，英文稱為「Leading」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20082,6 +20082,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <note>參考錯誤，略過不譯</note>
       <tuv lang="EN">
         <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,”&lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Leading” came to refer to the entire line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T032748Z" creationid="zerng07" creationdate="20180122T032748Z">
+        <seg>後來在西方這個「Leading」就演變成指稱一整個行距。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
