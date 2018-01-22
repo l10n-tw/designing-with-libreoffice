@@ -1018,8 +1018,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Awkward &lt;/f0&gt;with graphic text, &lt;f1&gt;and not really needed with the right spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080348Z" creationid="Jeff Huang" creationdate="20180104T080348Z">
-        <seg>圖形文字略顯&lt;f0&gt;尷尬&lt;/f0&gt;，&lt;f1&gt;其並不需要正確的間隔。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101856Z" creationid="Jeff Huang" creationdate="20180104T080348Z">
+        <seg>對圖形文字來說這個設定略顯&lt;f0&gt;尷尬&lt;/f0&gt;，&lt;f1&gt;只要間隔正確實際上並不需要這個設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,8 +1686,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Animation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in a graphic style, you can set LibreOffice’s equivalent of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;HTML&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; tags, either making text blink off and on, or scroll in one of several ways in the text frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115625Z" creationid="Jeff Huang" creationdate="20180108T125437Z">
-        <seg>&lt;f0&gt;在圖形樣式的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文字動畫&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中，你可以設定 LibreOffice 中等價於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;HTML&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; 標籤的項目，不管是開關文字閃爍，或是以多種方式捲動文字方塊。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T105527Z" creationid="Jeff Huang" creationdate="20180108T125437Z">
+        <seg>&lt;f0&gt;在繪圖樣式的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;文字動畫&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中，你可以設定跟&lt;/f3&gt; HTML 標籤中的 &lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;相似&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;的效果，讓文字閃動，或是以多種方式捲動文字方塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,8 +2064,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In most cases, i&lt;/f0&gt;gnore all except &lt;f1&gt;Font color&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075636Z" creationid="Jeff Huang" creationdate="20180104T075636Z">
-        <seg>&lt;f0&gt;在大多數的情況下，&lt;/f0&gt;忽略除了&lt;f1&gt;字體顏色&lt;/f1&gt;以外的項目。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101737Z" creationid="Jeff Huang" creationdate="20180104T075636Z">
+        <seg>&lt;f0&gt;在大多數的情況下，&lt;/f0&gt;你可以忽略除了「&lt;f1&gt;字型色彩&lt;/f1&gt;」以外的項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2979,8 +2979,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tab&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080204Z" creationid="Jeff Huang" creationdate="20180104T080204Z">
-        <seg>&lt;f0&gt;表格&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101814Z" creationid="Jeff Huang" creationdate="20180104T080204Z">
+        <seg>&lt;f0&gt;定位點&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7290,8 +7290,8 @@
       <tuv lang="EN">
         <seg>Choose fonts at least the size of body text, if not slightly larger &lt;f0&gt;for diagrams.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075323Z" creationid="Jeff Huang" creationdate="20180104T075323Z">
-        <seg>如果&lt;f0&gt;圖表&lt;/f0&gt;沒有略大的話，請至少選取文章本文大小的字型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101641Z" creationid="Jeff Huang" creationdate="20180104T075323Z">
+        <seg>盡量選取跟內文相同的字型大小，除非比&lt;f0&gt;圖表&lt;/f0&gt;略大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11901,8 +11901,8 @@
       <tuv lang="EN">
         <seg>Indents &amp; Spacing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075648Z" creationid="Jeff Huang" creationdate="20180104T075648Z">
-        <seg>縮排與間隔</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101745Z" creationid="Jeff Huang" creationdate="20180104T075648Z">
+        <seg>縮排和間距</seg>
       </tuv>
     </tu>
     <tu>
@@ -13359,8 +13359,8 @@
       <tuv lang="EN">
         <seg>No option&lt;f0&gt;s&lt;/f0&gt; &lt;f1&gt;in Draw&lt;/f1&gt; for last Justified line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T074726Z" creationid="Jeff Huang" creationdate="20180104T074726Z">
-        <seg>&lt;f1&gt;Draw中&lt;/f1&gt;沒有最後對齊線的選項。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101545Z" creationid="Jeff Huang" creationdate="20180104T074726Z">
+        <seg>&lt;f1&gt;Draw 中&lt;/f1&gt;「左右對齊」內的「最後一行」選項會被關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14778,8 +14778,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sans serifs often make for clarity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075403Z" creationid="Jeff Huang" creationdate="20180104T075403Z">
-        <seg>無襯線通常較清晰。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101652Z" creationid="Jeff Huang" creationdate="20180104T075403Z">
+        <seg>無襯線字型通常較清晰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14850,8 +14850,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T071729Z" creationid="Jeff Huang" creationdate="20180104T071729Z">
-        <seg>檢視</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101422Z" creationid="Jeff Huang" creationdate="20180104T071729Z">
+        <seg>參考</seg>
       </tuv>
     </tu>
     <tu>
@@ -18773,8 +18773,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Use indentations, especially for the first line, instead of tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T080014Z" creationid="Jeff Huang" creationdate="20180104T080014Z">
-        <seg>特別是在首行，請使用縮排而非定位字元。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101759Z" creationid="Jeff Huang" creationdate="20180104T080014Z">
+        <seg>特別是在首行，請使用縮排而不要用定位字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20560,10 +20560,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,” &lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101441Z">
+        <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,” &lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <note>參考錯誤，略過不譯</note>
       <tuv lang="EN">
+        <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,”&lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101746Z">
         <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,”&lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
