@@ -11298,6 +11298,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, lines will be in the same horizontal position on all pages, especially if the document uses only one font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024630Z" creationid="zerng07" creationdate="20180122T024630Z">
+        <seg>換句話說，所有頁面中的每一行都會對在同一個水平位置上，特別是這份文件只採用一種字型時更會如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In paragraph and character &lt;t1/&gt;styles, this style is called &lt;f2&gt;Default.&lt;/f2&gt; All other styles of the same type are based upon the &lt;f3&gt;Default&lt;/f3&gt; style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111023Z" creationid="zerng07" creationdate="20171225T145917Z">
