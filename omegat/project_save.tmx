@@ -14639,6 +14639,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you decide that you need &lt;f16&gt;a hidden style&lt;/f16&gt; after all, you can go to the &lt;f17&gt;Hidden Styles&lt;/f17&gt; view and select &lt;f18&gt;Show&lt;/f18&gt; instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T021601Z" creationid="zerng07" creationdate="20180122T021601Z">
+        <seg>就算最後發現你確實需要某個&lt;f16&gt;隱藏樣式&lt;/f16&gt;，還是可以前往「&lt;f17&gt;隱藏樣式&lt;/f17&gt;」的檢視畫面中，在右鍵選單中選回「&lt;f18&gt;顯示&lt;/f18&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you encounter a modern font that remains very dark despite&lt;f0&gt; all adjustments,&lt;/f0&gt; that is probably a sign that it Is designed for headings or as a display font, and should not be used for body text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134810Z" creationid="Franklin Weng" creationdate="20180106T042614Z">
