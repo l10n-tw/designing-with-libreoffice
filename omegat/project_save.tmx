@@ -1660,6 +1660,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From a Drawing Objects style, you can only use the fills that are already defined for LibreOffice as a whole.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T093839Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
+        <seg>&lt;f0&gt;從繪圖物件樣式中，你只能使用已在LibreOffice中定義好的填充。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Animation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in a graphic style, you can set LibreOffice’s equivalent of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;HTML&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; tags, either making text blink off and on, or scroll in one of several ways in the text frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115625Z" creationid="Jeff Huang" creationdate="20180108T125437Z">
@@ -10408,6 +10416,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T132211Z" creationid="Jeff Huang" creationdate="20180120T132211Z">
         <seg>但是，當你在文件中打開你所選取的樣品時，也可以使用在頁面底部出現的標準「繪圖」工具列中右側打開的美術字工具列。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can customize styles from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;within Draw.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T093947Z" creationid="Jeff Huang" creationdate="20180122T093947Z">
+        <seg>不過，你還是可以在Draw裡面的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區域」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;自訂樣式。</seg>
       </tuv>
     </tu>
     <tu>
