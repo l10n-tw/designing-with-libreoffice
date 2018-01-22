@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Fixed&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; remains by far the best setting, because it is the only option that gives an exact measurement.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024039Z" creationid="zerng07" creationdate="20180122T024039Z">
+        <seg>&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;固定&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;是目前為止最佳的行距設定方式，因為它是唯一一個能讓你精準控制間距數值的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f6&gt;Formatting an object's area means choosing a fill for it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035109Z" creationid="Jeff Huang" creationdate="20171229T035109Z">
@@ -651,6 +659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102344Z" creationid="Franklin Weng" creationdate="20171231T102344Z">
         <seg>&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Fixed&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; also has the advantage that documents will be register-true, regardless of whether the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Register-true&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; setting is turned on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024437Z" creationid="zerng07" creationdate="20180122T024437Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;固定&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;行距能讓文件直接具備「行距皆相等」(Register-true) 的特性，所以下方&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;行距皆相等&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;的設定有沒有啟用都無所謂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12262,6 +12278,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123138Z" creationid="Franklin Weng" creationdate="20180120T123138Z">
         <seg>「範圍」選項可以用在同一份檔案，使用類似但是不同的簡報方式時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line spac&lt;f0&gt;ing&lt;/f0&gt; options for paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024055Z" creationid="zerng07" creationdate="20180122T024055Z">
+        <seg>段落的行距選項。</seg>
       </tuv>
     </tu>
     <tu>
