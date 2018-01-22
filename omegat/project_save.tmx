@@ -17367,6 +17367,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This rounding produces adequate results, but not always optimal ones.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023305Z" creationid="zerng07" creationdate="20180122T023305Z">
+        <seg>這個捨入進位的動作產生的效果算是不錯，但不是最佳做法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This structural use of templates tends to be under-emphasized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
