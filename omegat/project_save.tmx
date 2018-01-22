@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Overlap stacked shapes, then choose&lt;/f0&gt; &lt;f1&gt;Arrange&lt;/f1&gt; from the main or right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030817Z" creationid="Jeff Huang" creationdate="20180122T030817Z">
+        <seg>&lt;f0&gt;將形狀重疊，然後從主選單或右鍵選單中選取&lt;/f0&gt;&lt;f1&gt;「編排」&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;age margins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145059Z" creationid="Franklin Weng" creationdate="20180105T150715Z">
@@ -2693,6 +2701,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T134850Z" creationid="Franklin Weng" creationdate="20180106T134850Z">
         <seg>&lt;f0&gt;當然，有的時候摘要式的投影片是 OK 的 – 例如，這個展示是要在展覽中自動循環播放的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Sometimes,&lt;/f0&gt; two menu selections can give the same result.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030015Z" creationid="Jeff Huang" creationdate="20180122T030015Z">
+        <seg>&lt;f0&gt;有些時候，&lt;/f0&gt;兩種不同的選單選擇可能會有相同的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3326,6 +3342,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T061801Z" creationid="Franklin Weng" creationdate="20180107T061749Z">
         <seg>&lt;f0&gt;使用&lt;/f0&gt;投影片展示的時機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Rotate, Flip,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Convert&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; shapes may help to make primitives more versatile.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030238Z" creationid="Jeff Huang" creationdate="20180122T030238Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;選單來&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;旋轉、翻轉&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;或是&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;轉換&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;形狀也許可以讓基本圖形元素更靈活。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4300,6 +4324,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145705Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
         <seg>&lt;f2&gt;粗平襯線字型中的襯線比其他襯線字型都要來得更厚實。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;The shape changes as shapes are sent back or forward in the pile.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T031129Z" creationid="Jeff Huang" creationdate="20180122T031129Z">
+        <seg>&lt;f2&gt;然後形狀就會隨著你把他向前景或向背景放置而改變。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11394,6 +11426,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In particular, converting graphic text to a bitmap may give you more options.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030403Z" creationid="Jeff Huang" creationdate="20180122T030403Z">
+        <seg>特別是將圖形化文字轉換為點陣圖可能會給你更多選項。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In particular, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Effects&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field includes the option for &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, which are used to make two or more upper case letters in a row more readable.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T121022Z" creationid="Franklin Weng" creationdate="20180101T121155Z">
@@ -14307,6 +14347,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075232Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
         <seg>即便你的樣式並未設定使用斷字，只要執行了斷字工具依然會加入斷字的連字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&lt;f0&gt;tacked shapes can be made into a single complex shape in several ways:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030553Z" creationid="Jeff Huang" creationdate="20180122T030553Z">
+        <seg>&lt;f0&gt;堆疊的形狀可以透故多種方式來做成單獨的複雜形狀：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19440,8 +19488,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can edit an individual shape in a group by selecting &lt;f0&gt;Enter Group&lt;/f0&gt; from the &lt;f1&gt;&lt;f2&gt;Modify&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu&lt;/f3&gt; or &lt;f4&gt;right&lt;/f4&gt;-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T024702Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
-        <seg>你可以透過從&lt;f1&gt;&lt;f2&gt;修改&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中選取&lt;f0&gt;進入群組&lt;/f0&gt;來編輯群組中單獨的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030034Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
+        <seg>你可以透過從&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中選取&lt;f0&gt;「進入群組」&lt;/f0&gt;來編輯群組中單獨的形狀。</seg>
       </tuv>
     </tu>
     <tu>
