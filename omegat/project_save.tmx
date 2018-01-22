@@ -9642,6 +9642,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, LibreOffice uses the word to refer to only the extra space beyond the font size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033256Z" creationid="zerng07" creationdate="20180122T033256Z">
+        <seg>不過，LibreOffice繼續以「Leading」稱呼額外插入的這個空間，不含字型大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, LibreOffice uses “fixed” to refer to leading, and “leading” to refer to space &lt;f0&gt;in addition to&lt;/f0&gt; the font size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162419Z" creationid="Franklin Weng" creationdate="20180105T140319Z">
