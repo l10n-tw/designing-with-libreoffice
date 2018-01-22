@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Linear: &lt;/f0&gt;The gradient is horizontal, starting with the first color at the top and ending with the last color on the bottom.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132659Z" creationid="Jeff Huang" creationdate="20180122T132659Z">
+        <seg>&lt;f0&gt;線形：&lt;/f0&gt;水平漸層，從頂部的第一個顏色開始，到底部的最後一個顏色結束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Lines at the center of one side are connectors, while broken lines are the snap lines for positioning the object being moved.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131852Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
@@ -12798,6 +12806,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112900Z" creationid="Franklin Weng" creationdate="20171223T043042Z">
         <seg>如果你移除自己的替代範本，則LibreOffice會改回自己的原始&lt;f1&gt;預設&lt;/f1&gt;範本（即預設的「預設」範本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice supports several different types of gradient:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132241Z" creationid="Jeff Huang" creationdate="20180122T132241Z">
+        <seg>LibreOffice支援多種不同的漸層：</seg>
       </tuv>
     </tu>
     <tu>
