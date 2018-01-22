@@ -3209,11 +3209,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 加上現況</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To draw a dimension line, click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lines and Arrows&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button on the Drawing tool bar (the ninth from the left), and select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Dimension Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the available tools.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081148Z" creationid="Jeff Huang" creationdate="20171228T081148Z">
-        <seg>&lt;f0&gt;要繪製定量線，在繪圖工具列點選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條與箭頭&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕（從左邊數過來第九個），然後從可用的工具中選取&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;定量線&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041034Z" creationid="Jeff Huang" creationdate="20171228T081148Z">
+        <seg>&lt;f0&gt;要繪製尺寸線，在繪圖工具列點選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條與箭頭&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕，然後從可用的工具中選取&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;尺寸線&lt;/f5&gt;&lt;/f4&gt;（LibreOffice 5.x 版前稱為「定量線」）&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14897,8 +14898,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting dimension lines</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081621Z" creationid="Jeff Huang" creationdate="20171228T073552Z">
-        <seg>設定定量線</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T035958Z" creationid="Jeff Huang" creationdate="20171228T073552Z">
+        <seg>設定尺寸線</seg>
       </tuv>
     </tu>
     <tu>
@@ -15859,8 +15860,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields let you adjust the dimension line and the guides in relation to each other, although you will probably have little need to change the defaults.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081503Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
-        <seg>&lt;/f3&gt;雖然你可能需要變更預設值，&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位讓你可以調整定量線以及各別的關係。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040032Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
+        <seg>&lt;/f3&gt;雖然你可能需要變更預設值，&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位讓你可以調整尺寸線以及個別的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15891,8 +15892,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Auto&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;V&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ertical&lt;/f3&gt; check box centers the legend vertically, the &lt;f4&gt;Auto&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;H&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;orizontal&lt;/f7&gt; &lt;f8&gt;horizontally&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T075921Z" creationid="Jeff Huang" creationdate="20171228T075921Z">
-        <seg>&lt;f0&gt;自動&lt;/f0&gt;&lt;f3&gt;垂直&lt;/f3&gt;勾選框會將圖例垂直置中，&lt;f4&gt;自動&lt;/f4&gt;&lt;f7&gt;水平&lt;/f7&gt;則是&lt;f8&gt;水平置中&lt;/f8&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040807Z" creationid="Jeff Huang" creationdate="20171228T075921Z">
+        <seg>「&lt;f0&gt;自動&lt;/f0&gt;&lt;f3&gt;垂直&lt;/f3&gt;」勾選框會將圖例垂直置中，「&lt;f4&gt;自動&lt;/f4&gt;&lt;f7&gt;水平&lt;/f7&gt;」則是&lt;f8&gt;水平置中&lt;/f8&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19501,11 +19502,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 只有九個位置可以選擇。原文錯誤？</note>
       <tuv lang="EN">
         <seg>You are more likely to want to change the legend, or measurement, positioning it in one of the ten default position shown &lt;f0&gt;i&lt;/f0&gt;n the right column of the &lt;f1&gt;Dimensioning&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T081558Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
-        <seg>你也可能會想要變更圖例或度量，在&lt;f1&gt;尺寸標註&lt;/f1&gt;分頁右欄中十個預設位置之一選擇。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040744Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
+        <seg>你也可能會想要變更圖例或單位，在&lt;f1&gt;尺寸標註&lt;/f1&gt;標籤頁右欄中九個預設位置之一選擇。</seg>
       </tuv>
     </tu>
     <tu>
