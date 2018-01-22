@@ -14855,6 +14855,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shapes become more visible towards the front, and more hidden towards the bottom, while in between their visibility depends on the colors and transparencies in the stack.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T031712Z" creationid="Jeff Huang" creationdate="20180122T031712Z">
+        <seg>愈靠近前景，形狀就愈容易被看見，而愈靠近背景就愈容易隱藏，而介於兩者之間則取決於其在堆疊中的色彩與透明度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Share the same font family.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T161824Z" creationid="Franklin Weng" creationdate="20180103T130823Z">
