@@ -1433,6 +1433,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Drawing Object&lt;/f0&gt; style&lt;f1&gt;s&lt;/f1&gt; use only gradients already defined in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124545Z" creationid="Jeff Huang" creationdate="20180122T124545Z">
+        <seg>&lt;f0&gt;繪製物件&lt;/f0&gt;樣式僅用於已在LibreOffice中定義好的漸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>改寫為現況並注記 4.x 版。截圖可能要截 5.x 版較理想</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;E&lt;/f0&gt;dit master slides &lt;f1&gt;from&lt;/f1&gt; &lt;f2&gt;View &gt; Master &gt; Slide Master.</seg>
@@ -20093,6 +20101,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150241Z" creationid="zerng07" creationdate="20171225T150040Z">
         <seg>你可以選擇&lt;f0&gt;編輯&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式以便設置這份文件的基本格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a custom gradient from &lt;f2&gt;Format &gt; Area &gt; Gradient&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; in the main menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124957Z" creationid="Jeff Huang" creationdate="20180122T124957Z">
+        <seg>你可以從主選單中的&lt;f2&gt;「格式 &gt; 區域 &gt; 漸層」&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
