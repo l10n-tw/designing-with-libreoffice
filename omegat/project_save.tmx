@@ -1056,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Axial:&lt;/f0&gt; The gradient is horizontal, starting with the first color in the center and ending with the last color at the top and the bottom.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132835Z" creationid="Jeff Huang" creationdate="20180122T132835Z">
+        <seg>&lt;f0&gt;軸向：&lt;/f0&gt;水平漸層，從中心的第一個顏色開始，到頂部與底部的最後一個顏色結束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Bar: &lt;/f0&gt;&lt;f1&gt;The data displays in horizontal columns.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132110Z" creationid="Jeff Huang" creationdate="20180113T132110Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120002Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
         <seg>&lt;f0&gt;RGB&lt;/f0&gt;使用了紅、綠、藍，&lt;f1&gt;CMYK &lt;/f1&gt;則使用了青色、洋紅色、黃色與黑色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Radial: &lt;/f0&gt;The gradient is diagonal, starting with the first color in the lower right and ending with the second in the upper left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132937Z" creationid="Jeff Huang" creationdate="20180122T132937Z">
+        <seg>&lt;f0&gt;放射：&lt;/f0&gt;對角線漸層，從右下的第一個顏色開始，到左上的第二個顏色結束。</seg>
       </tuv>
     </tu>
     <tu>
