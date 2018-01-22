@@ -969,8 +969,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; A line graph with several lines, and the space between lines shaded in with colors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133101Z" creationid="Jeff Huang" creationdate="20180113T133101Z">
-        <seg>&lt;f0&gt;面積：&lt;/f0&gt;有許多線條的圖表，在線條間的空間有色彩填充。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112736Z" creationid="Jeff Huang" creationdate="20180113T133101Z">
+        <seg>&lt;f0&gt;面積圖：&lt;/f0&gt;有許多線條的圖表，在線條間的空間有色彩填充。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,8 +1074,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Bubble:&lt;/f0&gt; &lt;f1&gt;A graph that displays three dimensions: the X and Y axis and the size of the bubble that depicts the data point.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133543Z" creationid="Jeff Huang" creationdate="20180113T133543Z">
-        <seg>&lt;f0&gt;泡泡：&lt;/f0&gt;&lt;f1&gt;顯示三個維度的圖表：X 與 Y 軸和描繪資料點大小的泡泡。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112832Z" creationid="Jeff Huang" creationdate="20180113T133543Z">
+        <seg>&lt;f0&gt;泡泡：&lt;/f0&gt;&lt;f1&gt;顯示三個維度的圖表：X 與 Y 軸，還有泡泡的大小用於描繪資料點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,8 +2344,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Net: &lt;/f0&gt;&lt;f1&gt;A chart in which every X axis has a separate Y axis.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133744Z" creationid="Jeff Huang" creationdate="20180113T133744Z">
-        <seg>&lt;f0&gt;網狀：&lt;/f0&gt;&lt;f1&gt;每個 X 軸都有獨立的 Y 軸的圖表。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112849Z" creationid="Jeff Huang" creationdate="20180113T133744Z">
+        <seg>&lt;f0&gt;網狀圖：&lt;/f0&gt;&lt;f1&gt;每個 X 軸都有獨立的 Y 軸的圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,8 +2512,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Pie:&lt;/f0&gt; &lt;f1&gt;Chart data is depicted as wedges in a round shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132249Z" creationid="Jeff Huang" creationdate="20180113T132249Z">
-        <seg>&lt;f0&gt;圓餅：&lt;/f0&gt;&lt;f1&gt;圖表資料被描繪為圓形。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112702Z" creationid="Jeff Huang" creationdate="20180113T132249Z">
+        <seg>&lt;f0&gt;圓餅圖：&lt;/f0&gt;&lt;f1&gt;圖表資料被描繪為圓形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7207,12 +7207,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>Franklin: 6.0 版只看到 10 種</note>
       <tuv lang="EN">
         <seg>Charts are available in &lt;f0&gt;eleven&lt;/f0&gt; types, many in &lt;f1&gt;both &lt;/f1&gt;2D and 3D.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112550Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
-        <seg>圖表一共有&lt;f0&gt;10 種&lt;/f0&gt;類型，大多數都&lt;f1&gt;同時&lt;/f1&gt;有 2D 與 3D 的版本。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T113246Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
+        <seg>圖表一共有&lt;f0&gt;十一種&lt;/f0&gt;類型，大多數都&lt;f1&gt;同時&lt;/f1&gt;有 2D 與 3D 的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10721,8 +10720,8 @@
       <tuv lang="EN">
         <seg>If the data points are meant to show a progression (for instance, over time), then the points are usually connected.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132946Z" creationid="Jeff Huang" creationdate="20180113T132946Z">
-        <seg>若資料點是為了顯示進度（例如隨著時間），且點通常會互相連接。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112726Z" creationid="Jeff Huang" creationdate="20180113T132946Z">
+        <seg>若資料點是為了顯示進度（例如隨著時間），這些點通常會互相連接。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17891,8 +17890,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This choice only works when your video &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;driver has hardware acceleration, which some Linux installations will not have.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134557Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
-        <seg>這個選擇僅當你的視訊&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;驅動程式有硬體加速時才能運作，部份 Linux 安裝是沒有的。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T113312Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
+        <seg>這個選擇僅當你的顯卡&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;驅動程式有硬體加速時才能運作，部份 Linux 安裝是沒有的。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
