@@ -8996,8 +8996,8 @@
       <tuv lang="EN">
         <seg>For example, in LibreOffice, a paragraph set to 12/15 would be set with &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Leading&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; at 3 points.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033309Z" creationid="zerng07" creationdate="20180122T033309Z">
-        <seg>舉例來說，在LibreOffice, a paragraph set to 12/15 would be set with &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Leading&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; at 3 points.&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033550Z" creationid="zerng07" creationdate="20180122T033309Z">
+        <seg>舉例來說，在LibreOffice中設為12/15的段落，代表它的「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;鉛插&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」量是3點。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12454,6 +12454,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024055Z" creationid="zerng07" creationdate="20180122T024055Z">
         <seg>段落的行距選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line spacing at small font sizes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033639Z" creationid="zerng07" creationdate="20180122T033639Z">
+        <seg>小字的行距。</seg>
       </tuv>
     </tu>
     <tu>
