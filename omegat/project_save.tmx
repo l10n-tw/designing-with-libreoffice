@@ -3588,6 +3588,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;c) Two sword fighter dingbats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034257Z" creationid="Jeff Huang" creationdate="20180122T034257Z">
+        <seg>&lt;f0&gt;c) 兩位戰士。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;(Perhaps it is meant to add a shadow?)&lt;/f1&gt; Changing the font size or the space between char&lt;f2&gt;a&lt;/f2&gt;cters worked slightly, but not enough.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135943Z" creationid="Franklin Weng" creationdate="20180106T043342Z">
@@ -4380,6 +4388,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081850Z" creationid="Franklin Weng" creationdate="20171231T133321Z">
         <seg>&lt;f8&gt;當你開始將內容加入範本時&lt;/f8&gt;，你隨時都可以把「定量單位」換回公分或英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;stacked on top of the circle.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T033657Z" creationid="Jeff Huang" creationdate="20180122T033657Z">
+        <seg>&lt;f2&gt;疊在圓圈的上面。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16853,6 +16869,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The one on the left is converted into a polygon using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Convert&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sub-menu, then flipped horizontally to face the other.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034528Z" creationid="Jeff Huang" creationdate="20180122T034528Z">
+        <seg>左邊那個是使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 轉換」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;子選單來轉換為多邊形，然後再水平翻轉以面對另一個戰士。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The only drawback to this technique is that ungrouping may become more difficult.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T022858Z" creationid="Jeff Huang" creationdate="20180121T134757Z">
@@ -17587,6 +17611,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102801Z" creationid="Franklin Weng" creationdate="20171212T101103Z">
         <seg>這樣做的目的在&lt;f2&gt;避免&lt;/f2&gt;&lt;f3&gt;過度編輯&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;預設&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;範本&lt;/f6&gt;而造成範本損毀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This one consists of:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T032159Z" creationid="Jeff Huang" creationdate="20180122T032159Z">
+        <seg>這個包含了：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20086,6 +20118,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T062700Z" creationid="Franklin Weng" creationdate="20180107T062700Z">
         <seg>你的主題是技術性的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a) &lt;f0&gt;A&lt;/f0&gt; circle with a thick line and transparent area..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T033512Z" creationid="Jeff Huang" creationdate="20180122T033512Z">
+        <seg>a) 一個有粗線與透明區域的圓圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) &lt;f0&gt;A&lt;/f0&gt;n archer &lt;f1&gt;di&lt;/f1&gt;ngbat set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T033535Z" creationid="Jeff Huang" creationdate="20180122T033535Z">
+        <seg>b) 一位弓箭手。</seg>
       </tuv>
     </tu>
     <tu>
