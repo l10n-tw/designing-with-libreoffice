@@ -2993,6 +2993,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The least useful option is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Proportional&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, in which line-spacing is expressed as a percentage of the automatically determined single space, and not an exact figure.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T030815Z" creationid="zerng07" creationdate="20180122T030815Z">
+        <seg>&lt;f0&gt;最難用的選項是「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;比例&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，它以自動判定的單行空間作為百分比分母，採百分比為單位而非實際數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The libraries of o&lt;/f0&gt;ther free-licensed diagram applications, such as Dia or Calligra Suite’s Flow.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093006Z" creationid="Jeff Huang" creationdate="20180118T093006Z">
@@ -17105,8 +17113,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These options use Writer’s standard defaults for line spacing, and are optimal for any given font only by luck.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T030520Z" creationid="zerng07" creationdate="20180122T030520Z">
-        <seg>這些選項使用Writer的行距標準預設值，想要有最佳字型視覺效果就只能碰碰運氣了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T030533Z" creationid="zerng07" creationdate="20180122T030520Z">
+        <seg>這些選項使用Writer的行距標準預設值，所以要有最佳字型視覺效果就只能碰碰運氣了。</seg>
       </tuv>
     </tu>
     <tu>
