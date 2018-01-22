@@ -8994,6 +8994,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in LibreOffice, a paragraph set to 12/15 would be set with &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Leading&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; at 3 points.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033309Z" creationid="zerng07" creationdate="20180122T033309Z">
+        <seg>舉例來說，在LibreOffice, a paragraph set to 12/15 would be set with &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Leading&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; at 3 points.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in Linux when you save from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TemplateMenu,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; you can only save, search, and view.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173417Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
@@ -9644,8 +9652,8 @@
       <tuv lang="EN">
         <seg>However, LibreOffice uses the word to refer to only the extra space beyond the font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033256Z" creationid="zerng07" creationdate="20180122T033256Z">
-        <seg>不過，LibreOffice繼續以「Leading」稱呼額外插入的這個空間，不含字型大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033415Z" creationid="zerng07" creationdate="20180122T033256Z">
+        <seg>不過，LibreOffice繼續以「Leading」稱呼額外插入的這個空間，不含字型大小；中文版裡我們稱為「鉛插」，而不是「行距」。</seg>
       </tuv>
     </tu>
     <tu>
