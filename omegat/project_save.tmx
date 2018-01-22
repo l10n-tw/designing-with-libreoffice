@@ -17168,6 +17168,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The top objects and the visible parts of objects lower in the stack disappear, leaving only the parts that overlap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084628Z" creationid="Jeff Huang" creationdate="20180122T084628Z">
+        <seg>頂層物件與較底層的物件的可見部份消失，僅留下重疊的部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The trouble is, just as many people never learn how to use a word process&lt;f2&gt;or&lt;/f2&gt; properly, many fail to understand the uses and limitations of a slide show.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T124529Z" creationid="Franklin Weng" creationdate="20180106T124529Z">
