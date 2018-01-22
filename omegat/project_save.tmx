@@ -12460,8 +12460,8 @@
       <tuv lang="EN">
         <seg>Line spacing at small font sizes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033639Z" creationid="zerng07" creationdate="20180122T033639Z">
-        <seg>小字的行距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033646Z" creationid="zerng07" creationdate="20180122T033639Z">
+        <seg>小字時的行距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12839,6 +12839,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T121858Z" creationid="Franklin Weng" creationdate="20180102T140627Z">
         <seg>其他的考量點&lt;f0&gt;可&lt;/f0&gt;包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More often, small font sizes need extra line spacing &lt;f0&gt;to make them readable.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033848Z" creationid="zerng07" creationdate="20180122T033848Z">
+        <seg>常見的做法是，小字會搭配額外的行距空間&lt;f0&gt;來讓文字更好閱讀。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18216,6 +18224,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, LibreOffice, &lt;f0&gt;like&lt;/f0&gt; most word processors, treats &lt;f1&gt;line spacing for&lt;/f1&gt; small font sizes the same as &lt;f2&gt;line spacing for &lt;/f2&gt;any other size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034135Z" creationid="zerng07" creationdate="20180122T034135Z">
+        <seg>不幸的是，LibreOffice&lt;f0&gt;就像&lt;/f0&gt;大多數的文書處理器一樣，將小字的&lt;f1&gt;行距&lt;/f1&gt;與其他字型大小的&lt;f2&gt;行距&lt;/f2&gt;以相同方式對待。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately, in Writer, Draw, and Impress, you must format manually without styles or much of anything else to help you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135428Z" creationid="Jeff Huang" creationdate="20180112T135428Z">
@@ -19650,6 +19666,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144721Z" creationid="Franklin Weng" creationdate="20180118T144721Z">
         <seg>你可以設定投影片轉場的速度、音效，並決定要套用在整場簡報所有的投影片中，還是只在兩張特殊的投影片之間。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can sometimes find fonts specially designed to be readable at sizes below 10 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033739Z" creationid="zerng07" creationdate="20180122T033739Z">
+        <seg>你會發現有些字型是特地設計給10點以下閱讀的字型。</seg>
       </tuv>
     </tu>
     <tu>
