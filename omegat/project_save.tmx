@@ -4841,6 +4841,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>A custom drop capital “&lt;f0&gt;O”&lt;/f0&gt; &lt;f1&gt;shows&lt;/f1&gt; how shapes can be &lt;f2&gt;stacked&lt;/f2&gt; into more complex ones.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T032106Z" creationid="Jeff Huang" creationdate="20180122T032106Z">
+        <seg>自定義的大寫“&lt;f0&gt;O”&lt;/f0&gt;&lt;f1&gt;說明&lt;/f1&gt;形狀如何&lt;f2&gt;堆疊&lt;/f2&gt;成更複雜的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>我在 LibreOffice 5.4.4, GNOME on Wayland 環境試不出來。</note>
       <tuv lang="EN">
         <seg>A dialog window opens so that you can give the new style a title.&lt;/f3&gt;</seg>
@@ -13401,6 +13409,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083746Z" creationid="Franklin Weng" creationdate="20171213T133242Z">
         <seg>當你確定需要哪一類的範本後，有&lt;f0&gt;幾種&lt;/f0&gt;可以取得的方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have the shape you want, group the objects to preserve the more complicated shape.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T031747Z" creationid="Jeff Huang" creationdate="20180122T031747Z">
+        <seg>一旦有你想要的形狀，將物件分組以保留較複雜的形狀。</seg>
       </tuv>
     </tu>
     <tu>
