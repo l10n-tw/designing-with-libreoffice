@@ -631,6 +631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;For &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Text Body&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and related styles, you should activate both, accepting the default of keeping two lines together, or three at the most.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T080832Z" creationid="zerng07" creationdate="20180123T080832Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」。對於「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;內文&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」和其相關樣式，你應該兩種都啟用。接受預設的保持兩行設定，或是最多改成三行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Unlike styles elsewhere in LibreOffice, you cannot create new Presentation styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094730Z" creationid="Franklin Weng" creationdate="20180116T094721Z">
@@ -3309,6 +3317,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093006Z" creationid="Jeff Huang" creationdate="20180118T093006Z">
         <seg>其他自由授權的圖表應用程式中的&lt;f0&gt;媒體庫&lt;/f0&gt;，如Dia或Calligra Suite中的Flow。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The main tools for avoiding widows and orphans are &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Widow control&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Orphan control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T080410Z" creationid="zerng07" creationdate="20180123T080410Z">
+        <seg>&lt;f0&gt;避免寡行和孤行的主要工具為「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分頁前寡行控制&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;分頁後孤行控制</seg>
       </tuv>
     </tu>
     <tu>
