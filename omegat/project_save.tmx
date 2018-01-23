@@ -3644,6 +3644,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Vertical spacing is set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Indents and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing &gt; Above Paragraph&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing &gt; Below Paragraph.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T013414Z" creationid="zerng07" creationdate="20180123T013414Z">
+        <seg>&lt;f0&gt;垂直間距在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;縮排和間距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;間距 &gt; 段落之上&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」和「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;間距 &gt; 段落之下&lt;/f8&gt;&lt;/f7&gt;」設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wall:&lt;/f0&gt; The background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030728Z" creationid="Jeff Huang" creationdate="20180115T030728Z">
@@ -16533,8 +16541,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab, with the &lt;f1&gt;Above paragraph&lt;/f1&gt; and &lt;f2&gt;Below paragraph&lt;/f2&gt; fields listed under &lt;f3&gt;Spacing&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T013201Z" creationid="zerng07" creationdate="20180123T013201Z">
-        <seg>&lt;f0&gt;縮排和間距&lt;/f0&gt;標籤頁中，&lt;f3&gt;間距&lt;/f3&gt;下方有列出&lt;f1&gt;段落之上&lt;/f1&gt;和&lt;f2&gt;段落之下&lt;/f2&gt;欄位&lt;f4&gt;。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T013421Z" creationid="zerng07" creationdate="20180123T013201Z">
+        <seg>「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁中，&lt;f3&gt;間距&lt;/f3&gt;下方有列出&lt;f1&gt;段落之上&lt;/f1&gt;和&lt;f2&gt;段落之下&lt;/f2&gt;欄位&lt;f4&gt;。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19375,6 +19383,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072225Z" creationid="Jeff Huang" creationdate="20180115T072225Z">
         <seg>Verdana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vertical spacing &lt;f0&gt;is also used to increase the effectiveness of headings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T013456Z" creationid="zerng07" creationdate="20180123T013456Z">
+        <seg>垂直間距&lt;f0&gt;也用來增加標題的效果。</seg>
       </tuv>
     </tu>
     <tu>
