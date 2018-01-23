@@ -3369,6 +3369,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The more of these problems that appear, the more you need to change the hyphenation, the font, the font size, and/or the column width in the hope of a better fit.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115851Z" creationid="zerng07" creationdate="20180123T115851Z">
+        <seg>&lt;f0&gt;這些問題出現的次數越多，代表你需要更大量修改斷字處理、字型大小、或欄寬（有的話）等，才能有希望改善問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The official font for GNOME 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105723Z" creationid="zerng07" creationdate="20170817T105723Z">
