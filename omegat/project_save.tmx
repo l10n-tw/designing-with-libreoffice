@@ -761,8 +761,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Right&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is rarely used except in short, highly-formatted documents such as ads or diagrams, while &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Centered&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is generally reserved for titles and sub-titles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102005Z" creationid="zerng07" creationdate="20180123T102005Z">
-        <seg>「&lt;f0&gt;&lt;f1&gt;右/下&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」很少用到，除了廣告或圖表中的簡短文字、高度格式設定編排的內容等。而「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」則通常留給文件的題名或副題使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102055Z" creationid="zerng07" creationdate="20180123T102005Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;右/下&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」很少用到，除非是廣告或圖表中的簡短文字、或重度格式編排過的內容等。「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」則通常留給文件的題名或副題使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9792,6 +9792,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091319Z" creationid="zerng07" creationdate="20171226T091319Z">
         <seg>對許多人而言，&lt;f0&gt;&lt;f1&gt;樣式和格式&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;視窗是&lt;/f2&gt;套用樣式時最有效的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For most paragraph styles, your choice is likely to be &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Left&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; or &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Justified.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102143Z" creationid="zerng07" creationdate="20180123T102143Z">
+        <seg>至於大多數的段落樣式，你的選擇一般是「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;左/上&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」或「&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;兩端對齊&lt;/f10&gt;&lt;/f9&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
