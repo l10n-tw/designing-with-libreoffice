@@ -9675,6 +9675,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For headings, you may prefer &lt;f0&gt;Keep with next paragraph.&lt;/f0&gt; When headings are meant to introduce the body text below them, having the heading and body text on separate pages makes &lt;f1&gt;no&lt;/f1&gt; sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T082902Z" creationid="zerng07" creationdate="20180123T082902Z">
+        <seg>標題的話，你可能會想用「&lt;f0&gt;與下個段落同頁&lt;/f0&gt;」。 When headings are meant to introduce the body text below them, having the heading and body text on separate pages makes &lt;f1&gt;no&lt;/f1&gt; sense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;f2&gt;Heading 1 i&lt;/f2&gt;s often followed by &lt;f3&gt;Text Body.&lt;/f3&gt; Since a heading is almost never followed &lt;f4&gt;immediately&lt;/f4&gt; by another heading, this is a reasonable choice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T171555Z" creationid="zerng07" creationdate="20171225T153844Z">
