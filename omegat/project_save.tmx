@@ -16155,8 +16155,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Standard typography tries to avoid a single line at the bottom of a page – a widow – or a single line at the top of a page – an orphan.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035124Z" creationid="zerng07" creationdate="20180123T034719Z">
-        <seg>在標準的字體排印學做法中，會試圖避免一頁中底部只有一行，稱為「寡婦」(Widow)，以及避免一頁中頂端只有一行，稱為「孤兒」(Orphan)。在LibreOffice中，前者稱為「分頁前遺留」，後者稱為「分頁後遺留」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T043901Z" creationid="zerng07" creationdate="20180123T034719Z">
+        <seg>在標準的字體排印學做法中，會試圖避免一頁中底部只有一行，稱為「寡婦」(Widow)，以及避免一頁中頂端只有一行，稱為「孤兒」(Orphan)。在LibreOffice中，前者稱為「分頁前寡行」，後者稱為「分頁後孤行」。</seg>
       </tuv>
     </tu>
     <tu>
