@@ -4754,6 +4754,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The other options in the drop-down list are &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Centered &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Justified.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122830Z" creationid="zerng07" creationdate="20180123T122830Z">
+        <seg>&lt;f2&gt;下拉選單中的其他選項是「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中 &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」和「 &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;兩端對齊&lt;/f7&gt;&lt;/f6&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The serifs on the slab serif are much thicker than on the ordinary serif.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145705Z" creationid="Franklin Weng" creationdate="20171225T092901Z">
@@ -5863,8 +5871,8 @@
       <tuv lang="EN">
         <seg>All but one leave large gaps between words or letters that anyone who cares about the design of their documents should find unacceptable.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121605Z" creationid="zerng07" creationdate="20180123T121605Z">
-        <seg>在所有其他在單字與單字間或字與字間留下大量空白的人之中，任何在乎文件設計的人都應該覺得這樣不能接受。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121631Z" creationid="zerng07" creationdate="20180123T121605Z">
+        <seg>在所有其他在單字與單字間或字與字間留下大量空白的人之中，任何在乎文件設計的人都應該覺得這樣做不能接受。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16986,6 +16994,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T132816Z" creationid="Franklin Weng" creationdate="20180105T135528Z">
         <seg>「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Last line&lt;/f0&gt; options for justified text on the &lt;f1&gt;Alignment&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121726Z" creationid="zerng07" creationdate="20180123T121726Z">
+        <seg>&lt;f1&gt;對齊&lt;/f1&gt;標籤頁中，左右對齊下有個「&lt;f0&gt;最後一行&lt;/f0&gt;」選項。</seg>
       </tuv>
     </tu>
     <tu>
