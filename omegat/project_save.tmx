@@ -18041,6 +18041,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>這個左，後來改名成預設的樣子囉，而且兩端對齊時會預設啟用。</note>
+      <tuv lang="EN">
+        <seg>The only consistently aesthetic choice is to set the &lt;f0&gt;&lt;f1&gt;Last line&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; field to &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Left.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; This selection is the only one that eliminates the impossible situation of trying to justify a line of text that is too short and has ugly gaps in it.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T125836Z" creationid="zerng07" creationdate="20180123T125836Z">
+        <seg>唯一具有一致性的美觀選項是將「&lt;f0&gt;&lt;f1&gt;最後一行&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」欄位設為「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;預設&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」。「預設」其實就是向左對齊，這個選項是解決讓一行超短文字試圖兩端對齊結果造成醜怪大空白這個不可能任務的唯一做法。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The only drawback to this technique is that ungrouping may become more difficult.</seg>
       </tuv>
