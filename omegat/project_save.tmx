@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Minimize&lt;/f0&gt; this problem by using only the &lt;f1&gt;Before &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Paragraph&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;field and leaving the &lt;f5&gt;After &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Paragraph&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;field set to zero &lt;f9&gt;for most paragraph styles.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T033529Z" creationid="zerng07" creationdate="20180123T033529Z">
+        <seg>&lt;f0&gt;避免&lt;/f0&gt;此問題的辦法，就是讓大多數的段落樣式只使用「&lt;f2&gt;&lt;f3&gt;段落&lt;/f3&gt;&lt;/f2&gt;&lt;f1&gt;之上 &lt;/f1&gt;」欄位，留著&lt;f5&gt;之下&lt;/f5&gt;&lt;f8&gt; &lt;/f8&gt;欄位為零&lt;f9&gt;。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Most of the options in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; dialog window are obvious from their description.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131454Z" creationid="Franklin Weng" creationdate="20180120T122936Z">
@@ -12119,6 +12127,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T033311Z" creationid="Jeff Huang" creationdate="20180116T033311Z">
         <seg>在某些情況下，一次使用一個以上的原則可以強化設計，&lt;f0&gt;但在另一些情況下可能會互相牴觸&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the case of pictures, you may want to vary the spacing to avoid extra large gaps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T033912Z" creationid="zerng07" creationdate="20180123T033912Z">
+        <seg>至於圖片部分，你或許會想要改變間距以避免造成額外的大洞。</seg>
       </tuv>
     </tu>
     <tu>
