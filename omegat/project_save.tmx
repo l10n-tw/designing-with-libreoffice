@@ -3113,6 +3113,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he easiest way to tell if a paragraph style can easily use Justified is to &lt;f1&gt;set it up with dummy text and count&lt;/f1&gt; the number of lines that end in a hyphen &lt;f2&gt;and the blotches of irregular white space&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115732Z" creationid="zerng07" creationdate="20180123T115732Z">
+        <seg>判斷一個段落是否可以輕鬆使用「兩端對齊」的做法，就是先用假文測試&lt;f1&gt;，看看尾端是連字符的行數，&lt;/f1&gt;以及不規則字間空白的地方。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he space above or below a graphic or any other inserted object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150946Z" creationid="Franklin Weng" creationdate="20180105T150946Z">
