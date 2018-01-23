@@ -6536,8 +6536,8 @@
       <tuv lang="EN">
         <seg>Avoiding widows &lt;f0&gt;and&lt;/f0&gt; orphans</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T034846Z" creationid="zerng07" creationdate="20180123T034559Z">
-        <seg>避免鰥寡孤獨</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035022Z" creationid="zerng07" creationdate="20180123T034559Z">
+        <seg>避免孤兒寡婦</seg>
       </tuv>
     </tu>
     <tu>
@@ -16115,8 +16115,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Standard typography tries to avoid a single line at the bottom of a page – a widow – or a single line at the top of a page – an orphan.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035016Z" creationid="zerng07" creationdate="20180123T034719Z">
-        <seg>在標準的字體排印學做法中，會試圖避免一頁中底部只有一行，稱為「寡人」(Widow)，以及避免一頁中頂端只有一行，稱為「孤兒」(Orphan)。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035124Z" creationid="zerng07" creationdate="20180123T034719Z">
+        <seg>在標準的字體排印學做法中，會試圖避免一頁中底部只有一行，稱為「寡婦」(Widow)，以及避免一頁中頂端只有一行，稱為「孤兒」(Orphan)。在LibreOffice中，前者稱為「分頁前遺留」，後者稱為「分頁後遺留」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20565,6 +20565,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T161841Z" creationid="Franklin Weng" creationdate="20171212T100501Z">
         <seg>你可以發展出那般詳細的文稿結構式範本，來讓你的作業流程更加自動化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can distinguish widows from orphans by remembering that a&lt;f0&gt;n&lt;/f0&gt; &lt;f1&gt;orphan&lt;/f1&gt; is left behind while a &lt;f2&gt;widow&lt;/f2&gt; goes forward &lt;f3&gt;by herself.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035455Z" creationid="zerng07" creationdate="20180123T035455Z">
+        <seg>要怎麼記住誰是寡婦，誰是孤兒呢？想想&lt;f1&gt;孤兒&lt;/f1&gt;被拋下在後方，而&lt;f2&gt;寡婦&lt;/f2&gt;得勇敢 goes forward &lt;f3&gt;by herself.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
