@@ -2545,8 +2545,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a paragraph style, you have four choices for horizontal positioning: &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left, Right, Centered&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Justified.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T101531Z" creationid="zerng07" creationdate="20180123T101531Z">
-        <seg>&lt;f0&gt;在段落樣式的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，你有四種水平定位文字的選項：&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「左/上」、「右/下」、「置中」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;、&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「兩端對齊」&lt;/f8&gt;&lt;/f7&gt;等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T132051Z" creationid="zerng07" creationdate="20180123T101531Z">
+        <seg>&lt;f0&gt;在段落樣式的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，你有四種水平定位文字的選項：&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「左/上」、「右/下」、「置中」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;、&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「兩端對齊」&lt;/f8&gt;&lt;/f7&gt;等。「左/上」對齊代表橫書時向左對齊，直書時向上對齊；「右/下」對齊，代表橫書時向右對齊，直書時向下對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4413,8 +4413,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The vast majority of t&lt;/f1&gt;ypewriters, of course, could only use a Left alignment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T104428Z" creationid="zerng07" creationdate="20180123T103413Z">
-        <seg>&lt;f1&gt;當然，對過去大多數的打字機使用者來說，&lt;/f1&gt;當然就只能「左/上」對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T131926Z" creationid="zerng07" creationdate="20180123T103413Z">
+        <seg>&lt;f1&gt;當然，對過去大多數的打字機使用者來說，&lt;/f1&gt;當然就只能向左對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10714,6 +10714,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T124304Z" creationid="Franklin Weng" creationdate="20180103T125836Z">
         <seg>不過，自由授權字型大多都能以免費方式取得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, getting an acceptable look is likely to take a lot of trial and error.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T131813Z" creationid="zerng07" creationdate="20180123T131813Z">
+        <seg>然而，你還是得耗上許許多多的試誤才能得到可接受的外觀。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19854,6 +19862,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102632Z" creationid="zerng07" creationdate="20180123T102632Z">
         <seg>使用兩端對齊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a Left alignment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T131858Z" creationid="zerng07" creationdate="20180123T131858Z">
+        <seg>使用左對齊</seg>
       </tuv>
     </tu>
     <tu>
