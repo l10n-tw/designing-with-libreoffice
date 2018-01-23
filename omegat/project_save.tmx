@@ -9677,8 +9677,8 @@
       <tuv lang="EN">
         <seg>For headings, you may prefer &lt;f0&gt;Keep with next paragraph.&lt;/f0&gt; When headings are meant to introduce the body text below them, having the heading and body text on separate pages makes &lt;f1&gt;no&lt;/f1&gt; sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T082902Z" creationid="zerng07" creationdate="20180123T082902Z">
-        <seg>標題的話，你可能會想用「&lt;f0&gt;與下個段落同頁&lt;/f0&gt;」。 When headings are meant to introduce the body text below them, having the heading and body text on separate pages makes &lt;f1&gt;no&lt;/f1&gt; sense.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T085010Z" creationid="zerng07" creationdate="20180123T082902Z">
+        <seg>標題的話，你可能會想用「&lt;f0&gt;與下個段落同頁&lt;/f0&gt;」。標題就是要引導跟在後面的內文，讓標題和內文分開在不同的兩頁上&lt;f1&gt;沒有&lt;/f1&gt;什麼道理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10768,6 +10768,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T123956Z" creationid="Franklin Weng" creationdate="20180101T125517Z">
         <seg>然而，這個限制實際上沒有聽起來的&lt;f0&gt;那麼&lt;/f0&gt;嚴重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this setting, too, may result in poorly positioned page breaks, so use it sparingly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T085212Z" creationid="zerng07" creationdate="20180123T085212Z">
+        <seg>然而，這個設定，也同樣可能讓分頁位置變得很差，所以請謹慎使用。</seg>
       </tuv>
     </tu>
     <tu>
