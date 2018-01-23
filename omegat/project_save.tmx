@@ -12187,6 +12187,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way, heading paragraph styles matches the line spacing every few lines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014403Z" creationid="zerng07" creationdate="20180123T014403Z">
+        <seg>這樣的話，標題段落樣式每隔幾行就能對上行距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In&lt;/f0&gt; LibreOffice 4.4 &lt;f1&gt;and later, &lt;/f1&gt;you can update styles by highlighting part of the document, then selecting a style in the tool bar’s drop-down list and clicking &lt;f2&gt;Update &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;to Match&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Selection&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030516Z" creationid="zerng07" creationdate="20171227T030516Z">
@@ -17300,6 +17308,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The heading's font size, and the space above and below it, should total a multiple of the &lt;f0&gt;line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014326Z" creationid="zerng07" creationdate="20180123T014326Z">
+        <seg>標題字的大小，以及之上與之下的間距，加起來應該是行距的整數倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The headings in this chapter will give you a checklist of steps to follow.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
@@ -19397,8 +19413,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Usually, extra spacing is used in technical documents, but the only rule is not to use both at the same time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014205Z" creationid="zerng07" creationdate="20180123T014205Z">
-        <seg>技術性文件通常會用額外間距，唯一的規則是兩種做法不要同時採用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014220Z" creationid="zerng07" creationdate="20180123T014205Z">
+        <seg>技術文件通常會用額外間距；唯一的規則是兩種做法不要同時採用。</seg>
       </tuv>
     </tu>
     <tu>
