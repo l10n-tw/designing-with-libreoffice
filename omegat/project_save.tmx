@@ -1774,8 +1774,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Frankly, though, you have to wonder why.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121208Z" creationid="zerng07" creationdate="20180123T121208Z">
-        <seg>&lt;f0&gt;但坦白說，你應該要想想為什麼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122836Z" creationid="zerng07" creationdate="20180123T121208Z">
+        <seg>&lt;f0&gt;但坦白說，你應該要想想為什麼要這麼做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2973,6 +2973,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T055353Z" creationid="Franklin Weng" creationdate="20171228T052613Z">
         <seg>&lt;f0&gt;小型大寫字不只比一般大寫字母小而已，它的寬高比例也和一般大寫不大一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Snap to Text Grid &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(If Active)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; uses the non-printing grid set in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Grid&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for positioning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T123219Z" creationid="zerng07" creationdate="20180123T123219Z">
+        <seg>「&lt;f0&gt;貼齊文字網格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(如果有啟用網格)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 」會使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 網格&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」中設定的非列印網格作定位貼齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,8 +4764,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The other options in the drop-down list are &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Centered &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Justified.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122830Z" creationid="zerng07" creationdate="20180123T122830Z">
-        <seg>&lt;f2&gt;下拉選單中的其他選項是「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中 &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」和「 &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;兩端對齊&lt;/f7&gt;&lt;/f6&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122902Z" creationid="zerng07" creationdate="20180123T122830Z">
+        <seg>&lt;f2&gt;下拉選單中除了「預設」外，其他選項分別是「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中 &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」和「 &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;兩端對齊&lt;/f7&gt;&lt;/f6&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
