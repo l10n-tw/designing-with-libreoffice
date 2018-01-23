@@ -3555,6 +3555,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Too often, it results&lt;/f0&gt; in irregular spacing between characters or words &lt;f1&gt;that looks far worse than Left alignment ever could.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T103631Z" creationid="zerng07" creationdate="20180123T103631Z">
+        <seg>&lt;f0&gt;最常見的狀況是，它反而造成&lt;/f0&gt;字元與字元間，或單字與單字間不規則的間距，&lt;f1&gt;這看起來遠比向左對齊還要糟糕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Autocorrect&lt;/f0&gt; does have an option to combine short paragraphs, but that is not always suitable to the sense of the passage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T041928Z" creationid="zerng07" creationdate="20180123T040231Z">
@@ -18151,6 +18159,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084628Z" creationid="Jeff Huang" creationdate="20180122T084628Z">
         <seg>頂層物件與較底層的物件的可見部份消失，僅留下重疊的部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The trouble is, a Justified alignment often requires more work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T103505Z" creationid="zerng07" creationdate="20180123T103505Z">
+        <seg>問題是，兩端對齊常常要更費心處理。</seg>
       </tuv>
     </tu>
     <tu>
