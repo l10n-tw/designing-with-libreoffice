@@ -8956,6 +8956,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even worse, several lines are single words.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120646Z" creationid="zerng07" creationdate="20180123T120526Z">
+        <seg>更糟的是，有很多行都只包含一個單字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even worse, this practice encourages slide shows that are complete summaries of your talk.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095122Z" creationid="Franklin Weng" creationdate="20180109T095122Z">
@@ -16129,6 +16137,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some lines even have more than one fault.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120847Z" creationid="zerng07" creationdate="20180123T120847Z">
+        <seg>很多行都不只有一個毛病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these are for graphic text, but others are for general categories of drawing objects, such as &lt;f1&gt;Object with arrow.&lt;/f1&gt; Most are not for specific shapes, sizes, or purposes, except for &lt;f2&gt;Dimension Line.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T130647Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
@@ -17800,6 +17816,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>圖中有五個地方，是作者算錯？或是作者原本要改圖忘記了？</note>
       <tuv lang="EN">
         <seg>The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
       </tuv>
