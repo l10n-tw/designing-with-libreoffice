@@ -3499,6 +3499,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools &gt; Autocorrect&lt;/f0&gt; does have an option to combine short paragraphs, but that is not always suitable to the sense of the passage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T040231Z" creationid="zerng07" creationdate="20180123T040231Z">
+        <seg>「&lt;f0&gt;工具 &gt; 自動校正&lt;/f0&gt;」確實提供選項合併短小的段落，但這麼做不見得適合該段文字的脈絡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Transferring styles does not change the template listed in&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; File &gt; Properties &gt; General.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142230Z" creationid="Franklin Weng" creationdate="20171223T133152Z">
@@ -15916,6 +15924,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T130647Z" creationid="Jeff Huang" creationdate="20171220T082440Z">
         <seg>其中一些用於圖形化的文字，但其它則用於繪圖物件的一般分類，如「&lt;f1&gt;帶箭頭的物件。&lt;/f1&gt;」等等。除了&lt;f2&gt;尺寸線&lt;/f2&gt;以外，大多數都不限于特定的形狀、大小或用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some paragraphs are a single line long.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T040029Z" creationid="zerng07" creationdate="20180123T040029Z">
+        <seg>有些段落就是只有一行那麼長。</seg>
       </tuv>
     </tu>
     <tu>
