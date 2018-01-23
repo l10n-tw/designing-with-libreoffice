@@ -759,6 +759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Right&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is rarely used except in short, highly-formatted documents such as ads or diagrams, while &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Centered&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; is generally reserved for titles and sub-titles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102005Z" creationid="zerng07" creationdate="20180123T102005Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;右/下&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」很少用到，除了廣告或圖表中的簡短文字、高度格式設定編排的內容等。而「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」則通常留給文件的題名或副題使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Slide d&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;esign&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; can only do so much to make your presentation effective.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T125000Z" creationid="Franklin Weng" creationdate="20180120T125000Z">
@@ -16697,6 +16705,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100523Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
         <seg>&lt;f0&gt;&lt;f1&gt;「透明」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;標籤頁&lt;/f2&gt;也包含了建立漸層的選項，與&lt;f3&gt;「格式 &gt; 區塊 &gt; 漸層」&lt;/f3&gt;中的選項相同 &lt;t4/&gt;&lt;f5&gt;（參見上面的內容）。&lt;/f5&gt;就圖形樣式而言，標籤頁裡的漸層控制讓你可以自訂漸層，而&lt;f7&gt;區塊&lt;/f7&gt;標籤頁則僅能讓你選擇預先定義好的漸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab, with the &lt;f1&gt;Options&lt;/f1&gt; at the top of the &lt;f2&gt;window&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T101727Z" creationid="zerng07" creationdate="20180123T101719Z">
+        <seg>在「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中，&lt;f2&gt;視窗&lt;/f2&gt;上方有個「&lt;f1&gt;選項&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
