@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a paragraph style, you have four choices for horizontal positioning: &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left, Right, Centered&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Justified.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T101531Z" creationid="zerng07" creationdate="20180123T101531Z">
+        <seg>&lt;f0&gt;在段落樣式的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，你有四種水平定位文字的選項：&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「左/上」、「右/下」、「置中」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;、&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「兩端對齊」&lt;/f8&gt;&lt;/f7&gt;等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, each font has three basic characteristics: its family, its style or typeface (depending on the version and &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;platform), and size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T090507Z" creationid="Franklin Weng" creationdate="20171224T082328Z">
@@ -15517,6 +15525,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144423Z" creationid="Franklin Weng" creationdate="20180118T144346Z">
         <seg>選擇投影片的轉場效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting an alignment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T091308Z" creationid="zerng07" creationdate="20180123T091308Z">
+        <seg>選取對齊方式</seg>
       </tuv>
     </tu>
     <tu>
