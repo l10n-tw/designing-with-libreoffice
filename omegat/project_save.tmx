@@ -4506,6 +4506,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;As a rule, lines of less than 40 characters are too much effort to be worth justifying.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115111Z" creationid="zerng07" creationdate="20180123T115111Z">
+        <seg>&lt;f2&gt;所以，作為規則，一行英文如果少於40個字元，那麼就不值得你花一堆心力去調整兩端對齊造成的字間空白。（但經過測試，5.4似乎有調整過，少於40個字元時就算按兩端對齊，還是會以向左對齊優先。所以不存在這個問題了～）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;At times, you may download two templates from different websites, only to&lt;/f2&gt; discover that the&lt;f3&gt;y are the same template with&lt;/f3&gt; different names.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T084725Z" creationid="Franklin Weng" creationdate="20171215T123640Z">
