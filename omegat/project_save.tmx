@@ -3699,6 +3699,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>這一節的內容作者重複了啦～他可能複製後不小心貼上… XDDD</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Vertical spacing is set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Indents and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing &gt; Above Paragraph&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing &gt; Below Paragraph&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; fields.</seg>
       </tuv>
@@ -16216,6 +16217,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>想說怎麼跟看到的不大一樣。作者寫錯了，這邊的孤兒和寡婦已經有查證過。LibreOffice的翻譯沒有一致，也不夠清楚，所以一併更新了。
+</note>
       <tuv lang="EN">
         <seg>Standard typography tries to avoid a single line at the bottom of a page – a widow – or a single line at the top of a page – an orphan.</seg>
       </tuv>
@@ -17256,6 +17259,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T121806Z" creationid="Franklin Weng" creationdate="20180105T133018Z">
         <seg>而標題的灰度通常&lt;f1&gt;要比內文深，這樣大略瀏覽文本時標題就會比較明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The combined effect of &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; settings for &lt;f2&gt;two subsequent&lt;/f2&gt; paragraph styles can cause unexpected&lt;f3&gt;ly large spaces between paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T091015Z" creationid="zerng07" creationdate="20180123T091015Z">
+        <seg>&lt;f2&gt;兩個連續&lt;/f2&gt;段落間的&lt;f0&gt;之上&lt;/f0&gt;與&lt;f1&gt;之下&lt;/f1&gt;間距設定結合效果，可能造成未預期的大空間。</seg>
       </tuv>
     </tu>
     <tu>
