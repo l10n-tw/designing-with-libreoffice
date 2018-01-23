@@ -2390,10 +2390,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Minimize this problem by using only the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Before Paragraph&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field and leaving the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;After Paragraph&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field set to zero for most paragraph styles.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T091227Z" creationid="zerng07" creationdate="20180123T091227Z">
+        <seg>&lt;f0&gt;避免此問題的辦法，就是讓大多數的段落樣式只使用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;段落之上&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位，留著&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;段落之下&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位為零。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Minimize&lt;/f0&gt; this problem by using only the &lt;f1&gt;Before &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Paragraph&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;field and leaving the &lt;f5&gt;After &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Paragraph&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;field set to zero &lt;f9&gt;for most paragraph styles.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T033529Z" creationid="zerng07" creationdate="20180123T033529Z">
-        <seg>&lt;f0&gt;避免&lt;/f0&gt;此問題的辦法，就是讓大多數的段落樣式只使用「&lt;f2&gt;&lt;f3&gt;段落&lt;/f3&gt;&lt;/f2&gt;&lt;f1&gt;之上 &lt;/f1&gt;」欄位，留著&lt;f5&gt;之下&lt;/f5&gt;&lt;f8&gt; &lt;/f8&gt;欄位為零&lt;f9&gt;。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T091302Z" creationid="zerng07" creationdate="20180123T033529Z">
+        <seg>&lt;f0&gt;避免&lt;/f0&gt;此問題的辦法，就是讓大多數的段落樣式只使用「&lt;f2&gt;&lt;f3&gt;段落&lt;/f3&gt;&lt;/f2&gt;&lt;f1&gt;之上&lt;/f1&gt;」欄位，留著「&lt;f5&gt;段落之下&lt;/f5&gt;」欄位為零&lt;f9&gt;。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
