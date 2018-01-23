@@ -15825,6 +15825,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting the last line of justified text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120912Z" creationid="zerng07" creationdate="20180123T120912Z">
+        <seg>設定兩端對齊文字的最後一行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting transparencies</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060258Z" creationid="Jeff Huang" creationdate="20180104T060258Z">
@@ -17715,6 +17723,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104204Z" creationid="zerng07" creationdate="20171225T104143Z">
         <seg>樣式的階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last line of justified text is &lt;f0&gt;only&lt;/f0&gt; a complete line &lt;f1&gt;by luck.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121037Z" creationid="zerng07" creationdate="20180123T121037Z">
+        <seg>兩端對齊段落的最後一行&lt;f0&gt;剛好&lt;/f0&gt;是完整一行的情況，根本是&lt;f1&gt;靠運氣才能遇到。</seg>
       </tuv>
     </tu>
     <tu>
