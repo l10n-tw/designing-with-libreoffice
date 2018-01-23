@@ -3233,6 +3233,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The combined effect of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Before&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;After&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; settings for two subsequent paragraph styles can cause unexpectedly large spaces between paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T020607Z" creationid="zerng07" creationdate="20180123T020607Z">
+        <seg>&lt;f0&gt;兩個連續段落間的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;之上&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;與&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;之下&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;間距設定結合效果，可能造成未預期的大空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The default chart can be repositioned and resized by dragging on its handles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140921Z" creationid="Jeff Huang" creationdate="20180112T140921Z">
@@ -12189,8 +12197,8 @@
       <tuv lang="EN">
         <seg>In this example, the line spacing is set to 15 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014659Z" creationid="zerng07" creationdate="20180123T014659Z">
-        <seg>以此為例，行距設為15點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014859Z" creationid="zerng07" creationdate="20180123T014659Z">
+        <seg>以這為例，行距設定為15點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14904,6 +14912,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T031859Z" creationid="Jeff Huang" creationdate="20180118T031859Z">
         <seg>記得要限制字型數的建議嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing unexpected space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014922Z" creationid="zerng07" creationdate="20180123T014922Z">
+        <seg>移除未預期的空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18821,6 +18837,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T095936Z" creationid="Jeff Huang" creationdate="20180115T065049Z">
         <seg>目前，原創的自由字型愈來愈普遍，但專有&lt;f2&gt;字型&lt;/f2&gt;的自由同等替代品的需求仍然存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Together, the spacing before the heading and after it plus the font size for the heading should equal a multiple of 15 or of 7.5 (half the line height).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014838Z" creationid="zerng07" creationdate="20180123T014838Z">
+        <seg>那麼，標題前、後間距，加上標題字大小的垂直空間，應該等於15或7.5（行高一半）的倍數。</seg>
       </tuv>
     </tu>
     <tu>
