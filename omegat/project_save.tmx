@@ -19483,6 +19483,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the same formula if spacing between body text paragraphs is used instead of a first-line indentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T090404Z" creationid="zerng07" creationdate="20180123T090404Z">
+        <seg>如果採用內文段落之間加間距的做法，而不是第一行縮排的話，就持續套用相同的公式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the template as &lt;f0&gt;the source&lt;/f0&gt; for other, more &lt;f1&gt;specialized&lt;/f1&gt; templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T133913Z" creationid="Franklin Weng" creationdate="20180114T133913Z">
@@ -19647,6 +19655,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120846Z" creationid="Franklin Weng" creationdate="20180120T120846Z">
         <seg>通常，在你需要顯示動作時，動畫效果會特別有用。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, extra spacing is used in technical documents instead of first-line indentation, but the only firm rule is not to use both at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T090201Z" creationid="zerng07" creationdate="20180123T090201Z">
+        <seg>通常，技術文件上多半使用額外間距而少用第一行縮排，但唯一的規則是不要同時使用兩種做法。</seg>
       </tuv>
     </tu>
     <tu>
