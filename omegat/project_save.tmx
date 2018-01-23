@@ -9539,6 +9539,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have set last and first &lt;t0/&gt;paragraphs on a page to each have two lines, something has to give when a three-line paragraph straddles two pages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T040845Z" creationid="zerng07" creationdate="20180123T040845Z">
+        <seg>舉例來說，如果你在一頁中設定第一段和最後一段各自有兩行，有時得給成三行段落跨到第二頁去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you use a particular shade of blue for the headings, use the same blue as a background for table headers and for a line that separates the header from the &lt;f2&gt;text&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T053959Z" creationid="Jeff Huang" creationdate="20180116T053959Z">
