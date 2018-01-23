@@ -12187,10 +12187,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this example, the line spacing is set to 15 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014659Z" creationid="zerng07" creationdate="20180123T014659Z">
+        <seg>以此為例，行距設為15點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this way, heading paragraph styles matches the line spacing every few lines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014403Z" creationid="zerng07" creationdate="20180123T014403Z">
-        <seg>這樣的話，標題段落樣式每隔幾行就能對上行距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014502Z" creationid="zerng07" creationdate="20180123T014403Z">
+        <seg>這樣的話，標題段落樣式才能每隔幾行繼續跟上行距移動的規律。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17310,8 +17318,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The heading's font size, and the space above and below it, should total a multiple of the &lt;f0&gt;line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014326Z" creationid="zerng07" creationdate="20180123T014326Z">
-        <seg>標題字的大小，以及之上與之下的間距，加起來應該是行距的整數倍。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014515Z" creationid="zerng07" creationdate="20180123T014326Z">
+        <seg>標題字的大小，以及之上與之下的間距，加起來應該是&lt;f0&gt;行距的倍數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19239,6 +19247,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T134756Z" creationid="Jeff Huang" creationdate="20180122T134756Z">
         <seg>使用預覽來進行實驗，直到取得所需的位置為止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the same formula if spacing between body text paragraphs is used instead of a first line indentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014634Z" creationid="zerng07" creationdate="20180123T014634Z">
+        <seg>如果採用內文段落之間加間距，而不是第一行縮排的話，就持續套用相同的公式。</seg>
       </tuv>
     </tu>
     <tu>
