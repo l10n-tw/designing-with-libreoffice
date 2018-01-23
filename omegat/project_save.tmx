@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;f11&gt;The only reason to use any of them is to provide a sample of why they are unacceptable.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130722Z" creationid="zerng07" creationdate="20180123T130722Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;唯一採用這些做法的理由，就是不得以要提供範例給大家看看為什麼這些做法都不能接受。&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Having designed an effective slide show, you must also design an effective means of delivery.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T125158Z" creationid="Franklin Weng" creationdate="20180120T125158Z">
@@ -18045,8 +18053,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The only consistently aesthetic choice is to set the &lt;f0&gt;&lt;f1&gt;Last line&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; field to &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Left.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; This selection is the only one that eliminates the impossible situation of trying to justify a line of text that is too short and has ugly gaps in it.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T125836Z" creationid="zerng07" creationdate="20180123T125836Z">
-        <seg>唯一具有一致性的美觀選項是將「&lt;f0&gt;&lt;f1&gt;最後一行&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」欄位設為「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;預設&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」。「預設」其實就是向左對齊，這個選項是解決讓一行超短文字試圖兩端對齊結果造成醜怪大空白這個不可能任務的唯一做法。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130336Z" creationid="zerng07" creationdate="20180123T125836Z">
+        <seg>唯一有一致美觀性的選項是將「&lt;f0&gt;&lt;f1&gt;最後一行&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」欄位設為「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;預設&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」。「預設」其實就是向左對齊，這個選項是解決讓一行超短文字試圖兩端對齊結果造成醜怪大空白這個不可能任務的唯一做法。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18085,8 +18093,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The other options – &lt;f0&gt;&lt;f1&gt;Justified&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; &lt;f3&gt;Centered&lt;/f3&gt;, &lt;f4&gt;Expand single word&lt;/f4&gt;,&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Left&lt;/f8&gt;&lt;/f7&gt; – all look &lt;f9&gt;awkward&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130138Z" creationid="zerng07" creationdate="20180123T130138Z">
-        <seg>其餘選項——&lt;f0&gt;&lt;f1&gt;兩端對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;置中&lt;/f3&gt;、&lt;f4&gt;拉長一個單字&lt;/f4&gt;、&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;和&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;預&lt;/f8&gt;&lt;/f7&gt; – all look &lt;f9&gt;awkward&lt;/f9&gt;&lt;f10&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130436Z" creationid="zerng07" creationdate="20180123T130138Z">
+        <seg>其餘選項——&lt;f0&gt;&lt;f1&gt;兩端對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;置中&lt;/f3&gt;、&lt;f4&gt;拉長一個單字&lt;/f4&gt;，&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;甚至是&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;預設&lt;/f8&gt;&lt;/f7&gt;——全都看起來&lt;f9&gt;不美觀&lt;/f9&gt;&lt;f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
