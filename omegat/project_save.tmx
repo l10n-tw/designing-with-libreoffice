@@ -1812,6 +1812,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From top to bottom: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Justified, &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Center&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;ed&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Expand Single Word, &lt;/f8&gt;&lt;/f7&gt;and&lt;f9&gt;&lt;f10&gt; Left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130857Z" creationid="zerng07" creationdate="20180123T130857Z">
+        <seg>&lt;f0&gt;由上到下分別是：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;兩端對齊、&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;置中&lt;/f3&gt;&lt;f6&gt;、&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;擴展一個單字&lt;/f8&gt;&lt;/f7&gt;、&lt;f9&gt;&lt;f10&gt;預設。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;From within the Template Manager, select the template to delete, then click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Delete&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133617Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
@@ -17795,6 +17803,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104204Z" creationid="zerng07" creationdate="20171225T104143Z">
         <seg>樣式的階層</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The justification of the last line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130734Z" creationid="zerng07" creationdate="20180123T130734Z">
+        <seg>最後一行的兩端對齊。</seg>
       </tuv>
     </tu>
     <tu>
