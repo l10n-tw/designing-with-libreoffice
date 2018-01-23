@@ -2541,6 +2541,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>現在 LibreOffice 改用「左/上」和「右/下」，代表橫書時的向左、向右對齊，或直書時的向上、向下對齊。但之前 Jutified 翻譯沒發現這個改變而沒有跟著改，還是用「左右對齊」，所以藉此修正為「兩端對齊」，以表達直書、橫書都是兩端對齊。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a paragraph style, you have four choices for horizontal positioning: &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left, Right, Centered&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Justified.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
@@ -18106,6 +18107,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>Expand single word 經過測試，只有在那一行剩下一個英文單字時才有效果，所以修正翻譯為「拉長一個單字」。已同步更新到上游。</note>
       <tuv lang="EN">
         <seg>The other options – &lt;f0&gt;&lt;f1&gt;Justified&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; &lt;f3&gt;Centered&lt;/f3&gt;, &lt;f4&gt;Expand single word&lt;/f4&gt;,&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Left&lt;/f8&gt;&lt;/f7&gt; – all look &lt;f9&gt;awkward&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
