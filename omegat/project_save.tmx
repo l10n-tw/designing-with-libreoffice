@@ -3115,8 +3115,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he easiest way to tell if a paragraph style can easily use Justified is to &lt;f1&gt;set it up with dummy text and count&lt;/f1&gt; the number of lines that end in a hyphen &lt;f2&gt;and the blotches of irregular white space&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115732Z" creationid="zerng07" creationdate="20180123T115732Z">
-        <seg>判斷一個段落是否可以輕鬆使用「兩端對齊」的做法，就是先用假文測試&lt;f1&gt;，看看尾端是連字符的行數，&lt;/f1&gt;以及不規則字間空白的地方。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120348Z" creationid="zerng07" creationdate="20180123T115732Z">
+        <seg>判斷一個英文段落是否可以輕鬆使用「兩端對齊」的做法，就是先用假文測試&lt;f1&gt;，看看有斷字處理過的行數，&lt;/f1&gt;以及不規則字間空白的地方。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17803,8 +17803,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120205Z" creationid="zerng07" creationdate="20180123T120205Z">
-        <seg>中間欄有三個連字符的行The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120452Z" creationid="zerng07" creationdate="20180123T120205Z">
+        <seg>中間欄有五個斷字過的行，而連字符讓這段文字看起來斷來斷去的，感覺很糟。</seg>
       </tuv>
     </tu>
     <tu>
