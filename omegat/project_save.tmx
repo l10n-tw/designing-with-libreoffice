@@ -8883,6 +8883,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extra spacing between paragraphs is one of the ways to indicate the start of a new paragraph (the other is an indentation of the first line&lt;f0&gt;)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014011Z" creationid="zerng07" creationdate="20180123T014011Z">
+        <seg>段落之間的額外間距，能夠指示讀者這是新段落的開始（另一種做法是第一行縮排&lt;f0&gt;）&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extreme versions, like &lt;f2&gt;the proprietary&lt;/f2&gt; Didot, have strokes that are so thin that they &lt;f3&gt;almost&lt;/f3&gt; disappear at small font sizes, or with a low-resolution printer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T150942Z" creationid="Franklin Weng" creationdate="20180103T135108Z">
@@ -19383,6 +19391,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120846Z" creationid="Franklin Weng" creationdate="20180120T120846Z">
         <seg>通常，在你需要顯示動作時，動畫效果會特別有用。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, extra spacing is used in technical documents, but the only rule is not to use both at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014205Z" creationid="zerng07" creationdate="20180123T014205Z">
+        <seg>技術性文件通常會用額外間距，唯一的規則是兩種做法不要同時採用。</seg>
       </tuv>
     </tu>
     <tu>
