@@ -16774,8 +16774,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Text Flow&lt;/f0&gt; tab, with &lt;f1&gt;&lt;f2&gt;Orphan control&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Widow control &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;under&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Options.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T043532Z" creationid="zerng07" creationdate="20180123T043532Z">
-        <seg>「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中，有「&lt;f1&gt;&lt;f2&gt;分頁前遺留控制&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Widow control &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;under&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Options.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T044229Z" creationid="zerng07" creationdate="20180123T043532Z">
+        <seg>「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中，在「&lt;f7&gt;&lt;f8&gt;選項&lt;/f8&gt;&lt;/f7&gt;」下有「&lt;f1&gt;&lt;f2&gt;分頁後孤行控制&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;分頁前寡行控制&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20619,8 +20619,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can distinguish widows from orphans by remembering that a&lt;f0&gt;n&lt;/f0&gt; &lt;f1&gt;orphan&lt;/f1&gt; is left behind while a &lt;f2&gt;widow&lt;/f2&gt; goes forward &lt;f3&gt;by herself.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035742Z" creationid="zerng07" creationdate="20180123T035455Z">
-        <seg>要怎麼記住誰是寡婦，誰是孤兒呢？想想&lt;f1&gt;孤兒&lt;/f1&gt;被拋下落在後方，而&lt;f2&gt;寡婦&lt;/f2&gt;得隻身&lt;f3&gt;一人向前行。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T044000Z" creationid="zerng07" creationdate="20180123T035455Z">
+        <seg>要怎麼記住誰是寡婦，誰是孤兒呢？想想&lt;f1&gt;孤兒&lt;/f1&gt;被拋下落在後方，而&lt;f2&gt;寡婦&lt;/f2&gt;得隻身一人&lt;f3&gt;獨自前行。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
