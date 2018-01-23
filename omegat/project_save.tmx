@@ -3749,6 +3749,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Whatever your choice of alignment, if you are using hyphenated styles, &lt;/f0&gt;run &lt;f1&gt;Tools &gt; Language &gt; Hyphenation&lt;/f1&gt; as a last &lt;t2/&gt;step before publishing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102443Z" creationid="zerng07" creationdate="20180123T102443Z">
+        <seg>&lt;f0&gt;不管你的對齊方式為何，如果你的英語文件有在用斷字樣式的話，至少要在出版前的最後一步&lt;/f0&gt;執行過「&lt;f1&gt; &gt; 語言 &gt; 斷字處理&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When you are done, selecting the curve reveals the points that you can drag on to adjust the shape.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132500Z" creationid="Jeff Huang" creationdate="20180118T132500Z">
