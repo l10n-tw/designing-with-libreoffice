@@ -3501,8 +3501,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tools &gt; Autocorrect&lt;/f0&gt; does have an option to combine short paragraphs, but that is not always suitable to the sense of the passage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T040231Z" creationid="zerng07" creationdate="20180123T040231Z">
-        <seg>「&lt;f0&gt;工具 &gt; 自動校正&lt;/f0&gt;」確實提供選項合併短小的段落，但這麼做不見得適合該段文字的脈絡。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T040317Z" creationid="zerng07" creationdate="20180123T040231Z">
+        <seg>「&lt;f0&gt;工具 &gt; 自動校正&lt;/f0&gt;」確實提供選項合併短小的段落，但這麼做不見得適合這段文字原先給人的感覺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14388,6 +14388,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T175519Z" creationid="Franklin Weng" creationdate="20171213T123128Z">
         <seg>其他類別名稱可能是客戶名稱或專案名稱，又或是特定的外觀主題，像是明亮背景或暗色背景等——端看怎麼做最適合你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other paragraphs have a number of lines that do not fit Writer’s settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T040538Z" creationid="zerng07" creationdate="20180123T040538Z">
+        <seg>其他段落有一些不合Writer設定的行數。</seg>
       </tuv>
     </tu>
     <tu>
