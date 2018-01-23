@@ -16772,6 +16772,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Text Flow&lt;/f0&gt; tab, with &lt;f1&gt;&lt;f2&gt;Orphan control&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Widow control &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;under&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Options.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T043532Z" creationid="zerng07" creationdate="20180123T043532Z">
+        <seg>「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中，有「&lt;f1&gt;&lt;f2&gt;分頁前遺留控制&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Widow control &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;under&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Options.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab &lt;f1&gt;expresses transparency as a percentage, with 0 being an unmodified or solid color, and 100% being completely transparent.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T115952Z" creationid="Jeff Huang" creationdate="20180104T060748Z">
