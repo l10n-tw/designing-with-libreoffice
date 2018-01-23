@@ -1772,6 +1772,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Frankly, though, you have to wonder why.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121208Z" creationid="zerng07" creationdate="20180123T121208Z">
+        <seg>&lt;f0&gt;但坦白說，你應該要想想為什麼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;From a Drawing Objects style, you can only use the fills that are already defined for LibreOffice as a whole.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T093839Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
@@ -5853,6 +5861,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All but one leave large gaps between words or letters that anyone who cares about the design of their documents should find unacceptable.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121605Z" creationid="zerng07" creationdate="20180123T121605Z">
+        <seg>在所有其他在單字與單字間或字與字間留下大量空白的人之中，任何在乎文件設計的人都應該覺得這樣不能接受。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All connectors can end with an arrow or an open or filled circle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043158Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
@@ -5985,6 +6001,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T084624Z" creationid="Franklin Weng" creationdate="20171215T120138Z">
         <seg>你在網路上找得到的範本幾乎都是自由授權，因此可以&lt;f1&gt;自由&lt;/f1&gt;&lt;f0&gt;修改&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Almost always, it is an incomplete line.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121054Z" creationid="zerng07" creationdate="20180123T121054Z">
+        <seg>絕大多數情況，最後一行都不是完整一行。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13231,6 +13255,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124800Z" creationid="Franklin Weng" creationdate="20171223T094232Z">
         <seg>LibreOffice無法永久改變預設格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice offers several choices of how to handle this approach.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121117Z" creationid="zerng07" creationdate="20180123T121117Z">
+        <seg>LibreOffice提供多種處理方法。</seg>
       </tuv>
     </tu>
     <tu>
