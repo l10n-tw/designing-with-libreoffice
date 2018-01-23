@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Many users prefer a Justified&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;alignment,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;in which all lines start at the same position on the left and end at the same position on the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102903Z" creationid="zerng07" creationdate="20180123T102903Z">
+        <seg>&lt;f0&gt;很多使用者偏好「兩端&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;對齊&lt;/f3&gt;&lt;f6&gt;」，它能讓各行文字在橫書時左端、右端都對齊在同一直線上，在直書時上端、下端也都對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Many&lt;/f0&gt; versions of LibreOffice have a console built in that let you &lt;f1&gt;read the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Notes&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab &lt;/f4&gt;as the slide show runs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121345Z" creationid="Franklin Weng" creationdate="20180120T121345Z">
@@ -18739,6 +18747,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This selection repairs any sub-optimal choices Writer might have made on the fly&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102625Z" creationid="zerng07" creationdate="20180123T102625Z">
+        <seg>這個選項可以修復Writer在你一邊打字一邊斷字時處理得沒那麼好的所有地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This structural use of templates tends to be under-emphasized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
@@ -19586,6 +19602,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T085501Z" creationid="Franklin Weng" creationdate="20171215T124751Z">
         <seg>如果你自己沒有買Microsoft Office，那麼使用它的範本是違法行為。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a Justified alignment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102632Z" creationid="zerng07" creationdate="20180123T102632Z">
+        <seg>使用兩端對齊</seg>
       </tuv>
     </tu>
     <tu>
