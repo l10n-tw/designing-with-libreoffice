@@ -3371,8 +3371,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The more of these problems that appear, the more you need to change the hyphenation, the font, the font size, and/or the column width in the hope of a better fit.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115851Z" creationid="zerng07" creationdate="20180123T115851Z">
-        <seg>&lt;f0&gt;這些問題出現的次數越多，代表你需要更大量修改斷字處理、字型大小、或欄寬（有的話）等，才能有希望改善問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115903Z" creationid="zerng07" creationdate="20180123T115851Z">
+        <seg>&lt;f0&gt;這些問題出現的次數越多，代表你需要更大量修改斷字處理、字型大小、或欄寬（有的話）等，才有希望改善問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6129,6 +6129,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T163755Z" creationid="Franklin Weng" creationdate="20180106T042419Z">
         <seg>這裡有個例子，Colecanth：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of the wrong alignment for the line length.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120058Z" creationid="zerng07" creationdate="20180123T120058Z">
+        <seg>行長不當對齊的範例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17793,6 +17801,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120205Z" creationid="zerng07" creationdate="20180123T120205Z">
+        <seg>中間欄有三個連字符的行The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The more accurately that a document’s headings reflect its contents, the more easily you should see the order in which passages should go.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T071334Z" creationid="Jeff Huang" creationdate="20171123T071334Z">
@@ -20904,6 +20920,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030034Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
         <seg>你可以透過從&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中選取&lt;f0&gt;「進入群組」&lt;/f0&gt;來編輯群組中單獨的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can even go to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab to expand or condense character spacing.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120020Z" creationid="zerng07" creationdate="20180123T120020Z">
+        <seg>你甚至可以前往字元樣式中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁，擴展或窄縮字元間距。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
