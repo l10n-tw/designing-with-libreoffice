@@ -1790,8 +1790,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; Hatching&lt;/f0&gt; creates linear hatchings for fills throughout LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T135811Z" creationid="Jeff Huang" creationdate="20180122T135811Z">
-        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 陰影」&lt;/f0&gt;會在LibreOffice中建立線形填充。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T104832Z" creationid="Jeff Huang" creationdate="20180122T135811Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 陰影」&lt;/f0&gt;會在LibreOffice中建立線形的陰影。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21275,8 +21275,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can build your own tile, pixel by pixel in the Pattern Editor, or load a fill from another source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140235Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
-        <seg>你可以從像素開始，使用胚騰編輯器建立你自己的拼貼，或是從其他來源載入已有的填充。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105513Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
+        <seg>你可以用點陣繪圖軟體或圖樣（Pattern）編輯器來建立你自己的拼貼，或是從其他來源載入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,8 +21839,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Your custom fills are stored in the /user/config directory of your personal configuration path in a file with an .sob extension (StarOffice Bitmap).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140311Z" creationid="Jeff Huang" creationdate="20180122T140311Z">
-        <seg>你的自訂色彩檔案儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.sob（StarOffice點陣圖）的檔案儲存。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105532Z" creationid="Jeff Huang" creationdate="20180122T140311Z">
+        <seg>你的自訂填充格式儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.sob（StarOffice點陣圖）的檔案儲存。</seg>
       </tuv>
     </tu>
     <tu>
