@@ -3894,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;While&lt;/f0&gt; your document &lt;f1&gt;may be&lt;/f1&gt; intended to be read online, a two-page spread is &lt;f2&gt;still &lt;/f2&gt;a reasonable view to refer to regularly, because it means that you are less likely to miss any design problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T091537Z" creationid="Jeff Huang" creationdate="20180124T091537Z">
+        <seg>&lt;f0&gt;雖然&lt;/f0&gt;你的文件&lt;f1&gt;可能&lt;/f1&gt;是用在線上閱讀的，但兩頁式的版面&lt;f2&gt;仍&lt;/f2&gt;不失為合理的設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wizards are&lt;/f0&gt; available from the &lt;f1&gt;File &gt; Wizards&lt;/f1&gt; sub-menu.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Some of the wizards give you the option of using a LibreOffice Base database or the address book of an email client for filling in fields, which is convenient for mass mail-outs.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103911Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
@@ -9090,6 +9098,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T044026Z" creationid="Jeff Huang" creationdate="20180118T032935Z">
         <seg>更重要的是，結果相當混亂，即便全部都已經向右對齊。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even more importantly, with wide screen monitors having become universal, a &lt;f0&gt;two-page&lt;/f0&gt; spread is the most economical display of a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T091827Z" creationid="Jeff Huang" creationdate="20180124T091827Z">
+        <seg>更重要的是，隨著寬螢幕的普及，&lt;f0&gt;兩頁&lt;/f0&gt;式的版面是顯示文件最經濟的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21301,6 +21317,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131410Z" creationid="Franklin Weng" creationdate="20171223T123451Z">
         <seg>你可以進一步用「&lt;f0&gt;佔位項&lt;/f0&gt;」字元樣式來調整佔位項的外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can get a spread view by &lt;f0&gt;selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Book View&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from&lt;/f3&gt; the zoom controls at the bottom right of the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T092110Z" creationid="Jeff Huang" creationdate="20180124T092110Z">
+        <seg>你可以透過&lt;f0&gt;選取&lt;/f0&gt;左下角的縮放控制中的&lt;f1&gt;&lt;f2&gt;書籍模式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來以這種方式檢視你的文件。</seg>
       </tuv>
     </tu>
     <tu>
