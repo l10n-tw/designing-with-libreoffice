@@ -9918,6 +9918,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if a page is set to &lt;f6&gt;Left Only,&lt;/f6&gt; the &lt;f7&gt;&lt;f8&gt;Next &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Style&lt;/f9&gt;&lt;f10&gt; fie&lt;/f10&gt;ld allows you to use it as right page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T130539Z" creationid="Jeff Huang" creationdate="20180124T130539Z">
+        <seg>舉例來說，若頁面被設定為&lt;f6&gt;僅左頁&lt;/f6&gt;，&lt;f7&gt;&lt;f8&gt;下一個&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;樣式&lt;/f9&gt;欄位會讓你可以使用右頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you are designing a memo template for a low-resolution fax, you might prefer a larger, bold text style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T114418Z" creationid="Franklin Weng" creationdate="20180101T132749Z">
