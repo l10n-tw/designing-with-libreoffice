@@ -1096,6 +1096,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Automating&lt;/f0&gt; &lt;f1&gt;the next style&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T122751Z" creationid="Jeff Huang" creationdate="20180124T122751Z">
+        <seg>&lt;f0&gt;自動化&lt;/f0&gt;&lt;f1&gt;未來樣式&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Awkward &lt;/f0&gt;with graphic text, &lt;f1&gt;and not really needed with the right spacing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101856Z" creationid="Jeff Huang" creationdate="20180104T080348Z">
@@ -6564,6 +6572,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133839Z" creationid="Jeff Huang" creationdate="20180113T133839Z">
         <seg>結果不是一個點或一條線，而是一個封閉的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result, the &lt;f0&gt;Next &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt; field on the &lt;f3&gt;Organizer&lt;/f3&gt; tab is &lt;f4&gt;even more&lt;/f4&gt; important for page styles &lt;f5&gt;than for paragraph styles.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T123340Z" creationid="Jeff Huang" creationdate="20180124T123340Z">
+        <seg>因此，在&lt;f3&gt;統籌概覽&lt;/f3&gt;標籤頁中的&lt;f0&gt;下一個&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式&lt;/f2&gt;&lt;/f1&gt;對於頁面樣式來說比&lt;f5&gt;在段落樣式中更重要。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21598,6 +21614,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T130232Z" creationid="Franklin Weng" creationdate="20180120T130232Z">
         <seg>你不需要一直站定在那邊，但是當你換投影片時，就讓自己移到左方，&lt;t1/&gt;在討論的過程中也盡量回到這個位置來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not want to be continually inserting a page break and selecting a page style as you work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T122837Z" creationid="Jeff Huang" creationdate="20180124T122837Z">
+        <seg>你不會想要在工作中不斷地插入分頁符號與選取頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
