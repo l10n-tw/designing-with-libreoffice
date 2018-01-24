@@ -12582,6 +12582,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other non-standard cases, you might create a paragraph style that is set on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab to start a new page with a particular style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T132240Z" creationid="Jeff Huang" creationdate="20180124T132240Z">
+        <seg>在其他非標準的狀況下，你可能會建立設定在&lt;f0&gt;文字流&lt;/f0&gt;標籤頁上的段落樣式以使用特定的樣式來開始新頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, lines will be in the same horizontal position on all pages, especially if the document uses only one font.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024630Z" creationid="zerng07" creationdate="20180122T024630Z">
