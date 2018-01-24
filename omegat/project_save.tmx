@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1&lt;f0&gt;3&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042057Z" creationid="Franklin Weng" creationdate="20180124T042057Z">
+        <seg>1&lt;f0&gt;3&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1&lt;f0&gt;4&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051506Z" creationid="Franklin Weng" creationdate="20180121T051506Z">
@@ -1468,8 +1476,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Diagrams and layout have fewer limits to their design than a page of text or even a spreadsheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032215Z" creationid="Jeff Huang" creationdate="20180116T032215Z">
-        <seg>&lt;f0&gt;圖表與佈局和文字頁面或試算表相比限制較少。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042514Z" creationid="Jeff Huang" creationdate="20180116T032215Z">
+        <seg>&lt;f0&gt;圖表與佈局的設計和文字頁面或試算表相比來說，限制較少。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,10 +5197,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;29&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042057Z" creationid="Franklin Weng" creationdate="20180124T042057Z">
+        <seg>&lt;t0&gt;29&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;2&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T115934Z" creationid="Franklin Weng" creationdate="20180122T115934Z">
         <seg>&lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;30&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042056Z" creationid="Franklin Weng" creationdate="20180124T042056Z">
+        <seg>&lt;t0&gt;30&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5217,6 +5241,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T115936Z" creationid="Franklin Weng" creationdate="20180122T115936Z">
         <seg>&lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;405&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042055Z" creationid="Franklin Weng" creationdate="20180124T042055Z">
+        <seg>&lt;t0&gt;405&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7162,8 +7194,8 @@
       <tuv lang="EN">
         <seg>But learn to apply these ideas, &lt;f0&gt;and &lt;/f0&gt;you &lt;f1&gt;will be thinking&lt;/f1&gt; like a designer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T064654Z" creationid="Jeff Huang" creationdate="20180116T064654Z">
-        <seg>但試著接受這些想法，&lt;f0&gt;然後&lt;/f0&gt;你&lt;f1&gt;就會像設計師一樣思考&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T043136Z" creationid="Jeff Huang" creationdate="20180116T064654Z">
+        <seg>但試著接受這些想法，&lt;f0&gt;然後&lt;/f0&gt;你&lt;f1&gt;就能像設計師一樣思考&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8349,8 +8381,8 @@
       <tuv lang="EN">
         <seg>Designers have done &lt;f2&gt;professional&lt;/f2&gt; works in Draw, but mainly it is intended for diagrams and simple pictures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031443Z" creationid="Jeff Huang" creationdate="20180116T031443Z">
-        <seg>設計師可以在 Draw 中執行&lt;f2&gt;專業&lt;/f2&gt;的工作，但主要還是用於簡單圖表與圖片。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042246Z" creationid="Jeff Huang" creationdate="20180116T031443Z">
+        <seg>設計師可以在 Draw 中執行&lt;f2&gt;專業&lt;/f2&gt;的工作，但主要還是用於圖表與簡單的圖片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8461,8 +8493,8 @@
       <tuv lang="EN">
         <seg>Despite the&lt;f0&gt;ir&lt;/f0&gt; names, &lt;f1&gt;Draw and Impress&lt;/f1&gt; are not meant to be a complete set of tools for editing graphics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031221Z" creationid="Jeff Huang" creationdate="20180116T031221Z">
-        <seg>即便名字看起來很像，但&lt;f1&gt;Draw and Impress&lt;/f1&gt;並不是完整的圖形編輯工具。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042224Z" creationid="Jeff Huang" creationdate="20180116T031221Z">
+        <seg>即便名字看起來很像，但&lt;f1&gt;Draw 與 Impress&lt;/f1&gt;並不是完整的圖形編輯工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8710,8 +8742,8 @@
       <tuv lang="EN">
         <seg>Draw and Impress share a set of graphic editing tools.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031228Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
-        <seg>Draw 與 Impress 共享了一組圖形編輯工具。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042121Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
+        <seg>Draw 與 Impress 共用一組圖形編輯工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9303,8 +9335,8 @@
       <tuv lang="EN">
         <seg>Flow charts, architectural layouts, construction plans, organizational charts, circuit diagrams, icons – these are the sorts of documents that Draw, Impress, and the Drawing tool bar are meant to handle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031737Z" creationid="Jeff Huang" creationdate="20180116T031737Z">
-        <seg>流程圖、建築佈局、施工計畫、組織架構圖、電路圖、圖示，這些都是 Draw、Impress與繪圖工具列所要處理的各種文件。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042423Z" creationid="Jeff Huang" creationdate="20180116T031737Z">
+        <seg>流程圖、建築佈局、施工計畫、組織架構圖、電路圖、圖示 – 這些都是 Draw、Impress與繪圖工具列所要處理的各種文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10015,8 +10047,8 @@
       <tuv lang="EN">
         <seg>For this reason&lt;/f0&gt;, you can work with them better if you know some basics of design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032414Z" creationid="Jeff Huang" creationdate="20180116T032414Z">
-        <seg>因此&lt;/f0&gt;，如果你有一些設計的基礎知識，你就可以更好更有效的方式來使用它們。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042808Z" creationid="Jeff Huang" creationdate="20180116T032414Z">
+        <seg>因此&lt;/f0&gt;，如果你有一些設計的基礎知識，你就可以用更好更有效的方式來製作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11594,8 +11626,8 @@
       <tuv lang="EN">
         <seg>If you don’t have a reason for a design &lt;f0&gt;element&lt;/f0&gt;, &lt;f1&gt;delete it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T062919Z" creationid="Jeff Huang" creationdate="20180116T062919Z">
-        <seg>如果你沒有設計&lt;f0&gt;元素&lt;/f0&gt;的理由，請&lt;f1&gt;刪除它。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T043049Z" creationid="Jeff Huang" creationdate="20180116T062919Z">
+        <seg>如果你沒有使用某個設計&lt;f0&gt;元素&lt;/f0&gt;的理由，請&lt;f1&gt;刪除它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15589,8 +15621,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See Appendix B, “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032915Z" creationid="Jeff Huang" creationdate="20180116T032915Z">
-        <seg>參見附錄B，“&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042837Z" creationid="Jeff Huang" creationdate="20180116T032915Z">
+        <seg>請參考附錄B，“&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16455,6 +16487,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T115934Z" creationid="Franklin Weng" creationdate="20180122T115809Z">
         <seg>試算表設計</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets are the electronic descendants of accounting ledgers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042043Z" creationid="Franklin Weng" creationdate="20180124T042043Z">
+        <seg>Spreadsheets are the electronic descendants of accounting ledgers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19250,8 +19290,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To help make W&lt;f0&gt;illiams’&lt;/f0&gt; four principles more concrete, here are four illustrations based on the designing of business cards, showing a card before and after a principle was applied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T065103Z" creationid="Jeff Huang" creationdate="20180116T065103Z">
-        <seg>為了讓&lt;f0&gt;Williams的&lt;/f0&gt;四項原則更顯具體，下面是基於名片設計的四張插圖，在原則應用前後各顯示一張卡片。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T043354Z" creationid="Jeff Huang" creationdate="20180116T065103Z">
+        <seg>為了讓&lt;f0&gt;Williams的&lt;/f0&gt;四項原則更具體，下面是設計名片時用的四張插圖，在套用上述原則的前後各顯示一張卡片，讓你瞭解差異所在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19330,8 +19370,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To them, I would add &lt;f1&gt;several strategic guidelines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T054353Z" creationid="Jeff Huang" creationdate="20180116T054353Z">
-        <seg>不過對這些原則來說，&lt;f1&gt;我想再補充一些指導方針。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T043014Z" creationid="Jeff Huang" creationdate="20180116T054353Z">
+        <seg>不過，&lt;f1&gt;我想再補充一些指導方針。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20583,8 +20623,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Whole books are written about design, and perfecting &lt;f0&gt;your expertise &lt;/f0&gt;can be a life-long study.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032621Z" creationid="Jeff Huang" creationdate="20180116T032621Z">
-        <seg>整本書寫的都是關於設計方面的知識，充實&lt;f0&gt;你的專業知識&lt;/f0&gt;就可以是終身學習。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042819Z" creationid="Jeff Huang" creationdate="20180116T032621Z">
+        <seg>整本書寫的都是關於設計方面的知識，充實&lt;f0&gt;你的專業知識&lt;/f0&gt;就是一種終身學習。</seg>
       </tuv>
     </tu>
     <tu>
