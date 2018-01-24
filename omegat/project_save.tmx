@@ -1015,6 +1015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Applying&lt;/f0&gt; page styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093141Z" creationid="Jeff Huang" creationdate="20180124T093141Z">
+        <seg>&lt;f0&gt;套用&lt;/f0&gt;頁面樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Applying&lt;/f0&gt; the magic number</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T145129Z" creationid="Franklin Weng" creationdate="20180105T145129Z">
@@ -13867,6 +13875,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T093934Z" creationid="Franklin Weng" creationdate="20171224T073238Z">
         <seg>許多使用者在&lt;f1&gt;設計文件&lt;/f1&gt;時，都&lt;f0&gt;不敢試著&lt;/f0&gt;使用非電腦系統預裝的字型。這樣做雖然說不上錯，但也不見得好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master documents automatically add blank pages so that chapters will start with a &lt;f3&gt;r&lt;/f3&gt;ight page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093043Z" creationid="Jeff Huang" creationdate="20180124T093043Z">
+        <seg>主控文件會自動新增空白頁面以讓章節從右手邊的頁面開始。</seg>
       </tuv>
     </tu>
     <tu>
