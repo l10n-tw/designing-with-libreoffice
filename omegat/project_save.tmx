@@ -809,8 +809,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;View&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Clip Art &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Gallery &lt;/f5&gt;&lt;f6&gt;(also found in the sidebar as &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Gallery&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;) is a convenient place to store these libraries.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093549Z" creationid="Jeff Huang" creationdate="20180118T093549Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「檢視&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;圖庫」&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;（也可以在側邊欄中找到&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圖庫&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;的按鈕）是一個可以很方便地儲存這些媒體庫的地方。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050829Z" creationid="Jeff Huang" creationdate="20180118T093549Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「檢視&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;圖庫」&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;（也可以在側邊欄中找到&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圖庫&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;的按鈕）是一個可以很方便地儲存這些圖庫的地方。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,8 +2360,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Lines at the center of one side are connectors, while broken lines are the snap lines for positioning the object being moved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131852Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
-        <seg>&lt;f0&gt;在一側中心的線條是連接符，而虛線是用於被移動的物件的定位線。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051536Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
+        <seg>&lt;f0&gt;在一側中心的線條是連接線，而虛線是用於被移動的物件的定位線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3404,8 +3404,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The libraries of o&lt;/f0&gt;ther free-licensed diagram applications, such as Dia or Calligra Suite’s Flow.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093006Z" creationid="Jeff Huang" creationdate="20180118T093006Z">
-        <seg>其他自由授權的圖表應用程式中的&lt;f0&gt;媒體庫&lt;/f0&gt;，如Dia或Calligra Suite中的Flow。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050812Z" creationid="Jeff Huang" creationdate="20180118T093006Z">
+        <seg>其他自由授權的圖表應用程式中的&lt;f0&gt;圖庫&lt;/f0&gt;，如Dia或Calligra Suite中的Flow。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,8 +3694,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; connectors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130903Z" creationid="Jeff Huang" creationdate="20180118T130903Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;連接符</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051335Z" creationid="Jeff Huang" creationdate="20180118T130903Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;連接線</seg>
       </tuv>
     </tu>
     <tu>
@@ -5544,8 +5544,8 @@
       <tuv lang="EN">
         <seg>A rectangle attached to two others with connectors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131612Z" creationid="Jeff Huang" creationdate="20180118T131612Z">
-        <seg>一個矩形以連接符連到另外兩個矩形上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051529Z" creationid="Jeff Huang" creationdate="20180118T131612Z">
+        <seg>一個矩形以連接線連到另外兩個矩形上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7557,8 +7557,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Callouts describing some of the basic shapes in Northwest Coast &lt;f0&gt;formline design.&lt;/f0&gt; &lt;f1&gt;In this example, the text blocks have been made borderless.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134011Z" creationid="Jeff Huang" creationdate="20180118T134011Z">
-        <seg>標註描述了一些在西北岸&lt;f0&gt;範本設計&lt;/f0&gt;中的一些基本形狀。&lt;f1&gt;在這個例子中，文字方塊已經是無邊框的了。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052010Z" creationid="Jeff Huang" creationdate="20180118T134011Z">
+        <seg>標註描述了一些在西北岸&lt;f0&gt;範本設計&lt;/f0&gt;（Northwest Coast Design）中的一些基本形狀。&lt;f1&gt;在這個例子中，文字方塊已經是無邊框的了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8014,8 +8014,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Connectors are lines attached to two objects by means of glue points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131042Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
-        <seg>連接符是透過膠合點來連接兩個物件的線條。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051507Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
+        <seg>連接線是透過膠合點來連接兩個物件的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,8 +8342,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Depending on your selection, a curve can b&lt;f1&gt;e&lt;/f1&gt; open, or filled with a color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132153Z" creationid="Jeff Huang" creationdate="20180118T132153Z">
-        <seg>取決於你的選擇，曲線可以是開放的，也可以是有填充色彩的。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051607Z" creationid="Jeff Huang" creationdate="20180118T132153Z">
+        <seg>曲線可以是開放的，也可以是有填充色彩的，看你的選擇而定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10833,8 +10833,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, in 4.4 and above, you can simply select an object and start to type.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130721Z" creationid="Jeff Huang" creationdate="20180118T130721Z">
-        <seg>不過，在4.4與更新版本，你可以簡單地選取物件並開始打字。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051326Z" creationid="Jeff Huang" creationdate="20180118T130721Z">
+        <seg>不過，在4.4以後的版本，你可以簡單地選取物件並開始打字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11081,8 +11081,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, while you are learning Draw, you might want to avoid the effort.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T133424Z" creationid="Jeff Huang" creationdate="20180118T133424Z">
-        <seg>不過，在你學習Draw時，你可能會想要避免這些努力。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051814Z" creationid="Jeff Huang" creationdate="20180118T133424Z">
+        <seg>不過，在你學習Draw時，先不用花心思在這上面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14693,8 +14693,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Other objects at the other end of the connector remain in place unless you select both objects, which drags the objects and the connectors between them as though all elements were grouped.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131434Z" creationid="Jeff Huang" creationdate="20180118T131434Z">
-        <seg>除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳，否則連接符另一端的物件會留在原位。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051525Z" creationid="Jeff Huang" creationdate="20180118T131434Z">
+        <seg>除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳，否則連接線另一端的物件會留在原位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17235,8 +17235,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f1&gt;D&lt;/f1&gt;rawing tool bar con&lt;f2&gt;tain&lt;/f2&gt;s &lt;f3&gt;most&lt;/f3&gt;ly basic shapes &lt;f4&gt;like rectangles or ovals, or primitives, as designers call them.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094034Z" creationid="Jeff Huang" creationdate="20180118T094034Z">
-        <seg>繪圖工具列包含了&lt;f3&gt;大多數的&lt;/f3&gt;基本形狀&lt;f4&gt;，如矩形或橢圓形，或是設計師可能會稱之為基本圖形元素。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051001Z" creationid="Jeff Huang" creationdate="20180118T094034Z">
+        <seg>繪圖工具列包含了&lt;f3&gt;大多數的&lt;/f3&gt;基本形狀&lt;f4&gt;，如矩形或橢圓形，或是設計師稱之為基本圖形元素的形狀。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18094,8 +18094,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The odds are that if you use Draw much, you will need to produce your own content using the &lt;f0&gt;D&lt;/f0&gt;rawing tool bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093811Z" creationid="Jeff Huang" creationdate="20180118T093811Z">
-        <seg>有一個可能的狀況是，如果你常常使用Draw，你將會需要使用繪圖工具列來產出你自己的內容。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050855Z" creationid="Jeff Huang" creationdate="20180118T093811Z">
+        <seg>有一個可能的狀況是，如果你常常使用Draw，你會需要使用繪圖工具列來產出你自己的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18770,8 +18770,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They are synonymous with the frame handles, but &lt;f0&gt;they&lt;/f0&gt; rotate rather than move the shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T135855Z" creationid="Jeff Huang" creationdate="20180118T135855Z">
-        <seg>它們與框架把手用途類似，但&lt;f0&gt;它們&lt;/f0&gt;旋轉而非移動形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052056Z" creationid="Jeff Huang" creationdate="20180118T135855Z">
+        <seg>它們與框架把手用途類似，但&lt;f0&gt;它們&lt;/f0&gt;會旋轉而不是移動形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20512,8 +20512,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you move an object that has a connector, the connectors are modified to keep them attached to the objects at the other end.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131138Z" creationid="Jeff Huang" creationdate="20180118T131138Z">
-        <seg>移動帶有連接符的物件時，連接符也會跟著修改以保持連到另一個物件上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051519Z" creationid="Jeff Huang" creationdate="20180118T131138Z">
+        <seg>移動帶有連接線的物件時，連接線也會跟著修改以保持連到另一個物件上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20705,8 +20705,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>With patience and practice, you can use freeform lines to produce more advanced content.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T133259Z" creationid="Jeff Huang" creationdate="20180118T133259Z">
-        <seg>只要耐心練習，你就可以使用自由形曲線來繪製進階內容。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051749Z" creationid="Jeff Huang" creationdate="20180118T133259Z">
+        <seg>只要耐心練習，你就可以使用自由形曲線來繪製各種你想要的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20786,8 +20786,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Writer and Calc versions of the tool bar are missing &lt;f1&gt;a few&lt;/f1&gt; tools such as connectors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T094157Z" creationid="Jeff Huang" creationdate="20180118T094157Z">
-        <seg>Writer與Calc的版本遺失了&lt;f1&gt;一些&lt;/f1&gt;工具，如連接符等。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051125Z" creationid="Jeff Huang" creationdate="20180118T094157Z">
+        <seg>Writer與Calc的版本少了&lt;f1&gt;一些&lt;/f1&gt;工具，如連接線等。</seg>
       </tuv>
     </tu>
     <tu>
