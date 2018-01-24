@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;Then select&lt;f2&gt; Group &lt;/f2&gt;from the &lt;f3&gt;Modify &lt;/f3&gt;menu or the right-click menu from one of the shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T133916Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
-        <seg>&lt;/f1&gt;然後從&lt;f3&gt;「修改」&lt;/f3&gt;選單中，或是從其中一個形狀的右鍵選單中選取&lt;f2&gt;「群組」&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105757Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
+        <seg>&lt;/f1&gt;然後從「修改」選單中，或是從其中一個形狀的右鍵選單中選取「群組」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,8 +1001,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Any primitive can be made into a rotatable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; object by selecting it and then clicking &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Modify &gt; Convert &gt; To 3D.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T123412Z" creationid="Jeff Huang" creationdate="20180121T123412Z">
-        <seg>&lt;f0&gt;任何基本圖形元素都可以透過選取該元素，然後點按&lt;f4&gt;&lt;f5&gt;「修改 &gt; 轉換 &gt; 轉換為 3D」&lt;/f5&gt;&lt;/f4&gt;來變成可旋轉的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;物件。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105729Z" creationid="Jeff Huang" creationdate="20180121T123412Z">
+        <seg>&lt;f0&gt;任何基本圖形元素都可以透過選取該元素，然後點按「修改 &gt; 轉換 &gt; 轉換為 3D」來變成可旋轉的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;物件。&lt;f4&gt;&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15400,8 +15400,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>R&lt;/f1&gt;eplace it with the simplest &lt;f2&gt;possible &lt;/f2&gt;alternative.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T063115Z" creationid="Jeff Huang" creationdate="20180116T063115Z">
-        <seg>以盡可能簡單的替代品取代。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T110250Z" creationid="Jeff Huang" creationdate="20180116T063115Z">
+        <seg>&lt;/f1&gt;以&lt;f2&gt;盡可能簡單&lt;/f2&gt;的替代品取代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15814,8 +15814,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See Appendix B, “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042837Z" creationid="Jeff Huang" creationdate="20180116T032915Z">
-        <seg>請參考附錄B，“&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T110128Z" creationid="Jeff Huang" creationdate="20180116T032915Z">
+        <seg>請參考附錄B，“&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;Error: Reference source not found&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16333,8 +16333,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since the design already splits into two columns with two different types of information, why not &lt;f0&gt;make the design more interesting &lt;/f0&gt;by giving one column a different background &lt;f1&gt;color&lt;/f1&gt;?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T071609Z" creationid="Jeff Huang" creationdate="20180116T071609Z">
-        <seg>因為其設計已經分成兩欄，分別是兩種不同的資訊，為什麼不給其中一欄不同的背景&lt;f1&gt;色彩&lt;/f1&gt;，&lt;f0&gt;讓設計更有趣呢？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105628Z" creationid="Jeff Huang" creationdate="20180116T071609Z">
+        <seg>因為其設計已經分成兩欄，分別是兩種不同的資訊，為什麼不給其中一欄不同的背景色彩，讓設計更有趣呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -17201,8 +17201,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Color&lt;/f0&gt; tab of &lt;f1&gt;Format &gt; Area&lt;/f1&gt; is a duplicate of the tab at &lt;f2&gt;Tools &gt; Options &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice &gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Colors&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T095331Z" creationid="Jeff Huang" creationdate="20180122T095331Z">
-        <seg>&lt;f1&gt;「格式 &gt; 區域」&lt;/f1&gt;中的&lt;f0&gt;「色彩」&lt;/f0&gt;標籤頁與&lt;f2&gt;「工具 &gt; 選項 &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice &gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 色彩」&lt;/f5&gt;標籤頁相同。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105836Z" creationid="Jeff Huang" creationdate="20180122T095331Z">
+        <seg>「格式 &gt; 區域」中的&lt;f0&gt;「色彩」&lt;/f0&gt;標籤頁與&lt;f2&gt;「工具 &gt; 選項 &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice &gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 色彩」&lt;/f5&gt;標籤頁相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19499,8 +19499,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To get more options, either take a screen shot of a Writer table, or add the Writer table to the Draw or Impress document using &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Object &gt; OLE Object.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125634Z" creationid="Jeff Huang" creationdate="20180121T125634Z">
-        <seg>要取得更多選項，可以使用 Writer 表格的螢幕截圖，或是利用&lt;f4&gt;&lt;f5&gt;「插入 &gt; 物件 &gt; OLE 物件」&lt;/f5&gt;&lt;/f4&gt;來將 Writer 表格新增到 Draw 或 Impress 文件中。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T110448Z" creationid="Jeff Huang" creationdate="20180121T125634Z">
+        <seg>要取得更多選項，可以使用 Writer 表格的螢幕截圖，或是利用&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「插入 &gt; 物件 &gt; OLE 物件」&lt;/f5&gt;&lt;/f4&gt;來將 Writer 表格新增到 Draw 或 Impress 文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21363,8 +21363,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can edit an individual shape in a group by selecting &lt;f0&gt;Enter Group&lt;/f0&gt; from the &lt;f1&gt;&lt;f2&gt;Modify&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu&lt;/f3&gt; or &lt;f4&gt;right&lt;/f4&gt;-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030034Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
-        <seg>你可以透過從&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中選取&lt;f0&gt;「進入群組」&lt;/f0&gt;來編輯群組中單獨的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105813Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
+        <seg>你可以透過從&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中選取「進入群組」來編輯群組中單獨的形狀。</seg>
       </tuv>
     </tu>
     <tu>
