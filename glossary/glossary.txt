@@ -21,5 +21,6 @@ layout	版面配置	layout, layouts
 Footer	頁尾	footer, footers
 checklist	檢查表
 dimension line	尺寸線
-Connector	連接點	LibreOffice Draw 將形狀相連的 Connector 譯作連接點
 justified	兩端對齊
+Connector	連接線	LibreOffice Draw 將形狀相連的 Connector 統一改譯為連接線
+freeform line	自由形線條
