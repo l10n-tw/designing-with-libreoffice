@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In theory, y&lt;/f0&gt;ou can change the style of the page at any time by placing the cursor on a page and making a selection from the &lt;f1&gt;Styles and Formatting &lt;/f1&gt;window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093352Z" creationid="Jeff Huang" creationdate="20180124T093352Z">
+        <seg>&lt;f0&gt;理論上，&lt;/f0&gt;你隨時都可以將游標置於頁面上並從&lt;f1&gt;樣式與格式&lt;/f1&gt;視窗中選取，以便隨時改變格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Format &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Area,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;fills are designed for use throughout LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T094545Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
@@ -4711,6 +4719,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T090223Z" creationid="Jeff Huang" creationdate="20180124T090223Z">
         <seg>&lt;f2&gt;舉例來說，雖然你仍然必須新增頁面樣式以建立新的頁首與頁尾，但你現在可以從&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;「插入」&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;選單來使用它們了。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;However, this practice can cause other pages in the document to change their style &lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt; not all the time, but often enough that the method is unreliable.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093627Z" creationid="Jeff Huang" creationdate="20180124T093627Z">
+        <seg>&lt;f2&gt;不過這種做法可能會導致文件中的其他頁面也被變更樣式&lt;/f2&gt;&lt;f4&gt;，雖然不會每次都這樣，但頻率已經高到足以讓人覺得此方法不可靠了。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
