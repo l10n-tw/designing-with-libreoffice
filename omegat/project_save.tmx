@@ -633,8 +633,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T123419Z" creationid="Franklin Weng" creationdate="20171223T121240Z">
-        <seg></seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052603Z" creationid="Franklin Weng" creationdate="20171223T121240Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9656,8 +9656,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fontwork is a library of formats for editing graphic text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T131156Z" creationid="Jeff Huang" creationdate="20180120T131156Z">
-        <seg>美術字是一份供編輯圖形化文字的格式用的媒體庫。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052227Z" creationid="Jeff Huang" creationdate="20180120T131156Z">
+        <seg>美術字是一份供編輯圖形化文字的格式用的圖庫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10384,8 +10384,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Grouping shapes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125846Z" creationid="Jeff Huang" creationdate="20180121T125846Z">
-        <seg>形狀分組</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T053350Z" creationid="Jeff Huang" creationdate="20180121T125846Z">
+        <seg>將形狀群組起來</seg>
       </tuv>
     </tu>
     <tu>
@@ -11137,8 +11137,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can also use the Fontwork tool bar that opens to the right of the standard Drawing tool bar that appears on the bottom of the page when you select the sample in your document.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T132211Z" creationid="Jeff Huang" creationdate="20180120T132211Z">
-        <seg>但是，當你在文件中打開你所選取的樣品時，也可以使用在頁面底部出現的標準「繪圖」工具列中右側打開的美術字工具列。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052317Z" creationid="Jeff Huang" creationdate="20180120T132211Z">
+        <seg>另外，當你在文件中打開你所選取的樣品時，也可以使用在頁面底部出現的標準「繪圖」工具列中右側打開的美術字工具列。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12248,8 +12248,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In effect, you make a single shape out of originally separate ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T130649Z" creationid="Jeff Huang" creationdate="20180121T130649Z">
-        <seg>實際上，你從幾個單獨的形狀做出一個形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T053418Z" creationid="Jeff Huang" creationdate="20180121T130649Z">
+        <seg>實際上，就是把幾個單獨的形狀組在一起做出一個形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12400,8 +12400,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In other cases, you might build a complex object from several simple ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T131044Z" creationid="Jeff Huang" creationdate="20180121T131044Z">
-        <seg>在其他狀況下，你可能會從幾個簡單的物件建構成一個複雜的物件。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T053431Z" creationid="Jeff Huang" creationdate="20180121T131044Z">
+        <seg>在其他狀況下，你可以從幾個簡單的物件建構成一個複雜的物件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15909,8 +15909,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting letter&lt;f4&gt;s&lt;/f4&gt; to the same height is not the same as converting all the letters to upper case, but produces its own distortions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T135523Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
-        <seg>設定字母為相同高度與將所有字母都轉換為大寫，但會產生自己的變形。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052513Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
+        <seg>設定字母為相同高度跟把所有字母都轉換為大寫不一樣，而是會將字母變形以符合高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16413,8 +16413,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes, all you need to modify it will be the standard object tool bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T131822Z" creationid="Jeff Huang" creationdate="20180120T131822Z">
-        <seg>有時候，你要修改它所需要的將會是標準物件工具列。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052306Z" creationid="Jeff Huang" creationdate="20180120T131822Z">
+        <seg>有時候，你只需要用標準物件工具列就可以修改它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17323,8 +17323,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The Fontwork Gallery offers a quick way of formatting graphic text that is not on a flat baseline, but follows a curve or other shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T130919Z" creationid="Jeff Huang" creationdate="20180120T130919Z">
-        <seg>美術字圖庫提供一個快速的對不在平面基線上，而是曲線或是其他形狀的圖形化文字進行格式設定的方式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052157Z" creationid="Jeff Huang" creationdate="20180120T130919Z">
+        <seg>美術字圖庫提供一個快速的方式，對不在平面基線上，而是曲線或是其他形狀上的圖形化文字進行格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21551,8 +21551,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You would group them together because it is the complex shape, not its components, &lt;f0&gt;with which&lt;/f0&gt; you work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T131437Z" creationid="Jeff Huang" creationdate="20180121T131437Z">
-        <seg>你會把它們組合在一起，因為其為複雜的形狀，你並不會想要將其個別元件用在你的工作上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T053637Z" creationid="Jeff Huang" creationdate="20180121T131437Z">
+        <seg>若是把個別元件一個個擺好設定太麻煩了，你可以把個別元件組合在一起成為較複雜的形狀。</seg>
       </tuv>
     </tu>
     <tu>
