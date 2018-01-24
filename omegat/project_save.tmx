@@ -3308,8 +3308,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for Presentation styles&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;sets how content fits into Impress’ pre-existing frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T092232Z" creationid="Franklin Weng" creationdate="20180118T034348Z">
-        <seg>&lt;f3&gt;簡報樣式&lt;/f3&gt;中的「文字」標籤頁可以設定文字內容跟預先定義好外框大小之間的關係。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T093630Z" creationid="Franklin Weng" creationdate="20180118T034348Z">
+        <seg>&lt;f3&gt;簡報樣式&lt;/f3&gt;中的「文字」標籤頁可以&lt;f6&gt;設定文字內容跟預先定義好外框大小之間的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6778,8 +6778,8 @@
       <tuv lang="EN">
         <seg>At best, they make your slides hard to read.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T064740Z" creationid="Franklin Weng" creationdate="20180120T064740Z">
-        <seg>充其量這些版面配置只會讓你的投影片更難閱讀而已。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T093827Z" creationid="Franklin Weng" creationdate="20180120T064740Z">
+        <seg>充其量這些版面配置只會讓你的投影片更難閱讀而已。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17643,8 +17643,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The area of a draw&lt;f0&gt;ing&lt;/f0&gt; object can be formatted &lt;f1&gt;with&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;Colors&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;,&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Gradients&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Hatchings&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, and &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Bitmaps&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T095842Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
-        <seg>繪圖物件的區塊內可以選擇使用&lt;f2&gt;&lt;f3&gt;顏色&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;等格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094757Z" creationid="Jeff Huang" creationdate="20171229T034621Z">
+        <seg>繪圖物件的區塊內可以選擇使用&lt;f2&gt;&lt;f3&gt;色彩&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;、&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;漸層&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;、&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;陰影&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;與&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;點陣圖&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;等格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,8 +21475,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can set the speed of each transition, and a sound to accompany it, and apply it to the entire presentation, or just to the movement between two particular slides.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T144721Z" creationid="Franklin Weng" creationdate="20180118T144721Z">
-        <seg>你可以設定投影片轉場的速度、音效，並決定要套用在整場簡報所有的投影片中，還是只在兩張特殊的投影片之間。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T093737Z" creationid="Franklin Weng" creationdate="20180118T144721Z">
+        <seg>你可以設定投影片轉場的速度、音效，並決定要套用在整場簡報所有的投影片中，還是只在兩張特殊的投影片之間。</seg>
       </tuv>
     </tu>
     <tu>
