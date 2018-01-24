@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;For instance&lt;f2&gt;, while the flow chart library contains most of the basic shapes for creating flow charts, some of the shapes you need may be available from other buttons on the tool bars.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T035755Z" creationid="Jeff Huang" creationdate="20180118T035755Z">
-        <seg>舉例來說&lt;f2&gt;，當流程圖庫包含了供建立流程圖的大部份基本形狀，你可能需要從工具列上的其他按鈕來取得一些所需的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050511Z" creationid="Jeff Huang" creationdate="20180118T035755Z">
+        <seg>舉例來說&lt;f2&gt;，雖然流程圖庫包含了供建立流程圖的大部份基本形狀，但你可能還是需要從工具列上的其他按鈕來取得一些所需的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,12 +7472,13 @@
       </tuv>
     </tu>
     <tu>
-      <note>哪來這麼多垃圾標籤......</note>
+      <note>哪來這麼多垃圾標籤......
+Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>By grouping or stacking shapes, you can make more complex shapes &lt;f2&gt;as well (see “&lt;/f2&gt;&lt;f3&gt;&lt;rf4/&gt;&lt;/f3&gt;&lt;f5&gt;&lt;rf6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;rf8/&gt;&lt;/f7&gt;&lt;f9&gt;&lt;rf10/&gt;&lt;/f9&gt;&lt;f11&gt;&lt;rf12/&gt;&lt;/f11&gt;&lt;f13&gt;&lt;rf14/&gt;&lt;/f13&gt;&lt;f15&gt;&lt;rf16&gt;Stacking shapes into other shapes&lt;/rf16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;rf18/&gt;&lt;/f17&gt;&lt;f19&gt;,” page &lt;/f19&gt;&lt;f20&gt;&lt;rf21&gt;20&lt;/rf21&gt;&lt;/f20&gt;&lt;f22&gt;).&lt;/f22&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T034903Z" creationid="Jeff Huang" creationdate="20180118T034903Z">
-        <seg>透過將形狀分組或堆疊，你還可以製造出更複雜的形狀（請見「以形狀堆疊出其他形狀」）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050402Z" creationid="Jeff Huang" creationdate="20180118T034903Z">
+        <seg>透過將形狀分組或堆疊，你還可以製造出更複雜的形狀（請見「以形狀堆疊出其他形狀」，第 xx 頁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12150,8 +12151,8 @@
       <tuv lang="EN">
         <seg>In addition, while Draw and Impress are ideal for creating diagrams, &lt;f0&gt;they sometimes lack&lt;/f0&gt; the necessary libraries &lt;f1&gt;for some types of diagrams.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T092422Z" creationid="Jeff Huang" creationdate="20180118T092422Z">
-        <seg>此外，雖然 Draw 與 Impress 適合用於建立圖表，&lt;f0&gt;它們有時候仍缺乏&lt;/f0&gt;&lt;f1&gt;某些圖表類型所需的媒體庫。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050541Z" creationid="Jeff Huang" creationdate="20180118T092422Z">
+        <seg>此外，雖然 Draw 與 Impress 適合用於建立圖表，&lt;f0&gt;它們有時候仍缺乏&lt;/f0&gt;&lt;f1&gt;某些圖表類型所需的圖庫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13720,8 +13721,8 @@
       <tuv lang="EN">
         <seg>Many people, too, will need to do a web search to find a guide to when each shape should be used.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T035839Z" creationid="Jeff Huang" creationdate="20180118T035839Z">
-        <seg>許多人可能也需要在網路搜尋才能找到每個形狀要如何使用的指南。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050526Z" creationid="Jeff Huang" creationdate="20180118T035839Z">
+        <seg>許多人可能也需要在網路搜尋才能找到每個形狀要如何使用的說明。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16380,8 +16381,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some, such as those for architectural or electrical diagrams, are missing from both the tool bar and the Clip Art Gallery&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;Instead of developing the libraries &lt;f5&gt;for yourself&lt;/f5&gt;, you can save time by looking for &lt;f6&gt;libraries that already exist.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T092717Z" creationid="Jeff Huang" creationdate="20180118T092717Z">
-        <seg>工具列與美術圖庫中仍缺少一些東西，像是建築業或電子業會用到的圖示。&lt;/f1&gt;不要&lt;f5&gt;自行&lt;/f5&gt;發展媒體庫，你可以透過尋找&lt;f6&gt;既有的媒體庫來節省時間。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050736Z" creationid="Jeff Huang" creationdate="20180118T092717Z">
+        <seg>工具列與美術圖庫中仍缺少一些東西，像是建築業或電子業會用到的圖示。&lt;/f1&gt;但最好不要&lt;f5&gt;自行&lt;/f5&gt;開發這些圖庫，你可以先透過尋找&lt;f6&gt;既有的圖庫來節省時間。</seg>
       </tuv>
     </tu>
     <tu>
