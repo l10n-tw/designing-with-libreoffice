@@ -12630,6 +12630,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some LibreOffice versions, a conflicting next style and page layout may cause layout problems, so make the two fields consistent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T130850Z" creationid="Jeff Huang" creationdate="20180124T130850Z">
+        <seg>在部份的LibreOffice版本中，若下一個樣式與版面配置相衝突可能會造成問題，所以最好讓這兩個欄位保持一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some situations, using more than one principle at once can strengthen the design, &lt;f0&gt;but in others they can work against each other&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T033311Z" creationid="Jeff Huang" creationdate="20180116T033311Z">
