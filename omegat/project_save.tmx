@@ -18236,6 +18236,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most basic pattern is &lt;f0&gt;defined&lt;/f0&gt; for you: a &lt;f1&gt;l&lt;/f1&gt;eft &lt;f2&gt;p&lt;/f2&gt;age is followed by a &lt;f3&gt;r&lt;/f3&gt;ight &lt;f4&gt;p&lt;/f4&gt;age, and a &lt;f5&gt;r&lt;/f5&gt;ight &lt;f6&gt;p&lt;/f6&gt;age by a &lt;f7&gt;l&lt;/f7&gt;eft &lt;f8&gt;p&lt;/f8&gt;age&lt;f9&gt;.&lt;/f9&gt; If you use a &lt;f10&gt;First Page&lt;/f10&gt; &lt;f11&gt;style&lt;/f11&gt;, its &lt;f12&gt;Next &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;style&lt;/f14&gt;&lt;/f13&gt; &lt;f15&gt;f&lt;/f15&gt;ield &lt;f16&gt;defaults &lt;/f16&gt;to &lt;f17&gt;Left Page&lt;/f17&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124656Z" creationid="Jeff Huang" creationdate="20180124T124656Z">
+        <seg>最基本的模式已經先為你&lt;f0&gt;定義好了&lt;/f0&gt;：左頁後會跟著右頁，右頁後又會跟著左頁。如果你使用了&lt;f10&gt;第一頁&lt;/f10&gt; &lt;f11&gt;樣式&lt;/f11&gt;，其&lt;f12&gt;下一個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;樣式&lt;/f14&gt;&lt;/f13&gt;欄位&lt;f16&gt;預設&lt;/f16&gt;為&lt;f17&gt;左頁&lt;/f17&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most common &lt;f0&gt;styles&lt;/f0&gt; are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T043225Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
