@@ -1788,6 +1788,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For some documents, especially short ones, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is all you need.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T135405Z" creationid="Jeff Huang" creationdate="20180124T135405Z">
+        <seg>&lt;f0&gt;對於某些文件來說，特別是較短的文件，你只需要&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設樣式&lt;/f2&gt;&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Gradients&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; creates backgrounds in which one color shades into another.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T131700Z" creationid="Jeff Huang" creationdate="20180122T131700Z">
@@ -5674,6 +5682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T094027Z" creationid="Jeff Huang" creationdate="20180124T094027Z">
         <seg>分頁符號會在編輯視窗中以紫色的虛線標記。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A page for a single page, chart, or diagram that may or may not be landscape-oriented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T135246Z" creationid="Jeff Huang" creationdate="20180124T135246Z">
+        <seg>單頁、圖表，可能是也可能不是橫向頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13455,6 +13471,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164752Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
         <seg>左：襯線 (Serif) 字型 (Goudy Bookletter 1911)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal documents that require a strict format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T135129Z" creationid="Jeff Huang" creationdate="20180124T135129Z">
+        <seg>需要嚴謹格式的法律文件。</seg>
       </tuv>
     </tu>
     <tu>
