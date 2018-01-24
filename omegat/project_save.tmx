@@ -913,8 +913,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Admittedly, you can create more complex designs with the other fields, but the most productive attitude is to regard the&lt;/f0&gt; other fields as options you can play with and mix and match, rather than anything with which you have to deal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T131450Z" creationid="Jeff Huang" creationdate="20180122T131450Z">
-        <seg>&lt;f0&gt;無可否認地，你可以在其他欄位建立更複雜的設計，但比較有生產力的態度是，&lt;/f0&gt;你可以把其他欄位當作你可以玩弄並混搭的選項，而不是你必須處理的任何事情。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095721Z" creationid="Jeff Huang" creationdate="20180122T131450Z">
+        <seg>&lt;f0&gt;無可否認地，你可以在其他欄位建立更複雜的設計，但比較有生產力的態度是，&lt;/f0&gt;你可以把其他欄位當作你可以實驗、混搭的選項，而不是你必須處理的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,8 +1814,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From a Drawing Objects style, you can only use the fills that are already defined for LibreOffice as a whole.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T093839Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
-        <seg>&lt;f0&gt;從繪圖物件樣式中，你只能使用已在LibreOffice中定義好的填充。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094856Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
+        <seg>&lt;f0&gt;從繪圖物件樣式中，你只能使用已在LibreOffice中定義好的填充格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,8 +2272,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Format &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Area,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;fills are designed for use throughout LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T094545Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f3&gt;「格式 &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域」&lt;/f5&gt;&lt;/f4&gt;中，&lt;f7&gt;填充是專為在LibreOffice中使用所設計的。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094929Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f3&gt;「格式 &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域」&lt;/f5&gt;&lt;/f4&gt;中，&lt;f7&gt;填充格式是專為在LibreOffice中使用所設計的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3220,8 +3220,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;hese fills can be used to create an abstract design for custom Impress slides or for filling drawing shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T093614Z" creationid="Jeff Huang" creationdate="20180122T093614Z">
-        <seg>這些填充可用於建立自訂Impress投影片的抽象設計，或是供填充圖形使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094851Z" creationid="Jeff Huang" creationdate="20180122T093614Z">
+        <seg>這些填充格式可用於建立自訂Impress投影片的抽象設計，或是供填充圖形使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3412,8 +3412,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The fact that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is used online and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for hard copy explains &lt;/f6&gt;w&lt;f7&gt;hy printing exactly the colors you see&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;online can be challenging.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120510Z" creationid="Jeff Huang" creationdate="20180122T120510Z">
-        <seg>&lt;f0&gt;事實上，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;用於線上，而&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;則用於印刷，這可以解釋&lt;/f6&gt;&lt;f7&gt;為什麼印刷色彩較精準&lt;/f7&gt;&lt;f10&gt;，而線上的色彩則各個不同。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095312Z" creationid="Jeff Huang" creationdate="20180122T120510Z">
+        <seg>&lt;f0&gt;事實上，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;通常用於螢幕上閱讀，而&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;則用於印刷。這就是&lt;/f6&gt;&lt;f7&gt;為什麼要精確地印刷出跟你在螢幕上所看到一樣的色彩&lt;/f7&gt;&lt;f10&gt;是一個很大的挑戰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,8 +6080,8 @@
       <tuv lang="EN">
         <seg>All gradients are defined by the colors they begin with &lt;f0&gt;(From)&lt;/f0&gt; and end with &lt;f1&gt;(To)&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;G&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;radients can also have&lt;/f5&gt; a border, at which the current color partially fades, as well as an angle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T134436Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
-        <seg>所有漸層都是由從&lt;f0&gt;(From)&lt;/f0&gt;開始並結束於&lt;f1&gt;(To)&lt;/f1&gt;。&lt;f5&gt;漸層也可以有&lt;/f5&gt;邊框，目前的顏色會消失，也可以有角度。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T100053Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
+        <seg>所有漸層都是由從&lt;f0&gt;漸層起點&lt;/f0&gt;開始並結束於&lt;f1&gt;漸層終點&lt;/f1&gt;。&lt;f5&gt;漸層也可以有&lt;/f5&gt;邊框，目前的顏色會消失，也可以有角度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8037,8 +8037,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Color definitions are ways of blending a few colors to make the rest.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T115759Z" creationid="Jeff Huang" creationdate="20180122T115759Z">
-        <seg>顏色定義即為混合幾種顏色來做出剩下的東西。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095116Z" creationid="Jeff Huang" creationdate="20180122T115759Z">
+        <seg>色彩定義是指把一些不同的色彩混在一起的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8582,8 +8582,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Designing fills</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092421Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
-        <seg>設計填充</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094828Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
+        <seg>設計填充格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -10472,8 +10472,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Gradients are a popular choice for presentations and desktop wallpapers on computers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124314Z" creationid="Jeff Huang" creationdate="20180122T124314Z">
-        <seg>漸變是在電腦上的簡報與桌布中許多人使用的選擇。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095532Z" creationid="Jeff Huang" creationdate="20180122T124314Z">
+        <seg>漸層不管在電腦上的簡報或是桌布，都有許多人喜歡使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11409,8 +11409,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If a color is important in the document – perhaps because it is a corporate color – give it a suitable name, such as &lt;f0&gt;Devilfish Software Red&lt;/f0&gt;, so you can locate it quickly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123930Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
-        <seg>如果文件中的某個顏色很重要（也許因為它是公司識別色），你可以給它一個適合的名字，如&lt;f0&gt;章魚軟體紅&lt;/f0&gt;等，這樣您就可以快速地找到它。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095434Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
+        <seg>如果文件中的某個顏色很重要（例如企業的識別色彩），你可以給它一個適合的名字，如「&lt;f0&gt;章魚軟體紅&lt;/f0&gt;」等，這樣您就可以快速地找到它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14386,8 +14386,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Object areas can be decorated with different types of fills: colors, gradients, hatchings, and bitmaps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092628Z" creationid="Jeff Huang" creationdate="20180122T092628Z">
-        <seg>物件區域可以使用四種不同類型的填充來裝飾：色彩、漸層、陰影與點陣圖。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094834Z" creationid="Jeff Huang" creationdate="20180122T092628Z">
+        <seg>物件區域可以使用四種不同類型的填充格式來裝飾：色彩、漸層、陰影與點陣圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18440,8 +18440,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The reason is obvious: with a little experimenting, you can create an original, abstract design that is suitable for almost any subject matter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124445Z" creationid="Jeff Huang" creationdate="20180122T124445Z">
-        <seg>原因相當明顯：只要一點小小的實驗，你可以建立一個原創且抽象的設計，並可適用於幾乎任何主題。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095544Z" creationid="Jeff Huang" creationdate="20180122T124445Z">
+        <seg>原因相當明顯：只要一點小小的實驗，你就可以建立一個原創且抽象的設計，並可適用於幾乎任何主題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18698,8 +18698,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The&lt;f0&gt;ir usefulness is&lt;/f0&gt; easy to under-estimate, but &lt;f1&gt;they &lt;/f1&gt;can sometimes be effective fills, especially when printed in black and white.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T135611Z" creationid="Jeff Huang" creationdate="20180122T135611Z">
-        <seg>它們的&lt;f0&gt;用處&lt;/f0&gt;很容易被低估，但&lt;f1&gt;它們&lt;/f1&gt;有時候是有效的填充，特別是用於黑白印刷時。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T104626Z" creationid="Jeff Huang" creationdate="20180122T135611Z">
+        <seg>它們的&lt;f0&gt;用處&lt;/f0&gt;很容易被低估，但&lt;f1&gt;它們&lt;/f1&gt;有時候很有用，特別是用於黑白印刷時。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21847,8 +21847,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Your custom gradient fills are stored in the /user/config directory of your personal configuration path in a file with an &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T134931Z" creationid="Jeff Huang" creationdate="20180122T134931Z">
-        <seg>你的自訂漸層填充會儲存在你的個人設定路徑中的/user/config裡的以</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T100116Z" creationid="Jeff Huang" creationdate="20180122T134931Z">
+        <seg>你的自訂漸層填充格式會儲存在你的個人設定路徑中的/user/config裡的以</seg>
       </tuv>
     </tu>
     <tu>
