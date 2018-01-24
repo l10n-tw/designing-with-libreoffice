@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Keep this default arrangement, and &lt;/f0&gt;you should only have to think about setting page styles when you do something unusual, such as adding a &lt;f1&gt;l&lt;/f1&gt;andscape page to an otherwise &lt;f2&gt;p&lt;/f2&gt;ortrait-oriented document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T131438Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
+        <seg>當你在做一些不尋常的事情，如新增橫向頁面到與肖像相關的文件中時，&lt;f0&gt;保留這種預設的排列，&lt;/f0&gt;你應該僅需考慮設定頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;ibreOffice sets a &lt;f1&gt;default&lt;/f1&gt; line spacing based on the font size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T133000Z" creationid="Franklin Weng" creationdate="20180105T135634Z">
