@@ -2312,8 +2312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep this default arrangement, and &lt;/f0&gt;you should only have to think about setting page styles when you do something unusual, such as adding a &lt;f1&gt;l&lt;/f1&gt;andscape page to an otherwise &lt;f2&gt;p&lt;/f2&gt;ortrait-oriented document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T131438Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
-        <seg>當你在做一些不尋常的事情，如新增橫向頁面到與肖像相關的文件中時，&lt;f0&gt;保留這種預設的排列，&lt;/f0&gt;你應該僅需考慮設定頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T131633Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
+        <seg>&lt;f0&gt;保留這種預設的排列，&lt;/f0&gt;你應該僅在當你在做一些不尋常的事情，如新增橫向頁面到與肖像相關的文件中時，才需考慮另外設定頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12738,6 +12738,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142522Z" creationid="Franklin Weng" creationdate="20171223T133438Z">
         <seg>在這種情況下，&lt;f0&gt;你可以透過你系統上的檔案管理員來處理範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In these unusual circumstances, select &lt;f3&gt;Insert &gt; &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Manual Break &gt; Page Break&lt;/f5&gt; &lt;f6&gt;and select the appropriate page style.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T131954Z" creationid="Jeff Huang" creationdate="20180124T131532Z">
+        <seg>在這些不尋常的狀況下，選取&lt;f3&gt;「插入 &gt; &lt;/f3&gt;&lt;f5&gt;手動分隔 &gt; 分頁」&lt;/f5&gt;&lt;f6&gt;並選取適當的頁面樣式。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
