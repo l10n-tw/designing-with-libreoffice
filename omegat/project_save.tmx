@@ -943,6 +943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alphabetic i&lt;/f0&gt;ndex.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T133441Z" creationid="Jeff Huang" creationdate="20180124T133441Z">
+        <seg>&lt;f0&gt;字母&lt;/f0&gt;索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Alternatively, outline in Writer, then transfer the outline to Impress by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Send &gt; Outline to Presentation.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T131244Z" creationid="Franklin Weng" creationdate="20180109T131244Z">
@@ -9078,6 +9086,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End notes in a scholarly work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T133728Z" creationid="Jeff Huang" creationdate="20180124T133728Z">
+        <seg>學術工作的尾註。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the question or vocabulary item on &lt;f0&gt;the first line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T115732Z" creationid="Franklin Weng" creationdate="20180120T115732Z">
@@ -11581,6 +11597,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134701Z" creationid="Jeff Huang" creationdate="20180121T134701Z">
         <seg>如果圖表過於擁擠導致無法選取要分成一組的形狀，試試看先選取較小的群組，然後再擴大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the entries are short, it can save space by being multi-columned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T133510Z" creationid="Jeff Huang" creationdate="20180124T133510Z">
+        <seg>如果項目很短，其可以透過多列來節省空間。</seg>
       </tuv>
     </tu>
     <tu>
