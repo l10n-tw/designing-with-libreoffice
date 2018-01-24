@@ -1380,8 +1380,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Intersect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T061518Z" creationid="Jeff Huang" creationdate="20180122T084245Z">
-        <seg>&lt;f0&gt;透過選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀 &gt; 交集」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來從重疊的物件中建立形狀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T061718Z" creationid="Jeff Huang" creationdate="20180122T084245Z">
+        <seg>&lt;f0&gt;透過選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀 &gt; 交集」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來取出物件形狀中重疊的部份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,8 +7990,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Connect two curves with &lt;f0&gt;Modify &gt; Combine&lt;/f0&gt;, and split them with &lt;f1&gt;Modify &gt; Split&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090314Z" creationid="Jeff Huang" creationdate="20180122T090314Z">
-        <seg>以&lt;f0&gt;「修改 &gt; 結合」&lt;/f0&gt;連接兩條曲線，或以&lt;f1&gt;「修改 &gt; 分離」&lt;/f1&gt;來分離它們。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T062017Z" creationid="Jeff Huang" creationdate="20180122T090314Z">
+        <seg>以&lt;f0&gt;「修改 &gt; 結合」&lt;/f0&gt;連接兩條曲線，或以&lt;f1&gt;「修改 &gt; 分割」&lt;/f1&gt;來分離它們。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18273,8 +18273,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The same effect could be &lt;f0&gt;m&lt;/f0&gt;ad&lt;f1&gt;e&lt;/f1&gt; by changing the dingbat’s color, but a white character on a white background would be easy to lose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T083319Z" creationid="Jeff Huang" creationdate="20180122T083319Z">
-        <seg>同樣的效果可以透過變更 dingbat 的顏色來做到，但白色的字在白色的背景上很容易看不到。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T061649Z" creationid="Jeff Huang" creationdate="20180122T083319Z">
+        <seg>同樣的效果可以透過變更裝飾圖形的顏色來做到，也就是變成白色然後疊上去。但白色的字在白色的背景上很容易看不到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19355,8 +19355,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To split lines, click &lt;f2&gt;Modify &gt; Break.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090328Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
-        <seg>要分離線條，點按&lt;f2&gt;「修改 &gt; 打斷」。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T061804Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
+        <seg>要分離線條，點按&lt;f2&gt;「修改 &gt; 斷開」。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
