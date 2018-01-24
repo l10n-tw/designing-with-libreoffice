@@ -17167,6 +17167,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Next &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;f3&gt; fie&lt;/f3&gt;ld over-rides the &lt;f4&gt;Page Layout&lt;/f4&gt; field on the &lt;f5&gt;Page&lt;/f5&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T125235Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;下一個&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式&lt;/f2&gt;欄位會優先於&lt;f5&gt;頁面&lt;/f5&gt;標籤頁中的&lt;f4&gt;版面配置欄位&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Transparency&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab&lt;/f2&gt; also includes options for creating a gradient, duplicating the options at &lt;f3&gt;Format &gt; Area &gt; Gradient&lt;/f3&gt; &lt;t4/&gt;&lt;f5&gt;(see above).&lt;/f5&gt; In terms of graphic styles, the tab’s gradient control allow&lt;f6&gt;s&lt;/f6&gt; you to customize gradients, while the &lt;f7&gt;Area&lt;/f7&gt; tab only lets you choose pre-defined gradients.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100523Z" creationid="Jeff Huang" creationdate="20180104T064000Z">
@@ -17805,6 +17813,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120921Z" creationid="Franklin Weng" creationdate="20180117T120921Z">
         <seg>預設投影片的字型大小為：標題 44 點，&lt;f0&gt;第一層大綱&lt;/f0&gt;為 18 點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default page succession.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124828Z" creationid="Jeff Huang" creationdate="20180124T124828Z">
+        <seg>預設的頁面繼承。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20319,6 +20335,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014220Z" creationid="zerng07" creationdate="20180123T014205Z">
         <seg>技術文件通常會用額外間距；唯一的規則是兩種做法不要同時採用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, you can leave &lt;f0&gt;the default.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124947Z" creationid="Jeff Huang" creationdate="20180124T124947Z">
+        <seg>一般來說，你可以直接使用&lt;f0&gt;預設值。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
