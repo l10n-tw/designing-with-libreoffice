@@ -3877,6 +3877,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Usually, an epigraph is indented vertically and horizontally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T134345Z" creationid="Jeff Huang" creationdate="20180124T134345Z">
+        <seg>&lt;f0&gt;通常文件開頭的那一句話都會有垂直與水平縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Vertical spacing is set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Indents and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing &gt; Above Paragraph&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing &gt; Below Paragraph.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T013414Z" creationid="zerng07" creationdate="20180123T013414Z">
@@ -13131,6 +13139,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T090227Z" creationid="Franklin Weng" creationdate="20171228T072201Z">
         <seg>粗義大利體可用於展示字或標題字，但如果有其他字型更符合你需求的話，那也就不必用它了。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may use an italic or script font.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T134524Z" creationid="Jeff Huang" creationdate="20180124T134524Z">
+        <seg>其可能會使用義式斜體或手寫字型。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
