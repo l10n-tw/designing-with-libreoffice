@@ -3360,6 +3360,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he only character styles likely to be needed with this template are those for &lt;f1&gt;Emphasis&lt;/f1&gt; (italics) and &lt;f2&gt;Strong Emphasis&lt;/f2&gt; (Bold).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101033Z" creationid="zerng07" creationdate="20180125T100443Z">
+        <seg>這個範本中的字元樣式，大概只需要用在「&lt;f1&gt;強調&lt;/f1&gt;」（西方慣例用義大利體，中文可以改用仿宋體、楷體等）和「&lt;f2&gt;非常強調&lt;/f2&gt;」（西方慣例用粗體，中文則可以用同一字型家族的粗體，或是黑體）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he space above or below a graphic or any other inserted object.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150946Z" creationid="Franklin Weng" creationdate="20180105T150946Z">
