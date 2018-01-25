@@ -5748,6 +5748,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A first-line indent is one of the two ways to indicate a new paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080153Z" creationid="zerng07" creationdate="20180125T080153Z">
+        <seg>第一行縮排是指示新段落開始的兩種方式之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A flow chart for deciding whether to use an idiomatic word.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T133942Z" creationid="Jeff Huang" creationdate="20180112T133942Z">
@@ -16698,6 +16706,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting first line indentation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080119Z" creationid="zerng07" creationdate="20180125T080119Z">
+        <seg>設定第一行縮排</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting hyphenation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025204Z" creationid="zerng07" creationdate="20180125T025204Z">
@@ -19117,6 +19133,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The other &lt;f0&gt;way &lt;/f0&gt;is &lt;f1&gt;to add &lt;/f1&gt;extra space between paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080241Z" creationid="zerng07" creationdate="20180125T080222Z">
+        <seg>另一種&lt;f0&gt;做法&lt;/f0&gt;是在段落之間&lt;f1&gt;加入&lt;/f1&gt;額外空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Expand single word 經過測試，只有在那一行剩下一個英文單字時才有效果，所以修正翻譯為「拉長一個單字」。已同步更新到上游。</note>
       <tuv lang="EN">
         <seg>The other options – &lt;f0&gt;&lt;f1&gt;Justified&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; &lt;f3&gt;Centered&lt;/f3&gt;, &lt;f4&gt;Expand single word&lt;/f4&gt;,&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Left&lt;/f8&gt;&lt;/f7&gt; – all look &lt;f9&gt;awkward&lt;/f9&gt;&lt;f10&gt;.</seg>
@@ -21104,6 +21128,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T163636Z" creationid="Franklin Weng" creationdate="20180106T023516Z">
         <seg>運用魔術數字有點辛苦——但是相當準確，不會有模糊空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, a first &lt;f0&gt;line indent is used for more formal or literary works, while an extra space may be for technical manuals, but the rule is not absolute.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080418Z" creationid="zerng07" creationdate="20180125T080418Z">
+        <seg>通常，第一行&lt;f0&gt;縮排用於比較正式的文章，或是文學作品中；而段落間加大間距則用於技術手冊，但這些規則不是定則。</seg>
       </tuv>
     </tu>
     <tu>
