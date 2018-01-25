@@ -11390,6 +11390,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, on the &lt;f0&gt;Indents &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, you can indent&lt;/f3&gt; a paragraph on the left by entering a value in the &lt;f4&gt;Before &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Text&lt;/f6&gt;&lt;/f5&gt; field, or on the right by entering a value in the &lt;f7&gt;After &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Text&lt;/f9&gt;&lt;/f8&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063842Z" creationid="zerng07" creationdate="20180125T063842Z">
+        <seg>然而，在「&lt;f0&gt;縮排&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;和間距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」分頁中，你可以利用「&lt;/f3&gt;&lt;f4&gt;文字之前&lt;/f4&gt;」欄位讓段落從左邊縮排，或是用「&lt;f7&gt;文字之後&lt;/f7&gt;」欄位讓段落從右邊縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, one problem with paragraph &lt;f0&gt;styles with larger font sizes, such as headings, &lt;/f0&gt;is that they can &lt;f1&gt;have the tops or bottoms of letters cut off when &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Fixed&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; is used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034913Z" creationid="zerng07" creationdate="20180122T025503Z">
