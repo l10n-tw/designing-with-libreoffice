@@ -16689,6 +16689,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Automatically&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box for&lt;/f3&gt; hyphenation, &lt;f4&gt;Orphan control,&lt;/f4&gt; and &lt;f5&gt;Widow control &lt;/f5&gt;on the &lt;f6&gt;Text Flow&lt;/f6&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101645Z" creationid="zerng07" creationdate="20180125T101645Z">
+        <seg>在「&lt;f6&gt;排文和分頁&lt;/f6&gt;」標籤頁中勾選「斷字處理」的「&lt;f1&gt;&lt;f2&gt;自動&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」方框，和選擇「&lt;f4&gt;分頁前孤行控制&lt;/f4&gt;」和 「&lt;f5&gt;分頁後寡行控制」&lt;/f5&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a presentation structure from &lt;f0&gt;File &gt; New &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; LibreOffice has a separate folder in the &lt;f4&gt;T&lt;/f4&gt;emplate &lt;f5&gt;Manager&lt;/f5&gt; for structures, marked simply &lt;f6&gt;Presentations.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135533Z" creationid="Franklin Weng" creationdate="20180114T135150Z">
