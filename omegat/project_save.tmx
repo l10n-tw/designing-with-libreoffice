@@ -13326,6 +13326,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, the indentation for a long quotation can be the same as the first line indentation, as well as the position where the text starts in a list item after a bullet or number.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T070424Z" creationid="zerng07" creationdate="20180125T070424Z">
+        <seg>反過來，清單中的長引文縮排可以和第一行縮排一樣，只要文字是從項目符號或編號後方的項目條文位置開頭即可。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125230Z" creationid="Jeff Huang" creationdate="20180121T125230Z">
