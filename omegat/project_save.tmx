@@ -9716,6 +9716,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Experiments with page color show that anything less makes the color of the font too &lt;f4&gt;d&lt;/f4&gt;ark on the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094219Z" creationid="zerng07" creationdate="20180125T094219Z">
+        <seg>之前實驗起來，如果數字更小的話頁面色彩看起來就會太黑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting a template takes a copy of the template, de-registers the copy, and saves it to the directory of your choice.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T135921Z" creationid="Franklin Weng" creationdate="20171223T124642Z">
@@ -20598,6 +20606,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091441Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
         <seg>要克服這些問題，請避免緊湊的分頁位置，讓頁面結尾留下一到兩行空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prepare Baskervald ADF Std&lt;f0&gt;,&lt;/f0&gt; apply these settings to the &lt;f1&gt;Text Body&lt;/f1&gt; style:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094304Z" creationid="zerng07" creationdate="20180125T094304Z">
+        <seg>準備Baskervald ADF Std，套用以下設定到「&lt;f1&gt;內文&lt;/f1&gt;」樣式：</seg>
       </tuv>
     </tu>
     <tu>
