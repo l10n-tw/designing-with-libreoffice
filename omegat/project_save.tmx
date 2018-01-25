@@ -5715,6 +5715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t2/&gt;Anything less risks cluttering the column with hyphens, single-word lines, and/or vast stretches of white space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141601Z" creationid="zerng07" creationdate="20180125T141601Z">
+        <seg>只要小於這個範圍，就會提高版面被許多連字號、一行一個單字、和或大量出沒的空白區塊弄得很雜亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t2/&gt;Because of their association with typewriters, monospace fonts are unpopular today, except for specific uses such as writing code or movie scripts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125652Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
@@ -7384,8 +7392,8 @@
       <tuv lang="EN">
         <seg>Base both on the Body Text (Baskervald ADF Std, 15 point).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101302Z" creationid="zerng07" creationdate="20180125T101223Z">
-        <seg>這兩者都根據「內文」(Baskervald ADF Std, 15 point) 樣式做對應修改即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141530Z" creationid="zerng07" creationdate="20180125T101223Z">
+        <seg>這兩者都根據「內文」（Baskervald ADF Std，15 點）樣式做對應修改即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7792,8 +7800,8 @@
       <tuv lang="EN">
         <seg>Building a template is a matter of trial and error, and you are unlikely to remember everything – or get all design elements perfect – after a single session.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140011Z" creationid="zerng07" creationdate="20180125T140011Z">
-        <seg>打造範本的過程本身就是一連串的試誤創作，而且在每次作業之後，你也難記住過程中遇到的所有問題——或是把所有設計元素都湊到完美。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141009Z" creationid="zerng07" creationdate="20180125T140011Z">
+        <seg>打造範本的過程本身就是一連串的試誤創作，而且每次作業完之後，你也很難記住過程中遇到的所有問題——或是把所有設計元素都改到完美。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8275,8 +8283,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Change the &lt;f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;/f1&gt; field on the &lt;f3&gt;Organizer&lt;/f3&gt; tab from &lt;f4&gt;&lt;f5&gt;Addressee&lt;/f5&gt;&lt;/f4&gt; to &lt;f6&gt;Header,&lt;/f6&gt; &lt;f7&gt;and c&lt;/f7&gt;hange the alignment to &lt;f8&gt;Right&lt;/f8&gt; on the &lt;f9&gt;Alignment&lt;/f9&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T124515Z" creationid="zerng07" creationdate="20180125T103524Z">
-        <seg>前往段落樣式的「&lt;f3&gt;統籌概覽&lt;/f3&gt;」標籤頁中，將「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」欄位從「&lt;f4&gt;&lt;f5&gt;收件者&lt;/f5&gt;&lt;/f4&gt;」改為「&lt;f6&gt;頁首&lt;/f6&gt; &lt;f7&gt;」；接著到「&lt;f9&gt;對齊&lt;/f9&gt;」標籤頁將選項改為「&lt;f8&gt;右/下&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141326Z" creationid="zerng07" creationdate="20180125T103524Z">
+        <seg>前往段落樣式的「&lt;f3&gt;統籌概覽&lt;/f3&gt;」標籤頁中，將「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」欄位從「&lt;f4&gt;&lt;f5&gt;收件者&lt;/f5&gt;&lt;/f4&gt;」改為「&lt;f6&gt;頁首&lt;/f6&gt; &lt;f7&gt;」；接著到「&lt;/f7&gt;&lt;f9&gt;對齊&lt;/f9&gt;」標籤頁將選項改為「&lt;f8&gt;右/下&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10831,8 +10839,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, after using the template for a few letters, I realized that the default margins created a somewhat narrow look.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140051Z" creationid="zerng07" creationdate="20180125T140051Z">
-        <seg>舉例，在使用範本製作幾封書信之後，我發現初創的預設邊距看來有點窄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141039Z" creationid="zerng07" creationdate="20180125T140051Z">
+        <seg>舉例，在使用範本製作幾封書信之後，我發現草創的預設邊距看來有點窄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11527,8 +11535,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, LibreOffice uses the word to refer to only the extra space beyond the font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T033415Z" creationid="zerng07" creationdate="20180122T033256Z">
-        <seg>不過，LibreOffice繼續以「Leading」稱呼額外插入的這個空間，不含字型大小；中文版裡我們稱為「鉛插」，而不是「行距」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141847Z" creationid="zerng07" creationdate="20180122T033256Z">
+        <seg>不過，LibreOffice繼續以「Leading」稱呼額外插入的這個空間，不含字型大小；中文版裡我們把這個Leading稱為「鉛插」，而不是「行距」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12232,8 +12240,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you may prefer to organize the paragraph styles differently than I have done, and make other adjustments beyond the basics given here.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135720Z" creationid="zerng07" creationdate="20180125T135720Z">
-        <seg>不過，你可以根據我做的段落樣式改成你要的樣子，或是做一些這裡提的基本概念以外的其他調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140922Z" creationid="zerng07" creationdate="20180125T135720Z">
+        <seg>不過，你也可以根據我做的段落樣式修改成你要的樣子，或是做一些這裡提的基本概念以外的其他調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12312,8 +12320,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>I could also have add&lt;f0&gt;e&lt;/f0&gt;d a few touches, such as &lt;f1&gt;creating and attaching&lt;/f1&gt; a list style to the &lt;f2&gt;Salutation&lt;/f2&gt; paragraph style that automatically added “Dear” when I applied the paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140622Z" creationid="zerng07" creationdate="20180125T140605Z">
-        <seg>我可能也做過一些小變動，例如對&lt;f2&gt;稱謂&lt;/f2&gt;段落樣式製作並附上一個清單樣式，好讓我套用這個段落樣式時自動在對方名稱前補上「敬愛的」三個字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141114Z" creationid="zerng07" creationdate="20180125T140605Z">
+        <seg>我可能還做過一些小變動，例如對&lt;f2&gt;稱謂&lt;/f2&gt;段落樣式製作並附上一個清單樣式，好讓我套用這個段落樣式時自動在對方名稱前補上「敬愛的」三個字等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13847,8 +13855,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead of worrying about formatting, I can concentrate on what I am saying.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135240Z" creationid="zerng07" creationdate="20180125T135240Z">
-        <seg>別擔心格式設定的事，我可以專注在我想說的事情上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140907Z" creationid="zerng07" creationdate="20180125T135240Z">
+        <seg>不必擔心格式設定的事，讓我可以更專注在我想說的事情上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14719,8 +14727,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Line spacing at small font sizes</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T040037Z" creationid="zerng07" creationdate="20180122T033639Z">
-        <seg>小字時的行距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141645Z" creationid="zerng07" creationdate="20180122T033639Z">
+        <seg>小字時的行距</seg>
       </tuv>
     </tu>
     <tu>
@@ -17108,8 +17116,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Automatically&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box for&lt;/f3&gt; hyphenation, &lt;f4&gt;Orphan control,&lt;/f4&gt; and &lt;f5&gt;Widow control &lt;/f5&gt;on the &lt;f6&gt;Text Flow&lt;/f6&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101645Z" creationid="zerng07" creationdate="20180125T101645Z">
-        <seg>在「&lt;f6&gt;排文和分頁&lt;/f6&gt;」標籤頁中勾選「斷字處理」的「&lt;f1&gt;&lt;f2&gt;自動&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」方框，和選擇「&lt;f4&gt;分頁前孤行控制&lt;/f4&gt;」和 「&lt;f5&gt;分頁後寡行控制」&lt;/f5&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141305Z" creationid="zerng07" creationdate="20180125T101645Z">
+        <seg>在「&lt;f6&gt;排文和分頁&lt;/f6&gt;」標籤頁中勾選「斷字處理」的「&lt;f1&gt;&lt;f2&gt;自動&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」方框，和選擇「&lt;/f3&gt;&lt;f4&gt;分頁前孤行控制&lt;/f4&gt;」和 「&lt;f5&gt;分頁後寡行控制」&lt;/f5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17557,8 +17565,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, &lt;f0&gt;when&lt;/f0&gt; &lt;f1&gt;I &lt;/f1&gt;realiz&lt;f2&gt;ed&lt;/f2&gt; th&lt;f3&gt;e template worked best&lt;/f3&gt; for short letters, I added a &lt;f4&gt;page&lt;/f4&gt; with a footer containing the page number for longer letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140403Z" creationid="zerng07" creationdate="20180125T140403Z">
-        <seg>相似地，當我發現這個範本非常適合短篇書信之後，我又新加了頁尾有寫頁數的一頁給長篇書信使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141102Z" creationid="zerng07" creationdate="20180125T140403Z">
+        <seg>還有，當我發現這個範本很適合短篇書信之後，我又新加了頁尾有寫頁數的一頁給長篇書信使用。</seg>
       </tuv>
     </tu>
     <tu>
