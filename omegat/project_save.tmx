@@ -3362,8 +3362,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he only character styles likely to be needed with this template are those for &lt;f1&gt;Emphasis&lt;/f1&gt; (italics) and &lt;f2&gt;Strong Emphasis&lt;/f2&gt; (Bold).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101033Z" creationid="zerng07" creationdate="20180125T100443Z">
-        <seg>這個範本中的字元樣式，大概只需要用在「&lt;f1&gt;強調&lt;/f1&gt;」（西方慣例用義大利體，中文可以改用仿宋體、楷體等）和「&lt;f2&gt;非常強調&lt;/f2&gt;」（西方慣例用粗體，中文則可以用同一字型家族的粗體，或是黑體）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101246Z" creationid="zerng07" creationdate="20180125T100443Z">
+        <seg>此範本中的字元樣式，大概只需要用到「&lt;f1&gt;強調&lt;/f1&gt;」（西方慣例用義大利體，中文可以改用仿宋體、楷體等）和「&lt;f2&gt;非常強調&lt;/f2&gt;」（西方慣例用粗體，中文則可以用同一字型家族的粗體，或是黑體）兩種。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184841Z" creationid="zerng07" creationdate="20170817T104314Z">
         <seg>Barry Schwartz是自由授權內文字字型的出色設計師之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base both on the Body Text (Baskervald ADF Std, 15 point).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101302Z" creationid="zerng07" creationdate="20180125T101223Z">
+        <seg>這兩者都根據「內文」(Baskervald ADF Std, 15 point) 樣式做對應修改即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13974,6 +13982,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162117Z" creationid="zerng07" creationdate="20170822T193433Z">
         <seg>深入學習字體排印學</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leave more space below if you have a large signature.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101406Z" creationid="zerng07" creationdate="20180125T101406Z">
+        <seg>如果你最下方要放一大塊的簽名區的話，就留下更多空間。</seg>
       </tuv>
     </tu>
     <tu>
