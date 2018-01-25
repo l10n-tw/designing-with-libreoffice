@@ -18280,6 +18280,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Format&lt;/f0&gt; field changes automatically to &lt;f1&gt;User.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124624Z" creationid="Jeff Huang" creationdate="20180125T124624Z">
+        <seg>&lt;f0&gt;格式&lt;/f0&gt;欄位將會自動變更為&lt;f1&gt;使用者。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab, with the &lt;f1&gt;Above paragraph&lt;/f1&gt; and &lt;f2&gt;Below paragraph&lt;/f2&gt; fields listed under &lt;f3&gt;Spacing.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T085622Z" creationid="zerng07" creationdate="20180123T085522Z">
@@ -20750,6 +20758,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125225Z" creationid="Franklin Weng" creationdate="20171223T095033Z">
         <seg>建例樣本卡片：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define your own page dimensions, start with any page size, and manually change the width and height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124433Z" creationid="Jeff Huang" creationdate="20180125T124433Z">
+        <seg>要定義你自己的頁面尺寸，請從任意頁面大小開始，然後手動變更寬度與高度。</seg>
       </tuv>
     </tu>
     <tu>
