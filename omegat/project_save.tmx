@@ -3820,6 +3820,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unless you are using only the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, page design almost always begins with the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Left Page&lt;/f6&gt; and &lt;f7&gt;Right Page&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T030810Z" creationid="Jeff Huang" creationdate="20180125T030810Z">
+        <seg>&lt;f0&gt;除非你只使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;，否則頁面設計應該都會從&lt;/f3&gt;&lt;f6&gt;左頁&lt;/f6&gt;與&lt;f7&gt;右頁&lt;/f7&gt;開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Unlike styles in Writer, graphic styles can only be applied after a shape is added to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
@@ -8640,6 +8648,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T025917Z" creationid="Jeff Huang" creationdate="20180116T025917Z">
         <seg>設計&lt;f0&gt;繪圖內容&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;left and right pages&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T030614Z" creationid="Jeff Huang" creationdate="20180125T030614Z">
+        <seg>設計&lt;f0&gt;左頁與右頁&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
