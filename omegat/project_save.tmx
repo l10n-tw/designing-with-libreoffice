@@ -4625,6 +4625,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;T&lt;/f1&gt;his chapter is about less common character and paragraph settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094749Z" creationid="zerng07" creationdate="20180125T094704Z">
+        <seg>本章討論較少見的字元設定和段落設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The exact measurement&lt;/f1&gt; is displayed when you set the &lt;f2&gt;Line Spacing&lt;/f2&gt; field to &lt;f3&gt;Fixed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T171326Z" creationid="Franklin Weng" creationdate="20180105T134923Z">
@@ -8141,6 +8149,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T080530Z" creationid="zerng07" creationdate="20180121T080530Z">
         <seg>從第3章起，我們探索了段落設定&lt;f0&gt;和字元&lt;/f0&gt;設定的基本觀念，&lt;f1&gt;後續&lt;/f1&gt;也&lt;f2&gt;討論了字型，還有怎麼找出&lt;/f2&gt;理想行距的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;5&lt;/f0&gt; discusses settings that almost all documents use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094631Z" creationid="zerng07" creationdate="20180125T094631Z">
+        <seg>第5章討論的是幾乎所有文件會用到的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22923,6 +22939,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135254Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
         <seg>你可以&lt;/f2&gt;用 Draw 或其他像是 &lt;f6&gt;GIMP&lt;/f6&gt; 之類的美術設計軟體來建立母片的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might find several of these features &lt;f2&gt;in a single&lt;/f2&gt; document, but rarely all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094839Z" creationid="zerng07" creationdate="20180125T094742Z">
+        <seg>你可能會在某份文件中發現它有用到其中一些功能，但罕有文件會用到全部的功能。</seg>
       </tuv>
     </tu>
     <tu>
