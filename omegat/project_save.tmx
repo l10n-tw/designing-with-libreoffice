@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Baskerv&lt;f1&gt;ald&lt;/f1&gt;'s characters use more white space than most fonts, and therefore appear much smaller &lt;f2&gt;than the actual size.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102012Z" creationid="zerng07" creationdate="20180125T102012Z">
+        <seg>Baskervald的字符比起多數英文字型使用更多空白，因此看起來遠比&lt;f2&gt;實際大小還要小。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Baskervald ADF Standard, &lt;f0&gt;Libre Baskerville&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071559Z" creationid="Jeff Huang" creationdate="20180115T071559Z">
@@ -16834,6 +16842,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the font size to 15 on the &lt;f0&gt;Font&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101916Z" creationid="zerng07" creationdate="20180125T101916Z">
+        <seg>在「&lt;f0&gt;字型&lt;/f0&gt;」標籤頁中將大小設定為15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the slide design as needed for individual slides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125717Z" creationid="Franklin Weng" creationdate="20180107T125717Z">
@@ -22653,8 +22669,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can distinguish widows from orphans by remembering that a&lt;f0&gt;n&lt;/f0&gt; &lt;f1&gt;orphan&lt;/f1&gt; is left behind while a &lt;f2&gt;widow&lt;/f2&gt; goes forward &lt;f3&gt;by herself.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T084813Z" creationid="zerng07" creationdate="20180123T035455Z">
-        <seg>要怎麼記住誰是寡婦，誰是孤兒呢？想想&lt;f1&gt;孤兒&lt;/f1&gt;被拋下沒有跟著走，而&lt;f2&gt;寡婦&lt;/f2&gt;得隻身一人&lt;f3&gt;面對未來。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101825Z" creationid="zerng07" creationdate="20180123T035455Z">
+        <seg>要怎麼記住誰是寡婦，誰是孤兒呢？想想&lt;f1&gt;孤兒&lt;/f1&gt;被拋下沒有跟上腳步，而&lt;f2&gt;寡婦&lt;/f2&gt;得隻身一人&lt;f3&gt;面對未來。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
