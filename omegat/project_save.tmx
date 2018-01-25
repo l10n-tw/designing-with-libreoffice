@@ -19878,6 +19878,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This tool not &lt;f0&gt;only &lt;/f0&gt;works interactively, giving &lt;f1&gt;you&lt;/f1&gt; more control, but also generally does a better job than the on-the-fly &lt;f2&gt;hyphenation,&lt;/f2&gt; if run when the document is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T043237Z" creationid="zerng07" creationdate="20180125T043237Z">
+        <seg>這個工具&lt;f0&gt;只能&lt;/f0&gt;以互動方式運作，給&lt;f1&gt;你&lt;/f1&gt;更多操作空間，同時也會比打字即時產生的&lt;f2&gt;斷字&lt;/f2&gt;做得更好（如果在文件完成後執行的話）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This tradition also means that &lt;f0&gt;r&lt;/f0&gt;ight pages are &lt;f1&gt;usually&lt;/f1&gt; odd numbered, and &lt;f2&gt;l&lt;/f2&gt;eft pages even numbered.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T092958Z" creationid="Jeff Huang" creationdate="20180124T092958Z">
