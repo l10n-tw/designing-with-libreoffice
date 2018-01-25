@@ -6396,6 +6396,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All multiple sheets will of course need to be cut &lt;f0&gt;or folded &lt;/f0&gt;later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125730Z" creationid="Jeff Huang" creationdate="20180125T125730Z">
+        <seg>而單張多頁當然需要在稍後裁切&lt;f0&gt;或折疊&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All objects inserted to a Writer document are contained by a frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175002Z" creationid="zerng07" creationdate="20171223T180040Z">
@@ -22983,6 +22991,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T093737Z" creationid="Franklin Weng" creationdate="20180118T144721Z">
         <seg>你可以設定投影片轉場的速度、音效，並決定要套用在整場簡報所有的投影片中，還是只在兩張特殊的投影片之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set up multiple page sheet printing through&lt;f1&gt; File &gt; Print&lt;/f1&gt;, or else by &lt;f2&gt;using&lt;/f2&gt; text frames &lt;f3&gt;instead of pages.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125635Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
+        <seg>你可以透過&lt;f1&gt;「檔案 &gt; 列印」&lt;/f1&gt;，或是&lt;f2&gt;使用&lt;/f2&gt;文字框架&lt;f3&gt;而不是頁面&lt;/f3&gt;來設定一張紙上面印出多頁。</seg>
       </tuv>
     </tu>
     <tu>
