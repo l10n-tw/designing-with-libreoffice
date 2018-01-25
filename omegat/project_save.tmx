@@ -5854,8 +5854,8 @@
       <tuv lang="EN">
         <seg>A sample riddled with hyphens is a sign that you will either have to change the font, or adjust its size or alignment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T103425Z" creationid="Franklin Weng" creationdate="20180105T120930Z">
-        <seg>如果文字內容被連字符弄得好像在猜謎一樣，那就代表要麼就是換字型、要麼就是調整字的大小與對齊方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034826Z" creationid="Franklin Weng" creationdate="20180105T120930Z">
+        <seg>如果文字內容被連字號弄得好像在猜謎一樣，那就代表要麼就是換字型、要麼就是調整字的大小與對齊方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12828,6 +12828,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In many documents, only &lt;f0&gt;Text&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Body&lt;/f3&gt; and perhaps another handful of &lt;f4&gt;paragraph &lt;/f4&gt;styles are used at such length that hyphenation can improve how they fall on the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040524Z" creationid="zerng07" creationdate="20180125T040524Z">
+        <seg>在許多文件中，只有針對這類斷字處理長度修改過的「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，可以改善斷字連字在頁面中的呈現效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In modern fonts, the &lt;f1&gt;I&lt;/f1&gt;talic is sometimes replaced by an Oblique style, which is &lt;f2&gt;similar to&lt;/f2&gt; the Roman, only inclined to the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132411Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
@@ -14094,8 +14102,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Look, too, for body text that fills a page or column without many hyphens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T150547Z" creationid="Franklin Weng" creationdate="20180105T120742Z">
-        <seg>同時，也要看看頁面或專欄內的英文正文，裡面是否有太多的連字符。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034822Z" creationid="Franklin Weng" creationdate="20180105T120742Z">
+        <seg>同時，也要看看頁面或專欄內的英文正文，裡面是否有太多的連字號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14495,8 +14503,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Most word processors hyphenate as you type, and while they make adjustments as the line lengths change, their on-the-fly solutions are not always optional.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030251Z" creationid="zerng07" creationdate="20180125T030251Z">
-        <seg>大多數的文書處理器都能跟著你一邊打字，一邊在行尾斷字加連字符，但是當你回頭修改文字之後，行的長度可能隨之改變，那麼當初即時處理的斷字位置就不見得那麼好了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034844Z" creationid="zerng07" creationdate="20180125T030251Z">
+        <seg>大多數的文書處理器都能跟著你一邊打字，一邊在行尾斷字加連字號，但是當你回頭修改文字之後，行的長度可能隨之改變，那麼當初即時處理的斷字位置就不見得那麼好了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16067,8 +16075,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Running the hyphenation tool will add hyphens, even if none of your styles are set to use hyphens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075232Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
-        <seg>即便你的樣式並未設定使用斷字，只要執行了斷字工具依然會加入斷字的連字符。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034817Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
+        <seg>即便你的樣式並未設定使用斷字，只要執行了斷字工具依然會加入斷字的連字號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18644,8 +18652,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120452Z" creationid="zerng07" creationdate="20180123T120205Z">
-        <seg>中間欄有五個斷字過的行，而連字符讓這段文字看起來斷來斷去的，感覺很糟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034837Z" creationid="zerng07" creationdate="20180123T120205Z">
+        <seg>中間欄有五個斷字過的行，而連字號讓這段文字看起來斷來斷去的，感覺很糟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19144,8 +19152,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The typographical convention is not to allow more than two lines in a row to end with a hyphen.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033654Z" creationid="zerng07" creationdate="20180125T033428Z">
-        <seg>在西方字體排印慣例中，不大允許連續兩行以上都是連字符結尾。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034850Z" creationid="zerng07" creationdate="20180125T033428Z">
+        <seg>在西方字體排印慣例中，不大允許連續兩行以上都是連字號結尾。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21549,11 +21557,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>作者可以不要賣弄文學寫一些歪國人看不懂的文法嗎？我知道副詞子句前面可以簡化為 V-ing 的形式，但不管怎麼還原可能省略掉的詞回去我都看不懂…… 還是因為上面說動一個選項，另一個就不要動，所以這裡講 Maximum number of consecutive hyphens 自己可以獨立運作的意思嗎？</note>
       <tuv lang="EN">
         <seg>Working by itself, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Maximum number of consecutive hyphens&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field can also make a difference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034812Z" creationid="zerng07" creationdate="20180125T034812Z">
-        <seg>Working by itself, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;連貫連字號的最大數目&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;欄位也會讓排版結果變得不一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T035901Z" creationid="zerng07" creationdate="20180125T034812Z">
+        <seg>「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;連貫連字號的最大數目&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」欄位則另外處理，它也會影響排版效果。</seg>
       </tuv>
     </tu>
     <tu>
