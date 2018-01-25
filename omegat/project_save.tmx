@@ -10198,8 +10198,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Following these steps results in a useful, well-designed template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135141Z" creationid="zerng07" creationdate="20180125T135141Z">
-        <seg>遵循下列這些步驟能做出實用、設計不錯的範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140744Z" creationid="zerng07" creationdate="20180125T135141Z">
+        <seg>遵循上述這些步驟就能做出實用、設計不錯的範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10985,6 +10985,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140448Z" creationid="Jeff Huang" creationdate="20180112T140448Z">
         <seg>圖表格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting consists of six changes of paragraph styles, two of which are automatically changed when I press the &lt;f0&gt;Enter&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140855Z" creationid="zerng07" creationdate="20180125T140733Z">
+        <seg>範本的格式設定就由這六種段落樣式的修改構成，而其中兩種只要我按下&lt;f0&gt;Enter&lt;/f0&gt;鍵時自動變換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12304,8 +12312,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>I could also have add&lt;f0&gt;e&lt;/f0&gt;d a few touches, such as &lt;f1&gt;creating and attaching&lt;/f1&gt; a list style to the &lt;f2&gt;Salutation&lt;/f2&gt; paragraph style that automatically added “Dear” when I applied the paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140605Z" creationid="zerng07" creationdate="20180125T140605Z">
-        <seg>我可能也做過一些小變動，例如對&lt;f2&gt;稱謂&lt;/f2&gt;段落樣式製作並附上一個清單樣式，好在我套用這個段落樣式時自動在對方名稱前補上「敬愛的」三個字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140622Z" creationid="zerng07" creationdate="20180125T140605Z">
+        <seg>我可能也做過一些小變動，例如對&lt;f2&gt;稱謂&lt;/f2&gt;段落樣式製作並附上一個清單樣式，好讓我套用這個段落樣式時自動在對方名稱前補上「敬愛的」三個字。</seg>
       </tuv>
     </tu>
     <tu>
