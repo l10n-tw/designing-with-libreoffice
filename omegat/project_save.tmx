@@ -7464,8 +7464,8 @@
       <tuv lang="EN">
         <seg>Below the return address is the &lt;f0&gt;Date&lt;/f0&gt; style, which is followed by white space, then the &lt;f1&gt;Address&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T124434Z" creationid="zerng07" creationdate="20180125T124434Z">
-        <seg>在 &lt;f0&gt;Date&lt;/f0&gt; style, which is followed by white space, then the &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T124718Z" creationid="zerng07" creationdate="20180125T124434Z">
+        <seg>在寄件人地址下放個「&lt;f0&gt;日期&lt;/f0&gt;」樣式，接著是空白，再來是「&lt;f1&gt;地址&lt;/f1&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8139,8 +8139,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Change the &lt;f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;/f1&gt; field on the &lt;f3&gt;Organizer&lt;/f3&gt; tab from &lt;f4&gt;&lt;f5&gt;Addressee&lt;/f5&gt;&lt;/f4&gt; to &lt;f6&gt;Header,&lt;/f6&gt; &lt;f7&gt;and c&lt;/f7&gt;hange the alignment to &lt;f8&gt;Right&lt;/f8&gt; on the &lt;f9&gt;Alignment&lt;/f9&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T103755Z" creationid="zerng07" creationdate="20180125T103524Z">
-        <seg>前往「&lt;f4&gt;&lt;f5&gt;收件者&lt;/f5&gt;&lt;/f4&gt;」樣式的「&lt;f3&gt;統籌概覽&lt;/f3&gt;」標籤頁中，將「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」欄位改為「&lt;f6&gt;頁首&lt;/f6&gt; &lt;f7&gt;」；接著到「&lt;f9&gt;對齊&lt;/f9&gt;」標籤頁將選項改為「&lt;f8&gt;右/下&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T124515Z" creationid="zerng07" creationdate="20180125T103524Z">
+        <seg>前往段落樣式的「&lt;f3&gt;統籌概覽&lt;/f3&gt;」標籤頁中，將「&lt;f1&gt;&lt;f2&gt;繼承自&lt;/f2&gt;&lt;/f1&gt;」欄位從「&lt;f4&gt;&lt;f5&gt;收件者&lt;/f5&gt;&lt;/f4&gt;」改為「&lt;f6&gt;頁首&lt;/f6&gt; &lt;f7&gt;」；接著到「&lt;f9&gt;對齊&lt;/f9&gt;」標籤頁將選項改為「&lt;f8&gt;右/下&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
