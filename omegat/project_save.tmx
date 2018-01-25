@@ -11521,8 +11521,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Hyphenation options are set on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025626Z" creationid="zerng07" creationdate="20180125T025626Z">
-        <seg>斷字處理選項放在「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025724Z" creationid="zerng07" creationdate="20180125T025626Z">
+        <seg>拼音文字的斷字處理選項，放在「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21098,6 +21098,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180102T140643Z" creationid="Franklin Weng" creationdate="20180102T140643Z">
         <seg>這份文件會用在哪裡？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether &lt;f1&gt;to&lt;/f1&gt; &lt;f2&gt;hyphenate&lt;/f2&gt; is one of the most important design decisions you will make when designing a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025944Z" creationid="zerng07" creationdate="20180125T025944Z">
+        <seg>到底要不要做&lt;f2&gt;斷字處理&lt;/f2&gt;是你設計英語文件時最重大的設計決定。</seg>
       </tuv>
     </tu>
     <tu>
