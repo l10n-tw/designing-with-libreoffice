@@ -8722,6 +8722,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating the basic font palette</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093427Z" creationid="zerng07" creationdate="20180125T093427Z">
+        <seg>製作基本字型樣板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating your own templates using LibreOffice’s wizards as a guide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083830Z" creationid="Franklin Weng" creationdate="20171213T133323Z">
@@ -17106,6 +17114,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since this font is only for short lines, ignore elements such as first line indentation or widow and orphan control, which w&lt;f0&gt;ill not&lt;/f0&gt; be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093625Z" creationid="zerng07" creationdate="20180125T093625Z">
+        <seg>因為這個字型只用在短行段落，所以就忽略第一行縮排、寡行孤行控制等元素，那些我們用不到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since you will probably be using at least some pre-defined styles, you &lt;f0&gt;may decide&lt;/f0&gt; to use the same conventions for custom styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161329Z" creationid="zerng07" creationdate="20171227T161329Z">
@@ -20574,6 +20590,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091441Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
         <seg>要克服這些問題，請避免緊湊的分頁位置，讓頁面結尾留下一到兩行空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prepare Gillius ADF No.2, &lt;f0&gt;a&lt;/f0&gt;pply these settings to the &lt;f1&gt;Heading&lt;/f1&gt; paragraph style:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093513Z" creationid="zerng07" creationdate="20180125T093513Z">
+        <seg>準備Gillius ADF No.2，將以下設定套用到「&lt;f1&gt;標題&lt;/f1&gt;」段落樣式：</seg>
       </tuv>
     </tu>
     <tu>
