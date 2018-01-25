@@ -7790,6 +7790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Building a template is a matter of trial and error, and you are unlikely to remember everything – or get all design elements perfect – after a single session.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140011Z" creationid="zerng07" creationdate="20180125T140011Z">
+        <seg>打造範本的過程本身就是一連串的試誤創作，而且在每次作業之後，你也難記住過程中遇到的所有問題——或是把所有設計元素都湊到完美。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But &lt;f1&gt;this new work flow &lt;/f1&gt;rapidly repays the effort to change &lt;f2&gt;your work habits.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102437Z" creationid="Franklin Weng" creationdate="20171212T101046Z">
@@ -10180,6 +10188,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Following these steps results in a useful, well-designed template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135141Z" creationid="zerng07" creationdate="20180125T135141Z">
+        <seg>遵循下列這些步驟能做出實用、設計不錯的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Following these steps should help minimize confusion:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032151Z" creationid="Jeff Huang" creationdate="20180115T032151Z">
@@ -12190,6 +12206,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you may prefer to organize the paragraph styles differently than I have done, and make other adjustments beyond the basics given here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135720Z" creationid="zerng07" creationdate="20180125T135720Z">
+        <seg>不過，你可以根據我做的段落樣式改成你要的樣子，或是做一些這裡提的基本概念以外的其他調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you may want design elements such as reversing the background and foreground colors on title and biography pages to emphasize their differences from the body of the presentation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134245Z" creationid="Franklin Weng" creationdate="20180114T134245Z">
@@ -13785,6 +13809,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033603Z" creationid="Franklin Weng" creationdate="20180118T033603Z">
         <seg>所以，盡量不要找自己麻煩，&lt;f0&gt;內容&lt;/f0&gt;部份用預設的靠左對齊即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of worrying about formatting, I can concentrate on what I am saying.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135240Z" creationid="zerng07" creationdate="20180125T135240Z">
+        <seg>別擔心格式設定的事，我可以專注在我想說的事情上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15666,8 +15698,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>On the &lt;f0&gt;Indents and Spacing&lt;/f0&gt; tab, set &lt;f1&gt;Spac&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Below &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Paragraph&lt;/f6&gt;&lt;/f5&gt; to &lt;f7&gt;95&lt;/f7&gt; points (5 lines).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134840Z" creationid="zerng07" creationdate="20180125T134834Z">
-        <seg>把「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁中的「&lt;f1&gt;間距 &gt; 段落之下&lt;/f1&gt;」設為&lt;f7&gt;95&lt;/f7&gt; pt（5倍行距）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T135051Z" creationid="zerng07" creationdate="20180125T134834Z">
+        <seg>把「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁中的「&lt;f1&gt;間距 &gt; 段落之下&lt;/f1&gt;」設為&lt;f7&gt;90&lt;/f7&gt; pt（5倍行距）。</seg>
       </tuv>
     </tu>
     <tu>
