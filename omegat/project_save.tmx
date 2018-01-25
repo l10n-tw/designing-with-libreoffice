@@ -6406,8 +6406,8 @@
       <tuv lang="EN">
         <seg>All other styles will be based on the &lt;f0&gt;settings for these two&lt;/f0&gt;, with variations for individual needs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102540Z" creationid="zerng07" creationdate="20180125T102540Z">
-        <seg>所有的其他樣式都會根據這兩項設定做對應調整，根據各個樣式需求修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102551Z" creationid="zerng07" creationdate="20180125T102540Z">
+        <seg>所有的其他樣式都會根據這兩項設定做對應調整，視各個樣式需求修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17050,6 +17050,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting up other styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102556Z" creationid="zerng07" creationdate="20180125T102556Z">
+        <seg>設置其他樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting vertical line spacing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022721Z" creationid="zerng07" creationdate="20180122T022721Z">
@@ -18709,6 +18717,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142429Z" creationid="zerng07" creationdate="20171224T142429Z">
         <seg>最佳的樣式檢視畫面取決於你打算執行什麼作業而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The best way to set up other styles is to start at the top of the document and note the styles that are needed:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102647Z" creationid="zerng07" creationdate="20180125T102647Z">
+        <seg>設置其他樣式的最佳方法，就是從文件的起頭開始，並記錄所需的樣式有哪些：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21352,6 +21368,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184710Z" creationid="zerng07" creationdate="20170817T093407Z">
         <seg>你可以利用網頁內右上區域提供的連結，下載其他作業系統和語言的不同版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the pre-existing &lt;f0&gt;Addressee&lt;/f0&gt; style for the return address.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T103236Z" creationid="zerng07" creationdate="20180125T103236Z">
+        <seg>讓寄件人地址使用預先定義的「&lt;f0&gt;收件者&lt;/f0&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
