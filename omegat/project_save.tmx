@@ -4675,8 +4675,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;This key combination creates a conditional hyphen that only comes into play when it is in the hyphenation zone near the right margin.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063134Z" creationid="zerng07" creationdate="20180125T044408Z">
-        <seg>&lt;f1&gt;這套組合鍵可以放置條件式連字號，它只能在靠近行尾右邊緣的斷字處理區域協助斷字。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075433Z" creationid="zerng07" creationdate="20180125T044408Z">
+        <seg>&lt;f1&gt;這套組合鍵可以放置條件式連字號，它只能在靠近行尾右邊距的斷字處理區域協助斷字。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7857,8 +7857,8 @@
       <tuv lang="EN">
         <seg>By default, paragraphs run from the left margin to the right margin – or, &lt;f0&gt;at least&lt;/f0&gt;, to a &lt;f1&gt;region&lt;/f1&gt; just before the &lt;f2&gt;right &lt;/f2&gt;margin that LibreOffice must reach before starting a new line, &lt;f3&gt;with or without hyphenation.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063536Z" creationid="zerng07" creationdate="20180125T063536Z">
-        <seg>預設情況下，段落的文字都是從左邊緣開始流動到右邊緣——或是，&lt;f0&gt;至少&lt;/f0&gt;到&lt;f2&gt;右&lt;/f2&gt;邊緣前面一小段&lt;f1&gt;區域&lt;/f1&gt;，LibreOffice才會讓後續文字換到新的一行&lt;f3&gt;，無論有沒有斷字處理。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075446Z" creationid="zerng07" creationdate="20180125T063536Z">
+        <seg>預設情況下，段落的文字都是從左邊距開始流動到右邊距——或是，&lt;f0&gt;至少&lt;/f0&gt;到&lt;f2&gt;右&lt;/f2&gt;邊距前面一小段&lt;f1&gt;區域&lt;/f1&gt;，LibreOffice才會讓後續文字換到新的一行&lt;f3&gt;，無論有沒有斷字處理。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17332,11 +17332,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>段落、項目符號*2、清單項目*2</note>
       <tuv lang="EN">
         <seg>Starting at the left margin, the top passage has five indentations, and looks cluttered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075423Z" creationid="zerng07" creationdate="20180125T075423Z">
-        <seg>文字從左邊距開始，the top passage has five indentations, and looks cluttered.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075756Z" creationid="zerng07" creationdate="20180125T075423Z">
+        <seg>文字從左邊距開始，上方這篇有五種縮排，看起來比較雜亂。</seg>
       </tuv>
     </tu>
     <tu>
