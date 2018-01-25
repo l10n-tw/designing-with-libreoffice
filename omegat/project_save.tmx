@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;A &lt;f1&gt;f&lt;/f1&gt;irst &lt;f2&gt;p&lt;/f2&gt;age is &lt;f3&gt;customarily a&lt;/f3&gt; modified &lt;f4&gt;r&lt;/f4&gt;ight &lt;f5&gt;p&lt;/f5&gt;age&lt;f6&gt;.&lt;/f6&gt; It should be different enough that it is immediately obvious as the start of a new part of the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T032549Z" creationid="Jeff Huang" creationdate="20180125T032549Z">
+        <seg>&lt;/f0&gt;第一頁&lt;f3&gt;通常&lt;/f3&gt;是修改過的右頁。它應該與其他頁面都不相同，讓其為文件的第一頁的事實更明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Despite having different version numbers, LibreOffice and Apache OpenOffice are extremely similar in most features.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164706Z" creationid="zerng07" creationdate="20170817T180726Z">
@@ -3478,6 +3486,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T113732Z" creationid="Franklin Weng" creationdate="20180101T132509Z">
         <seg>&lt;f0&gt;你第一個&lt;/f0&gt;需要挑選的字型，就是內文的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The first page refers not to a title page, but the page on which a document or its first chapter begins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T031933Z" creationid="Jeff Huang" creationdate="20180125T031933Z">
+        <seg>&lt;f0&gt;第一頁指的不是標題頁，而是整份文件或其第一章開始的頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8656,6 +8672,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T030614Z" creationid="Jeff Huang" creationdate="20180125T030614Z">
         <seg>設計&lt;f0&gt;左頁與右頁&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;the f&lt;/f0&gt;irst &lt;f1&gt;p&lt;/f1&gt;age</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T031852Z" creationid="Jeff Huang" creationdate="20180125T031852Z">
+        <seg>設計第一頁</seg>
       </tuv>
     </tu>
     <tu>
