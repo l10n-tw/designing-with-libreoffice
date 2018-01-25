@@ -10294,8 +10294,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, paragraph styles &lt;t2/&gt;&lt;f3&gt;Heading 5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;–&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;10&lt;/f6&gt; are far more headings than anyone can manage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T113858Z" creationid="zerng07" creationdate="20180121T113858Z">
-        <seg>舉例，&lt;t2/&gt;&lt;f3&gt;標題5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;到&lt;/f5&gt;&lt;/f4&gt;標題&lt;f6&gt;10&lt;/f6&gt;的段落樣式，實在遠超乎一般人所能管理的層數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T044606Z" creationid="zerng07" creationdate="20180121T113858Z">
+        <seg>舉例，&lt;f3&gt;標題5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;到&lt;/f5&gt;&lt;/f4&gt;標題&lt;f6&gt;10&lt;/f6&gt;的段落樣式，實在遠超乎一般人所能管理的層數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16494,6 +16494,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T035427Z" creationid="Jeff Huang" creationdate="20171229T034215Z">
         <seg>設定&lt;f0&gt;區塊選項&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting &lt;f0&gt;horizontal spacing&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T044442Z" creationid="zerng07" creationdate="20180125T044442Z">
+        <seg>設定&lt;f0&gt;水平間距&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
