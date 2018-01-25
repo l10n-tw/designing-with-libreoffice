@@ -17250,6 +17250,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some are design elements that seemed reasonable &lt;f0&gt;decades ago&lt;/f0&gt; when Writer was first released, but have since become obsolete – and never were (to be polite) in the best typographical tradition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100039Z" creationid="zerng07" creationdate="20180125T100039Z">
+        <seg>有些設計元素在Writer首次發行的&lt;f0&gt;幾十年前&lt;/f0&gt;看來很合理，但後來就棄而不用了——而且永遠都不會是（委婉地說）最好的字體排印傳統。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some design elements to be adjusted using multiples of the magic number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145421Z" creationid="Franklin Weng" creationdate="20180105T151023Z">
@@ -19635,7 +19643,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The text style basics</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094345Z" creationid="zerng07" creationdate="20180125T094345Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095611Z" creationid="zerng07" creationdate="20180125T094345Z">
         <seg>文字樣式基礎概念</seg>
       </tuv>
     </tu>
@@ -19821,6 +19829,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173751Z" creationid="zerng07" creationdate="20170824T173751Z">
         <seg>接著又到了下個你想要採用&lt;f0&gt;相同&lt;/f0&gt;格式設定的地方，一樣你又把相同的設定一步一步再做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is even a &lt;f0&gt;feature&lt;/f0&gt; or two that LibreOffice technically supports but implement&lt;f1&gt;s &lt;/f1&gt;so poorly that you will get more satisfying results if you use another piece of software instead.5</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095746Z" creationid="zerng07" creationdate="20180125T095738Z">
+        <seg>LibreOffice甚至有一兩個功能在技術上有支援，但實作得很差，你如果改用其他軟體可能會有更滿意的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21430,8 +21446,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Usually, &lt;f2&gt;a full line-space&lt;/f2&gt; (middle) &lt;f3&gt;avoids both extremes.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085525Z" creationid="zerng07" creationdate="20180125T085525Z">
-        <seg>通常，&lt;f2&gt;用一個行距寬&lt;/f2&gt;（中）&lt;f3&gt;可以避開前述兩種極端狀況。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095454Z" creationid="zerng07" creationdate="20180125T085525Z">
+        <seg>通常，&lt;f2&gt;用一個行距寬&lt;/f2&gt;（中）&lt;f3&gt;可以避開前述兩種極端狀況。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
