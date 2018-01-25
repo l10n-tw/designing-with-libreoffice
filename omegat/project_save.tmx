@@ -7462,6 +7462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below the return address is the &lt;f0&gt;Date&lt;/f0&gt; style, which is followed by white space, then the &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T124434Z" creationid="zerng07" creationdate="20180125T124434Z">
+        <seg>在 &lt;f0&gt;Date&lt;/f0&gt; style, which is followed by white space, then the &lt;f1&gt;Address&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below, Heuristica 12/16, with .8pts of extra spacing between characters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135248Z" creationid="Franklin Weng" creationdate="20180106T043136Z">
