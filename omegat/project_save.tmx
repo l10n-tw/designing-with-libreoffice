@@ -16459,6 +16459,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Short lines are especially hard to hyphenate well automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030404Z" creationid="zerng07" creationdate="20180125T030356Z">
+        <seg>行越短，要做好自動斷字就越難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you decide that you need &lt;f16&gt;a hidden style&lt;/f16&gt; after all, you can go to the &lt;f17&gt;Hidden Styles&lt;/f17&gt; view and select &lt;f18&gt;Show&lt;/f18&gt; instead.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T021601Z" creationid="zerng07" creationdate="20180122T021601Z">
@@ -19092,6 +19100,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T080146Z" creationid="Franklin Weng" creationdate="20171231T131730Z">
         <seg>上述這些說法並不代表字型樣式對於決定要使用哪種字型而言不大管用。&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These difficulties are one reason that many designers prefer a Left &lt;f0&gt;alignment &lt;/f0&gt;or ragged right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030639Z" creationid="zerng07" creationdate="20180125T030639Z">
+        <seg>這些困難就是為何許多設計師偏好向左&lt;f0&gt;對齊&lt;/f0&gt;（或右邊不整齊）的原因之一。</seg>
       </tuv>
     </tu>
     <tu>
