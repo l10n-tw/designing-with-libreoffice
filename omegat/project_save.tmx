@@ -8337,6 +8337,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the left and right margin to &lt;f0&gt;72&lt;/f0&gt; points (a multiple of the line spacing for the &lt;f1&gt;Text Body&lt;/f1&gt;) improved the layout immensely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140159Z" creationid="zerng07" creationdate="20180125T140159Z">
+        <seg>我把左右邊距都改為&lt;f0&gt;72&lt;/f0&gt;點（&lt;f1&gt;內文&lt;/f1&gt;樣式行距的倍數），大幅改善了版面外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the line spacing to 12/16 improves the layout:&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T133957Z" creationid="Franklin Weng" creationdate="20180106T042102Z">
@@ -10817,6 +10825,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T121305Z" creationid="Franklin Weng" creationdate="20180102T135847Z">
         <seg>例如，採用常見的字型有助於讓讀者接收內容，而用不常見的字型則可能讓讀者有種創新、煥然一新的感覺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, after using the template for a few letters, I realized that the default margins created a somewhat narrow look.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140051Z" creationid="zerng07" creationdate="20180125T140051Z">
+        <seg>舉例，在使用範本製作幾封書信之後，我發現初創的預設邊距看來有點窄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17519,6 +17535,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134810Z" creationid="Franklin Weng" creationdate="20180106T042614Z">
         <seg>當你遇到一個現代字型，不管再怎麼調整灰度都還是很黑，那可能本來就是設計用在標題上，或是螢幕顯示用的，不應該用在內文中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, &lt;f0&gt;when&lt;/f0&gt; &lt;f1&gt;I &lt;/f1&gt;realiz&lt;f2&gt;ed&lt;/f2&gt; th&lt;f3&gt;e template worked best&lt;/f3&gt; for short letters, I added a &lt;f4&gt;page&lt;/f4&gt; with a footer containing the page number for longer letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140403Z" creationid="zerng07" creationdate="20180125T140403Z">
+        <seg>相似地，當我發現這個範本非常適合短篇書信之後，我又新加了頁尾有寫頁數的一頁給長篇書信使用。</seg>
       </tuv>
     </tu>
     <tu>
