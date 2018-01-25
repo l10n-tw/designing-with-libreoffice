@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you have an international audience&lt;/f0&gt;, a template that you can print &lt;f1&gt;on &lt;/f1&gt;both sizes &lt;f2&gt;becomes a form of single-sourcing.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T131538Z" creationid="Jeff Huang" creationdate="20180125T131538Z">
+        <seg>&lt;f0&gt;如果你的讀者可能來自於任何地方&lt;/f0&gt;，這就是你可以使用的範本，讓兩種大小的紙張&lt;f2&gt;都能列印。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you need to add a specific color, sample it in a graphics program to get its &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; definition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T100115Z" creationid="Jeff Huang" creationdate="20180122T100115Z">
@@ -20317,6 +20325,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T124354Z" creationid="Franklin Weng" creationdate="20180103T130433Z">
         <seg>所以，如果收件人就算沒有你使用的字型，他們只要自己從網路上下載安裝即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are also close in size: A4 has a width of 595 points and a height of 842 points, while Letter has a width of 612 points, and a height of 792 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T131220Z" creationid="Jeff Huang" creationdate="20180125T131220Z">
+        <seg>它們的大小也很接近：A4的寬度是595點，高度是842點，而Letter的寬度是612點，高度792點。</seg>
       </tuv>
     </tu>
     <tu>
