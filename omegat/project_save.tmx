@@ -5372,8 +5372,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;If anything, headings are easier to scan if not hyphenated.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041024Z" creationid="zerng07" creationdate="20180125T041024Z">
-        <seg>&lt;f6&gt;真要說的話，沒有斷字處理的標題還比較方便讀者概略瀏覽。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041117Z" creationid="zerng07" creationdate="20180125T041024Z">
+        <seg>&lt;f6&gt;真要說的話，沒有斷字過的標題還比較方便讀者概略瀏覽。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17597,6 +17597,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;H&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;yphenation&lt;/f2&gt; settings on the &lt;f3&gt;Text Flow&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041423Z" creationid="zerng07" creationdate="20180125T041423Z">
+        <seg>「&lt;f3&gt;排文和分頁&lt;/f3&gt;」中的「&lt;f2&gt;斷字處理&lt;/f2&gt;」設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Load Styles&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; window uses &lt;/f2&gt;&lt;f3&gt;Text&lt;/f3&gt; &lt;f4&gt;to &lt;/f4&gt;refer to both &lt;f5&gt;&lt;f6&gt;P&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;aragraph&lt;/f7&gt; and &lt;f8&gt;&lt;f9&gt;C&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;haracter&lt;/f10&gt; styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142001Z" creationid="Franklin Weng" creationdate="20171223T132721Z">
@@ -22278,6 +22286,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T172921Z" creationid="zerng07" creationdate="20171223T172913Z">
         <seg>你也許能找出足以符合你需求可重複使用的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to change the hyphenation &lt;f0&gt;by adjusting:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041204Z" creationid="zerng07" creationdate="20180125T041156Z">
+        <seg>你或許會想這樣修改斷字處理：</seg>
       </tuv>
     </tu>
     <tu>
