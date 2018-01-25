@@ -8730,6 +8730,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating character styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100422Z" creationid="zerng07" creationdate="20180125T100422Z">
+        <seg>製作字元樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating styles at this point is just an extra step &lt;f0&gt;until you have finished experimenting&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092907Z" creationid="zerng07" creationdate="20180121T092907Z">
@@ -15642,6 +15650,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other points</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100353Z" creationid="zerng07" creationdate="20180125T100353Z">
+        <seg>其他考量點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other sections are distinctly not about styles, but needed for a full discussion about design.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163316Z" creationid="zerng07" creationdate="20170817T162828Z">
@@ -17570,6 +17586,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111200Z" creationid="zerng07" creationdate="20171219T111200Z">
         <seg>步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still others &lt;f0&gt;are&lt;/f0&gt; obscure &lt;f1&gt;or&lt;/f1&gt; difficult &lt;f2&gt;to use&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100335Z" creationid="zerng07" creationdate="20180125T100329Z">
+        <seg>其他部分不是難懂就是難用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19843,8 +19867,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>There is even a &lt;f0&gt;feature&lt;/f0&gt; or two that LibreOffice technically supports but implement&lt;f1&gt;s &lt;/f1&gt;so poorly that you will get more satisfying results if you use another piece of software instead.5</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095746Z" creationid="zerng07" creationdate="20180125T095738Z">
-        <seg>LibreOffice甚至有一兩個功能在技術上有支援，但實作得很差，你如果改用其他軟體可能會有更滿意的效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100221Z" creationid="zerng07" creationdate="20180125T095738Z">
+        <seg>LibreOffice裡甚至有一兩個功能雖然在技術上有支援，卻實作得很差，你如果改用其他軟體可能會有更滿意的效果。</seg>
       </tuv>
     </tu>
     <tu>
