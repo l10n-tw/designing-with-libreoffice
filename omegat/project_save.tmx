@@ -1661,8 +1661,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Example: &lt;/f0&gt;Designing a letter template</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085540Z" creationid="zerng07" creationdate="20180125T085540Z">
-        <seg>&lt;f0&gt;範例：&lt;/f0&gt;Designing a letter template</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085754Z" creationid="zerng07" creationdate="20180125T085540Z">
+        <seg>&lt;f0&gt;範例：&lt;/f0&gt;設計書信範本</seg>
       </tuv>
     </tu>
     <tu>
@@ -12344,6 +12344,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have been reading chapter by chapter, at this point you may want a sense of what goes into a template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085854Z" creationid="zerng07" creationdate="20180125T085854Z">
+        <seg>如果你有依照章節次序一章一章讀過來，那麼此時此刻你可能會想這些東西該怎麼套用到範本上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have cross-references between two sub-documents, the target sub-document shows the message “Error: Reference not found” when you open the sub-document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083350Z" creationid="Jeff Huang" creationdate="20171214T061038Z">
@@ -18762,6 +18770,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The example ignores page settings, since they have not be&lt;f0&gt;en&lt;/f0&gt; covered yet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092214Z" creationid="zerng07" creationdate="20180125T092214Z">
+        <seg>本範例略過頁面設定，因為這個部分我們還沒講過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fact that many defaults can be used unchanged or entirely ignored greatly reduces the amount of designing necessary to complete a template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022712Z" creationid="zerng07" creationdate="20180122T022613Z">
@@ -22351,6 +22367,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124957Z" creationid="Jeff Huang" creationdate="20180122T124957Z">
         <seg>你可以從主選單中的&lt;f2&gt;「格式 &gt; 區域 &gt; 漸層」&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize a letter template from &lt;f0&gt;File &gt; Wizards &gt; Letter&lt;/f0&gt; &lt;f1&gt;that uses frames to position different elements of the letter.&lt;/f1&gt; As an alternative, here are the steps in building a letter template with styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092031Z" creationid="zerng07" creationdate="20180125T092013Z">
+        <seg>你可以利用「&lt;f0&gt;檔案 &gt; 精靈 &gt; 書信&lt;/f0&gt;&lt;f1&gt;」來自訂書信範本，這個精靈利用外框放置不同的書信內容元素。&lt;/f1&gt;除了這個做法外，這裡也提供打造書信範本與樣式的步驟。</seg>
       </tuv>
     </tu>
     <tu>
