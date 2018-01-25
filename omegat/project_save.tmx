@@ -17599,8 +17599,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;H&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;yphenation&lt;/f2&gt; settings on the &lt;f3&gt;Text Flow&lt;/f3&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041423Z" creationid="zerng07" creationdate="20180125T041423Z">
-        <seg>「&lt;f3&gt;排文和分頁&lt;/f3&gt;」中的「&lt;f2&gt;斷字處理&lt;/f2&gt;」設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041803Z" creationid="zerng07" creationdate="20180125T041423Z">
+        <seg>改「&lt;f3&gt;排文和分頁&lt;/f3&gt;」中的「&lt;f2&gt;斷字處理&lt;/f2&gt;」設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18223,6 +18223,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The choice of fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041822Z" creationid="zerng07" creationdate="20180125T041822Z">
+        <seg>改字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The color is adjusted &lt;f1&gt;mainly&lt;/f1&gt; by setting the &lt;f2&gt;Line Spacing&lt;/f2&gt; field to a fixed distance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T132928Z" creationid="Franklin Weng" creationdate="20180105T135608Z">
@@ -18491,6 +18499,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T154053Z" creationid="Franklin Weng" creationdate="20180106T041453Z">
         <seg>字型大小可以加大，但整體Josefin Slab的預設灰度就可以接受。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font weight or size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041816Z" creationid="zerng07" creationdate="20180125T041816Z">
+        <seg>改字重或字型大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19009,6 +19025,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T075110Z" creationid="Franklin Weng" creationdate="20171231T124016Z">
         <seg>而輪廓字型&lt;f1&gt;，只有文字外框輪廓的空心字型&lt;/f1&gt;也是一樣，字型名稱會寫明Outline。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The settings for &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids &gt; Options &gt; Minimal number of characters for hyphenation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042040Z" creationid="zerng07" creationdate="20180125T041833Z">
+        <seg>改「&lt;f0&gt;&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 選項 &gt; 斷字添連字號的最短字元數」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22292,8 +22316,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You may want to change the hyphenation &lt;f0&gt;by adjusting:&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041204Z" creationid="zerng07" creationdate="20180125T041156Z">
-        <seg>你或許會想這樣修改斷字處理：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041841Z" creationid="zerng07" creationdate="20180125T041156Z">
+        <seg>你或許會想這樣調整斷字處理的效果：</seg>
       </tuv>
     </tu>
     <tu>
