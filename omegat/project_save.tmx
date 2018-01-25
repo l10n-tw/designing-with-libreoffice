@@ -8938,6 +8938,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Decide on the left and right (or inner and outer) margins as though designing for the A4 format, the narrower of the two formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132402Z" creationid="Jeff Huang" creationdate="20180125T132402Z">
+        <seg>以A4格式來決定左右（或是內部與外部）邊界，因為其為兩種格式中較窄的一個。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Decide on the top and bottom margins as though designing for Letter format, the smaller in height of the two formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132802Z" creationid="Jeff Huang" creationdate="20180125T132802Z">
+        <seg>以Letter格式來決定頂部與底部邊界，因為其為兩種格式中較短的一種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Decide what basic shapes you need, and create a style for each.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T123127Z" creationid="Jeff Huang" creationdate="20180111T123127Z">
@@ -20958,6 +20974,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124433Z" creationid="Jeff Huang" creationdate="20180125T124433Z">
         <seg>要定義你自己的頁面尺寸，請從任意頁面大小開始，然後手動變更寬度與高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display, all contents must fall within this area.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132226Z" creationid="Jeff Huang" creationdate="20180125T132226Z">
+        <seg>要正確顯示，所有的內容都必須在此區域內。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
