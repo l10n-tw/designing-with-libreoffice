@@ -11519,6 +11519,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyphenation is a contentious issue in digital design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030040Z" creationid="zerng07" creationdate="20180125T030040Z">
+        <seg>在數位設計中，斷字處理一直是充滿爭議的一塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyphenation options are set on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025724Z" creationid="zerng07" creationdate="20180125T025626Z">
@@ -14331,6 +14339,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T140219Z" creationid="Franklin Weng" creationdate="20180118T034417Z">
         <seg>不過大家最好保持預設值就好 – 因為這些設定中有很多會在你改變投影片設計時產生無法預期的結果。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most word processors hyphenate as you type, and while they make adjustments as the line lengths change, their on-the-fly solutions are not always optional.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030251Z" creationid="zerng07" creationdate="20180125T030251Z">
+        <seg>大多數的文書處理器都能跟著你一邊打字，一邊在行尾斷字加連字符，但是當你回頭修改文字之後，行的長度可能隨之改變，那麼當初即時處理的斷字位置就不見得那麼好了。</seg>
       </tuv>
     </tu>
     <tu>
