@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition, if you do hyphenate, the line divisions &lt;/f0&gt;can be improved by running &lt;f1&gt;&lt;f2&gt;Tools &gt; Language &gt; Hyphenation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; as a final touch on the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042937Z" creationid="zerng07" creationdate="20180125T042937Z">
+        <seg>&lt;f0&gt;最後，如果你決定要做斷字的話，在文件製作的最後階段可以跑一次&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 語言 &gt; 斷字處理&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」來改善斷字位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082528Z" creationid="zerng07" creationdate="20171225T082407Z">
@@ -5246,6 +5254,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T112737Z" creationid="Franklin Weng" creationdate="20180120T112043Z">
         <seg>&lt;f4&gt;要調整每張投影片的自動換頁時間，&lt;/f4&gt;在右方側邊欄的&lt;f5&gt;「投影片轉場」設定中，「下一張投影片」裡選擇「自動翻換每隔：」&lt;/f5&gt; 。在這種狀況下，每張投影片都要調整各自的轉場設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;Frankly, these fields are a last desperate measure.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042549Z" creationid="zerng07" creationdate="20180125T042549Z">
+        <seg>&lt;f4&gt;坦白說，調整這邊的欄位是最後孤注一擲的險惡做法。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
