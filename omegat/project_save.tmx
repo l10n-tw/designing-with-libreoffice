@@ -5289,6 +5289,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Set it to 18 points, the same as the line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134506Z" creationid="zerng07" creationdate="20180125T134506Z">
+        <seg>&lt;f3&gt;設為18 pt，和行距相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Sometimes, you may not need to replace it at all.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T063438Z" creationid="Jeff Huang" creationdate="20180116T063438Z">
@@ -8774,6 +8782,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071749Z" creationid="Jeff Huang" creationdate="20180115T071749Z">
         <seg>Cousine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a &lt;f0&gt;Signature&lt;/f0&gt; style with the following settings:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134536Z" creationid="zerng07" creationdate="20180125T134536Z">
+        <seg>依據下列設定製作「&lt;f0&gt;簽名&lt;/f0&gt;」樣式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15579,6 +15595,30 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T094738Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
         <seg>舊式數字(Old Style Figure)：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Alignment&lt;/f0&gt; tab, &lt;f1&gt;s&lt;/f1&gt;et the alignment to &lt;f2&gt;Center.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134605Z" creationid="zerng07" creationdate="20180125T134605Z">
+        <seg>到「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁，將對齊設為「&lt;f2&gt;置中&lt;/f2&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Indents and Spacing&lt;/f0&gt; tab, set &lt;f1&gt;Spac&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Below &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Paragraph&lt;/f6&gt;&lt;/f5&gt; to &lt;f7&gt;95&lt;/f7&gt; points (5 lines).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134834Z" creationid="zerng07" creationdate="20180125T134834Z">
+        <seg>把「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁中的「&lt;f1&gt;間距 &gt; 段落之下&lt;/f1&gt;」設為&lt;f7&gt;95&lt;/f7&gt; pt（5倍行距）&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Indents and Spacing&lt;/f0&gt; tab, set &lt;f1&gt;Spacing &gt; Above &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Paragraph&lt;/f3&gt;&lt;/f2&gt; to 1&lt;f4&gt;8&lt;/f4&gt; points (1 line),</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134724Z" creationid="zerng07" creationdate="20180125T134724Z">
+        <seg>在「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁中，把「&lt;f1&gt;間距 &gt; 段落之上&lt;/f1&gt;」設定成18 pt（一倍行距）。</seg>
       </tuv>
     </tu>
     <tu>
