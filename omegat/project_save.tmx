@@ -5370,6 +5370,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f6&gt;If anything, headings are easier to scan if not hyphenated.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041024Z" creationid="zerng07" creationdate="20180125T041024Z">
+        <seg>&lt;f6&gt;真要說的話，沒有斷字處理的標題還比較方便讀者概略瀏覽。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Customize&lt;/f7&gt; tab allows adjustment of spacing or the &lt;f8&gt;selection &lt;/f8&gt;of custom bullets and numbers or larger-sized ones for special circumstances.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T024153Z">
@@ -10862,8 +10870,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Headings, which are rarely more than a few words long &lt;f5&gt;and almost never more than two lines&lt;/f5&gt;, generally do not need to be hyphenated at all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040858Z" creationid="zerng07" creationdate="20180125T040858Z">
-        <seg>「標題」的話，絕大多數字都很少，&lt;f5&gt;幾乎不會超過兩行&lt;/f5&gt;，一般根本不需要用到斷字處理。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041032Z" creationid="zerng07" creationdate="20180125T040858Z">
+        <seg>至於「標題」，絕大多數字都很少，&lt;f5&gt;幾乎不會超過兩行&lt;/f5&gt;，一般根本不需要用到斷字處理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,8 +12846,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many documents, only &lt;f0&gt;Text&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Body&lt;/f3&gt; and perhaps another handful of &lt;f4&gt;paragraph &lt;/f4&gt;styles are used at such length that hyphenation can improve how they fall on the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040725Z" creationid="zerng07" creationdate="20180125T040524Z">
-        <seg>在許多文件中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度，來改善斷字連字在頁面中的呈現效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041100Z" creationid="zerng07" creationdate="20180125T040524Z">
+        <seg>在許多文本中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度來改善連字號在頁面中的呈現效果。</seg>
       </tuv>
     </tu>
     <tu>
