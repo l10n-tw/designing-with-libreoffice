@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>36 points (top) &lt;f0&gt;can &lt;/f0&gt;leave too much white space to the left, while half a line-space (bottom) &lt;f1&gt;can be&lt;/f1&gt; hard to distinguish.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085424Z" creationid="zerng07" creationdate="20180125T085424Z">
+        <seg>36點（上）留的空白太多。半個行距（下）留的空間又太少看不出分別。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T064228Z" creationid="Franklin Weng" creationdate="20171224T064228Z">
@@ -9792,6 +9800,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T154850Z" creationid="Franklin Weng" creationdate="20171224T073031Z">
         <seg>尋找要用的字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First line indentation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085216Z" creationid="zerng07" creationdate="20180125T085216Z">
+        <seg>第一行縮排。</seg>
       </tuv>
     </tu>
     <tu>
