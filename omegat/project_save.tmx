@@ -6092,6 +6092,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A4 is a standard page size in most of the world, and Letter in the United States and Canada.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T130952Z" creationid="Jeff Huang" creationdate="20180125T130952Z">
+        <seg>A4在世界上大多數的地方都是標準頁面大小，而Letter則在美國與加拿大是標準大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&lt;/f2&gt; Left &lt;f3&gt;alignment can still cause problems, but they are often less severe, especially &lt;/f3&gt;in columns or tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115350Z" creationid="zerng07" creationdate="20180123T115350Z">
@@ -9816,6 +9824,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125029Z" creationid="Franklin Weng" creationdate="20171223T094856Z">
         <seg>範例：使用佔位項和欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: A4/Letter combined &lt;f0&gt;template&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T130857Z" creationid="Jeff Huang" creationdate="20180125T130857Z">
+        <seg>範例：結合A4/Letter的&lt;f0&gt;範本&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
