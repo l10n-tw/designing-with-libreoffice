@@ -1659,6 +1659,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Example: &lt;/f0&gt;Designing a letter template</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085540Z" creationid="zerng07" creationdate="20180125T085540Z">
+        <seg>&lt;f0&gt;範例：&lt;/f0&gt;Designing a letter template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Example: &lt;/f0&gt;Displaying one &lt;f1&gt;line&lt;/f1&gt; at a time</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T113027Z" creationid="Franklin Weng" creationdate="20180120T113027Z">
@@ -20837,8 +20845,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Unless a font is extremely small, the first line indent usually needs to be no more &lt;f0&gt;than&lt;/f0&gt; the line spacing, and you might even manage with half a line-space, depending on the font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T084125Z" creationid="zerng07" creationdate="20180125T084125Z">
-        <seg>除非字型極小，否則第一行縮排通常不必多於行距，根據字型大小而定，你甚至可以用半個行距就行。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085650Z" creationid="zerng07" creationdate="20180125T084125Z">
+        <seg>除非字型極小，否則第一行縮排通常不必多於行距，根據字型大小而定，你甚至可以用半個行距就行。而中文排版慣例之中，則以空兩個全形字做段落的第一行縮排。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21192,6 +21200,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T163636Z" creationid="Franklin Weng" creationdate="20180106T023516Z">
         <seg>運用魔術數字有點辛苦——但是相當準確，不會有模糊空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, &lt;f2&gt;a full line-space&lt;/f2&gt; (middle) &lt;f3&gt;avoids both extremes.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085525Z" creationid="zerng07" creationdate="20180125T085525Z">
+        <seg>通常，&lt;f2&gt;用一個行距寬&lt;/f2&gt;（中）&lt;f3&gt;可以避開前述兩種極端狀況。</seg>
       </tuv>
     </tu>
     <tu>
