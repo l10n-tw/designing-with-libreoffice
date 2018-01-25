@@ -2150,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If headers are a different color from body text, you can also use the header color for the background color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035633Z" creationid="Jeff Huang" creationdate="20180125T035633Z">
+        <seg>&lt;f0&gt;如果頁首與正文的色彩不同，你也可以使用頁首色彩來當作背景色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If possible, use a font used elsewhere in the document.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075428Z" creationid="Jeff Huang" creationdate="20180104T075428Z">
