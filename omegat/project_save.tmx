@@ -2823,6 +2823,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Paper formats are set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Page&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for a style.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091515Z" creationid="Jeff Huang" creationdate="20180125T091515Z">
+        <seg>&lt;f0&gt;頁面格式是在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;頁面&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中設定的樣式。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Part of the reaction is a fad for two-dimensional icons and widgets on mobile devices, and part is that 3D graphics are no longer a novelty.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T025236Z" creationid="Jeff Huang" creationdate="20180115T025236Z">
@@ -18570,6 +18578,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default page size is usually determined by your locale, and should be changed as necessary for your &lt;f0&gt;needs or &lt;/f0&gt;printer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091615Z" creationid="Jeff Huang" creationdate="20180125T091615Z">
+        <seg>預設頁面大小通常取決於您的語系，並可視你的&lt;f0&gt;需求或&lt;/f0&gt;印表機變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default page succession.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124828Z" creationid="Jeff Huang" creationdate="20180124T124828Z">
@@ -20237,6 +20253,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T024443Z" creationid="Jeff Huang" creationdate="20180115T024443Z">
         <seg>立體圖對早期的辦公室套裝軟體來說是新功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Throughout much of the world, the standard size is &lt;f1&gt;A4,&lt;/f1&gt; but in North America, the standard size is&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;L&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;etter.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091811Z" creationid="Jeff Huang" creationdate="20180125T091811Z">
+        <seg>在世界上多數的地方，標準尺寸是&lt;f1&gt;A4，&lt;/f1&gt;不過在北美洲，標準尺寸Letter。</seg>
       </tuv>
     </tu>
     <tu>
