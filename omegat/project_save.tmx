@@ -3362,6 +3362,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Characters at line end&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Characters at line begin&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields can sometimes be manipulated to improve hyphenation by playing one off against the other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033910Z" creationid="zerng07" creationdate="20180125T033910Z">
+        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行尾字元&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;行首字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位有時該調控一下以改善斷字處理效果&lt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Effects&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab contains a variety of features, with widely differing degrees of usefulness.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120629Z" creationid="Franklin Weng" creationdate="20180101T120822Z">
@@ -8784,6 +8792,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042224Z" creationid="Jeff Huang" creationdate="20180116T031221Z">
         <seg>即便名字看起來很像，但&lt;f1&gt;Draw 與 Impress&lt;/f1&gt;並不是完整的圖形編輯工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detail of the &lt;f0&gt;Text Flow &lt;/f0&gt;tab, showing the hyphenation controls.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033550Z" creationid="zerng07" creationdate="20180125T033550Z">
+        <seg>「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁的細節，裡面有斷字處理用的控制項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19050,8 +19066,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The typographical convention is not to allow more than two lines in a row to end with a hyphen.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033428Z" creationid="zerng07" creationdate="20180125T033428Z">
-        <seg>在西方字體排印慣例中，不大允許超過兩行The typographical convention is not to allow more than two lines in a row to end with a hyphen.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033654Z" creationid="zerng07" creationdate="20180125T033428Z">
+        <seg>在西方字體排印慣例中，不大允許連續兩行以上都是連字符結尾。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
