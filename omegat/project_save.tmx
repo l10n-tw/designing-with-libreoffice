@@ -3364,8 +3364,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Characters at line end&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Characters at line begin&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields can sometimes be manipulated to improve hyphenation by playing one off against the other.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033910Z" creationid="zerng07" creationdate="20180125T033910Z">
-        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行尾字元&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;行首字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位有時該調控一下以改善斷字處理效果&lt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034003Z" creationid="zerng07" creationdate="20180125T033910Z">
+        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行尾字元&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;行首字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位有時該調控一下以改善斷字處理效果，調整時只改其中一項，另一個就不要動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21452,6 +21452,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T061652Z" creationid="Franklin Weng" creationdate="20180107T033248Z">
         <seg>經由一些設計，你可以減低這些問題的衝擊，雖然你還是必須對這些問題不斷戒慎恐懼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working by itself, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Maximum number of consecutive hyphens&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field can also make a difference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034812Z" creationid="zerng07" creationdate="20180125T034812Z">
+        <seg>Working by itself, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;連貫連字號的最大數目&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;欄位也會讓排版結果變得不一樣。</seg>
       </tuv>
     </tu>
     <tu>
