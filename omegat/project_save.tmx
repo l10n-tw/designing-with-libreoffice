@@ -999,6 +999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Another choice is&lt;/f0&gt; to turn off hyphenation completely, which is &lt;f1&gt;probably &lt;/f1&gt;why the &lt;f2&gt;Text Flow&lt;/f2&gt; tab does &lt;f3&gt;not &lt;/f3&gt;check the &lt;f4&gt;&lt;f5&gt;Automatically&lt;/f5&gt;&lt;/f4&gt; hyphenation box &lt;f6&gt;by default&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033045Z" creationid="zerng07" creationdate="20180125T033045Z">
+        <seg>&lt;f0&gt;另一種選擇是&lt;/f0&gt;完全關閉斷字處理，這&lt;f1&gt;可能&lt;/f1&gt;是&lt;f6&gt;預設&lt;/f6&gt;情況下&lt;f3&gt;沒有&lt;/f3&gt;勾選「&lt;f2&gt;排文和分頁&lt;/f2&gt;」標籤頁中「&lt;f4&gt;&lt;f5&gt;自動&lt;/f5&gt;&lt;/f4&gt;」斷字處理方框的理由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Another point to consider is that you are rarely likely to need &lt;/f0&gt;Bold Italic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T123334Z" creationid="Franklin Weng" creationdate="20171228T071930Z">
@@ -5545,6 +5553,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142314Z" creationid="zerng07" creationdate="20170817T142300Z">
         <seg>Levien除了是Google員工外，他亦用自己的閒暇時間開發字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Left alignment does not always produce the best possible use of the line, but it&lt;f1&gt;s shortcomings are rarely as severe as those with &lt;/f1&gt;a Justified alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T032700Z" creationid="zerng07" creationdate="20180125T032700Z">
+        <seg>向左對齊不一定能把行的空間發揮到極致，&lt;f1&gt;但它很少有像&lt;/f1&gt;兩端對齊那麼嚴重的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15135,6 +15151,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174244Z" creationid="zerng07" creationdate="20170930T174244Z">
         <seg>樣式還有其他優點嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other designer&lt;f0&gt;s&lt;/f0&gt;, more determined or more patient, try to improve hyphenation by adjusting the settings on the &lt;f1&gt;Text Flow&lt;/f1&gt; &lt;t2/&gt;tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033205Z" creationid="zerng07" creationdate="20180125T033205Z">
+        <seg>而其他更有決心、更有毅力的設計師，會試著調整「&lt;f1&gt;排文和分頁&lt;/f1&gt; &lt;t2/&gt;」標籤頁中的設定來改善斷字處理狀況。</seg>
       </tuv>
     </tu>
     <tu>
