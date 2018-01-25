@@ -5163,6 +5163,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;The number of letters at the end and start of the line should be 1–4.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033449Z" creationid="zerng07" creationdate="20180125T033251Z">
+        <seg>&lt;f3&gt;行尾字母數和行首字母數應該介於1到4之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;This demand is unlikely to disapear because, although most professional designers think in terms of proprietary fonts, clients are often unwilling to pay for them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100124Z" creationid="Jeff Huang" creationdate="20180115T065625Z">
@@ -19036,6 +19044,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142005Z" creationid="zerng07" creationdate="20171224T142005Z">
         <seg>Writer中的樣式類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The typographical convention is not to allow more than two lines in a row to end with a hyphen.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033428Z" creationid="zerng07" creationdate="20180125T033428Z">
+        <seg>在西方字體排印慣例中，不大允許超過兩行The typographical convention is not to allow more than two lines in a row to end with a hyphen.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
