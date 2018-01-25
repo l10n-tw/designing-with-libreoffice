@@ -8155,8 +8155,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Change the alignment to &lt;f0&gt;Right&lt;/f0&gt; on the &lt;f1&gt;Alignment&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125039Z" creationid="zerng07" creationdate="20180125T125039Z">
-        <seg>再將「&lt;f1&gt;對齊&lt;/f1&gt; 」標籤頁的選項&lt;f0&gt;右/下&lt;/f0&gt; on the </seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125050Z" creationid="zerng07" creationdate="20180125T125039Z">
+        <seg>再將「&lt;f1&gt;對齊&lt;/f1&gt; 」標籤頁的選項改為「&lt;f0&gt;右/下&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12344,6 +12344,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using any page size other than Letter, increase &lt;f0&gt;Spacing &gt; Below&lt;/f0&gt; to a multiple of 1&lt;f1&gt;8.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125702Z" creationid="zerng07" creationdate="20180125T125702Z">
+        <seg>如果你正在使用的紙張大小不是「Letter (US)」，那麼可以將「&lt;f0&gt;間距 &gt; 段落之下&lt;/f0&gt;」18作為基準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using styles, then probably the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window is already open.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113230Z" creationid="zerng07" creationdate="20171219T113230Z">
@@ -15167,6 +15175,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice that these are multiples of the &lt;f5&gt;fi&lt;/f5&gt;xed line spacing of 1&lt;f6&gt;8 points&lt;/f6&gt; being used for Header and its subordinate style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125458Z" creationid="zerng07" creationdate="20180125T125458Z">
+        <seg>注意這些數值都採用了頁首和其從屬樣式的固定行距「18 點」的倍數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notice the difference in spacing and letter shape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065733Z" creationid="Franklin Weng" creationdate="20171228T063501Z">
@@ -15411,6 +15427,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T094738Z" creationid="Franklin Weng" creationdate="20171225T134338Z">
         <seg>舊式數字(Old Style Figure)：阿拉伯數字底下的基線沒有對齊一直線，&lt;f0&gt;起源於西方文藝復興時期的設計。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Indents and Spacing&lt;/f0&gt; tab, set &lt;f1&gt;Spacing &gt; Above paragraph&lt;/f1&gt; to 5&lt;f2&gt;4&lt;/f2&gt; points, and &lt;f3&gt;Spacing &gt; Below&lt;/f3&gt; to 12&lt;f4&gt;6&lt;/f4&gt; points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125237Z" creationid="zerng07" creationdate="20180125T125237Z">
+        <seg>在「&lt;f0&gt;縮排和間距&lt;/f0&gt;」標籤頁中，把「&lt;f1&gt;間距 &gt; 段落之上&lt;/f1&gt;」改為 54 pt，然後「&lt;f3&gt;間距 &gt; 段落之下&lt;/f3&gt;」改為126 pt。</seg>
       </tuv>
     </tu>
     <tu>
