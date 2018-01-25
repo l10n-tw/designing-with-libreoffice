@@ -6404,6 +6404,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other styles will be based on the &lt;f0&gt;settings for these two&lt;/f0&gt;, with variations for individual needs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102540Z" creationid="zerng07" creationdate="20180125T102540Z">
+        <seg>所有的其他樣式都會根據這兩項設定做對應調整，根據各個樣式需求修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All slides include three frames for footers: from left to right, date and time, optional fields, and slide number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092215Z" creationid="Franklin Weng" creationdate="20180116T092215Z">
@@ -8245,6 +8253,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T081113Z" creationid="Jeff Huang" creationdate="20171213T031516Z">
         <seg>文件中的每個拼音文字語言都有經過拼字檢查會比較好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check these settings by printing samples of at least three lines for both fonts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102452Z" creationid="zerng07" creationdate="20180125T102452Z">
+        <seg>針對這兩個字型列印一些兩行或三行的文字樣本，確認一下設定的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20445,6 +20461,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102625Z" creationid="zerng07" creationdate="20180123T102625Z">
         <seg>這個選項可以修復Writer在你一邊打字一邊斷字時處理得沒那麼好的所有地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting gives Baskervald a color close to that of Gillius, which makes for a uniform look on the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102329Z" creationid="zerng07" creationdate="20180125T102329Z">
+        <seg>這個設定會讓Baskervald的灰度看起來接近Gillius一點，讓整個頁面看起來有比較一致的色彩。</seg>
       </tuv>
     </tu>
     <tu>
