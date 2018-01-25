@@ -16738,6 +16738,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the font size to 14 p&lt;f0&gt;oin&lt;/f0&gt;ts for greater legibility on the &lt;f1&gt;Font&lt;/f1&gt; tab, &lt;f2&gt;and s&lt;/f2&gt;et the line space to 1&lt;f3&gt;8&lt;/f3&gt; points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094134Z" creationid="zerng07" creationdate="20180125T093753Z">
+        <seg>到&lt;f1&gt;字型&lt;/f1&gt;標籤頁中將字型大小設定為14點，這樣可讀性較高，還有行距設為18點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the slide design as needed for individual slides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125717Z" creationid="Franklin Weng" creationdate="20180107T125717Z">
@@ -18163,8 +18171,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Scale&lt;/f0&gt; &lt;f1&gt;width&lt;/f1&gt; and &lt;f2&gt;Spacing&lt;/f2&gt; fields on the &lt;f3&gt;Position&lt;/f3&gt; tab to expand or condense character spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042422Z" creationid="zerng07" creationdate="20180125T042422Z">
-        <seg>改字元樣式下「&lt;f3&gt;位置&lt;/f3&gt;」標籤頁中的「&lt;f0&gt;縮放&lt;/f0&gt;&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;間距&lt;/f2&gt;」欄位，展開或壓縮字元間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093837Z" creationid="zerng07" creationdate="20180125T042422Z">
+        <seg>改「&lt;f3&gt;位置&lt;/f3&gt;」標籤頁中的「&lt;f0&gt;縮放&lt;/f0&gt;&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;間距&lt;/f2&gt;」欄位，展開或壓縮字元間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22509,8 +22517,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can even go to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab to expand or condense character spacing.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120020Z" creationid="zerng07" creationdate="20180123T120020Z">
-        <seg>你甚至可以前往字元樣式中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁，擴展或窄縮字元間距。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093847Z" creationid="zerng07" creationdate="20180123T120020Z">
+        <seg>你甚至可以前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁，擴展或窄縮字元間距。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
