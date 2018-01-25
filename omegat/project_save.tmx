@@ -3039,6 +3039,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>參照錯誤，略過不譯</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select a passage and drag it to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles and Formatting&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; window when it displays paragraph or character styles.</seg>
       </tuv>
@@ -5670,6 +5676,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A drop capital of a single letter or a string of characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035218Z" creationid="Jeff Huang" creationdate="20180125T035218Z">
+        <seg>單一個或一大串的大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A few fonts even come in pairs of a serif and a sans serif, &lt;f0&gt;and even a monospaced variation&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T124606Z" creationid="Franklin Weng" creationdate="20180101T130018Z">
@@ -8272,6 +8286,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160342Z" creationid="zerng07" creationdate="20171223T175411Z">
         <seg>常用的段落樣式包括內文和標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Common tactics for indicating a first page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035354Z" creationid="Jeff Huang" creationdate="20180125T035354Z">
+        <seg>指出第一頁常用的策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19596,6 +19618,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090259Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
         <seg>這個動作可以讓你知道定下精準標題的價值所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This indicator is common in fiction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035235Z" creationid="Jeff Huang" creationdate="20180125T035235Z">
+        <seg>這種指標在小說中很常見。</seg>
       </tuv>
     </tu>
     <tu>
