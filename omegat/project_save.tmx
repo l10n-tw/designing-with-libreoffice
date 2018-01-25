@@ -4673,6 +4673,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;This key combination creates a conditional hyphen that only comes into play when it is in the hyphenation zone near the right margin.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T044408Z" creationid="zerng07" creationdate="20180125T044408Z">
+        <seg>&lt;f1&gt;這個按鍵組合可以放置條件式連字號，只在靠近行尾右邊緣的斷字處理區域協助斷字。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;This practice may disturb your work, but it means that &lt;/f1&gt;you won’t have to remember what changed, or wonder if you made an accidental change &lt;f2&gt;when you receive notice of the change the next time that you open the file.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151224Z" creationid="Franklin Weng" creationdate="20171212T120744Z">
