@@ -10270,6 +10270,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, a Left alignment is sometimes referred to as “ragged right.” This is the default choice in Writer, probably because it &lt;f1&gt;is reasonably acceptable without tweaking, especially if lines are not hyphenated or are over about 40 characters long.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T024935Z" creationid="zerng07" creationdate="20180125T024446Z">
+        <seg>基於這個緣故，向左對齊有時候也被稱為「右邊不整齊」(Ragged right)。這是Writer中的預設行為，大概是因為它&lt;f1&gt;不必什麼調整就能廣為接受，尤其在沒有用斷字處理、或字元數超過40個字時效果都還不錯。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, do not rely on rescaling without thoroughly checking the results.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T092246Z" creationid="Franklin Weng" creationdate="20180115T092246Z">
@@ -20373,8 +20381,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Using a Left alignment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T131858Z" creationid="zerng07" creationdate="20180123T131858Z">
-        <seg>使用左對齊</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T024450Z" creationid="zerng07" creationdate="20180123T131858Z">
+        <seg>使用向左對齊</seg>
       </tuv>
     </tu>
     <tu>
@@ -20695,6 +20703,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175011Z" creationid="zerng07" creationdate="20171224T140659Z">
         <seg>當看到外框出現時放開浮動視窗，視窗就會停駐在該位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a paragraph has a Left alignment, all lines start at the same position on the left, but &lt;f0&gt;can end anywhere&lt;/f0&gt; on the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T024430Z" creationid="zerng07" creationdate="20180125T024430Z">
+        <seg>當段落左對齊時，所有的行都會從左側相同位置起頭，但是&lt;f0&gt;可以在右邊任意處結尾&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
