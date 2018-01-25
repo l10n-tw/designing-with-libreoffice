@@ -8468,8 +8468,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Controlling the number of indents</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065222Z" creationid="zerng07" creationdate="20180125T065222Z">
-        <seg>控制縮排數</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065543Z" creationid="zerng07" creationdate="20180125T065222Z">
+        <seg>控制縮排量</seg>
       </tuv>
     </tu>
     <tu>
@@ -11578,6 +11578,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161554Z" creationid="zerng07" creationdate="20171227T161554Z">
         <seg>不過，為了拯救你脫離在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗中前後捲動的勞苦，可以考慮在任何自訂樣式名稱前方加個「C-」之類的前綴字，或是其他獨特的前導字亦可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, too many different indentations clutter the design, so indentations should be kept to a minimum.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065553Z" creationid="zerng07" creationdate="20180125T065537Z">
+        <seg>不過，太多種縮排會讓設計變得很雜亂，所以縮排的數量應該盡可能降到最低。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14739,6 +14747,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T081559Z" creationid="Jeff Huang" creationdate="20171213T031920Z">
         <seg>不論你如何格式設定，因為有圖形、表格與其他物件之故，你可能還是會看到頁面內容的結束處與頁面底部之間仍有數行空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No need, for example, exists to have a bulleted or numbered list indented more than the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065729Z" creationid="zerng07" creationdate="20180125T065729Z">
+        <seg>舉例來說，我們沒有必要讓項目符號清單或編號清單縮排得比&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式更多。</seg>
       </tuv>
     </tu>
     <tu>
