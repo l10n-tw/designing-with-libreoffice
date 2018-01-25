@@ -10860,6 +10860,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Headings, which are rarely more than a few words long &lt;f5&gt;and almost never more than two lines&lt;/f5&gt;, generally do not need to be hyphenated at all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040858Z" creationid="zerng07" creationdate="20180125T040858Z">
+        <seg>「標題」的話，絕大多數字都很少，&lt;f5&gt;幾乎不會超過兩行&lt;/f5&gt;，一般根本不需要用到斷字處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Helvetica</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072050Z" creationid="Jeff Huang" creationdate="20180115T072050Z">
@@ -12830,8 +12838,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many documents, only &lt;f0&gt;Text&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Body&lt;/f3&gt; and perhaps another handful of &lt;f4&gt;paragraph &lt;/f4&gt;styles are used at such length that hyphenation can improve how they fall on the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040524Z" creationid="zerng07" creationdate="20180125T040524Z">
-        <seg>在許多文件中，只有針對這類斷字處理長度修改過的「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，可以改善斷字連字在頁面中的呈現效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040725Z" creationid="zerng07" creationdate="20180125T040524Z">
+        <seg>在許多文件中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度，來改善斷字連字在頁面中的呈現效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21561,8 +21569,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Working by itself, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Maximum number of consecutive hyphens&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field can also make a difference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T035901Z" creationid="zerng07" creationdate="20180125T034812Z">
-        <seg>「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;連貫連字號的最大數目&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」欄位則另外處理，它也會影響排版效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T040532Z" creationid="zerng07" creationdate="20180125T034812Z">
+        <seg>「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;連貫連字號的最大數目&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」欄位可獨立處理，它也會影響排版效果。</seg>
       </tuv>
     </tu>
     <tu>
