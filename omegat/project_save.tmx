@@ -14735,6 +14735,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No quotation marks are used, since the indentation is enough to &lt;f2&gt;mark&lt;/f2&gt; is a quotation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064251Z" creationid="zerng07" creationdate="20180125T064251Z">
+        <seg>這時就不需要放引號，因為縮排足以&lt;f2&gt;表達&lt;/f2&gt;出這是一段引文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nor did they realize that a consistent general format can be part of corporate or personal branding.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101401Z" creationid="Franklin Weng" creationdate="20171212T100910Z">
@@ -19166,6 +19174,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The space between a bullet or number and an item in a list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064411Z" creationid="zerng07" creationdate="20180125T064351Z">
+        <seg>清單中，項目符號或編號與項目條文之間的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The standard size for body text is usually 10–&lt;f0&gt;1&lt;/f0&gt;4 points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T084600Z" creationid="Franklin Weng" creationdate="20171231T134520Z">
@@ -19927,6 +19943,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This space is set using the &lt;f0&gt;Indent &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;t&lt;/f3&gt; field on the &lt;f4&gt;Position&lt;/f4&gt; tab for a list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064835Z" creationid="zerng07" creationdate="20180125T064835Z">
+        <seg>這個間距設定位在清單樣式下，「&lt;f4&gt;位置&lt;/f4&gt;」標籤頁的「&lt;f0&gt;縮排&lt;/f0&gt;」欄位中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This structural use of templates tends to be under-emphasized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
@@ -20483,8 +20507,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Typically, such long quotations are indented one line-space on the left and &lt;t1/&gt;right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064145Z" creationid="zerng07" creationdate="20180125T064145Z">
-        <seg>一般這麼長的引文，會左邊與右邊都縮排一個行距的距離。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064157Z" creationid="zerng07" creationdate="20180125T064145Z">
+        <seg>一般這麼長的引文，左邊與右邊都會縮排一個行距的距離。</seg>
       </tuv>
     </tu>
     <tu>
