@@ -4769,6 +4769,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;You can &lt;/f1&gt;add margins and headers after you have read about page styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092311Z" creationid="zerng07" creationdate="20180125T092311Z">
+        <seg>&lt;f1&gt;你可以&lt;/f1&gt;在讀到頁面樣式的部分後，再加入邊距和頁首等樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;You can a&lt;/f1&gt;dd a table by positioning the cursor and selecting &lt;f2&gt;Insert &gt; Table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142833Z" creationid="Franklin Weng" creationdate="20180118T142833Z">
@@ -8261,6 +8269,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T122432Z" creationid="Franklin Weng" creationdate="20180101T122432Z">
         <seg>選擇基本字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing fonts</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092315Z" creationid="zerng07" creationdate="20180125T092315Z">
+        <seg>選擇字型</seg>
       </tuv>
     </tu>
     <tu>
@@ -20213,6 +20229,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
         <seg>拿範本處理文稿結構的使用方式很少人注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This template uses two fonts: One for the body of the letter, and one for information like addresses and the salutation &lt;f0&gt;–&lt;/f0&gt; &lt;f1&gt;the equivalents of headers in other documents.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092728Z" creationid="zerng07" creationdate="20180125T092728Z">
+        <seg>這個範本使用兩種字型：一個用作書信的正文，一個用於稱謂和住址等其他資訊&lt;f0&gt;——&lt;/f0&gt;&lt;f1&gt;這部分在其他種類文件中等同於頁首。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
