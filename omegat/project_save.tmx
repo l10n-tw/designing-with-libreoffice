@@ -6412,6 +6412,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All page format&lt;f0&gt;s&lt;/f0&gt; assume a single sheet of paper.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125221Z" creationid="Jeff Huang" creationdate="20180125T125221Z">
+        <seg>所有的頁面格式都假設有單張紙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All slides include three frames for footers: from left to right, date and time, optional fields, and slide number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092215Z" creationid="Franklin Weng" creationdate="20180116T092215Z">
@@ -17494,6 +17502,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143154Z" creationid="zerng07" creationdate="20171219T143154Z">
         <seg>有些編輯文件的人不知道怎麼用樣式，而且拒絕學習。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some printers may not &lt;t0/&gt;print non-standard dimensions at all from LibreOffice, but will support printing if you first &lt;f1&gt;ex&lt;/f1&gt;port the document to PDF, &lt;f2&gt;especially if they support PostScript format.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125045Z" creationid="Jeff Huang" creationdate="20180125T125045Z">
+        <seg>有一些印標機可能無法從LibreOffice列印非標準的尺寸，但如果你先將文件匯出為PDF就可能會支援，&lt;f2&gt;特別是如果它們支援PostScript格式時。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
