@@ -7961,6 +7961,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cases in which headers and footers are wider than body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065215Z" creationid="zerng07" creationdate="20180125T065215Z">
+        <seg>像頁首和頁尾這類，空間比內文還要寬的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Caslon</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071643Z" creationid="Jeff Huang" creationdate="20180115T071643Z">
@@ -8454,6 +8462,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T035328Z" creationid="Jeff Huang" creationdate="20180116T035328Z">
         <seg>對比：在頁面上以設計差異強調元素間的不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controlling the number of indents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065222Z" creationid="zerng07" creationdate="20180125T065222Z">
+        <seg>控制縮排數</seg>
       </tuv>
     </tu>
     <tu>
@@ -16950,6 +16966,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T094746Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
         <seg>小型大寫字母 (Small Caps)：專為大寫字母所做的特別設計，&lt;f0&gt;目的是&lt;/f0&gt;讓同一排兩個字以上的大寫字母文字更容易閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some &lt;f0&gt;paragraph styles that begin with an indentation are unavoidable in a text document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065449Z" creationid="zerng07" creationdate="20180125T065449Z">
+        <seg>在文字文件中，有些&lt;f0&gt;段落樣式避免不了用縮排起頭。</seg>
       </tuv>
     </tu>
     <tu>
