@@ -10510,6 +10510,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generally, the shorter the line, the harder you have to work to make &lt;f0&gt;Justified&lt;/f0&gt; look decent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025055Z" creationid="zerng07" creationdate="20180125T025055Z">
+        <seg>通常來說，行的長度越短，你就越難讓&lt;f0&gt;兩端對齊&lt;/f0&gt;的效果看起來像樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generally, you want to avoid &lt;f0&gt;detaching documents from their templates&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150557Z" creationid="Franklin Weng" creationdate="20171212T120413Z">
@@ -11507,6 +11515,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T162759Z" creationid="Franklin Weng" creationdate="20180103T132947Z">
         <seg>人文主義襯線體&lt;f0&gt;起源於&lt;/f0&gt;&lt;f1&gt;歐洲文藝復興時期，主要由義大利設計師創作——這就是為何標準字型被稱為「羅馬體」，以及手寫字型被稱為「義大利體」的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyphenation options are set on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025626Z" creationid="zerng07" creationdate="20180125T025626Z">
+        <seg>斷字處理選項放在「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16299,6 +16315,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting hyphenation</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025204Z" creationid="zerng07" creationdate="20180125T025204Z">
+        <seg>設定斷字處理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting letter&lt;f4&gt;s&lt;/f4&gt; to the same height is not the same as converting all the letters to upper case, but produces its own distortions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052513Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
@@ -17291,6 +17315,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T133743Z" creationid="Franklin Weng" creationdate="20180105T140129Z">
         <seg>這個魔術數字會是你設計其餘元素時的重要關鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that Left can be a better choice in columns or tables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025133Z" creationid="zerng07" creationdate="20180125T025133Z">
+        <seg>這代表「向左對齊」在欄中或表格中都是更好的選擇。</seg>
       </tuv>
     </tu>
     <tu>
