@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A top margin that is 76&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;230 points taller than the top margin on a normal right page&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033809Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
+        <seg>&lt;f0&gt;頁面頂部邊界會比在一般的右頁上高76&lt;/f0&gt;至&lt;f2&gt;230點。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A tree of main points, mind mapping, scribbling main points &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; all can be effective ways for different types of people to plan.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T093850Z" creationid="Franklin Weng" creationdate="20180109T093850Z">
@@ -5597,6 +5605,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A chapter title and/or number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033836Z" creationid="Jeff Huang" creationdate="20180125T033836Z">
+        <seg>章節標題和／或編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A chart &lt;f0&gt;is&lt;/f0&gt; ready to edit &lt;f1&gt;when it has a gray border.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T115109Z" creationid="Jeff Huang" creationdate="20180112T140537Z">
@@ -6522,6 +6538,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T125220Z" creationid="Franklin Weng" creationdate="20180103T131123Z">
         <seg>有個例外是Liberation系列字型，它是設計來取代Times Roman、Helvetica以及Courier……等字型的，而非為了彼此互相搭配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An image or a dingbat, either above the text or in a text frame at the start of the first paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035125Z" creationid="Jeff Huang" creationdate="20180125T035125Z">
+        <seg>在文字上方或是在第一段的開頭中的文字框架可能會有圖片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19024,6 +19048,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The titles may be in one or two styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035003Z" creationid="Jeff Huang" creationdate="20180125T035003Z">
+        <seg>標題可能會有一或兩種樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The top objects and the visible parts of objects lower in the stack disappear, leaving only the parts that overlap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084628Z" creationid="Jeff Huang" creationdate="20180122T084628Z">
@@ -20727,6 +20759,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014220Z" creationid="zerng07" creationdate="20180123T014205Z">
         <seg>技術文件通常會用額外間距；唯一的規則是兩種做法不要同時採用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, however, the indicators are more obvious:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033100Z" creationid="Jeff Huang" creationdate="20180125T033100Z">
+        <seg>不過，一般情況下，指標會更明顯：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
