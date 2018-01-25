@@ -10331,6 +10331,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>Ctrl 加 -，不知道這樣表示臺灣讀者看得懂沒有？要這邊直接解釋，還是前言要找個地方解說快捷鍵表示法？</note>
+      <tuv lang="EN">
+        <seg>For extra fine-tuning, go through a document when it is complete, and hand-hyphenate by positioning the cursor between syllables and pressing &lt;f0&gt;Ctrl+ -&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T043800Z" creationid="zerng07" creationdate="20180125T043800Z">
+        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl+ -&lt;/f0&gt;手動加入連字號。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For headings, you may prefer &lt;f0&gt;Keep with next paragraph.&lt;/f0&gt; When headings are meant to introduce the body text below them, having the heading and body text on separate pages makes &lt;f1&gt;no&lt;/f1&gt; sense.</seg>
       </tuv>
