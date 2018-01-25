@@ -5868,6 +5868,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A quotation of over three lines or &lt;f0&gt;100&lt;/f0&gt; words.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064003Z" creationid="zerng07" creationdate="20180125T064003Z">
+        <seg>超過三行或超過&lt;f0&gt;100&lt;/f0&gt;字的引文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A rectangle attached to two others with connectors.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051529Z" creationid="Jeff Huang" creationdate="20180118T131612Z">
@@ -8350,6 +8358,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035354Z" creationid="Jeff Huang" creationdate="20180125T035354Z">
         <seg>指出第一頁常用的策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Common uses for an indent include:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063902Z" creationid="zerng07" creationdate="20180125T063902Z">
+        <seg>常用縮排的地方有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19158,6 +19174,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The start of a new paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063933Z" creationid="zerng07" creationdate="20180125T063933Z">
+        <seg>開始新段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The start of the Lorem Ipsum, the popular dummy text passage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T101408Z" creationid="Franklin Weng" creationdate="20180105T115715Z">
@@ -20453,6 +20477,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T024351Z" creationid="Jeff Huang" creationdate="20180115T024351Z">
         <seg>平面與立體圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typically, such long quotations are indented one line-space on the left and &lt;t1/&gt;right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064145Z" creationid="zerng07" creationdate="20180125T064145Z">
+        <seg>一般這麼長的引文，會左邊與右邊都縮排一個行距的距離。</seg>
       </tuv>
     </tu>
     <tu>
