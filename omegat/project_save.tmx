@@ -12448,6 +12448,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you set the&lt;f0&gt; First &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ine&lt;/f3&gt; &lt;f4&gt;field&lt;/f4&gt; to &lt;f5&gt;Automatic&lt;/f5&gt;, you can largely ignore t&lt;f6&gt;abs, except for features like tables of contents that rely upon them for some features.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T084807Z" creationid="zerng07" creationdate="20180125T084807Z">
+        <seg>如果你把「&lt;f0&gt;第一行&lt;/f0&gt;&lt;f4&gt;」欄位設為「&lt;/f4&gt;&lt;f5&gt;自動&lt;/f5&gt;的話，你就能忘掉用Tab鍵縮排這件事了，&lt;f6&gt;但目錄這類有些功能會用到Tab鍵的情況除外。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you study &lt;f0&gt;different font samples&lt;/f0&gt;, you &lt;f1&gt;will&lt;/f1&gt; see how these elements differ between &lt;f2&gt;fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T113426Z" creationid="Franklin Weng" creationdate="20180101T132338Z">
@@ -14648,8 +14656,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Most people set an indent of 30&lt;f0&gt;–&lt;/f0&gt;36 points – &lt;f1&gt;no doubt a legacy of typewriters, on which setting indentations precisely was difficult.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080743Z" creationid="zerng07" creationdate="20180125T080743Z">
-        <seg>在西方字體排印做法中，多數人會將縮排設為30&lt;f0&gt;–&lt;/f0&gt;36點之間——&lt;f1&gt;這在老舊的打字機上是毋庸置疑的做法，畢竟打字機很難精準設定縮排。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T083957Z" creationid="zerng07" creationdate="20180125T080743Z">
+        <seg>許多西方人會將縮排設為30&lt;f0&gt;–&lt;/f0&gt;36點之間——&lt;f1&gt;這在老舊的打字機上是毋庸置疑的做法，畢竟打字機很難精準設定縮排。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20799,6 +20807,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072221Z" creationid="Jeff Huang" creationdate="20180115T072221Z">
         <seg>Universalist-std</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unless a font is extremely small, the first line indent usually needs to be no more &lt;f0&gt;than&lt;/f0&gt; the line spacing, and you might even manage with half a line-space, depending on the font size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T084125Z" creationid="zerng07" creationdate="20180125T084125Z">
+        <seg>除非字型極小，否則第一行縮排通常不必多於行距，根據字型大小而定，你甚至可以用半個行距就行。</seg>
       </tuv>
     </tu>
     <tu>
