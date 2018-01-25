@@ -18738,6 +18738,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first line indent is set in the &lt;f0&gt;First line&lt;/f0&gt; field of the &lt;f1&gt;Indent&lt;/f1&gt; section of the &lt;f2&gt;Indents &amp; Spacing &lt;/f2&gt;tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085031Z" creationid="zerng07" creationdate="20180125T085031Z">
+        <seg>第一行縮排的設定放在&lt;f2&gt;縮排和間距&lt;/f2&gt;標籤頁中「&lt;f1&gt;縮排&lt;/f1&gt;」的「&lt;f0&gt;第一行&lt;/f0&gt;」欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first step &lt;f0&gt;in designing a document is to choose its fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T075939Z" creationid="Franklin Weng" creationdate="20171224T072112Z">
@@ -22480,6 +22488,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T122328Z" creationid="Franklin Weng" creationdate="20180102T140856Z">
         <seg>你如果打算在北美發行的文本中用無襯線字型呈現內文當然也可以，不過這本書可能會被認為相當「前衛」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use it either by pressing the &lt;f3&gt;Tab&lt;/f3&gt; key or &lt;f4&gt;by&lt;/f4&gt; select&lt;f5&gt;ing&lt;/f5&gt; the &lt;f6&gt;Automatic&lt;/f6&gt; box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085211Z" creationid="zerng07" creationdate="20180125T085211Z">
+        <seg>你可以按&lt;f3&gt;Tab&lt;/f3&gt;鍵，或勾選「&lt;f6&gt;自動&lt;/f6&gt;」方框來使用這個功能。</seg>
       </tuv>
     </tu>
     <tu>
