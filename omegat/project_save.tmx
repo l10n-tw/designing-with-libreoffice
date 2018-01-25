@@ -783,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Layout Settings&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Page&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab set the basic formats for a page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133144Z" creationid="Jeff Huang" creationdate="20180125T133144Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;版面配置&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;位於&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;頁面&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁，可以設定頁面的基本格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Line: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;A connector with a small segment at each end for adding a change of direction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043043Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
@@ -11974,6 +11982,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, with this template, you can print from the same file to both sizes, rather than maintaining two files with the same content.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133005Z" creationid="Jeff Huang" creationdate="20180125T133005Z">
+        <seg>不過，有了這個範本，你可以從同一份檔案列印出兩種大小，而不是維護兩份相同內容的檔案。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you &lt;f0&gt;can &lt;/f0&gt;save and apply table designs in a style-like way by selecting &lt;f1&gt;Table &gt; Auto&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;ormat &gt; Add.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075146Z" creationid="zerng07" creationdate="20171224T075146Z">
@@ -17170,6 +17186,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting layout settings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133028Z" creationid="Jeff Huang" creationdate="20180125T133028Z">
+        <seg>設定版面配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting letter&lt;f4&gt;s&lt;/f4&gt; to the same height is not the same as converting all the letters to upper case, but produces its own distortions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052513Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
@@ -19780,6 +19804,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105950Z" creationid="Franklin Weng" creationdate="20171222T134219Z">
         <seg>畫面中的矩形方塊就是列在路徑中主目錄裡的子目錄。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result &lt;f0&gt;is not completely satisfactory for either size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132855Z" creationid="Jeff Huang" creationdate="20180125T132855Z">
+        <seg>結果&lt;f0&gt;會是不會讓人完全滿意的大小。</seg>
       </tuv>
     </tu>
     <tu>
