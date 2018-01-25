@@ -10877,6 +10877,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the menu, select&lt;f0&gt; Insert &gt; Fields &gt; Other &gt; Document &gt; Date.&lt;/f0&gt; Select &lt;f1&gt;a&lt;/f1&gt; format from the &lt;f2&gt;Format&lt;/f2&gt; pane, then &lt;f3&gt;click&lt;/f3&gt; the &lt;f4&gt;Insert&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T130004Z" creationid="zerng07" creationdate="20180125T130004Z">
+        <seg>從選單中，選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 日期&lt;/f0&gt;」。從「&lt;f2&gt;格式&lt;/f2&gt;」窗格中選取一種格式，接著&lt;f3&gt;點按&lt;/f3&gt;「&lt;f4&gt;插入&lt;/f4&gt;」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the pull-down menu at the far right of the icon bar, &lt;f0&gt;click&lt;/f0&gt; &lt;f1&gt;Load Styles.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141434Z" creationid="Franklin Weng" creationdate="20171223T132459Z">
@@ -12354,8 +12362,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are using any page size other than Letter, increase &lt;f0&gt;Spacing &gt; Below&lt;/f0&gt; to a multiple of 1&lt;f1&gt;8.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125702Z" creationid="zerng07" creationdate="20180125T125702Z">
-        <seg>如果你正在使用的紙張大小不是「Letter (US)」，那麼可以將「&lt;f0&gt;間距 &gt; 段落之下&lt;/f0&gt;」18作為基準</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125743Z" creationid="zerng07" creationdate="20180125T125702Z">
+        <seg>如果你正在使用的紙張大小不是「Letter (US)」，那麼可以將「&lt;f0&gt;間距 &gt; 段落之下&lt;/f0&gt;」增加到18的其他倍數。</seg>
       </tuv>
     </tu>
     <tu>
