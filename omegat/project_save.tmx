@@ -8754,6 +8754,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a user-defined page format with a width of 595 points, and &lt;f0&gt;a height 792 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132037Z" creationid="Jeff Huang" creationdate="20180125T132037Z">
+        <seg>以寬度595點，高度792點來建立使用者定義的頁面格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create an Image placeholder and call it &lt;f0&gt;Graphic&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T132217Z" creationid="Franklin Weng" creationdate="20171223T121022Z">
@@ -20173,6 +20181,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T042624Z" creationid="Franklin Weng" creationdate="20171223T042624Z">
         <seg>這些都是相當合理的假設。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the smallest &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;measurements of the two formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132139Z" creationid="Jeff Huang" creationdate="20180125T132139Z">
+        <seg>&lt;f0&gt;這些是兩個格式中&lt;/f0&gt;&lt;f2&gt;的短邊結合而成。</seg>
       </tuv>
     </tu>
     <tu>
