@@ -6604,6 +6604,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of why indents should be as few as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075347Z" creationid="zerng07" creationdate="20180125T075347Z">
+        <seg>展示為何要盡量減少縮排的範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exception is the Liberation fonts, which are designed as replacements for Times Roman, Helvetica, and Courier, rather than for compatibility with each other.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T125220Z" creationid="Franklin Weng" creationdate="20180103T131123Z">
@@ -17321,6 +17329,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T083800Z" creationid="zerng07" creationdate="20180123T034719Z">
         <seg>在標準的字體排印學做法中，會試圖避免一頁中底部只有一行，稱為「孤兒」(Orphan)，以及避免一頁中頂端只有一行，稱為「寡婦」(Widow)。在LibreOffice中，前者稱為「分頁前孤行」，後者稱為「分頁後寡行」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting at the left margin, the top passage has five indentations, and looks cluttered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075423Z" creationid="zerng07" creationdate="20180125T075423Z">
+        <seg>文字從左邊距開始，the top passage has five indentations, and looks cluttered.</seg>
       </tuv>
     </tu>
     <tu>
