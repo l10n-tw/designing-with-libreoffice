@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;These settings are over-ridden by any formatting in the document itself.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042205Z" creationid="zerng07" creationdate="20180125T042205Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;這邊的設定值都會被文件自身的任何格式設定凌駕覆蓋。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;All measurements are in points&lt;f2&gt; and can be used for setting other sizes and spacing&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150626Z" creationid="Franklin Weng" creationdate="20180106T023349Z">
@@ -17803,6 +17811,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T095611Z" creationid="Franklin Weng" creationdate="20180116T095611Z">
         <seg>在「&lt;f0&gt;簡報樣式&lt;/f0&gt;」中選擇題名樣式，並設定投影片中的圓點位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Scale&lt;/f0&gt; &lt;f1&gt;width&lt;/f1&gt; and &lt;f2&gt;Spacing&lt;/f2&gt; fields on the &lt;f3&gt;Position&lt;/f3&gt; tab to expand or condense character spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042422Z" creationid="zerng07" creationdate="20180125T042422Z">
+        <seg>改字元樣式下「&lt;f3&gt;位置&lt;/f3&gt;」標籤頁中的「&lt;f0&gt;縮放&lt;/f0&gt;&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;間距&lt;/f2&gt;」欄位，展開或壓縮字元間距。</seg>
       </tuv>
     </tu>
     <tu>
