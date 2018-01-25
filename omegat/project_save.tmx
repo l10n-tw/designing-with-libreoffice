@@ -7582,6 +7582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides, you might eventually decide to modify it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131345Z" creationid="zerng07" creationdate="20180125T131336Z">
+        <seg>甚至，你或許將來有天想要修改也不一定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bibliography: In a formal or academic presentation, you may want to show your sources and comment on them briefly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T055817Z" creationid="Franklin Weng" creationdate="20180114T055817Z">
@@ -11742,6 +11750,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, it is worth creating so you remember what style to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131307Z" creationid="zerng07" creationdate="20180125T131307Z">
+        <seg>不過，製作這個樣式還是很值得，之後就能對應使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, it needs a &lt;f1&gt;First line indent&lt;/f1&gt; setting on the &lt;f2&gt;Indents &amp; Spacing&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134439Z" creationid="zerng07" creationdate="20180125T134439Z">
+        <seg>不過，它還需要設定「&lt;f2&gt;縮排和間距&lt;/f2&gt;」標籤頁的「&lt;f1&gt;第一行&lt;/f1&gt;」縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, like any manual formatting, the more you add, the harder the document is to maintain.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T082418Z" creationid="Jeff Huang" creationdate="20171213T032932Z">
@@ -15321,8 +15345,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Now, every time you select the &lt;f5&gt;Date&lt;/f5&gt; style, the current date will be automatically added.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T130027Z" creationid="zerng07" creationdate="20180125T130027Z">
-        <seg>現在，Now, every time you select the &lt;f5&gt;Date&lt;/f5&gt; style, the current date will be automatically added.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131118Z" creationid="zerng07" creationdate="20180125T130027Z">
+        <seg>現在，每次你只要選取「&lt;f5&gt;日期&lt;/f5&gt;」樣式，就會自動採用當時的日期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18399,6 +18423,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Address&lt;/f0&gt; style is unmodified from the &lt;f1&gt;Header&lt;/f1&gt; style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131202Z" creationid="zerng07" creationdate="20180125T130403Z">
+        <seg>「&lt;f0&gt;地址&lt;/f0&gt;」樣式則延續「&lt;f1&gt;頁首&lt;/f1&gt;」樣式不必修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab, with the &lt;f1&gt;Options&lt;/f1&gt; at the top of the &lt;f2&gt;window&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T101727Z" creationid="zerng07" creationdate="20180123T101719Z">
@@ -18605,6 +18637,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074313Z" creationid="zerng07" creationdate="20171225T073730Z">
         <seg>&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗在開啟時，會自動在檢視畫面中標明游標所在位置的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Text Body &lt;/f0&gt;style is already created.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134318Z" creationid="zerng07" creationdate="20180125T134318Z">
+        <seg>而「&lt;f0&gt;內文&lt;/f0&gt;」樣式已經做好了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19637,6 +19677,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next style is the &lt;f0&gt;Salutation.&lt;/f0&gt; On the &lt;f1&gt;Indents &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Spacing tab,&lt;/f4&gt; set &lt;f5&gt;Spacing &gt; Above &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Paragraph&lt;/f7&gt;&lt;/f6&gt; to 3&lt;f8&gt;6&lt;/f8&gt; points (2 lines), and &lt;f9&gt;Spacing &gt; Below &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;paragraph&lt;/f11&gt;&lt;/f10&gt; to 1&lt;f12&gt;8&lt;/f12&gt; (1 line).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134130Z" creationid="zerng07" creationdate="20180125T134130Z">
+        <seg>下一個樣式是「&lt;f0&gt;稱謂&lt;/f0&gt;」。在「&lt;f1&gt;縮排和間距&lt;/f1&gt;標籤頁中，將「&lt;f5&gt;間距 &gt; 段落之上&lt;/f5&gt;設定為36 pt（兩倍行距）；以及「&lt;f9&gt;間距 &gt; 段落之下」&lt;/f9&gt;設定為18 pt（一倍行距）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The next two chapters discuss &lt;f0&gt;special features&lt;/f0&gt; and potential problems and advanced features&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T081039Z" creationid="zerng07" creationdate="20180121T081039Z">
@@ -20213,6 +20261,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T173751Z" creationid="zerng07" creationdate="20170824T173751Z">
         <seg>接著又到了下個你想要採用&lt;f0&gt;相同&lt;/f0&gt;格式設定的地方，一樣你又把相同的設定一步一步再做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, on the &lt;f13&gt;Organizer&lt;/f13&gt; tab, set &lt;f14&gt;the &lt;/f14&gt;&lt;f15&gt;Next Style &lt;/f15&gt;&lt;f16&gt;field&lt;/f16&gt; to &lt;f17&gt;Text Body.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134246Z" creationid="zerng07" creationdate="20180125T134246Z">
+        <seg>接著，在「&lt;f13&gt;統籌概覽&lt;/f13&gt;」標籤頁中，將「&lt;f15&gt;下一個樣式&lt;/f15&gt;&lt;f16&gt;」欄位改為「&lt;/f16&gt;&lt;f17&gt;內文&lt;/f17&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
