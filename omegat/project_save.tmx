@@ -8788,8 +8788,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Controlling the number of indents</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065543Z" creationid="zerng07" creationdate="20180125T065222Z">
-        <seg>控制縮排量</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004614Z" creationid="zerng07" creationdate="20180125T065222Z">
+        <seg>控制縮排數量</seg>
       </tuv>
     </tu>
     <tu>
@@ -13912,8 +13912,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, the indentation for a long quotation can be the same as the first line indentation, as well as the position where the text starts in a list item after a bullet or number.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T070457Z" creationid="zerng07" creationdate="20180125T070424Z">
-        <seg>清單中的長引文縮排可以和第一行縮排一樣，只要文字是從項目符號或編號後方的項目條文位置開頭即可。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004730Z" creationid="zerng07" creationdate="20180125T070424Z">
+        <seg>清單中的長篇引文縮排可以和第一行縮排一樣，只要文字有從項目符號或編號後方的項目條文位置開頭即可。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15369,8 +15369,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>No need, for example, exists to have a bulleted or numbered list indented more than the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065729Z" creationid="zerng07" creationdate="20180125T065729Z">
-        <seg>舉例來說，我們沒有必要讓項目符號清單或編號清單縮排得比&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式更多。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004647Z" creationid="zerng07" creationdate="20180125T065729Z">
+        <seg>舉例來說，我們沒有必要讓項目符號清單或編號清單縮排得比&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;樣式更進去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16296,8 +16296,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Paragraph styles intended for &lt;f0&gt;single style &lt;/f0&gt;outline numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065034Z" creationid="zerng07" creationdate="20180125T065034Z">
-        <seg>意圖給&lt;f0&gt;單一樣式&lt;/f0&gt;大綱編號使用的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004552Z" creationid="zerng07" creationdate="20180125T065034Z">
+        <seg>&lt;f0&gt;單一樣式&lt;/f0&gt;大綱編號使用的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17757,8 +17757,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some &lt;f0&gt;paragraph styles that begin with an indentation are unavoidable in a text document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065449Z" creationid="zerng07" creationdate="20180125T065449Z">
-        <seg>在文字文件中，有些&lt;f0&gt;段落樣式避免不了用縮排起頭。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004626Z" creationid="zerng07" creationdate="20180125T065449Z">
+        <seg>在文字文件中，有些&lt;f0&gt;段落樣式無法避免用縮排起頭。</seg>
       </tuv>
     </tu>
     <tu>
