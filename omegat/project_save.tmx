@@ -5673,11 +5673,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>間距這部份好像沒有了，設定中沒看到。</note>
       <tuv lang="EN">
         <seg>&lt;f6&gt;T&lt;/f6&gt;he &lt;f7&gt;Customize&lt;/f7&gt; tab allows adjustment of spacing or the &lt;f8&gt;selection &lt;/f8&gt;of custom bullets and numbers or larger-sized ones for special circumstances.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T024153Z">
-        <seg>「&lt;f7&gt;自訂&lt;/f7&gt;」標籤頁用在特別狀況下，可以讓你&lt;f8&gt;選擇&lt;/f8&gt;使用的項目符號與編號，相對大小與間距等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T130450Z" creationid="Franklin Weng" creationdate="20180118T024153Z">
+        <seg>「&lt;f7&gt;自訂&lt;/f7&gt;」標籤頁則用於特殊情況，讓你可以&lt;f8&gt;選擇&lt;/f8&gt;想用的項目符號、編號，相對大小等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19317,8 +19318,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The Outline styles in Impress default to bullet lists.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T121316Z" creationid="Franklin Weng" creationdate="20180117T121316Z">
-        <seg>Impress 中的大綱樣式預設使用的是圓點項目清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T125513Z" creationid="Franklin Weng" creationdate="20180117T121316Z">
+        <seg>Impress中的大綱樣式預設使用的是項目符號清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23566,8 +23567,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can customize them using the &lt;f0&gt;Bullets&lt;/f0&gt;,&lt;f1&gt; Numbering Type&lt;/f1&gt;, &lt;f2&gt;Image&lt;/f2&gt;, and &lt;f3&gt;Customize&lt;/f3&gt; tabs, but, as with list styles &lt;f4&gt;in Writer&lt;/f4&gt;, avoid the retro-styled &lt;f5&gt;Image&lt;/f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T023912Z">
-        <seg>你可以在編輯樣式的視窗中，用「&lt;f0&gt;項目符號&lt;/f0&gt;」、「&lt;f1&gt;編號&lt;/f1&gt;」、「&lt;f2&gt;影像&lt;/f2&gt;」與「&lt;f3&gt;自訂&lt;/f3&gt;」等標籤頁來修改。但是就跟在 &lt;f4&gt;Writer&lt;/f4&gt; 裡的清單樣式一樣，盡量避免使用老式的「&lt;f5&gt;影像&lt;/f5&gt;」樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T130224Z" creationid="Franklin Weng" creationdate="20180118T023912Z">
+        <seg>你可以在修改樣式的視窗中，用「&lt;f0&gt;項目符號&lt;/f0&gt;」、「&lt;f1&gt;編號&lt;/f1&gt;」、「&lt;f2&gt;影像&lt;/f2&gt;」和「&lt;f3&gt;自訂&lt;/f3&gt;」等標籤頁來自訂你要的效果。但就跟在&lt;f4&gt;Writer&lt;/f4&gt;中我們給的清單樣式建議一樣，請盡量避免使用復古的「&lt;f5&gt;影像&lt;/f5&gt;」樣式歷史遺蹟。</seg>
       </tuv>
     </tu>
     <tu>
