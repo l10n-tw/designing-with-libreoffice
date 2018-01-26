@@ -17281,11 +17281,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>LibreOffice現在沒有什麼給你選擇內容結構的獨立資料夾了，而且範本管理員的畫面就落在「簡報」的篩選狀態下。</note>
       <tuv lang="EN">
         <seg>Select a presentation structure from &lt;f0&gt;File &gt; New &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; LibreOffice has a separate folder in the &lt;f4&gt;T&lt;/f4&gt;emplate &lt;f5&gt;Manager&lt;/f5&gt; for structures, marked simply &lt;f6&gt;Presentations.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135533Z" creationid="Franklin Weng" creationdate="20180114T135150Z">
-        <seg>也可以在「&lt;f0&gt;檔案 &gt; 新增 &gt; 範本&lt;/f0&gt;」中選取一個符合你需要的簡報結構的範本。在 LibreOffice 中的「範本」視窗中，可以透過「篩選器」選取「&lt;f6&gt;簡報&lt;/f6&gt;」，裡面就有許多種不同結構的簡報範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T091539Z" creationid="Franklin Weng" creationdate="20180114T135150Z">
+        <seg>也可以在「&lt;f0&gt;檔案 &gt; 新增 &gt; 範本&lt;/f0&gt;」中選擇你要的簡報背景範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23897,8 +23898,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You might find one in the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Presentations Backgrounds&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; folder of the Template Manager, or else create one&lt;/f5&gt; using Draw or a third-party application like &lt;f6&gt;GIMP&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T091046Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
-        <seg>你可以直接從範本管理員中選擇你喜歡的背景，或者&lt;/f2&gt;用Draw或其他像&lt;f6&gt;GIMP&lt;/f6&gt;之類的美術設計軟體做出想用的背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T091132Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
+        <seg>你可以&lt;/f2&gt;用Draw或其他像&lt;f6&gt;GIMP&lt;/f6&gt;之類的美術設計軟體做出想用的背景。</seg>
       </tuv>
     </tu>
     <tu>
