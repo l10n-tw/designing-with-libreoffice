@@ -5546,6 +5546,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;You could also start from the inner margin, but the result is often a narrow margin that may binding reduces even more&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T033942Z" creationid="Jeff Huang" creationdate="20180126T033942Z">
+        <seg>&lt;f4&gt;你也可以從內邊距開始，但結果通常會是一個更窄的邊距。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;You will need to be careful that you don't use font sizes that are too small, but m&lt;/f4&gt;any alternative presentation apps use PDF slides, and the audience &lt;f5&gt;probably never notices.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T131356Z" creationid="Franklin Weng" creationdate="20180109T090932Z">
@@ -21125,6 +21133,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T104043Z" creationid="zerng07" creationdate="20180125T103910Z">
         <seg>這個問題可能發生在任何預先存在的樣式上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ratio means that, using a basic unit of 20 points, the inner margin would be 40 points, the top 60 points, the outer 80 points, and the bottom 120 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T034114Z" creationid="Jeff Huang" creationdate="20180126T034114Z">
+        <seg>這比例也代表了，若使用20點作為基本單位，內邊距會是40點，上邊距會是60點，外邊距是80點，而上邊距則為120點。</seg>
       </tuv>
     </tu>
     <tu>
