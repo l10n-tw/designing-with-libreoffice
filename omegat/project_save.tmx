@@ -601,8 +601,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;You can make Impress default to using the wizard by clicking&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;T&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;ools &gt; Options &gt; General&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;New Document &gt; Start with wizard&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; check box.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125401Z" creationid="Franklin Weng" creationdate="20180107T125041Z">
-        <seg>&lt;f3&gt;你可以預設讓 Impress 啟動時選擇範本，在「&lt;/f3&gt;&lt;f8&gt;&lt;f9&gt;工具 &gt; 選項 &gt; LibreOffice Impress &gt; 一般&lt;/f9&gt;&lt;/f8&gt;」中，把「&lt;f11&gt;&lt;f12&gt;新增文件 &gt; 從範本選取開始&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;」打勾即可。&lt;/f13&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T044245Z" creationid="Franklin Weng" creationdate="20180107T125041Z">
+        <seg>&lt;f3&gt;你也可以讓 Impress 啟動時不要使用範本，在「&lt;/f3&gt;&lt;f8&gt;&lt;f9&gt;工具 &gt; 選項 &gt; LibreOffice Impress &gt; 一般&lt;/f9&gt;&lt;/f8&gt;」中，把「&lt;f11&gt;&lt;f12&gt;新增文件 &gt; 從範本選取開始&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;」的勾取消即可。&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,8 +2384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In early releases, OpenOffice.org used to start Impress with a wizard that made clear the design is both format and structure.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T043434Z" creationid="Franklin Weng" creationdate="20180107T122556Z">
-        <seg>&lt;f0&gt;在早期的發行版中，OpenOffice.org在啟動Impress時會開啟一個精靈，能清楚讓你瞭解設計包含格式和結構兩個部分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T044004Z" creationid="Franklin Weng" creationdate="20180107T122556Z">
+        <seg>&lt;f0&gt;在早期的發行版中，OpenOffice.org在啟動Impress時會用簡報精靈引導你設計，你能清楚瞭解到設計包含格式和結構兩個部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16817,8 +16817,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Recent releases of LibreOffice no longer follow that practice, but you might still consider starting your building of a presentation by running &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Wizards &gt; Presentation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T043915Z" creationid="Franklin Weng" creationdate="20180107T125031Z">
-        <seg>但最近的LibreOffice版本中不再以精靈啟動，而是改為範本。如果要&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T044051Z" creationid="Franklin Weng" creationdate="20180107T125031Z">
+        <seg>但最近的LibreOffice版本中不再以精靈啟動，而是改用範本。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
