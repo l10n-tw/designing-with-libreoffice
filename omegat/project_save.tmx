@@ -1522,6 +1522,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Considering &lt;/f0&gt;binding and trimming</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T122513Z" creationid="Jeff Huang" creationdate="20180126T122513Z">
+        <seg>&lt;f0&gt;考慮&lt;/f0&gt;裝訂與鑲邊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Intersect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T061718Z" creationid="Jeff Huang" creationdate="20180122T084245Z">
