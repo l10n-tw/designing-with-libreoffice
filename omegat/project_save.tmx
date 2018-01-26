@@ -2384,8 +2384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In early releases, OpenOffice.org used to start Impress with a wizard that made clear the design is both format and structure.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T122556Z" creationid="Franklin Weng" creationdate="20180107T122556Z">
-        <seg>&lt;f0&gt;在早期的版本中，OpenOffice.org 在啟動 Impress 時會開啟一個精靈，清楚地讓你瞭解設計包括格式與結構。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T043434Z" creationid="Franklin Weng" creationdate="20180107T122556Z">
+        <seg>&lt;f0&gt;在早期的發行版中，OpenOffice.org在啟動Impress時會開啟一個精靈，能清楚讓你瞭解設計包含格式和結構兩個部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9340,8 +9340,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Designing a presentation</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T122215Z" creationid="Franklin Weng" creationdate="20180107T064343Z">
-        <seg>設計投影片</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T043329Z" creationid="Franklin Weng" creationdate="20180107T064343Z">
+        <seg>設計簡報</seg>
       </tuv>
     </tu>
     <tu>
@@ -16817,8 +16817,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Recent releases of LibreOffice no longer follow that practice, but you might still consider starting your building of a presentation by running &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Wizards &gt; Presentation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T125054Z" creationid="Franklin Weng" creationdate="20180107T125031Z">
-        <seg>而最近版本的 LibreOffice 則不再以精靈啟動，而改用範本。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T043915Z" creationid="Franklin Weng" creationdate="20180107T125031Z">
+        <seg>但最近的LibreOffice版本中不再以精靈啟動，而是改為範本。如果要&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
