@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122323Z" creationid="Franklin Weng" creationdate="20180126T122323Z">
+        <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;/f9&gt;Use the file manager to select the file for the background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095428Z" creationid="Franklin Weng" creationdate="20180114T140955Z">
@@ -448,8 +456,8 @@
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;f11&gt;The only reason to use any of them is to provide a sample of why they are unacceptable.&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003703Z" creationid="zerng07" creationdate="20180123T130722Z">
-        <seg>&lt;/f10&gt;&lt;f11&gt;唯一採用這些做法的理由，就是不得以要提供範例給大家看看，為什麼這些做法不能接受。&lt;/f11&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122317Z" creationid="zerng07" creationdate="20180123T130722Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;唯一採用這些做法的理由，就是不得已要提供範例給大家看看，為什麼這些做法不能接受。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +496,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;These settings are over-ridden by any formatting in the document itself.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T042205Z" creationid="zerng07" creationdate="20180125T042205Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;這邊的設定值都會被文件自身的任何格式設定凌駕覆蓋。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T123134Z" creationid="zerng07" creationdate="20180125T042205Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;這邊的設定值都會被文件自身的任何格式設定給覆蓋掉。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,8 +2704,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Minimize&lt;/f0&gt; this problem by using only the &lt;f1&gt;Before &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Paragraph&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;field and leaving the &lt;f5&gt;After &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Paragraph&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;field set to zero &lt;f9&gt;for most paragraph styles.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T091302Z" creationid="zerng07" creationdate="20180123T033529Z">
-        <seg>&lt;f0&gt;避免&lt;/f0&gt;此問題的辦法，就是讓大多數的段落樣式只使用「&lt;f2&gt;&lt;f3&gt;段落&lt;/f3&gt;&lt;/f2&gt;&lt;f1&gt;之上&lt;/f1&gt;」欄位，留著「&lt;f5&gt;段落之下&lt;/f5&gt;」欄位為零&lt;f9&gt;。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T120222Z" creationid="zerng07" creationdate="20180123T033529Z">
+        <seg>&lt;f0&gt;避免&lt;/f0&gt;此問題的辦法，就是讓大多數的段落樣式只使用「&lt;f2&gt;&lt;f3&gt;段落&lt;/f3&gt;&lt;/f2&gt;&lt;f1&gt;之上&lt;/f1&gt;」欄位，把「&lt;f5&gt;段落之下&lt;/f5&gt;」欄位設為零&lt;f9&gt;。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5027,8 +5035,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;As a rule, lines of less than 40 characters are too much effort to be worth justifying.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115111Z" creationid="zerng07" creationdate="20180123T115111Z">
-        <seg>&lt;f2&gt;所以，作為規則，一行英文如果少於40個字元，那麼就不值得你花一堆心力去調整兩端對齊造成的字間空白。（但經過測試，5.4似乎有調整過，少於40個字元時就算按兩端對齊，還是會以向左對齊優先。所以不存在這個問題了～）</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122137Z" creationid="zerng07" creationdate="20180123T115111Z">
+        <seg>&lt;f2&gt;所以，作為規則，一行英文如果少於40個字元，那麼就不值得你花一堆心力去調整兩端對齊造成的字間空白。（譯者註：經過測試，LibreOffice 5.4 以後的版本，少於40個字元時就算按兩端對齊，還是會以向左對齊優先。所以不存在這個問題了。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10935,8 +10943,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For extra fine-tuning, go through a document when it is complete, and hand-hyphenate by positioning the cursor between syllables and pressing &lt;f0&gt;Ctrl+ -&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004249Z" creationid="zerng07" creationdate="20180125T043800Z">
-        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl加 -&lt;/f0&gt;鍵手動加入連字號。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T123316Z" creationid="zerng07" creationdate="20180125T043800Z">
+        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl 然後按 -&lt;/f0&gt;鍵手動加入連字號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13663,8 +13671,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many documents, only &lt;f0&gt;Text&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Body&lt;/f3&gt; and perhaps another handful of &lt;f4&gt;paragraph &lt;/f4&gt;styles are used at such length that hyphenation can improve how they fall on the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004018Z" creationid="zerng07" creationdate="20180125T040524Z">
-        <seg>在許多文本中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度，來改善連字號在頁面中的呈現效果。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122847Z" creationid="zerng07" creationdate="20180125T040524Z">
+        <seg>在許多文件中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度，來改善連字號在頁面中的呈現效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22639,8 +22647,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When a paragraph has a Left alignment, all lines start at the same position on the left, but &lt;f0&gt;can end anywhere&lt;/f0&gt; on the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003753Z" creationid="zerng07" creationdate="20180125T024430Z">
-        <seg>當段落左對齊時，所有的行都會從左側相同位置起頭，但是&lt;f0&gt;在右邊任意處結尾&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122615Z" creationid="zerng07" creationdate="20180125T024430Z">
+        <seg>當段落左對齊時，所有的行都會從左側相同位置起頭，而&lt;f0&gt;右邊結尾則可能會在任何地方&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
