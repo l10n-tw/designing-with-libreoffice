@@ -937,8 +937,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A top margin that is 76&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;230 points taller than the top margin on a normal right page&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033809Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
-        <seg>&lt;f0&gt;頁面頂部邊界會比在一般的右頁上高76&lt;/f0&gt;至&lt;f2&gt;230點。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
+        <seg>&lt;f0&gt;頁面頂部邊距會比在一般的右頁上高76&lt;/f0&gt;至&lt;f2&gt;230點。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,8 +2336,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In a mirrored layout, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inner&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; margin will be on the right side of left pages, but the left side of right pages.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T135102Z" creationid="Jeff Huang" creationdate="20180125T135102Z">
-        <seg>&lt;f0&gt;在鏡射的版面配置中，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內部&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;邊界將會在左頁的右方，以及右頁的左方。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T135102Z">
+        <seg>&lt;f0&gt;在鏡射的版面配置中，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內部&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;邊距將會在左頁的右方，以及右頁的左方。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3233,8 +3233,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Setting m&lt;/f0&gt;argins</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030847Z" creationid="Jeff Huang" creationdate="20180126T030847Z">
-        <seg>&lt;f0&gt;設定&lt;/f0&gt;邊界</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180126T030847Z">
+        <seg>&lt;f0&gt;設定&lt;/f0&gt;邊距</seg>
       </tuv>
     </tu>
     <tu>
@@ -3484,6 +3484,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T095009Z" creationid="Franklin Weng" creationdate="20180109T095009Z">
         <seg>這樣做很沒效率，因為這表示你在發想的時候同時做投影片的結構，一心二用的結果把&lt;f2&gt;這兩個&lt;/f2&gt;應該要全付心力處理的事給分散掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;o let readers hold hard copy without hiding some of the text with their fingers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031343Z" creationid="Jeff Huang" creationdate="20180126T031343Z">
+        <seg>讓持有紙本的讀者不會因為手指遮住部份內容而無法閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4182,8 +4190,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Mirrored,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; the margin fields on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Page&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab also change from &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Left&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Right&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; to &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Inner&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; and &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Outer, &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;with the &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Inner&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; margin the one closest to the center of a two-page spread.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T135514Z" creationid="Jeff Huang" creationdate="20180125T134332Z">
-        <seg>&lt;f0&gt;當你選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;左右頁相反時，&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;頁面&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤頁中的邊界欄會從&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;左頁&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;與&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;右頁&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;變更為&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;內部&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;與&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;外部，&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;且&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;內部&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;邊界較接近兩頁版面的中心。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T134332Z">
+        <seg>&lt;f0&gt;當你選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;左右頁相反時，&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;頁面&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤頁中的邊距欄會從&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;左頁&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;與&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;右頁&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;變更為&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;內部&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;與&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;外部，&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;且&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;內部&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;邊距較接近兩頁版面的中心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6528,6 +6536,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T100053Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
         <seg>所有漸層都是由從&lt;f0&gt;漸層起點&lt;/f0&gt;開始並結束於&lt;f1&gt;漸層終點&lt;/f1&gt;。&lt;f5&gt;漸層也可以有&lt;/f5&gt;邊框，目前的顏色會消失，也可以有角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All margins &lt;/f3&gt;have three purposes:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031252Z" creationid="Jeff Huang" creationdate="20180126T031252Z">
+        <seg>所有的邊距&lt;/f3&gt;都有三種用途：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9092,16 +9108,16 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Decide on the left and right (or inner and outer) margins as though designing for the A4 format, the narrower of the two formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132402Z" creationid="Jeff Huang" creationdate="20180125T132402Z">
-        <seg>以A4格式來決定左右（或是內部與外部）邊界，因為其為兩種格式中較窄的一個。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T132402Z">
+        <seg>以A4格式來決定左右（或是內部與外部）邊距，因為其為兩種格式中較窄的一個。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Decide on the top and bottom margins as though designing for Letter format, the smaller in height of the two formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T132802Z" creationid="Jeff Huang" creationdate="20180125T132802Z">
-        <seg>以Letter格式來決定頂部與底部邊界，因為其為兩種格式中較短的一種。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T132802Z">
+        <seg>以Letter格式來決定頂部與底部邊距，因為其為兩種格式中較短的一種。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13286,8 +13302,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In a traditional hard copy book, the inner margin may have extra space so that the book can be bound.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T134522Z" creationid="Jeff Huang" creationdate="20180125T134522Z">
-        <seg>在傳統紙本書中，內部邊界可能會額外的空間來讓書籍可以裝訂。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031214Z" creationid="Jeff Huang" creationdate="20180125T134522Z">
+        <seg>在傳統紙本書中，內部邊距可能會有額外的空間來讓書籍可以裝訂。</seg>
       </tuv>
     </tu>
     <tu>
