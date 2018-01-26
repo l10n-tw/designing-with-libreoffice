@@ -8113,8 +8113,8 @@
       <tuv lang="EN">
         <seg>By default, paragraphs run from the left margin to the right margin – or, &lt;f0&gt;at least&lt;/f0&gt;, to a &lt;f1&gt;region&lt;/f1&gt; just before the &lt;f2&gt;right &lt;/f2&gt;margin that LibreOffice must reach before starting a new line, &lt;f3&gt;with or without hyphenation.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075446Z" creationid="zerng07" creationdate="20180125T063536Z">
-        <seg>預設情況下，段落的文字都是從左邊距開始流動到右邊距——或是，&lt;f0&gt;至少&lt;/f0&gt;到&lt;f2&gt;右&lt;/f2&gt;邊距前面一小段&lt;f1&gt;區域&lt;/f1&gt;，LibreOffice才會讓後續文字換到新的一行&lt;f3&gt;，無論有沒有斷字處理。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004349Z" creationid="zerng07" creationdate="20180125T063536Z">
+        <seg>預設情況下，無論有沒有斷字處理，段落的文字都是從左邊距開始流動到右邊距——或是，&lt;f0&gt;至少&lt;/f0&gt;流到&lt;f2&gt;右&lt;/f2&gt;邊距前面一小段&lt;f1&gt;區域&lt;/f1&gt;，LibreOffice才會讓後續文字換到新的一行去&lt;f3&gt;。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8692,8 +8692,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Common uses for an indent include:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063902Z" creationid="zerng07" creationdate="20180125T063902Z">
-        <seg>常用縮排的地方有：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004403Z" creationid="zerng07" creationdate="20180125T063902Z">
+        <seg>縮排常用的地方有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10791,8 +10791,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For extra fine-tuning, go through a document when it is complete, and hand-hyphenate by positioning the cursor between syllables and pressing &lt;f0&gt;Ctrl+ -&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T043800Z" creationid="zerng07" creationdate="20180125T043800Z">
-        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl+ -&lt;/f0&gt;手動加入連字號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004249Z" creationid="zerng07" creationdate="20180125T043800Z">
+        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl加 -&lt;/f0&gt;鍵手動加入連字號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20194,8 +20194,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The start of a new paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063933Z" creationid="zerng07" creationdate="20180125T063933Z">
-        <seg>開始新段落。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004410Z" creationid="zerng07" creationdate="20180125T063933Z">
+        <seg>開啟新段落。</seg>
       </tuv>
     </tu>
     <tu>
