@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;/f9&gt;Use the file manager to select the file for the background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095109Z" creationid="Franklin Weng" creationdate="20180114T140955Z">
-        <seg>透過檔案選取對話窗選擇你想要做為背景的影像檔案，5.4 [點按「開啟」按鈕將這張影像設為背景。] / 6.0 [為它設定個名稱後，就能在左方「點陣圖」窗格中選取這張影像，按下「確定」按鈕後作為背景。]</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095428Z" creationid="Franklin Weng" creationdate="20180114T140955Z">
+        <seg>透過檔案選取對話窗選擇你想要做為背景的影像檔案，5.4或6.0 [點按「開啟」按鈕將這張影像設為背景。] / 6.0新增 [為它設定個名稱後，就能在左方「點陣圖」窗格中選取這張影像，按下「確定」按鈕後作為背景。]</seg>
       </tuv>
     </tu>
     <tu>
@@ -16962,8 +16962,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Right-click anywhere on the &lt;f0&gt;master &lt;/f0&gt;slide and select &lt;f1&gt;Set Background &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Image&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; for Slide &lt;/f4&gt;&lt;f5&gt;or the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Available for Use&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; pane in the sidebar&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095344Z" creationid="Franklin Weng" creationdate="20180114T140941Z">
-        <seg>你可以到側邊欄中的「投影片母片」選項，直接選擇「可使用」項目下的背景。 5.4 [你也可以在投影片母片上任意處點按右鍵，選取「設定背景影像」；] 5.4或6.0 [或是從選單中的「投影片 &gt; 設定背景影像」；]  6.0 [你也可以在投影片母片上任意處點按右鍵，選取「屬性」，切換到「背景」標籤頁中，選擇「點陣圖」按鈕，在左方點陣圖窗格最下方點按「加入/匯入」；]</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095435Z" creationid="Franklin Weng" creationdate="20180114T140941Z">
+        <seg>你可以到側邊欄中的「投影片母片」選項，直接選擇「可使用」項目下的背景。 5.4 [你也可以在投影片母片上任意處點按右鍵，選取「設定背景影像」；] / 5.4或6.0 [或是從選單中的「投影片 &gt; 設定背景影像」；]   / 6.0新增[你也可以在投影片母片上任意處點按右鍵，選取「屬性」，切換到「背景」標籤頁中，選擇「點陣圖」按鈕，在左方點陣圖窗格最下方點按「加入/匯入」；]</seg>
       </tuv>
     </tu>
     <tu>
@@ -22617,8 +22617,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When finished, click &lt;f1&gt;Close Master View&lt;/f1&gt; in the floating window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T141330Z" creationid="Franklin Weng" creationdate="20180114T141330Z">
-        <seg>都搞定之後，點按母片工具列上的「&lt;f1&gt;關閉母片檢視&lt;/f1&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095529Z" creationid="Franklin Weng" creationdate="20180114T141330Z">
+        <seg>完成之後，點按母片工具列上的「&lt;f1&gt;關閉母片檢視&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
