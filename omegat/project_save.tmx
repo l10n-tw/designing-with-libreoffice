@@ -5081,6 +5081,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Consult your publisher and printer as necessary.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130536Z" creationid="Jeff Huang" creationdate="20180126T130536Z">
+        <seg>&lt;f2&gt;必要時請諮詢你的出版商與印刷業者。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Currently, Template Changer extension is available, but it has not had a release for some time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151533Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
@@ -9298,6 +9306,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on &lt;f0&gt;the printer used&lt;/f0&gt;, you may also need extra space on the &lt;f1&gt;other&lt;/f1&gt; margins for trimming.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130430Z" creationid="Jeff Huang" creationdate="20180126T130430Z">
+        <seg>取決於&lt;f0&gt;你所使用的印表機&lt;/f0&gt;，你可能在&lt;f1&gt;其他&lt;/f1&gt;邊距也需要額外的空間供裁剪使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on your selection, a curve can b&lt;f1&gt;e&lt;/f1&gt; open, or filled with a color.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051607Z" creationid="Jeff Huang" creationdate="20180118T132153Z">
@@ -9446,6 +9462,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094828Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
         <seg>設計填充格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Designing headers and footers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130559Z" creationid="Jeff Huang" creationdate="20180126T130559Z">
+        <seg>設計頁首與頁尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -10812,6 +10836,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a spiral bound book can use spiral coils of different sizes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T124749Z" creationid="Jeff Huang" creationdate="20180126T124749Z">
+        <seg>舉例來說，線圈裝訂的書可能會使用不同大小的線圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, after wrestling Heuristica to a setting of 12/16, I found it still too dark, so I set the Spacing to add .8 of a point more between characters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135255Z" creationid="Franklin Weng" creationdate="20180106T042927Z">
@@ -11569,6 +11601,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T161941Z" creationid="Franklin Weng" creationdate="20180103T131310Z">
         <seg>選擇有多種字型樣式的字族，特別是你打算讓標題與內文使用相同的字型時更要如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Head&lt;f0&gt;ers&lt;/f0&gt; and footers are spaces at the top and bottom of the page &lt;f1&gt;that contain&lt;/f1&gt; document information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130905Z" creationid="Jeff Huang" creationdate="20180126T130905Z">
+        <seg>頁首與頁尾是頁面頂部與底部，其中&lt;f1&gt;包含&lt;/f1&gt;了文件資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12792,6 +12832,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure what binding you will use, too wide an &lt;f0&gt;inner&lt;/f0&gt; margin is easier to adjust than too narrow a one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130148Z" creationid="Jeff Huang" creationdate="20180126T130148Z">
+        <seg>如果你不確定你會使用哪一種裝訂，&lt;f0&gt;內&lt;/f0&gt;邊距太寬會比太窄的好調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using a lectern, position it &lt;f0&gt;to the left of the screen&lt;/f0&gt;, if possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T130116Z" creationid="Franklin Weng" creationdate="20180120T130116Z">
@@ -13274,6 +13322,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your document is going to be printed and bound, the &lt;f0&gt;inner&lt;/f0&gt; margin &lt;f1&gt;requires&lt;/f1&gt; &lt;f2&gt;extra &lt;/f2&gt;space for the binding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T122704Z" creationid="Jeff Huang" creationdate="20180126T122704Z">
+        <seg>如果你的文件會印出來並裝訂，&lt;f0&gt;內&lt;/f0&gt;邊距&lt;f1&gt;需要&lt;/f1&gt;&lt;f2&gt;額外&lt;/f2&gt;的空間以供裝訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Imagine that you are a financial account executive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T131838Z" creationid="Franklin Weng" creationdate="20171213T124619Z">
@@ -13400,6 +13456,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T141402Z" creationid="zerng07" creationdate="20171224T140605Z">
         <seg>在OpenOffice和早期的LibreOffice版本中，若要停駐視窗位置，要先按住浮動視窗的標題列，並拖曳到你在編輯視窗中想停駐的左邊緣或右邊緣上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Writer, their spacing is in addition to the margin; they do not fill part of the margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131226Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
+        <seg>在Writer中，其間距是外加於邊距上；它們也不會填充邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19764,6 +19828,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The exact space needed for binding varies with the type of binding, and the fittings chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T124248Z" creationid="Jeff Huang" creationdate="20180126T124248Z">
+        <seg>裝訂所需的空間須視選擇的裝訂類型與其他裝飾而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example ignores page settings, since they have not be&lt;f0&gt;en&lt;/f0&gt; covered yet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005023Z" creationid="zerng07" creationdate="20180125T092214Z">
@@ -21326,6 +21398,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064835Z" creationid="zerng07" creationdate="20180125T064835Z">
         <seg>這個間距設定位在清單樣式下，「&lt;f4&gt;位置&lt;/f4&gt;」標籤頁的「&lt;f0&gt;縮排&lt;/f0&gt;」欄位中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This space will make the two-page spread look lopsided on your monitor, &lt;f3&gt;but prevents &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;words disappearing into the gutter (the center of a spread, where the edges of the pages are bound) in the finished product.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T124045Z" creationid="Jeff Huang" creationdate="20180126T124045Z">
+        <seg>這個空間可能會在您的螢幕上顯示兩頁版面時看起來不平衡，&lt;f3&gt;但可以避免&lt;/f3&gt;&lt;f5&gt;字詞在成品裝訂時掉進書本間的山谷裡。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23367,6 +23447,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T071210Z" creationid="Franklin Weng" creationdate="20180109T132219Z">
         <seg>最後，你&lt;f0&gt;應該&lt;/f0&gt;只剩下由真正有用投影片組成的&lt;f1&gt;大綱&lt;/f1&gt;，而這份大綱&lt;f2&gt;的內容應該無法讓你在簡報時直接照著讀。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You &lt;f0&gt;should&lt;/f0&gt; consult your printer, but in most cases you will probably need at least &lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;45 points extra on the inner margin&lt;/f3&gt; for the binding, and &lt;f4&gt;possibly&lt;/f4&gt; more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T125733Z" creationid="Jeff Huang" creationdate="20180126T125733Z">
+        <seg>你&lt;f0&gt;應該&lt;/f0&gt;諮詢你的印刷業者，但在大多數情況下，你可能需要至少&lt;f1&gt;20&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;45點的額外內邊距&lt;/f3&gt;供裝訂使用，而且&lt;f4&gt;可能&lt;/f4&gt;還需要更多。</seg>
       </tuv>
     </tu>
     <tu>
