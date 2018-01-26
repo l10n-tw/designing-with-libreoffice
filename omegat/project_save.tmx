@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other paragraphs have a number of lines that do not fit Writer’s settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T130549Z" creationid="Franklin Weng" creationdate="20180126T130520Z">
+        <seg>&lt;f0&gt;此外，其他段落也會有一些沒辦法符合Writer設定的行數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Outlining&lt;/f0&gt; slide shows</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T063638Z" creationid="Franklin Weng" creationdate="20180109T092658Z">
@@ -10840,6 +10848,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142920Z" creationid="Franklin Weng" creationdate="20171223T133819Z">
         <seg>例如，如果你是從文件基金會 (The Document Foundation) 的官方網站那直接下載的 Linux 版本，可能就會安裝在像是 /opt/libreoffice5.4/share/template 之類的路徑中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you have set last and first &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;paragraphs on a page to each have two lines, something has to give when a three-line paragraph straddles two pages.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T130654Z" creationid="Franklin Weng" creationdate="20180126T130530Z">
+        <seg>例如，你想要將一頁中的最前段落&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;、和最後段落調整成各自有兩行，但如果遇見會跨到第二頁去的三行段落時還是得放棄掙扎。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
