@@ -959,6 +959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A view of non-printing characters showing m&lt;/f0&gt;argins set &lt;f1&gt;using&lt;/f1&gt; the Golden Section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T120653Z" creationid="Jeff Huang" creationdate="20180126T120653Z">
+        <seg>&lt;f0&gt;不會列印出來的字元可以用來檢視&lt;/f0&gt;黃金比例的邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; simple design is preferable to a complicated one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T060809Z" creationid="Jeff Huang" creationdate="20180116T060809Z">
@@ -6048,6 +6056,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T070017Z" creationid="Jeff Huang" creationdate="20180115T070017Z">
         <seg>就連相似度超過75%的例子也很少見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A more flexible set of rules &lt;f0&gt;can be distilled from the majority of theories and layouts:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121018Z" creationid="Jeff Huang" creationdate="20180126T121018Z">
+        <seg>從大多數的理論與版面配置中&lt;f0&gt;可以提煉出一套更靈活的規則：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
