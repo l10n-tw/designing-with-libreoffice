@@ -6342,8 +6342,8 @@
       <tuv lang="EN">
         <seg>A title page with the title and author’s name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T133954Z" creationid="Jeff Huang" creationdate="20180124T133954Z">
-        <seg>含有標題與作者名字的標題頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133609Z" creationid="Jeff Huang" creationdate="20180124T133954Z">
+        <seg>含有書名和作者名字的書名頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12048,8 +12048,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, giving them a &lt;f0&gt;l&lt;/f0&gt;eft alignment simplifies the design while emphasizing that they belong to &lt;f1&gt;the content that follows&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033845Z" creationid="Franklin Weng" creationdate="20180118T033845Z">
-        <seg>不過，讓標題置左對齊，可以簡化設計，並強調&lt;f1&gt;它們屬於接下來的內容的一部份。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133526Z" creationid="Franklin Weng" creationdate="20180118T033845Z">
+        <seg>不過，讓題名向左對齊可以簡化設計，還能強調&lt;f1&gt;題名跟接下來的內容是一起的。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15103,8 +15103,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Line spacing, indentati&lt;f0&gt;o&lt;/f0&gt;ns, and spacing above and below lines are all set on the &lt;f1&gt;Indents &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Spacing &lt;/f4&gt;tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T034007Z">
-        <seg>行距、縮排與間距都在「&lt;f1&gt;縮排與間距&lt;/f1&gt;」標籤頁中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133917Z" creationid="Franklin Weng" creationdate="20180118T034007Z">
+        <seg>行距、縮排、間距等設定都放在「&lt;f1&gt;縮排和間距&lt;/f1&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,8 +17750,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting &lt;f0&gt;i&lt;/f0&gt;ndents and &lt;f1&gt;s&lt;/f1&gt;pacing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033855Z" creationid="Franklin Weng" creationdate="20180118T033855Z">
-        <seg>設定縮排間距</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133810Z" creationid="Franklin Weng" creationdate="20180118T033855Z">
+        <seg>設定縮排和間距</seg>
       </tuv>
     </tu>
     <tu>
@@ -19742,8 +19742,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default font sizes for slides are 44 points for a title and 18 points for an &lt;f0&gt;Outline 1&lt;/f0&gt; style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T125236Z" creationid="Franklin Weng" creationdate="20180117T120921Z">
-        <seg>投影片的預設字型大小為：標題44 點，&lt;f0&gt;第一層大綱&lt;/f0&gt;18 點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133756Z" creationid="Franklin Weng" creationdate="20180117T120921Z">
+        <seg>投影片的預設字型大小為：題名44 點，&lt;f0&gt;第一層大綱&lt;/f0&gt;18 點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21068,8 +21068,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These settings are useful &lt;f0&gt;for &lt;/f0&gt;large font sizes, but needing them in other circumstances is often a sign that you are adding too many words per slide and risking readability.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T034107Z" creationid="Franklin Weng" creationdate="20180118T034107Z">
-        <seg>這些設定在大尺寸的字型中是有用的，但如果其他的內容也需要用到這些功能，就表示你的投影片中放太多東西了，會影響閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T134209Z" creationid="Franklin Weng" creationdate="20180118T034107Z">
+        <seg>這些設定在調整大尺寸字型時很有用，但如果其他情況下也要用到這些功能，那通常代表你的投影片中塞太多字了，有失去易讀性的危險。</seg>
       </tuv>
     </tu>
     <tu>
