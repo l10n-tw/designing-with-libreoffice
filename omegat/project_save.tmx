@@ -6604,6 +6604,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All margins should be multiples of the &lt;f0&gt;line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121934Z" creationid="Jeff Huang" creationdate="20180126T121934Z">
+        <seg>所有邊距都應該是&lt;f0&gt;的整數倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All multiple sheets will of course need to be cut &lt;f0&gt;or folded &lt;/f0&gt;later.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125730Z" creationid="Jeff Huang" creationdate="20180125T125730Z">
@@ -14977,6 +14985,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072150Z" creationid="Jeff Huang" creationdate="20180115T072150Z">
         <seg>Lustria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the &lt;f0&gt;bottom&lt;/f0&gt; margin &lt;f1&gt;taller&lt;/f1&gt; than the &lt;f2&gt;top&lt;/f2&gt; margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121533Z" creationid="Jeff Huang" creationdate="20180126T121533Z">
+        <seg>讓&lt;f0&gt;下&lt;/f0&gt;邊距&lt;f1&gt;寬&lt;/f1&gt;於&lt;f2&gt;上&lt;/f2&gt;邊距。</seg>
       </tuv>
     </tu>
     <tu>
