@@ -4534,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;For printed documents, the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;outer&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; margin should be wide enough so that the pages or book can be conveniently held.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121431Z" creationid="Jeff Huang" creationdate="20180126T121431Z">
+        <seg>&lt;f1&gt;對於要印出來的文件來說，&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;外&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;邊距應該要寬一點，讓頁面或是書籍可以被比較方便地拿著。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;However, the best starting points I have ever seen are the four principles that Robin Williams uses in her books.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T032804Z" creationid="Jeff Huang" creationdate="20180116T032804Z">
@@ -14969,6 +14977,22 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072150Z" creationid="Jeff Huang" creationdate="20180115T072150Z">
         <seg>Lustria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the &lt;f0&gt;outer&lt;/f0&gt; margin equal or greater to the inner margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121234Z" creationid="Jeff Huang" creationdate="20180126T121234Z">
+        <seg>讓&lt;f0&gt;外&lt;/f0&gt;邊距大於等於內邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the &lt;f0&gt;top&lt;/f0&gt; margin &lt;f1&gt;greater&lt;/f1&gt; than the &lt;f2&gt;inner&lt;/f2&gt; margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121153Z" creationid="Jeff Huang" creationdate="20180126T121153Z">
+        <seg>讓&lt;f0&gt;上&lt;/f0&gt;邊距&lt;f1&gt;大&lt;/f1&gt;於&lt;f2&gt;內&lt;/f2&gt;邊距。</seg>
       </tuv>
     </tu>
     <tu>
