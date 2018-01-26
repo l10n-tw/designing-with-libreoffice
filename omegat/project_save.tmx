@@ -5739,6 +5739,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;You will especially appreciate the convenience of tables if your document is likely to last several years and through several versions of LibreOffice.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T135923Z" creationid="Jeff Huang" creationdate="20180126T135923Z">
+        <seg>&lt;f5&gt;如果你的文件可能會延續很多年，那你將會感謝表格有多麼方便。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;However, remember to save the document after updating.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145246Z" creationid="Franklin Weng" creationdate="20171212T115730Z">
@@ -6169,6 +6177,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T070017Z" creationid="Jeff Huang" creationdate="20180115T070017Z">
         <seg>就連相似度超過75%的例子也很少見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A more &lt;f0&gt;robust&lt;/f0&gt; solution is to add a single-row table with invisible &lt;f1&gt;cell &lt;/f1&gt;borders &lt;f2&gt;and&lt;/f2&gt; as many columns as you need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T135220Z" creationid="Jeff Huang" creationdate="20180126T135220Z">
+        <seg>更&lt;f0&gt;強大的&lt;/f0&gt;解決方案是新增一個單行表格，並使用不可見的&lt;f1&gt;儲存格&lt;/f1&gt;邊框&lt;f2&gt;與&lt;/f2&gt;你需要的欄位數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8810,6 +8826,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing tabs or tables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T134455Z" creationid="Jeff Huang" creationdate="20180126T134455Z">
+        <seg>選擇製表符或表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cinzel</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072213Z" creationid="Jeff Huang" creationdate="20180115T072213Z">
@@ -11342,6 +11366,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting header&lt;f0&gt;s&lt;/f0&gt; &lt;f1&gt;and&lt;/f1&gt; footer&lt;f2&gt;s&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T135952Z" creationid="Jeff Huang" creationdate="20180126T135952Z">
+        <seg>頁首語頁尾的格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting ten heading levels so that each is distinct &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;may just be possible, but neither the designer nor the reader is likely to be able to remember what all of them mean.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T121011Z" creationid="Franklin Weng" creationdate="20180102T135428Z">
@@ -12403,6 +12435,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T152741Z" creationid="zerng07" creationdate="20171229T152741Z">
         <seg>不過，段落樣式和字元樣式緊密互動，如果我們只想談論其中之一卻忽略另一種，無疑是不可能的任務——它們甚至在對話視窗中有數個相同的分頁標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this &lt;f0&gt;arrangement&lt;/f0&gt; can require constant readjustment as you revise, especially if you use fields &lt;f1&gt;or alter font sizes, making it more trouble that it’s worth.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T135002Z" creationid="Jeff Huang" creationdate="20180126T135002Z">
+        <seg>不過，這種&lt;f0&gt;排列方式&lt;/f0&gt;可能需要你在修訂時不斷調整，尤其是在使用欄位或&lt;f1&gt;或不同的字型大小時，其會更加麻煩。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15419,6 +15459,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T093934Z" creationid="Franklin Weng" creationdate="20171224T073238Z">
         <seg>許多使用者在&lt;f1&gt;設計文件&lt;/f1&gt;時，都&lt;f0&gt;不敢試著&lt;/f0&gt;使用非電腦系統預裝的字型。這樣做雖然說不上錯，但也不見得好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many users simply use tab stops to add information, using a right tab for information that ends at the right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T134717Z" creationid="Jeff Huang" creationdate="20180126T134717Z">
+        <seg>許多使用者使用製表符新增資訊，並在右邊距中使用右製表符的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21663,6 +21711,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160734Z" creationid="Franklin Weng" creationdate="20171212T100343Z">
         <seg>拿範本處理文稿結構的使用方式很少人注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This technique means fewer &lt;f3&gt;spontaneous&lt;/f3&gt; changes than with tabs, &lt;f4&gt;and, therefore, less work&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T135721Z" creationid="Jeff Huang" creationdate="20180126T135721Z">
+        <seg>這種技術代表了較少的&lt;f3&gt;非強制&lt;/f3&gt;變更&lt;f4&gt;與更少的工作&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
