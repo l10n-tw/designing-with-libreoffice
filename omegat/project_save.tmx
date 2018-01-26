@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T025723Z" creationid="Franklin Weng" creationdate="20180126T025723Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094455Z" creationid="Franklin Weng" creationdate="20171231T094455Z">
@@ -11527,8 +11535,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Here, it confirms that &lt;f1&gt;footers &lt;/f1&gt;are mirrored as intended.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T092513Z" creationid="zerng07" creationdate="20180121T092513Z">
-        <seg>像這裡，它能確認&lt;f1&gt;頁尾&lt;/f1&gt;有如設想中的左右頁互相對稱。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T030540Z" creationid="zerng07" creationdate="20180121T092513Z">
+        <seg>像這裡，它能確認&lt;f1&gt;頁尾&lt;/f1&gt;是否有如設想中的左右頁互相對稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21548,8 +21556,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To minimize repetition, later chapters refer back to this chapter &lt;f1&gt;and the two following it.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001353Z" creationid="zerng07" creationdate="20180121T081252Z">
-        <seg>為了降低重複，如果後面篇章要再講這些項目的話，會請你參照本章&lt;f1&gt;和接下來兩章的內容。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T025706Z" creationid="zerng07" creationdate="20180121T081252Z">
+        <seg>為了避免過多重複內容，如果後面篇章要再講這些項目的話，會請你參照本章&lt;f1&gt;和接下來兩章的內容。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23182,6 +23190,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T112703Z" creationid="Franklin Weng" creationdate="20180101T130433Z">
         <seg>x字高 (x-height)：小寫字母「x」，以及16個&lt;f1&gt;其他&lt;/f1&gt;沒有上下延伸突出部分的小寫字母高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yet although accounting ledgers are traditionally almost as regular in their formatting as text documents, the idea of styles has never caught on in spreadsheets as strongly as in word processors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T025534Z" creationid="Franklin Weng" creationdate="20180126T025534Z">
+        <seg>Yet although accounting ledgers are traditionally almost as regular in their formatting as text documents, the idea of styles has never caught on in spreadsheets as strongly as in word processors.</seg>
       </tuv>
     </tu>
     <tu>
