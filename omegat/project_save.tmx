@@ -9773,8 +9773,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Each top outline heading is a new slide, the others a bullet point on the slide.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T130743Z" creationid="Franklin Weng" creationdate="20180109T130743Z">
-        <seg>在大綱模式中，每個頂層的大綱標題都代表一張新投影片，而其他的則是投影片中的圓點項目。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T065259Z" creationid="Franklin Weng" creationdate="20180109T130743Z">
+        <seg>在大綱模式中，最上層的大綱標題都代表一張新的投影片，而其他則是投影片中的項目符號清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23485,8 +23485,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can descend a level in the outline by pressing &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and ascend a level by pressing &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T092112Z" creationid="Franklin Weng" creationdate="20180109T130919Z">
-        <seg>按 Tab 鍵，你可以把大綱往下移動一層。&lt;/f0&gt;&lt;f3&gt;要往上移動一層，則是按&lt;/f3&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T065539Z" creationid="Franklin Weng" creationdate="20180109T130919Z">
+        <seg>你可以按Tab鍵把大綱往下降級一層。&lt;/f0&gt;&lt;f3&gt;如果要往上升級一層，則是按&lt;/f3&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;f6&gt;組合鍵。</seg>
       </tuv>
     </tu>
     <tu>
