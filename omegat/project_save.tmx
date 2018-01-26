@@ -4875,8 +4875,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;You can &lt;/f1&gt;add margins and headers after you have read about page styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092311Z" creationid="zerng07" creationdate="20180125T092311Z">
-        <seg>&lt;f1&gt;你可以&lt;/f1&gt;在讀到頁面樣式的部分後，再加入邊距和頁首等樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005031Z" creationid="zerng07" creationdate="20180125T092311Z">
+        <seg>&lt;f1&gt;你可以&lt;/f1&gt;等讀到頁面樣式的部分後，再加入邊距和頁首等樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,8 +6920,8 @@
       <tuv lang="EN">
         <seg>Anything less risks cluttering the column with hyphens, single-word lines, and/or vast stretches of white space.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075237Z" creationid="zerng07" creationdate="20180125T075237Z">
-        <seg>只要小於這個範圍，就會提高版面被許多連字號、一行一個單字、和或大量出沒的空白區塊弄得很雜亂。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004911Z" creationid="zerng07" creationdate="20180125T075237Z">
+        <seg>只要小於這個範圍，就會提高版面被許多連字號、一行一個單字、和或大量出沒的空白區塊弄得很雜亂的風險。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12962,8 +12962,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you set the&lt;f0&gt; First &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ine&lt;/f3&gt; &lt;f4&gt;field&lt;/f4&gt; to &lt;f5&gt;Automatic&lt;/f5&gt;, you can largely ignore t&lt;f6&gt;abs, except for features like tables of contents that rely upon them for some features.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T084807Z" creationid="zerng07" creationdate="20180125T084807Z">
-        <seg>如果你把「&lt;f0&gt;第一行&lt;/f0&gt;&lt;f4&gt;」欄位設為「&lt;/f4&gt;&lt;f5&gt;自動&lt;/f5&gt;的話，你就能忘掉用Tab鍵縮排這件事了，&lt;f6&gt;但目錄這類有些功能會用到Tab鍵的情況除外。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005020Z" creationid="zerng07" creationdate="20180125T084807Z">
+        <seg>如果你把「&lt;f0&gt;第一行&lt;/f0&gt;&lt;f4&gt;」欄位設為「&lt;/f4&gt;&lt;f5&gt;自動&lt;/f5&gt;」的話，你就能忘掉用Tab鍵縮排這件事了，&lt;f6&gt;但目錄這類有些功能會用到Tab鍵的情況除外。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13647,8 +13647,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In tables or multi-column layouts, the length should &lt;f0&gt;generally &lt;/f0&gt;be 30&lt;f1&gt;–&lt;/f1&gt;50 characters, regardless of alignment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075017Z" creationid="zerng07" creationdate="20180125T074833Z">
-        <seg>若是表格或多欄式版面配置文件中，寬度&lt;f0&gt;一般&lt;/f0&gt;則是30&lt;f1&gt;–&lt;/f1&gt;50個字元，無論對齊方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004815Z" creationid="zerng07" creationdate="20180125T074833Z">
+        <seg>若是表格或多欄式版面配置文件中，不管對齊方式，寬度&lt;f0&gt;一般&lt;/f0&gt;則是30&lt;f1&gt;–&lt;/f1&gt;50個字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16705,8 +16705,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Regardless of font or page size, typographic convention suggests that a line of body text should be 50&lt;f0&gt;–&lt;/f0&gt;75 characters long for readability – or, to put things another way, two to three &lt;f1&gt;lower case &lt;/f1&gt;alphabets long in a single-column layout.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T074901Z" creationid="zerng07" creationdate="20180125T074734Z">
-        <seg>無論字型大小或紙張大小，西方字體排印學傳統上建議一行內文字的寬度，應該介於50&lt;f0&gt;–&lt;/f0&gt;75個字元以提高易讀性——或是，用另一種方法來測，一份單欄式版面配置的文件，欄寬應該為全部小寫字母（a到z）長的兩到三倍之間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004801Z" creationid="zerng07" creationdate="20180125T074734Z">
+        <seg>無論字型大小或紙張大小，西方字體排印學傳統上建議一行內文字的寬度，應該介於50&lt;f0&gt;–&lt;/f0&gt;75個字元以提高易讀性——或是，用另一種方法來測，一份單欄式版面配置的文件，欄寬應該為全部小寫字母（從a到z）長的兩到三倍之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19485,8 +19485,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The example ignores page settings, since they have not be&lt;f0&gt;en&lt;/f0&gt; covered yet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092214Z" creationid="zerng07" creationdate="20180125T092214Z">
-        <seg>本範例略過頁面設定，因為這個部分我們還沒講過。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005023Z" creationid="zerng07" creationdate="20180125T092214Z">
+        <seg>本範例略過頁面設定，因為這個部分我們還沒講到。</seg>
       </tuv>
     </tu>
     <tu>
