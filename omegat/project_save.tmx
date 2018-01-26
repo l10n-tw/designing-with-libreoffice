@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030230Z" creationid="Jeff Huang" creationdate="20180126T030230Z">
+        <seg>&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Having designed an effective slide show, you must also design an effective means of delivery.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T125158Z" creationid="Franklin Weng" creationdate="20180120T125158Z">
@@ -2105,6 +2113,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T031955Z" creationid="Jeff Huang" creationdate="20180116T031955Z">
         <seg>&lt;f0&gt;不過，如果你想要繪製或編輯圖片，Inkscape 或 Krita 等程式會有更多的工具讓你使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However, in some versions of LibreOffice, some combinations may cause blank pages or other formatting problems.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030351Z" creationid="Jeff Huang" creationdate="20180126T030351Z">
+        <seg>&lt;f0&gt;不過，在某些版本的LibreOffice中，特定的結合方式可能會導致空白頁或是其他的格式問題的產生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10961,6 +10977,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100611Z" creationid="Jeff Huang" creationdate="20180115T071355Z">
         <seg>出於這個原因，&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;下表中列出的多數是最接近的同等替代品，但很少有完全相同的替代品。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, you should make sure that no conflicts exist, such as a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Next style &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;field that forces a page style set to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left only&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to appear on a right page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030654Z" creationid="Jeff Huang" creationdate="20180126T030654Z">
+        <seg>因此，你應該確保這兩個設定沒有衝突，例如讓&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;僅左頁&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;出現在右頁上。</seg>
       </tuv>
     </tu>
     <tu>
