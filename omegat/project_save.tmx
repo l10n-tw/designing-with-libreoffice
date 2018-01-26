@@ -11871,8 +11871,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, at the large font sizes that slides use, justified lines frequently have too many hyphens and irregular spacing between words.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033536Z" creationid="Franklin Weng" creationdate="20180118T033536Z">
-        <seg>不過，在投影片中使用的大尺寸字型，如果用對齊功能通常會出現許多斷字符，以及造成字跟字的間距不一致。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133137Z" creationid="Franklin Weng" creationdate="20180118T033536Z">
+        <seg>不過，投影片中使用的字型尺寸比較大，如果用兩端對齊通常會讓行尾出現許多連字號，並且造成字跟字的間距很不一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16864,8 +16864,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Presentation styles include an &lt;f0&gt;Alignment&lt;/f0&gt; tab, so those who &lt;f1&gt;want j&lt;/f1&gt;ustified &lt;f2&gt;text in&lt;/f2&gt; slides can have them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063416Z" creationid="Franklin Weng" creationdate="20180118T033326Z">
-        <seg>簡報的樣式中有一個「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁，想要在投影片中&lt;f2&gt;對齊文字&lt;/f2&gt;時可以使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133029Z" creationid="Franklin Weng" creationdate="20180118T033326Z">
+        <seg>簡報樣式中有一個「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁，那些想在投影片中使用兩端對齊的朋友可以利用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,8 +17678,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting &lt;f0&gt;a&lt;/f0&gt;lignment</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033333Z" creationid="Franklin Weng" creationdate="20180118T033230Z">
-        <seg>設定對齊方式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T132910Z" creationid="Franklin Weng" creationdate="20180118T033230Z">
+        <seg>設定對齊</seg>
       </tuv>
     </tu>
     <tu>
@@ -24266,8 +24266,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You will not be able to rename the styles, but their limited number should make them easy to find.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T033224Z" creationid="Franklin Weng" creationdate="20180118T033127Z">
-        <seg>你無法重新命名樣式，不過樣式不多，也並不難找。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T132904Z" creationid="Franklin Weng" creationdate="20180118T033127Z">
+        <seg>你無法重新命名樣式，不過樣式數量不多，很好找。</seg>
       </tuv>
     </tu>
     <tu>
