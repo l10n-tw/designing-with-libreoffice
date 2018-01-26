@@ -3690,8 +3690,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The main tools for avoiding widows and orphans are &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Widow control&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Orphan control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T080410Z" creationid="zerng07" creationdate="20180123T080410Z">
-        <seg>&lt;f0&gt;避免寡行和孤行的主要工具為「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分頁前寡行控制&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;分頁後孤行控制</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002642Z" creationid="zerng07" creationdate="20180123T080410Z">
+        <seg>&lt;f0&gt;避免孤行和寡行的主要工具為「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分頁前孤行控制&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;分頁後寡行控制</seg>
       </tuv>
     </tu>
     <tu>
@@ -7064,8 +7064,8 @@
       <tuv lang="EN">
         <seg>As an alternative, keep &lt;f0&gt;Widow &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;c&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ontrol&lt;/f3&gt; and &lt;f4&gt;Orphan &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;c&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ontrol&lt;/f7&gt; unselected and select instead &lt;f8&gt;Do Not Split Paragraph.&lt;/f8&gt; This setting may keep important information together and therefore &lt;t9/&gt;easier to read, but can result in page breaks well before the bottom of the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T081511Z" creationid="zerng07" creationdate="20180123T081511Z">
-        <seg>還有一種替代做法，不要選取&lt;f0&gt;寡行 &lt;/f0&gt;&lt;f3&gt;控制&lt;/f3&gt;和&lt;f4&gt;孤行 &lt;/f4&gt;&lt;f7&gt;控制&lt;/f7&gt;，改選擇「&lt;f8&gt;不要分割段落&lt;/f8&gt;」。這個設定能讓重要的資訊連在一起，因而更容易閱讀，但結果可能讓頁面底部在進到下一頁之前有一大片空白。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002742Z" creationid="zerng07" creationdate="20180123T081511Z">
+        <seg>還有一種替代做法，不要選取&lt;f4&gt;孤行&lt;/f4&gt;&lt;f7&gt;控制&lt;/f7&gt;和&lt;f0&gt;寡行&lt;/f0&gt;&lt;f3&gt;控制&lt;/f3&gt;，改選擇「&lt;f8&gt;不要分割段落&lt;/f8&gt;」。這個設定能讓重要的資訊連在一起，因而更容易閱讀，但結果可能讓頁面底部在進到下一頁之前有一大片空白。</seg>
       </tuv>
     </tu>
     <tu>
