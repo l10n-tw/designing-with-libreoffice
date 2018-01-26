@@ -3915,8 +3915,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To design your own&lt;/f0&gt; patterned backgrounds, &lt;f1&gt;g&lt;/f1&gt;o to &lt;f2&gt;View &gt; Master &gt; Slide Master,&lt;/f2&gt; and from the menu select &lt;f3&gt;Format &gt; Page &gt; Background&lt;/f3&gt; to choose a color, gradient, cross-hatching, or bitmap tile for the background &lt;f4&gt;for all slides with the same master slide.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T053213Z" creationid="Franklin Weng" creationdate="20180116T053213Z">
-        <seg>&lt;f0&gt;要設計你自己的&lt;/f0&gt;背景樣式，從選單選擇「&lt;f2&gt;檢視 &gt; 投影片母片&lt;/f2&gt;」，並在右方側欄的「&lt;f3&gt;背景&lt;/f3&gt;」中選擇要使用色彩、漸層、陰影線、點陣圖或樣式。這樣&lt;f4&gt;所有的投影片就都會使用同一個背景</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120324Z" creationid="Franklin Weng" creationdate="20180116T053213Z">
+        <seg>&lt;f0&gt;如果要設計你自己的&lt;/f0&gt;背景樣式，點按選單中的「&lt;f2&gt;檢視 &gt; 投影片母片&lt;/f2&gt;」，從左方投影片窗格中點按想要套用背景的投影片母片，並到右方側邊欄的「&lt;f3&gt;背景&lt;/f3&gt;」中選擇要使用色彩、漸層、陰影線、點陣圖或樣式。這樣一來，&lt;f4&gt;所有採用這張母片製作的投影片就會使用同一個背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -23406,8 +23406,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can also use the tools &lt;f0&gt;o&lt;/f0&gt;n &lt;f1&gt;the&lt;/f1&gt; &lt;f2&gt;Background&lt;/f2&gt; tab to reduce an image’s size, position it, or offset it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T115738Z" creationid="Franklin Weng" creationdate="20180116T051913Z">
-        <seg>6.0 你也可以在投影片畫面中按下右鍵，選取「屬性」，從&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁中調整點陣圖的大小、位置或偏移等。宙 你也可以在投影片畫面中按下右鍵，選取「屬性」，從&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁中調整點陣圖的大小、位置或偏移等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T115816Z" creationid="Franklin Weng" creationdate="20180116T051913Z">
+        <seg>5.4 你也可以在投影片畫面中按下右鍵，選取「投影片頁面屬性」，從&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁中調整點陣圖的大小、位置或偏移等。6.0 你也可以在投影片畫面中按下右鍵，選取「屬性」，從&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁中調整點陣圖的大小、位置或偏移等。</seg>
       </tuv>
     </tu>
     <tu>
