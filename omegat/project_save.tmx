@@ -5035,8 +5035,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;You can a&lt;/f1&gt;dd a table by positioning the cursor and selecting &lt;f2&gt;Insert &gt; Table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142833Z" creationid="Franklin Weng" creationdate="20180118T142833Z">
-        <seg>&lt;f1&gt;你可以&lt;/f1&gt;先把游標移到要擺放表格的位置，然後在選單選擇&lt;f2&gt;「插入 &gt; 表格」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T135114Z" creationid="Franklin Weng" creationdate="20180118T142833Z">
+        <seg>&lt;f1&gt;你可以&lt;/f1&gt;先把游標移到要擺放表格的那張投影片上，然後在選單中選擇&lt;f2&gt;「插入 &gt; 表格」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6614,8 +6614,8 @@
       <tuv lang="EN">
         <seg>After you have added a table, a table design pane opens in the sidebar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T143030Z" creationid="Franklin Weng" creationdate="20180118T143030Z">
-        <seg>新增表格之後，在側邊欄會出現一個表格設計面板。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T135209Z" creationid="Franklin Weng" creationdate="20180118T143030Z">
+        <seg>新增表格之後，側邊欄會出現一個「表格設計」面板。</seg>
       </tuv>
     </tu>
     <tu>
