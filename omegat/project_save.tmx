@@ -5521,6 +5521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Typically, each header or footer has up to three pieces of information.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T132541Z" creationid="Jeff Huang" creationdate="20180126T132541Z">
+        <seg>&lt;f3&gt;一般來說，每個頁首或頁尾會有最多三條資訊。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Whenever possible,&lt;/f3&gt; choose a transition and &lt;f4&gt;click&lt;/f4&gt; the &lt;f5&gt;Apply to All Slides&lt;/f5&gt; button, and move on as quickly as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T062930Z" creationid="Franklin Weng" creationdate="20180120T062930Z">
@@ -9266,6 +9274,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Decide what information you want to display on the page, and &lt;f1&gt;how it will be divided up, and &lt;/f1&gt;you may find that &lt;t2/&gt;just one will do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T132441Z" creationid="Jeff Huang" creationdate="20180126T132441Z">
+        <seg>決定你想要在頁面上顯示哪些資訊，以及&lt;f1&gt;如何分配，&lt;/f1&gt;你可能會發現只做得到一件事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deciding on tabs or tables</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180118T142039Z" creationid="Franklin Weng" creationdate="20180118T142039Z">
@@ -12948,6 +12964,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152532Z" creationid="zerng07" creationdate="20170903T152532Z">
         <seg>如果你決定要改變某個格式，你也只需要修改樣式一次，彈指之間，每個套用該樣式的位置同時都採用了新的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do choose both, an obvious arrangement is to reserve one for just the page number, which is the most used information likely to be in a header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133018Z" creationid="Jeff Huang" creationdate="20180126T133018Z">
+        <seg>如果你同時選了這兩個，比較好的做法是把其中一個留給頁碼，其在頁首或是頁尾都是相當有用的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19078,6 +19102,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124624Z" creationid="Jeff Huang" creationdate="20180125T124624Z">
         <seg>&lt;f0&gt;格式&lt;/f0&gt;欄位將會自動變更為&lt;f1&gt;使用者。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Header&lt;/f0&gt; and &lt;f1&gt;Footer&lt;/f1&gt; tab&lt;f2&gt;s&lt;/f2&gt; for a &lt;f3&gt;&lt;f4&gt;P&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;age&lt;/f5&gt; style have identical features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T132846Z" creationid="Jeff Huang" creationdate="20180126T132846Z">
+        <seg>&lt;f0&gt;頁首&lt;/f0&gt;與&lt;f1&gt;頁尾&lt;/f1&gt;對頁面樣式來說與前面有相同的效果。</seg>
       </tuv>
     </tu>
     <tu>
