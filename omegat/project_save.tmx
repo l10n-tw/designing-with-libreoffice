@@ -18471,6 +18471,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>T&lt;f0&gt;o be truthful, t&lt;/f0&gt;he only time that you are likely to see the Golden Section used to format pages is in poetry and &lt;f1&gt;in &lt;/f1&gt;small print runs &lt;f2&gt;of prose&lt;/f2&gt;, in which printers are willing to charge more in return for a well-designed page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T034702Z" creationid="Jeff Huang" creationdate="20180126T034702Z">
+        <seg>&lt;f0&gt;老實說，&lt;/f0&gt;唯一可以看到將黃金比例用於頁面格式的大概只有詩歌與少量印刷的散文，此時印刷業者會願意收取更多的費用來換取精心設計的頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tables of contents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T133125Z" creationid="Jeff Huang" creationdate="20180124T133125Z">
@@ -20721,6 +20729,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These proportions do produce a pleasing page, but publishers sometimes regard them as wasteful, &lt;f0&gt;especially with the large bottom margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T034328Z" creationid="Jeff Huang" creationdate="20180126T034328Z">
+        <seg>這個比例的確讓人看起來賞心悅目，但出版商有時會認為這是一種浪費，&lt;f0&gt;特別是在有較大的下邊距時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These rules hold true for &lt;f0&gt;all types of &lt;/f0&gt;styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122437Z" creationid="zerng07" creationdate="20171226T122437Z">
@@ -21139,8 +21155,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This ratio means that, using a basic unit of 20 points, the inner margin would be 40 points, the top 60 points, the outer 80 points, and the bottom 120 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T034114Z" creationid="Jeff Huang" creationdate="20180126T034114Z">
-        <seg>這比例也代表了，若使用20點作為基本單位，內邊距會是40點，上邊距會是60點，外邊距是80點，而上邊距則為120點。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T034337Z" creationid="Jeff Huang" creationdate="20180126T034114Z">
+        <seg>這比例也代表了，若使用20點作為基本單位，內邊距會是40點，上邊距會是60點，外邊距是80點，而下邊距則為120點。</seg>
       </tuv>
     </tu>
     <tu>
