@@ -1709,8 +1709,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Example: &lt;/f0&gt;Designing a letter template</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085754Z" creationid="zerng07" creationdate="20180125T085540Z">
-        <seg>&lt;f0&gt;範例：&lt;/f0&gt;設計書信範本</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005701Z" creationid="zerng07" creationdate="20180125T085540Z">
+        <seg>&lt;f0&gt;範例：&lt;/f0&gt;設計西式書信範本</seg>
       </tuv>
     </tu>
     <tu>
@@ -11087,8 +11087,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>From the menu, select&lt;f0&gt; Insert &gt; Fields &gt; Other &gt; Document &gt; Date.&lt;/f0&gt; Select &lt;f1&gt;a&lt;/f1&gt; format from the &lt;f2&gt;Format&lt;/f2&gt; pane, then &lt;f3&gt;click&lt;/f3&gt; the &lt;f4&gt;Insert&lt;/f4&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T130221Z" creationid="zerng07" creationdate="20180125T130004Z">
-        <seg>從選單中，選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件」&lt;/f0&gt;，從「類型」窗格中選「日期」、「選取」窗格中選「日期」、「&lt;f2&gt;格式&lt;/f2&gt;」窗格中選取其中一種格式；接著&lt;f3&gt;點按&lt;/f3&gt;「&lt;f4&gt;插入&lt;/f4&gt;」按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005920Z" creationid="zerng07" creationdate="20180125T130004Z">
+        <seg>從選單中，選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件」&lt;/f0&gt;，從「類型」窗格中選「日期」、「選取」窗格中選「日期」、「&lt;f2&gt;格式&lt;/f2&gt;」窗格中選取其中一種格式；接著&lt;f3&gt;點按&lt;/f3&gt;「&lt;f4&gt;插入&lt;/f4&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12618,8 +12618,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are using any page size other than Letter, increase &lt;f0&gt;Spacing &gt; Below&lt;/f0&gt; to a multiple of 1&lt;f1&gt;8.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125743Z" creationid="zerng07" creationdate="20180125T125702Z">
-        <seg>如果你正在使用的紙張大小不是「Letter (US)」，那麼可以將「&lt;f0&gt;間距 &gt; 段落之下&lt;/f0&gt;」增加到18的其他倍數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005842Z" creationid="zerng07" creationdate="20180125T125702Z">
+        <seg>如果你正在使用的紙張大小不是「Letter (US)」，那麼可以將「&lt;f0&gt;間距 &gt; 段落之下&lt;/f0&gt;」增加為18 pt的其他倍數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15489,8 +15489,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Now, every time you select the &lt;f5&gt;Date&lt;/f5&gt; style, the current date will be automatically added.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131118Z" creationid="zerng07" creationdate="20180125T130027Z">
-        <seg>現在，每次你只要選取「&lt;f5&gt;日期&lt;/f5&gt;」樣式，就會自動採用當時的日期。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010015Z" creationid="zerng07" creationdate="20180125T130027Z">
+        <seg>現在起，每當你選取「&lt;f5&gt;日期&lt;/f5&gt;」樣式，就會自動採用當時的日期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23237,8 +23237,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can customize a letter template from &lt;f0&gt;File &gt; Wizards &gt; Letter&lt;/f0&gt; &lt;f1&gt;that uses frames to position different elements of the letter.&lt;/f1&gt; As an alternative, here are the steps in building a letter template with styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T092031Z" creationid="zerng07" creationdate="20180125T092013Z">
-        <seg>你可以利用「&lt;f0&gt;檔案 &gt; 精靈 &gt; 書信&lt;/f0&gt;&lt;f1&gt;」來自訂書信範本，這個精靈利用外框放置不同的書信內容元素。&lt;/f1&gt;除了這個做法外，這裡也提供打造書信範本與樣式的步驟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005756Z" creationid="zerng07" creationdate="20180125T092013Z">
+        <seg>你可以利用「&lt;f0&gt;檔案 &gt; 精靈 &gt; 書信&lt;/f0&gt;&lt;f1&gt;」來自訂書信範本，這個精靈利用外框放置不同的書信內容元素。&lt;/f1&gt;除了這個做法外，這裡也提供打造西式書信範本與樣式的步驟。</seg>
       </tuv>
     </tu>
     <tu>
