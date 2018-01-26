@@ -5444,8 +5444,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;It used to accept entries of 1/10 of a point (1/720 of an inch), but, since LibreOffice 4.2, the field rounds entries to the nearest point (1/72) or an inch.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023157Z" creationid="zerng07" creationdate="20180122T023157Z">
-        <seg>&lt;f4&gt;過去可以接受輸入以0.1點（1/720 英吋）為最小單位的數值，但從LibreOffice 4.2起，這個欄位會自動捨入成最接近的點數 (1/72) 或英吋數？經測試，5.4 目前可以輸入小數點以下一位喔～</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002012Z" creationid="zerng07" creationdate="20180122T023157Z">
+        <seg>&lt;f4&gt;過去可以接受輸入以0.1點（1/720 英吋）作為最小單位的數值，但從LibreOffice 4.2起，這個欄位會自動捨入成最接近的點數 (1/72) 或英吋數？經測試，5.4 目前可以輸入小數點以下一位喔～流言破解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,8 +6606,8 @@
       <tuv lang="EN">
         <seg>All these tasks &lt;f0&gt;are a lot of work.&lt;/f0&gt; But you will also find that there are many styles in which &lt;f1&gt;you can keep the default settings&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T021803Z" creationid="zerng07" creationdate="20180122T021803Z">
-        <seg>要完成以上所有動作&lt;f0&gt;要花很多功夫。&lt;/f0&gt;但同時你也會發現，有許多樣式&lt;f1&gt;只要維持預設設定就行了&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001810Z" creationid="zerng07" creationdate="20180122T021803Z">
+        <seg>要完成以上所有動作&lt;f0&gt;要花很多功夫。&lt;/f0&gt;但同時你也會發現，有許多樣式&lt;f1&gt;只要維持預設設定值就行了&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10742,8 +10742,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, paragraph styles &lt;t2/&gt;&lt;f3&gt;Heading 5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;–&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;10&lt;/f6&gt; are far more headings than anyone can manage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T044606Z" creationid="zerng07" creationdate="20180121T113858Z">
-        <seg>舉例，&lt;f3&gt;標題5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;到&lt;/f5&gt;&lt;/f4&gt;標題&lt;f6&gt;10&lt;/f6&gt;的段落樣式，實在遠超乎一般人所能管理的層數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001807Z" creationid="zerng07" creationdate="20180121T113858Z">
+        <seg>舉例，&lt;f3&gt;標題5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;到&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標題10&lt;/f6&gt;的段落樣式，實在遠超乎一般人所能管理的層數。</seg>
       </tuv>
     </tu>
     <tu>
