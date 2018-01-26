@@ -1692,8 +1692,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Don’t mistake me – s&lt;/f0&gt;tyles remain useful in Calc, especially for spreadsheets that are in constant use and maintained over long periods of time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135104Z" creationid="Franklin Weng" creationdate="20180126T135104Z">
-        <seg>&lt;f0&gt;但別誤解我的意思 – &lt;/f0&gt;在 Calc 中樣式還是有用處的，特別是長時間持續使用、維護的試算表。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135119Z" creationid="Franklin Weng" creationdate="20180126T135104Z">
+        <seg>&lt;f0&gt;但別誤解我的意思 – &lt;/f0&gt;在 Calc 中樣式還是有用處的，特別是對那些長時間持續使用、維護的試算表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,6 +2233,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121120Z" creationid="Franklin Weng" creationdate="20171223T092935Z">
         <seg>&lt;f0&gt;不過，你也可以在&lt;/f0&gt;Writer 選單的「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 功能&lt;/f2&gt;」中，在左方「類型」區段選擇「佔位項」，再到「&lt;f5&gt;&lt;f6&gt;格式&lt;/f5&gt;&lt;/f6&gt;&lt;f7&gt;」區段加入文字或物件的對應選項，接著到右側的「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;佔位項&lt;/f9&gt;&lt;/f8&gt;」&lt;f10&gt;欄位中為它命名即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However, you may still&lt;/f0&gt; want to apply the &lt;f1&gt;basic &lt;/f1&gt;principles &lt;f2&gt;of design &lt;/f2&gt;to your spreadsheet designs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135504Z" creationid="Franklin Weng" creationdate="20180126T135504Z">
+        <seg>&lt;f0&gt;不過，你應該還是&lt;/f0&gt;要將&lt;f1&gt;基本的&lt;/f1&gt;&lt;f2&gt;設計原則&lt;/f2&gt;套用在你的試算表設計上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5488,6 +5496,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>頁數要做確認</note>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;See “Learning design principles,” page 378.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135605Z" creationid="Franklin Weng" creationdate="20180126T135605Z">
+        <seg>&lt;f3&gt;你可以同時參考「學習設計原則」，第 XXXX 頁。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f3&gt;Set it to 18 points, the same as the line spacing.</seg>
       </tuv>
@@ -8493,6 +8510,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075153Z" creationid="zerng07" creationdate="20171224T075153Z">
         <seg>儲存格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cell styles in particular are essential building blocks for a well-organized, self-automating spreadsheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135213Z" creationid="Franklin Weng" creationdate="20180126T135112Z">
+        <seg>在建立組織良好、自動化的試算表時，儲存格的樣式是特別重要的基礎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16886,6 +16911,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Planning spreadsheets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135615Z" creationid="Franklin Weng" creationdate="20180126T135615Z">
+        <seg>規劃試算表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poems, especially in a mixture of verse and prose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T134820Z" creationid="Jeff Huang" creationdate="20180124T134820Z">
@@ -18541,6 +18574,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheets have a way of growing with no direction, but the more advanced planning you do, the more easily you will be able to find your data as you need it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135622Z" creationid="Franklin Weng" creationdate="20180126T135622Z">
+        <seg>Spreadsheets have a way of growing with no direction, but the more advanced planning you do, the more easily you will be able to find your data as you need it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets often &lt;f0&gt;grow as needed, because they are mostly used online.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134659Z" creationid="Franklin Weng" creationdate="20180126T134633Z">
@@ -18604,6 +18645,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
         <seg>最後，一樣要強調《&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f0&gt;&lt;f1&gt;排版設計&lt;/f1&gt;&lt;/f0&gt;》一書不是&lt;f3&gt;要講抽象的設計概念，而是在探討&lt;/f3&gt;如何把日常作業做好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still, spreadsheets have less established forms than text documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135342Z" creationid="Franklin Weng" creationdate="20180126T135342Z">
+        <seg>當然，試算表比起文字文件來說，已建立好的格式較少。</seg>
       </tuv>
     </tu>
     <tu>
