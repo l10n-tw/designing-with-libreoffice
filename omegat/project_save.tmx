@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;f11&gt;The only reason to use any of them is to provide a sample of why they are unacceptable.&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130722Z" creationid="zerng07" creationdate="20180123T130722Z">
-        <seg>&lt;/f10&gt;&lt;f11&gt;唯一採用這些做法的理由，就是不得以要提供範例給大家看看為什麼這些做法都不能接受。&lt;/f11&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003703Z" creationid="zerng07" creationdate="20180123T130722Z">
+        <seg>&lt;/f10&gt;&lt;f11&gt;唯一採用這些做法的理由，就是不得以要提供範例給大家看看，為什麼這些做法不能接受。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,8 +3258,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Snap to Text Grid &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(If Active)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; uses the non-printing grid set in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Grid&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for positioning.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T123219Z" creationid="zerng07" creationdate="20180123T123219Z">
-        <seg>「&lt;f0&gt;貼齊文字網格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;(如果有啟用網格)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 」會使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 網格&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」中設定的非列印網格作定位貼齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003558Z" creationid="zerng07" creationdate="20180123T123219Z">
+        <seg>「&lt;f0&gt;貼齊文字網格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; (如果有啟用網格)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 」會使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 網格&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」中設定的非列印網格作定位貼齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4327,8 +4327,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You may be able to improve the look of &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Justified&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; by selecting &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Snap to Text Grid (If Active)&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and adjusting the grid set in &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Grid&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095428Z" creationid="zerng07" creationdate="20180123T131709Z">
-        <seg>&lt;f0&gt;你或許可以選擇「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;貼齊文字網格 (如果有啟用網格)&lt;/f5&gt;&lt;/f4&gt;」來改善「&lt;f1&gt;&lt;f2&gt;兩端對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的空白間距，要另外前往「&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 網格&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;調整相關網格設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003748Z" creationid="zerng07" creationdate="20180123T131709Z">
+        <seg>&lt;f0&gt;你或許可以選擇「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;貼齊文字網格 (如果有啟用網格)&lt;/f5&gt;&lt;/f4&gt;」來改善「&lt;f1&gt;&lt;f2&gt;兩端對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的空白間距，要另外前往「&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 網格&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」調整相關網格設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6470,8 +6470,8 @@
       <tuv lang="EN">
         <seg>All but one leave large gaps between words or letters that anyone who cares about the design of their documents should find unacceptable.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T123821Z" creationid="zerng07" creationdate="20180123T121605Z">
-        <seg>所有會在單字與單字間或字與字間留下大量空白的人之中，只要在乎文件設計的人就會覺得這樣不能接受。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003522Z" creationid="zerng07" creationdate="20180123T121605Z">
+        <seg>所有會在單字與單字間或字與字間留下大量空白的人之中，如果在乎文件設計的話就會覺得這樣不能接受。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19985,8 +19985,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The other options – &lt;f0&gt;&lt;f1&gt;Justified&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; &lt;f3&gt;Centered&lt;/f3&gt;, &lt;f4&gt;Expand single word&lt;/f4&gt;,&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Left&lt;/f8&gt;&lt;/f7&gt; – all look &lt;f9&gt;awkward&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130436Z" creationid="zerng07" creationdate="20180123T130138Z">
-        <seg>其餘選項——&lt;f0&gt;&lt;f1&gt;兩端對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;置中&lt;/f3&gt;、&lt;f4&gt;拉長一個單字&lt;/f4&gt;，&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;甚至是&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;預設&lt;/f8&gt;&lt;/f7&gt;——全都看起來&lt;f9&gt;不美觀&lt;/f9&gt;&lt;f10&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003650Z" creationid="zerng07" creationdate="20180123T130138Z">
+        <seg>其餘選項——&lt;f0&gt;&lt;f1&gt;兩端對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;置中&lt;/f3&gt;、&lt;f4&gt;拉長一個單字&lt;/f4&gt;，&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;甚至是&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;預設&lt;/f8&gt;&lt;/f7&gt;——看起來全都&lt;f9&gt;不美觀&lt;/f9&gt;&lt;f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22342,8 +22342,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When a paragraph has a Left alignment, all lines start at the same position on the left, but &lt;f0&gt;can end anywhere&lt;/f0&gt; on the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T024430Z" creationid="zerng07" creationdate="20180125T024430Z">
-        <seg>當段落左對齊時，所有的行都會從左側相同位置起頭，但是&lt;f0&gt;可以在右邊任意處結尾&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003753Z" creationid="zerng07" creationdate="20180125T024430Z">
+        <seg>當段落左對齊時，所有的行都會從左側相同位置起頭，但是&lt;f0&gt;在右邊任意處結尾&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
