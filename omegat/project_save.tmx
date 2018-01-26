@@ -2841,8 +2841,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;aragraph styles define the general formatting for any text-heavy document, while character styles provide brief variations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T152950Z" creationid="zerng07" creationdate="20171229T152950Z">
-        <seg>段落樣式定義了任意大量文字文件中的一般格式設定，而字元樣式則給予其中簡要的變動。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001155Z" creationid="zerng07" creationdate="20171229T152950Z">
+        <seg>段落樣式可定義任一種大量文字文件中的一般格式設定，而字元樣式則給予簡要的變動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10919,8 +10919,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For short bursts of text – &lt;f1&gt;for example, a &lt;/f1&gt;title, &lt;f2&gt;URL,&lt;/f2&gt; &lt;f3&gt;or &lt;/f3&gt;bullet point – character styles provide exceptions that &lt;f4&gt;give&lt;/f4&gt; paragraph styles the flexibility they lack by themselves.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T153001Z" creationid="zerng07" creationdate="20180119T152622Z">
-        <seg>一小段不同性質的文字——&lt;f1&gt;例如，&lt;/f1&gt;書名、&lt;f2&gt;URL網址&lt;/f2&gt;、&lt;f3&gt;或&lt;/f3&gt;項目編號條目這些——字元樣式可以&lt;f4&gt;作為&lt;/f4&gt;段落樣式的例外，如此補足段落樣式缺乏的彈性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001217Z" creationid="zerng07" creationdate="20180119T152622Z">
+        <seg>如果有一小段不同性質的文字——&lt;f1&gt;例如，&lt;/f1&gt;書名、&lt;f2&gt;URL網址&lt;/f2&gt;、&lt;f3&gt;或&lt;/f3&gt;項目編號條目這些——字元樣式可以&lt;f4&gt;作為&lt;/f4&gt;段落樣式的例外，如此補足段落樣式缺乏的彈性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19864,8 +19864,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The next two chapters discuss &lt;f0&gt;special features&lt;/f0&gt; and potential problems and advanced features&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T081039Z" creationid="zerng07" creationdate="20180121T081039Z">
-        <seg>後面兩章則討論&lt;f0&gt;特殊功能&lt;/f0&gt;和進階功能的潛在問題&lt;f1&gt;。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001311Z" creationid="zerng07" creationdate="20180121T081039Z">
+        <seg>後續兩章則討論&lt;f0&gt;特殊功能&lt;/f0&gt;和進階功能的潛在問題&lt;f1&gt;。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20796,8 +20796,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This chapter completes the discussion of &lt;f3&gt;basic &lt;/f3&gt;paragraph formatting, (including a more detailed discussion of line spacing), covering the options &lt;f4&gt;for vertical and horizontal spacing.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T080959Z" creationid="zerng07" creationdate="20180121T080944Z">
-        <seg>而本章將接著補全&lt;f3&gt;基本&lt;/f3&gt;段落格式設定這部分的討論（包括更詳細的行距討論），涵蓋&lt;f4&gt;垂直間距與水平間距&lt;/f4&gt;的選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001305Z" creationid="zerng07" creationdate="20180121T080944Z">
+        <seg>而本章將接著補全&lt;f3&gt;基本&lt;/f3&gt;段落格式設定這部分的討論（包括更詳細的行距討論），裡面涵蓋&lt;f4&gt;垂直間距與水平間距&lt;/f4&gt;的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21349,8 +21349,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To minimize repetition, later chapters refer back to this chapter &lt;f1&gt;and the two following it.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T081627Z" creationid="zerng07" creationdate="20180121T081252Z">
-        <seg>為了降低重複，如果後續篇章要再講這些項目的話，會請你參照本章&lt;f1&gt;和後續兩章的內容。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001353Z" creationid="zerng07" creationdate="20180121T081252Z">
+        <seg>為了降低重複，如果後面篇章要再講這些項目的話，會請你參照本章&lt;f1&gt;和接下來兩章的內容。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
