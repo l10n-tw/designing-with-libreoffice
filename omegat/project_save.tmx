@@ -5556,8 +5556,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;If anything, headings are easier to scan if not hyphenated.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041117Z" creationid="zerng07" creationdate="20180125T041024Z">
-        <seg>&lt;f6&gt;真要說的話，沒有斷字過的標題還比較方便讀者概略瀏覽。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004158Z" creationid="zerng07" creationdate="20180125T041024Z">
+        <seg>&lt;f6&gt;真要說的話，標題就算沒有斷字也一樣能讓讀者方便概略瀏覽。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13511,8 +13511,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many documents, only &lt;f0&gt;Text&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Body&lt;/f3&gt; and perhaps another handful of &lt;f4&gt;paragraph &lt;/f4&gt;styles are used at such length that hyphenation can improve how they fall on the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041100Z" creationid="zerng07" creationdate="20180125T040524Z">
-        <seg>在許多文本中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度來改善連字號在頁面中的呈現效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004018Z" creationid="zerng07" creationdate="20180125T040524Z">
+        <seg>在許多文本中，只有「&lt;f0&gt;內文&lt;/f0&gt;」樣式和一些其他&lt;f4&gt;段落&lt;/f4&gt;樣式，會採用這類斷字處理長度，來改善連字號在頁面中的呈現效果。</seg>
       </tuv>
     </tu>
     <tu>
