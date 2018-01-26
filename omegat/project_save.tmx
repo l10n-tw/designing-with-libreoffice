@@ -1443,8 +1443,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Choosing&lt;/f0&gt; slide backgrounds</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T100630Z" creationid="Franklin Weng" creationdate="20180114T141339Z">
-        <seg>&lt;f0&gt;怎麼選擇&lt;/f0&gt;投影片背景</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T123856Z" creationid="Franklin Weng" creationdate="20180114T141339Z">
+        <seg>&lt;f0&gt;選擇&lt;/f0&gt;投影片背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -17902,8 +17902,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since slides are presented at a low resolution, sans serif &lt;f0&gt;or slab serif&lt;/f0&gt; fonts are generally preferable &lt;f1&gt;to serif ones for content.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180117T120607Z" creationid="Franklin Weng" creationdate="20180116T095631Z">
-        <seg>因為在簡報時，投影片的解析度通常不高，所以內容的字型一般來說用無襯線&lt;f0&gt;或是粗平襯線體&lt;/f0&gt;會比用&lt;f1&gt;有襯線字體要好。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T124623Z" creationid="Franklin Weng" creationdate="20180116T095631Z">
+        <seg>因為在簡報時，投影機的解析度通常不高，所以內容的英文字型一般來說較偏好使用無襯線體&lt;f0&gt;或粗平襯線體&lt;/f0&gt;，較少用&lt;f1&gt;襯線體；中文字型則較常用黑體、圓體，較少用宋體/明體/仿宋體。</seg>
       </tuv>
     </tu>
     <tu>
