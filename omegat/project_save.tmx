@@ -12946,8 +12946,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you do not want lists, set the &lt;f0&gt;Number&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab to &lt;f2&gt;None&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T092213Z" creationid="Franklin Weng" creationdate="20180118T024450Z">
-        <seg>如果你不想用清單，就到「&lt;f1&gt;自訂&lt;/f1&gt;」標籤頁中，把「數字」那邊的下拉式選單中選擇「&lt;f2&gt;沒有&lt;/f2&gt;」即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T131306Z" creationid="Franklin Weng" creationdate="20180118T024450Z">
+        <seg>如果你不想用清單，就到「&lt;f1&gt;自訂&lt;/f1&gt;」標籤頁中，把「數字」那邊的下拉式選單中選擇「&lt;f2&gt;沒有&lt;/f2&gt;」即可（6.0 是「沒有」，5.4是「無」；這歸功於 LibreOffice 每次改版都弄一堆 fuzzy，然後上翻譯記憶還不見得對到一樣的翻譯… Orz）。</seg>
       </tuv>
     </tu>
     <tu>
