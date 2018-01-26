@@ -6892,6 +6892,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can add additional lines, more than one line gives a sloppy look that you should avoid in any published document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T134421Z" creationid="Jeff Huang" creationdate="20180126T134421Z">
+        <seg>雖然你可以新增額外的空行，但多行文字會讓文件看起來相當隨便，所以你應該避免在任何已發佈的文件中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always carry a backup of your presentation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T125539Z" creationid="Franklin Weng" creationdate="20180120T125539Z">
@@ -20084,6 +20092,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The immediate result is a single line &lt;f0&gt;for text&lt;/f0&gt; in the top or bottom margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133939Z" creationid="Jeff Huang" creationdate="20180126T133939Z">
+        <seg>然後馬上就會在上邊距或下邊距出現空白單行&lt;f0&gt;以供填入文字&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The justification of the last line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T130734Z" creationid="zerng07" creationdate="20180123T130734Z">
@@ -20694,6 +20710,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T105541Z" creationid="Jeff Huang" creationdate="20180108T125951Z">
         <seg>該標籤頁裡包含了捲動方向、重複次數與其他設定。&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text area is immediately visible in Apache OpenOffice, but in LibreOffice you need to click anywhere in the margin for the minimal guides to be visible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T134245Z" creationid="Jeff Huang" creationdate="20180126T134245Z">
+        <seg>文字區域在Apache OpenOffice中立即可見，但在LibreOffice中，你必須在邊距內的任一處按一下以讓最小化的指引顯示。</seg>
       </tuv>
     </tu>
     <tu>
