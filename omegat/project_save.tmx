@@ -6518,8 +6518,8 @@
       <tuv lang="EN">
         <seg>All other styles will be based on the &lt;f0&gt;settings for these two&lt;/f0&gt;, with variations for individual needs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102551Z" creationid="zerng07" creationdate="20180125T102540Z">
-        <seg>所有的其他樣式都會根據這兩項設定做對應調整，視各個樣式需求修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005542Z" creationid="zerng07" creationdate="20180125T102540Z">
+        <seg>其他所有樣式都根據這兩項設定做對應調整，視各樣式的需求做修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17253,8 +17253,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the &lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ine spacing &lt;/f2&gt;to &lt;f3&gt;Fixed &gt; 1&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;8&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; points &lt;/f6&gt;on the &lt;f7&gt;Indents &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&amp;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Spacing&lt;/f10&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102247Z" creationid="zerng07" creationdate="20180125T102247Z">
-        <seg>將「&lt;f7&gt;縮排和間距&lt;/f7&gt;標籤頁中的「&lt;f2&gt;行距&lt;/f2&gt;」設為「&lt;f3&gt;固定 &gt; 18 pt&lt;/f3&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005453Z" creationid="zerng07" creationdate="20180125T102247Z">
+        <seg>將「&lt;f7&gt;縮排和間距&lt;/f7&gt;標籤頁中的「&lt;f2&gt;行距&lt;/f2&gt;」設為「&lt;f3&gt;固定 &gt; 18&lt;f6&gt; pt&lt;/f6&gt;&lt;/f3&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17277,8 +17277,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the font size to 15 on the &lt;f0&gt;Font&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101916Z" creationid="zerng07" creationdate="20180125T101916Z">
-        <seg>在「&lt;f0&gt;字型&lt;/f0&gt;」標籤頁中將大小設定為15。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005405Z" creationid="zerng07" creationdate="20180125T101916Z">
+        <seg>在「&lt;f0&gt;字型&lt;/f0&gt;」標籤頁中將大小設定為15點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19188,8 +19188,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The best way to set up other styles is to start at the top of the document and note the styles that are needed:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102647Z" creationid="zerng07" creationdate="20180125T102647Z">
-        <seg>設置其他樣式的最佳方法，就是從文件的起頭開始，並記錄所需的樣式有哪些：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005605Z" creationid="zerng07" creationdate="20180125T102647Z">
+        <seg>設置其他樣式的最佳方法，就是從文件的起頭開始，記錄所需的樣式有哪些：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21003,8 +21003,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This setting gives Baskervald a color close to that of Gillius, which makes for a uniform look on the page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T102329Z" creationid="zerng07" creationdate="20180125T102329Z">
-        <seg>這個設定會讓Baskervald的灰度看起來接近Gillius一點，讓整個頁面看起來有比較一致的色彩。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005511Z" creationid="zerng07" creationdate="20180125T102329Z">
+        <seg>這個設定能讓Baskervald的灰度看起來接近Gillius一點，整個頁面看起來有比較一致的色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21918,8 +21918,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Use the pre-existing &lt;f0&gt;Addressee&lt;/f0&gt; style for the return address.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T103236Z" creationid="zerng07" creationdate="20180125T103236Z">
-        <seg>讓寄件人地址使用預先定義的「&lt;f0&gt;收件者&lt;/f0&gt;」樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005630Z" creationid="zerng07" creationdate="20180125T103236Z">
+        <seg>讓回信地址使用預先定義的「&lt;f0&gt;收件者&lt;/f0&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
