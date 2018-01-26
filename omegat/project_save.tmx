@@ -2624,8 +2624,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Many users prefer a Justified&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;alignment,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;in which all lines start at the same position on the left and end at the same position on the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102903Z" creationid="zerng07" creationdate="20180123T102903Z">
-        <seg>&lt;f0&gt;很多使用者偏好「兩端&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;對齊&lt;/f3&gt;&lt;f6&gt;」，它能讓各行文字在橫書時左端、右端都對齊在同一直線上，在直書時上端、下端也都對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003050Z" creationid="zerng07" creationdate="20180123T102903Z">
+        <seg>&lt;f0&gt;很多使用者偏好「兩端&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;對齊&lt;/f3&gt;&lt;f6&gt;」，它能讓各行文字在橫書時左端、右端都對齊在同一直線上，在直書時上端、下端也都對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,8 +4134,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Whatever your choice of alignment, if you are using hyphenated styles, &lt;/f0&gt;run &lt;f1&gt;Tools &gt; Language &gt; Hyphenation&lt;/f1&gt; as a last &lt;t2/&gt;step before publishing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102443Z" creationid="zerng07" creationdate="20180123T102443Z">
-        <seg>&lt;f0&gt;不管你的對齊方式為何，如果你的英語文件有在用斷字樣式的話，至少要在出版前的最後一步&lt;/f0&gt;執行過「&lt;f1&gt; &gt; 語言 &gt; 斷字處理&lt;/f1&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002941Z" creationid="zerng07" creationdate="20180123T102443Z">
+        <seg>&lt;f0&gt;不管你的對齊方式為何，如果你的英語文件有在用斷字樣式的話，至少要在出版前的最後一步&lt;/f0&gt;執行過「&lt;f1&gt; 工具 &gt; 語言 &gt; 斷字處理&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20018,8 +20018,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The preference may also be a reminder of the earliest days of word processing, the first time that a Justified alignment became &lt;f0&gt;practical&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T103314Z" creationid="zerng07" creationdate="20180123T103314Z">
-        <seg>這種偏好或許是文書處理器發展初期，也就是兩端對齊剛&lt;f0&gt;實作&lt;/f0&gt;出來的時候，延續至今的情況。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003150Z" creationid="zerng07" creationdate="20180123T103314Z">
+        <seg>這或許是文書處理器發展初期，也就是兩端對齊剛&lt;f0&gt;實作&lt;/f0&gt;出來的時候大受歡迎，並延續至今的情況。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20996,8 +20996,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This selection repairs any sub-optimal choices Writer might have made on the fly&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102625Z" creationid="zerng07" creationdate="20180123T102625Z">
-        <seg>這個選項可以修復Writer在你一邊打字一邊斷字時處理得沒那麼好的所有地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003015Z" creationid="zerng07" creationdate="20180123T102625Z">
+        <seg>這個選項可以修正Writer在你一邊打字一邊斷字時處理得沒那麼好的所有地方。</seg>
       </tuv>
     </tu>
     <tu>
