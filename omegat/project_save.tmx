@@ -9725,8 +9725,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Drawing Object styles (called Graphics styles in OpenOffice &lt;f0&gt;and earlier versions of LibreOffice&lt;/f0&gt;) treat text as &lt;f1&gt;one feature of &lt;/f1&gt;objects, and are covered in Chapter 1&lt;f2&gt;3&lt;/f2&gt; when Draw is discussed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094356Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
-        <seg>「繪圖樣式」（Drawing Object styles，&lt;f0&gt;在 OpenOffice 跟早期版本的 LibreOffice 稱為「圖形樣式」 Graphics styles&lt;/f0&gt;）是把文字當成物件的&lt;f1&gt;其中一種&lt;/f1&gt;，這部份在第 13 章討論 Draw 時會談。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122432Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
+        <seg>第一種「繪圖物件樣式」（Drawing Object styles，&lt;f0&gt;在 OpenOffice和早期版本的LibreOffice中稱為「圖形樣式」Graphics styles&lt;/f0&gt;）是把文字視為物件的&lt;f1&gt;特徵之一&lt;/f1&gt;，這部份在第 13 章討論Draw時會談。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13260,8 +13260,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Impress has two types of styles for fonts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121531Z" creationid="Franklin Weng" creationdate="20180116T092504Z">
-        <seg>Impress有兩類字型樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121627Z" creationid="Franklin Weng" creationdate="20180116T092504Z">
+        <seg>Impress有兩類字型的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20008,8 +20008,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The more common font styles are Presentation styles – the styles for each level of bullet point on the slides.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094432Z" creationid="Franklin Weng" creationdate="20180116T094432Z">
-        <seg>另一種比較常見的字型樣式稱為「簡報樣式」 – 也就是投影片上每一層圓點展現的那種樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122405Z" creationid="Franklin Weng" creationdate="20180116T094432Z">
+        <seg>另一種比較常見的字型樣式稱為「簡報樣式」——也就是投影片上每一層圓點展現的那種樣式。</seg>
       </tuv>
     </tu>
     <tu>
