@@ -21659,6 +21659,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a header or footer, go to the &lt;f0&gt;Header&lt;/f0&gt; or &lt;f1&gt;Footer&lt;/f1&gt; tab for &lt;f2&gt;a&lt;/f2&gt; page style and select the &lt;f3&gt;On&lt;/f3&gt; box on the top left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133821Z" creationid="Jeff Huang" creationdate="20180126T133821Z">
+        <seg>要新增頁首或頁尾，到其中一個頁面樣式的&lt;f0&gt;頁首&lt;/f0&gt;或&lt;f1&gt;頁尾&lt;/f1&gt;標籤頁，並選取在左上角的開啟勾選框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To adjust a connector, go to the &lt;f0&gt;Connector&lt;/f0&gt; tab of a graphic style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043248Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
@@ -22112,6 +22120,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T092729Z" creationid="Jeff Huang" creationdate="20180118T092729Z">
         <seg>試試看：&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turning on headers and footers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133625Z" creationid="Jeff Huang" creationdate="20180126T133625Z">
+        <seg>開啟頁首與頁尾</seg>
       </tuv>
     </tu>
     <tu>
