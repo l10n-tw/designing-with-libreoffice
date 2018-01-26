@@ -1813,8 +1813,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Find&lt;/f0&gt; &lt;f1&gt;a&lt;/f1&gt; background &lt;f2&gt;template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134710Z" creationid="Franklin Weng" creationdate="20180114T134710Z">
-        <seg>&lt;f0&gt;先找&lt;/f0&gt;一個背景&lt;f2&gt;範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T090758Z" creationid="Franklin Weng" creationdate="20180114T134710Z">
+        <seg>&lt;f0&gt;先找個&lt;/f0&gt;背景&lt;f2&gt;範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23897,8 +23897,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You might find one in the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Presentations Backgrounds&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; folder of the Template Manager, or else create one&lt;/f5&gt; using Draw or a third-party application like &lt;f6&gt;GIMP&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T135254Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
-        <seg>你可以&lt;/f2&gt;用 Draw 或其他像是 &lt;f6&gt;GIMP&lt;/f6&gt; 之類的美術設計軟體來建立母片的背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T091046Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
+        <seg>你可以直接從範本管理員中選擇你喜歡的背景，或者&lt;/f2&gt;用Draw或其他像&lt;f6&gt;GIMP&lt;/f6&gt;之類的美術設計軟體做出想用的背景。</seg>
       </tuv>
     </tu>
     <tu>
