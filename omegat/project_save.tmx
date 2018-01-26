@@ -705,8 +705,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Unlike styles elsewhere in LibreOffice, you cannot create new Presentation styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094730Z" creationid="Franklin Weng" creationdate="20180116T094721Z">
-        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;跟 LibreOffice 其他地方的樣式不同的是，你無法建立新的簡報樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122710Z" creationid="Franklin Weng" creationdate="20180116T094721Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;和LibreOffice其他地方不同的樣式是，你無法建立新的簡報樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2720,8 +2720,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most people change little except &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Fonts&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Font Effects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094633Z" creationid="Franklin Weng" creationdate="20180116T094633Z">
-        <seg>&lt;f0&gt;大部份人除了&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;字型效果以外都不太需要改什麼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122644Z" creationid="Franklin Weng" creationdate="20180116T094633Z">
+        <seg>&lt;f0&gt;大多數人只有「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「字型效果」這兩個部分比較常用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9733,8 +9733,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Drawing Object styles (called Graphics styles in OpenOffice &lt;f0&gt;and earlier versions of LibreOffice&lt;/f0&gt;) treat text as &lt;f1&gt;one feature of &lt;/f1&gt;objects, and are covered in Chapter 1&lt;f2&gt;3&lt;/f2&gt; when Draw is discussed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122432Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
-        <seg>第一種「繪圖物件樣式」（Drawing Object styles，&lt;f0&gt;在 OpenOffice和早期版本的LibreOffice中稱為「圖形樣式」Graphics styles&lt;/f0&gt;）是把文字視為物件的&lt;f1&gt;特徵之一&lt;/f1&gt;，這部份在第 13 章討論Draw時會談。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122442Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
+        <seg>第一種「繪圖物件樣式」（Drawing Object styles，&lt;f0&gt;在 OpenOffice和早期版本的LibreOffice中稱為「圖形樣式」Graphics styles&lt;/f0&gt;）是把文字作為物件的&lt;f1&gt;特徵之一&lt;/f1&gt;，這部份在第 13 章討論Draw時會談。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11839,8 +11839,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, each master slide can format its Presentation styles differently.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094802Z" creationid="Franklin Weng" creationdate="20180116T094726Z">
-        <seg>不過，每一張母片都可以個別安排它的簡報樣式的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122751Z" creationid="Franklin Weng" creationdate="20180116T094726Z">
+        <seg>不過，每一張投影片母片都可以獨立安排自己的簡報樣式格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,8 +15384,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Most options for Presentation styles are explained in Chapters &lt;f0&gt;5&lt;/f0&gt; and &lt;f1&gt;6 &lt;/f1&gt;in the discussion of paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T094510Z" creationid="Franklin Weng" creationdate="20180116T094510Z">
-        <seg>大部份簡報樣式的選項都已經在第 &lt;f0&gt;5&lt;/f0&gt; 章與第 &lt;f1&gt;6&lt;/f1&gt; 章，討論段落樣式時討論過了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122558Z" creationid="Franklin Weng" creationdate="20180116T094510Z">
+        <seg>大部份的「簡報樣式」選項，都已經在第&lt;f0&gt;5&lt;/f0&gt;章和第&lt;f1&gt;6&lt;/f1&gt;章討論段落樣式時講述過了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20016,8 +20016,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The more common font styles are Presentation styles – the styles for each level of bullet point on the slides.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122405Z" creationid="Franklin Weng" creationdate="20180116T094432Z">
-        <seg>另一種比較常見的字型樣式稱為「簡報樣式」——也就是投影片上每一層圓點展現的那種樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122519Z" creationid="Franklin Weng" creationdate="20180116T094432Z">
+        <seg>另一種比較常見的字型樣式稱為「簡報樣式」——也就是投影片上每一層項目符號清單項目展現的那種字型樣式。</seg>
       </tuv>
     </tu>
     <tu>
