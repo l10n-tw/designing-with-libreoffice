@@ -1653,8 +1653,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;E&lt;/f0&gt;dit master slides &lt;f1&gt;from&lt;/f1&gt; &lt;f2&gt;View &gt; Master &gt; Slide Master.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134634Z" creationid="Franklin Weng" creationdate="20180114T134623Z">
-        <seg>要編輯母片，&lt;f2&gt;從選單中的「檢視 &gt; 投影片母片」來編輯。（LibreOffice 4.x 版為「檢視 &gt; 母片 &gt; 投影片母片」）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T090621Z" creationid="Franklin Weng" creationdate="20180114T134623Z">
+        <seg>若要編輯母片，從選單中的「&lt;f2&gt;檢視 &gt; 投影片母片」來編輯。（LibreOffice 4.x 版為「檢視 &gt; 母片 &gt; 投影片母片」）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9044,8 +9044,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Creating &lt;f0&gt;m&lt;/f0&gt;aster &lt;f1&gt;s&lt;/f1&gt;lides</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134642Z" creationid="Franklin Weng" creationdate="20180114T134642Z">
-        <seg>建立母片</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T090639Z" creationid="Franklin Weng" creationdate="20180114T134642Z">
+        <seg>製作投影片母片</seg>
       </tuv>
     </tu>
     <tu>
@@ -12360,8 +12360,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you may want design elements such as reversing the background and foreground colors on title and biography pages to emphasize their differences from the body of the presentation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134245Z" creationid="Franklin Weng" creationdate="20180114T134245Z">
-        <seg>不過，你可以設計一些不同的母片，例如在題名與參考書目的地方把前景背景顏色反轉，以強調它們與簡報主體的不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T090548Z" creationid="Franklin Weng" creationdate="20180114T134245Z">
+        <seg>不過，你也可以設計一些具備不同設計元素的投影片母片。例如，在題名頁與參考資料頁的地方，把前景背景色彩反轉過來，以此強調它們和簡報內容本體的差別等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21452,8 +21452,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To create each master slide:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180114T134650Z" creationid="Franklin Weng" creationdate="20180114T134650Z">
-        <seg>建立母片的方式：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T090700Z" creationid="Franklin Weng" creationdate="20180114T134650Z">
+        <seg>製作一張投影片母片：</seg>
       </tuv>
     </tu>
     <tu>
