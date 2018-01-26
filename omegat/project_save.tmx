@@ -536,8 +536,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;Impress rescale&lt;f2&gt;s&lt;/f2&gt; slides &lt;f3&gt;as needed&lt;/f3&gt;, but rescaling distorts &lt;f4&gt;not only screenshots, but also text on logos.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T092206Z" creationid="Franklin Weng" creationdate="20180115T092206Z">
-        <seg>&lt;/f1&gt;Impress 在&lt;f3&gt;必要時&lt;/f3&gt;會調整大小比例，而這一調整往往&lt;f4&gt;會讓背景圖案失真，特別是圖案上的標誌、文字等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T114607Z" creationid="Franklin Weng" creationdate="20180115T092206Z">
+        <seg>&lt;/f1&gt;Impress會&lt;f3&gt;隨需要&lt;/f3&gt;調整影像圖的比例大小，而這一調整往往&lt;f4&gt;會讓影像扭曲，對於有文字的Logo標誌等要特別注意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4287,8 +4287,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou should have no trouble importing most PowerPoint backgrounds – although when you &lt;f1&gt;save you are &lt;/f1&gt;asked if you want to convert to Open Document Format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091832Z" creationid="Franklin Weng" creationdate="20180115T091832Z">
-        <seg>匯入 PowerPoint 的背景應該不會有什麼問題 – 雖然&lt;f1&gt;儲存時&lt;/f1&gt;會問你是否要轉成開放文件格式（Open Document Format, ODF）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T114303Z" creationid="Franklin Weng" creationdate="20180115T091832Z">
+        <seg>匯入PowerPoint的背景應該不會遇到什麼問題——雖然&lt;f1&gt;LibreOffice儲存時&lt;/f1&gt;會詢問你是否要轉換成開放文件格式 (Open Document Format, ODF)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12714,8 +12714,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are unable to find a suitable background, you &lt;f0&gt;can&lt;/f0&gt; design your own, or modify an existing one in a graphics &lt;f1&gt;editor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091958Z" creationid="Franklin Weng" creationdate="20180115T091958Z">
-        <seg>如果你找不到適當的背景，你&lt;f0&gt;可以&lt;/f0&gt;自己設計，或是&lt;f1&gt;在其他美術設計應用程式中修改找到的背景圖案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T114429Z" creationid="Franklin Weng" creationdate="20180115T091958Z">
+        <seg>如果你找不到適當的背景，&lt;f0&gt;可以&lt;/f0&gt;自己設計；或是&lt;f1&gt;從其他美術設計軟體中修改你有的圖片來用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16897,8 +16897,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Remember that you can also use PowerPoint backgrounds.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091734Z" creationid="Franklin Weng" creationdate="20180115T091734Z">
-        <seg>你也可以用 PowerPoint 的背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T114205Z" creationid="Franklin Weng" creationdate="20180115T091734Z">
+        <seg>你也可以用PowerPoint的背景。</seg>
       </tuv>
     </tu>
     <tu>
