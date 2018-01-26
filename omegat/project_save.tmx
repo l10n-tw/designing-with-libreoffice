@@ -19637,8 +19637,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The last line of justified text is &lt;f0&gt;only&lt;/f0&gt; a complete line &lt;f1&gt;by luck.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T121037Z" creationid="zerng07" creationdate="20180123T121037Z">
-        <seg>兩端對齊段落的最後一行&lt;f0&gt;剛好&lt;/f0&gt;是完整一行的情況，根本是&lt;f1&gt;靠運氣才能遇到。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003443Z" creationid="zerng07" creationdate="20180123T121037Z">
+        <seg>兩端對齊段落的最後一行&lt;f0&gt;剛好&lt;/f0&gt;是完整一行的情況，根本是&lt;f1&gt;靠運氣才遇得到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19740,12 +19740,11 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
-      <note>圖中有五個地方，是作者算錯？或是作者原本要改圖忘記了？</note>
       <tuv lang="EN">
         <seg>The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034837Z" creationid="zerng07" creationdate="20180123T120205Z">
-        <seg>中間欄有五個斷字過的行，而連字號讓這段文字看起來斷來斷去的，感覺很糟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003425Z" creationid="zerng07" creationdate="20180123T120205Z">
+        <seg>在這欄中有三排斷字過的行，而連字號讓這段文字看起來斷來斷去的，感覺很糟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23294,8 +23293,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can even go to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab to expand or condense character spacing.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093847Z" creationid="zerng07" creationdate="20180123T120020Z">
-        <seg>你甚至可以前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁，擴展或窄縮字元間距。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003253Z" creationid="zerng07" creationdate="20180123T120020Z">
+        <seg>你甚至要前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁，擴展或窄縮字元間距。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
