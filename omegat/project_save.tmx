@@ -753,8 +753,8 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;The background is then available for use &lt;f7&gt;in other presentations.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092048Z" creationid="Franklin Weng" creationdate="20180116T092048Z">
-        <seg>&lt;/f6&gt;這個背景就可以讓&lt;f7&gt;其他的簡報&lt;/f7&gt;使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121105Z" creationid="Franklin Weng" creationdate="20180116T092048Z">
+        <seg>&lt;/f6&gt;這個背景就能讓&lt;f7&gt;其他簡報&lt;/f7&gt;跟著使用了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,8 +3866,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This gradient leaves most of the slide’s center with a strong contrast, leaving the lesser contrast to the sides where there is less text.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091834Z" creationid="Franklin Weng" creationdate="20180116T091834Z">
-        <seg>&lt;f0&gt;觀察這個背景的漸層，中間部份顏色沒有漸層，能提供與前景較大的反差；四個角落則以漸層表現，因為比較不會影響到文字的閱讀。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121016Z" creationid="Franklin Weng" creationdate="20180116T091834Z">
+        <seg>&lt;f0&gt;觀察這個背景的漸層，中間部份顏色沒有漸層，能提供與前景較大的對比；四個角落則以漸層表現，因為比較不會影響文字的閱讀。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6022,8 +6022,8 @@
       <tuv lang="EN">
         <seg>A gradient background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091658Z" creationid="Franklin Weng" creationdate="20180116T091658Z">
-        <seg>漸層式的背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120950Z" creationid="Franklin Weng" creationdate="20180116T091658Z">
+        <seg>「漸層」的背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,8 +6038,8 @@
       <tuv lang="EN">
         <seg>A hatched backgro&lt;f0&gt;und.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120914Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
-        <seg>陰影線的背景。&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120941Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
+        <seg>「陰影線」的背景。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,8 +6246,8 @@
       <tuv lang="EN">
         <seg>A tiled background using a brick pattern.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091349Z" creationid="Franklin Weng" creationdate="20180116T091349Z">
-        <seg>磚牆樣式的背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120937Z" creationid="Franklin Weng" creationdate="20180116T091349Z">
+        <seg>磚牆「樣式」的背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6630,8 +6630,8 @@
       <tuv lang="EN">
         <seg>All slides include three frames for footers: from left to right, date and time, optional fields, and slide number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092215Z" creationid="Franklin Weng" creationdate="20180116T092215Z">
-        <seg>每張投影片在頁尾處都包含三個框，從左到右分別是：日期與時間、選擇性存放資訊、還有投影片頁碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121213Z" creationid="Franklin Weng" creationdate="20180116T092215Z">
+        <seg>所有投影片在頁尾處都包含三個外框，從左到右分別是：日期和時間、選擇性資訊欄位、投影片頁碼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12544,8 +12544,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If other options fail, create a patterned background.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120819Z" creationid="Franklin Weng" creationdate="20180116T053408Z">
-        <seg>如果其他的選項都無法滿足你的需求，那就自行製作一個「樣式」背景。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120929Z" creationid="Franklin Weng" creationdate="20180116T053408Z">
+        <seg>如果其他的選項都無法滿足你的需求，那就自行製作樣式背景。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22778,8 +22778,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you are finished designing, save the result by selecting &lt;f0&gt;File &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; Save As Template &gt; Presentation Background&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092020Z" creationid="Franklin Weng" creationdate="20180116T092020Z">
-        <seg>當你設計完成後，用「&lt;f0&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f0&gt;」儲存起來。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121048Z" creationid="Franklin Weng" creationdate="20180116T092020Z">
+        <seg>當你設計完成後，選取「&lt;f0&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f0&gt;」儲存起來。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
