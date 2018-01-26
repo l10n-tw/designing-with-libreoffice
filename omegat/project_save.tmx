@@ -791,6 +791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131600Z" creationid="Jeff Huang" creationdate="20180126T131600Z">
+        <seg>&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102344Z" creationid="Franklin Weng" creationdate="20171231T102344Z">
@@ -11617,6 +11625,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130905Z" creationid="Jeff Huang" creationdate="20180126T130905Z">
         <seg>頁首與頁尾是頁面頂部與底部，其中&lt;f1&gt;包含&lt;/f1&gt;了文件資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers and footers often appear together, but using just one is &lt;f0&gt;just&lt;/f0&gt; as common.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131831Z" creationid="Jeff Huang" creationdate="20180126T131831Z">
+        <seg>頁首與頁尾經常一起出現，但僅用一個也很常見。</seg>
       </tuv>
     </tu>
     <tu>
