@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131604Z" creationid="Franklin Weng" creationdate="20180126T131604Z">
+        <seg>&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133419Z" creationid="Franklin Weng" creationdate="20180126T122323Z">
@@ -691,6 +699,22 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150235Z" creationid="zerng07" creationdate="20171225T150235Z">
         <seg>&lt;/f3&gt;或是，你也可以就放著&lt;f5&gt;&lt;f6&gt;預設&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;樣式&lt;/f7&gt;不管&lt;f8&gt;，這樣可以輕鬆與其他人在不同機器之間交換文件。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131545Z" creationid="Franklin Weng" creationdate="20180126T131545Z">
+        <seg>&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131558Z" creationid="Franklin Weng" creationdate="20180126T131558Z">
+        <seg>&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10980,6 +11004,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, paragraph styles &lt;f2&gt;Heading 5&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;10&lt;/f5&gt; are far more headings than anyone can manage.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131212Z" creationid="Franklin Weng" creationdate="20180126T131212Z">
+        <seg>For example, paragraph styles &lt;f2&gt;Heading 5&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;10&lt;/f5&gt; are far more headings than anyone can manage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, paragraph styles &lt;t2/&gt;&lt;f3&gt;Heading 5&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;–&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;10&lt;/f6&gt; are far more headings than anyone can manage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001807Z" creationid="zerng07" creationdate="20180121T113858Z">
@@ -15735,6 +15767,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No quotation marks are used, since the indentation is enough to &lt;f1&gt;mark&lt;/f1&gt; is a quotation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131819Z" creationid="Franklin Weng" creationdate="20180126T131819Z">
+        <seg>No quotation marks are used, since the indentation is enough to &lt;f1&gt;mark&lt;/f1&gt; is a quotation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No quotation marks are used, since the indentation is enough to &lt;f2&gt;mark&lt;/f2&gt; is a quotation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064251Z" creationid="zerng07" creationdate="20180125T064251Z">
@@ -18447,8 +18487,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Spreadsheets are the electronic descendants of accounting ledgers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180125T031426Z" creationid="Franklin Weng" creationdate="20180124T042043Z">
-        <seg>試算表可以說是會計分類帳簿的「電子後代子孫」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T133710Z" creationid="Franklin Weng" creationdate="20180124T042043Z">
+        <seg>試算表可以說是會計分類簿的「電子後代子孫」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22104,6 +22144,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064157Z" creationid="zerng07" creationdate="20180125T064145Z">
         <seg>一般這麼長的引文，左邊與右邊都會縮排一個行距的距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typically, such long quotations are indented one line-space on the left and right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131942Z" creationid="Franklin Weng" creationdate="20180126T131942Z">
+        <seg>Typically, such long quotations are indented one line-space on the left and right.</seg>
       </tuv>
     </tu>
     <tu>
