@@ -3682,8 +3682,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The design is intricate, but small enough that foreground text is readable.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091503Z" creationid="Franklin Weng" creationdate="20180116T091503Z">
-        <seg>&lt;f0&gt;這個設計看起來有點錯縱複雜，但是因為夠小所以不至於影響前景文字的閱讀。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120846Z" creationid="Franklin Weng" creationdate="20180116T091503Z">
+        <seg>&lt;f0&gt;這個設計看起來有點錯縱複雜，但是因為樣式很小所以不至於影響前景文字的易讀性。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4263,8 +4263,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Writer does its best to adjust images, but to guarantee avoiding distortion, u&lt;/f0&gt;se one of the standard monitor ratios: 16:9 for wide screens, or 4:3 for older screens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T115420Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
-        <seg>&lt;f0&gt;Impress會盡可能調整影像，但為了避免影像比例扭曲，&lt;/f0&gt;最好採用這些標準螢幕比例：寬螢幕16:9，或舊式螢幕4:3。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120633Z" creationid="Franklin Weng" creationdate="20180115T093357Z">
+        <seg>&lt;f0&gt;Impress會盡可能調整影像，但為了避免影像比例扭曲，&lt;/f0&gt;最好你選的影像圖也採用這些標準螢幕比例：寬螢幕是16:9，或舊式螢幕為4:3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6030,8 +6030,8 @@
       <tuv lang="EN">
         <seg>A hatched backgro&lt;f0&gt;und.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T091535Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
-        <seg>鑲嵌式的背景。&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120914Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
+        <seg>陰影線的背景。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8683,8 +8683,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Click the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Gallery &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;button on the sidebar for more patterns and images.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120609Z" creationid="Franklin Weng" creationdate="20180116T053320Z">
-        <seg>點按側邊欄上的「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;圖庫&lt;/f6&gt;&lt;/f5&gt;」&lt;f7&gt;按鈕，可以找到其他圖案與影像。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120712Z" creationid="Franklin Weng" creationdate="20180116T053320Z">
+        <seg>點按側邊欄上的「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;圖庫&lt;/f6&gt;&lt;/f5&gt;」&lt;f7&gt;按鈕，可以找到其他圖案與影像。（但這個我測試不能套用到背景上啊，這句話應該要刪掉。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12528,8 +12528,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If other options fail, create a patterned background.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T053408Z" creationid="Franklin Weng" creationdate="20180116T053408Z">
-        <seg>如果其他的選項都無法滿足你的需求，那就建立一個具樣式的背景。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120819Z" creationid="Franklin Weng" creationdate="20180116T053408Z">
+        <seg>如果其他的選項都無法滿足你的需求，那就自行製作一個「樣式」背景。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
