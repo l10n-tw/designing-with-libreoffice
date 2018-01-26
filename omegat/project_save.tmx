@@ -1690,6 +1690,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Don’t mistake me – s&lt;/f0&gt;tyles remain useful in Calc, especially for spreadsheets that are in constant use and maintained over long periods of time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135104Z" creationid="Franklin Weng" creationdate="20180126T135104Z">
+        <seg>&lt;f0&gt;但別誤解我的意思 – &lt;/f0&gt;在 Calc 中樣式還是有用處的，特別是長時間持續使用、維護的試算表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object styles (also known as Image styles and formerly as Graphic styles)&lt;/f0&gt; define the characteristics of a &lt;f1&gt;d&lt;/f1&gt;rawing object in Draw or Impress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051517Z" creationid="Jeff Huang" creationdate="20171220T074347Z">
@@ -8401,6 +8409,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc styles are given only &lt;f0&gt;two&lt;/f0&gt; sample defaults, making it harder for users to imagine how they might be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134940Z" creationid="Franklin Weng" creationdate="20180126T134940Z">
+        <seg>Calc 的樣式只有&lt;f0&gt;兩種&lt;/f0&gt;預設樣本，所以大家也就更難想像要怎麼使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calibri</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071635Z" creationid="Jeff Huang" creationdate="20180115T071635Z">
@@ -14398,6 +14414,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is no accident that one of the two types of styles in Calc is concerned with ways of squeezing the spreadsheet on to a printed page – a special use case that is of no relevance to many users.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134845Z" creationid="Franklin Weng" creationdate="20180126T134642Z">
+        <seg>所以 Calc 中只有兩種樣式型態，而其中一種還是用來把試算表擠在同一頁中印出來用的 – 這是一種特殊使用案例，對大部份使用者來說並沒有什麼關係。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is not an end in itself.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T064015Z" creationid="Jeff Huang" creationdate="20180116T064015Z">
@@ -18493,10 +18517,42 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheets are not frequently revised.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134256Z" creationid="Franklin Weng" creationdate="20180126T134256Z">
+        <seg>試算表並不是很常被修訂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets are the electronic descendants of accounting ledgers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T133710Z" creationid="Franklin Weng" creationdate="20180124T042043Z">
         <seg>試算表可以說是會計分類簿的「電子後代子孫」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets are valued more for their &lt;f0&gt;functional &lt;/f0&gt;computing power than their formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134233Z" creationid="Franklin Weng" creationdate="20180126T134233Z">
+        <seg>試算表的格式重要性遠不如其&lt;f0&gt;計算能力&lt;/f0&gt;來得有價值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets often &lt;f0&gt;grow as needed, because they are mostly used online.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134659Z" creationid="Franklin Weng" creationdate="20180126T134633Z">
+        <seg>試算表的樣式通常只依其需求而發展，因為多半是在電腦上使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets&lt;f0&gt;’&lt;/f0&gt; &lt;f1&gt;forty&lt;/f1&gt; year history &lt;f2&gt;is&lt;/f2&gt; hardly enough time for &lt;f3&gt;design&lt;/f3&gt; conventions to develop &lt;f4&gt;and become accepted&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134119Z" creationid="Franklin Weng" creationdate="20180126T134119Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;試算表&lt;f1&gt;四十年&lt;/f1&gt;的歷史&lt;f2&gt;&lt;/f2&gt;並不足以發展出&lt;f3&gt;可被公認&lt;/f3&gt;的&lt;f4&gt;樣式設計慣例&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20942,6 +20998,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134246Z" creationid="zerng07" creationdate="20180125T134246Z">
         <seg>接著，在「&lt;f13&gt;統籌概覽&lt;/f13&gt;」標籤頁中，將「&lt;f15&gt;下一個樣式&lt;/f15&gt;&lt;f16&gt;」欄位改為「&lt;/f16&gt;&lt;f17&gt;內文&lt;/f17&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are several probabl&lt;f0&gt;e&lt;/f0&gt; reasons for this difference:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134123Z" creationid="Franklin Weng" creationdate="20180126T133844Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;這一點不同可能有幾個原因：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23549,8 +23613,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Yet although accounting ledgers are traditionally almost as regular in their formatting as text documents, the idea of styles has never caught on in spreadsheets as strongly as in word processors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T025534Z" creationid="Franklin Weng" creationdate="20180126T025534Z">
-        <seg>Yet although accounting ledgers are traditionally almost as regular in their formatting as text documents, the idea of styles has never caught on in spreadsheets as strongly as in word processors.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T133837Z" creationid="Franklin Weng" creationdate="20180126T025534Z">
+        <seg>雖然傳統的會計分類簿跟一般文字文件一樣有很正規的格式，但是在試算表中樣式的概念並不像文書處理那麼重要。</seg>
       </tuv>
     </tu>
     <tu>
