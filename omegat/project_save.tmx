@@ -448,8 +448,8 @@
       <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122323Z" creationid="Franklin Weng" creationdate="20180126T122323Z">
-        <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133419Z" creationid="Franklin Weng" creationdate="20180126T122323Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -11949,6 +11949,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, do not use both approaches together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133454Z" creationid="Jeff Huang" creationdate="20180126T133454Z">
+        <seg>不過，不要同時使用這兩種方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, each master slide can format its Presentation styles differently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122751Z" creationid="Franklin Weng" creationdate="20180116T094726Z">
@@ -20473,6 +20481,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result can be unresolvable formatting conflicts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133525Z" creationid="Jeff Huang" creationdate="20180126T133525Z">
+        <seg>可能會造成無法解決的格式衝突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result is far less confusing to the eye.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T044106Z" creationid="Jeff Huang" creationdate="20180118T033230Z">
@@ -23953,6 +23969,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T122328Z" creationid="Franklin Weng" creationdate="20180102T140856Z">
         <seg>你如果打算在北美發行的文本中用無襯線字型呈現內文當然也可以，不過這本書可能會被認為相當「前衛」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a single footer, then unselect the check boxes &lt;f0&gt;&lt;f1&gt;Same content left/right&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;and &lt;f3&gt;&lt;f4&gt;Same content on first page &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;rather than designing each page style&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;separately&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133415Z" creationid="Jeff Huang" creationdate="20180126T133415Z">
+        <seg>你可以使用單一頁尾，然後取消選取&lt;f0&gt;&lt;f1&gt;左右頁內容相同&lt;/f1&gt;&lt;/f0&gt;勾選框與&lt;f3&gt;&lt;f4&gt;首頁內容相同&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;而不是把每個頁面都分開設計&lt;/f5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
