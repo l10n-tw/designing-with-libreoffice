@@ -16187,6 +16187,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, a page style created in one &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;version of LibreOffice may not display as you intended in another version.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030830Z" creationid="Jeff Huang" creationdate="20180126T030830Z">
+        <seg>否則在特定的LibreOffice版本中建立的頁面樣式&lt;/f6&gt;&lt;f8&gt;可能無法在其他版本中如你所預期的那樣顯示。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, the result &lt;f4&gt;could&lt;/f4&gt; be stylistic chaos.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
