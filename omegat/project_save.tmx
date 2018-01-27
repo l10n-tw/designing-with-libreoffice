@@ -3145,8 +3145,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Presentation always on top&lt;/f0&gt; &lt;f1&gt;floats Impress above any other open windows, preventing you from fumbling in front of your audience.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T104212Z" creationid="Franklin Weng" creationdate="20180120T124127Z">
-        <seg>「&lt;f0&gt;始終在畫面最上層放映投影片&lt;/f0&gt;」&lt;f1&gt;會讓Impress的視窗保持在前景最上層，也就是所有其他開啟的視窗之上，可以避免簡報時出糗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T140237Z" creationid="Franklin Weng" creationdate="20180120T124127Z">
+        <seg>「&lt;f0&gt;始終在畫面最上層放映投影片&lt;/f0&gt;」&lt;f1&gt;會讓Impress的視窗保持在前景最上層，也就是所有其他開啟的視窗之上，可以避免在簡報時出糗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5115,8 +5115,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Usually, you will need to adjust this option so that the presentation runs on the projector.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T124309Z" creationid="Franklin Weng" creationdate="20180120T124309Z">
-        <seg>&lt;f1&gt;通常會用在你要把簡報顯示在投影機，自己的螢幕則顯示備註時。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T140519Z" creationid="Franklin Weng" creationdate="20180120T124309Z">
+        <seg>&lt;f1&gt;通常你會它來把簡報顯示在投影機上，而自己的螢幕則顯示演講者主控臺。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16960,8 +16960,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Other options are a matter of taste or necessity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T124331Z" creationid="Franklin Weng" creationdate="20180120T124331Z">
-        <seg>其他的選項就看你自己的習慣決定是否調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T140535Z" creationid="Franklin Weng" creationdate="20180120T124331Z">
+        <seg>其他的選項就看你自己的習慣或需求決定是否調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22120,8 +22120,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This option can keep you from fumbling in the middle of a presentation when a mouse slips.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T102745Z" creationid="Franklin Weng" creationdate="20180120T124208Z">
-        <seg>這個選項可以避免你簡報到一半，彈出尷尬的對話視窗，或是手滑按到不該顯示的視窗去。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T140410Z" creationid="Franklin Weng" creationdate="20180120T124208Z">
+        <seg>這個選項能幫你避免簡報講到一半，突然彈出尷尬的對話視窗，或是手滑按到不該顯示的視窗等情況。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
