@@ -10344,8 +10344,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Even if your next presentation is on an entirely different subject, you can probably cannibalize large pieces of your previous presentations and save yourself time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T124918Z" creationid="Franklin Weng" creationdate="20180120T124918Z">
-        <seg>即使你下一次簡報是完全不同的主題，你還是可能可以用上這一份簡報中大部份的元素，而節省你不少時間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T141516Z" creationid="Franklin Weng" creationdate="20180120T124918Z">
+        <seg>即使你下一次的簡報主題完全不同，還是可以擷取這一份簡報的大部份元素來用，能替你節省不少時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17933,11 +17933,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>這個選項好像經試驗不能儲存簡報副本耶，把「完整的簡報副本」這邊砍掉囉。</note>
       <tuv lang="EN">
         <seg>Save your background and structural templates and copies of complete presentations using &lt;f1&gt;File &gt; Template&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Save &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;A&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;s Template&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T141059Z" creationid="Franklin Weng" creationdate="20180120T124822Z">
-        <seg>使用選單中的「&lt;f1&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f1&gt;」把你的背景跟結構式範本，還有完整的簡報副本儲存起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T141308Z" creationid="Franklin Weng" creationdate="20180120T124822Z">
+        <seg>使用選單中的「&lt;f1&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f1&gt;」把你的背景跟結構式範本儲存起來。</seg>
       </tuv>
     </tu>
     <tu>
