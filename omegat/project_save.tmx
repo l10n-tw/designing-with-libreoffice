@@ -12984,6 +12984,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;f1&gt;Heading 1&lt;/f1&gt; was used only for the chapter title, then the header would always include the chapter title.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133320Z" creationid="Jeff Huang" creationdate="20180127T133320Z">
+        <seg>如果&lt;f1&gt;標題 1&lt;/f1&gt;僅用於章節標題，那麼頁首就會一直包含章節標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a color is important in the document – perhaps because it is a corporate color – give it a suitable name, such as &lt;f0&gt;Devilfish Software Red&lt;/f0&gt;, so you can locate it quickly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095434Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
@@ -24755,6 +24763,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T091702Z" creationid="Franklin Weng" creationdate="20180120T114537Z">
         <seg>你也可以分別用兩張投影片達到類似的效果，不過把問跟答放在同一張投影片上有助於讓大家更容易瞭解這是同一題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You could then have a right page that repeats &lt;f2&gt;Heading 2&lt;/f2&gt; texts to help readers see where they are in the chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133445Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
+        <seg>你可能會在右頁使用&lt;f2&gt;標題 2&lt;/f2&gt;的文字來當作頁首以協助讀者確認目前在章節中的位置。</seg>
       </tuv>
     </tu>
     <tu>
