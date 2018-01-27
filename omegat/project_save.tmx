@@ -7631,6 +7631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At this point, you may want to revisit your paragraph styles for headers and footers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033823Z" creationid="Jeff Huang" creationdate="20180127T033823Z">
+        <seg>此時，你可能會想要重新造訪頁首與頁尾的段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At this point, you should see very few problems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T084245Z" creationid="Jeff Huang" creationdate="20171214T064324Z">
@@ -24514,6 +24522,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141441Z" creationid="zerng07" creationdate="20171212T141441Z">
         <seg>你不需要懂每個樣式的各個細部特徵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have &lt;f0&gt;Header Left, Header Right, Footer Left,&lt;/f0&gt; and &lt;f1&gt;Footer Right&lt;/f1&gt; by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T034034Z" creationid="Jeff Huang" creationdate="20180127T034034Z">
+        <seg>預設會有&lt;f0&gt;左頁首、右頁首、左頁首&lt;/f0&gt;與&lt;f1&gt;右頁尾&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
