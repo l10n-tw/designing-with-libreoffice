@@ -18238,6 +18238,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set up a paragraph style on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab so that it starts a new page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134307Z" creationid="Jeff Huang" creationdate="20180127T134307Z">
+        <seg>在&lt;f0&gt;排文和分頁&lt;/f0&gt;標籤頁設定段落樣式，這樣它就會開始新的一頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting &lt;f0&gt;a&lt;/f0&gt;lignment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T132910Z" creationid="Franklin Weng" creationdate="20180118T033230Z">
@@ -20362,6 +20370,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133756Z" creationid="Franklin Weng" creationdate="20180117T120921Z">
         <seg>投影片的預設字型大小為：題名44 點，&lt;f0&gt;第一層大綱&lt;/f0&gt;18 點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called&lt;f3&gt; Chapter Number&lt;/f3&gt; is less conf&lt;f4&gt;using.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134550Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
+        <seg>預設值為&lt;f1&gt;標題 1，&lt;/f1&gt;但&lt;f2&gt;標題&lt;/f2&gt;或稱為&lt;f3&gt;章節編號&lt;/f3&gt;的自訂樣式較不易使人困惑。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22585,6 +22601,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134856Z" creationid="Jeff Huang" creationdate="20180118T134856Z">
         <seg>要移除它們，在物件上點按右鍵並選取&lt;f0&gt;「線條 &gt; 樣式 &gt; 無」。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up a running header or footer:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134156Z" creationid="Jeff Huang" creationdate="20180127T134156Z">
+        <seg>要設定自動帶入的頁首或頁尾：</seg>
       </tuv>
     </tu>
     <tu>
