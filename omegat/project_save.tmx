@@ -2792,8 +2792,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Many&lt;/f0&gt; versions of LibreOffice have a console built in that let you &lt;f1&gt;read the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Notes&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab &lt;/f4&gt;as the slide show runs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121345Z" creationid="Franklin Weng" creationdate="20180120T121345Z">
-        <seg>在&lt;f0&gt;許多&lt;/f0&gt;版本的 LibreOffice 都有內建一個功能，讓你在簡報期間可以看你做的備註。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093847Z" creationid="Franklin Weng" creationdate="20180120T121345Z">
+        <seg>LibreOffice有&lt;f0&gt;許多&lt;/f0&gt;版本都內建一個演講者主控臺，讓你在簡報期間可以看到你寫的備註。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10055,8 +10055,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>During the presentation, each line will be hidden until you click on it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121126Z" creationid="Franklin Weng" creationdate="20180120T121126Z">
-        <seg>在簡報期間，每一行都會等你點按時才會出現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093626Z" creationid="Franklin Weng" creationdate="20180120T121126Z">
+        <seg>在簡報期間，每一行都要等你點按滑鼠才會出現。</seg>
       </tuv>
     </tu>
     <tu>
