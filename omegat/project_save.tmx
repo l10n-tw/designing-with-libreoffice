@@ -4290,6 +4290,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using r&lt;/f0&gt;unning headers &lt;f1&gt;and&lt;/f1&gt; footers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T132432Z" creationid="Jeff Huang" creationdate="20180127T132432Z">
+        <seg>使用自動帶入的頁首與頁尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; menu to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Rotate, Flip,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Convert&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; shapes may help to make primitives more versatile.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T030238Z" creationid="Jeff Huang" creationdate="20180122T030238Z">
@@ -12235,6 +12243,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180107T061739Z" creationid="Franklin Weng" creationdate="20180107T061648Z">
         <seg>不過在你選擇用投影片之前（假設你還有其他選擇的話），你應該要先問問你自己&lt;f0&gt;到底是不是真的需要。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, before you publish, you probably want to delete these fields, and replace them with ones for the chapter title.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T131548Z" creationid="Jeff Huang" creationdate="20180127T131548Z">
+        <seg>不過，在你發佈前，你可能會想要刪除這些欄位，並以章節標題取代它們。</seg>
       </tuv>
     </tu>
     <tu>
