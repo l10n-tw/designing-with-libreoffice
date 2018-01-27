@@ -18125,6 +18125,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you ever want this arrangement, you would have to give your paragraph style&lt;f0&gt;s&lt;/f0&gt; indents on the left and right, so that they use a shorter line than the header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023848Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
+        <seg>如果你想要這樣做，你就必須讓你的頁面樣式在左右有額外的縮進，這樣才能讓它們使用比頁首或頁尾還短的行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, &lt;f0&gt;when&lt;/f0&gt; &lt;f1&gt;I &lt;/f1&gt;realiz&lt;f2&gt;ed&lt;/f2&gt; th&lt;f3&gt;e template worked best&lt;/f3&gt; for short letters, I added a &lt;f4&gt;page&lt;/f4&gt; with a footer containing the page number for longer letters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141102Z" creationid="zerng07" creationdate="20180125T140403Z">
@@ -24298,6 +24306,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133446Z" creationid="Franklin Weng" creationdate="20171223T124324Z">
         <seg>至於隨LibreOffice安裝的範本、透過擴充套件安裝的範本、或是給全域系統使用的範本，除了擴充套件可以從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 擴充套件管理員&lt;/f2&gt;&lt;/f1&gt;」刪除以外，其餘都無法刪除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot enter a negative number &lt;f0&gt;to make&lt;/f0&gt; a header or footer extend into the left or right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023612Z" creationid="Jeff Huang" creationdate="20180127T023612Z">
+        <seg>你不能輸入負值&lt;f0&gt;讓&lt;/f0&gt;頁首與頁尾延伸得比左右邊距更外面。</seg>
       </tuv>
     </tu>
     <tu>
