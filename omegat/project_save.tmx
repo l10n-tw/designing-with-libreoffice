@@ -3159,6 +3159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;unning headers or footers &lt;f1&gt;can be set up using any paragraph style set as an outline level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133736Z" creationid="Jeff Huang" creationdate="20180127T133736Z">
+        <seg>自動帶入的頁首與頁尾&lt;f1&gt;可以設定使用任何設定了大綱等級的段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;RGB&lt;/f0&gt; uses red, green, and blue, &lt;f1&gt;CMYK &lt;/f1&gt;cyan, magenta, yellow, and black.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120002Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
