@@ -13089,6 +13089,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using the footer or header to include a recurring image, then the &lt;f3&gt;Height&lt;/f3&gt; will need to be at least the height of the image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024638Z" creationid="Jeff Huang" creationdate="20180127T024638Z">
+        <seg>如果你正在使用包含了反覆出現的圖片的頁首或頁尾，&lt;f3&gt;高度&lt;/f3&gt;必須至少與圖片的高度相等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can possibly make the &lt;f1&gt;Outline 1&lt;/f1&gt; style larger, do so.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T125257Z" creationid="Franklin Weng" creationdate="20180117T121036Z">
@@ -16204,6 +16212,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T025854Z" creationid="Jeff Huang" creationdate="20180122T025854Z">
         <seg>一般來說，你所需要的效果取決於整個堆疊頂部或底部的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, this will be the line height of the body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024333Z" creationid="Jeff Huang" creationdate="20180127T024333Z">
+        <seg>一般來說，這應該會是正文的行高。</seg>
       </tuv>
     </tu>
     <tu>
