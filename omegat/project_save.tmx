@@ -15454,6 +15454,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Making the text smaller than the body text only reduces the usefulness of headers and footers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T035649Z" creationid="Jeff Huang" creationdate="20180127T035649Z">
+        <seg>讓這些文字小於正文的文字只會降低頁首與頁尾的用處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual formatting &lt;f0&gt;(also called direct formatting)&lt;/f0&gt; is how most people design a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180830Z" creationid="zerng07" creationdate="20170824T160945Z">
@@ -20797,6 +20805,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003650Z" creationid="zerng07" creationdate="20180123T130138Z">
         <seg>其餘選項——&lt;f0&gt;&lt;f1&gt;兩端對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;、&lt;/f2&gt;&lt;f3&gt;置中&lt;/f3&gt;、&lt;f4&gt;拉長一個單字&lt;/f4&gt;，&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;甚至是&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;預設&lt;/f8&gt;&lt;/f7&gt;——看起來全都&lt;f9&gt;不美觀&lt;/f9&gt;&lt;f10&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The page number, perhaps, can be larger.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T035123Z" creationid="Jeff Huang" creationdate="20180127T035123Z">
+        <seg>頁碼也許可以大一點。</seg>
       </tuv>
     </tu>
     <tu>
