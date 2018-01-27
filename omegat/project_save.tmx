@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;In the &lt;f1&gt;Custom Animation &lt;/f1&gt;pane, &lt;f2&gt;click&lt;/f2&gt; the &lt;f3&gt;Plus&lt;/f3&gt; button and select&lt;f4&gt; Entran&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;c&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;e &gt; Appear &lt;/f7&gt;from the dialog box.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120432Z" creationid="Franklin Weng" creationdate="20180120T120432Z">
-        <seg>&lt;/f0&gt;在右方的&lt;f1&gt;動畫面板&lt;/f1&gt;上，&lt;f2&gt;點按&lt;/f2&gt;「&lt;f3&gt;+&lt;/f3&gt;」鍵，然後在下面的「效果」選擇「&lt;f4&gt;現身&lt;/f4&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T092941Z" creationid="Franklin Weng" creationdate="20180120T120432Z">
+        <seg>&lt;/f0&gt;在右方的&lt;f1&gt;動畫面板&lt;/f1&gt;上，&lt;f2&gt;點按&lt;/f2&gt;「&lt;f3&gt;+&lt;/f3&gt;」按鈕，接著在下面的「效果」選擇「&lt;f4&gt;現身&lt;/f4&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4455,8 +4455,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can adjust animations from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Direction&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Speed&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields, but in this case you probably don’t need to.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120630Z" creationid="Franklin Weng" creationdate="20180120T120630Z">
-        <seg>&lt;f0&gt;你可以調整動畫出現的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;方向&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;速度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，不過在這個例子中並不需要。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093027Z" creationid="Franklin Weng" creationdate="20180120T120630Z">
+        <seg>&lt;f0&gt;你還可以調整動畫出現的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;方向&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;速度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，不過這個例子中不需要。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5604,8 +5604,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Custom Animation&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; pane opens.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120228Z" creationid="Franklin Weng" creationdate="20180120T120228Z">
-        <seg>&lt;f3&gt;右方會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;動畫&lt;/f5&gt;&lt;/f4&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T092852Z" creationid="Franklin Weng" creationdate="20180120T120228Z">
+        <seg>&lt;f3&gt;側邊欄會打開&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;動畫&lt;/f5&gt;&lt;/f4&gt;」面板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,8 +8789,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Check that &lt;f0&gt;Effect Appear &gt; Start &lt;/f0&gt;on the&lt;f1&gt; Custom Animation&lt;/f1&gt; pane is set to &lt;f2&gt;On Click.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120515Z" creationid="Franklin Weng" creationdate="20180120T120515Z">
-        <seg>在下面的「&lt;f0&gt;開始&lt;/f0&gt;」選單中選擇「&lt;f2&gt;點按時&lt;/f2&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T092957Z" creationid="Franklin Weng" creationdate="20180120T120515Z">
+        <seg>在下面的「&lt;f0&gt;開始&lt;/f0&gt;」欄位中選擇「&lt;f2&gt;點按時&lt;/f2&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19462,8 +19462,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Custom Animation &lt;/f0&gt;pane &lt;f1&gt;and&lt;/f1&gt; its dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120709Z" creationid="Franklin Weng" creationdate="20180120T120709Z">
-        <seg>動畫面板。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093057Z" creationid="Franklin Weng" creationdate="20180120T120709Z">
+        <seg>側邊欄中的動畫標籤頁與其面板。</seg>
       </tuv>
     </tu>
     <tu>
