@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Adding&lt;/f0&gt; header &lt;f1&gt;and&lt;/f1&gt; footer paragraph styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033703Z" creationid="Jeff Huang" creationdate="20180127T033703Z">
+        <seg>&lt;f0&gt;新增&lt;/f0&gt;頁首&lt;f1&gt;與&lt;/f1&gt;頁尾段落格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adjusting the page c&lt;/f0&gt;olor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T104745Z" creationid="Franklin Weng" creationdate="20180105T130657Z">
@@ -1531,8 +1539,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;More&lt;/f1&gt; button on a &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab to reach the &lt;f4&gt;Border/Background&lt;/f4&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T030724Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
-        <seg>&lt;f0&gt;點按&lt;/f0&gt;位於&lt;f2&gt;頁首&lt;/f2&gt;或&lt;f3&gt;頁尾&lt;/f3&gt;標籤頁中的&lt;f1&gt;更多&lt;/f1&gt;按鈕以進入&lt;f4&gt;邊框／背景&lt;/f4&gt;標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033536Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
+        <seg>&lt;f0&gt;點按&lt;/f0&gt;位於&lt;f2&gt;頁首&lt;/f2&gt;或&lt;f3&gt;頁尾&lt;/f3&gt;標籤頁中的&lt;f1&gt;其他&lt;/f1&gt;按鈕以進入&lt;f4&gt;邊框／背景&lt;/f4&gt;標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
