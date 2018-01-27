@@ -3121,8 +3121,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Presentation always on top&lt;/f0&gt; &lt;f1&gt;floats Impress above any other open windows, preventing you from fumbling in front of your audience.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T124127Z" creationid="Franklin Weng" creationdate="20180120T124127Z">
-        <seg>「&lt;f0&gt;自動前端顯示放映簡報投影片&lt;/f0&gt;」&lt;f1&gt;會讓 Impress 的視窗保持在前景最頂層，避免簡報時在聽眾前切到別的視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T102243Z" creationid="Franklin Weng" creationdate="20180120T124127Z">
+        <seg>「&lt;f0&gt;自動前端顯示放映簡報投影片&lt;/f0&gt;」&lt;f1&gt;會讓Impress的視窗保持在前景最頂層，也就是所有其他開啟的視窗之上，可以避免簡報時有對話窗彈出而發生糗事。</seg>
       </tuv>
     </tu>
     <tu>
