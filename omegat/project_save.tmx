@@ -8544,6 +8544,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>By default, that means using heading styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133811Z" creationid="Jeff Huang" creationdate="20180127T133811Z">
+        <seg>預設情況下，這代表會使用標題樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>哪來這麼多垃圾標籤......
 Franklin: 頁數修改注意</note>
       <tuv lang="EN">
@@ -13036,6 +13044,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T133456Z" creationid="Jeff Huang" creationdate="20171228T065802Z">
         <seg>若線條與你的設計無關，請將線條&lt;f3&gt;樣式&lt;/f3&gt;設定為&lt;f4&gt;無，&lt;/f4&gt;這樣你只需要關心區域格式設定即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If more than one paragraph style is assigned to the same outline level, you may have unexpected results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134136Z" creationid="Jeff Huang" creationdate="20180127T134136Z">
+        <seg>如果有一個以上的段落樣式被指定了同一個大綱等級，你可能會得到非預期的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17962,6 +17978,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100246Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
         <seg>詳情可以看第 13 章。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Adding header and footer paragraph styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;1&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133913Z" creationid="Jeff Huang" creationdate="20180127T133913Z">
+        <seg>請見「&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;新增頁首與頁尾段落樣式&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;」第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;1&lt;/bf6&gt;&lt;/f5&gt;頁&lt;f7&gt;。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
