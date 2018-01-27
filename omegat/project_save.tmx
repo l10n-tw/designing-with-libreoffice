@@ -5257,6 +5257,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;However, &lt;/f2&gt;you might &lt;t3/&gt;want to &lt;f4&gt;create&lt;/f4&gt; &lt;f5&gt;Header Center &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Left&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;and &lt;f9&gt;Header Center &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Right&lt;/f11&gt;&lt;/f10&gt; as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T034318Z" creationid="Jeff Huang" creationdate="20180127T034318Z">
+        <seg>&lt;f2&gt;不過，&lt;/f2&gt;你可能會也會想要&lt;f4&gt;建立&lt;/f4&gt;&lt;f5&gt;中頁首&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;左&lt;/f7&gt;&lt;/f6&gt;與&lt;f9&gt;中頁首&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;右&lt;/f11&gt;&lt;/f10&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;However, this practice can cause other pages in the document to change their style &lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt; not all the time, but often enough that the method is unreliable.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093627Z" creationid="Jeff Huang" creationdate="20180124T093627Z">
