@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Many fields have the advantage of updating automatically, or of taking information directly from your personal information or from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T130117Z" creationid="Jeff Huang" creationdate="20180127T130117Z">
+        <seg>&lt;f0&gt;更多欄位有自動更新的優點，或是直接從你的個人資訊中取得資訊，又或是從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案 &gt; 屬性」。&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Many fonts use the same classifications.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T124642Z" creationid="Franklin Weng" creationdate="20171231T124642Z">
@@ -9366,8 +9374,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Created</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125425Z" creationid="Jeff Huang" creationdate="20180127T125425Z">
-        <seg>創作時間</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125818Z" creationid="Jeff Huang" creationdate="20180127T125425Z">
+        <seg>建立時間</seg>
       </tuv>
     </tu>
     <tu>
@@ -10610,6 +10618,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T123921Z" creationid="Franklin Weng" creationdate="20171223T093413Z">
         <seg>欄位是在範本中另一種儲存資訊的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fields for headers and footers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125859Z" creationid="Jeff Huang" creationdate="20180127T125859Z">
+        <seg>頁首與頁尾欄位</seg>
       </tuv>
     </tu>
     <tu>
@@ -14980,6 +14996,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Printed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125834Z" creationid="Jeff Huang" creationdate="20180127T125834Z">
+        <seg>上次列印時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Layout that calls attention to itself is bad layout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T063631Z" creationid="Jeff Huang" creationdate="20180116T063631Z">
@@ -17024,6 +17048,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Count</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125843Z" creationid="Jeff Huang" creationdate="20180127T125843Z">
+        <seg>頁面內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page design is based on the two-page spread of left and right pages, because that is what you see when reading&lt;f0&gt; a book unless you are on the first or, sometimes, the final page&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T091129Z" creationid="Jeff Huang" creationdate="20180124T091129Z">
@@ -17587,8 +17619,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Revision</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125457Z" creationid="Jeff Huang" creationdate="20180127T125457Z">
-        <seg>修訂版本</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125808Z" creationid="Jeff Huang" creationdate="20180127T125457Z">
+        <seg>修訂編號</seg>
       </tuv>
     </tu>
     <tu>
