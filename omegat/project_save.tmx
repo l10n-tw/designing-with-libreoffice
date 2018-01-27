@@ -16805,6 +16805,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other possible contents includes the fields available in&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Insert &gt; Fields.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T124209Z" creationid="Jeff Huang" creationdate="20180127T124209Z">
+        <seg>其他可能的內容包含了在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 欄位」&lt;/f2&gt;&lt;/f1&gt;中提供的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other sections are distinctly not about styles, but needed for a full discussion about design.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T163316Z" creationid="zerng07" creationdate="20170817T162828Z">
@@ -20082,6 +20090,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095256Z" creationid="zerng07" creationdate="20180123T091015Z">
         <seg>&lt;f2&gt;兩個連續&lt;/f2&gt;段落間的&lt;f0&gt;之上&lt;/f0&gt;與&lt;f1&gt;之下&lt;/f1&gt;間距設定結合效果，&lt;f3&gt;可能造成未預期的大空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents for headers and footers generally include &lt;f0&gt;static information such as the document name, chapter name, and writer’s name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T123829Z" creationid="Jeff Huang" creationdate="20180127T123829Z">
+        <seg>頁首與頁尾的內容通常包含了&lt;f0&gt;靜態資訊，如文件名稱、章節名稱與作者名稱。</seg>
       </tuv>
     </tu>
     <tu>
