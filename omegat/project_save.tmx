@@ -2672,8 +2672,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice offers nearly sixty different transitions available from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Slide Transition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Slide Transition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the sidebar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T070631Z" creationid="Franklin Weng" creationdate="20180118T144419Z">
-        <seg>&lt;f0&gt;LibreOffice提供近六十種不同的轉場效果&lt;/f0&gt;，從選單中選擇「&lt;f2&gt;投影片 &gt; 投影片轉場&lt;/f2&gt;」，或是在側邊欄「&lt;f5&gt;投影片轉場&lt;/f5&gt;」圖示選項按下去就能看到。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T071020Z" creationid="Franklin Weng" creationdate="20180118T144419Z">
+        <seg>&lt;f0&gt;LibreOffice提供近六十種不同的轉場效果&lt;/f0&gt;，從選單中選擇「&lt;f2&gt;投影片 &gt; 投影片轉場&lt;/f2&gt;」，或是在側邊欄「&lt;f5&gt;投影片轉場&lt;/f5&gt;」標籤頁按下去就能看到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17515,8 +17515,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Right-click anywhere on the &lt;f0&gt;master &lt;/f0&gt;slide and select &lt;f1&gt;Set Background &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Image&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; for Slide &lt;/f4&gt;&lt;f5&gt;or the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Available for Use&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; pane in the sidebar&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T070729Z" creationid="Franklin Weng" creationdate="20180114T140941Z">
-        <seg>你可以到側邊欄中的「投影片母片」選項，直接選擇「可使用」項目下的背景。 5.4 [你也可以在投影片母片上任意處點按右鍵，選取「設定背景影像」；] / 5.4或6.0 [或是從選單中的「投影片 &gt; 設定背景影像」；]   / 6.0新增[在側邊欄的「屬性」圖示選項，點按「插入背景」按鈕；][你也可以在投影片母片上任意處點按右鍵，選取「屬性」，切換到「背景」標籤頁中，選擇「點陣圖」按鈕，在左方點陣圖窗格最下方點按「加入/匯入」；]</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T070903Z" creationid="Franklin Weng" creationdate="20180114T140941Z">
+        <seg>你可以到側邊欄中的「投影片母片」選項，直接選擇「可使用」項目下的背景。 5.4 [你也可以在投影片母片上任意處點按右鍵，選取「設定背景影像」；] / 5.4或6.0 [或是從選單中的「投影片 &gt; 設定背景影像」；]   / 6.0新增[在側邊欄的「屬性」面板中，點按「插入背景」按鈕；][你也可以在投影片母片上任意處點按右鍵，選取「屬性」，切換到「背景」標籤頁中，選擇「點陣圖」按鈕，在左方點陣圖窗格最下方點按「加入/匯入」；]</seg>
       </tuv>
     </tu>
     <tu>
@@ -23498,8 +23498,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you add a table, the &lt;f0&gt;Properties&lt;/f0&gt; pane adds &lt;f1&gt;a&lt;/f1&gt; &lt;f2&gt;Table Design&lt;/f2&gt; &lt;f3&gt;tab.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;Many of the check boxes under &lt;f5&gt;Table Design&lt;/f5&gt; can be useful for formatting, but, unfortunately, the default colors are unlikely to &lt;f6&gt;match&lt;/f6&gt; your slide show.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T070041Z" creationid="Franklin Weng" creationdate="20180118T143457Z">
-        <seg>在加入表格之後，側邊欄的「&lt;f0&gt;屬性&lt;/f0&gt;」面板會多一個「&lt;f2&gt;表格設計&lt;/f2&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;。在這「&lt;f5&gt;表格設計&lt;/f5&gt;」下有許多勾選框很方便設定格式。不過可惜的是，預設配色不見得&lt;f6&gt;適合&lt;/f6&gt;你的投影片。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T070953Z" creationid="Franklin Weng" creationdate="20180118T143457Z">
+        <seg>在加入表格之後，側邊欄的「&lt;f0&gt;屬性&lt;/f0&gt;」面板下方會多一個「&lt;f2&gt;表格設計&lt;/f2&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;。在這「&lt;f5&gt;表格設計&lt;/f5&gt;」下有許多勾選框很方便設定格式。不過可惜的是，預設配色不見得&lt;f6&gt;適合&lt;/f6&gt;你的投影片。</seg>
       </tuv>
     </tu>
     <tu>
