@@ -15301,7 +15301,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>不確定「隱藏字型效果」是指什麼，先 skip</note>
+      <note>不確定「隱藏字型效果」是指什麼，先 skip。=&gt; 看起來是已經被砍掉的功能，爬 UI 可翻譯的字串爬不到。</note>
       <tuv lang="EN">
         <seg>Like the &lt;f0&gt;Hide Font &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ffect,&lt;/f3&gt; the &lt;f4&gt;Range&lt;/f4&gt; pane is useful for single-sourcing similar presentations in the same file.</seg>
       </tuv>
