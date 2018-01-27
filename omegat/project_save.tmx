@@ -2967,6 +2967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other content is available at &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Fields &gt; Other.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Most of the fields you might consider using are on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab and the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;DocInformation&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125027Z" creationid="Jeff Huang" creationdate="20180127T125027Z">
+        <seg>&lt;f0&gt;其他內容在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 欄位 &gt; 更多欄位」&lt;/f2&gt;&lt;/f1&gt;中提供。&lt;f3&gt;大多數人可能會使用的欄位應該都在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;文件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;文件資訊&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;標籤頁中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Other names for&lt;/f0&gt; pre-defined styles are descriptive, such as &lt;f1&gt;Object without fill&lt;/f1&gt; &lt;f2&gt;in Draw.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161131Z" creationid="zerng07" creationdate="20171227T161131Z">
@@ -7492,6 +7500,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122112Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
         <seg>當你拖曳一個物件時，它會出現在對齊線上，這樣你就可以更精確的地定位其與其他物件之間的關係。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you finish the document, you can delete or replace these temporary fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T124707Z" creationid="Jeff Huang" creationdate="20180127T124707Z">
+        <seg>在你完成文件後，你可以刪除或取代這些暫時欄位。</seg>
       </tuv>
     </tu>
     <tu>
