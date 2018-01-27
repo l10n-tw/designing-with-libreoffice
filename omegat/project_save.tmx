@@ -11326,6 +11326,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you could have a header for left pages that repeats the text of the previous&lt;f0&gt; Heading 1 &lt;/f0&gt;paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133219Z" creationid="Jeff Huang" creationdate="20180127T133219Z">
+        <seg>舉例來說，你可能會在左頁有頁首重覆前一個&lt;f0&gt;標題 1&lt;/f0&gt;段落樣式的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you could place a fixed date field beside a witness' signature, and a variable date field at the top of a letter template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124554Z" creationid="Franklin Weng" creationdate="20171223T094127Z">
