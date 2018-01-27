@@ -5725,8 +5725,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;They are especially useful for before and after pictures when giving instructions.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T070148Z" creationid="Franklin Weng" creationdate="20180120T070148Z">
-        <seg>&lt;f4&gt;特別是在說明做法時，在圖片之前之後加入特別好用。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T083134Z" creationid="Franklin Weng" creationdate="20180120T070148Z">
+        <seg>&lt;f4&gt;這類動畫物件在指示步驟前後差異，和影像前後變化時特別有用。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7177,8 +7177,8 @@
       <tuv lang="EN">
         <seg>Animated &lt;f0&gt;GIF&lt;/f0&gt;s (&lt;f1&gt;Insert &gt; Animated Image&lt;/f1&gt;): Animations can be constructed using &lt;f2&gt;Slide Show &gt; Custom Animation,&lt;/f2&gt; setting up &lt;t3/&gt;the separate images one at a time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T082850Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
-        <seg>動畫式&lt;f0&gt;GIF&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」，並選取動畫式GIF檔）：除了直接插入GIF動畫之外，你也可以先插入幾張影像，接著按「插入 &gt; 媒體 &gt; 動畫式影像」叫出「自製動畫」視窗，然後一次點選一張影像按「套用物件」，在動畫視窗中調整每張影像出現的時間點，最後按下「建立」產生動畫物件。動畫物件製作完成後，可以刪除動畫來源影像，不會影響動畫物件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T082925Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
+        <seg>動畫式&lt;f0&gt;GIF&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」，並選取動畫式GIF檔）：除了直接插入GIF動畫之外，你也可以先插入幾張影像，接著按「插入 &gt; 媒體 &gt; 動畫式影像」叫出「自製動畫」視窗，然後一次點選一張影像按「套用物件」，在動畫視窗中調整每張影像出現的時間點，最後按下「建立」產生動畫物件。動畫物件製作完成後，你可以刪除動畫來源影像，這個動作不會影響動畫物件。</seg>
       </tuv>
     </tu>
     <tu>
