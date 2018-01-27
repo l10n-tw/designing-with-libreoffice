@@ -17765,6 +17765,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running headers (or footers) constantly change according to the latest instance of a particular paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T132649Z" creationid="Jeff Huang" creationdate="20180127T132649Z">
+        <seg>自動帶入的頁首（或頁尾）會根據目前段落樣式的最新狀況不斷更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running the Hyphenation Tool fine-tunes the hyphenation created in a work in progress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T110450Z" creationid="Jeff Huang" creationdate="20171213T025921Z">
