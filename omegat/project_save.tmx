@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;This field &lt;f2&gt;should&lt;/f2&gt; be a multiple of the &lt;f3&gt;line height&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024040Z" creationid="Jeff Huang" creationdate="20180127T024040Z">
+        <seg>&lt;/f1&gt;此欄位&lt;f2&gt;應該&lt;/f2&gt;是&lt;f3&gt;行高&lt;/f3&gt;的整數倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;When working in Draw or Impress, you might get into the habit of replacing &lt;f2&gt;Ctrl+C&lt;/f2&gt; with &lt;f3&gt;Shift+F3&lt;/f3&gt; for copying.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132418Z" creationid="Jeff Huang" creationdate="20171221T080246Z">
@@ -843,6 +851,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024717Z" creationid="zerng07" creationdate="20180122T024437Z">
         <seg>「&lt;f0&gt;&lt;f1&gt;固定&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;行距能讓讓文件具備「行距皆相等」(Register-true) 的特性，所以不必去管下方&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;行距皆相等&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;的設定有沒有啟用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Height:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;The line height of the footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024300Z" creationid="Jeff Huang" creationdate="20180127T024300Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;高度：&lt;/f1&gt;&lt;/f0&gt;頁尾的行高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12909,6 +12925,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134701Z" creationid="Jeff Huang" creationdate="20180121T134701Z">
         <seg>如果圖表過於擁擠導致無法選取要分成一組的形狀，試試看先選取較小的群組，然後再擴大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the distance is wide enough, you may not need a line or any other sort of divider to separate the header or footer from the body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024231Z" creationid="Jeff Huang" creationdate="20180127T024231Z">
+        <seg>如果距離夠寬，你可能不需要空行或任何其他類型的分隔符將頁首與頁尾和正文分開。</seg>
       </tuv>
     </tu>
     <tu>
