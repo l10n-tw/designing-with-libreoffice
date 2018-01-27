@@ -7177,8 +7177,8 @@
       <tuv lang="EN">
         <seg>Animated &lt;f0&gt;GIF&lt;/f0&gt;s (&lt;f1&gt;Insert &gt; Animated Image&lt;/f1&gt;): Animations can be constructed using &lt;f2&gt;Slide Show &gt; Custom Animation,&lt;/f2&gt; setting up &lt;t3/&gt;the separate images one at a time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T082925Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
-        <seg>動畫式&lt;f0&gt;GIF&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」，並選取動畫式GIF檔）：除了直接插入GIF動畫之外，你也可以先插入幾張影像，接著按「插入 &gt; 媒體 &gt; 動畫式影像」叫出「自製動畫」視窗，然後一次點選一張影像按「套用物件」，在動畫視窗中調整每張影像出現的時間點，最後按下「建立」產生動畫物件。動畫物件製作完成後，你可以刪除動畫來源影像，這個動作不會影響動畫物件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T083519Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
+        <seg>動畫式影像（「&lt;f1&gt;插入 &gt; 媒體 &gt; 動畫式影像&lt;/f1&gt;」）：你可以先插入好你想要作成動畫的一組影像，接著按「插入 &gt; 媒體 &gt; 動畫式影像」叫出「自製動畫」視窗，然後依序一次點選一張影像按下「套用物件」按鈕，就能在動畫視窗中調整每張影像出現的時間點，最後按下「建立」產生動畫物件。動畫物件製作完成後，可以刪除你的動畫來源影像，刪除動作不會影響你的動畫物件。</seg>
       </tuv>
     </tu>
     <tu>
