@@ -23722,6 +23722,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While you are writing, you might want to use temporary contents, especially fields from &lt;f0&gt;Insert &gt; Fields &gt; Document, &lt;/f0&gt;such &lt;t1/&gt;as the word count or template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T124610Z" creationid="Jeff Huang" creationdate="20180127T124610Z">
+        <seg>當你在撰寫文件時，你可能會想要使用一些臨時的內容，特別是從&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件」&lt;/f0&gt;而來的欄位，如字數或範本等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While you can design your own slide layouts, there are few reasons not to stay with the &lt;f0&gt;default ones.&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074818Z" creationid="Franklin Weng" creationdate="20180120T065212Z">
