@@ -6631,8 +6631,8 @@
       <tuv lang="EN">
         <seg>Additional &lt;f0&gt;images&lt;/f0&gt; (&lt;f1&gt;Insert &gt; Image&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T075103Z" creationid="Franklin Weng" creationdate="20180120T065428Z">
-        <seg>額外加入&lt;f0&gt;影像&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T075156Z" creationid="Franklin Weng" creationdate="20180120T065428Z">
+        <seg>額外&lt;f0&gt;影像&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7172,12 +7172,13 @@
       </tuv>
     </tu>
     <tu>
-      <note>依現狀改寫，現在的版本似乎沒有 GIF，不確定是否正確。</note>
+      <note>GIF動畫可以直接從「插入 &gt; 影像」中選取，投影放映時會自動播放；而「插入 &gt; 媒體 &gt; 動畫式影像」視窗要在你有插入動畫 GIF「之後」並點選這張GIF才有用，接著點按「套用個別圖示」按鈕載入這個GIF動畫，按右邊的「刪除目前影像」可以把GIF動畫中的一張影像刪除，按「建立」可以另存新的GIF。
+但是，目前似乎沒有安排圖片「自製GIF動畫」這種功能了。</note>
       <tuv lang="EN">
         <seg>Animated &lt;f0&gt;GIF&lt;/f0&gt;s (&lt;f1&gt;Insert &gt; Animated Image&lt;/f1&gt;): Animations can be constructed using &lt;f2&gt;Slide Show &gt; Custom Animation,&lt;/f2&gt; setting up &lt;t3/&gt;the separate images one at a time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T070108Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
-        <seg>&lt;f0&gt;GIF&lt;/f0&gt; 動畫（「&lt;f1&gt;插入 &gt; 媒體 &gt; 動畫式影像&lt;/f1&gt;」）：動畫可以一次一張自行建構。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T082850Z" creationid="Franklin Weng" creationdate="20180120T070108Z">
+        <seg>動畫式&lt;f0&gt;GIF&lt;/f0&gt;（「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」，並選取動畫式GIF檔）：除了直接插入GIF動畫之外，你也可以先插入幾張影像，接著按「插入 &gt; 媒體 &gt; 動畫式影像」叫出「自製動畫」視窗，然後一次點選一張影像按「套用物件」，在動畫視窗中調整每張影像出現的時間點，最後按下「建立」產生動畫物件。動畫物件製作完成後，可以刪除動畫來源影像，不會影響動畫物件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12681,8 +12682,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can also add:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074904Z" creationid="Franklin Weng" creationdate="20180120T065348Z">
-        <seg>不過，你也可以加入：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T075159Z" creationid="Franklin Weng" creationdate="20180120T065348Z">
+        <seg>不過，你也可以再加入：</seg>
       </tuv>
     </tu>
     <tu>
