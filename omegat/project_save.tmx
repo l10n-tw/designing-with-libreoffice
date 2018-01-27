@@ -2078,8 +2078,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From a Drawing Objects style, you can only use the fills that are already defined for LibreOffice as a whole.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094856Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
-        <seg>&lt;f0&gt;從繪圖物件樣式中，你只能使用已在LibreOffice中定義好的填充格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074332Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
+        <seg>&lt;f0&gt;從繪圖樣式中，你只能使用已在LibreOffice中定義好的填充格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4527,8 +4527,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can use Drawing Object styles &lt;/f0&gt;to add your own &lt;f1&gt;unique &lt;/f1&gt;designs, but selecting from the &lt;f2&gt;pre&lt;/f2&gt;-defined layouts is &lt;f3&gt;almost always &lt;/f3&gt;a better use of your time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074151Z" creationid="Franklin Weng" creationdate="20180120T065113Z">
-        <seg>&lt;f0&gt;你可以用「繪圖物件樣式」&lt;/f0&gt;來新增你自己的&lt;f1&gt;獨家&lt;/f1&gt;設計。不過直接使用&lt;f2&gt;預先&lt;/f2&gt;定義好的版面配置，是&lt;f3&gt;最省時間也最有效率的做法&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074328Z" creationid="Franklin Weng" creationdate="20180120T065113Z">
+        <seg>&lt;f0&gt;你可以用「繪圖樣式」&lt;/f0&gt;來新增你自己的&lt;f1&gt;獨家&lt;/f1&gt;設計。不過直接使用&lt;f2&gt;預先&lt;/f2&gt;定義好的版面配置，是&lt;f3&gt;最省時間也最有效率的做法&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,16 +10014,16 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Drawing Object styles (called Graphics styles in OpenOffice &lt;f0&gt;and earlier versions of LibreOffice&lt;/f0&gt;) treat text as &lt;f1&gt;one feature of &lt;/f1&gt;objects, and are covered in Chapter 1&lt;f2&gt;3&lt;/f2&gt; when Draw is discussed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122442Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
-        <seg>第一種「繪圖物件樣式」（Drawing Object styles，&lt;f0&gt;在 OpenOffice和早期版本的LibreOffice中稱為「圖形樣式」Graphics styles&lt;/f0&gt;）是把文字作為物件的&lt;f1&gt;特徵之一&lt;/f1&gt;，這部份在第 13 章討論Draw時會談。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074321Z" creationid="Franklin Weng" creationdate="20180116T094356Z">
+        <seg>第一種「繪圖樣式」（Drawing styles，&lt;f0&gt;在 OpenOffice和早期版本的LibreOffice中稱為「圖形樣式」Graphics styles&lt;/f0&gt;）是把文字作為物件的&lt;f1&gt;特徵之一&lt;/f1&gt;，這部份在第 13 章討論Draw時會談。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Drawing Object styles and charts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051504Z" creationid="Jeff Huang" creationdate="20171220T074003Z">
-        <seg>繪圖物件樣式與圖表</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074513Z" creationid="Jeff Huang" creationdate="20171220T074003Z">
+        <seg>繪圖樣式與圖表</seg>
       </tuv>
     </tu>
     <tu>
