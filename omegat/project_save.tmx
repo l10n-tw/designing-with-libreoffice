@@ -6629,6 +6629,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjusting the &lt;f0&gt;b&lt;/f0&gt;order &lt;f1&gt;and&lt;/f1&gt; &lt;f2&gt;b&lt;/f2&gt;ackground</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024704Z" creationid="Jeff Huang" creationdate="20180127T024704Z">
+        <seg>調整邊框與背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Admittedly, styles are less useful in other applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T180052Z" creationid="zerng07" creationdate="20171223T174721Z">
@@ -19302,6 +19310,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040807Z" creationid="Jeff Huang" creationdate="20171228T075921Z">
         <seg>「&lt;f0&gt;自動&lt;/f0&gt;&lt;f3&gt;垂直&lt;/f3&gt;」勾選框會將圖例垂直置中，「&lt;f4&gt;自動&lt;/f4&gt;&lt;f7&gt;水平&lt;/f7&gt;」則是&lt;f8&gt;水平置中&lt;/f8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Border/Background&lt;/f0&gt; tab &lt;f1&gt;for headers and footers &lt;/f1&gt;is full of settings that need to be used cautiously.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024936Z" creationid="Jeff Huang" creationdate="20180127T024936Z">
+        <seg>頁首與頁尾的&lt;f0&gt;邊框／背景&lt;/f0&gt;標籤頁是必須小心使用的完整設定。</seg>
       </tuv>
     </tu>
     <tu>
