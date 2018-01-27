@@ -6589,6 +6589,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding content to headers &lt;f0&gt;and&lt;/f0&gt; footers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T035711Z" creationid="Jeff Huang" creationdate="20180127T035711Z">
+        <seg>新增內容到頁首與頁尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding footer information</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180116T092106Z" creationid="Franklin Weng" creationdate="20180116T092106Z">
@@ -10537,6 +10545,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T133331Z" creationid="zerng07" creationdate="20170817T133331Z">
         <seg>擁有超過630個字族，Google Fonts 主要目標是用於線上顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fields are a common source of header and footer contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T035859Z" creationid="Jeff Huang" creationdate="20180127T035859Z">
+        <seg>欄位通常是頁首與頁尾內容的來源。</seg>
       </tuv>
     </tu>
     <tu>
