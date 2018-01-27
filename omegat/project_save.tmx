@@ -1636,8 +1636,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create custom slides shows from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Custom Slide Show.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123302Z" creationid="Franklin Weng" creationdate="20180120T123302Z">
-        <seg>&lt;f0&gt;你可以透過選單的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;投影片放映 &gt; 自訂投影片放映&lt;/f2&gt;&lt;/f1&gt;」功能來做。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T101211Z" creationid="Franklin Weng" creationdate="20180120T123302Z">
+        <seg>&lt;f0&gt;你可以利用選單的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;投影片放映 &gt; 自訂投影片放映&lt;/f2&gt;&lt;/f1&gt;」功能製作各種情境的自訂投影片。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5805,8 +5805,8 @@
       <tuv lang="EN">
         <seg>&lt;f5&gt;Within the same presentation, you can store several different shows, each for a different audience or circumstance.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123214Z" creationid="Franklin Weng" creationdate="20180120T123214Z">
-        <seg>&lt;f5&gt;在同一份簡報中，你可以儲存幾種不同的展演方式，針對不同的聽眾或情境。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T100950Z" creationid="Franklin Weng" creationdate="20180120T123214Z">
+        <seg>&lt;f5&gt;也就是你在同一份簡報中，可以儲存好幾種不同的講演內容，針對不同類型的聽眾或情境使用。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15305,8 +15305,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like the &lt;f0&gt;Hide Font &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ffect,&lt;/f3&gt; the &lt;f4&gt;Range&lt;/f4&gt; pane is useful for single-sourcing similar presentations in the same file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T100602Z" creationid="Franklin Weng" creationdate="20180120T123138Z">
-        <seg>如果你是用同一份簡報檔案，但裡面的不同範圍用於不同講題的「single-sourcing」做法時，「範圍」選項會很有用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T100912Z" creationid="Franklin Weng" creationdate="20180120T123138Z">
+        <seg>如果你是同一份簡報檔案用於不同情境的「single-source」這類做法時，「範圍」選項會很有用。</seg>
       </tuv>
     </tu>
     <tu>
