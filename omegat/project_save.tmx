@@ -2440,8 +2440,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a square instead of a rectangle, or a circle instead of an oval, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key as you drag the primitive.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T095602Z" creationid="Jeff Huang" creationdate="20180118T095602Z">
-        <seg>&lt;f0&gt;如果你想要正方形而非矩形，或是圓形而非橢圓形，在你拖曳原始圖形時按住&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142552Z" creationid="Jeff Huang" creationdate="20180118T095602Z">
+        <seg>&lt;f0&gt;如果你想要畫正方形而非長方形，或正圓形而非橢圓形的話，在你拖曳初形圖的同時按住&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵不放。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12282,8 +12282,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, applying a style instead simplifies &lt;f2&gt;revisions.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T095330Z" creationid="Jeff Huang" creationdate="20180118T095330Z">
-        <seg>不過，套用樣式可以簡化&lt;f2&gt;校訂流程。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142435Z" creationid="Jeff Huang" creationdate="20180118T095330Z">
+        <seg>不過，直接套用樣式可以簡化圖形的&lt;f2&gt;修正流程。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
