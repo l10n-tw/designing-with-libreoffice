@@ -2271,8 +2271,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, you can also import bitmap formats such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.jpeg&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.png, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;which store information as pixels, from editors like &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;GIMP&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031511Z" creationid="Jeff Huang" creationdate="20180116T030740Z">
-        <seg>&lt;f0&gt;不過，你也可以匯入&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;GIMP&lt;/f8&gt;&lt;/f7&gt;這類編輯器輸出的點陣圖，例如&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.jpeg&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.png，&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;它們以像素為單位儲存影像資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031619Z" creationid="Jeff Huang" creationdate="20180116T030740Z">
+        <seg>&lt;f0&gt;不過，你也可以匯入&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;GIMP&lt;/f8&gt;&lt;/f7&gt;這類編輯器輸出的點陣圖，例如&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.jpeg&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.png等，&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;這些檔案用像素為單位儲存影像資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,8 +4002,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;These tools are partly reproduced in the Drawing tool bar of other applications.&lt;/f0&gt; &lt;f1&gt;Like stand-alone graphic editors as Inkscape, these tools work with vector graphics, which are formats stored mathematically and which therefore can be expanded to any size.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031214Z" creationid="Jeff Huang" creationdate="20180116T030526Z">
-        <seg>&lt;f0&gt;其他應用程式內的繪圖工具列也包含了部份功能。&lt;/f0&gt;&lt;f1&gt;如同 Inkscape這類單獨發行的圖形編輯器一樣，這些圖形工具可以處理向量圖，而向量圖是以數學方式儲存的格式，可以任意放大而不失真。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031555Z" creationid="Jeff Huang" creationdate="20180116T030526Z">
+        <seg>&lt;f0&gt;其他應用程式內的繪圖工具列也包含了部份功能。&lt;/f0&gt;&lt;f1&gt;就像 Inkscape這類單獨發行的圖形編輯器一樣，這些圖形工具也可以處理向量圖，而向量圖是以數學方式儲存的格式，能夠任意放大又不失真。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9814,8 +9814,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Despite the&lt;f0&gt;ir&lt;/f0&gt; names, &lt;f1&gt;Draw and Impress&lt;/f1&gt; are not meant to be a complete set of tools for editing graphics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042224Z" creationid="Jeff Huang" creationdate="20180116T031221Z">
-        <seg>即便名字看起來很像，但&lt;f1&gt;Draw 與 Impress&lt;/f1&gt;並不是完整的圖形編輯工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T032146Z" creationid="Jeff Huang" creationdate="20180116T031221Z">
+        <seg>即使&lt;f1&gt;Draw與Impress&lt;/f1&gt;這兩個名字聽起來很像圖形編輯器，Draw是繪圖，Impress是印象（藝術界的印象派稱為 Impressionism），但它們的用途不是要設計成完整的圖形編輯工具。</seg>
       </tuv>
     </tu>
     <tu>
