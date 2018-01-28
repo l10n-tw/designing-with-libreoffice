@@ -19502,6 +19502,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tabs, borders, shadows, and other formatting other than the paragraph style will be stripped when you &lt;f0&gt;click&lt;/f0&gt; the OK button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T131251Z" creationid="Jeff Huang" creationdate="20180128T131251Z">
+        <seg>製表符、邊框、陰影與其他除了段落樣式以外的格式都將會在你&lt;f0&gt;按下&lt;/f0&gt;確定按鈕時被移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tahoma</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072154Z" creationid="Jeff Huang" creationdate="20180115T072154Z">
