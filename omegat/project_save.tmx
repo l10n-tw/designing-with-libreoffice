@@ -20521,6 +20521,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The disadvantage of vertical headers and footers is that page styles do not automatically repeat them on every instance of a page style, the way th&lt;f0&gt;ey do&lt;/f0&gt; horizontal &lt;f1&gt;ones&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040105Z" creationid="Jeff Huang" creationdate="20180128T040105Z">
+        <seg>垂直頁首與頁尾的缺點是頁面樣式不會自動在每個實體中重覆，不像水平的版本那樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The distance at which slides are seen is very forgiving and obscures details.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T140815Z" creationid="Franklin Weng" creationdate="20180120T124653Z">
