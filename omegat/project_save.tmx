@@ -969,8 +969,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;View&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Clip Art &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Gallery &lt;/f5&gt;&lt;f6&gt;(also found in the sidebar as &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Gallery&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;) is a convenient place to store these libraries.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050829Z" creationid="Jeff Huang" creationdate="20180118T093549Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「檢視&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;圖庫」&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;（也可以在側邊欄中找到&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圖庫&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;的按鈕）是一個可以很方便地儲存這些圖庫的地方。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141228Z" creationid="Jeff Huang" creationdate="20180118T093549Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「檢視&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;圖庫」&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;（也可以在側邊欄中找到「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圖庫&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」的按鈕）是個可以很方便儲存這些圖庫的地方。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,8 +15384,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice and Apache OpenOffice extensions &lt;f0&gt;(see Appendix A, “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T140952Z" creationid="Jeff Huang" creationdate="20180118T092912Z">
-        <seg>LibreOffice和Apache OpenOffice的擴充套件&lt;f0&gt;（請見附錄A，〈&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;頁&lt;f6&gt;）。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141048Z" creationid="Jeff Huang" creationdate="20180118T092912Z">
+        <seg>找LibreOffice和Apache OpenOffice的擴充套件&lt;f0&gt;（請見附錄A，〈&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;頁&lt;f6&gt;）。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20307,8 +20307,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The OpenClipart site (&lt;f0&gt;http://openclipart.org/&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093241Z" creationid="Jeff Huang" creationdate="20180118T093241Z">
-        <seg>OpenClipart網頁（&lt;f0&gt;http://openclipart.org/&lt;/f0&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141100Z" creationid="Jeff Huang" creationdate="20180118T093241Z">
+        <seg>找OpenClipart網頁（&lt;f0&gt;http://openclipart.org/&lt;/f0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21198,8 +21198,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The odds are that if you use Draw much, you will need to produce your own content using the &lt;f0&gt;D&lt;/f0&gt;rawing tool bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T050855Z" creationid="Jeff Huang" creationdate="20180118T093811Z">
-        <seg>有一個可能的狀況是，如果你常常使用Draw，你會需要使用繪圖工具列來產出你自己的內容。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141414Z" creationid="Jeff Huang" creationdate="20180118T093811Z">
+        <seg>如果你很常用到Draw，那你可能有機會需要用繪圖工具列來產出你自己的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23060,8 +23060,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Try:&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T140915Z" creationid="Jeff Huang" creationdate="20180118T092729Z">
-        <seg>試試：&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141107Z" creationid="Jeff Huang" creationdate="20180118T092729Z">
+        <seg>試試看：&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
