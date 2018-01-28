@@ -1539,8 +1539,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click any other part of the object than the handles, &lt;/f0&gt;and &lt;f1&gt;you can move an object without changing its size and proportions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122313Z" creationid="Jeff Huang" creationdate="20180118T122313Z">
-        <seg>&lt;f0&gt;點按物件上除了把手以外的地方，&lt;/f0&gt;然後&lt;f1&gt;你就可以移動物件而不會改變其大小與比例。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143408Z" creationid="Jeff Huang" creationdate="20180118T122313Z">
+        <seg>&lt;f0&gt;點按物件上除了把手以外的地方，&lt;/f0&gt;然後&lt;f1&gt;就可以移動物件而不會改變它的大小和比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13887,8 +13887,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to resize the object or change its shape, drag it by the handles that appear when you click it.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122725Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
-        <seg>如果你想要調整物件大小或是改變它的形狀，請拖曳在你點按它時所顯示的把手。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143453Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
+        <seg>如果你想要調整物件大小或改變它的形狀，請拖曳你點按它後出現的把手。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
