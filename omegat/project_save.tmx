@@ -7594,8 +7594,8 @@
       <tuv lang="EN">
         <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143329Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
-        <seg>當你拖曳一個物件時，它會出現在貼附線上，這樣你就可以更精確定位到和其他物件相關的位置上。（？？試不出來…）&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143827Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
+        <seg>當你拖曳一個物件時，它會出現在貼附線上，這樣你就可以更精確定位到和其他物件相關的位置上。（？？試不出來…功能被拿掉了？）&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13887,8 +13887,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to resize the object or change its shape, drag it by the handles that appear when you click it.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143547Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
-        <seg>如果你想要調整物件大小或改變它的形狀，請拖曳你點按它後出現的手把。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150021Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
+        <seg>如果你想要調整物件大小或改變它的形狀，請拖曳點按它之後出現的手把。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
