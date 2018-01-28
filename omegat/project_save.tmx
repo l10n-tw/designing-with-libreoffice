@@ -7594,8 +7594,8 @@
       <tuv lang="EN">
         <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T122112Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
-        <seg>當你拖曳一個物件時，它會出現在對齊線上，這樣你就可以更精確的地定位其與其他物件之間的關係。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143329Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
+        <seg>當你拖曳一個物件時，它會出現在貼附線上，這樣你就可以更精確定位到和其他物件相關的位置上。（？？試不出來…）&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24064,8 +24064,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you do, a frame with eight handles appears around the object.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142817Z" creationid="Jeff Huang" creationdate="20180118T121738Z">
-        <seg>當你點按它的時候，物件旁就會出現有八個控制桿的外框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142832Z" creationid="Jeff Huang" creationdate="20180118T121738Z">
+        <seg>當你點按它的時候，物件周圍就會出現有八個控制點的外框。</seg>
       </tuv>
     </tu>
     <tu>
