@@ -4711,8 +4711,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;For example, a document’s title and author might appear in the same header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041236Z" creationid="Jeff Huang" creationdate="20180116T053136Z">
-        <seg>&lt;f1&gt;舉例來說，文件的題名和作者可能會放在同一個地方，像是頁首或頁尾之類。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041333Z" creationid="Jeff Huang" creationdate="20180116T053136Z">
+        <seg>&lt;f1&gt;舉例來說，文件的題名和作者可能會一起放在同個地方，像是頁首或頁尾之類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8387,8 +8387,8 @@
       <tuv lang="EN">
         <seg>By comparison, word count and the author’s name do not belong in the same header or footer unless you have no other place to put them.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T053327Z" creationid="Jeff Huang" creationdate="20180116T053327Z">
-        <seg>相較之下，字數與作者名並不會放在相同的地方，除非沒有其他地方能放了。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041449Z" creationid="Jeff Huang" creationdate="20180116T053327Z">
+        <seg>相較之下，字數與作者姓名就不會一起放在頁首或頁尾，除非你真的沒有其他地方能放了。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
