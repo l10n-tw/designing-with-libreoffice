@@ -6247,8 +6247,8 @@
       <tuv lang="EN">
         <seg>A dimension line for a three-dimensional shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130259Z" creationid="Jeff Huang" creationdate="20180118T130259Z">
-        <seg>尺寸線用於三維圖形。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T162729Z" creationid="Jeff Huang" creationdate="20180118T130259Z">
+        <seg>尺寸線，標示三維圖形的一邊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8003,8 +8003,8 @@
       <tuv lang="EN">
         <seg>Before release 4.4, to add text inside a shape required that you draw the shape and the graphic text separately, then position and group them so that the text was overlaying the shape (see below).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130633Z" creationid="Jeff Huang" creationdate="20180118T130633Z">
-        <seg>在4.4版前，要在圖形中新增文字，你需要分開繪製圖形與圖形化文字，然後將它們定位好並做成群組，讓文字覆蓋在形狀上（見下方）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T162854Z" creationid="Jeff Huang" creationdate="20180118T130633Z">
+        <seg>在4.4版之前，要在形狀中新增文字，你需要分開繪製形狀和圖形文字，然後將它們定位好並做成群組，讓文字覆蓋在形狀上（見下方）。</seg>
       </tuv>
     </tu>
     <tu>
