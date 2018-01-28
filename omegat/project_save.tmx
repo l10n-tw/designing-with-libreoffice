@@ -12016,6 +12016,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Headers and footers are generally horizontal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T035101Z" creationid="Jeff Huang" creationdate="20180128T035101Z">
+        <seg>頁首語頁尾一般來說是水平的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Headers and footers often appear together, but using just one is &lt;f0&gt;just&lt;/f0&gt; as common.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131831Z" creationid="Jeff Huang" creationdate="20180126T131831Z">
@@ -15664,6 +15672,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Making vertical headers &lt;f0&gt;and&lt;/f0&gt; footers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T034935Z" creationid="Jeff Huang" creationdate="20180128T034935Z">
+        <seg>讓頁首與頁尾變成垂直的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual formatting &lt;f0&gt;(also called direct formatting)&lt;/f0&gt; is how most people design a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180830Z" creationid="zerng07" creationdate="20170824T160945Z">
@@ -17694,6 +17710,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093243Z" creationid="Franklin Weng" creationdate="20180120T120920Z">
         <seg>&lt;f1&gt;在答案的部份，可以重複步驟1–4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat steps 3 and 4 for every page style in the document that includes page numbering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T034915Z" creationid="Jeff Huang" creationdate="20180128T034915Z">
+        <seg>對包含頁碼的文件中的每個頁面樣式重覆第三步與第四步。</seg>
       </tuv>
     </tu>
     <tu>
