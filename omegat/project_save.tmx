@@ -8387,8 +8387,8 @@
       <tuv lang="EN">
         <seg>By comparison, word count and the author’s name do not belong in the same header or footer unless you have no other place to put them.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041449Z" creationid="Jeff Huang" creationdate="20180116T053327Z">
-        <seg>相較之下，字數與作者姓名就不會一起放在頁首或頁尾，除非你真的沒有其他地方能放了。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041552Z" creationid="Jeff Huang" creationdate="20180116T053327Z">
+        <seg>相較之下，字數與作者姓名就不會一起出現在頁首或頁尾，除非你真的沒有其他地方能放了。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11304,8 +11304,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you use a particular shade of blue for the headings, use the same blue as a background for table headers and for a line that separates the header from the &lt;f2&gt;text&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T053959Z" creationid="Jeff Huang" creationdate="20180116T053959Z">
-        <seg>舉例來說，如果你在標題使用特定的藍色陰影，請在表格標題的背景與將頁首與&lt;f2&gt;文字&lt;/f2&gt;分隔的線也使用相同的藍色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T054126Z" creationid="Jeff Huang" creationdate="20180116T053959Z">
+        <seg>舉例來說，如果你在標題使用特定的藍色，就在表格標題的背景，以及分割表格標題和&lt;f2&gt;文字&lt;/f2&gt;的線也用相同的藍色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17780,8 +17780,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Repetition: &lt;f0&gt;U&lt;/f0&gt;nifies the document &lt;f1&gt;by r&lt;/f1&gt;epeating design elements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T053637Z" creationid="Jeff Huang" creationdate="20180116T053637Z">
-        <seg>重複：透過重複設計元素來讓文件一致。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041613Z" creationid="Jeff Huang" creationdate="20180116T053637Z">
+        <seg>重複：重複設計元素來讓文件更為一致。</seg>
       </tuv>
     </tu>
     <tu>
