@@ -13411,6 +13411,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are working in an existing document, check another page style to see how far the header or footer is positioned from the main text body in other page styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134233Z" creationid="Jeff Huang" creationdate="20180128T134233Z">
+        <seg>如果你正在處理既有的文件，檢查另一個頁面樣式以看看其他頁面樣式中的頁首與頁尾的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can possibly make the &lt;f1&gt;Outline 1&lt;/f1&gt; style larger, do so.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T125257Z" creationid="Franklin Weng" creationdate="20180117T121036Z">
@@ -18802,6 +18810,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size the frame so it occupies the full space between the top and bottom margins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134512Z" creationid="Jeff Huang" creationdate="20180128T134512Z">
+        <seg>調整框架的大小以佔據上下邊距間的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip this step if you want to avoid all hyphenation &lt;f0&gt;and keep a ragged right margin.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075345Z" creationid="Jeff Huang" creationdate="20171213T025813Z">
@@ -23006,6 +23022,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T092729Z" creationid="Jeff Huang" creationdate="20180118T092729Z">
         <seg>試試看：&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turn on the grid to help you position the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134305Z" creationid="Jeff Huang" creationdate="20180128T134305Z">
+        <seg>開啟網格以協助你定位框架。</seg>
       </tuv>
     </tu>
     <tu>
