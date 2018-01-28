@@ -13387,6 +13387,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are working in a document that already has portrait pages, you can copy &lt;f0&gt;and paste&lt;/f0&gt; a header or footer on another page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T124859Z" creationid="Jeff Huang" creationdate="20180128T124859Z">
+        <seg>如果你正在處理已有縱向頁面的文件，你可以複製&lt;f0&gt;並貼上&lt;/f0&gt;頁首或頁尾到另一頁上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can possibly make the &lt;f1&gt;Outline 1&lt;/f1&gt; style larger, do so.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T125257Z" creationid="Franklin Weng" creationdate="20180117T121036Z">
