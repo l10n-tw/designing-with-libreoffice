@@ -6831,8 +6831,8 @@
       <tuv lang="EN">
         <seg>After you add a primitive, you may need to &lt;f0&gt;click&lt;/f0&gt; the &lt;f1&gt;Select&lt;/f1&gt; button, the first on the left of the tool bar, to restore the drawing tools to their default state.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T125116Z" creationid="Jeff Huang" creationdate="20180118T125116Z">
-        <seg>在你新增基本圖形元素後，可能需要&lt;f0&gt;按一下&lt;/f0&gt;工具列左側的&lt;f1&gt;選取&lt;/f1&gt;按鈕，來將繪圖工具復原至其原始狀態。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T153606Z" creationid="Jeff Huang" creationdate="20180118T125116Z">
+        <seg>在你新增初形圖後，可能需要&lt;f0&gt;按一下&lt;/f0&gt;繪圖工具列最頂端的「&lt;f1&gt;選擇&lt;/f1&gt;」箭頭按鈕，讓繪圖工具恢復成預設狀態。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20140,8 +20140,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;snap lines&lt;/f0&gt; are useful for exact positioning, even with the grid turned off, &lt;f1&gt;because you can see the exact position on the horizontal and vertical rulers.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150228Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
-        <seg>即使你關閉網格的顯示，&lt;f0&gt;貼附線&lt;/f0&gt;仍可用於精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150700Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
+        <seg>即使你關閉網格的顯示，&lt;f0&gt;貼附線&lt;/f0&gt;仍可用於精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。（經測試，就算打開了「檢視 &gt; 貼附線 &gt; 顯示貼附線」也沒有出現任何線，看起來功能已經被網格取代，所以描述可能要改寫。）&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
