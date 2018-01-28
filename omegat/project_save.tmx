@@ -5369,6 +5369,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Instead, you have to recreate them on each instance, or copy and paste them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040227Z" creationid="Jeff Huang" creationdate="20180128T040227Z">
+        <seg>&lt;f2&gt;所以你必須在每個實體上重新建立，或是複製貼上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;It may also&lt;/f2&gt; called Regular, Book, or Medium, &lt;f3&gt;although these are not always exact synonyms in individual font families.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132244Z" creationid="Franklin Weng" creationdate="20171225T131855Z">
@@ -5437,6 +5445,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T084938Z" creationid="Jeff Huang" creationdate="20180124T084938Z">
         <seg>&lt;f2&gt;其他的文字處理程式當然不會將其認為有關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Position it about halfway down the landscape page.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040659Z" creationid="Jeff Huang" creationdate="20180128T040659Z">
+        <seg>&lt;f2&gt;將其定位在橫向頁面的一半左右。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6633,6 +6649,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135601Z" creationid="Jeff Huang" creationdate="20180111T135601Z">
         <seg>新增文字到每個物件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the landscape page &lt;f0&gt;if it is not already in use.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040447Z" creationid="Jeff Huang" creationdate="20180128T040447Z">
+        <seg>&lt;f0&gt;如果還未使用橫向頁面，&lt;/f0&gt;請新增一個。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9408,6 +9432,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T110646Z" creationid="Jeff Huang" creationdate="20180111T124536Z">
         <seg>為每個基礎流程圖的元素建立樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create the text for the header or footer, &lt;f0&gt;using the appropriate paragraph style and&lt;/f0&gt; &lt;f1&gt;a&lt;/f1&gt;dding fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040619Z" creationid="Jeff Huang" creationdate="20180128T040619Z">
+        <seg>建立供頁首或頁尾使用的文字，&lt;f0&gt;使用適當的段落樣式與&lt;/f0&gt;新增欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21735,6 +21767,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These choices tends to restrict them to shorter documents.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040311Z" creationid="Jeff Huang" creationdate="20180128T040311Z">
+        <seg>這些選擇往往使文件變得比較短。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These difficulties are one reason that many designers prefer a Left &lt;f0&gt;alignment &lt;/f0&gt;or ragged right margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030639Z" creationid="zerng07" creationdate="20180125T030639Z">
@@ -22540,6 +22580,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125225Z" creationid="Franklin Weng" creationdate="20171223T095033Z">
         <seg>建例樣本卡片：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create vertical headers and footers:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040336Z" creationid="Jeff Huang" creationdate="20180128T040336Z">
+        <seg>要建立垂直頁首與頁尾：</seg>
       </tuv>
     </tu>
     <tu>
