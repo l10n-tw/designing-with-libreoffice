@@ -18200,6 +18200,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>目前的選項位置與原文略有不同，已調整。</note>
+      <tuv lang="EN">
+        <seg>Select the line that will become a header or footer and select &lt;f0&gt;Character &gt; Format &gt; Position &gt; Rotation/Scaling &gt; 90 degrees&lt;/f0&gt; or &lt;f1&gt;270 degrees&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T125604Z" creationid="Jeff Huang" creationdate="20180128T125604Z">
+        <seg>選取要變成頁首或頁尾的行，然後再選取&lt;f0&gt;「字元 &gt; 位置 &gt; 旋轉／縮放 &gt; 90 度&lt;/f0&gt;或&lt;f1&gt;270 度」&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Select the paragraph style.</seg>
       </tuv>
