@@ -12304,6 +12304,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, at a high enough zoom, the text boundaries may be enough to guide you.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134951Z" creationid="Jeff Huang" creationdate="20180128T134951Z">
+        <seg>不過，在縮放比例夠高的狀況下，文字分隔線應該就足以指引你了。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, at the large font sizes that slides use, justified lines frequently have too many hyphens and irregular spacing between words.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133137Z" creationid="Franklin Weng" creationdate="20180118T033536Z">
@@ -17891,6 +17899,14 @@ Franklin: 猜測如上</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the frame and select &lt;f0&gt;Frame&lt;/f0&gt; from the right-click menu to add any borders or &lt;f1&gt;shadows, or to turn them off.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T135140Z" creationid="Jeff Huang" creationdate="20180128T135140Z">
+        <seg>在框架上右鍵點按並從右鍵選單中選取&lt;f0&gt;框架&lt;/f0&gt;以新增任何邊框或&lt;f1&gt;陰影，或是將它們關閉。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4 測試起來好像已經不是這樣了。按右鍵沒有作用。（環境：GNOME+Wayland）
 Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在文件任意地方點滑鼠右鍵則會回到原來的樣式。透過填入設定的樣式會被取消。</note>
       <tuv lang="EN">
@@ -22597,6 +22613,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133013Z" creationid="Franklin Weng" creationdate="20171213T133013Z">
         <seg>為了避免這些問題發生，範本名稱越精確越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To be exact, you can &lt;f0&gt;subtract the top and bottom margins from the page height to get the exact size that the frame should be.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134628Z" creationid="Jeff Huang" creationdate="20180128T134628Z">
+        <seg>要更精確的話，你可以&lt;f0&gt;用頁面高度減掉上下邊距來取得框架的確切大小。</seg>
       </tuv>
     </tu>
     <tu>
