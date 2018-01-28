@@ -12905,6 +12905,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you may find that on landscape pages (ones wider than they are tall) that &lt;f0&gt;the&lt;/f0&gt; length &lt;f1&gt;of headings and footers &lt;/f1&gt;makes for difficult reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T035358Z" creationid="Jeff Huang" creationdate="20180128T035358Z">
+        <seg>不過你可能會發現橫向頁面（寬度比長度大的頁面）中，&lt;f1&gt;頁首與頁尾&lt;/f1&gt;的長度讓閱讀太困難。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you may prefer to organize the paragraph styles differently than I have done, and make other adjustments beyond the basics given here.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140922Z" creationid="zerng07" creationdate="20180125T135720Z">
