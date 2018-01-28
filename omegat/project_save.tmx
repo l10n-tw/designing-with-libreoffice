@@ -3381,6 +3381,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the now-vertical line and click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Insert &gt; Frame&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to place it in a frame.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T133002Z" creationid="Jeff Huang" creationdate="20180128T133002Z">
+        <seg>&lt;f0&gt;選取目前垂直的行並點按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 框架」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來將其置於框架中。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4 的側邊欄用語是「樣式和格式」。6.0 起拆分「樣式」和「格式」，Styles and Formatting 詞語就此消滅。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button on the &lt;f2&gt;sidebar.&lt;/f2&gt;</seg>
