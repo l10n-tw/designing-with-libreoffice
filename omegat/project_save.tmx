@@ -17465,6 +17465,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Position the frame outside the inner or outer margin, where it will act as a header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T133509Z" creationid="Jeff Huang" creationdate="20180128T133509Z">
+        <seg>將框架放置於內邊距或外邊距之外，其行為就會如同頁首或頁尾一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Positioning &lt;f0&gt;and&lt;/f0&gt; automating text</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180107T210457Z" creationid="Ｖ字龍" creationdate="20180107T210457Z">
