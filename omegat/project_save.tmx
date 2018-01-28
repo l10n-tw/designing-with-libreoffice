@@ -7591,11 +7591,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>5.4稱為貼附線 snap line，6.0稱為貼附導線 snap guide。但是，這裡描述的貼附線功能在 5.4 和 6.0 都被「網格」取代了。</note>
       <tuv lang="EN">
         <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143827Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
-        <seg>當你拖曳一個物件時，它會出現在貼附線上，這樣你就可以更精確定位到和其他物件相關的位置上。（？？試不出來…功能被拿掉了？）&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150543Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
+        <seg>當你拖曳一個物件時，它會出現在網格（點按工具列上的「網格」圖示，或「檢視 &gt; 網格與輔助線 &gt; 顯示網格」）上，這樣你就可以更精確定位到和其他物件相關的位置上。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
