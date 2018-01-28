@@ -5177,6 +5177,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;90 degrees&lt;/f2&gt; positions the text so that it begins at the bottom and moves up, while &lt;f3&gt;270 degrees&lt;/f3&gt; positions the text so that it begins at the top and moves &lt;f4&gt;down&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T130346Z" creationid="Jeff Huang" creationdate="20180128T130346Z">
+        <seg>&lt;f2&gt;90 度&lt;/f2&gt;位置的文字會讓其從底部開始並往上顯示，而&lt;f3&gt;270 度&lt;/f3&gt;位置就是從頂部開始並&lt;f4&gt;向下&lt;/f4&gt;顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;A &lt;/f2&gt;sizable minority&lt;f3&gt; &lt;/f3&gt;have been about OpenOffice.org or LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T151759Z" creationid="zerng07" creationdate="20170822T151759Z">
