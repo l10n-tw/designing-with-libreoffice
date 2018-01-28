@@ -4002,8 +4002,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;These tools are partly reproduced in the Drawing tool bar of other applications.&lt;/f0&gt; &lt;f1&gt;Like stand-alone graphic editors as Inkscape, these tools work with vector graphics, which are formats stored mathematically and which therefore can be expanded to any size.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031022Z" creationid="Jeff Huang" creationdate="20180116T030526Z">
-        <seg>&lt;f0&gt;其他應用程式內的繪圖工具列也包含了部份功能。&lt;/f0&gt;&lt;f1&gt;如同 Inkscape這類單獨發行的圖形編輯器一樣，這組圖形編輯工具可以處理向量圖，向量圖是以數學方式儲存的格式，其可以被縮放為任意大小。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031140Z" creationid="Jeff Huang" creationdate="20180116T030526Z">
+        <seg>&lt;f0&gt;其他應用程式內的繪圖工具列也包含了部份功能。&lt;/f0&gt;&lt;f1&gt;如同 Inkscape這類單獨發行的圖形編輯器一樣，這些圖形工具可以處理向量圖，而向量圖是以數學方式儲存的格式，可以被縮放為任意大小。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10087,8 +10087,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Draw and Impress share a set of graphic editing tools.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T030650Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
-        <seg>Draw與Impress共用一組圖形編輯工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031030Z" creationid="Jeff Huang" creationdate="20180116T030041Z">
+        <seg>Draw和Impress共用一組圖形編輯工具。</seg>
       </tuv>
     </tu>
     <tu>
