@@ -7610,6 +7610,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a result, you cannot create a page style with more than one column format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T132632Z" creationid="Jeff Huang" creationdate="20180129T132632Z">
+        <seg>因此，你不能建立多於一欄格式的頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a rule, select &lt;f3&gt;Fixed&lt;/f3&gt; to give small font sizes the extra line spacing they need.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002200Z" creationid="zerng07" creationdate="20180122T034339Z">
@@ -9298,6 +9306,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095116Z" creationid="Jeff Huang" creationdate="20180122T115759Z">
         <seg>色彩定義是指把一些不同的色彩混在一起的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combining single- and multiple-column &lt;f0&gt;layouts&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T132143Z" creationid="Jeff Huang" creationdate="20180129T132143Z">
+        <seg>結合單欄與多欄式&lt;f0&gt;版面配置&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13898,6 +13914,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183607Z" creationid="zerng07" creationdate="20170817T173556Z">
         <seg>如果你所需要的相關功能資訊或選項在本書中沒有提及，請參見LibreOffice文件網頁：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need such a layout, begin with a single-column design, then add a multiple-column section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T133856Z" creationid="Jeff Huang" creationdate="20180129T133856Z">
+        <seg>如果你需要這樣的版面配置，請從單欄設計開始，然後再加入多欄的部份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23637,6 +23661,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, you will need to add the section on each instance of the page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134240Z" creationid="Jeff Huang" creationdate="20180129T134240Z">
+        <seg>不幸的是，你將必須為每個頁面樣式的實體新增頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Univers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072217Z" creationid="Jeff Huang" creationdate="20180115T072217Z">
@@ -24856,6 +24888,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142038Z" creationid="Jeff Huang" creationdate="20180118T094157Z">
         <seg>Writer與Calc的版本少了其中&lt;f1&gt;一些&lt;/f1&gt;工具，像是連接線等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer is designed with uniform pages in mind.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T132318Z" creationid="Jeff Huang" creationdate="20180129T132318Z">
+        <seg>Writer是設計用於已經在腦海中規畫好統一的頁面的。</seg>
       </tuv>
     </tu>
     <tu>
