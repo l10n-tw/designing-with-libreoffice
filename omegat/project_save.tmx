@@ -2021,8 +2021,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Alignment:&lt;/f0&gt; Align the entire sample, or each word.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091113Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
-        <seg>&lt;f0&gt;美術字對齊：&lt;/f0&gt;對齊整段文字樣本或單字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091200Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
+        <seg>&lt;f0&gt;美術字對齊：&lt;/f0&gt;對齊文字樣本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,8 +4147,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tilt Up&lt;/f0&gt;, &lt;f1&gt;Down&lt;/f1&gt;, &lt;f2&gt;Left&lt;/f2&gt;, &lt;f3&gt;Right:&lt;/f3&gt; Angles the sample.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090651Z" creationid="Jeff Huang" creationdate="20180121T121207Z">
-        <seg>切換擠出：&lt;f0&gt;向上傾斜&lt;/f0&gt;、&lt;f1&gt;向下傾斜&lt;/f1&gt;、&lt;f2&gt;向左傾斜&lt;/f2&gt;、&lt;f3&gt;向右傾斜&lt;/f3&gt;等等，能讓美術字與平面的角度不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091313Z" creationid="Jeff Huang" creationdate="20180121T121207Z">
+        <seg>切換擠出：點按後，上排工具列會出現&lt;f0&gt;向上傾斜&lt;/f0&gt;、&lt;f1&gt;向下傾斜&lt;/f1&gt;、&lt;f2&gt;向左傾斜&lt;/f2&gt;、&lt;f3&gt;向右傾斜&lt;/f3&gt;等選項，能讓美術字與平面的角度不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5887,8 +5887,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;This tool is not available in some versions of LibreOffice.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T121349Z" creationid="Jeff Huang" creationdate="20180121T121349Z">
-        <seg>&lt;f4&gt;這個工具在某些版本的 LibreOffice 中無法使用。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091245Z" creationid="Jeff Huang" creationdate="20180121T121349Z">
+        <seg>&lt;f4&gt;這個工具在某些版本的LibreOffice中無法使用。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19884,8 +19884,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Text &lt;f0&gt;pasted into a Fontwork sample &lt;/f0&gt;i&lt;f1&gt;s displayed&lt;/f1&gt; unformatted &lt;f2&gt;until you finish creating the&lt;/f2&gt; sample.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T121527Z" creationid="Jeff Huang" creationdate="20180121T121527Z">
-        <seg>&lt;f0&gt;貼上到美術字型樣品中的文字&lt;/f0&gt;&lt;f1&gt;會顯示未&lt;/f1&gt;格式化的樣子&lt;f2&gt;，一直到您樣品建立完成為止&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091424Z" creationid="Jeff Huang" creationdate="20180121T121527Z">
+        <seg>&lt;f0&gt;貼到美術字樣本中的文字&lt;/f0&gt;&lt;f1&gt;會先以未&lt;/f1&gt;格式設定的樣子顯示&lt;f2&gt;，直到你樣本建立完成為止&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
