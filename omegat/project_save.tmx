@@ -2142,8 +2142,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From a Drawing Objects style, you can only use the fills that are already defined for LibreOffice as a whole.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074332Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
-        <seg>&lt;f0&gt;從繪圖樣式中，你只能使用已在LibreOffice中定義好的填充格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133027Z" creationid="Jeff Huang" creationdate="20180122T093839Z">
+        <seg>&lt;f0&gt;在繪圖樣式中，你只能使用已經在LibreOffice中定義好的填入內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3747,8 +3747,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;hese fills can be used to create an abstract design for custom Impress slides or for filling drawing shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094851Z" creationid="Jeff Huang" creationdate="20180122T093614Z">
-        <seg>這些填充格式可用於建立自訂Impress投影片的抽象設計，或是供填充圖形使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132956Z" creationid="Jeff Huang" creationdate="20180122T093614Z">
+        <seg>這些填入內容可用來建立自訂Impress投影片的抽象設計，或是供繪圖形狀填入使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,8 +9993,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Designing fills</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132642Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
-        <seg>設計填入樣式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132842Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
+        <seg>設計填入內容</seg>
       </tuv>
     </tu>
     <tu>
@@ -13126,8 +13126,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can customize styles from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;within Draw.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T093947Z" creationid="Jeff Huang" creationdate="20180122T093947Z">
-        <seg>不過，你還是可以在Draw裡面的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區域」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;自訂樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133052Z" creationid="Jeff Huang" creationdate="20180122T093947Z">
+        <seg>不過，你還是可以在Draw裡面的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;自訂樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16727,8 +16727,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Object areas can be decorated with different types of fills: colors, gradients, hatchings, and bitmaps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132837Z" creationid="Jeff Huang" creationdate="20180122T092628Z">
-        <seg>物件區塊可以填入四種不同類型的內容作裝飾：色彩、漸層、陰影與點陣圖。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132921Z" creationid="Jeff Huang" creationdate="20180122T092628Z">
+        <seg>物件區塊可以填入四種不同類型的內容作裝飾：色彩、漸層、陰影線與點陣圖等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24322,8 +24322,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When saved, your custom designs become generally available in LibreOffice.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T094346Z" creationid="Jeff Huang" creationdate="20180122T094346Z">
-        <seg>儲存後，你的自訂設計就可以在LibreOffice中使用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133109Z" creationid="Jeff Huang" creationdate="20180122T094346Z">
+        <seg>儲存後，你自訂的設計就可以在LibreOffice中使用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
