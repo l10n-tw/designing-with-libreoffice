@@ -6360,8 +6360,8 @@
       <tuv lang="EN">
         <seg>A freeform line is one that follows the direction of the &lt;f0&gt;cursor&lt;/f0&gt; as you move it in the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T071243Z" creationid="Jeff Huang" creationdate="20180118T132859Z">
-        <seg>自由線條（鉛筆圖示）是一種在編輯視窗中一路跟隨你&lt;f0&gt;游標&lt;/f0&gt;走向的曲線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T072506Z" creationid="Jeff Huang" creationdate="20180118T132859Z">
+        <seg>自由線條是一種在編輯視窗中一路跟隨你&lt;f0&gt;游標&lt;/f0&gt;走向的曲線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20519,8 +20519,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The Writer and Calc &lt;f1&gt;D&lt;/f1&gt;rawing tool bars have a separate button for freeform lines, but in Draw and Impress, they are the last option when you select the &lt;f2&gt;Curves&lt;/f2&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T133134Z" creationid="Jeff Huang" creationdate="20180118T133134Z">
-        <seg>Writer與Calc的繪圖工具列有自由形曲線的單獨按鈕，但是在Draw與Impress中，它們是&lt;f2&gt;曲線&lt;/f2&gt;按鈕中的一個選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T072746Z" creationid="Jeff Huang" creationdate="20180118T133134Z">
+        <seg>Writer與Calc的繪圖工具列有自由線條的單獨按鈕，但是在Draw與Impress中，它們是&lt;f2&gt;曲線&lt;/f2&gt;按鈕中的一個選項。（現在相反過來了，在Draw和Impress中，曲線按鈕是自由線條按鈕中的一個選項，記得改寫。）</seg>
       </tuv>
     </tu>
     <tu>
