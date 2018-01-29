@@ -4920,8 +4920,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;If a gradient starts in a different position, it will look slightly different.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T133927Z" creationid="Jeff Huang" creationdate="20180122T133927Z">
-        <seg>&lt;f1&gt;如果漸層從不同的位置開始，它看起來就會有點不同。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141126Z" creationid="Jeff Huang" creationdate="20180122T133927Z">
+        <seg>&lt;f1&gt;如果漸層從不同的位置開始，看起來就會有點不同。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7104,8 +7104,8 @@
       <tuv lang="EN">
         <seg>All gradients are defined by the colors they begin with &lt;f0&gt;(From)&lt;/f0&gt; and end with &lt;f1&gt;(To)&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;G&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;radients can also have&lt;/f5&gt; a border, at which the current color partially fades, as well as an angle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T100053Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
-        <seg>所有漸層都是由從&lt;f0&gt;漸層起點&lt;/f0&gt;開始並結束於&lt;f1&gt;漸層終點&lt;/f1&gt;。&lt;f5&gt;漸層也可以有&lt;/f5&gt;邊框，目前的顏色會消失，也可以有角度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141346Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
+        <seg>所有漸層都是由漸層起點色&lt;f0&gt;（從）&lt;/f0&gt;開始並終止於漸層結束色&lt;f1&gt;（到）&lt;/f1&gt;。&lt;f5&gt;漸層也可以有&lt;/f5&gt;「邊緣」，目前的顏色會部分淡化，也可以有「角度」。</seg>
       </tuv>
     </tu>
     <tu>
