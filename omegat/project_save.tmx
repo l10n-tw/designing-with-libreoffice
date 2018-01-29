@@ -2110,8 +2110,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; Colors &lt;/f0&gt;creates new colors with the RGB color model for use throughout LibreO&lt;f1&gt;f&lt;/f1&gt;fice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T095956Z" creationid="Jeff Huang" creationdate="20180122T095956Z">
-        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 色彩」&lt;/f0&gt;會建立可用於整個LibreOffice的RGB色彩模型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133840Z" creationid="Jeff Huang" creationdate="20180122T095956Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 色彩」&lt;/f0&gt;以RGB色彩模型建立出整個LibreOffice都能用的色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2497,8 +2497,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you need to add a specific color, sample it in a graphics program to get its &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; definition.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T100115Z" creationid="Jeff Huang" creationdate="20180122T100115Z">
-        <seg>&lt;f0&gt;如果你需要新增特定的色彩，在圖形程式中對其取樣以取得其&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;定義。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133916Z" creationid="Jeff Huang" creationdate="20180122T100115Z">
+        <seg>&lt;f0&gt;如果你需要新增特定色彩，先在圖形編輯程式中對這個顏色取樣以取得&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;色彩定義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6304,8 @@
       <tuv lang="EN">
         <seg>A color added in &lt;f6&gt;Format &gt; Area &lt;/f6&gt;becomes available for use throughout &lt;f7&gt;LibreOffice.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T095838Z" creationid="Jeff Huang" creationdate="20180122T095838Z">
-        <seg>在&lt;f6&gt;「格式 &gt; 區域」&lt;/f6&gt;中新增的色彩將會在整個&lt;f7&gt;LibreOffice&lt;/f7&gt;中都能使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133754Z" creationid="Jeff Huang" creationdate="20180122T095838Z">
+        <seg>在&lt;f6&gt;「格式 &gt; 區塊」&lt;/f6&gt;中新增的色彩在整個&lt;f7&gt;LibreOffice&lt;/f7&gt;中都能使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11515,8 +11515,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, in the screen shot above, the blue color indicated has a definition of 114-159-207 on a scale of 256.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T100244Z" creationid="Jeff Huang" creationdate="20180122T100244Z">
-        <seg>舉例來說，在上面的螢幕截圖中，指定的藍色在256階定義中為114-159-207。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134002Z" creationid="Jeff Huang" creationdate="20180122T100244Z">
+        <seg>舉例來說，在上面的螢幕擷圖中指定的藍色，在RGB的256色階定義中為114-159-207。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
