@@ -7803,6 +7803,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At all times, the total with of all columns must equal the total available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T130913Z" creationid="Jeff Huang" creationdate="20180129T130913Z">
+        <seg>在任何時候，全部欄位的總數都必須等於可用的總數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At any rate, any attempt to swap templates raises the possibility of corruption, so test the extension using duplicate files until you are confident that it works.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151855Z" creationid="Franklin Weng" creationdate="20171212T124659Z">
