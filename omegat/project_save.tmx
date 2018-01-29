@@ -5637,8 +5637,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;The shape changes as shapes are sent back or forward in the pile.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T031129Z" creationid="Jeff Huang" creationdate="20180122T031129Z">
-        <seg>&lt;f2&gt;然後形狀就會隨著你把他向前景或向背景放置而改變。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T112934Z" creationid="Jeff Huang" creationdate="20180122T031129Z">
+        <seg>&lt;f2&gt;選取的形狀就會跟著向前放或向後放而改變。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14597,8 +14597,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In particular, converting graphic text to a bitmap may give you more options.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T112658Z" creationid="Jeff Huang" creationdate="20180122T030403Z">
-        <seg>特別是將圖形化文字轉換為點陣圖後，可能有更多選項可以發揮。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T112704Z" creationid="Jeff Huang" creationdate="20180122T030403Z">
+        <seg>特別是將圖形化文字轉換為點陣圖後，可能有更多選項讓你發揮。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18219,8 +18219,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>S&lt;f0&gt;tacked shapes can be made into a single complex shape in several ways:&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T053907Z" creationid="Jeff Huang" creationdate="20180122T030553Z">
-        <seg>&lt;f0&gt;堆疊的形狀可以透過多種方式來做成單獨的複雜形狀：&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T112749Z" creationid="Jeff Huang" creationdate="20180122T030553Z">
+        <seg>&lt;f0&gt;可以不同方式堆疊形狀來做出一個複雜形狀：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
