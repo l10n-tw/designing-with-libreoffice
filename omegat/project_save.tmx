@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;Without multiple columns, many indexes and tables would occupy far more pages than necessary.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094531Z" creationid="Jeff Huang" creationdate="20180129T094443Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;如果沒有多欄功能，許多索引與表格將佔用更多頁面。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;A &lt;f1&gt;f&lt;/f1&gt;irst &lt;f2&gt;p&lt;/f2&gt;age is &lt;f3&gt;customarily a&lt;/f3&gt; modified &lt;f4&gt;r&lt;/f4&gt;ight &lt;f5&gt;p&lt;/f5&gt;age&lt;f6&gt;.&lt;/f6&gt; It should be different enough that it is immediately obvious as the start of a new part of the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T032549Z" creationid="Jeff Huang" creationdate="20180125T032549Z">
@@ -16357,6 +16365,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple columns are useful for newsletters, and for printing indexes or other tables &lt;f0&gt;whose entries rarely require an entire line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T091143Z" creationid="Jeff Huang" creationdate="20180129T091143Z">
+        <seg>多列對於報章雜誌&lt;f0&gt;與其他不需要整行的表格列印索引很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My LibreOffice articles include:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165356Z" creationid="zerng07" creationdate="20170822T155902Z">
@@ -18824,8 +18840,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting up multiple &lt;f0&gt;page &lt;/f0&gt;column&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T090449Z" creationid="Jeff Huang" creationdate="20180129T090449Z">
-        <seg>設定多頁列</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094537Z" creationid="Jeff Huang" creationdate="20180129T090449Z">
+        <seg>設定多欄</seg>
       </tuv>
     </tu>
     <tu>
