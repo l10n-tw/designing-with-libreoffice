@@ -7065,8 +7065,8 @@
       <tuv lang="EN">
         <seg>All standard graphic formats are supported, but Draw is especially useful because of its support of vector graphics – images that are stored as a series of mathematical relationships rather than pixels and are therefore easier to resize.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091613Z" creationid="Jeff Huang" creationdate="20180122T091613Z">
-        <seg>支援所有的圖形格式，但Draw特別有用，因為其支援向量圖形，向量圖形是儲存一系列的數學關係，而非像素，因此較容易調整大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132039Z" creationid="Jeff Huang" creationdate="20180122T091613Z">
+        <seg>所有標準圖形格式都有支援，但Draw因為支援向量圖的緣故，所以最為實用。向量圖儲存的是一系列的數學關係，而非像素點，因此很方便調整大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10314,8 +10314,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Draw, &lt;f0&gt;Impress,&lt;/f0&gt; and &lt;f1&gt;the Drawing&lt;/f1&gt; tool bar treat images as another form of primitive.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091355Z" creationid="Jeff Huang" creationdate="20180122T091355Z">
-        <seg>Draw、&lt;f0&gt;Impress&lt;/f0&gt;與&lt;f1&gt;繪圖&lt;/f1&gt;工具列都將圖片當做另一種形式的基本圖形元素。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131705Z" creationid="Jeff Huang" creationdate="20180122T091355Z">
+        <seg>Draw、&lt;f0&gt;Impress&lt;/f0&gt;與&lt;f1&gt;繪圖&lt;/f1&gt;工具列都將圖片當做另一種形式的初形圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13728,8 +13728,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you do, the result is an abstract shape with few practical purposes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090539Z" creationid="Jeff Huang" creationdate="20180122T090539Z">
-        <seg>如果你這樣做了，那麼結果就會是一個抽象的形狀，幾乎沒有實際意義。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131642Z" creationid="Jeff Huang" creationdate="20180122T090539Z">
+        <seg>如果你這樣做了，那麼結果會是一個抽象的形狀，幾乎沒有實際用途。</seg>
       </tuv>
     </tu>
     <tu>
