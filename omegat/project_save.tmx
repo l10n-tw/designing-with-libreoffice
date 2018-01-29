@@ -4261,8 +4261,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding &lt;/f0&gt;freeform line&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132708Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;自由形線條</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T071053Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;自由線條</seg>
       </tuv>
     </tu>
     <tu>
@@ -6360,8 +6360,8 @@
       <tuv lang="EN">
         <seg>A freeform line is one that follows the direction of the &lt;f0&gt;cursor&lt;/f0&gt; as you move it in the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132859Z" creationid="Jeff Huang" creationdate="20180118T132859Z">
-        <seg>自由形線條是一種在編輯視窗中會跟隨你的&lt;f0&gt;游標&lt;/f0&gt;方向的曲線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T071243Z" creationid="Jeff Huang" creationdate="20180118T132859Z">
+        <seg>自由線條（鉛筆圖示）是一種在編輯視窗中一路跟隨你&lt;f0&gt;游標&lt;/f0&gt;走向的曲線。</seg>
       </tuv>
     </tu>
     <tu>
