@@ -23,7 +23,6 @@ checklist	檢查表
 dimension line	尺寸線
 justified	兩端對齊
 Connector	連接線	LibreOffice Draw 將形狀相連的 Connector 統一改譯為連接線
-fills	填充格式	用來填滿形狀物件的樣式，包括色彩、漸層、陰影與點陣圖。是否統一譯為「填充格式」？
 Text Flow	排文和分頁
 hyphen	連字號
 readability	易讀性
@@ -38,3 +37,4 @@ freeform line	自由線條
 area	區塊
 Fontwork	美術字
 dingbat	雜錦圖
+fills	填入內容	用來填滿形狀物件的樣式，包括色彩、漸層、陰影與點陣圖。是否統一譯為「填入內容」？
