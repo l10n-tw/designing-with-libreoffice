@@ -2657,8 +2657,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Format &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Area,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;fills are designed for use throughout LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094929Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f3&gt;「格式 &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域」&lt;/f5&gt;&lt;/f4&gt;中，&lt;f7&gt;填充格式是專為在LibreOffice中使用所設計的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133237Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f3&gt;「格式 &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區塊」&lt;/f5&gt;&lt;/f4&gt;下，&lt;f7&gt;填入內容是為了在LibreOffice中所有程式內使用而設計的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24322,8 +24322,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When saved, your custom designs become generally available in LibreOffice.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133109Z" creationid="Jeff Huang" creationdate="20180122T094346Z">
-        <seg>儲存後，你自訂的設計就可以在LibreOffice中使用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133242Z" creationid="Jeff Huang" creationdate="20180122T094346Z">
+        <seg>儲存後，你自訂的設計就可以在LibreOffice中所有程式使用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
