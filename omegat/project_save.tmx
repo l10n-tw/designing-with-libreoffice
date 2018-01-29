@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T032644Z" creationid="Jeff Huang" creationdate="20180129T032644Z">
+        <seg>&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;A&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;fter having made the effort to create a genuinely useful slide show, you should make sure that your delivery does not ruin your previous work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T142524Z" creationid="Franklin Weng" creationdate="20180120T125254Z">
@@ -9729,6 +9737,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130430Z" creationid="Jeff Huang" creationdate="20180126T130430Z">
         <seg>取決於&lt;f0&gt;你所使用的印表機&lt;/f0&gt;，你可能在&lt;f1&gt;其他&lt;/f1&gt;邊距也需要額外的空間供裁剪使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the version of LibreOffice, this over-ride may cause formatting problems, so make everything consistent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T032933Z" creationid="Jeff Huang" creationdate="20180129T032933Z">
+        <seg>取決LibreOffice的版本，這個覆寫可能會造成格式問題，所以盡量讓所有設定都保持一致。</seg>
       </tuv>
     </tu>
     <tu>
