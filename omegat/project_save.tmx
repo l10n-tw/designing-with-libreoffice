@@ -2126,8 +2126,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; Bitmaps&lt;/f0&gt; are tiles used for a quick area fill.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140421Z" creationid="Jeff Huang" creationdate="20180122T140421Z">
-        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 點陣圖」&lt;/f0&gt;是用於區域快速填充的拼貼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142137Z" creationid="Jeff Huang" creationdate="20180122T140421Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 點陣圖」&lt;/f0&gt;是用來快速填入區塊的拼貼樣式圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,8 +8428,8 @@
       <tuv lang="EN">
         <seg>Bitmaps &lt;f0&gt;refer in this context to&lt;/f0&gt; tiles that are used to create a repeating pattern.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141820Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
-        <seg>點陣圖&lt;f0&gt;在這個情境下&lt;/f0&gt;用來製作重複的圖案拼貼樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142031Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
+        <seg>點陣圖&lt;f0&gt;在這個情境下&lt;/f0&gt;用來製作重複的拼貼圖案樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10473,8 +10473,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Draw is limited compared to &lt;f0&gt;stand-alone&lt;/f0&gt; graphic editors like &lt;f1&gt;GIMP&lt;/f1&gt; or Krita.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180123T021103Z" creationid="Jeff Huang" creationdate="20180123T021103Z">
-        <seg>Draw通常是與&lt;f0&gt;獨立的&lt;/f0&gt;圖形編輯器相比較，如&lt;f1&gt;GIMP&lt;/f1&gt;或Krita。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142229Z" creationid="Jeff Huang" creationdate="20180123T021103Z">
+        <seg>Draw與&lt;f0&gt;獨立發行的&lt;/f0&gt;圖形編輯器如&lt;f1&gt;GIMP&lt;/f1&gt;或Krita相比，功能上較為限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12660,8 +12660,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, as you find or develop shapes to use in a project, you may discover that Draw and the Drawing tool bar are more versatile than you first imagined.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180123T021214Z" creationid="Jeff Huang" creationdate="20180123T021214Z">
-        <seg>不過，當你在尋找或開發於專案中使用的形狀時，你可能會發現Draw與繪圖工具列比你原本想像中的有更多東西。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142253Z" creationid="Jeff Huang" creationdate="20180123T021214Z">
+        <seg>不過，當你在尋找或開發專案中要用的形狀時，你可能會發現Draw和繪圖工具列比你原本想像中的更實用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25455,8 +25455,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can build your own tile, pixel by pixel in the Pattern Editor, or load a fill from another source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142009Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
-        <seg>你可以用點陣圖繪圖軟體或圖樣編輯器 (Pattern Editor) 建立你自己的拼貼，或是從其他來源載入。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142044Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
+        <seg>你可以用點陣圖繪圖軟體或圖樣編輯器 (Pattern Editor) 建立你自己的拼貼樣式，或是從其他來源載入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26171,8 +26171,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Your custom fills are stored in the /user/config directory of your personal configuration path in a file with an .sob extension (StarOffice Bitmap).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105532Z" creationid="Jeff Huang" creationdate="20180122T140311Z">
-        <seg>你的自訂填充格式儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.sob（StarOffice點陣圖）的檔案儲存。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142107Z" creationid="Jeff Huang" creationdate="20180122T140311Z">
+        <seg>你的自訂填入內容儲存在你個人設定路徑的/user/config目錄中，以副檔名為.sob（StarOffice點陣圖，StarOffice Bitmap 縮寫）的檔案儲存。</seg>
       </tuv>
     </tu>
     <tu>
