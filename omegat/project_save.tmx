@@ -16829,6 +16829,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On each of these custom styles, set &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page &gt; Layout Settings &gt; Format&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; to lower case Roman numerals.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T084239Z" creationid="Jeff Huang" creationdate="20180129T084239Z">
+        <seg>在每一個自訂樣式中，設定&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「頁面 &gt; 版面配置設定 &gt; 格式」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;設定為小寫的羅馬數字。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;Alignment&lt;/f0&gt; tab, &lt;f1&gt;s&lt;/f1&gt;et the alignment to &lt;f2&gt;Center.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134605Z" creationid="zerng07" creationdate="20180125T134605Z">
