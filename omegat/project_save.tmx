@@ -24164,6 +24164,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually, this is not a problem, since a footnote longer than a page is probably important enough to be moved to in the main text or an appendix.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135724Z" creationid="Jeff Huang" creationdate="20180129T135724Z">
+        <seg>一般來說，這不是問題，因為比一頁還長的註腳應該重要到足以移到正文或附錄。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usually, you can leave &lt;f0&gt;the default.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124947Z" creationid="Jeff Huang" creationdate="20180124T124947Z">
@@ -25431,6 +25439,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T095704Z" creationid="zerng07" creationdate="20180121T095704Z">
         <seg>&lt;f0&gt;設計時&lt;/f0&gt;盡可能運用Writer的預先定義樣式可以節省時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set a specific &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Maximum footnote height,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Not larger than page area&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – which means that no footnote can be larger than a page long.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135621Z" creationid="Jeff Huang" creationdate="20180129T135621Z">
+        <seg>你可以指定&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;最大註腳高度，&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;不大於頁面區塊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，其代表了沒有註腳可以比一頁還長。</seg>
       </tuv>
     </tu>
     <tu>
