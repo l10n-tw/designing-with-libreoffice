@@ -2058,6 +2058,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Footnotes are positioned automatically by LibreOffice – usually with acceptable results, although occasionally the only &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;solution is to convert them to endnotes instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134913Z" creationid="Jeff Huang" creationdate="20180129T134913Z">
+        <seg>&lt;f0&gt;註腳會由LibreOffice自動定位，通常結果不會太差，雖然有時候唯一的&lt;/f0&gt;&lt;f2&gt;解決方法是將其轉換為尾註。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
@@ -3412,6 +3420,12 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083134Z" creationid="zerng07" creationdate="20171225T083027Z">
         <seg>&lt;f0&gt;搜尋&lt;/f0&gt;&lt;f3&gt;段落樣式&lt;/f3&gt;是我們在編輯格式設定和文稿結構時很重要的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>參照錯誤，略過不譯。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7421,6 +7435,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040121Z" creationid="zerng07" creationdate="20171212T040121Z">
         <seg>另一個使用標題樣式的大優點是，你可以在「助手」功能中把標題視為書籤使用，&lt;f0&gt;幫助你&lt;/f0&gt;在文件中前後瀏覽移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another option is to add manual frames and set up the text flow you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134631Z" creationid="Jeff Huang" creationdate="20180129T134631Z">
+        <seg>另一個選項是新增手動框架，並設定你想要的排文和分頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18944,6 +18966,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060258Z" creationid="Jeff Huang" creationdate="20180104T060258Z">
         <seg>設定透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up footnotes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134714Z" creationid="Jeff Huang" creationdate="20180129T134714Z">
+        <seg>設定註腳</seg>
       </tuv>
     </tu>
     <tu>
