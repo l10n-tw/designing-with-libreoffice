@@ -5919,8 +5919,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;Unfortunately, it can be confusing, because menu items are arranged &lt;/f4&gt;in no particular order, and with few indications of which item is to be used with which shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T085456Z" creationid="Jeff Huang" creationdate="20180122T085456Z">
-        <seg>&lt;f4&gt;不幸的是，因為選單項目並未以特定順序排列，可能會讓人感到困惑&lt;/f4&gt;，且幾乎沒有哪個項目應該使用哪種形狀的指示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131059Z" creationid="Jeff Huang" creationdate="20180122T085456Z">
+        <seg>&lt;f4&gt;不幸的是，因為選單項目未以特定順序排列，可能會讓人感到困惑&lt;/f4&gt;，而且幾乎沒有哪個項目應該使用哪種形狀的指示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8045,8 +8045,8 @@
       <tuv lang="EN">
         <seg>Be careful that they are actually touching, because &lt;t1/&gt;otherwise LibreOffice draws a connection that may be crooked.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T090120Z" creationid="Jeff Huang" creationdate="20180122T090120Z">
-        <seg>請注意，它們實際上是互有關係的，因為 LibreOffice 可能繪製出歪七扭八的線條。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131157Z" creationid="Jeff Huang" creationdate="20180122T090120Z">
+        <seg>請留意，它們真的會連在一起，所以LibreOffice可能繪製出歪七扭八的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23014,8 +23014,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To connect two lines, select them, then click &lt;f0&gt;Modify &gt; Connect&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T085548Z" creationid="Jeff Huang" creationdate="20180122T085548Z">
-        <seg>要連接兩條線，選取它們，然後點按&lt;f0&gt;「修改 &gt; 連接」&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131110Z" creationid="Jeff Huang" creationdate="20180122T085548Z">
+        <seg>若要連接兩條線，先選取它們，然後點按&lt;f0&gt;「修改 &gt; 連接」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23222,8 +23222,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To split lines, click &lt;f2&gt;Modify &gt; Break.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T061804Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
-        <seg>要分離線條，點按&lt;f2&gt;「修改 &gt; 斷開」。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131250Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
+        <seg>要分離這兩條線，點按&lt;f2&gt;「修改 &gt; 斷開」。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
