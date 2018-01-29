@@ -9471,6 +9471,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &lt;f0&gt;&lt;f1&gt;Introduction Start, Introduction Left &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;and &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Introduction Right&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; page styles, modeled on the main default pages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T083704Z" creationid="Jeff Huang" creationdate="20180129T083704Z">
+        <seg>建立&lt;f0&gt;&lt;f1&gt;引言起始頁、引言左頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;與&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;引言右頁&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;頁面樣式，在主要的預設頁面上建模。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a &lt;f0&gt;Signature&lt;/f0&gt; style with the following settings:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010243Z" creationid="zerng07" creationdate="20180125T134536Z">
@@ -23050,6 +23058,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074531Z" creationid="Jeff Huang" creationdate="20180118T134856Z">
         <seg>要移除邊框的話，就在物件上點按右鍵，並選取&lt;f0&gt;「線條 &gt; 樣式 &gt; 無」。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restart the page count:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T082827Z" creationid="Jeff Huang" creationdate="20180129T082827Z">
+        <seg>要讓頁數重新開始：</seg>
       </tuv>
     </tu>
     <tu>
