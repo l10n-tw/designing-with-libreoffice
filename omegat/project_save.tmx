@@ -4262,16 +4262,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding &lt;/f0&gt;freeform line&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T071053Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;自由線條</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082738Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;自由線條</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding &lt;/f0&gt;points</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080106Z" creationid="Jeff Huang" creationdate="20180118T134916Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;控制點</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082748Z" creationid="Jeff Huang" creationdate="20180118T134916Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;控制點</seg>
       </tuv>
     </tu>
     <tu>
@@ -4286,24 +4286,24 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; &lt;f1&gt;c&lt;/f1&gt;allouts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074420Z" creationid="Jeff Huang" creationdate="20180118T133802Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;圖說文字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082743Z" creationid="Jeff Huang" creationdate="20180118T133802Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;圖說文字</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; connectors</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051335Z" creationid="Jeff Huang" creationdate="20180118T130903Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;連接線</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082729Z" creationid="Jeff Huang" creationdate="20180118T130903Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;連接線</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; curves</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T131943Z" creationid="Jeff Huang" creationdate="20180118T131943Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;曲線</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082734Z" creationid="Jeff Huang" creationdate="20180118T131943Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;曲線</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,8 +4326,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; the Fontwork Gallery</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T130309Z" creationid="Jeff Huang" creationdate="20180120T125714Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;美術字圖庫</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082750Z" creationid="Jeff Huang" creationdate="20180120T125714Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;美術字圖庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -15014,8 +15014,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It is midway between manual formatting and graphic styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T081420Z" creationid="Jeff Huang" creationdate="20180120T130616Z">
-        <seg>它介於文字方塊與圖形樣式間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082815Z" creationid="Jeff Huang" creationdate="20180120T130616Z">
+        <seg>它介於「文字方塊」與「變換」旋轉按鈕之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20432,16 +20432,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The Fontwork Gallery is available from the Drawing tool bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T081327Z" creationid="Jeff Huang" creationdate="20180120T130519Z">
-        <seg>美術字圖庫可從上排繪圖工具列中選取使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082659Z" creationid="Jeff Huang" creationdate="20180120T130519Z">
+        <seg>美術字圖庫按鈕可從上排繪圖工具列中選取使用。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The Fontwork Gallery offers a quick way of formatting graphic text that is not on a flat baseline, but follows a curve or other shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052157Z" creationid="Jeff Huang" creationdate="20180120T130919Z">
-        <seg>美術字圖庫提供一個快速的方式，對不在平面基線上，而是曲線或是其他形狀上的圖形化文字進行格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082953Z" creationid="Jeff Huang" creationdate="20180120T130919Z">
+        <seg>美術字圖庫提供一種快速設定出不在水平基線上，而是跟隨曲線或其他形狀的圖形化文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23385,16 +23385,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Understanding dimension lines</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T125734Z" creationid="Jeff Huang" creationdate="20180118T125734Z">
-        <seg>熟悉尺寸線</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082717Z" creationid="Jeff Huang" creationdate="20180118T125734Z">
+        <seg>認識尺寸線</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Understanding text inside a shape</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T130344Z" creationid="Jeff Huang" creationdate="20180118T130344Z">
-        <seg>熟悉圖形中的文字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082725Z" creationid="Jeff Huang" creationdate="20180118T130344Z">
+        <seg>認識圖形中的文字</seg>
       </tuv>
     </tu>
     <tu>
