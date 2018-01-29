@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;Then select&lt;f2&gt; Group &lt;/f2&gt;from the &lt;f3&gt;Modify &lt;/f3&gt;menu or the right-click menu from one of the shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105757Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
-        <seg>&lt;/f1&gt;然後從「修改」選單中，或是從其中一個形狀的右鍵選單中選取「群組」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105208Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
+        <seg>&lt;/f1&gt;然後從「修改」選單中，或是對其中一個形狀按右鍵的選單中，選取「群組」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5229,8 +5229,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;With each selection, the frame and handles expand to include the new shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080718Z" creationid="Jeff Huang" creationdate="20180121T133145Z">
-        <seg>&lt;f1&gt;每選擇一次，框架與手把都會延展以包含新的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105122Z" creationid="Jeff Huang" creationdate="20180121T133145Z">
+        <seg>&lt;f1&gt;每多選擇一次，外框和手把都會擴展以包住新的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5895,8 +5895,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;The option changes to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Ungroup&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; so you can undo the group.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134434Z" creationid="Jeff Huang" creationdate="20180121T134434Z">
-        <seg>&lt;f4&gt;之後，該選項會變為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;取消群組&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;，這樣你就可以將它們分開。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105248Z" creationid="Jeff Huang" creationdate="20180121T134434Z">
+        <seg>&lt;f4&gt;之後，這個選項會變為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;取消群組&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;，你可以用它來拆散群組。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13400,8 +13400,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If the diagram is too crowded to select shapes to group, try selecting smaller groups first, then grouping groups.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T134701Z" creationid="Jeff Huang" creationdate="20180121T134701Z">
-        <seg>如果圖表過於擁擠導致無法選取要分成一組的形狀，試試看先選取較小的群組，然後再擴大。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105432Z" creationid="Jeff Huang" creationdate="20180121T134701Z">
+        <seg>如果圖表過於擁擠導致無法選到想組成一組的形狀，試試看先選取較小的群組先合併，然後再把不同的群組合併起來。</seg>
       </tuv>
     </tu>
     <tu>
