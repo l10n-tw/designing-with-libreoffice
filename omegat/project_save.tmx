@@ -5259,6 +5259,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;You can add more columns, but the tools assume no more than 4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T095821Z" creationid="Jeff Huang" creationdate="20180129T095821Z">
+        <seg>&lt;f1&gt;你可以新增更多欄，但工具假定不會超過4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;You may find that squinting helps you to focus on the color and to ignore the content&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T122144Z" creationid="Franklin Weng" creationdate="20180105T133429Z">
@@ -16921,8 +16929,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>On the most commonly used formats – A4 or &lt;f0&gt;L&lt;/f0&gt;etter sized paper with a portrait orientation – you probably have room for a maximum of &lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt; columns, unless some of them are extremely narrow.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094931Z" creationid="Jeff Huang" creationdate="20180129T094931Z">
-        <seg>在最常用的格式中（也就是A4與Letter大小的縱向頁面），你也許會有最多&lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;到&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;欄的空間，除非其中有一些真的很窄。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T095622Z" creationid="Jeff Huang" creationdate="20180129T094931Z">
+        <seg>在最常用的格式中（也就是A4與Letter大小的縱向頁面），你也許會有最多&lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;欄的空間，除非其中有一些真的很窄。</seg>
       </tuv>
     </tu>
     <tu>
