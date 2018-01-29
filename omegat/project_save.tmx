@@ -1700,8 +1700,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Crop Image:&lt;/f0&gt; Display only part of the image, or resize the image display.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091928Z" creationid="Jeff Huang" creationdate="20180122T091928Z">
-        <seg>&lt;f0&gt;裁切圖片：&lt;/f0&gt;僅顯示一部份的圖片，或是調整圖片顯示的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132404Z" creationid="Jeff Huang" creationdate="20180122T091928Z">
+        <seg>&lt;f0&gt;裁切：&lt;/f0&gt;僅顯示一部份的圖片，或是調整圖片顯示的區域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17001,8 +17001,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>On the right-click menu, images have several tools that primitives lack:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T091820Z" creationid="Jeff Huang" creationdate="20180122T091820Z">
-        <seg>在右鍵選單中，圖片有許多基本圖形元素沒有的工具：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132059Z" creationid="Jeff Huang" creationdate="20180122T091820Z">
+        <seg>在右鍵選單中，影像圖有許多初形圖沒有的工具：</seg>
       </tuv>
     </tu>
     <tu>
