@@ -2021,8 +2021,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Alignment:&lt;/f0&gt; Align the entire sample, or each word.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T120503Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
-        <seg>&lt;f0&gt;對齊美術字型：&lt;/f0&gt;對齊整個樣品，或是每個字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090507Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
+        <seg>&lt;f0&gt;美術字對齊：&lt;/f0&gt;對齊整個樣品，或是每個字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,8 +2045,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Shape:&lt;/f0&gt; Choose the shape of the baseline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T133427Z" creationid="Jeff Huang" creationdate="20180120T133427Z">
-        <seg>&lt;f0&gt;美術字形狀：&lt;/f0&gt;選擇基線的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090247Z" creationid="Jeff Huang" creationdate="20180120T133427Z">
+        <seg>&lt;f0&gt;美術字形狀：&lt;/f0&gt;選擇文字的基線形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8109,8 +8109,8 @@
       <tuv lang="EN">
         <seg>Begin by replacing the default text with your own.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T132350Z" creationid="Jeff Huang" creationdate="20180120T132350Z">
-        <seg>從用自己的文字取代預設文字開始。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085810Z" creationid="Jeff Huang" creationdate="20180120T132350Z">
+        <seg>先從用你自己要的文字取代預設文字開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13054,8 +13054,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can also use the Fontwork tool bar that opens to the right of the standard Drawing tool bar that appears on the bottom of the page when you select the sample in your document.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085705Z" creationid="Jeff Huang" creationdate="20180120T132211Z">
-        <seg>另外，當你在文件中選取你所選的美術字時，也可以使用頁面底部出現的美術字工具列。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085728Z" creationid="Jeff Huang" creationdate="20180120T132211Z">
+        <seg>另外，當你在文件中選取你的美術字時，也可以使用頁面底部出現的美術字工具列。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13824,8 +13824,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you need an effect not available from the tool bar and are having trouble editing, set the shape to flat to make your changes, then return to the original shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T134013Z" creationid="Jeff Huang" creationdate="20180120T134013Z">
-        <seg>如果你需要沒有在工具列中提供的效果，而且編輯有困難，請將形狀改回平面，然後再回到原始形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090418Z" creationid="Jeff Huang" creationdate="20180120T134013Z">
+        <seg>如果你需要用到工具列中沒有提供的效果，而且編輯上有困難，請將美術字形狀改回水平直線，之後再回到原來的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20656,8 +20656,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The baseline for text is the imaginary line on which the bottom of an “m” or “n” rests upon.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T133708Z" creationid="Jeff Huang" creationdate="20180120T133708Z">
-        <seg>文字的基線就是“m”或“n”的底部所依賴的假想線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090327Z" creationid="Jeff Huang" creationdate="20180120T133708Z">
+        <seg>文字的基線就是「m」或「n」底部擺放位置的假想直線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,8 +21839,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The text can be forma&lt;f0&gt;t&lt;/f0&gt;ted by clicking it, but often you will find making changes easier by using the icons on the Fontwork tool bar:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T133336Z" creationid="Jeff Huang" creationdate="20180120T133336Z">
-        <seg>文字可以透過點按來格式化，但是你會發現使用美術字工具列上的圖示會比較容易更改：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090220Z" creationid="Jeff Huang" creationdate="20180120T133336Z">
+        <seg>你可以點按美術字來修改格式設定，但你會發現用底部的美術字工具列圖示會更容易更改：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25661,8 +25661,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You will probably want to replace the color of the &lt;f0&gt;Fill&lt;/f0&gt; and the &lt;f1&gt;Area&lt;/f1&gt; as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T132517Z" creationid="Jeff Huang" creationdate="20180120T132517Z">
-        <seg>你可能也會想要替換&lt;f0&gt;填充&lt;/f0&gt;與&lt;f1&gt;區域&lt;/f1&gt;的顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085852Z" creationid="Jeff Huang" creationdate="20180120T132517Z">
+        <seg>你可能也會想要替換「&lt;f0&gt;填入&lt;/f0&gt;」與「&lt;f1&gt;區塊&lt;/f1&gt;」的顏色。</seg>
       </tuv>
     </tu>
     <tu>
