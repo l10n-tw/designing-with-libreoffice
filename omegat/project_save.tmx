@@ -1394,8 +1394,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Axial:&lt;/f0&gt; The gradient is horizontal, starting with the first color in the center and ending with the last color at the top and the bottom.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132835Z" creationid="Jeff Huang" creationdate="20180122T132835Z">
-        <seg>&lt;f0&gt;軸向：&lt;/f0&gt;水平漸層，從中心的第一個顏色開始，到頂部與底部的最後一個顏色結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140452Z" creationid="Jeff Huang" creationdate="20180122T132835Z">
+        <seg>&lt;f0&gt;軸向：&lt;/f0&gt;水平漸層，從中心的顏色開始，到頂部與底部的最後一個顏色結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2110,8 +2110,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Gradients&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; creates backgrounds in which one color shades into another.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T131700Z" creationid="Jeff Huang" creationdate="20180122T131700Z">
-        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;漸層」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;可以建立從一種色彩變成另一種色彩的背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140243Z" creationid="Jeff Huang" creationdate="20180122T131700Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;漸層」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;可以創造從一種色彩變成另一種色彩的背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,8 +2801,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Linear: &lt;/f0&gt;The gradient is horizontal, starting with the first color at the top and ending with the last color on the bottom.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132659Z" creationid="Jeff Huang" creationdate="20180122T132659Z">
-        <seg>&lt;f0&gt;線形：&lt;/f0&gt;水平漸層，從頂部的第一個顏色開始，到底部的最後一個顏色結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140415Z" creationid="Jeff Huang" creationdate="20180122T132659Z">
+        <seg>&lt;f0&gt;線形：&lt;/f0&gt;水平漸層，從上面的顏色開始，到下面的顏色結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15875,8 +15875,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice supports several different types of gradient:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132241Z" creationid="Jeff Huang" creationdate="20180122T132241Z">
-        <seg>LibreOffice支援多種不同的漸層：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140327Z" creationid="Jeff Huang" creationdate="20180122T132241Z">
+        <seg>LibreOffice支援多種不同的漸層類型：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21972,8 +21972,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The result is often abstract designs suitable for Impress slides, or even desktop wallpapers.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132222Z" creationid="Jeff Huang" creationdate="20180122T132222Z">
-        <seg>結果是適用於Impress投影片或甚至是桌布的抽象設計。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140311Z" creationid="Jeff Huang" creationdate="20180122T132222Z">
+        <seg>結果通常是Impress投影片或甚至是桌布都能用的抽象設計。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
