@@ -2126,8 +2126,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; Bitmaps&lt;/f0&gt; are tiles used for a quick area fill.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142137Z" creationid="Jeff Huang" creationdate="20180122T140421Z">
-        <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 點陣圖」&lt;/f0&gt;是用來快速填入區塊的拼貼樣式圖。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142557Z" creationid="Jeff Huang" creationdate="20180122T140421Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 點陣圖」&lt;/f0&gt;是用來快速填入區塊的鋪排樣式圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,8 +8428,8 @@
       <tuv lang="EN">
         <seg>Bitmaps &lt;f0&gt;refer in this context to&lt;/f0&gt; tiles that are used to create a repeating pattern.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142031Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
-        <seg>點陣圖&lt;f0&gt;在這個情境下&lt;/f0&gt;用來製作重複的拼貼圖案樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142610Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
+        <seg>點陣圖&lt;f0&gt;在這個情境下&lt;/f0&gt;用來製作重複的鋪排圖案樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25455,8 +25455,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can build your own tile, pixel by pixel in the Pattern Editor, or load a fill from another source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142044Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
-        <seg>你可以用點陣圖繪圖軟體或圖樣編輯器 (Pattern Editor) 建立你自己的拼貼樣式，或是從其他來源載入。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142618Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
+        <seg>你可以用點陣圖繪圖軟體或圖樣編輯器 (Pattern Editor) 建立你自己的鋪排圖樣，或是從其他來源載入。</seg>
       </tuv>
     </tu>
     <tu>
