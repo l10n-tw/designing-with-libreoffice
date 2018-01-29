@@ -2777,8 +2777,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Lines at the center of one side are connectors, while broken lines are the snap lines for positioning the object being moved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T064927Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
-        <seg>&lt;f0&gt;在矩形邊上中心的線條是連接線，而虛線是被移動物件的定位用輔助線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T065415Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
+        <seg>&lt;f0&gt;在矩形邊上中心的線條是連接線，而虛線是被移動物件定位用的輔助線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20299,11 +20299,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>原先這裡是寫「貼附線」(snap line)。但經測試，就算打開了「檢視 &gt; 貼附線 &gt; 顯示貼附線」也沒有出現任何線，看起來功能已經被網格取代，所以描述改寫。</note>
       <tuv lang="EN">
         <seg>The &lt;f0&gt;snap lines&lt;/f0&gt; are useful for exact positioning, even with the grid turned off, &lt;f1&gt;because you can see the exact position on the horizontal and vertical rulers.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T065027Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
-        <seg>即使你關閉網格的顯示，&lt;f0&gt;輔助線&lt;/f0&gt;仍可用於精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。（原先這裡是寫「貼附線」(snap line)。但經測試，就算打開了「檢視 &gt; 貼附線 &gt; 顯示貼附線」也沒有出現任何線，看起來功能已經被網格取代，所以描述可能要改寫。）&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T065354Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
+        <seg>只要有開啟「檢視 &gt; 網格與輔助線 &gt; 當移動時採用輔助線」的話，即使你關閉網格顯示，仍可用&lt;f0&gt;輔助線&lt;/f0&gt;精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
