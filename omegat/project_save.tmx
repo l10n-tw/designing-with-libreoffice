@@ -9513,8 +9513,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create a shape from overlapping objects by selectin&lt;f0&gt;g&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Modify &gt; S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;hapes &gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; subtract.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T055416Z" creationid="Jeff Huang" creationdate="20180122T035900Z">
-        <seg>透過選取&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀&lt;/f2&gt;&lt;/f1&gt; &gt;&lt;f4&gt;&lt;f5&gt; 減去&lt;/f5&gt;&lt;/f4&gt;」來從重疊的物件中建立形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115019Z" creationid="Jeff Huang" creationdate="20180122T035900Z">
+        <seg>選取&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀&lt;/f2&gt;&lt;/f1&gt; &gt;&lt;f4&gt;&lt;f5&gt; 減去&lt;/f5&gt;&lt;/f4&gt;」來從重疊的物件建立新形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24274,8 +24274,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When shapes are merged, a single new shape results &lt;f0&gt;that is easier to keep track of.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T035400Z" creationid="Jeff Huang" creationdate="20180122T035400Z">
-        <seg>當形狀被合併時，單一個新形狀&lt;f0&gt;會更易於追蹤。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115001Z" creationid="Jeff Huang" creationdate="20180122T035400Z">
+        <seg>當形狀合併後，新合成的單一形狀&lt;f0&gt;就更方便追蹤。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24314,8 +24314,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When the circle and a dingbat set are stacked, &lt;f0&gt;&lt;f1&gt;subtract&lt;/f1&gt;&lt;/f0&gt; leaves a cutout showing the color of the paper.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T055422Z" creationid="Jeff Huang" creationdate="20180122T040023Z">
-        <seg>當圓圈與其他東西堆疊時，&lt;f0&gt;&lt;f1&gt;減去&lt;/f1&gt;&lt;/f0&gt;會留下顯示紙張顏色的缺口。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115259Z" creationid="Jeff Huang" creationdate="20180122T040023Z">
+        <seg>當圓圈與雜錦圖堆疊後，如果套用「&lt;f0&gt;&lt;f1&gt;減去&lt;/f1&gt;&lt;/f0&gt;」會留下剪紙式的缺口透出底下紙張的顏色。</seg>
       </tuv>
     </tu>
     <tu>
