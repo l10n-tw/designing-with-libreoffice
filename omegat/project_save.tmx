@@ -9344,8 +9344,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Connectors are lines attached to two objects by means of glue points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051507Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
-        <seg>連接線是透過膠合點來連接兩個物件的線條。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T063923Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
+        <seg>連接線是經由接點 (Glue point) 連接兩個物件的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17178,8 +17178,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Other objects at the other end of the connector remain in place unless you select both objects, which drags the objects and the connectors between them as though all elements were grouped.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051525Z" creationid="Jeff Huang" creationdate="20180118T131434Z">
-        <seg>除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳，否則連接線另一端的物件會留在原位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T064032Z" creationid="Jeff Huang" creationdate="20180118T131434Z">
+        <seg>除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳；否則連接線另一端的物件會留在原位。</seg>
       </tuv>
     </tu>
     <tu>
