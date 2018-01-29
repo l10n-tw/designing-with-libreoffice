@@ -17422,8 +17422,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Overlapping areas disappear, and the area color is the fill of the object at the bottom of the stack.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034942Z" creationid="Jeff Huang" creationdate="20180122T034942Z">
-        <seg>重疊區域消失，區域色彩會變為堆疊底部物件的填充。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T114909Z" creationid="Jeff Huang" creationdate="20180122T034942Z">
+        <seg>重疊的區塊會消失，合併後的區塊色彩會使用堆疊中底部物件的填入色彩。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
