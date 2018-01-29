@@ -1684,8 +1684,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Merge.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; The result is a shape with the outlines of the objects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034854Z" creationid="Jeff Huang" creationdate="20180122T034854Z">
-        <seg>&lt;f0&gt;透過選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀 &gt; 合併」&lt;/f2&gt;&lt;/f1&gt;來從重疊的物件建立形狀。&lt;f3&gt;結果會是物件輪廓的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T114653Z" creationid="Jeff Huang" creationdate="20180122T034854Z">
+        <seg>&lt;f0&gt;選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀 &gt; 合併」&lt;/f2&gt;&lt;/f1&gt;來從重疊的物件建立新形狀。&lt;f3&gt;得到的結果會是物件的輪廓形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4713,8 +4713,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;c) Two sword fighter dingbats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T113925Z" creationid="Jeff Huang" creationdate="20180122T034257Z">
-        <seg>&lt;f0&gt;c) 兩個雜錦圖字型的劍士戰士。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T113932Z" creationid="Jeff Huang" creationdate="20180122T034257Z">
+        <seg>&lt;f0&gt;c) 兩個雜錦圖字型的劍士圖案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21537,8 +21537,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The one on the left is converted into a polygon using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Convert&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sub-menu, then flipped horizontally to face the other.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T034528Z" creationid="Jeff Huang" creationdate="20180122T034528Z">
-        <seg>左邊那個是使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 轉換」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;子選單來轉換為多邊形，然後再水平翻轉以面對另一個戰士。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T114134Z" creationid="Jeff Huang" creationdate="20180122T034528Z">
+        <seg>左邊那位劍士是先用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「修改 &gt; 轉換」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;子選單轉換成多邊形，然後再水平翻轉成右邊這一位劍士。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
