@@ -1579,8 +1579,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click any other part of the object than the handles, &lt;/f0&gt;and &lt;f1&gt;you can move an object without changing its size and proportions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T143408Z" creationid="Jeff Huang" creationdate="20180118T122313Z">
-        <seg>&lt;f0&gt;點按物件上除了把手以外的地方，&lt;/f0&gt;然後&lt;f1&gt;就可以移動物件而不會改變它的大小和比例。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080101Z" creationid="Jeff Huang" creationdate="20180118T122313Z">
+        <seg>&lt;f0&gt;點按物件上除了手把以外的地方，&lt;/f0&gt;然後&lt;f1&gt;就可以移動物件而不會改變它的大小和比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4269,8 +4269,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding &lt;/f0&gt;points</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134916Z" creationid="Jeff Huang" creationdate="20180118T134916Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;點</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080106Z" creationid="Jeff Huang" creationdate="20180118T134916Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;控制點</seg>
       </tuv>
     </tu>
     <tu>
@@ -10177,8 +10177,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Drag on points to edit a shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T135026Z" creationid="Jeff Huang" creationdate="20180118T135026Z">
-        <seg>在點上拖曳以編輯形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080121Z" creationid="Jeff Huang" creationdate="20180118T135026Z">
+        <seg>拖曳控制點可以修改形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17605,8 +17605,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Points are controls for manipulating a shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T135133Z" creationid="Jeff Huang" creationdate="20180118T135133Z">
-        <seg>點用於控制形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080129Z" creationid="Jeff Huang" creationdate="20180118T135133Z">
+        <seg>控制點用來操控形狀。</seg>
       </tuv>
     </tu>
     <tu>
