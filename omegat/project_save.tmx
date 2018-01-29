@@ -1159,6 +1159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Admittedly, current versions of Calc can contain over a million rows, and 1024 columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140602Z" creationid="Franklin Weng" creationdate="20180129T140602Z">
+        <seg>&lt;f0&gt;雖然目前的 Calc 版本在一個工作表內可以有超過一百萬列與 1024 欄，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Admittedly, you can create more complex designs with the other fields, but the most productive attitude is to regard the&lt;/f0&gt; other fields as options you can play with and mix and match, rather than anything with which you have to deal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140153Z" creationid="Jeff Huang" creationdate="20180122T131450Z">
@@ -2184,6 +2192,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133617Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
         <seg>&lt;f0&gt;在範本管理員下，選擇要刪除的個人範本，在上面點按右鍵選擇&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;刪除&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕即可。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;G&lt;/f0&gt;roup related information &lt;f1&gt;on the same sheet.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T141315Z" creationid="Franklin Weng" creationdate="20180129T141315Z">
+        <seg>將相關的資訊&lt;f0&gt;組合起來&lt;/f0&gt;放在&lt;f1&gt;同一張試算表上。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4588,6 +4604,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;With both types of spreadsheet&lt;/f0&gt;, you should generally organize by column.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140850Z" creationid="Franklin Weng" creationdate="20180129T140850Z">
+        <seg>&lt;f0&gt;這兩種型態的試算表&lt;/f0&gt;通常都以欄來分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wizards are&lt;/f0&gt; available from the &lt;f1&gt;File &gt; Wizards&lt;/f1&gt; sub-menu.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Some of the wizards give you the option of using a LibreOffice Base database or the address book of an email client for filling in fields, which is convenient for mass mail-outs.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103911Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
@@ -5863,6 +5887,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033449Z" creationid="zerng07" creationdate="20180125T033251Z">
         <seg>&lt;f3&gt;行尾字母數和行首字母數應該介於1到4之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;The tradeoff is that a database can require expert knowledge to make the most of it.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140823Z" creationid="Franklin Weng" creationdate="20180129T140823Z">
+        <seg>&lt;f3&gt;是說沒錯啦，操作資料庫比操作試算表需要更專精的知識。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7830,6 +7862,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075352Z" creationid="Jeff Huang" creationdate="20171213T024953Z">
         <seg>在對文件進行最終檢查時，我們可以還&lt;f0&gt;點選&lt;/f0&gt;「&lt;f1&gt;工具 &gt; 語言 &gt; 斷字處理」。&lt;/f1&gt;這個工具能讓你選擇每一行的斷行方式，以及每個連接號所接續的音節是怎樣等等，協助你做到最好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you plan:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140954Z" creationid="Franklin Weng" creationdate="20180129T140954Z">
+        <seg>當你計劃時：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,6 +9942,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Decide which sheets require what kind of design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T141014Z" creationid="Franklin Weng" creationdate="20180129T141014Z">
+        <seg>決定那些工作表需要哪種設計型態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deciding on tabs or tables</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T134522Z" creationid="Franklin Weng" creationdate="20180118T142039Z">
@@ -11536,6 +11584,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a sheet containing raw data needs a design that is &lt;f0&gt;straightforward and perhaps a single page&lt;/f0&gt;, while a sheet containing analysis&lt;f1&gt; may require several sheets and not only headers, but also longer notes to guide users.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T141234Z" creationid="Franklin Weng" creationdate="20180129T141234Z">
+        <seg>例如，包含原始資料的工作表需要的是&lt;f0&gt;直觀的設計，通常擺在同一頁中&lt;/f0&gt;；而包含分析功能的&lt;f1&gt;則可能需要數個工作表、標頭還有長長的備註來引導使用者。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, a spiral bound book can use spiral coils of different sizes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T124749Z" creationid="Jeff Huang" creationdate="20180126T124749Z">
@@ -12747,6 +12803,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, even with modern computer memory, a database remains&lt;/f0&gt; a more &lt;f1&gt;efficient&lt;/f1&gt; way of storing, retrieving, and manipulating &lt;t2/&gt;data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140715Z" creationid="Franklin Weng" creationdate="20180129T140715Z">
+        <seg>但是即使是有最新的電腦記憶體，&lt;/f0&gt;它在儲存、取出與處理資料時仍然&lt;f1&gt;不會比資料庫更有效率。&lt;/f1&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, free-licensed fonts are often cost-free.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T124304Z" creationid="Franklin Weng" creationdate="20180103T125836Z">
@@ -13439,6 +13503,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135354Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
         <seg>如果文件中的某個顏色很重要（例如企業的品牌識別色），你可以給它一個合適的名稱，例如「&lt;f0&gt;Devilfish 紅&lt;/f0&gt;」，這樣可以快速找到它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a data collection &lt;f0&gt;has more than a few hundred entries,&lt;/f0&gt; you may decide to switch the information to a database.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140457Z" creationid="Franklin Weng" creationdate="20180129T140457Z">
+        <seg>如果一份資料集合有&lt;f0&gt;超過幾百個項目的話&lt;/f0&gt;，你可能就要決定是否要將這些資訊改放到資料庫去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16796,6 +16868,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not only is that the convention, but, if you plan on printing, columns are more trouble to position on the page than rows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140948Z" creationid="Franklin Weng" creationdate="20180129T140948Z">
+        <seg>不只是因為便利性，而且，如果你打算列印出來，欄在列印頁面上的位置的處理要比列麻煩得多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not only that, but many features are awkward to use &lt;f2&gt;when you format manually&lt;/f2&gt; – assuming you can use them at all.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T051003Z" creationid="zerng07" creationdate="20170824T175333Z">
@@ -16912,6 +16992,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042946Z" creationid="Jeff Huang" creationdate="20171229T014546Z">
         <seg>&lt;f0&gt;除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳&lt;/f0&gt;，否則連接線另一端的物件會留在原位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occasionally, you see a data collection arranged to serve as a tutorial.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140107Z" creationid="Franklin Weng" creationdate="20180129T140107Z">
+        <seg>偶而你還會看到做為教學用的資料收集。</seg>
       </tuv>
     </tu>
     <tu>
