@@ -13356,8 +13356,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If a color is important in the document – perhaps because it is a corporate color – give it a suitable name, such as &lt;f0&gt;Devilfish Software Red&lt;/f0&gt;, so you can locate it quickly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095434Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
-        <seg>如果文件中的某個顏色很重要（例如企業的識別色彩），你可以給它一個適合的名字，如「&lt;f0&gt;章魚軟體紅&lt;/f0&gt;」等，這樣您就可以快速地找到它。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135354Z" creationid="Jeff Huang" creationdate="20180122T123439Z">
+        <seg>如果文件中的某個顏色很重要（例如企業的品牌識別色），你可以給它一個合適的名稱，例如「&lt;f0&gt;Devilfish 紅&lt;/f0&gt;」，這樣可以快速找到它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25913,8 +25913,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Your custom color fills are stored in the /user/config directory of your personal configuration path in a file with an .soc extension (StarOffice Colors).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140319Z" creationid="Jeff Huang" creationdate="20180122T123655Z">
-        <seg>你的自訂色彩檔案儲存在你的個人設定路徑的/user/config目錄中，以副檔名為.soc（StarOffice色彩）的檔案儲存。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135524Z" creationid="Jeff Huang" creationdate="20180122T123655Z">
+        <seg>你的自訂色彩檔案儲存在你個人設定路徑的/user/config目錄中，副檔名為.soc（StarOffice色彩, StarOffice Colors 縮寫）。</seg>
       </tuv>
     </tu>
     <tu>
