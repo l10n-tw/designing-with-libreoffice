@@ -9784,8 +9784,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Depending on your selection, a curve can b&lt;f1&gt;e&lt;/f1&gt; open, or filled with a color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070252Z" creationid="Jeff Huang" creationdate="20180118T132153Z">
-        <seg>曲線可以是開放的，也可以封閉有填入色彩，看你的選擇而定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070633Z" creationid="Jeff Huang" creationdate="20180118T132153Z">
+        <seg>曲線可以是開放的（只畫線），也可以封閉起來填入色彩，看你的選擇而定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20068,8 +20068,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Curves&lt;/f0&gt; button is for drawing freeform shapes, usually (but not always) with curved sides.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070329Z" creationid="Jeff Huang" creationdate="20180118T132103Z">
-        <seg>&lt;f0&gt;曲線&lt;/f0&gt;按鈕可用來繪製自由形狀 (freeform shape)，通常（但並不總是）是有曲線的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070615Z" creationid="Jeff Huang" creationdate="20180118T132103Z">
+        <seg>&lt;f0&gt;曲線&lt;/f0&gt;按鈕可用來繪製自由形狀 (freeform shape)，通常（但並不總是）是帶有曲線的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24276,8 +24276,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you draw a curve, click once to change directions, and twice to stop drawing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132308Z" creationid="Jeff Huang" creationdate="20180118T132308Z">
-        <seg>當你繪製一條曲線時，點按一下以變更方向，兩下以停止繪製。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070609Z" creationid="Jeff Huang" creationdate="20180118T132308Z">
+        <seg>當你繪製一條曲線時，點按一下滑鼠可以變更方向，按兩下就停止繪製。</seg>
       </tuv>
     </tu>
     <tu>
