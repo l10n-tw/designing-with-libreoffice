@@ -1257,8 +1257,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Any primitive can be made into a rotatable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; object by selecting it and then clicking &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Modify &gt; Convert &gt; To 3D.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105729Z" creationid="Jeff Huang" creationdate="20180121T123412Z">
-        <seg>&lt;f0&gt;任何基本圖形元素都可以透過選取該元素，然後點按「修改 &gt; 轉換 &gt; 轉換為 3D」來變成可旋轉的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;物件。&lt;f4&gt;&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T092158Z" creationid="Jeff Huang" creationdate="20180121T123412Z">
+        <seg>&lt;f0&gt;任何初形圖都可以透過先選取圖形，接著點按「修改 &gt; 轉換 &gt; 成 3D」變成可旋轉的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;3D&lt;/f2&gt;&lt;/f1&gt;物件。&lt;f4&gt;&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,8 +4278,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; &lt;f1&gt;3D objects&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T122807Z" creationid="Jeff Huang" creationdate="20180121T122807Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;&lt;f1&gt;3D物件&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091808Z" creationid="Jeff Huang" creationdate="20180121T122807Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;&lt;f1&gt;3D物件&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
