@@ -3931,8 +3931,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The default chart can be repositioned and resized by dragging on its handles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140921Z" creationid="Jeff Huang" creationdate="20180112T140921Z">
-        <seg>&lt;f0&gt;預設的圖表可以透過拖曳其把手來調整位置與調整大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080726Z" creationid="Jeff Huang" creationdate="20180112T140921Z">
+        <seg>&lt;f0&gt;預設的圖表可以透過拖曳其手把來調整位置與調整大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4189,8 +4189,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To edit points, select the shape in the editing window, then select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Points&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button and click the shape so that the handles turn red.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T125044Z" creationid="Jeff Huang" creationdate="20180120T125044Z">
-        <seg>&lt;f0&gt;要編輯點，請在編輯視窗中選取形狀，然後再選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「點」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕並點按形狀，讓把手變成紅色的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080652Z" creationid="Jeff Huang" creationdate="20180120T125044Z">
+        <seg>&lt;f0&gt;要編輯點，請在編輯視窗中選取形狀，然後再選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「點」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕並點按形狀，讓手把變成紅色的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5212,8 +5212,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;With each selection, the frame and handles expand to include the new shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T133145Z" creationid="Jeff Huang" creationdate="20180121T133145Z">
-        <seg>&lt;f1&gt;每選擇一次，框架與把手都會延展以包含新的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080718Z" creationid="Jeff Huang" creationdate="20180121T133145Z">
+        <seg>&lt;f1&gt;每選擇一次，框架與手把都會延展以包含新的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9215,8 +9215,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Click the chart so that the gray border disappears and the object handles appear.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T034414Z" creationid="Jeff Huang" creationdate="20180115T034414Z">
-        <seg>點按圖表讓灰色邊框消失，並讓物件把手出現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080731Z" creationid="Jeff Huang" creationdate="20180115T034414Z">
+        <seg>點按圖表讓灰色邊框消失，並讓物件手把出現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10193,8 +10193,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Dragging on a handle changes the shape of the primitive.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180120T125638Z" creationid="Jeff Huang" creationdate="20180120T125638Z">
-        <seg>拖曳把手會變更基本圖形元素的形狀。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080647Z" creationid="Jeff Huang" creationdate="20180120T125638Z">
+        <seg>拖曳手把會變更基本圖形元素的形狀。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24832,8 +24832,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can &lt;f0&gt;do some basic editing on&lt;/f0&gt; 3D objects by clicking on them until the handles turn red, then dragging by a handle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T123643Z" creationid="Jeff Huang" creationdate="20180121T123643Z">
-        <seg>你可以透過點按3D物件一直到把手變為紅色，然後拖曳把手來&lt;f0&gt;做一些基本的編輯&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080712Z" creationid="Jeff Huang" creationdate="20180121T123643Z">
+        <seg>你可以透過點按3D物件一直到手把變為紅色，然後拖曳手把來&lt;f0&gt;做一些基本的編輯&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24872,8 +24872,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can adjust the shape of a connector by selecting it and dragging on its handle, or by moving one of the objects to which it is attached.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043203Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
-        <seg>你可以透過選取連接線並拖曳其把手來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080722Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
+        <seg>你可以透過選取連接線並拖曳其手把來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
       </tuv>
     </tu>
     <tu>
