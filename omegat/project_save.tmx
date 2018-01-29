@@ -4031,6 +4031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The most important setting is the height for the footnote area.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135233Z" creationid="Jeff Huang" creationdate="20180129T135233Z">
+        <seg>&lt;f0&gt;最重要的設定是註腳區塊的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The official font for GNOME 3.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T105723Z" creationid="zerng07" creationdate="20170817T105723Z">
@@ -13158,6 +13166,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085728Z" creationid="Jeff Huang" creationdate="20180120T132211Z">
         <seg>另外，當你在文件中選取你的美術字時，也可以使用頁面底部出現的美術字工具列。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can control much of the footnote layout by the settings on a page style’s &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Footnote&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135019Z" creationid="Jeff Huang" creationdate="20180129T135019Z">
+        <seg>不過，你可以透過在頁面樣式中的&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;尾註&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁&lt;/f5&gt;來控制多數的註腳版面配置。</seg>
       </tuv>
     </tu>
     <tu>
