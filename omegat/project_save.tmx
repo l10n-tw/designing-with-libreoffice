@@ -1523,8 +1523,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Change Image: &lt;/f0&gt;Replaces the current image with another one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092135Z" creationid="Jeff Huang" creationdate="20180122T092135Z">
-        <seg>&lt;f0&gt;變更圖片：&lt;/f0&gt;以另一張圖片取代目前的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132450Z" creationid="Jeff Huang" creationdate="20180122T092135Z">
+        <seg>&lt;f0&gt;取代：&lt;/f0&gt;以另一張影像圖取代目前這張。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1652,8 +1652,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Compress Image: &lt;/f0&gt;Reduces the resolution, and therefore the size of the LibreOffice file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092315Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
-        <seg>&lt;f0&gt;壓縮圖片：&lt;/f0&gt;降低解析度，以及 LibreOffice 檔案的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132418Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
+        <seg>&lt;f0&gt;壓縮：&lt;/f0&gt;降低解析度，以及 LibreOffice 檔案的大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,8 +3394,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save Image:&lt;/f0&gt; Copies the image to its own file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092225Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
-        <seg>&lt;f0&gt;儲存圖片：&lt;/f0&gt;將圖片另存成一個檔案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132413Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
+        <seg>&lt;f0&gt;儲存：&lt;/f0&gt;將圖片另存成一個檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21658,8 +21658,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The original picture file is not affected in either case.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092101Z" creationid="Jeff Huang" creationdate="20180122T092101Z">
-        <seg>不論在什麼情況下，原始的圖片檔都不會被影響。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132438Z" creationid="Jeff Huang" creationdate="20180122T092101Z">
+        <seg>不論在什麼情況下，原始的圖片都不會受到裁切影響。</seg>
       </tuv>
     </tu>
     <tu>
