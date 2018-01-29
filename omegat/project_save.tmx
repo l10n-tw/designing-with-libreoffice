@@ -24626,6 +24626,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You also have the option of adding an offset – of subtracting or adding pages from the actual page count.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T031204Z" creationid="Jeff Huang" creationdate="20180129T031204Z">
+        <seg>你也有可以新增偏移量的選項，自實際頁數新增或移除頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You also have the option of copying styles from &lt;f0&gt;a&lt;/f0&gt; template into the current document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030909Z" creationid="zerng07" creationdate="20171227T030909Z">
