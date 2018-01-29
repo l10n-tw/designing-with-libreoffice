@@ -7277,6 +7277,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An offset is most commonly used when a document has a number of &lt;f0&gt;pages that are either unnumbered or use a different numbering system&lt;/f0&gt;, such as front matter or &lt;f1&gt;an introduction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T031545Z" creationid="Jeff Huang" creationdate="20180129T031545Z">
+        <seg>當文件有許多&lt;f0&gt;未編號或是使用不同邊號系統的頁面&lt;/f0&gt;，如前頁&lt;f1&gt;或是引言時，最常用的就是偏移量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An unexpected journey</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T044511Z" creationid="Franklin Weng" creationdate="20180106T044511Z">
