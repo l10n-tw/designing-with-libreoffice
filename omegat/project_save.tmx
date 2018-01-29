@@ -24921,8 +24921,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can &lt;f0&gt;do some basic editing on&lt;/f0&gt; 3D objects by clicking on them until the handles turn red, then dragging by a handle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080712Z" creationid="Jeff Huang" creationdate="20180121T123643Z">
-        <seg>你可以透過點按3D物件一直到手把變為紅色，然後拖曳手把來&lt;f0&gt;做一些基本的編輯&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T092640Z" creationid="Jeff Huang" creationdate="20180121T123643Z">
+        <seg>你可以點按3D物件兩下（但不要連點）讓方塊手把轉為紅色控制點，然後拖曳手把&lt;f0&gt;做一些基本編輯&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
