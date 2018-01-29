@@ -1394,8 +1394,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Axial:&lt;/f0&gt; The gradient is horizontal, starting with the first color in the center and ending with the last color at the top and the bottom.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140452Z" creationid="Jeff Huang" creationdate="20180122T132835Z">
-        <seg>&lt;f0&gt;軸向：&lt;/f0&gt;水平漸層，從中心的顏色開始，到頂部與底部的最後一個顏色結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140554Z" creationid="Jeff Huang" creationdate="20180122T132835Z">
+        <seg>&lt;f0&gt;軸向：&lt;/f0&gt;水平漸層，從中心的第一色開始，到頂端與底部的最後一色結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1885,8 +1885,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Ellipsoid:&lt;/f0&gt; The gradient is diagonal, starting with the first color in the lower right and moving through intermediate colors in curved bands to end with the second color in the upper left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T133242Z" creationid="Jeff Huang" creationdate="20180122T133242Z">
-        <seg>&lt;f0&gt;橢圓體：&lt;/f0&gt;對角線漸層，從右下的第一個顏色開始，經過曲線帶的中間色，再移動到左上的第二個顏色結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140727Z" creationid="Jeff Huang" creationdate="20180122T133242Z">
+        <seg>&lt;f0&gt;橢圓體：&lt;/f0&gt;對角線漸層，從右下的第一色開始，經過曲線帶的中間色，再移動到左上的第二色結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,8 +2801,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Linear: &lt;/f0&gt;The gradient is horizontal, starting with the first color at the top and ending with the last color on the bottom.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140415Z" creationid="Jeff Huang" creationdate="20180122T132659Z">
-        <seg>&lt;f0&gt;線形：&lt;/f0&gt;水平漸層，從上面的顏色開始，到下面的顏色結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140530Z" creationid="Jeff Huang" creationdate="20180122T132659Z">
+        <seg>&lt;f0&gt;線形：&lt;/f0&gt;水平漸層，從頂端的第一色開始，到底部的最後一色結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3274,8 +3274,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Radial: &lt;/f0&gt;The gradient is diagonal, starting with the first color in the lower right and ending with the second in the upper left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T132937Z" creationid="Jeff Huang" creationdate="20180122T132937Z">
-        <seg>&lt;f0&gt;放射：&lt;/f0&gt;對角線漸層，從右下的第一個顏色開始，到左上的第二個顏色結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140627Z" creationid="Jeff Huang" creationdate="20180122T132937Z">
+        <seg>&lt;f0&gt;放射：&lt;/f0&gt;對角線漸層，從右下的第一色開始，到左上的第二色結束。</seg>
       </tuv>
     </tu>
     <tu>
