@@ -14395,6 +14395,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In effect, adding a line between columns is an acknowledgment that your design does not work, but you have some overwhelming reason not to correct it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T132108Z" creationid="Jeff Huang" creationdate="20180129T132108Z">
+        <seg>實際上，在欄位間新增行是在確認你的設計無法運作，但你又有一些不可抗的因素導致你無法校正它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In effect, this approach uses another style such as &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Text Body&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; as an unofficial default, leaving the &lt;/f6&gt;&lt;f7&gt;Default&lt;/f7&gt; style &lt;f8&gt;to function like &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Format &gt; Clear Direct Formatting.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T150957Z" creationid="zerng07" creationdate="20171225T150957Z">
