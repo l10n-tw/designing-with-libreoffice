@@ -18340,6 +18340,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;hange page number,&lt;/f2&gt; and set the number to &lt;f3&gt;&lt;f4&gt;R&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;estart at.&lt;/f5&gt; Negative numbers are not allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T090134Z" creationid="Jeff Huang" creationdate="20180129T090134Z">
+        <seg>選取&lt;f2&gt;變更頁碼，&lt;/f2&gt;並設定編號為不允許以負數重新開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現狀修改</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Custom Animation&lt;/f0&gt; from the&lt;f1&gt; Slide Show&lt;/f1&gt; men&lt;f2&gt;u&lt;/f2&gt; or sidebar.</seg>
@@ -18810,6 +18818,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T060258Z" creationid="Jeff Huang" creationdate="20180104T060258Z">
         <seg>設定透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up multiple &lt;f0&gt;page &lt;/f0&gt;column&lt;f1&gt;s&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T090449Z" creationid="Jeff Huang" creationdate="20180129T090449Z">
+        <seg>設定多頁列</seg>
       </tuv>
     </tu>
     <tu>
