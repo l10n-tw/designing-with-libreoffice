@@ -1652,8 +1652,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Compress Image: &lt;/f0&gt;Reduces the resolution, and therefore the size of the LibreOffice file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132418Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
-        <seg>&lt;f0&gt;壓縮：&lt;/f0&gt;降低解析度，以及 LibreOffice 檔案的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132524Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
+        <seg>&lt;f0&gt;壓縮：&lt;/f0&gt;降低解析度以便減少LibreOffice的檔案大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1853,8 +1853,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Edit with External Tool:&lt;/f0&gt; Opens the image in the system’s default graphics editor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T092411Z" creationid="Jeff Huang" creationdate="20180122T092411Z">
-        <seg>&lt;f0&gt;以外部工具編輯：&lt;/f0&gt;以系統的預設圖形編輯器開啟圖片。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132543Z" creationid="Jeff Huang" creationdate="20180122T092411Z">
+        <seg>&lt;f0&gt;以外部工具編輯：&lt;/f0&gt;以系統的預設圖形編輯器開啟影像圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,8 +3394,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save Image:&lt;/f0&gt; Copies the image to its own file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132413Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
-        <seg>&lt;f0&gt;儲存：&lt;/f0&gt;將圖片另存成一個檔案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132459Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
+        <seg>&lt;f0&gt;儲存：&lt;/f0&gt;將影像圖另存成一個檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,8 +9993,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Designing fills</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094828Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
-        <seg>設計填充格式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132642Z" creationid="Jeff Huang" creationdate="20180122T092421Z">
+        <seg>設計填入樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -16727,8 +16727,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Object areas can be decorated with different types of fills: colors, gradients, hatchings, and bitmaps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T094834Z" creationid="Jeff Huang" creationdate="20180122T092628Z">
-        <seg>物件區域可以使用四種不同類型的填充格式來裝飾：色彩、漸層、陰影與點陣圖。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132837Z" creationid="Jeff Huang" creationdate="20180122T092628Z">
+        <seg>物件區塊可以填入四種不同類型的內容作裝飾：色彩、漸層、陰影與點陣圖。</seg>
       </tuv>
     </tu>
     <tu>
