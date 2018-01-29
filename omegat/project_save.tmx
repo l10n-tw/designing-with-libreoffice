@@ -24160,8 +24160,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Intersect&lt;/f0&gt; is chosen, the visible portion of the rectangle disappears, leav&lt;f1&gt;ing&lt;/f1&gt; the objects in the middle merged to form a flaming ship.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084923Z" creationid="Jeff Huang" creationdate="20180122T084923Z">
-        <seg>當選擇&lt;f0&gt;相交時&lt;/f0&gt;，矩形可見的部份會消失，留下中間的物件並合併成火燄船。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T123116Z" creationid="Jeff Huang" creationdate="20180122T084923Z">
+        <seg>當選擇「&lt;f0&gt;交錯&lt;/f0&gt;」時，矩形可見的部份會消失，留下中央交錯的物件，並合併成火燄船。（圖示要改比較容易懂，應該用圓底白船那張+黑底矩形才對。）</seg>
       </tuv>
     </tu>
     <tu>
