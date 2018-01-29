@@ -4388,6 +4388,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Use a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Separator&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; line only if the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is extremely tight and relying on white space alone would make reading difficult.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T131758Z" creationid="Jeff Huang" creationdate="20180129T131758Z">
+        <seg>&lt;f0&gt;僅在間距太緊時才使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分隔符&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;，單靠空格會不好閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Use&lt;/f0&gt; a presentation if:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T041204Z" creationid="Franklin Weng" creationdate="20180107T061749Z">
