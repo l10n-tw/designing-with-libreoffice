@@ -25455,8 +25455,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can build your own tile, pixel by pixel in the Pattern Editor, or load a fill from another source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142618Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
-        <seg>你可以用點陣圖繪圖軟體或圖樣編輯器 (Pattern Editor) 建立你自己的鋪排圖樣，或是從其他來源載入。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T165135Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
+        <seg>你可以用點陣圖繪圖軟體，或「樣式」按鈕頁下的樣式編輯器 (Pattern Editor) 建立你自己的鋪排圖樣（經測試無法自訂，只能自己選。這個「樣式」頁應該是新獨立出來的部分，應該要改寫新增一下），或是從其他來源載入。</seg>
       </tuv>
     </tu>
     <tu>
