@@ -13918,6 +13918,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer, you can set each column width separately using &lt;f0&gt;Width &amp; S&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;pac&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ing&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T130637Z" creationid="Jeff Huang" creationdate="20180129T130637Z">
+        <seg>如果你願意的話，你可以使用&lt;f0&gt;寬度與間距&lt;/f0&gt;來分別設定每個欄位的寬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you really want to use a font with a dark color, try changing the width of characters from &lt;f0&gt;Position &gt; Scaling,&lt;/f0&gt; or the spacing between fonts from &lt;f1&gt;Position &gt; Spacing.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134931Z" creationid="Franklin Weng" creationdate="20180106T042814Z">
