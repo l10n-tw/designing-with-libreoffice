@@ -2021,24 +2021,24 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Alignment:&lt;/f0&gt; Align the entire sample, or each word.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090507Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
-        <seg>&lt;f0&gt;美術字對齊：&lt;/f0&gt;對齊整個樣品，或是每個字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090746Z" creationid="Jeff Huang" creationdate="20180120T135923Z">
+        <seg>&lt;f0&gt;美術字對齊：&lt;/f0&gt;對齊整個美術字，或是每個字。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Character Spacing: &lt;/f0&gt;Set&lt;f1&gt;s&lt;/f1&gt; the spacing between letters, choosing one of several broad categories ranging from &lt;f2&gt;Very Loose&lt;/f2&gt; to &lt;f3&gt;Very Tight&lt;/f3&gt;, or choose a custom percentage.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T120422Z" creationid="Jeff Huang" creationdate="20180121T120422Z">
-        <seg>&lt;f0&gt;美術字型字元間距：&lt;/f0&gt;設定字母間的間距，可以選擇多種不同的寬度，從&lt;f2&gt;很鬆&lt;/f2&gt;到&lt;f3&gt;很緊&lt;/f3&gt;都有。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090510Z" creationid="Jeff Huang" creationdate="20180121T120422Z">
+        <seg>&lt;f0&gt;美術字字元間距：&lt;/f0&gt;設定字母間的間距，可以選擇多種不同的寬度，從&lt;f2&gt;很鬆&lt;/f2&gt;到&lt;f3&gt;很緊&lt;/f3&gt;都有。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fontwork Same Letter Height&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;:&lt;/f3&gt; Toggles letters to same height or restores original letter heights.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T120513Z" creationid="Jeff Huang" creationdate="20180120T134748Z">
-        <seg>&lt;f0&gt;美術字型相同字母高度&lt;/f0&gt;：切換字母到相同高度或恢復原始字母高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090749Z" creationid="Jeff Huang" creationdate="20180120T134748Z">
+        <seg>&lt;f0&gt;美術字相同字母高度&lt;/f0&gt;：讓字母切換到相同高度，或是恢復原始字母高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4147,8 +4147,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tilt Up&lt;/f0&gt;, &lt;f1&gt;Down&lt;/f1&gt;, &lt;f2&gt;Left&lt;/f2&gt;, &lt;f3&gt;Right:&lt;/f3&gt; Angles the sample.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T121207Z" creationid="Jeff Huang" creationdate="20180121T121207Z">
-        <seg>&lt;f0&gt;向上傾斜&lt;/f0&gt;、&lt;f1&gt;向下傾斜&lt;/f1&gt;、&lt;f2&gt;向左傾斜&lt;/f2&gt;、&lt;f3&gt;向右傾斜：&lt;/f3&gt;讓樣品與平面的角度不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090651Z" creationid="Jeff Huang" creationdate="20180121T121207Z">
+        <seg>切換擠出：&lt;f0&gt;向上傾斜&lt;/f0&gt;、&lt;f1&gt;向下傾斜&lt;/f1&gt;、&lt;f2&gt;向左傾斜&lt;/f2&gt;、&lt;f3&gt;向右傾斜&lt;/f3&gt;等等，能讓美術字與平面的角度不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18752,8 +18752,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting letter&lt;f4&gt;s&lt;/f4&gt; to the same height is not the same as converting all the letters to upper case, but produces its own distortions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052513Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
-        <seg>設定字母為相同高度跟把所有字母都轉換為大寫不一樣，而是會將字母變形以符合高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090733Z" creationid="Jeff Huang" creationdate="20180120T135523Z">
+        <seg>設定字母為相同高度跟把所有字母都轉換為大寫不一樣，它是將字母變形以符合高度。</seg>
       </tuv>
     </tu>
     <tu>
