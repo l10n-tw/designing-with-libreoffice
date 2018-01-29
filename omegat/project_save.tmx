@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034540Z" creationid="Jeff Huang" creationdate="20180129T034540Z">
+        <seg>&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T100612Z" creationid="Franklin Weng" creationdate="20171231T100612Z">
@@ -1975,6 +1983,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155729Z" creationid="zerng07" creationdate="20171224T155729Z">
         <seg>&lt;f0&gt;尋找&lt;/f0&gt;目前的樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Follow&lt;/f0&gt; steps 3 and 5 for every page style in the document that includes &lt;f1&gt;chapter-&lt;/f1&gt;page numbering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034725Z" creationid="Jeff Huang" creationdate="20180129T034725Z">
+        <seg>對文件每個包含&lt;f1&gt;章節-&lt;/f1&gt;頁碼的頁面樣式&lt;f0&gt;重覆&lt;/f0&gt;步驟三至五。</seg>
       </tuv>
     </tu>
     <tu>
