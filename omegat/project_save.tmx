@@ -7668,8 +7668,8 @@
       <tuv lang="EN">
         <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150543Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
-        <seg>當你拖曳一個物件時，它會出現在網格（點按工具列上的「網格」圖示，或「檢視 &gt; 網格與輔助線 &gt; 顯示網格」）上，這樣你就可以更精確定位到和其他物件相關的位置上。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T065206Z" creationid="Jeff Huang" creationdate="20180118T122112Z">
+        <seg>點按工具列上的「網格」圖示，或「檢視 &gt; 網格與輔助線 &gt; 顯示網格」，這樣一來當你拖曳一個物件時，它會放在網格上，你就可以更精確定位到和其他物件相關的位置上。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20302,8 +20302,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;snap lines&lt;/f0&gt; are useful for exact positioning, even with the grid turned off, &lt;f1&gt;because you can see the exact position on the horizontal and vertical rulers.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150700Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
-        <seg>即使你關閉網格的顯示，&lt;f0&gt;貼附線&lt;/f0&gt;仍可用於精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。（經測試，就算打開了「檢視 &gt; 貼附線 &gt; 顯示貼附線」也沒有出現任何線，看起來功能已經被網格取代，所以描述可能要改寫。）&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T065027Z" creationid="Jeff Huang" creationdate="20180118T124105Z">
+        <seg>即使你關閉網格的顯示，&lt;f0&gt;輔助線&lt;/f0&gt;仍可用於精確定位，&lt;f1&gt;因為你可以看到水平與垂直尺規的精確位置。（原先這裡是寫「貼附線」(snap line)。但經測試，就算打開了「檢視 &gt; 貼附線 &gt; 顯示貼附線」也沒有出現任何線，看起來功能已經被網格取代，所以描述可能要改寫。）&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
