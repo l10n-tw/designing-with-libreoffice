@@ -4186,11 +4186,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>『然後再選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「點」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕』找不到這個按鈕喔，應該改版了，故改寫之。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To edit points, select the shape in the editing window, then select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Points&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button and click the shape so that the handles turn red.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080652Z" creationid="Jeff Huang" creationdate="20180120T125044Z">
-        <seg>&lt;f0&gt;要編輯點，請在編輯視窗中選取形狀，然後再選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「點」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕並點按形狀，讓手把變成紅色的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T081011Z" creationid="Jeff Huang" creationdate="20180120T125044Z">
+        <seg>&lt;f0&gt;如果要編輯控制點，請在編輯視窗中選取好形狀，再點按形狀一次，讓方形手把變成紅色的圓點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10193,8 +10194,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Dragging on a handle changes the shape of the primitive.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080647Z" creationid="Jeff Huang" creationdate="20180120T125638Z">
-        <seg>拖曳手把會變更基本圖形元素的形狀。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T081119Z" creationid="Jeff Huang" creationdate="20180120T125638Z">
+        <seg>拖曳方形手把會變更初形圖的形狀。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22270,8 +22271,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They are synonymous with the frame handles, but &lt;f0&gt;they&lt;/f0&gt; rotate rather than move the shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080631Z" creationid="Jeff Huang" creationdate="20180118T135855Z">
-        <seg>它們與外框控制手把用途類似，但&lt;f0&gt;它們&lt;/f0&gt;會旋轉而不是移動形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080804Z" creationid="Jeff Huang" creationdate="20180118T135855Z">
+        <seg>它們與外框的控制手把用途類似，但&lt;f0&gt;控制點&lt;/f0&gt;會旋轉形狀，而不是移動形狀。</seg>
       </tuv>
     </tu>
     <tu>
