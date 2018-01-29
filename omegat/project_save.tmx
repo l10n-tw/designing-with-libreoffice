@@ -3242,8 +3242,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RGB&lt;/f0&gt; uses red, green, and blue, &lt;f1&gt;CMYK &lt;/f1&gt;cyan, magenta, yellow, and black.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120002Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
-        <seg>&lt;f0&gt;RGB&lt;/f0&gt;使用了紅、綠、藍，&lt;f1&gt;CMYK &lt;/f1&gt;則使用了青色、洋紅色、黃色與黑色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134418Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
+        <seg>&lt;f0&gt;RGB&lt;/f0&gt;模型使用紅 (Red)、綠 (Green)、藍 (Blue)，&lt;f1&gt;CMYK &lt;/f1&gt;則使用了青色 (Cyan)、洋紅色 (Magenta)、黃色 (Yellow) 與黑色 (Key)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9304,8 +9304,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Color definitions are ways of blending a few colors to make the rest.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095116Z" creationid="Jeff Huang" creationdate="20180122T115759Z">
-        <seg>色彩定義是指把一些不同的色彩混在一起的方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134240Z" creationid="Jeff Huang" creationdate="20180122T115759Z">
+        <seg>所謂色彩定義是指，把幾種色彩用不同比例調在一起構成新色彩的方式。</seg>
       </tuv>
     </tu>
     <tu>
