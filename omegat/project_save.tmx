@@ -17491,6 +17491,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor in the position for the page number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034033Z" creationid="Jeff Huang" creationdate="20180129T034033Z">
+        <seg>將游標置於頁碼的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor in the right hand frame and &lt;f0&gt;create one placeholder per line for &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Author, Position, Company, Email,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Phone.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131108Z" creationid="Franklin Weng" creationdate="20171223T121224Z">
@@ -18299,6 +18307,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T135414Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
         <seg>選取&lt;f0&gt;「插入&lt;/f0&gt; &gt; &lt;f3&gt;欄位&lt;/f3&gt; &gt; &lt;f6&gt;文件&lt;/f6&gt; &gt; &lt;f10&gt;&lt;f11&gt;更多 &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;章節&lt;/f12&gt; &gt; &lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;編號&lt;/f17&gt;&lt;/f16&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>又來一堆垃圾標籤......</note>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More Fields&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; Chapter number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034252Z" creationid="Jeff Huang" creationdate="20180129T034252Z">
+        <seg>選取&lt;f0&gt;「插入&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;文件&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;更多欄位&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt; &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;章節編號」</seg>
       </tuv>
     </tu>
     <tu>
