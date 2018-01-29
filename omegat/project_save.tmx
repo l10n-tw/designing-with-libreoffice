@@ -21577,6 +21577,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sub-menu also includes a &lt;f0&gt;Page Count&lt;/f0&gt; field, so by typing one or two characters, you can quickly have “2 of 3” or “2/3.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T025558Z" creationid="Jeff Huang" creationdate="20180129T025558Z">
+        <seg>子選單也包含了&lt;f0&gt;頁數&lt;/f0&gt;欄位，所以只要輸入一或兩個字元，你就可以快速地得出「第二頁，共三頁」或“2/3”之類的頁數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab includes settings for the direction of scrolling, the number of repetitions, and other settings.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T105541Z" creationid="Jeff Huang" creationdate="20180108T125951Z">
@@ -24991,6 +24999,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170837Z" creationid="zerng07" creationdate="20170817T182740Z">
         <seg>通常從散布版軟體庫裡取得的版本會安裝到 /usr/lib/libreoffice/ 中，所以你可以據此辨別是否使用的是修改過的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then align the page number by editing its paragraph style.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T024847Z" creationid="Jeff Huang" creationdate="20180129T024847Z">
+        <seg>你可以透過編輯其段落樣式來對齊頁碼。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
