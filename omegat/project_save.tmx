@@ -3242,8 +3242,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RGB&lt;/f0&gt; uses red, green, and blue, &lt;f1&gt;CMYK &lt;/f1&gt;cyan, magenta, yellow, and black.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134418Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
-        <seg>&lt;f0&gt;RGB&lt;/f0&gt;模型使用紅 (Red)、綠 (Green)、藍 (Blue)，&lt;f1&gt;CMYK &lt;/f1&gt;則使用了青色 (Cyan)、洋紅色 (Magenta)、黃色 (Yellow) 與黑色 (Key)。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134447Z" creationid="Jeff Huang" creationdate="20180122T120002Z">
+        <seg>&lt;f0&gt;RGB&lt;/f0&gt;模型使用紅色 (Red)、綠色 (Green)、藍色 (Blue)；而&lt;f1&gt;CMYK &lt;/f1&gt;則使用了青色 (Cyan)、洋紅色 (Magenta)、黃色 (Yellow) 與黑色 (Key)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3963,8 +3963,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The fact that &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is used online and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for hard copy explains &lt;/f6&gt;w&lt;f7&gt;hy printing exactly the colors you see&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;online can be challenging.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095312Z" creationid="Jeff Huang" creationdate="20180122T120510Z">
-        <seg>&lt;f0&gt;事實上，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;通常用於螢幕上閱讀，而&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;則用於印刷。這就是&lt;/f6&gt;&lt;f7&gt;為什麼要精確地印刷出跟你在螢幕上所看到一樣的色彩&lt;/f7&gt;&lt;f10&gt;是一個很大的挑戰。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134549Z" creationid="Jeff Huang" creationdate="20180122T120510Z">
+        <seg>&lt;f0&gt;事實上，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;通常用於螢幕上閱讀，而&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;CMYK&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;則用於紙本印刷。這就是&lt;/f6&gt;&lt;f7&gt;為什麼要精確印刷出跟你在螢幕上看到一樣的色彩&lt;/f7&gt;&lt;f10&gt;是個大挑戰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20566,8 +20566,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f2&gt;CMYK&lt;/f2&gt; model is generally considered the most accurate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120107Z" creationid="Jeff Huang" creationdate="20180122T120107Z">
-        <seg>&lt;f2&gt;CMYK&lt;/f2&gt;模型通常被認為較精準。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134515Z" creationid="Jeff Huang" creationdate="20180122T120107Z">
+        <seg>&lt;f2&gt;CMYK&lt;/f2&gt;模型通常被認為較準確。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22229,8 +22229,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>There is no exact correspondence between the two color models, so results can be different between the screen and paper.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T120613Z" creationid="Jeff Huang" creationdate="20180122T120613Z">
-        <seg>兩種色彩模型間沒有明確的對應關係，因此螢幕與紙張的結果可能會不同。&lt;/f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134612Z" creationid="Jeff Huang" creationdate="20180122T120613Z">
+        <seg>兩種色彩模型間沒有明確的對應關係，因此螢幕與紙本印刷的結果可能不同。&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
