@@ -1812,8 +1812,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object&lt;/f0&gt; style&lt;f1&gt;s&lt;/f1&gt; use only gradients already defined in LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124545Z" creationid="Jeff Huang" creationdate="20180122T124545Z">
-        <seg>&lt;f0&gt;繪製物件&lt;/f0&gt;樣式僅用於已在LibreOffice中定義好的漸層。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135818Z" creationid="Jeff Huang" creationdate="20180122T124545Z">
+        <seg>&lt;f0&gt;繪圖樣式&lt;/f0&gt;僅能使用已在LibreOffice中定義好的漸層。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6431,8 +6431,8 @@
       <tuv lang="EN">
         <seg>A gradient is a gradual transition from one color to &lt;f0&gt;another&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123920Z" creationid="Jeff Huang" creationdate="20180122T123920Z">
-        <seg>漸層是從一種顏色逐漸轉換到&lt;f0&gt;另一種&lt;/f0&gt;顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135608Z" creationid="Jeff Huang" creationdate="20180122T123920Z">
+        <seg>漸層是從一種從某個顏色逐漸轉換到&lt;f0&gt;另一個&lt;/f0&gt;顏色的過程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9967,8 +9967,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Designing &lt;f0&gt;a&lt;/f0&gt;rea &lt;f1&gt;g&lt;/f1&gt;radients</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T123843Z" creationid="Jeff Huang" creationdate="20180122T123843Z">
-        <seg>設計區域漸層</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135529Z" creationid="Jeff Huang" creationdate="20180122T123843Z">
+        <seg>設計區塊漸層</seg>
       </tuv>
     </tu>
     <tu>
@@ -12203,8 +12203,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Gradients are a popular choice for presentations and desktop wallpapers on computers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095532Z" creationid="Jeff Huang" creationdate="20180122T124314Z">
-        <seg>漸層不管在電腦上的簡報或是桌布，都有許多人喜歡使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135719Z" creationid="Jeff Huang" creationdate="20180122T124314Z">
+        <seg>漸層不管在簡報或是電腦桌布，都有許多人喜歡使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14435,8 +14435,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In between the starting color and the ending color are a number of intermediate colors, or increments.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T124040Z" creationid="Jeff Huang" creationdate="20180122T124040Z">
-        <seg>在起始色彩與結束色彩間有多種不同的中間色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135642Z" creationid="Jeff Huang" creationdate="20180122T124040Z">
+        <seg>在起始色彩與結束色彩間有多種不同的中間色，或稱為漸進 (Increment)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21817,8 +21817,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The reason is obvious: with a little experimenting, you can create an original, abstract design that is suitable for almost any subject matter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T095544Z" creationid="Jeff Huang" creationdate="20180122T124445Z">
-        <seg>原因相當明顯：只要一點小小的實驗，你就可以建立一個原創且抽象的設計，並可適用於幾乎任何主題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135745Z" creationid="Jeff Huang" creationdate="20180122T124445Z">
+        <seg>原因很明顯：只要小小實驗一下，你就可以建立出原創且抽象的設計，還可用於幾乎任何主題。</seg>
       </tuv>
     </tu>
     <tu>
