@@ -656,8 +656,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;The tool is similar to the one in Impress, but defaults to gray column headings and row.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125352Z" creationid="Jeff Huang" creationdate="20180121T125352Z">
-        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;這個工具與 Impress 中的類似，但預設的標題列與欄都是灰色的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093154Z" creationid="Jeff Huang" creationdate="20180121T125352Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;這個工具和Impress中的類似，但預設的欄列都是灰色的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,8 +4318,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; tables</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125122Z" creationid="Jeff Huang" creationdate="20180121T125122Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;表格</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093028Z" creationid="Jeff Huang" creationdate="20180121T125122Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;表格</seg>
       </tuv>
     </tu>
     <tu>
@@ -7909,8 +7909,8 @@
       <tuv lang="EN">
         <seg>Avoid using 3D shapes unless they result in a diagram that is genuinely easier to read than a 2D one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125056Z" creationid="Jeff Huang" creationdate="20180121T125056Z">
-        <seg>盡可能不要使用3D圖形，除非它們比2D圖形容易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093025Z" creationid="Jeff Huang" creationdate="20180121T125056Z">
+        <seg>盡可能不要使用3D圖形，除非用它們會比2D圖形更容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23008,8 +23008,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To get more options, either take a screen shot of a Writer table, or add the Writer table to the Draw or Impress document using &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Object &gt; OLE Object.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T110448Z" creationid="Jeff Huang" creationdate="20180121T125634Z">
-        <seg>要取得更多選項，可以使用 Writer 表格的螢幕截圖，或是利用&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「插入 &gt; 物件 &gt; OLE 物件」&lt;/f5&gt;&lt;/f4&gt;來將 Writer 表格新增到 Draw 或 Impress 文件中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093309Z" creationid="Jeff Huang" creationdate="20180121T125634Z">
+        <seg>若要想要有更多選擇，可以先用Writer做表格然後螢幕擷圖，或是利用&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「插入 &gt; 物件 &gt; OLE 物件」&lt;/f5&gt;&lt;/f4&gt;將Writer表格加到Draw或Impress文件中。</seg>
       </tuv>
     </tu>
     <tu>
