@@ -895,6 +895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Layout Settings &gt; format &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;sets the page numbering format for the page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T032317Z" creationid="Jeff Huang" creationdate="20180129T032317Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;版面配置設定 &gt; 格式」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;設定了頁面樣式的頁碼格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Layout Settings&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Page&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab set the basic formats for a page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133144Z" creationid="Jeff Huang" creationdate="20180125T133144Z">
@@ -18607,6 +18615,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064116Z" creationid="Jeff Huang" creationdate="20171228T063625Z">
         <seg>設定線條格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting page number formats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T032208Z" creationid="Jeff Huang" creationdate="20180129T032208Z">
+        <seg>設定頁碼格式</seg>
       </tuv>
     </tu>
     <tu>
