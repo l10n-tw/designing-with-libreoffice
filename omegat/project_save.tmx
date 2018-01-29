@@ -2142,8 +2142,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Area &gt; Hatching&lt;/f0&gt; creates linear hatchings for fills throughout LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T104832Z" creationid="Jeff Huang" creationdate="20180122T135811Z">
-        <seg>&lt;f0&gt;「格式 &gt; 區域 &gt; 陰影」&lt;/f0&gt;會在LibreOffice中建立線形的陰影。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141729Z" creationid="Jeff Huang" creationdate="20180122T135811Z">
+        <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 陰影線」&lt;/f0&gt;會在LibreOffice中建立線形陰影線的填入內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,8 +8428,8 @@
       <tuv lang="EN">
         <seg>Bitmaps &lt;f0&gt;refer in this context to&lt;/f0&gt; tiles that are used to create a repeating pattern.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T140118Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
-        <seg>點陣圖&lt;f0&gt;在這種情況下&lt;/f0&gt;用於建立重複圖案的拼貼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141820Z" creationid="Jeff Huang" creationdate="20180122T140118Z">
+        <seg>點陣圖&lt;f0&gt;在這個情境下&lt;/f0&gt;用來製作重複的圖案拼貼樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10072,8 +10072,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Designing &lt;f0&gt;a&lt;/f0&gt;rea &lt;f1&gt;b&lt;/f1&gt;itmaps</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T135935Z" creationid="Jeff Huang" creationdate="20180122T135935Z">
-        <seg>設計區域點陣圖</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141740Z" creationid="Jeff Huang" creationdate="20180122T135935Z">
+        <seg>設計區塊點陣圖</seg>
       </tuv>
     </tu>
     <tu>
@@ -22373,8 +22373,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The&lt;f0&gt;ir usefulness is&lt;/f0&gt; easy to under-estimate, but &lt;f1&gt;they &lt;/f1&gt;can sometimes be effective fills, especially when printed in black and white.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T104626Z" creationid="Jeff Huang" creationdate="20180122T135611Z">
-        <seg>它們的&lt;f0&gt;用處&lt;/f0&gt;很容易被低估，但&lt;f1&gt;它們&lt;/f1&gt;有時候很有用，特別是用於黑白印刷時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141653Z" creationid="Jeff Huang" creationdate="20180122T135611Z">
+        <seg>它們的&lt;f0&gt;用處&lt;/f0&gt;很容易被低估，但有時候很好用，特別是黑白印刷的時候。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25455,8 +25455,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can build your own tile, pixel by pixel in the Pattern Editor, or load a fill from another source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105513Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
-        <seg>你可以用點陣繪圖軟體或圖樣（Pattern）編輯器來建立你自己的拼貼，或是從其他來源載入。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142009Z" creationid="Jeff Huang" creationdate="20180122T140235Z">
+        <seg>你可以用點陣圖繪圖軟體或圖樣編輯器 (Pattern Editor) 建立你自己的拼貼，或是從其他來源載入。</seg>
       </tuv>
     </tu>
     <tu>
