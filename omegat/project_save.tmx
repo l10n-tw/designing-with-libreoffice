@@ -18942,8 +18942,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Shapes become more visible towards the front, and more hidden towards the bottom, while in between their visibility depends on the colors and transparencies in the stack.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T031712Z" creationid="Jeff Huang" creationdate="20180122T031712Z">
-        <seg>愈靠近前景，形狀就愈容易被看見，而愈靠近背景就愈容易隱藏，而介於兩者之間則取決於其在堆疊中的色彩與透明度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T113616Z" creationid="Jeff Huang" creationdate="20180122T031712Z">
+        <seg>愈靠近上層的形狀就愈容易被看見，而愈靠近下層就愈容易隱藏，而最上與最下兩層之間則取決於堆疊中形狀的色彩與透明度而定。</seg>
       </tuv>
     </tu>
     <tu>
