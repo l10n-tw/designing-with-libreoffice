@@ -17748,6 +17748,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Probably, you will want to use &lt;f0&gt;&lt;f1&gt;First Page.&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T090022Z" creationid="Jeff Huang" creationdate="20180129T090022Z">
+        <seg>也許你會想要使用&lt;f0&gt;&lt;f1&gt;第一頁。&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Producing &lt;f0&gt;c&lt;/f0&gt;ontent</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T093700Z" creationid="Jeff Huang" creationdate="20180118T093700Z">
@@ -18450,6 +18458,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T125604Z" creationid="Jeff Huang" creationdate="20180128T125604Z">
         <seg>選取要變成頁首或頁尾的行，然後再選取&lt;f0&gt;「字元 &gt; 位置 &gt; 旋轉／縮放 &gt; 90 度&lt;/f0&gt;或&lt;f1&gt;270 度」&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the page style to use after the break.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T085906Z" creationid="Jeff Huang" creationdate="20180129T085906Z">
+        <seg>選取要用於分隔後的頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
