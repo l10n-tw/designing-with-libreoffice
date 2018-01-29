@@ -16367,8 +16367,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Multiple columns are useful for newsletters, and for printing indexes or other tables &lt;f0&gt;whose entries rarely require an entire line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T091143Z" creationid="Jeff Huang" creationdate="20180129T091143Z">
-        <seg>多列對於報章雜誌&lt;f0&gt;與其他不需要整行的表格列印索引很有用。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094546Z" creationid="Jeff Huang" creationdate="20180129T091143Z">
+        <seg>多欄對於報章雜誌&lt;f0&gt;與其他不需要整行的表格列印索引很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16899,6 +16899,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T073237Z" creationid="Franklin Weng" creationdate="20180120T063550Z">
         <seg>在&lt;f1&gt;側邊欄&lt;/f1&gt;的「屬性」標籤頁中，你可以從「版面配置」窗格下16 種不同的配置中選擇其一，每一種配置的外框、文字和物件間的組合方式都不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the most commonly used formats – A4 or &lt;f0&gt;L&lt;/f0&gt;etter sized paper with a portrait orientation – you probably have room for a maximum of &lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt; columns, unless some of them are extremely narrow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094931Z" creationid="Jeff Huang" creationdate="20180129T094931Z">
+        <seg>在最常用的格式中（也就是A4與Letter大小的縱向頁面），你也許會有最多&lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;到&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;欄的空間，除非其中有一些真的很窄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20151,6 +20159,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T105836Z" creationid="Jeff Huang" creationdate="20180122T095331Z">
         <seg>「格式 &gt; 區域」中的&lt;f0&gt;「色彩」&lt;/f0&gt;標籤頁與&lt;f2&gt;「工具 &gt; 選項 &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice &gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 色彩」&lt;/f5&gt;標籤頁相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Columns&lt;/f0&gt; tab contains several tools for setting up multiple-column layouts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094641Z" creationid="Jeff Huang" creationdate="20180129T094641Z">
+        <seg>&lt;f0&gt;多欄&lt;/f0&gt;標籤頁包含了許多設定多欄版面的工具。</seg>
       </tuv>
     </tu>
     <tu>
