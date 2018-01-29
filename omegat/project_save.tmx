@@ -25293,6 +25293,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can set the number of columns by entering an exact number plus a layout under &lt;f0&gt;Settings.&lt;/f0&gt; In most cases, all columns are given the same width.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T130434Z" creationid="Jeff Huang" creationdate="20180129T130434Z">
+        <seg>你可以透過在&lt;f0&gt;設定&lt;/f0&gt;下輸入一個確切的數字加上版面配置來設定欄位數。在大多數的情況下，所有欄位都會有一樣的寬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can set the speed of each transition, and a sound to accompany it, and apply it to the entire presentation, or just to the movement between two particular slides.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T071431Z" creationid="Franklin Weng" creationdate="20180118T144721Z">
