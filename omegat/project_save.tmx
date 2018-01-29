@@ -1111,6 +1111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Adding c&lt;/f0&gt;hapters in page numbering</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T033004Z" creationid="Jeff Huang" creationdate="20180129T033004Z">
+        <seg>在頁碼中&lt;f0&gt;新增&lt;/f0&gt;章節</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding&lt;/f0&gt; header &lt;f1&gt;and&lt;/f1&gt; footer paragraph styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033703Z" creationid="Jeff Huang" creationdate="20180127T033703Z">
@@ -2402,6 +2410,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035633Z" creationid="Jeff Huang" creationdate="20180125T035633Z">
         <seg>&lt;f0&gt;如果頁首與正文的色彩不同，你也可以使用頁首色彩來當作背景色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>此段原文與現況略有不同，我做了一些修正。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If necessary, from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Outline Numbering &gt; Numbering, &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;assign the style you are using to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Level 1.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;In the &lt;f7&gt;After&lt;/f7&gt; field, add a separator, such as a hyphen.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034004Z" creationid="Jeff Huang" creationdate="20180129T034004Z">
+        <seg>&lt;f0&gt;如有必要，從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「工具 &gt; 章節編號」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;指派你要用於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;第一階&lt;/f5&gt;&lt;/f4&gt;的樣式。在這之&lt;f7&gt;後&lt;/f7&gt;欄位，新增分隔器，如連字號等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20683,6 +20700,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called &lt;f3&gt;Chapter Number&lt;/f3&gt; is less confusing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T033157Z" creationid="Jeff Huang" creationdate="20180129T033157Z">
+        <seg>預設是&lt;f1&gt;標題 1，&lt;/f1&gt;但&lt;f2&gt;其他標題&lt;/f2&gt;或自訂稱為&lt;f3&gt;章節編號&lt;/f3&gt;的樣式比較不混讓人搞混。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called&lt;f3&gt; Chapter Number&lt;/f3&gt; is less conf&lt;f4&gt;using.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134550Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
@@ -22894,6 +22919,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031942Z" creationid="zerng07" creationdate="20171227T031942Z">
         <seg>如果要隱藏樣式，可從樣式的右鍵選單中選取「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，一次僅能隱藏一個樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To include the chapter in the page numbering:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T033029Z" creationid="Jeff Huang" creationdate="20180129T033029Z">
+        <seg>要在頁碼中包含章節：</seg>
       </tuv>
     </tu>
     <tu>
