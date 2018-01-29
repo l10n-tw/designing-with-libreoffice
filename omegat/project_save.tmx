@@ -4285,8 +4285,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; &lt;f1&gt;c&lt;/f1&gt;allouts</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T072959Z" creationid="Jeff Huang" creationdate="20180118T133802Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;圖說標註</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074420Z" creationid="Jeff Huang" creationdate="20180118T133802Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;圖說文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -8661,8 +8661,8 @@
       <tuv lang="EN">
         <seg>By default, callouts have borders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074310Z" creationid="Jeff Huang" creationdate="20180118T134710Z">
-        <seg>預設情況下，圖說會有邊框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074514Z" creationid="Jeff Huang" creationdate="20180118T134710Z">
+        <seg>預設情況下，圖說文字有附帶邊框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8775,16 +8775,16 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Callouts are used to indicate and explain parts of a diagram.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T073734Z" creationid="Jeff Huang" creationdate="20180118T134140Z">
-        <seg>圖說多用於指示圖表中的細節，或解說其中各個部分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074457Z" creationid="Jeff Huang" creationdate="20180118T134140Z">
+        <seg>圖說文字多用來指示圖表中的細節，或解說其中各個部分。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Callouts describing some of the basic shapes in Northwest Coast &lt;f0&gt;formline design.&lt;/f0&gt; &lt;f1&gt;In this example, the text blocks have been made borderless.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T073717Z" creationid="Jeff Huang" creationdate="20180118T134011Z">
-        <seg>圖說 (Callout) 部分標註了美洲西北岸 (Northwest Coast) 原住民藝術中，一些常見的&lt;f0&gt;線條設計&lt;/f0&gt;基本手法。&lt;f1&gt;在這個例子中，文字方塊有轉為無邊框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074427Z" creationid="Jeff Huang" creationdate="20180118T134011Z">
+        <seg>圖說文字 (Callout) 標註了美洲西北岸 (Northwest Coast) 原住民藝術中，一些常見的&lt;f0&gt;線條設計&lt;/f0&gt;基本手法。&lt;f1&gt;在這個例子中，文字方塊有轉為無邊框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12476,8 +12476,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, borders are usually unnecessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074327Z" creationid="Jeff Huang" creationdate="20180118T134732Z">
-        <seg>不過，邊框通常不需要。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074525Z" creationid="Jeff Huang" creationdate="20180118T134732Z">
+        <seg>不過，通常不需要有邊框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22278,8 +22278,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They consist of a line pointing to part of the diagram and a text box, both of which are edited together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T073809Z" creationid="Jeff Huang" creationdate="20180118T134311Z">
-        <seg>它們由一條指向圖表的線條，和一個文字方塊組成，這兩者會一起編輯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074459Z" creationid="Jeff Huang" creationdate="20180118T134311Z">
+        <seg>它由一條指向圖表的線條，和一個文字方塊組成，這兩者會一起編輯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23031,8 +23031,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To remove them, right-click the object and select &lt;f0&gt;Line &gt; Style &gt; none.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T134856Z" creationid="Jeff Huang" creationdate="20180118T134856Z">
-        <seg>要移除它們，在物件上點按右鍵並選取&lt;f0&gt;「線條 &gt; 樣式 &gt; 無」。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074531Z" creationid="Jeff Huang" creationdate="20180118T134856Z">
+        <seg>要移除邊框的話，就在物件上點按右鍵，並選取&lt;f0&gt;「線條 &gt; 樣式 &gt; 無」。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
