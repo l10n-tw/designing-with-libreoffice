@@ -4471,8 +4471,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you are done, selecting the curve reveals the points that you can drag on to adjust the shape.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180118T132500Z" creationid="Jeff Huang" creationdate="20180118T132500Z">
-        <seg>&lt;f0&gt;當你完成時，選取曲線將會顯示可以拖動的點，這些點可以用來調整形狀。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T071016Z" creationid="Jeff Huang" creationdate="20180118T132500Z">
+        <seg>&lt;f0&gt;當你完成時，選取曲線後會顯示可以拖曳的點，這些點可以用來調整形狀。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24276,8 +24276,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you draw a curve, click once to change directions, and twice to stop drawing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070609Z" creationid="Jeff Huang" creationdate="20180118T132308Z">
-        <seg>當你繪製一條曲線時，點按一下滑鼠可以變更方向，按兩下就停止繪製。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T070919Z" creationid="Jeff Huang" creationdate="20180118T132308Z">
+        <seg>當你繪製一條曲線時，點按一下滑鼠可以變更方向，按兩下就停止繪製。（目前貝茲曲線用法完全不同，這裡要改寫。）</seg>
       </tuv>
     </tu>
     <tu>
