@@ -2777,8 +2777,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Lines at the center of one side are connectors, while broken lines are the snap lines for positioning the object being moved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051536Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
-        <seg>&lt;f0&gt;在一側中心的線條是連接線，而虛線是用於被移動的物件的定位線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T064927Z" creationid="Jeff Huang" creationdate="20180118T131852Z">
+        <seg>&lt;f0&gt;在矩形邊上中心的線條是連接線，而虛線是被移動物件的定位用輔助線。</seg>
       </tuv>
     </tu>
     <tu>
