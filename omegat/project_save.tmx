@@ -2489,8 +2489,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If possible, use a font used elsewhere in the document.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T075428Z" creationid="Jeff Huang" creationdate="20180104T075428Z">
-        <seg>&lt;f0&gt;如果可以的話，請使用在文件中其他地方使用的字型。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075006Z" creationid="Jeff Huang" creationdate="20180104T075428Z">
+        <seg>&lt;f0&gt;如果可以的話，請使用文件中其他位置用過的字型。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9368,8 +9368,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Choose fonts at least the size of body text, if not slightly larger &lt;f0&gt;for diagrams.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101641Z" creationid="Jeff Huang" creationdate="20180104T075323Z">
-        <seg>盡量選取跟內文相同的字型大小，除非比&lt;f0&gt;圖表&lt;/f0&gt;略大。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T074910Z" creationid="Jeff Huang" creationdate="20180104T075323Z">
+        <seg>至少選擇跟內文字相同的字型大小，如果是&lt;f0&gt;圖表&lt;/f0&gt;可以略大一些。</seg>
       </tuv>
     </tu>
     <tu>
