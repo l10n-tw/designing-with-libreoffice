@@ -1450,8 +1450,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Bubble:&lt;/f0&gt; &lt;f1&gt;A graph that displays three dimensions: the X and Y axis and the size of the bubble that depicts the data point.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112832Z" creationid="Jeff Huang" creationdate="20180113T133543Z">
-        <seg>&lt;f0&gt;泡泡：&lt;/f0&gt;&lt;f1&gt;顯示三個維度的圖表：X 與 Y 軸，還有泡泡的大小用於描繪資料點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092412Z" creationid="Jeff Huang" creationdate="20180113T133543Z">
+        <seg>&lt;f0&gt;泡泡：&lt;/f0&gt;&lt;f1&gt;顯示三個維度的圖表：X軸、Y軸，還有描繪資料點用的不同大小泡泡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3001,8 +3001,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Net: &lt;/f0&gt;&lt;f1&gt;A chart in which every X axis has a separate Y axis.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112849Z" creationid="Jeff Huang" creationdate="20180113T133744Z">
-        <seg>&lt;f0&gt;網狀圖：&lt;/f0&gt;&lt;f1&gt;每個 X 軸都有獨立的 Y 軸的圖表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092503Z" creationid="Jeff Huang" creationdate="20180113T133744Z">
+        <seg>&lt;f0&gt;網狀圖：&lt;/f0&gt;&lt;f1&gt;每個X軸都有個獨立Y軸的圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,8 +3705,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Stock: &lt;/f0&gt;&lt;f1&gt;As the name implies, a graph often used to show changes in stock values.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134122Z" creationid="Jeff Huang" creationdate="20180113T134122Z">
-        <seg>&lt;f0&gt;股票：&lt;/f0&gt;&lt;f1&gt;就像名稱所暗示的，這個圖表經常用於顯示股票價值的變動。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092549Z" creationid="Jeff Huang" creationdate="20180113T134122Z">
+        <seg>&lt;f0&gt;股票：&lt;/f0&gt;&lt;f1&gt;就像名稱所暗示的，這個圖表經常用於表現股票價值的變動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7772,8 +7772,8 @@
       <tuv lang="EN">
         <seg>As a result, results are not a point or a line, but an enclosed shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133839Z" creationid="Jeff Huang" creationdate="20180113T133839Z">
-        <seg>結果不是一個點或一條線，而是一個封閉的形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092520Z" creationid="Jeff Huang" creationdate="20180113T133839Z">
+        <seg>圖表結果不是一個點或一條線，而是一個封閉的形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8629,8 +8629,8 @@
       <tuv lang="EN">
         <seg>Bubble graphs are a variation of an XY chart.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133637Z" creationid="Jeff Huang" creationdate="20180113T133637Z">
-        <seg>泡泡圖就是 XY 圖的變形。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092437Z" creationid="Jeff Huang" creationdate="20180113T133637Z">
+        <seg>泡泡圖是XY圖的變化型。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23412,8 +23412,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This type of chart can be difficult to read for an audience not accustomed to it.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133941Z" creationid="Jeff Huang" creationdate="20180113T133941Z">
-        <seg>這個類型的圖表對於不熟悉它的讀者來說可能會難以閱讀。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092537Z" creationid="Jeff Huang" creationdate="20180113T133941Z">
+        <seg>這類圖表對於不熟悉的讀者來說可能會較難閱讀。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
