@@ -13918,6 +13918,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are having trouble positioning something, the first thing you should do is check whether you are editing the image instead of the frame, or the frame instead of the image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131414Z" creationid="zerng07" creationdate="20180130T131414Z">
+        <seg>如果你在擺放某個物件時遇到麻煩，第一件事應該要檢查你是不是在編輯影像本身而不是外框，還是在編輯外框而不是影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are like most people, you &lt;f0&gt;will probably&lt;/f0&gt; come up with &lt;f1&gt;at least three or four&lt;/f1&gt; different templates that you will need regularly.&lt;f2&gt; &lt;/f2&gt;If you don't download them, create them gradually as the need arises.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T082806Z" creationid="Franklin Weng" creationdate="20171213T132557Z">
@@ -24252,6 +24260,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Understanding pre-defined frames</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131420Z" creationid="zerng07" creationdate="20180130T131420Z">
+        <seg>瞭解預先定義外框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Understanding text inside a shape</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082725Z" creationid="Jeff Huang" creationdate="20180118T130344Z">
@@ -24286,8 +24302,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Unfortunately, however, elements not included in any frame style, such as a&lt;f0&gt;n&lt;/f0&gt; image’s anchor, alignment, stacking, and wrap usually have to be edited separately for each frame, making this advice easier to give than to practice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131119Z" creationid="zerng07" creationdate="20180130T130927Z">
-        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、圖層堆疊、周圍文字換行等，通常都必須各個外框各自修改，所以實際上這個建議說的比做的簡單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131211Z" creationid="zerng07" creationdate="20180130T130927Z">
+        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、圖層堆疊、周圍文字換行等，通常必須一個外框一個外框各自修改，所以實際上這個建議說的比做的簡單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25983,8 +25999,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can edit the frame by modifying the frame style it uses, &lt;f0&gt;but you should avoid &lt;/f0&gt;manual override&lt;f1&gt;s whenever possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T130909Z" creationid="zerng07" creationdate="20180130T130909Z">
-        <seg>你可以修改外框樣式來修改外框，而且應該盡可能避免&lt;f0&gt;手動凌駕樣式的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131144Z" creationid="zerng07" creationdate="20180130T130909Z">
+        <seg>你可以修改外框樣式來編輯外框，而且應該盡可能避免&lt;f0&gt;手動凌駕樣式的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
