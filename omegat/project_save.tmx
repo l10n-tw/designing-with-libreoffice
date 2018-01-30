@@ -3031,6 +3031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Often, however, the usefulness of this option is limited.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060239Z" creationid="Jeff Huang" creationdate="20180130T060239Z">
+        <seg>&lt;f0&gt;不過一般來說，這個選項的用圖極其有限。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Old Style fonts&lt;/f0&gt; are characterized by wedge-shaped serifs, and their strokes show more variation in thickness than &lt;f1&gt;Humanist&lt;/f1&gt; fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T150309Z" creationid="Franklin Weng" creationdate="20180103T133757Z">
@@ -4967,6 +4975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In fact, there are only four work-arounds, three of which are less than ideal: &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060011Z" creationid="Jeff Huang" creationdate="20180130T060011Z">
+        <seg>&lt;f1&gt;事實上只有四種解決方案，而有其中三種不太理想：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In fact, they have little purpose except to call attention to themselves.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T105628Z" creationid="Jeff Huang" creationdate="20180108T132727Z">
@@ -6871,6 +6887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a graphic background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060457Z" creationid="Jeff Huang" creationdate="20180130T060457Z">
+        <seg>新增圖案背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add content as necessary between these slides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T085850Z" creationid="Franklin Weng" creationdate="20180114T133724Z">
@@ -7959,6 +7983,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T062750Z" creationid="Jeff Huang" creationdate="20171111T130420Z">
         <seg>問問自己：你的&lt;f0&gt;論述&lt;/f0&gt;完整嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Associate the graphic with a list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060306Z" creationid="Jeff Huang" creationdate="20180130T060306Z">
+        <seg>將圖形與清單樣式相關聯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16243,6 +16275,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make all of the background the same color as other pages, and position the graphic where you want it to appear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060546Z" creationid="Jeff Huang" creationdate="20180130T060546Z">
+        <seg>讓所有背景與其他頁面的顏色相同，並將圖案置於你想要讓它出現的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make the &lt;f0&gt;bottom&lt;/f0&gt; margin &lt;f1&gt;taller&lt;/f1&gt; than the &lt;f2&gt;top&lt;/f2&gt; margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121533Z" creationid="Jeff Huang" creationdate="20180126T121533Z">
@@ -17261,6 +17301,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On a first page, you might even be able to position the image more or less the way you want it by extending the height of the header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060201Z" creationid="Jeff Huang" creationdate="20180130T060201Z">
+        <seg>在第一頁，你甚至可以透過延展頁首或頁尾的高度來以自己的方式放置圖片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On each of these custom styles, set &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page &gt; Layout Settings &gt; Format&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; to lower case Roman numerals.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T084239Z" creationid="Jeff Huang" creationdate="20180129T084239Z">
@@ -17992,6 +18040,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T135053Z" creationid="Jeff Huang" creationdate="20180127T135053Z">
         <seg>將滑鼠游標置於頁碼上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the recurring image in a header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060045Z" creationid="Jeff Huang" creationdate="20180130T060045Z">
+        <seg>將重覆的圖片置於頁首或頁尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21660,10 +21716,26 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The graphic will have no text wrap, so you will have to design carefully so that no text comes near it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060859Z" creationid="Jeff Huang" creationdate="20180130T060859Z">
+        <seg>此時圖案將不會有文繞圖的功能，所以你必須小心設計以確保不會有文字靠近它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The greater the spacing&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;the easier the text will be to read.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T131449Z" creationid="Jeff Huang" creationdate="20180129T131449Z">
         <seg>間距愈大&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;，&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;文字愈容易閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The greatest weakness of &lt;f0&gt;LibreOffice &lt;/f0&gt;page styles is that they have only limited ability to include a recurring image such as a logo each time a style is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055908Z" creationid="Jeff Huang" creationdate="20180130T055908Z">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;頁面樣式的最大弱點就是其包含重覆出現的圖片（如使用特定樣式讓標誌出現等）的能力有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24381,6 +24453,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using recurring images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055722Z" creationid="Jeff Huang" creationdate="20180130T055722Z">
+        <seg>使用重覆出現的圖片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using so many font styles in the same document can look just as cluttered as too many different fonts, but nobody is likely to notice if you use several together.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T124054Z" creationid="Franklin Weng" creationdate="20180101T125858Z">
@@ -24795,6 +24875,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152357Z" creationid="zerng07" creationdate="20171225T152357Z">
         <seg>如果發生這樣的事情，就一直按&lt;f0&gt;Backspace&lt;/f0&gt;鍵直到項目符號或編號消失為止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When that happens, use the minimal border that serves its purpose – and never add a shadow, except for a retro look.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055702Z" creationid="Jeff Huang" creationdate="20180130T055702Z">
+        <seg>當這種情況發生時，請使用符合其用途的最小邊框，並且除非你要的是復古的外觀，否則不要加入陰影。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26269,6 +26357,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085852Z" creationid="Jeff Huang" creationdate="20180120T132517Z">
         <seg>你可能也會想要替換「&lt;f0&gt;填入&lt;/f0&gt;」與「&lt;f1&gt;區塊&lt;/f1&gt;」的顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will still need to apply the list style &lt;f0&gt;at each position, and you are very limited in how you can position the graphic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060440Z" creationid="Jeff Huang" creationdate="20180130T060440Z">
+        <seg>你將必須&lt;f0&gt;在每個位置都套用清單樣式，這也就限制了你可以在哪裡放置圖片。a</seg>
       </tuv>
     </tu>
     <tu>
