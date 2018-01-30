@@ -4704,8 +4704,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can also select the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Glue Point&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button on the Drawing tool bar.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043207Z" creationid="Jeff Huang" creationdate="20171229T021821Z">
-        <seg>&lt;f0&gt;你也可以點選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕，其位於繪圖工具列上。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T063249Z" creationid="Jeff Huang" creationdate="20171229T021821Z">
+        <seg>&lt;f0&gt;你也可以點選上排繪圖工具列中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;接著點&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,8 +7153,8 @@
       <tuv lang="EN">
         <seg>All connectors can end with an arrow or an open or filled circle.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043158Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
-        <seg>所有連接線都可以以一個箭頭或開放式或封閉式的圓圈結束。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062556Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
+        <seg>所有連接線兩端都可以用箭頭，或開放或封閉的圓圈結束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9633,16 +9633,16 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Connectors are lines attached to &lt;f0&gt;two&lt;/f0&gt; objects by means of glue points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T042951Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
-        <seg>連接線是將&lt;f0&gt;兩個&lt;/f0&gt;物件透過固定的接點連線起來的線條。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T063215Z" creationid="Jeff Huang" creationdate="20171229T014705Z">
+        <seg>連接線是將&lt;f0&gt;兩個&lt;/f0&gt;物件透過固定的接著點連線起來的線條。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Connectors are lines attached to two objects by means of glue points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T063923Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
-        <seg>連接線是經由接點 (Glue point) 連接兩個物件的線條。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T063211Z" creationid="Jeff Huang" creationdate="20180118T131042Z">
+        <seg>連接線是經由接著點 (Glue point) 連接兩個物件的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21742,8 +21742,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The four types of connectors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043153Z" creationid="Jeff Huang" creationdate="20171229T021242Z">
-        <seg>四種連接線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062452Z" creationid="Jeff Huang" creationdate="20171229T021242Z">
+        <seg>四類連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23525,8 +23525,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To adjust a connector, go to the &lt;f0&gt;Connector&lt;/f0&gt; tab of a graphic style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043248Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
-        <seg>要調整連接線，請到繪圖樣式中的&lt;f0&gt;連接線&lt;/f0&gt;標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072000Z" creationid="Jeff Huang" creationdate="20171229T021906Z">
+        <seg>要調整連接線，請前往繪圖樣式中的「&lt;f0&gt;連接線&lt;/f0&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25687,8 +25687,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can adjust the shape of a connector by selecting it and dragging on its handle, or by moving one of the objects to which it is attached.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080722Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
-        <seg>你可以透過選取連接線並拖曳其手把來調整其形狀，或是透過移動它連接的物件來達成一樣的目的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062628Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
+        <seg>你可以選取連接線並拖曳其控制手把來調整形狀，或是移動它連接的物件來達成相同目的。</seg>
       </tuv>
     </tu>
     <tu>
