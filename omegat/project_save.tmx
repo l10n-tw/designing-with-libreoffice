@@ -937,8 +937,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Line: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;A connector with a small segment at each end for adding a change of direction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061923Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;每個端點都有一小段加入方向變更指示的連接線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062013Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;連接線的每個端點都有加入一小段指示方向變更的部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,8 +3713,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Straight: &lt;/f0&gt;A connector that consists of a single vertical or horizontal line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043054Z" creationid="Jeff Huang" creationdate="20171229T020335Z">
-        <seg>&lt;f0&gt;直線：&lt;/f0&gt;一個僅包含垂直或水平線的連接線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062131Z" creationid="Jeff Huang" creationdate="20171229T020335Z">
+        <seg>&lt;f0&gt;直線：&lt;/f0&gt;僅包含單一條垂直線或水平線的連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24311,8 +24311,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Use Line connectors in diagrams that are even more crowded than the ones in which you use Standard connectors.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043050Z" creationid="Jeff Huang" creationdate="20171229T020218Z">
-        <seg>與使用標準連接線時相比更擁擠的圖表中可以使用線條連接線。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062104Z" creationid="Jeff Huang" creationdate="20171229T020218Z">
+        <seg>與使用標準連接線時相比，更擁擠的圖表中適合使用線條連接線。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
