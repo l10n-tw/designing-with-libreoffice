@@ -3047,6 +3047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;OLE:&lt;/f0&gt; &lt;f1&gt;The term is technically obsolete, but now refers to a document&lt;/f1&gt; nested within &lt;f2&gt;a document, including &lt;/f2&gt;charts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132644Z" creationid="zerng07" creationdate="20180130T132644Z">
+        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，這包括&lt;/f2&gt;圖表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Of all the tabs, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Organizer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is most important.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;It summarizes&lt;/f5&gt; the style and its relation to other styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172806Z" creationid="zerng07" creationdate="20171225T153131Z">
