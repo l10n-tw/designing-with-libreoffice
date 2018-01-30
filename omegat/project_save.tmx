@@ -2230,8 +2230,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Grid:&lt;/f0&gt; The lines against the wall that make values &lt;f1&gt;in the axes easier&lt;/f1&gt; to read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030852Z" creationid="Jeff Huang" creationdate="20180115T030852Z">
-        <seg>&lt;f0&gt;網格：&lt;/f0&gt;在背景上的線，讓在&lt;f1&gt;軸上的值更容易&lt;/f1&gt;閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094455Z" creationid="Jeff Huang" creationdate="20180115T030852Z">
+        <seg>&lt;f0&gt;網格：&lt;/f0&gt;放在背景上的線，讓&lt;f1&gt;軸上的數值更容易&lt;/f1&gt;閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4551,8 +4551,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Wall:&lt;/f0&gt; The background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030728Z" creationid="Jeff Huang" creationdate="20180115T030728Z">
-        <seg>&lt;f0&gt;背景牆：&lt;/f0&gt;背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094351Z" creationid="Jeff Huang" creationdate="20180115T030728Z">
+        <seg>&lt;f0&gt;圖表背景：&lt;/f0&gt;背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,8 +8766,8 @@
       <tuv lang="EN">
         <seg>By clicking on a part of the graph or opening the right-click menu, you can manually edit all of its pieces.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030320Z" creationid="Jeff Huang" creationdate="20180115T030320Z">
-        <seg>透過點按圖表中的一部份，或是以右鍵選單開啟，你可以手動編輯整個圖表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094139Z" creationid="Jeff Huang" creationdate="20180115T030320Z">
+        <seg>點按圖表中的一部份，或是以右鍵開啟選單，你可以手動編輯整份圖表的結構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22218,8 +22218,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The pieces differ with the type of graph, but may include:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030455Z" creationid="Jeff Huang" creationdate="20180115T030455Z">
-        <seg>其中組成可能會因圖表類型而有所不同，但多數應該會包含：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094205Z" creationid="Jeff Huang" creationdate="20180115T030455Z">
+        <seg>圖表的組成結構可能因為圖表類型而有所不同，但多數應該會包含：</seg>
       </tuv>
     </tu>
     <tu>
