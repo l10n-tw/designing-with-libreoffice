@@ -1233,8 +1233,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Although the work-arounds may give you fewer formatting options, they do keep images where you put them.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124953Z" creationid="zerng07" creationdate="20180130T122320Z">
-        <seg>&lt;f0&gt;雖然變通方案給你的設定選項比較少一些，但確實可以把影像定在你要的位置上。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135726Z" creationid="zerng07" creationdate="20180130T122320Z">
+        <seg>&lt;f0&gt;雖然變通方案給你的設定選項比較少一些，但確實可以把影像安在你要的位置上。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5724,8 +5724,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Often, they will be all you need anyway.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131715Z" creationid="zerng07" creationdate="20180130T131715Z">
-        <seg>&lt;f2&gt;一般而言，預先定義樣式幾乎就能滿足你的需求。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135924Z" creationid="zerng07" creationdate="20180130T131715Z">
+        <seg>&lt;f2&gt;一般而言，預先定義樣式幾乎能滿足你的所有需求。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9312,8 +9312,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Changing anchors, moving objects, copying and pasting – sometimes any editing &lt;f0&gt;whatsoever&lt;/f0&gt; seems to send objects shifting out of control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124905Z" creationid="zerng07" creationdate="20180130T120940Z">
-        <seg>變更錨定、移動物件、複製後貼上等等——有時候&lt;f0&gt;想盡辦法&lt;/f0&gt;做任何編輯，似乎都改變不了物件亂偏移的命運。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135714Z" creationid="zerng07" creationdate="20180130T120940Z">
+        <seg>變更錨定、移動物件、複製後貼上等等——有時候&lt;f0&gt;想盡辦法&lt;/f0&gt;做任何編輯，似乎都改變不了影像亂偏移的命運。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,8 +15486,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, stick with editing the pre-defined &lt;f1&gt;f&lt;/f1&gt;rame styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131636Z" creationid="zerng07" creationdate="20180130T131636Z">
-        <seg>相反的，固定編輯預先定義的外框樣式吧。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135909Z" creationid="zerng07" creationdate="20180130T131636Z">
+        <seg>相反的，就固定編輯預先定義的外框樣式吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24422,8 +24422,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Unfortunately, however, elements not included in any frame style, such as a&lt;f0&gt;n&lt;/f0&gt; image’s anchor, alignment, stacking, and wrap usually have to be edited separately for each frame, making this advice easier to give than to practice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131211Z" creationid="zerng07" creationdate="20180130T130927Z">
-        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、圖層堆疊、周圍文字換行等，通常必須一個外框一個外框各自修改，所以實際上這個建議說的比做的簡單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135814Z" creationid="zerng07" creationdate="20180130T130927Z">
+        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、堆疊、周圍文字的換行等，通常都必須一個外框一個外框各自修改，所以實際上這個建議說的可比做的簡單。</seg>
       </tuv>
     </tu>
     <tu>
