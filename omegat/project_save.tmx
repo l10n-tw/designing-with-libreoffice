@@ -4872,8 +4872,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Curved connectors are most suitable when you want an informal look to a diagram, perhaps to suggest that the relationships you are illustrating are approximate.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043151Z" creationid="Jeff Huang" creationdate="20171229T021224Z">
-        <seg>&lt;f1&gt;當你想要一個非正式的圖表，可能是想要表達所說的關係相近，此時適合使用曲線連接線。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062445Z" creationid="Jeff Huang" creationdate="20171229T021224Z">
+        <seg>&lt;f1&gt;當你想要做一份不那麼正式的圖表，例如想要表達所說的關係概念時，適合使用曲線連接線。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5163,8 +5163,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Straight connectors are by far the easiest ones &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;to use, but you may not always have the space for them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043136Z" creationid="Jeff Huang" creationdate="20171229T020751Z">
-        <seg>&lt;f1&gt;直線連接線是到目前為止最容易使用的連接線&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;，但能並不一定有空間給它們用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062208Z" creationid="Jeff Huang" creationdate="20171229T020751Z">
+        <seg>&lt;f1&gt;直線連接線目前為止最容易使用的連接線&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;，但你不見得有空間給它們用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11019,8 +11019,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Extend a connector to the center of one side of a shape, and it immediately converts to a Straight connector.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043144Z" creationid="Jeff Huang" creationdate="20171229T020858Z">
-        <seg>將連接線延伸至形狀一邊的中心，然後它就會立刻轉換為直線連接線。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062315Z" creationid="Jeff Huang" creationdate="20171229T020858Z">
+        <seg>將連接線延伸至形狀一側的中心點，然後它會立刻轉為直線連接線。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
