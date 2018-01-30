@@ -1418,8 +1418,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Bar: &lt;/f0&gt;&lt;f1&gt;The data displays in horizontal columns.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132110Z" creationid="Jeff Huang" creationdate="20180113T132110Z">
-        <seg>&lt;f0&gt;橫列：&lt;/f0&gt;&lt;f1&gt;資料以橫列顯示。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091616Z" creationid="Jeff Huang" creationdate="20180113T132110Z">
+        <seg>&lt;f0&gt;橫列：&lt;/f0&gt;&lt;f1&gt;資料以橫條顯示。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,8 +3226,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Pie:&lt;/f0&gt; &lt;f1&gt;Chart data is depicted as wedges in a round shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112702Z" creationid="Jeff Huang" creationdate="20180113T132249Z">
-        <seg>&lt;f0&gt;圓餅圖：&lt;/f0&gt;&lt;f1&gt;圖表資料被描繪為圓形。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091900Z" creationid="Jeff Huang" creationdate="20180113T132249Z">
+        <seg>&lt;f0&gt;圓餅圖：&lt;/f0&gt;&lt;f1&gt;圖表資料以圓餅的切片描繪。</seg>
       </tuv>
     </tu>
     <tu>
