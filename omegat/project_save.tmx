@@ -1933,8 +1933,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Except in Calc, t&lt;/f0&gt;he &lt;f1&gt;Chart&lt;/f1&gt; sub-system works much like the one for &lt;f2&gt;Font&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;w&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;ork&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135532Z" creationid="Jeff Huang" creationdate="20180112T135532Z">
-        <seg>除了 Calc 以外，&lt;f1&gt;圖表&lt;/f1&gt;子系統的運作方式比較像是美術字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034323Z" creationid="Jeff Huang" creationdate="20180112T135532Z">
+        <seg>除了 Calc 以外，&lt;f1&gt;圖表&lt;/f1&gt;子系統的運作方式比較像是&lt;f2&gt;美術字&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4977,8 +4977,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;In particular, the Draw and Impress version has &lt;/f1&gt;&lt;f2&gt;Connectors&lt;/f2&gt; and &lt;f3&gt;Arrow&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T032104Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
-        <seg>&lt;f1&gt;特別是Draw和Impress的版本中有&lt;/f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;與&lt;f3&gt;箭頭&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;。&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034152Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
+        <seg>&lt;f1&gt;特別是Draw和Impress的版本中有&lt;/f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;與&lt;f3&gt;箭頭&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11139,8 +11139,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Flow charts &lt;f0&gt;appear to have been invented several times between 1850–1930.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T105813Z" creationid="Jeff Huang" creationdate="20180111T121305Z">
-        <seg>流程圖似乎在1850年至1930年間被發明了許多次。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034032Z" creationid="Jeff Huang" creationdate="20180111T121305Z">
+        <seg>流程圖&lt;f0&gt;似乎在1850年至1930年間被發明了許多次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22694,8 +22694,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They &lt;/f0&gt;are meant to be informal documents, &lt;f1&gt;but y&lt;/f1&gt;ou can vastly improve their look if you use basic design principles such as repetition and alignment to organize them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T105836Z" creationid="Jeff Huang" creationdate="20180111T121848Z">
-        <seg>流程圖本身非正式的文件，但你可以使用基本設計原則，如重覆與對齊來安排它們以改進其外觀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034110Z" creationid="Jeff Huang" creationdate="20180111T121848Z">
+        <seg>&lt;/f0&gt;流程圖本身非正式的文件，但你可以使用基本設計原則，如重覆與對齊來安排它們以改進其外觀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22798,8 +22798,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They do not affect shape or size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051052Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
-        <seg>並不會影響形狀與大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T032145Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
+        <seg>它不會影響繪圖物件的形狀或大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25786,8 +25786,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can use &lt;f0&gt;c&lt;/f0&gt;harts in Writer &lt;f1&gt;by selecting &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert &gt; Object &gt; Chart &lt;/f3&gt;&lt;/f2&gt;from the main menu, or in other LibreOffice applications &lt;f4&gt;by selecting &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Insert &gt; Chart.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T135005Z" creationid="Jeff Huang" creationdate="20180112T135005Z">
-        <seg>你可以在 Writer 中使用圖表，請&lt;f1&gt;選取&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「插入 &gt; 圖表」&lt;/f3&gt;&lt;/f2&gt;，在其他 LibreOffice 應用程式中亦如是。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034350Z" creationid="Jeff Huang" creationdate="20180112T135005Z">
+        <seg>你可以在 Writer 中使用圖表，請&lt;f1&gt;選取&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「插入 &gt; 圖表」&lt;/f3&gt;&lt;/f2&gt;，在其他 LibreOffice 應用程式中亦如是。&lt;f5&gt;&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
