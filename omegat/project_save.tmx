@@ -8131,6 +8131,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backgrounds are useful either to mark part of the document as different or for short works like brochures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034741Z" creationid="Jeff Huang" creationdate="20180130T034741Z">
+        <seg>背景對於將文件的一部份標記為不同時，或是較短的作品（如小冊子）時很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barry Schwartz is one of the outstanding designers of free-licensed body text fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184841Z" creationid="zerng07" creationdate="20170817T104314Z">
@@ -19172,6 +19180,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting the &lt;f0&gt;page &lt;/f0&gt;background</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034138Z" creationid="Jeff Huang" creationdate="20180130T034138Z">
+        <seg>設定&lt;f0&gt;頁面&lt;/f0&gt;背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting the &lt;f0&gt;paper&lt;/f0&gt; format</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035658Z" creationid="Jeff Huang" creationdate="20180125T035658Z">
@@ -20510,6 +20526,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040807Z" creationid="Jeff Huang" creationdate="20171228T075921Z">
         <seg>「&lt;f0&gt;自動&lt;/f0&gt;&lt;f3&gt;垂直&lt;/f3&gt;」勾選框會將圖例垂直置中，「&lt;f4&gt;自動&lt;/f4&gt;&lt;f7&gt;水平&lt;/f7&gt;」則是&lt;f8&gt;水平置中&lt;/f8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Background&lt;/f0&gt; tab is available for page styles, but is often unnecessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034424Z" creationid="Jeff Huang" creationdate="20180130T034424Z">
+        <seg>&lt;f0&gt;背景&lt;/f0&gt;標籤頁可用於頁面樣式，但往往都是不必要的。</seg>
       </tuv>
     </tu>
     <tu>
