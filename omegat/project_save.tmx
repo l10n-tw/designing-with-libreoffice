@@ -6158,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0/&gt;A more efficient solution is to print on color&lt;f1&gt;ed&lt;/f1&gt; paper, although you might have trouble matching batches of the paper exactly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055058Z" creationid="Jeff Huang" creationdate="20180130T055058Z">
+        <seg>較有效的解決方式是印在已有顏色的紙上，雖然這樣你可能比較不好找到整批相同顏色且符合原先背景顏色的紙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T095824Z" creationid="Franklin Weng" creationdate="20171212T095824Z">
@@ -11541,6 +11549,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T024735Z" creationid="Jeff Huang" creationdate="20180115T024735Z">
         <seg>其在某一段時間內&lt;f0&gt;完全&lt;/f0&gt;取代了平面圖，如同左右對齊取代了靠左對齊那樣，只因它們比較新，看起來比較複雜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For another, in a printed document, changing the background from the default white can mean slower printing and wasted ink.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054829Z" creationid="Jeff Huang" creationdate="20180130T054829Z">
+        <seg>另一方面，在印出來的文件中，自預設的白底改成其他顏色通常代表了列印會變慢，而且會浪費墨水。</seg>
       </tuv>
     </tu>
     <tu>
