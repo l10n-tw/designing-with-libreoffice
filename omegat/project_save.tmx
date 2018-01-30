@@ -12723,6 +12723,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, be careful that the separators for the footer and footnote do not result in two solid adjacent lines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T033758Z" creationid="Jeff Huang" creationdate="20180130T033758Z">
+        <seg>不過請注意，頁尾與註腳的分隔符並不會出現兩條相鄰實線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, because each font uses the space for characters differently, the default line spacing is not always ideal.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T164634Z" creationid="Franklin Weng" creationdate="20180105T135827Z">
