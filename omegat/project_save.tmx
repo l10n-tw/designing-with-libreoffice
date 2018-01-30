@@ -24972,6 +24972,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>When an object is added to Writer, it &lt;f0&gt;is &lt;/f0&gt;automatically enclosed in a frame of a pre-determined type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124424Z" creationid="zerng07" creationdate="20180130T124424Z">
+        <seg>每當你新加一個物件到Writer內時，物件會自動被預先定義的外框包住。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Franklin: 我猜它是講左上角的樣式，每個列出的樣式的右邊是 context menu。下方的解釋也是針對那個下拉式選單。</note>
       <tuv lang="EN">
         <seg>When applying a style, always click on the left of a list item.</seg>
