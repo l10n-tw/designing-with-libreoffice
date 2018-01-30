@@ -4001,8 +4001,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The default chart can be repositioned and resized by dragging on its handles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080726Z" creationid="Jeff Huang" creationdate="20180112T140921Z">
-        <seg>&lt;f0&gt;預設的圖表可以透過拖曳其手把來調整位置與調整大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091241Z" creationid="Jeff Huang" creationdate="20180112T140921Z">
+        <seg>&lt;f0&gt;預設的圖表可以拖曳其控制手把來調整位置和大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23669,8 +23669,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To edit the &lt;f0&gt;look and &lt;/f0&gt;structure of a chart, click twice until the chart is outlined by a thick gray border.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140656Z" creationid="Jeff Huang" creationdate="20180112T140656Z">
-        <seg>要編輯圖表的外觀與結構，在圖表外框是厚灰色邊框時點按兩下。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091145Z" creationid="Jeff Huang" creationdate="20180112T140656Z">
+        <seg>若要編輯圖表的外觀與結構，在圖表外框有厚的灰色邊框時點連點兩下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24969,8 +24969,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When the gray border &lt;f0&gt;does not show&lt;/f0&gt;, you can edit the separate elements of the chart, &lt;f1&gt;but not the general structure.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T111310Z" creationid="Jeff Huang" creationdate="20180112T140826Z">
-        <seg>在灰色邊框&lt;f0&gt;未顯示時&lt;/f0&gt;，你可以編輯圖表中個別元素，&lt;f1&gt;但無法編輯一般結構。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091217Z" creationid="Jeff Huang" creationdate="20180112T140826Z">
+        <seg>在灰色邊框&lt;f0&gt;未顯示時&lt;/f0&gt;，你可以個別編輯圖表中的元素，&lt;f1&gt;但無法編輯一般結構。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25919,8 +25919,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can insert your own data by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Chart Data Table&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T141110Z" creationid="Jeff Huang" creationdate="20180112T141110Z">
-        <seg>你可以從右鍵選單中點按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「資料表格」&lt;/f2&gt;&lt;/f1&gt;來插入自己的資料。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091314Z" creationid="Jeff Huang" creationdate="20180112T141110Z">
+        <seg>你可以從右鍵選單中點按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「資料表格」&lt;/f2&gt;&lt;/f1&gt;插入自己的資料。</seg>
       </tuv>
     </tu>
     <tu>
