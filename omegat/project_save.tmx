@@ -14949,8 +14949,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many ways, frame styles are as much for Writer’s automatic formatting as they are for users.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115322Z" creationid="zerng07" creationdate="20180130T115322Z">
-        <seg>從許多層面來說，外框樣式對於使用者來說主要用在Writer的自動格式設定上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115527Z" creationid="zerng07" creationdate="20180130T115322Z">
+        <seg>從許多層面來說，外框樣式之於Writer的自動格式設定，就好比外框樣式之於使用者一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16736,6 +16736,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T144224Z" creationid="zerng07" creationdate="20170817T142704Z">
         <seg>大多數其字型都必須先&lt;f0&gt;透過自由授權的字型編輯器Fontforge&lt;/f0&gt;匯出成可用的字型格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the time, they are so completely in the background that users have a hard time distinguishing frames from the images and other objects they enclose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115432Z" creationid="zerng07" creationdate="20180130T115432Z">
+        <seg>大多數的時候，它們主要都在背景所以使用者幾乎不能分辨出外框和它所包住的影像或其他物件間的差異。</seg>
       </tuv>
     </tu>
     <tu>
