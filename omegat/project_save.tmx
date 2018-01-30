@@ -20514,8 +20514,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields let you adjust the dimension line and the guides in relation to each other, although you will probably have little need to change the defaults.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040032Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
-        <seg>&lt;/f3&gt;雖然你可能需要變更預設值，&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位讓你可以調整尺寸線以及個別的關係。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055920Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
+        <seg>&lt;/f3&gt;雖然你幾乎不大需要修改預設值，但「&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位能讓你調整尺寸線和輔助線之間的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25479,8 +25479,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You are more likely to want to change the legend, or measurement, positioning it in one of the ten default position shown &lt;f0&gt;i&lt;/f0&gt;n the right column of the &lt;f1&gt;Dimensioning&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T040744Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
-        <seg>你也可能會想要變更圖例或單位，在&lt;f1&gt;尺寸標註&lt;/f1&gt;標籤頁右欄中九個預設位置之一選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060150Z" creationid="Jeff Huang" creationdate="20171228T075511Z">
+        <seg>你也可能會想要修改圖例或量值的位置，在「&lt;f1&gt;尺寸標註&lt;/f1&gt;」標籤頁右欄中九個預設方位中選擇其一。</seg>
       </tuv>
     </tu>
     <tu>
