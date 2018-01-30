@@ -11930,6 +11930,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For one thing, they cover only the space inside the margins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054216Z" creationid="Jeff Huang" creationdate="20180130T054216Z">
+        <seg>一方面，其只包含了邊距內的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For online use, you want fonts to have regular shapes, with a &lt;f0&gt;minimum&lt;/f0&gt; of tapering.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T122745Z" creationid="Franklin Weng" creationdate="20180103T121340Z">
@@ -20861,6 +20869,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;trouble&lt;/f0&gt; is that page backgrounds are seriously limited in functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054140Z" creationid="Jeff Huang" creationdate="20180130T054140Z">
+        <seg>&lt;f0&gt;麻煩&lt;/f0&gt;的是頁面背景功能嚴重受限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;D&lt;/f1&gt;rawing tool bar con&lt;f2&gt;tain&lt;/f2&gt;s &lt;f3&gt;most&lt;/f3&gt;ly basic shapes &lt;f4&gt;like rectangles or ovals, or primitives, as designers call them.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141915Z" creationid="Jeff Huang" creationdate="20180118T094034Z">
@@ -25747,6 +25763,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135621Z" creationid="Jeff Huang" creationdate="20180129T135621Z">
         <seg>你可以指定&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;最大註腳高度，&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;不大於頁面區塊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，其代表了沒有註腳可以比一頁還長。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set all the margins to zero, but you will need a printer capable of bleeds (the technical name for printing to the edge of the paper&lt;f1&gt;)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054422Z" creationid="Jeff Huang" creationdate="20180130T054422Z">
+        <seg>你可以將所有邊距設定為零，但你需要有出血（印到紙張邊緣的技術性名稱）功能的印表機。</seg>
       </tuv>
     </tu>
     <tu>
