@@ -2164,6 +2164,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; &lt;f1&gt;Both a general frame and &lt;/f1&gt;a text frame &lt;f2&gt;specifically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131949Z" creationid="zerng07" creationdate="20180130T131949Z">
+        <seg>&lt;f0&gt;外框：&lt;/f0&gt; &lt;f1&gt;可以是指一般外框，也可以專門指&lt;/f1&gt;文字外框&lt;f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frankly, though, you have to wonder why.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122836Z" creationid="zerng07" creationdate="20180123T121208Z">
@@ -2927,6 +2935,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Marginalia:&lt;/f0&gt; Frames that sit on the left side of the main text frame, creating the effect of notes in the margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132218Z" creationid="zerng07" creationdate="20180130T132218Z">
+        <seg>&lt;f0&gt;旁註 (Marginalia)：&lt;/f0&gt;坐落在主要文字外框左側的外框，能做出頁面邊距中的旁註效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Middle&lt;/f0&gt;: Manufactured small capitals for the same font.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T065916Z" creationid="Franklin Weng" creationdate="20171228T063556Z">
@@ -3124,6 +3140,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T130549Z" creationid="Franklin Weng" creationdate="20180126T130520Z">
         <seg>&lt;f0&gt;此外，其他段落也會有一些沒辦法符合Writer設定的行數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Others&lt;/f0&gt; require clarification:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131906Z" creationid="zerng07" creationdate="20180130T131906Z">
+        <seg>&lt;f0&gt;其他&lt;/f0&gt;樣式就需要解釋了：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23334,6 +23358,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T115122Z" creationid="Franklin Weng" creationdate="20180101T133147Z">
         <seg>就如字面所說：小寫「x」字母的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the default style.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132003Z" creationid="zerng07" creationdate="20180130T132003Z">
+        <seg>這是預設樣式。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
