@@ -3737,8 +3737,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he Drawing tool bar has icons in Draw and Impress that it does not have in Writer and Calc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075344Z" creationid="Jeff Huang" creationdate="20171220T075344Z">
-        <seg>在 Draw 與 Impress 中的繪圖工具列有一些 Writer 與 Calc 沒有的圖示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T032037Z" creationid="Jeff Huang" creationdate="20171220T075344Z">
+        <seg>在Draw和Impress中的繪圖工具列有一些Writer和Calc中沒有的圖示按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4968,8 +4968,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;In particular, the Draw and Impress version has &lt;/f1&gt;&lt;f2&gt;Connectors&lt;/f2&gt; and &lt;f3&gt;Arrow&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075504Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
-        <seg>&lt;f1&gt;特別是 Draw 與 Impress 的版本中有&lt;/f1&gt;&lt;f2&gt;連接符&lt;/f2&gt;與&lt;f3&gt;箭頭&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;。&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T032104Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
+        <seg>&lt;f1&gt;特別是Draw和Impress的版本中有&lt;/f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;與&lt;f3&gt;箭頭&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;。&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22725,8 +22725,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They are not available in any other LibreOffice application, even though you can use the Drawing tool bar to add manually many types of &lt;f2&gt;d&lt;/f2&gt;rawing objects in Writer and Calc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031836Z" creationid="Jeff Huang" creationdate="20171220T074846Z">
-        <seg>雖然你也可以在Writer和Calc中使用繪圖工具列手動加入繪圖物件，但繪圖樣式在Draw和Impress以外都不能使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031927Z" creationid="Jeff Huang" creationdate="20171220T074846Z">
+        <seg>雖然你也可以在Writer和Calc中使用繪圖工具列手動加入繪圖物件，但繪圖樣式只要是Draw和Impress以外都一樣不能使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23823,8 +23823,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Typically, you apply them after inserting a shape.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T075149Z" creationid="Jeff Huang" creationdate="20171220T075149Z">
-        <seg>一般來說，你會在插入形狀後套用它們。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031945Z" creationid="Jeff Huang" creationdate="20171220T075149Z">
+        <seg>一般來說，你會在插入形狀後套用繪圖樣式。</seg>
       </tuv>
     </tu>
     <tu>
