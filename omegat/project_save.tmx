@@ -7611,8 +7611,8 @@
       <tuv lang="EN">
         <seg>Another reason for uncertainties surrounding frames is &lt;f0&gt;that keeping images where you place them can be difficult.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T120409Z" creationid="zerng07" creationdate="20180130T115843Z">
-        <seg>另一個圍繞著外框的難以捉摸原因是，&lt;f0&gt;要把影像放在你想放的位置上有時候很困難。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T120724Z" creationid="zerng07" creationdate="20180130T115843Z">
+        <seg>另一個圍繞著外框的難以捉摸原因是，&lt;f0&gt;要把影像停留在你想放的位置上有時候很困難。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9218,6 +9218,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172042Z" creationid="zerng07" creationdate="20171225T172042Z">
         <seg>對親代樣式做的修改會一併影響目前的樣式，所以你不需要再去修改每個相關的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing anchors, moving objects, copying and pasting – sometimes any editing &lt;f0&gt;whatsoever&lt;/f0&gt; seems to send objects shifting out of control.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T120940Z" creationid="zerng07" creationdate="20180130T120940Z">
+        <seg>變更錨定、移動物件、複製後貼上等等——有時候&lt;f0&gt;想盡辦法&lt;/f0&gt;做任何編輯，似乎都不能讓物件的移動在控制之下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12070,6 +12078,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100611Z" creationid="Jeff Huang" creationdate="20180115T071355Z">
         <seg>出於這個原因，&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;下表中列出的多數是最接近的同等替代品，但很少有完全相同的替代品。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, this chapter includes both how things are supposed to work (and should work for you, with any luck), and the precautions and work-arounds you may need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T121758Z" creationid="zerng07" creationdate="20180130T121758Z">
+        <seg>基於此因，本章內容會解釋這些是怎麼運作的（應該也能讓你正確運作，如果幸運的話），以及你可能會需要的預防措施和變通方案。</seg>
       </tuv>
     </tu>
     <tu>
