@@ -424,8 +424,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;LibreOffice uses the colors in the order they are listed under &lt;f1&gt;Default Colors.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032539Z" creationid="Jeff Huang" creationdate="20180115T032539Z">
-        <seg>&lt;/f0&gt;LibreOffice 都會以列在&lt;f1&gt;預設色彩&lt;/f1&gt;中的順序使用色彩。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T095110Z" creationid="Jeff Huang" creationdate="20180115T032539Z">
+        <seg>&lt;/f0&gt;LibreOffice都會以列在&lt;f1&gt;預設色彩&lt;/f1&gt;中的順序使用色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,8 +10699,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Either accept the default colors, or change them at &lt;f0&gt;Tools &gt; Options &gt; Charts &gt; Default Colors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032343Z" creationid="Jeff Huang" creationdate="20180115T032343Z">
-        <seg>不論是使用預設色彩，或是在&lt;f0&gt;「工具 &gt; 選項 &gt; 圖表 &gt; 預設色彩」中變更它們。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T095059Z" creationid="Jeff Huang" creationdate="20180115T032343Z">
+        <seg>可以直接接受預設色彩，或是到&lt;f0&gt;「工具 &gt; 選項 &gt; 圖表 &gt; 預設色彩」中變更色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11227,8 +11227,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Following these steps should help minimize confusion:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032151Z" creationid="Jeff Huang" creationdate="20180115T032151Z">
-        <seg>下列這些步驟應該可以盡可能地降低混淆程度：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T095018Z" creationid="Jeff Huang" creationdate="20180115T032151Z">
+        <seg>下列這些步驟應該可以協助你減少困惑：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13864,8 +13864,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are printing in black and white, test colors for contrast.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032608Z" creationid="Jeff Huang" creationdate="20180115T032608Z">
-        <seg>如果你是使用黑白列印，請測試色彩間的對比度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T095118Z" creationid="Jeff Huang" creationdate="20180115T032608Z">
+        <seg>如果你是用黑白列印，請測試色彩間的對比。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22508,8 +22508,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The time spent writing is cut from the rest of the pie in order to emphasize it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T032038Z" creationid="Jeff Huang" creationdate="20180115T032038Z">
-        <seg>為了強調這一點，寫作的時間已從其他圓餅圖切開來了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094931Z" creationid="Jeff Huang" creationdate="20180115T032038Z">
+        <seg>為了強調寫作 (Writing) 的時間，而把數字從圓餅圖中另外分開來。</seg>
       </tuv>
     </tu>
     <tu>
