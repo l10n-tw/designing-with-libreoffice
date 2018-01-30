@@ -1660,8 +1660,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Column and Line:&lt;/f0&gt; &lt;f1&gt;A chart that offers both a column and line representation of the same data.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134339Z" creationid="Jeff Huang" creationdate="20180113T134339Z">
-        <seg>&lt;f0&gt;欄與線：&lt;/f0&gt;&lt;f1&gt;同時提供了同一份資料欄與線表示方式的圖表。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092727Z" creationid="Jeff Huang" creationdate="20180113T134339Z">
+        <seg>&lt;f0&gt;欄與線：&lt;/f0&gt;&lt;f1&gt;同時提供同一組資料的直欄與線條呈現方式的圖表。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,8 +2222,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;GL3D Bar:&lt;/f0&gt; &lt;f1&gt;A bar graph that uses OpenGL for rendering three dimensional graphs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134445Z" creationid="Jeff Huang" creationdate="20180113T134445Z">
-        <seg>&lt;f0&gt;GL3D 條狀圖：&lt;/f0&gt;&lt;f1&gt;使用 OpenGL 算繪三維圖表的條狀圖表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092818Z" creationid="Jeff Huang" creationdate="20180113T134445Z">
+        <seg>&lt;f0&gt;GL3D長條圖：&lt;/f0&gt;&lt;f1&gt;使用OpenGL算繪三維圖表的長條圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15454,8 +15454,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It is described technically as a depiction of changes in the values of the X axis.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134201Z" creationid="Jeff Huang" creationdate="20180113T134201Z">
-        <seg>其在技術上是描述 X 軸的值變化的圖。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092616Z" creationid="Jeff Huang" creationdate="20180113T134201Z">
+        <seg>從技術而言它是描述X軸數值變化的圖。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23140,8 +23140,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This choice only works when your video &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;driver has hardware acceleration, which some Linux installations will not have.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T113312Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
-        <seg>這個選擇僅當你的顯卡&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;驅動程式有硬體加速時才能運作，部份 Linux 安裝是沒有的。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092916Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
+        <seg>這個選擇僅在你的顯卡&lt;/f1&gt;&lt;f3&gt;驅動程式有硬體加速時才能作用，而有的Linux系統上沒有。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
