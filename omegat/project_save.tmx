@@ -21470,8 +21470,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default position for the shadow is the lower right, assuming a light source in the upper left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T055756Z" creationid="Jeff Huang" creationdate="20180104T055756Z">
-        <seg>陰影的預設位置在右下方，其並假設光源的位置在左上方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T073918Z" creationid="Jeff Huang" creationdate="20180104T055756Z">
+        <seg>陰影的預設位置在右下方，假設光源的位置來自左上方。</seg>
       </tuv>
     </tu>
     <tu>
