@@ -4243,8 +4243,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To draw a dimension line, click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Lines and Arrows&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button on the Drawing tool bar (the ninth from the left), and select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Dimension Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the available tools.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T041034Z" creationid="Jeff Huang" creationdate="20171228T081148Z">
-        <seg>&lt;f0&gt;要繪製尺寸線，在繪圖工具列點選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條與箭頭&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕，然後從可用的工具中選取&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;尺寸線&lt;/f5&gt;&lt;/f4&gt;（LibreOffice 5.x 版前稱為「定量線」）&lt;f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060625Z" creationid="Jeff Huang" creationdate="20171228T081148Z">
+        <seg>&lt;f0&gt;若要繪製尺寸線，在繪圖工具列中點選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條與箭頭&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的下拉箭頭按鈕，然後從可用的項目中選取「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;尺寸線&lt;/f5&gt;&lt;/f4&gt;」（LibreOffice 5.x 版前稱為「定量線」）&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13736,8 +13736,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If unit measurements are displayed, changing the unit may be a convenient way of changing the scale of a drawing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060422Z" creationid="Jeff Huang" creationdate="20171228T080444Z">
-        <seg>如果有顯示定量單位，又想要變更繪圖的尺寸大小的話，修改單位可能是比較方便的做法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060458Z" creationid="Jeff Huang" creationdate="20171228T080444Z">
+        <seg>如果有顯示定量單位，又想要變更繪圖的尺寸的話，修改單位可能是比較方便的做法。</seg>
       </tuv>
     </tu>
     <tu>
