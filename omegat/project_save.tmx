@@ -6422,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A color or graphic background usually does not need a border unless some point along its edge blends into the paper color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055513Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
+        <seg>彩色或是圖案背景通常不需要邊框，除非其邊緣的某個點會與紙張色彩混合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A consistent format doesn’t matter for some other reason.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143359Z" creationid="zerng07" creationdate="20171219T143359Z">
@@ -18743,6 +18751,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100246Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
         <seg>詳情可以看第 13 章。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>又是參照錯誤，略過不譯。</note>
+      <tuv lang="EN">
+        <seg>See “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
