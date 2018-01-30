@@ -25973,6 +25973,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can edit the frame by modifying the frame style it uses, &lt;f0&gt;but you should avoid &lt;/f0&gt;manual override&lt;f1&gt;s whenever possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T130909Z" creationid="zerng07" creationdate="20180130T130909Z">
+        <seg>你可以修改外框樣式來修改外框，而且應該盡可能避免&lt;f0&gt;手動凌駕樣式的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can even go to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab to expand or condense character spacing.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003253Z" creationid="zerng07" creationdate="20180123T120020Z">
