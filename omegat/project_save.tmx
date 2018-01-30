@@ -616,8 +616,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;When working in Draw or Impress, you might get into the habit of replacing &lt;f2&gt;Ctrl+C&lt;/f2&gt; with &lt;f3&gt;Shift+F3&lt;/f3&gt; for copying.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T051754Z" creationid="Jeff Huang" creationdate="20171221T080246Z">
-        <seg>&lt;/f1&gt;在Draw或Impress中作業時，你可能會調整用 &lt;f2&gt;Ctrl+C&lt;/f2&gt;的習慣，改為使用&lt;f3&gt;Shift+F3&lt;/f3&gt;來複製()。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T051838Z" creationid="Jeff Huang" creationdate="20171221T080246Z">
+        <seg>&lt;/f1&gt;在Draw或Impress中作業時，你可能會調整用 &lt;f2&gt;Ctrl+C&lt;/f2&gt;的習慣，改為使用&lt;f3&gt;Shift+F3&lt;/f3&gt;來複製（Linux筆電上測試無效，需要再驗證）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11795,8 +11795,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, you may have few needs for a border or background in most Writer styles, but in Draw such characteristics &lt;f0&gt;(named &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;area&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;)&lt;/f6&gt; become a primary concern.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132829Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
-        <seg>舉例來說，在大多數的 Writer 樣式中，你可能不需要邊框或背景，但在 Draw 中，這樣的特性&lt;f0&gt;（稱為 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;與&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區域&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;）&lt;/f6&gt;就變成了重點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T052144Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
+        <seg>舉例來說，在大多數的Writer樣式裡，你可能不大需要邊框或背景，但在Draw之中，這樣的特性&lt;f0&gt;（如「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」與「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區塊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」）&lt;/f6&gt;就變成了重點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12036,8 +12036,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Formatting drawings</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T080540Z" creationid="Jeff Huang" creationdate="20171221T080540Z">
-        <seg>格式化繪製</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T051852Z" creationid="Jeff Huang" creationdate="20171221T080540Z">
+        <seg>繪圖格式設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -16326,8 +16326,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Many are similar to those found in other styles, but in a diagram they become more important.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132858Z" creationid="Jeff Huang" creationdate="20171221T081540Z">
-        <seg>繪圖樣式裡很多選項都與其他樣式類似。但在圖表中，這些選擇會變得更重要。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T052034Z" creationid="Jeff Huang" creationdate="20171221T081540Z">
+        <seg>繪圖樣式中有許多選項都和其他樣式類似；但在圖表中，有些選項會變得更重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19294,8 +19294,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Shape &lt;f0&gt;choices&lt;/f0&gt; determine &lt;f1&gt;each object’s features&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132438Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
-        <seg>形狀&lt;f0&gt;的選擇會&lt;/f0&gt;決定&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T051928Z" creationid="Jeff Huang" creationdate="20171221T081008Z">
+        <seg>形狀&lt;f0&gt;的選擇&lt;/f0&gt;決定了&lt;f1&gt;每個物件的特色&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
