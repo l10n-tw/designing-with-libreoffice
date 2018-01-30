@@ -24284,6 +24284,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, however, elements not included in any frame style, such as a&lt;f0&gt;n&lt;/f0&gt; image’s anchor, alignment, stacking, and wrap usually have to be edited separately for each frame, making this advice easier to give than to practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131119Z" creationid="zerng07" creationdate="20180130T130927Z">
+        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、圖層堆疊、周圍文字換行等，通常都必須各個外框各自修改，所以實際上這個建議說的比做的簡單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately, in Writer, Draw, and Impress, you must format manually without styles or much of anything else to help you.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082800Z" creationid="Jeff Huang" creationdate="20180112T135428Z">
