@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;If you lack time, this is &lt;f1&gt;always &lt;/f1&gt;a low-maintenance tactic to use &lt;f2&gt;anyway, and is common in technical manuals.&lt;/f2&gt; While &lt;f3&gt;not always&lt;/f3&gt; ideal, it generally provides an adequate layout unless you are adding extremely small images, which tend to get lost in all the white space to their left and right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141911Z" creationid="zerng07" creationdate="20180130T141434Z">
+        <seg>&lt;/f0&gt;如果你時間不夠，這&lt;f1&gt;始終&lt;/f1&gt;都是種低維護成本的使用策略，&lt;f2&gt;在技術性手冊中也很常見。&lt;/f2&gt;它通常能給出適當的版面配置，但&lt;f3&gt;不見得都很&lt;/f3&gt;理想；像是你要加入非常小張的圖片，如果左邊或右邊全都是空白，那很有可能一不小心就消失不見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;In the &lt;f1&gt;Custom Animation &lt;/f1&gt;pane, &lt;f2&gt;click&lt;/f2&gt; the &lt;f3&gt;Plus&lt;/f3&gt; button and select&lt;f4&gt; Entran&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;c&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;e &gt; Appear &lt;/f7&gt;from the dialog box.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T092941Z" creationid="Franklin Weng" creationdate="20180120T120432Z">
@@ -4525,8 +4533,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using no text wrap, so that there is text above and below the frame, but not to its left or right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141147Z" creationid="zerng07" creationdate="20180130T140831Z">
-        <seg>&lt;f0&gt;不用讓文字圍繞影像，所以外框上和外框下會有文字，但外框左側和右側沒有文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141154Z" creationid="zerng07" creationdate="20180130T140831Z">
+        <seg>&lt;f0&gt;不讓文字圍繞影像，所以外框上和外框下會有文字，但外框左側和右側沒有文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18382,8 +18390,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Planning frame use</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141125Z" creationid="zerng07" creationdate="20180130T135524Z">
-        <seg>規劃外框的用途</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141438Z" creationid="zerng07" creationdate="20180130T135524Z">
+        <seg>規劃外框的使用</seg>
       </tuv>
     </tu>
     <tu>
