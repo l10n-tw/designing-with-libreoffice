@@ -7161,8 +7161,8 @@
       <tuv lang="EN">
         <seg>All features in a chart are editable, but LibreOffice supplies no means to save formatting choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T083056Z" creationid="Jeff Huang" creationdate="20180112T140328Z">
-        <seg>所有在圖表中的細節都是可編輯的，但 LibreOffice 無法儲存格式設定的選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T085404Z" creationid="Jeff Huang" creationdate="20180112T140328Z">
+        <seg>所有在圖表中的細部都可以編輯，但LibreOffice無法把這些格式設定存起來以後用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14385,8 +14385,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want a chart to look similar to another one, you &lt;f0&gt;must&lt;/f0&gt; copy and paste.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T111238Z" creationid="Jeff Huang" creationdate="20180112T140433Z">
-        <seg>如果你想要建立一張類似的圖表，你&lt;f0&gt;必須&lt;/f0&gt;複製並貼上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T090910Z" creationid="Jeff Huang" creationdate="20180112T140433Z">
+        <seg>如果你想要另一張類似的圖表，就&lt;f0&gt;必須&lt;/f0&gt;複製、貼上。</seg>
       </tuv>
     </tu>
     <tu>
