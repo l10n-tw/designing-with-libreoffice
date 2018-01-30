@@ -1329,8 +1329,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Area:&lt;/f0&gt; A line graph with several lines, and the space between lines shaded in with colors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112736Z" creationid="Jeff Huang" creationdate="20180113T133101Z">
-        <seg>&lt;f0&gt;面積圖：&lt;/f0&gt;有許多線條的圖表，在線條間的空間有色彩填充。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092140Z" creationid="Jeff Huang" creationdate="20180113T133101Z">
+        <seg>&lt;f0&gt;面積圖：&lt;/f0&gt;有許多線條的圖表，在線條間的空間有填入色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4656,8 +4656,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;XY (Scatter): &lt;/f0&gt;&lt;f1&gt;A type of chart for comparing the results of two or more trials of an experiment.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T133329Z" creationid="Jeff Huang" creationdate="20180113T133329Z">
-        <seg>&lt;f0&gt;XY（散佈）：&lt;/f0&gt;&lt;f1&gt;比較兩個或更多實驗中的嘗試的圖表類型。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092308Z" creationid="Jeff Huang" creationdate="20180113T133329Z">
+        <seg>&lt;f0&gt;XY（散佈）：&lt;/f0&gt;&lt;f1&gt;比較一項實驗中兩組或更多組試驗結果數據的圖表類型。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13744,8 +13744,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If the data points are meant to show a progression (for instance, over time), then the points are usually connected.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T112726Z" creationid="Jeff Huang" creationdate="20180113T132946Z">
-        <seg>若資料點是為了顯示進度（例如隨著時間），這些點通常會互相連接。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092055Z" creationid="Jeff Huang" creationdate="20180113T132946Z">
+        <seg>若資料點是為了顯示進度（例如隨著時間），這些點通常會互相連接做成折線圖。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23124,8 +23124,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This chart type is popular for financial data and business reports.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132328Z" creationid="Jeff Huang" creationdate="20180113T132328Z">
-        <seg>這些圖表類型常被用於財務資料與商業報告。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092000Z" creationid="Jeff Huang" creationdate="20180113T132328Z">
+        <seg>這些圖表類型常用於財務資料與商業報告中。</seg>
       </tuv>
     </tu>
     <tu>
