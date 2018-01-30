@@ -3049,8 +3049,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;OLE:&lt;/f0&gt; &lt;f1&gt;The term is technically obsolete, but now refers to a document&lt;/f1&gt; nested within &lt;f2&gt;a document, including &lt;/f2&gt;charts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132644Z" creationid="zerng07" creationdate="20180130T132644Z">
-        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，這包括&lt;/f2&gt;圖表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132655Z" creationid="zerng07" creationdate="20180130T132644Z">
+        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，也包括&lt;/f2&gt;圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4589,6 +4589,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Watermark:&lt;/f0&gt; Frames that position a graphic behind text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135115Z" creationid="zerng07" creationdate="20180130T135115Z">
+        <seg>&lt;f0&gt;水印 (Watermark)：&lt;/f0&gt;將圖形放置在文字後方的外框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;What the spell check can do is reduce the drudgery of catching typos and routine errors&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080552Z" creationid="Jeff Huang" creationdate="20171213T030837Z">
@@ -5871,6 +5879,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100150Z" creationid="zerng07" creationdate="20180125T100150Z">
         <seg>&lt;f3&gt;在這些案例之中，通常可以選擇其他方法達成相同的成果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;In this way, a document can be easily updated, and used in different situations.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132723Z" creationid="zerng07" creationdate="20180130T132723Z">
+        <seg>&lt;f3&gt;藉由這種方式，文件可以輕鬆更新，也能用於各種不同情況。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
