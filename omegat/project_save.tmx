@@ -4421,8 +4421,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Unlike styles in Writer, graphic styles can only be applied after a shape is added to a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171221T071826Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
-        <seg>&lt;f0&gt;不像 Writer 中的樣式，圖形樣式可以僅在形狀加入到文件後才套用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050803Z" creationid="Jeff Huang" creationdate="20171221T071826Z">
+        <seg>&lt;f0&gt;和Writer中的樣式不同，圖形樣式只可以在形狀加入文件後才能套用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14285,7 +14285,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>圖形樣式設定中似乎沒有「下一個樣式」</note>
+      <note>圖形樣式設定中似乎沒有「下一個樣式」。確實！已改寫。</note>
       <tuv lang="EN">
         <seg>If you want &lt;f1&gt;to apply this style somewhat differently &lt;/f1&gt;– perhaps &lt;f2&gt;using&lt;/f2&gt; different color&lt;f3&gt;ed shapes&lt;/f3&gt; to indicate different departments &lt;f4&gt;or the project lead&lt;/f4&gt; – use the &lt;f5&gt;&lt;f6&gt;Inherit from&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; and &lt;/f7&gt;&lt;f8&gt;Next&lt;/f8&gt; field&lt;f9&gt;s &lt;/f9&gt;on the &lt;f10&gt;Organizer&lt;/f10&gt; tab to create subordinate styles with names like &lt;f11&gt;Position Box&lt;/f11&gt; &lt;f12&gt;or &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Project Lead.&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
@@ -15141,8 +15141,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Insert one of each of the shapes your document uses, then choose the style to apply from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles and Formatting&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; window.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084734Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
-        <seg>插入其中一種你在文件中使用的形狀，然後從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式和格式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;視窗中選擇樣式來套用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050941Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
+        <seg>插入你在文件中要使用的形狀各一，然後從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式和格式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」視窗中選擇樣式套用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
