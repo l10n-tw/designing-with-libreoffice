@@ -2961,8 +2961,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most of these types of charts have sub-types as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134648Z" creationid="Jeff Huang" creationdate="20180113T134648Z">
-        <seg>&lt;f0&gt;這幾個類型的圖表也大多都有子類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092933Z" creationid="Jeff Huang" creationdate="20180113T134648Z">
+        <seg>&lt;f0&gt;這幾個類型的圖表大多都還有子類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3697,8 +3697,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Stick with the chart types you understand – if you don’t know the uses of a graph, or are unable to see what is useful about a sub-type, you shouldn’t be using it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T113942Z" creationid="Jeff Huang" creationdate="20180113T135226Z">
-        <seg>&lt;f0&gt;盡可能使用你已經了解的圖表類型，若你不知道圖表的用途，或是無法看出一個子類型有什麼用途，就別使用它吧。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T093107Z" creationid="Jeff Huang" creationdate="20180113T135226Z">
+        <seg>&lt;f0&gt;盡可能使用你已經瞭解的圖表類型。若你不知道圖表的用途，或是無法看出某個子類型有什麼用途，那就別用吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17239,8 +17239,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Often, the differences in the sub-types are subtle, so you may have to look twice to see the difference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T134844Z" creationid="Jeff Huang" creationdate="20180113T134844Z">
-        <seg>一般來說，子類型的不同之處都是標題，所以你可能要多看幾次才能看出差別。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092948Z" creationid="Jeff Huang" creationdate="20180113T134844Z">
+        <seg>一般來說，子類型的不同之處很細微，所以你可能要多看幾次才能看出差別。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21928,8 +21928,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The majority of users will probably use the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Column&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Bar&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Pie&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;, or&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Line &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;formats for comparing data along two axes.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T135421Z" creationid="Jeff Huang" creationdate="20180113T135421Z">
-        <seg>大多數的使用者可能會使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;直列&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;、&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;橫欄&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;、&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圓餅&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;或是&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;線條&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;格式來在兩軸上比較資料。&lt;/f12&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T093237Z" creationid="Jeff Huang" creationdate="20180113T135421Z">
+        <seg>大多數的使用者可能會使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;直欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;、&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;橫列&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;、&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圓餅圖&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;、&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;線條&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;等格式來在兩條軸上比較資料。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22331,8 +22331,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The same is also true for the three dimensional options for most types of graphs, which can have a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Simple&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Realistic&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; rendering.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T135014Z" creationid="Jeff Huang" creationdate="20180113T135014Z">
-        <seg>多種圖表的 3D 選項也是如此，其可以有&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;簡單&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;真實&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;的算繪。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T093038Z" creationid="Jeff Huang" creationdate="20180113T135014Z">
+        <seg>大多數圖表的3D選項也是如此，可以選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;簡單&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;寫實&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;的算繪方式。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
