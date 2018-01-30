@@ -1668,8 +1668,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Column: &lt;/f0&gt;&lt;f1&gt;The data displays in vertical columns.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132009Z" creationid="Jeff Huang" creationdate="20180113T132009Z">
-        <seg>&lt;f0&gt;直欄：&lt;/f0&gt;&lt;f1&gt;資料以直欄顯示。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091612Z" creationid="Jeff Huang" creationdate="20180113T132009Z">
+        <seg>&lt;f0&gt;直欄：&lt;/f0&gt;&lt;f1&gt;資料以直條顯示。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,8 +9272,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Charts are available in &lt;f0&gt;eleven&lt;/f0&gt; types, many in &lt;f1&gt;both &lt;/f1&gt;2D and 3D.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T113246Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
-        <seg>圖表一共有&lt;f0&gt;十一種&lt;/f0&gt;類型，大多數都&lt;f1&gt;同時&lt;/f1&gt;有 2D 與 3D 的版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091405Z" creationid="Jeff Huang" creationdate="20180113T131729Z">
+        <seg>圖表一共有&lt;f0&gt;11種&lt;/f0&gt;類型，大多數&lt;f1&gt;同時&lt;/f1&gt;有2D和3D的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13094,8 +13094,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, many charts only require one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131404Z" creationid="Jeff Huang" creationdate="20180113T131404Z">
-        <seg>不過，大多數的圖表只需要一個。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091340Z" creationid="Jeff Huang" creationdate="20180113T131404Z">
+        <seg>不過，大多數的圖表只需要一組數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21261,8 +21261,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The available charts are:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131937Z" creationid="Jeff Huang" creationdate="20180113T131937Z">
-        <seg>可用的圖表有：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091523Z" creationid="Jeff Huang" creationdate="20180113T131937Z">
+        <seg>可用的圖表類型有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21414,8 +21414,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default chart includes &lt;f0&gt;three&lt;/f0&gt; Y axis values.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131343Z" creationid="Jeff Huang" creationdate="20180113T131343Z">
-        <seg>預設的圖表包含了&lt;f0&gt;三個&lt;/f0&gt; Y 軸的值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091333Z" creationid="Jeff Huang" creationdate="20180113T131343Z">
+        <seg>預設的圖表包含&lt;f0&gt;三組&lt;/f0&gt;Y軸的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25751,8 +25751,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can change the default chart type by selecting &lt;f0&gt;Chart Type &lt;/f0&gt;from the right-click menu, and choosing from the &lt;f1&gt;graphs shown.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T131847Z" creationid="Jeff Huang" creationdate="20180113T131847Z">
-        <seg>你可以變更預設的圖表類型，從右鍵選單中選擇&lt;f0&gt;圖表類型&lt;/f0&gt;，並從&lt;f1&gt;顯示的圖表中&lt;/f1&gt;選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091513Z" creationid="Jeff Huang" creationdate="20180113T131847Z">
+        <seg>你可以變更預設的圖表類型，就從右鍵選單中選擇「&lt;f0&gt;圖表類型&lt;/f0&gt;」，並在&lt;f1&gt;顯示的圖表中&lt;/f1&gt;選擇。</seg>
       </tuv>
     </tu>
     <tu>
