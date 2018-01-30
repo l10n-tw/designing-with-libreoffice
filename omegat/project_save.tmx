@@ -1853,8 +1853,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; saves copying and pasting shapes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132204Z" creationid="Jeff Huang" creationdate="20171221T073758Z">
-        <seg>「&lt;f0&gt;編輯→再製複本&lt;/f0&gt;」會儲存複製並貼上形狀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T051137Z" creationid="Jeff Huang" creationdate="20171221T073758Z">
+        <seg>「&lt;f0&gt;編輯 &gt; 再製複本&lt;/f0&gt;」會儲存複製內容並貼上形狀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15141,8 +15141,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Insert one of each of the shapes your document uses, then choose the style to apply from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Styles and Formatting&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; window.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050941Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
-        <seg>插入你在文件中要使用的形狀各一，然後從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式和格式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」視窗中選擇樣式套用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050951Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
+        <seg>插入你在文件中要使用的形狀各一，然後在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式和格式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」視窗中選擇樣式套用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17337,8 +17337,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Once you have added the style to one type of object, you can copy and paste to create others of the same type, or else use&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Duplicate&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T132014Z" creationid="Jeff Huang" creationdate="20171221T072727Z">
-        <seg>一旦你將樣式加入到某一種類型的物件後，你就可以複製並貼上以建立其他相同類型的物件，或是使用&lt;f0&gt; &lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯 &gt; 再製複本&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T051105Z" creationid="Jeff Huang" creationdate="20171221T072727Z">
+        <seg>一旦你將樣式加到某一種類型的物件後，你就可以複製貼上來建立其他相同類型的物件，或是使用&lt;f0&gt; &lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;編輯 &gt; 再製複本&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
