@@ -8085,8 +8085,8 @@
       <tuv lang="EN">
         <seg>Available in most LibreOffice applications, Chart &lt;f0&gt;remains one of the few tools in the entire office suite that uses manual formatting only.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081448Z" creationid="Jeff Huang" creationdate="20171220T081448Z">
-        <seg>在大多數的 LibreOffice 應用程式中都可以使用，但圖表&lt;f0&gt;仍是在整個辦公室套裝軟體中少數幾個僅使用手動格式化的工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040454Z" creationid="Jeff Huang" creationdate="20171220T081448Z">
+        <seg>在大多數的LibreOffice應用程式中都可以使用圖表，它&lt;f0&gt;是整個辦公套裝軟體中少數幾個只採用手動格式設定的工具之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20428,8 +20428,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That means, &lt;f2&gt;for example,&lt;/f2&gt; that the pre-defined &lt;f3&gt;Object with Shadow &lt;/f3&gt;style &lt;f4&gt;can format &lt;/f4&gt;both a rectangle and &lt;f5&gt;shapes that are identical except for dimensions.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040245Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
-        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它可以同時對一個矩形和&lt;f5&gt;除了大小以外都全等的形狀&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;？？？？。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040752Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
+        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它可以同時對矩形和&lt;f5&gt;形狀相同但大小不同&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;？？？？。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22910,8 +22910,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This chapter concludes with a discussion of how to design graphs and charts using LibreOffice’s Chart sub-system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T081223Z" creationid="Jeff Huang" creationdate="20171220T081223Z">
-        <seg>本章節將會討論如何使用 LibreOffice 的圖表子系統來設計圖形與圖表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040310Z" creationid="Jeff Huang" creationdate="20171220T081223Z">
+        <seg>本章節將會討論如何使用LibreOffice的「圖表」子系統設計圖形與圖表。</seg>
       </tuv>
     </tu>
     <tu>
