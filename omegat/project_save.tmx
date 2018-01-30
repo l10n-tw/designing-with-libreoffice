@@ -7161,8 +7161,8 @@
       <tuv lang="EN">
         <seg>All features in a chart are editable, but LibreOffice supplies no means to save formatting choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140328Z" creationid="Jeff Huang" creationdate="20180112T140328Z">
-        <seg>所有在圖表中的圖徽都是可編輯的，但 LibreOffice 無法儲存格式設定的選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T083056Z" creationid="Jeff Huang" creationdate="20180112T140328Z">
+        <seg>所有在圖表中的細節都是可編輯的，但 LibreOffice 無法儲存格式設定的選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8758,8 +8758,8 @@
       <tuv lang="EN">
         <seg>By changing the colors used in a chart, you can make the chart fit with other decisions about color in the document, or reflect corporate or project branding.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140216Z" creationid="Jeff Huang" creationdate="20180112T140216Z">
-        <seg>透過變更在圖表中使用的色彩，你可以讓圖表符合其他在文件中關於色彩的決策，或是反映企業或專案品牌。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T083020Z" creationid="Jeff Huang" creationdate="20180112T140216Z">
+        <seg>透過變更圖表中使用的色彩，你可以讓圖表更符合其他文件中的色彩相關決策，或是反映出企業或專案品牌等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21350,8 +21350,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The chart uses the default chart &lt;f0&gt;colors&lt;/f0&gt;, which you can adjust in &lt;f1&gt;Tools &gt; Options &gt; Charts &gt; Default Colors &lt;/f1&gt;&lt;f2&gt;or by right-clicking on the chart.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140026Z" creationid="Jeff Huang" creationdate="20180112T140026Z">
-        <seg>圖表使用預設的圖表&lt;f0&gt;色彩&lt;/f0&gt;，你可以在&lt;f1&gt;「工具 &gt; 選項 &gt; 圖表 &gt; 預設色彩」&lt;/f1&gt;中調整&lt;f2&gt;，或是在圖表上點按右鍵也可以。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082946Z" creationid="Jeff Huang" creationdate="20180112T140026Z">
+        <seg>圖表使用預設的圖表&lt;f0&gt;色彩&lt;/f0&gt;，你可以在「&lt;f1&gt;工具 &gt; 選項 &gt; 圖表 &gt; 預設色彩&lt;/f1&gt;」中調整&lt;f2&gt;，或是在圖表上點按右鍵也可以。</seg>
       </tuv>
     </tu>
     <tu>
