@@ -9504,8 +9504,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Click the chart so that the gray border disappears and the object handles appear.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T080731Z" creationid="Jeff Huang" creationdate="20180115T034414Z">
-        <seg>點按圖表讓灰色邊框消失，並讓物件手把出現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T100502Z" creationid="Jeff Huang" creationdate="20180115T034414Z">
+        <seg>點按圖表以外的地方讓灰色邊框消失，接著點一下圖表讓物件控制手把出現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25839,8 +25839,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can drag on the handles to move or resize the chart, or right-click to change features such as alignment, or edit the Line to create a border or Area to change the background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T034704Z" creationid="Jeff Huang" creationdate="20180115T034704Z">
-        <seg>你可以拖曳以移動或調整圖表大小，或是右鍵點選以變更如對齊等等特徵，或是編輯線條以建立邊框，又或是變更區域背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T100737Z" creationid="Jeff Huang" creationdate="20180115T034704Z">
+        <seg>你可以拖曳來移動或調整圖表大小，或是按右鍵選單變更對齊之類的特性，或是編輯「線條」製作圖表邊框，抑或是變更「區塊」背景等。</seg>
       </tuv>
     </tu>
     <tu>
