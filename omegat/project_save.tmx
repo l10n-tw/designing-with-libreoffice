@@ -462,14 +462,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133419Z" creationid="Franklin Weng" creationdate="20180126T122323Z">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;/f9&gt;Use the file manager to select the file for the background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095428Z" creationid="Franklin Weng" creationdate="20180114T140955Z">
@@ -5130,8 +5122,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Often, you don’t need to understand them, because &lt;/f1&gt;Writer adds frames automatically to contain objects &lt;f2&gt;such as images&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T114451Z" creationid="zerng07" creationdate="20180130T114347Z">
-        <seg>&lt;f1&gt;一般你不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框以包住物件，&lt;f2&gt;比如說影像&lt;/f2&gt;就是。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124704Z" creationid="zerng07" creationdate="20180130T114347Z">
+        <seg>&lt;f1&gt;一般你不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框包住物件，&lt;f2&gt;比如說影像&lt;/f2&gt;就是。</seg>
       </tuv>
     </tu>
     <tu>
