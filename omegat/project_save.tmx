@@ -5159,6 +5159,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating marginalia and sideheads&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;25&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132502Z" creationid="zerng07" creationdate="20180130T132502Z">
+        <seg>&lt;f1&gt;請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;製作旁註與頁側標題&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;25&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>更新參照與頁數</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Error: Reference source not found&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
