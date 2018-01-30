@@ -8533,8 +8533,8 @@
       <tuv lang="EN">
         <seg>Both must be turned off if you want to position the legend anywhere except the default central position.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T080202Z" creationid="Jeff Huang" creationdate="20171228T080202Z">
-        <seg>如果你想要將圖例定位在除了中央位置以外的地方，則必須把兩個都關閉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060258Z" creationid="Jeff Huang" creationdate="20171228T080202Z">
+        <seg>如果你想要將圖例放在除了中央以外的位置上，必須把這兩個選項都關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13736,8 +13736,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If unit measurements are displayed, changing the unit may be a convenient way of changing the scale of a drawing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T080444Z" creationid="Jeff Huang" creationdate="20171228T080444Z">
-        <seg>如果測量單位已顯示，變更單位可能是一個變更繪圖尺寸較方便的方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060422Z" creationid="Jeff Huang" creationdate="20171228T080444Z">
+        <seg>如果有顯示定量單位，又想要變更繪圖的尺寸大小的話，修改單位可能是比較方便的做法。</seg>
       </tuv>
     </tu>
     <tu>
