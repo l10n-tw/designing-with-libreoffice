@@ -7691,8 +7691,8 @@
       <tuv lang="EN">
         <seg>Another reason for uncertainties surrounding frames is &lt;f0&gt;that keeping images where you place them can be difficult.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124747Z" creationid="zerng07" creationdate="20180130T115843Z">
-        <seg>另一個圍繞著外框的難以捉摸問題是，&lt;f0&gt;要把影像停留在你想放的位置上有時候很困難。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135659Z" creationid="zerng07" creationdate="20180130T115843Z">
+        <seg>另一個圍繞著外框，讓它難以捉摸的原因是，&lt;f0&gt;想要讓影像停留在你要擺的位置上有時候很困難。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15093,8 +15093,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many ways, frame styles are as much for Writer’s automatic formatting as they are for users.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115527Z" creationid="zerng07" creationdate="20180130T115322Z">
-        <seg>從許多層面來說，外框樣式之於Writer的自動格式設定，就好比外框樣式之於使用者一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135556Z" creationid="zerng07" creationdate="20180130T115322Z">
+        <seg>從許多層面來說，外框樣式之於Writer的自動格式設定，就好比外框之於使用者一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18340,6 +18340,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Planning frame use</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135524Z" creationid="zerng07" creationdate="20180130T135524Z">
+        <seg>規劃外框使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Planning graphic styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T052730Z" creationid="Jeff Huang" creationdate="20171220T081638Z">
@@ -19061,6 +19069,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133913Z" creationid="Jeff Huang" creationdate="20180127T133913Z">
         <seg>請見「&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;新增頁首與頁尾段落樣式&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;」第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;1&lt;/bf6&gt;&lt;/f5&gt;頁&lt;f7&gt;。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating watermarks&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;26&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135518Z" creationid="zerng07" creationdate="20180130T135503Z">
+        <seg>請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;製作水印&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;26&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
