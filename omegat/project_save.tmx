@@ -2577,8 +2577,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In addition to choosing the color and thickness of an object’s outline, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab also includes options for arrows and line ends for both ends of a line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120601Z" creationid="Jeff Huang" creationdate="20171228T070752Z">
-        <seg>&lt;f0&gt;除了選擇物件輪廓的色彩與厚度之外，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁也包含箭頭與線條結尾的選項供兩個端點使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T054512Z" creationid="Jeff Huang" creationdate="20171228T070752Z">
+        <seg>&lt;f0&gt;除了選擇物件輪廓的線條色彩和厚度之外，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁也包含線條兩端箭頭、線條邊角和端頂的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4744,8 +4744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can modify dimensions lines from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Dimensioning&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a graphic style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T120551Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
-        <seg>&lt;f0&gt;你可以在圖樣的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸標註&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁修改尺寸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055806Z" creationid="Jeff Huang" creationdate="20171228T073810Z">
+        <seg>&lt;f0&gt;你可以在圖形樣式的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;尺寸標註&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁修改尺寸線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8902,8 +8902,8 @@
       <tuv lang="EN">
         <seg>By default, arrows and line ends have the same proportions as the line itself, but you can make them thinner or thicker as you choose.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071503Z" creationid="Jeff Huang" creationdate="20171228T071503Z">
-        <seg>預設情況下，箭頭與線條端點的屬性與線條本身相同，但你可以讓它們變得更細或更粗。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T054716Z" creationid="Jeff Huang" creationdate="20171228T071503Z">
+        <seg>預設情況下，箭頭與線條端頂和線條本身的屬性相同，但你可以讓它們變得更細或更粗。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9913,8 +9913,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Customized lines are stored in the /user/config directory of your personal configuration path.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071909Z" creationid="Jeff Huang" creationdate="20171228T071909Z">
-        <seg>自定義的線條儲存在你的個人設定路徑 /user/config 目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055456Z" creationid="Jeff Huang" creationdate="20171228T071909Z">
+        <seg>自訂的線條設定儲存在你個人設定路徑的 /user/config 目錄中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20498,8 +20498,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The .sod file contains custom line formats, the .soe file custom arrows.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T073527Z" creationid="Jeff Huang" creationdate="20171228T073527Z">
-        <seg>.sod 檔案包含了自訂的線條格式，而 .soe 檔案則是自訂箭頭。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055530Z" creationid="Jeff Huang" creationdate="20171228T073527Z">
+        <seg>.sod 檔包含自訂的線條格式，而 .soe 檔則包含自訂的箭頭。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20659,8 +20659,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;D&lt;/f0&gt;rawing tool bar also has block arrows that you can group with a line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T071811Z" creationid="Jeff Huang" creationdate="20171228T071811Z">
-        <seg>繪圖工具列也有您可以使用線條分組的區塊箭頭。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055417Z" creationid="Jeff Huang" creationdate="20171228T071811Z">
+        <seg>繪圖工具列中也有個可當作線條使用的箭號圖案。</seg>
       </tuv>
     </tu>
     <tu>
