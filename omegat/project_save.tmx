@@ -937,8 +937,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Line: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;A connector with a small segment at each end for adding a change of direction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043043Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;每個端點都有一小部份用來加入方向變更的連接線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061923Z" creationid="Jeff Huang" creationdate="20171229T020029Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;線條：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;每個端點都有一小段加入方向變更指示的連接線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5396,8 +5396,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;A Standard connector is useful in crowded hierarchical diagrams, in which several objects are subordinate to one above them, such as directors below executive officers in a company chart.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043033Z" creationid="Jeff Huang" creationdate="20171229T015813Z">
-        <seg>&lt;f2&gt;標準連接線在擁擠的分層圖中很有用，在這種分層圖中，可能會有幾個物件從屬於其上的物件，如執行長下的處長等等。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061756Z" creationid="Jeff Huang" creationdate="20171229T015813Z">
+        <seg>&lt;f2&gt;標準連接線在擁擠的階層圖中很有用，在這種階層圖中，可能會有好幾個物件從屬於上面的物件，例如公司組織圖中執行長下的處長等。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
