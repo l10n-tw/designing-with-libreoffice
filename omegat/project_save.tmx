@@ -21860,6 +21860,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The frame sets how the object is placed on the page, as well as how it interacts with other elements in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124527Z" creationid="zerng07" creationdate="20180130T124527Z">
+        <seg>外框會設定這個物件要怎麼放置在頁面上，以及它怎麼和文件中的其餘元素互動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The frames on slide layouts can be adjusted by dragging on their edges with the mouse.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T073934Z" creationid="Franklin Weng" creationdate="20180120T064847Z">
