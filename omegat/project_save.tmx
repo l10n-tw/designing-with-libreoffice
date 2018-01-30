@@ -5120,6 +5120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Often, you don’t need to understand them, because &lt;/f1&gt;Writer adds frames automatically to contain objects &lt;f2&gt;such as images&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T114347Z" creationid="zerng07" creationdate="20180130T114347Z">
+        <seg>&lt;f1&gt;一般你不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框以包住物件，&lt;f2&gt;例如影像&lt;/f2&gt;物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;S&lt;/f1&gt;tyles &lt;f2&gt;shared by&lt;/f2&gt; the template and the document are updated, &lt;f3&gt;but&lt;/f3&gt; &lt;f4&gt;styles that are only in the document a&lt;/f4&gt;re not.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144942Z" creationid="Franklin Weng" creationdate="20171212T115515Z">
