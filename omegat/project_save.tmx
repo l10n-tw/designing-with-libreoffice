@@ -6929,8 +6929,8 @@
       <tuv lang="EN">
         <seg>Add text to each object.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135601Z" creationid="Jeff Huang" creationdate="20180111T135601Z">
-        <seg>新增文字到每個物件中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T081925Z" creationid="Jeff Huang" creationdate="20180111T135601Z">
+        <seg>加入文字到各個物件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9713,8 +9713,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Copy and position each flow chart element as needed, making one column for &lt;f0&gt;Decisions&lt;/f0&gt; (diamonds) and another for &lt;f1&gt;Actions&lt;/f1&gt; (large rounded squares).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135457Z" creationid="Jeff Huang" creationdate="20180111T135457Z">
-        <seg>根據需要來定位每個流程圖元素，建立一欄供&lt;f0&gt;決策&lt;/f0&gt;（菱形）使用，再建立另一個給&lt;f1&gt;動作&lt;/f1&gt;（大的圓角正方形）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T081903Z" creationid="Jeff Huang" creationdate="20180111T135457Z">
+        <seg>根據需要來複製各個流程圖元素然後放置定位，建立一直欄供&lt;f0&gt;決策&lt;/f0&gt;（菱形）使用，再建立另一欄給&lt;f1&gt;動作&lt;/f1&gt;（大的圓角方形）使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14572,8 +14572,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In LibreOffice versions prior to 4.4, adding text requires creating text boxes and positioning them inside the flow chart elements, grouping them for &lt;t0/&gt;convenience.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135740Z" creationid="Jeff Huang" creationdate="20180111T135740Z">
-        <seg>在 LibreOffice 4.4 前的版本，新增文字需要建立文字方塊並將它們定位至流程圖的元素中，然後再將它們組成群組以方便使用。&lt;t0/&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082013Z" creationid="Jeff Huang" creationdate="20180111T135740Z">
+        <seg>在LibreOffice 4.4以前的版本，加入文字還需要建立文字方塊，並將它們放定位到流程圖的元素內，然後再將它們合成群組以便使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14797,8 +14797,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In either case, you may come to appreciate the advantages of styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T110741Z" creationid="Jeff Huang" creationdate="20180111T135243Z">
-        <seg>無論在哪種狀況中，你都可以體會到樣式的優點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T081801Z" creationid="Jeff Huang" creationdate="20180111T135243Z">
+        <seg>無論在哪種狀況下，你都可以體會到樣式的優點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24383,8 +24383,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Use the grid to help keep elements horizontally and vertically aligned.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T135542Z" creationid="Jeff Huang" creationdate="20180111T135542Z">
-        <seg>使用網格來協助元素水平及垂直對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T081914Z" creationid="Jeff Huang" creationdate="20180111T135542Z">
+        <seg>使用網格來協助元素維持水平及垂直對齊。</seg>
       </tuv>
     </tu>
     <tu>
