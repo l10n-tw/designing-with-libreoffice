@@ -1127,6 +1127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;nchor the image in the header &lt;f1&gt;or footer&lt;/f1&gt;, but place &lt;f2&gt;the image&lt;/f2&gt; outside the header &lt;f3&gt;or footer,&lt;/f3&gt; &lt;f4&gt;setting the anchor to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;As Paragraph&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;As Character.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; You can then position the image anywhere on the page, and it will be repeated each time the page style is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T061252Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
+        <seg>將圖片定錨於頁首&lt;f1&gt;或頁尾&lt;/f1&gt;，但將&lt;f2&gt;圖片&lt;/f2&gt;置於頁首&lt;f3&gt;頁尾之外，&lt;/f3&gt;&lt;f4&gt;設定錨點為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;依段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;或&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;依章節。&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Acceptable color may also depend to a degree on culture, era, and the principles of different design schools.&lt;/f0&gt; &lt;f1&gt;However, certain contexts are more likely to need adjustments in line spacing than others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140206Z" creationid="Franklin Weng" creationdate="20180105T144405Z">
