@@ -1812,16 +1812,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object styles (also known as Image styles and formerly as Graphic styles)&lt;/f0&gt; define the characteristics of a &lt;f1&gt;d&lt;/f1&gt;rawing object in Draw or Impress.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T074536Z" creationid="Jeff Huang" creationdate="20171220T074347Z">
-        <seg>&lt;f0&gt;繪圖樣式（也被稱為影像樣式，或是更早之前稱為圖形樣式）&lt;/f0&gt;在 Draw 或 Impress 中定義了繪圖物件的特徵。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031543Z" creationid="Jeff Huang" creationdate="20171220T074347Z">
+        <seg>&lt;f0&gt;繪圖樣式（也被稱為影像樣式，或是更早之前稱為圖形樣式）&lt;/f0&gt;定義了Draw或Impress中繪圖物件的特徵。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Drawing Object&lt;/f0&gt; &lt;f1&gt;styles and charts&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T051509Z" creationid="Jeff Huang" creationdate="20171220T074159Z">
-        <seg>&lt;f0&gt;繪圖物件&lt;/f0&gt;&lt;f1&gt;樣式與圖表&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031512Z" creationid="Jeff Huang" creationdate="20171220T074159Z">
+        <seg>&lt;f0&gt;繪圖樣式&lt;/f0&gt;&lt;f1&gt;與圖表&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22725,8 +22725,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They are not available in any other LibreOffice application, even though you can use the Drawing tool bar to add manually many types of &lt;f2&gt;d&lt;/f2&gt;rawing objects in Writer and Calc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171220T074846Z" creationid="Jeff Huang" creationdate="20171220T074846Z">
-        <seg>雖然你可以在 Writer 與 Calc 中使用繪圖工具列來繪製物件，但這些功能並未在其他 LibreOffice 應用程式中出現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031836Z" creationid="Jeff Huang" creationdate="20171220T074846Z">
+        <seg>雖然你也可以在Writer和Calc中使用繪圖工具列手動加入繪圖物件，但繪圖樣式在Draw和Impress以外都不能使用。</seg>
       </tuv>
     </tu>
     <tu>
