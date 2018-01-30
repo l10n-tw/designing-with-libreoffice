@@ -5260,8 +5260,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;They keep objects attached to each other even when one is moved.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171229T014810Z" creationid="Jeff Huang" creationdate="20171229T014810Z">
-        <seg>&lt;f1&gt;即便物件移動了，它們也可以讓兩個物件保持連接狀態。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061035Z" creationid="Jeff Huang" creationdate="20171229T014810Z">
+        <seg>&lt;f1&gt;即便其中一個物件移動了，它們也可以繼續保持物件相連。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23469,8 +23469,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To add a connector, click the &lt;f0&gt;Connector&lt;/f0&gt; button on the Drawing tool bar (the eighth from the left).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043022Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
-        <seg>要新增連接線，在繪圖工具列上點選&lt;f0&gt;連接線&lt;/f0&gt;按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061145Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
+        <seg>若要新增連接線，在左方繪圖工具列中點選「&lt;f0&gt;連接線&lt;/f0&gt;」按鈕（由上往下第九個圖示）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25735,8 +25735,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can choose between four kinds of connector:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T043025Z" creationid="Jeff Huang" creationdate="20171229T015000Z">
-        <seg>你可以從四種連接線中任選一種：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061258Z" creationid="Jeff Huang" creationdate="20171229T015000Z">
+        <seg>你可以從四類連接線中任選一類：</seg>
       </tuv>
     </tu>
     <tu>
