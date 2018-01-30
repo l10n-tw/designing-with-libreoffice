@@ -4977,8 +4977,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;In particular, the Draw and Impress version has &lt;/f1&gt;&lt;f2&gt;Connectors&lt;/f2&gt; and &lt;f3&gt;Arrow&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034152Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
-        <seg>&lt;f1&gt;特別是Draw和Impress的版本中有&lt;/f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;與&lt;f3&gt;箭頭&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034530Z" creationid="Jeff Huang" creationdate="20171220T075504Z">
+        <seg>&lt;f1&gt;例如，Draw和Impress的版本中有&lt;/f1&gt;&lt;f2&gt;連接線&lt;/f2&gt;與&lt;f3&gt;箭頭&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20428,8 +20428,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That means, &lt;f2&gt;for example,&lt;/f2&gt; that the pre-defined &lt;f3&gt;Object with Shadow &lt;/f3&gt;style &lt;f4&gt;can format &lt;/f4&gt;both a rectangle and &lt;f5&gt;shapes that are identical except for dimensions.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180121T052636Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
-        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它可以同時對一個矩形和&lt;f5&gt;除了大小以外都全等的形狀&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040245Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
+        <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它可以同時對一個矩形和&lt;f5&gt;除了大小以外都全等的形狀&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;？？？？。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22782,8 +22782,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>They are not available in any other LibreOffice application, even though you can use the Drawing tool bar to add manually many types of &lt;f2&gt;d&lt;/f2&gt;rawing objects in Writer and Calc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031927Z" creationid="Jeff Huang" creationdate="20171220T074846Z">
-        <seg>雖然你也可以在Writer和Calc中使用繪圖工具列手動加入繪圖物件，但繪圖樣式只要是Draw和Impress以外都一樣不能使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T034442Z" creationid="Jeff Huang" creationdate="20171220T074846Z">
+        <seg>雖然你也可以在Writer和Calc中使用繪圖工具列手動加入繪圖物件，但繪圖樣式只要是Draw和Impress以外都不能使用。</seg>
       </tuv>
     </tu>
     <tu>
