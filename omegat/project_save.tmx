@@ -833,8 +833,8 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;Formatting an object's area means choosing a fill for it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072848Z" creationid="Jeff Huang" creationdate="20171229T035109Z">
-        <seg>&lt;/f6&gt;對物件的區塊做格式設定的意思是，選擇用什麼樣式填入這個區塊裡面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072900Z" creationid="Jeff Huang" creationdate="20171229T035109Z">
+        <seg>&lt;/f6&gt;對物件的區塊做格式設定的意思是，選擇用什麼格式填入這個區塊裡面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4241,8 +4241,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To add a fill, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and select the tab for the type of fill you want to add.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100201Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
-        <seg>&lt;f0&gt;要新增填充格式，到選單中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並選取你想要新增的填充類型的標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072936Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
+        <seg>&lt;f0&gt;若要新增填入格式，前往選單中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;，並選取你想要新增的填入類型的標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18845,8 +18845,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See Chapter 13 for more details.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T100246Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
-        <seg>詳情可以看第 13 章。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T073013Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
+        <seg>詳情請見〈第13章〉。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
