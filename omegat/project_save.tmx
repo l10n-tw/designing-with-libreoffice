@@ -4591,8 +4591,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Watermark:&lt;/f0&gt; Frames that position a graphic behind text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135115Z" creationid="zerng07" creationdate="20180130T135115Z">
-        <seg>&lt;f0&gt;水印 (Watermark)：&lt;/f0&gt;將圖形放置在文字後方的外框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140021Z" creationid="zerng07" creationdate="20180130T135115Z">
+        <seg>&lt;f0&gt;水印 (Watermark)：&lt;/f0&gt;將圖形放置在文字背後的外框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5893,8 +5893,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;In this way, a document can be easily updated, and used in different situations.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132723Z" creationid="zerng07" creationdate="20180130T132723Z">
-        <seg>&lt;f3&gt;藉由這種方式，文件可以輕鬆更新，也能用於各種不同情況。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140010Z" creationid="zerng07" creationdate="20180130T132723Z">
+        <seg>&lt;f3&gt;藉由這種方法，文件可以輕鬆更新，也能用在不同的情況上。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21423,6 +21423,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T072753Z" creationid="Jeff Huang" creationdate="20180118T133134Z">
         <seg>Writer與Calc的繪圖工具列有自由線條的單獨按鈕，但是在Draw與Impress中，它們是&lt;f2&gt;曲線&lt;/f2&gt;按鈕中的一個選項。（現在5.4以後相反過來了，在Draw和Impress中，曲線按鈕是自由線條按鈕中的一個選項，記得改寫。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The addition of graphics and other objects is often an after-thought of writing, done with minimal thought about layout.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140350Z" creationid="zerng07" creationdate="20180130T140350Z">
+        <seg>圖形與其他物件，通常是寫作事後才加入，而且很少會想怎麼配置版面。</seg>
       </tuv>
     </tu>
     <tu>
