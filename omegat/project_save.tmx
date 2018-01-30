@@ -2641,8 +2641,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In most cases, i&lt;/f0&gt;gnore all except &lt;f1&gt;Font color&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101737Z" creationid="Jeff Huang" creationdate="20180104T075636Z">
-        <seg>&lt;f0&gt;在大多數的情況下，&lt;/f0&gt;你可以忽略除了「&lt;f1&gt;字型色彩&lt;/f1&gt;」以外的項目。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075146Z" creationid="Jeff Huang" creationdate="20180104T075636Z">
+        <seg>&lt;f0&gt;在大多數的情況下，&lt;/f0&gt;你可以忽略「&lt;f1&gt;字型色彩&lt;/f1&gt;」以外的所有項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24359,8 +24359,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Use indentations, especially for the first line, instead of tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101759Z" creationid="Jeff Huang" creationdate="20180104T080014Z">
-        <seg>特別是在首行，請使用縮排而不要用定位字元。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075308Z" creationid="Jeff Huang" creationdate="20180104T080014Z">
+        <seg>尤其是第一行，請用縮排功能不要用Tab鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26644,8 +26644,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,” &lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101441Z">
-        <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,” &lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075105Z">
+        <seg>〈&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;〉，&lt;f1&gt;第&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;頁。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
