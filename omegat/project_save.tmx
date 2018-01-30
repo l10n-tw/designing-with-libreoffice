@@ -5666,6 +5666,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Often, they will be all you need anyway.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131715Z" creationid="zerng07" creationdate="20180130T131715Z">
+        <seg>&lt;f2&gt;一般而言，預先定義樣式幾乎就能滿足你的需求。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Other word processors certainly do not make the same association.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T084938Z" creationid="Jeff Huang" creationdate="20180124T084938Z">
@@ -8327,6 +8335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102949Z" creationid="zerng07" creationdate="20180123T102949Z">
         <seg>因為商業出版物很常使用兩端對齊，使用者也同樣認為這樣看起來很專業。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because of the problems that sometimes occur with &lt;f0&gt;f&lt;/f0&gt;rame styles, creating custom styles is best avoided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131518Z" creationid="zerng07" creationdate="20180130T131518Z">
+        <seg>因為外框樣式偶爾會出問題，所以最好避免自行建立自訂樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15404,6 +15420,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, stick with editing the pre-defined &lt;f1&gt;f&lt;/f1&gt;rame styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131636Z" creationid="zerng07" creationdate="20180130T131636Z">
+        <seg>相反的，固定編輯預先定義的外框樣式吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, the &lt;f3&gt;attention turns&lt;/f3&gt; &lt;f4&gt;from formatting &lt;/f4&gt;to &lt;f5&gt;structuring content&lt;/f5&gt; – often, to the challenge of &lt;f6&gt;avoiding designing&lt;/f6&gt; a slide show that &lt;f7&gt;is all summary, so that you are constantly twisting your head away from the audience to read directly from the slides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T155847Z" creationid="Franklin Weng" creationdate="20180106T124220Z">
@@ -22146,6 +22170,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033503Z" creationid="Jeff Huang" creationdate="20180127T033503Z">
         <seg>標籤頁上最有用的大概是&lt;f0&gt;離內容的間距，&lt;/f0&gt;如果使用邊框會使得頁首與頁尾看起來過於狹窄，這時候你就應該使用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names of &lt;f0&gt;some&lt;/f0&gt; pre-defined frame styles are self-explanatory, &lt;f1&gt;such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Graphics&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Labels&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, and&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; Formula&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131853Z" creationid="zerng07" creationdate="20180130T131853Z">
+        <seg>&lt;f0&gt;有些&lt;/f0&gt;預先定義的外框樣式看名稱就能望文生義，&lt;f1&gt;例如「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;圖形&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」、「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;標籤&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」、「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; 公式&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」等。&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
