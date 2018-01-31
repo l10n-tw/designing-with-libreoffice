@@ -2397,6 +2397,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, we do know that, b&lt;/f0&gt;y the mid-&lt;f1&gt;t&lt;/f1&gt;wentieth century, bulleted lists became popular in technical documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T131641Z" creationid="Jeff Huang" creationdate="20180131T131641Z">
+        <seg>&lt;f0&gt;不過，我們知道&lt;/f0&gt;，到了二十世紀中葉，項目編號清單在技術文件中開始流行起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, you can also import bitmap formats such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.jpeg&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.png, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;which store information as pixels, from editors like &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;GIMP&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T162316Z" creationid="Jeff Huang" creationdate="20180116T030740Z">
@@ -26024,6 +26032,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022855Z" creationid="zerng07" creationdate="20180122T022855Z">
         <seg>Writer的「&lt;f0&gt;&lt;f1&gt;行距&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;欄位&lt;/f2&gt;放在各個段落樣式的「&lt;f3&gt;縮排和間距&lt;/f3&gt;」標籤頁中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer’s pre-defined bullet types.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T131418Z" creationid="Jeff Huang" creationdate="20180131T131418Z">
+        <seg>Writer的預定義項目符號類型。</seg>
       </tuv>
     </tu>
     <tu>
