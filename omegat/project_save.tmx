@@ -12819,6 +12819,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have three points or more.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T134351Z" creationid="Jeff Huang" creationdate="20180131T134351Z">
+        <seg>有三點或更多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Head&lt;f0&gt;ers&lt;/f0&gt; and footers are spaces at the top and bottom of the page &lt;f1&gt;that contain&lt;/f1&gt; document information.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130905Z" creationid="Jeff Huang" creationdate="20180126T130905Z">
@@ -21293,6 +21301,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124624Z" creationid="Jeff Huang" creationdate="20180125T124624Z">
         <seg>&lt;f0&gt;格式&lt;/f0&gt;欄位將會自動變更為&lt;f1&gt;使用者。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;HTML&lt;/f0&gt; tag for bullet lists, &lt;f1&gt;&lt;ul&gt;&lt;/f1&gt; (unordered list), emphasizes this convention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T133800Z" creationid="Jeff Huang" creationdate="20180131T133800Z">
+        <seg>&lt;f0&gt;HTML&lt;/f0&gt;的項目清單標籤，&lt;f1&gt;&lt;ul&gt;&lt;/f1&gt;（無序清單，unordered list），強調了此慣例。</seg>
       </tuv>
     </tu>
     <tu>
