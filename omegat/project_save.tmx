@@ -4726,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Writer’s separate l&lt;/f0&gt;ist styles ha&lt;f1&gt;ve&lt;/f1&gt; several advantages:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083041Z" creationid="Jeff Huang" creationdate="20180131T083041Z">
+        <seg>Writer將清單樣式分開列出來有幾個優點：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;XY (Scatter): &lt;/f0&gt;&lt;f1&gt;A type of chart for comparing the results of two or more trials of an experiment.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092308Z" creationid="Jeff Huang" creationdate="20180113T133329Z">
@@ -16543,6 +16551,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T043613Z" creationid="zerng07" creationdate="20171224T043613Z">
         <seg>清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lists have more formatting choices, which would be harder to offer if all the choices were squeezed into a single tab for paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083237Z" creationid="Jeff Huang" creationdate="20180131T083237Z">
+        <seg>清單有更多的格式選擇，如果所有選項都被壓縮到一個單獨的段落樣式標籤頁中，那就不會提供這麼多選項了。</seg>
       </tuv>
     </tu>
     <tu>
