@@ -1488,6 +1488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;By contrast,&lt;/f0&gt; bullets take up more space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T125610Z" creationid="Jeff Huang" creationdate="20180131T125610Z">
+        <seg>&lt;f0&gt;相較之下，&lt;/f0&gt;項目符號佔據了更多空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By contrast&lt;/f0&gt;, if you &lt;f1&gt;choose &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Keep Old Styles,&lt;/f3&gt;&lt;/f2&gt; it is unlinked from the template, and you are not prompted for further updates &lt;f4&gt;when&lt;/f4&gt; the template changes again.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150042Z" creationid="Franklin Weng" creationdate="20171212T120053Z">
