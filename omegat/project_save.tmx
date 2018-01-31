@@ -2871,6 +2871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Lists&lt;/f0&gt; and &lt;f1&gt;tables&lt;/f1&gt; are sometimes called structured prose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081103Z" creationid="Jeff Huang" creationdate="20180131T081103Z">
+        <seg>&lt;f0&gt;清單&lt;/f0&gt;與&lt;f1&gt;表格&lt;/f1&gt;又稱為結構化的散文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;acros and extensions &lt;f1&gt;are sometimes&lt;/f1&gt; available for re-attaching styles to a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151511Z" creationid="Franklin Weng" creationdate="20171212T124353Z">
@@ -20431,6 +20439,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Structured prose: lists &lt;f0&gt;and&lt;/f0&gt; tables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081024Z" creationid="Jeff Huang" creationdate="20180131T081024Z">
+        <seg>結構化散文：清單&lt;f0&gt;與&lt;/f0&gt;表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Structured prose: lists and tables</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081009Z" creationid="Jeff Huang" creationdate="20180131T081009Z">
@@ -22322,6 +22338,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033503Z" creationid="Jeff Huang" creationdate="20180127T033503Z">
         <seg>標籤頁上最有用的大概是&lt;f0&gt;離內容的間距，&lt;/f0&gt;如果使用邊框會使得頁首與頁尾看起來過於狹窄，這時候你就應該使用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The name &lt;f2&gt;contrasts them to the relative formlessness of body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081309Z" creationid="Jeff Huang" creationdate="20180131T081309Z">
+        <seg>這個名稱&lt;f2&gt;與相對來說較無固定結構的正文而言形成了對比。</seg>
       </tuv>
     </tu>
     <tu>
