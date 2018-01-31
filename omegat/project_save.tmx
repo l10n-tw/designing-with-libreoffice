@@ -8819,6 +8819,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bullet lists: &lt;f0&gt;U&lt;/f0&gt;nordered lists whose items start with a bullet, special character, dingbat, or graphic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T090052Z" creationid="Jeff Huang" creationdate="20180131T090052Z">
+        <seg>項目符號清單：以項目符號、特殊字元、雜錦圖或其他圖案開始的無序清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But &lt;f1&gt;this new work flow &lt;/f1&gt;rapidly repays the effort to change &lt;f2&gt;your work habits.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102437Z" creationid="Franklin Weng" creationdate="20171212T101046Z">
@@ -24564,6 +24572,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Understanding the type&lt;f0&gt;s&lt;/f0&gt; of list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T084134Z" creationid="Jeff Huang" creationdate="20180131T084134Z">
+        <seg>熟悉清單類型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Understanding their behaviors is essential for working with all styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T104135Z" creationid="zerng07" creationdate="20171225T104135Z">
@@ -25765,6 +25781,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175021Z" creationid="zerng07" creationdate="20171226T091928Z">
         <seg>甚至在外框樣式和頁面樣式下，這個預覽可說是令人分心（？5.4 在外框樣式和頁面樣式下已經沒有這個預覽）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With list styles, you can create:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T084202Z" creationid="Jeff Huang" creationdate="20180131T084202Z">
+        <seg>使用清單樣式，你可以建立：</seg>
       </tuv>
     </tu>
     <tu>
