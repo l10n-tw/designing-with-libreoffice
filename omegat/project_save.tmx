@@ -5362,6 +5362,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;This extra space is no problem online, but can add to the pages and therefore the expense of hard copy.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081540Z" creationid="Jeff Huang" creationdate="20180131T081540Z">
+        <seg>&lt;f1&gt;額外的空間對線上文件來說並沒有什麼問題，但對於紙本來說會增加印刷費用。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;This key combination creates a conditional hyphen that only comes into play when it is in the hyphenation zone near the right margin.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075433Z" creationid="zerng07" creationdate="20180125T044408Z">
@@ -15163,6 +15171,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most word processors, list options are included in paragraph styles, while table &lt;f0&gt;styles&lt;/f0&gt; are not &lt;f1&gt;provided &lt;/f1&gt;at all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081722Z" creationid="Jeff Huang" creationdate="20180131T081722Z">
+        <seg>在大多數的文字處理程式中，清單選項包含在段落樣式中，但完全不&lt;f1&gt;提供&lt;/f1&gt;表格&lt;f0&gt;樣式&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other cases, the free fonts are inspired by their proprietary counterparts, but the designer never intended exact copies, &lt;/f0&gt;and the most you can expect is a general resemblance&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100504Z" creationid="Jeff Huang" creationdate="20180115T070939Z">
@@ -20455,6 +20471,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Structured text is eas&lt;f0&gt;y&lt;/f0&gt; to read, but takes up more space than body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081403Z" creationid="Jeff Huang" creationdate="20180131T081403Z">
+        <seg>結構化的文字較容易閱讀，但與內文相比佔據了較多空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Study how the fonts you choose work together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T164211Z" creationid="Franklin Weng" creationdate="20180105T120527Z">
@@ -22344,8 +22368,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The name &lt;f2&gt;contrasts them to the relative formlessness of body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081309Z" creationid="Jeff Huang" creationdate="20180131T081309Z">
-        <seg>這個名稱&lt;f2&gt;與相對來說較無固定結構的正文而言形成了對比。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081412Z" creationid="Jeff Huang" creationdate="20180131T081309Z">
+        <seg>這個名稱&lt;f2&gt;與相對來說較無固定結構的內文而言形成了對比。</seg>
       </tuv>
     </tu>
     <tu>
