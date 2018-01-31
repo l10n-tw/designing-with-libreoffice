@@ -1015,6 +1015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A &lt;/f0&gt;paragraph’s list style &lt;f1&gt;can be &lt;/f1&gt;changed with a single selection.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083427Z" creationid="Jeff Huang" creationdate="20180131T083427Z">
+        <seg>段落的清單樣式&lt;f1&gt;可以&lt;/f1&gt;單段變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A custom style that is no longer needed can be deleted using the &lt;/f0&gt;right-click menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032808Z" creationid="zerng07" creationdate="20171227T032215Z">
@@ -22717,6 +22725,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T075110Z" creationid="Franklin Weng" creationdate="20171231T124016Z">
         <seg>而輪廓字型&lt;f1&gt;，只有文字外框輪廓的空心字型&lt;/f1&gt;也是一樣，字型名稱會寫明Outline。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same list style can be used with multiple paragraph styles, &lt;f0&gt;avoiding duplication of design work.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083347Z" creationid="Jeff Huang" creationdate="20180131T083347Z">
+        <seg>相同的清單樣式可以用於多個段落樣式，&lt;f0&gt;避免設計工作重覆。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
