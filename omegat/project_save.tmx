@@ -21490,8 +21490,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Next &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;f3&gt; fie&lt;/f3&gt;ld over-rides the &lt;f4&gt;Page Layout&lt;/f4&gt; field on the &lt;f5&gt;Page&lt;/f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T125235Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;下一個&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式&lt;/f2&gt;欄位會優先於&lt;f5&gt;頁面&lt;/f5&gt;標籤頁中的&lt;f4&gt;版面配置欄位&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T101934Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;下一個&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式&lt;/f2&gt;」欄位的設定會凌駕「&lt;f5&gt;頁面&lt;/f5&gt;」標籤頁中的[&lt;f4&gt;版面配置欄位&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
