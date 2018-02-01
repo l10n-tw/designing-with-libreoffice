@@ -2817,8 +2817,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep this default arrangement, and &lt;/f0&gt;you should only have to think about setting page styles when you do something unusual, such as adding a &lt;f1&gt;l&lt;/f1&gt;andscape page to an otherwise &lt;f2&gt;p&lt;/f2&gt;ortrait-oriented document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102612Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
-        <seg>&lt;f0&gt;維持這項預設安排，&lt;/f0&gt;你應該只在你要做一些不尋常的事情，例如新增一頁橫向頁面到一份縱向文件中時，才需考慮改這些頁面樣式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102627Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
+        <seg>&lt;f0&gt;維持這項預設安排，&lt;/f0&gt;你應該只在你要做一些不常見的事情，例如新增一頁橫向頁面到一份縱向文件中時，才需考慮改這些頁面樣式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15557,8 +15557,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In other non-standard cases, you might create a paragraph style that is set on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab to start a new page with a particular style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T132240Z" creationid="Jeff Huang" creationdate="20180124T132240Z">
-        <seg>在其他非標準的狀況下，你可能會建立設定在&lt;f0&gt;文字流&lt;/f0&gt;標籤頁上的段落樣式以使用特定的樣式來開始新頁面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T103006Z" creationid="Jeff Huang" creationdate="20180124T132240Z">
+        <seg>在其他非標準的情況下，你可以建立一個段落樣式讓它的「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁以特定樣式開始新頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15749,8 +15749,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In these unusual circumstances, select &lt;f3&gt;Insert &gt; &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Manual Break &gt; Page Break&lt;/f5&gt; &lt;f6&gt;and select the appropriate page style.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T131954Z" creationid="Jeff Huang" creationdate="20180124T131532Z">
-        <seg>在這些不尋常的狀況下，選取&lt;f3&gt;「插入 &gt; &lt;/f3&gt;&lt;f5&gt;手動分隔 &gt; 分頁」&lt;/f5&gt;&lt;f6&gt;並選取適當的頁面樣式。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102722Z" creationid="Jeff Huang" creationdate="20180124T131532Z">
+        <seg>在這類不尋常的狀況下，選取「&lt;f3&gt;插入 &gt; &lt;/f3&gt;&lt;f5&gt;手動分隔 &gt; 分頁&lt;/f5&gt;&lt;f6&gt;」，並選取適當的頁面樣式。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
