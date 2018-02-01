@@ -1073,8 +1073,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A top margin that is 76&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;230 points taller than the top margin on a normal right page&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
-        <seg>&lt;f0&gt;頁面頂部邊距會比在一般的右頁上高76&lt;/f0&gt;至&lt;f2&gt;230點。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112836Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
+        <seg>&lt;f0&gt;頁面的上邊距會比一般的右頁還要高76&lt;/f0&gt;至&lt;f2&gt;230點。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3769,8 +3769,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes, the main indicator of a first page may be a different header or footer from the rest of the pages &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; or perhaps the only ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033031Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
-        <seg>&lt;f0&gt;有時候，第一頁的主要指標可能是與剩餘的頁面相異的頁首或頁尾&lt;/f0&gt;，&lt;f2&gt;也可能是唯一的一個。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112735Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
+        <seg>&lt;f0&gt;有時候，第一頁的主要指標可能是使用和其餘頁面不同的頁首或頁尾&lt;/f0&gt;——&lt;f2&gt;或者是唯一的指標。</seg>
       </tuv>
     </tu>
     <tu>
