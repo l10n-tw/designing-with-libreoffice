@@ -4284,8 +4284,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Page Layout&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field may be over-ridden by the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Next style &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;field on the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Organizer&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030106Z" creationid="Jeff Huang" creationdate="20180126T030106Z">
-        <seg>&lt;f1&gt;&lt;f2&gt;頁面的版面配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位可能會被&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;統籌概覽&lt;/f8&gt;&lt;/f7&gt;標籤頁中的&lt;f4&gt;&lt;f5&gt;下一個樣&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位所覆蓋。&lt;f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140127Z" creationid="Jeff Huang" creationdate="20180126T030106Z">
+        <seg>「&lt;f1&gt;&lt;f2&gt;頁面的版面配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位可能會被「&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;統籌概覽&lt;/f8&gt;&lt;/f7&gt;」標籤頁中的「&lt;f4&gt;&lt;f5&gt;下一個樣式&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位設定凌駕。&lt;f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,8 +18446,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Ordinarily, this over-ride would mean that you could ignore the&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Page Layout &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030225Z" creationid="Jeff Huang" creationdate="20180126T030225Z">
-        <seg>因此，通常你可以忽略&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;頁面的版面配置&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140216Z" creationid="Jeff Huang" creationdate="20180126T030225Z">
+        <seg>因此，通常你可以忽略「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;頁面的版面配置&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
