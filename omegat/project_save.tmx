@@ -17453,6 +17453,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No punctuation, commas, semi-colons, and periods are all &lt;f0&gt;valid&lt;/f0&gt; choices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T030828Z" creationid="Jeff Huang" creationdate="20180201T030828Z">
+        <seg>沒有標點符號、逗號、分號與句號都是&lt;f0&gt;可行&lt;/f0&gt;的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No quotation marks are used, since the indentation is enough to &lt;f1&gt;mark&lt;/f1&gt; is a quotation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131819Z" creationid="Franklin Weng" creationdate="20180126T131819Z">
