@@ -520,8 +520,8 @@
       <tuv lang="EN">
         <seg>&lt;/f18&gt;Then &lt;f19&gt;click&lt;/f19&gt; the &lt;f20&gt;Insert&lt;/f20&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T135702Z" creationid="Jeff Huang" creationdate="20180127T135702Z">
-        <seg>然後&lt;f19&gt;點按&lt;/f19&gt;&lt;f20&gt;插入&lt;/f20&gt;按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141828Z" creationid="Jeff Huang" creationdate="20180127T135702Z">
+        <seg>&lt;/f18&gt;然後&lt;f19&gt;點按&lt;/f19&gt;&lt;f20&gt;插入&lt;/f20&gt;按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5911,8 +5911,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Other word processors certainly do not make the same association.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T060318Z" creationid="Jeff Huang" creationdate="20180124T084938Z">
-        <seg>&lt;f2&gt;其他的文書處理器確實不會認為之間有什麼關聯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142411Z" creationid="Jeff Huang" creationdate="20180124T084938Z">
+        <seg>&lt;f2&gt;其他的文書處理器確實不認為這之間有什麼關聯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15440,8 +15440,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In fact, they frequently offer no sense at all of what the page looks like.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T075752Z" creationid="Jeff Huang" creationdate="20180124T085032Z">
-        <seg>事實上，這些處理器通常對頁面外觀應該要怎樣完全沒概念。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142347Z" creationid="Jeff Huang" creationdate="20180124T085032Z">
+        <seg>事實上，這些處理器通常對頁面外觀應該要長怎樣完全沒概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16421,8 +16421,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Learn to accept it, and possibilities open up that are not available in manual formatting – not the least of which are increased ease of use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T081225Z" creationid="Jeff Huang" creationdate="20180124T090824Z">
-        <seg>學習接受它，就會開啟各種用手動格式設定做不到的事情的可能性——其中一項就是提升了易用性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142458Z" creationid="Jeff Huang" creationdate="20180124T090824Z">
+        <seg>學習接受它，就會開啟各種用手動格式設定做不到的事情的可能性——其中一項就是提升了方便性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19712,8 +19712,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;More Fields&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Document &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Page &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; Page Numbers&lt;/f18&gt; &lt;f19&gt;(or simply &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Insert &gt; Fields &gt; Page Number&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;) to add the page number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141531Z" creationid="Jeff Huang" creationdate="20180129T034536Z">
-        <seg>選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面 &gt; 頁碼&lt;/f0&gt;&lt;f19&gt;」（或是「&lt;/f19&gt;&lt;f20&gt;插入 &gt; 欄位 &gt; 頁碼&lt;/f20&gt;&lt;f19&gt;&lt;f22&gt;」也可以）以新增頁碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141820Z" creationid="Jeff Huang" creationdate="20180129T034536Z">
+        <seg>選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面 &gt; 頁碼&lt;/f0&gt;&lt;f19&gt;」（或是「&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;插入 &gt; 欄位 &gt; 頁碼&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;」也可以）以新增頁碼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19721,8 +19721,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More &gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Chapter &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Number&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T135414Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
-        <seg>選取&lt;f0&gt;「插入&lt;/f0&gt; &gt; &lt;f3&gt;欄位&lt;/f3&gt; &gt; &lt;f6&gt;文件&lt;/f6&gt; &gt; &lt;f10&gt;&lt;f11&gt;更多 &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;章節&lt;/f12&gt; &gt; &lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;編號&lt;/f17&gt;&lt;/f16&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141949Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
+        <seg>選取&lt;f0&gt;「插入&lt;/f0&gt; &gt; &lt;f3&gt;欄位&lt;/f3&gt; &gt; &lt;f6&gt;文件&lt;/f6&gt; &gt; &lt;f10&gt;&lt;f11&gt;更多 &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;章節&lt;/f12&gt; &gt; &lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;編號&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26341,8 +26341,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Why, many ask, should page numbers &lt;f1&gt;or footers and headers &lt;/f1&gt;be associated with pages?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T055851Z" creationid="Jeff Huang" creationdate="20180124T084700Z">
-        <seg>就像很多人會問，頁碼&lt;f1&gt;或頁首和頁尾&lt;/f1&gt;和頁面之間有什麼關聯？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142357Z" creationid="Jeff Huang" creationdate="20180124T084700Z">
+        <seg>就像很多人會問，頁碼&lt;f1&gt;或頁首和頁尾&lt;/f1&gt;和頁面之間到底有什麼關聯？</seg>
       </tuv>
     </tu>
     <tu>
@@ -27163,8 +27163,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can use a single footer, then unselect the check boxes &lt;f0&gt;&lt;f1&gt;Same content left/right&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;and &lt;f3&gt;&lt;f4&gt;Same content on first page &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;rather than designing each page style&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;separately&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T133415Z" creationid="Jeff Huang" creationdate="20180126T133415Z">
-        <seg>你可以使用單一頁尾，然後取消選取&lt;f0&gt;&lt;f1&gt;左右頁內容相同&lt;/f1&gt;&lt;/f0&gt;勾選框與&lt;f3&gt;&lt;f4&gt;首頁內容相同&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;而不是把每個頁面都分開設計&lt;/f5&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142226Z" creationid="Jeff Huang" creationdate="20180126T133415Z">
+        <seg>你可以使用單一頁尾，然後取消選取&lt;f0&gt;&lt;f1&gt;左右頁內容相同&lt;/f1&gt;&lt;/f0&gt;勾選框與&lt;f3&gt;&lt;f4&gt;首頁內容相同&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;而不是把每個頁面都分開設計&lt;/f5&gt;&lt;f9&gt;&lt;f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
