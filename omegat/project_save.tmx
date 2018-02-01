@@ -5111,6 +5111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;However, these rules are not fixed.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T075752Z" creationid="Jeff Huang" creationdate="20180201T075752Z">
+        <seg>&lt;f1&gt;不過，這些規則並沒有那麼死板。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;ts front page includes a list of the most recently uploaded fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
@@ -15611,6 +15619,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In technical manuals, you used to see multiple levels in a heading (for instance, I.A.2 or 1.1.1).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T080103Z" creationid="Jeff Huang" creationdate="20180201T080103Z">
+        <seg>在技術手冊中，你可能會在標題中看到多個層級（如I.A.2或1.1.1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the case of pictures, you may want to vary the spacing to avoid extra large gaps.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T033912Z" creationid="zerng07" creationdate="20180123T033912Z">
@@ -23654,6 +23670,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T162303Z" creationid="Franklin Weng" creationdate="20180107T064148Z">
         <seg>這些準則將投影片的使用時機限制在：你要傳遞的資訊很難用其他方式表達，得像古早的講師用燈泡式投影機加透明投影片那樣才比較有效的情況下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These headings have largely fallen out of practice except in a few specialized cases such as legal documents, for the obvious reason that they are hard to remember.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T080328Z" creationid="Jeff Huang" creationdate="20180201T080328Z">
+        <seg>除了法律文件等一些特殊的例子以外，這些標題實際上幾乎沒有人在用了，因為它們太難以記住了。</seg>
       </tuv>
     </tu>
     <tu>
