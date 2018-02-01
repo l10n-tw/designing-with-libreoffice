@@ -945,8 +945,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Mirrored: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;The page style is used for both left and right pages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134153Z" creationid="Jeff Huang" creationdate="20180125T133425Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;左右頁相反 (Mirrored)：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;頁面樣式可以同時用於左右兩頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T135237Z" creationid="Jeff Huang" creationdate="20180125T133425Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;左右頁相反 (Mirrored)：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;頁面樣式同時用於左右兩頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -977,8 +977,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Right and Left: T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;he page style is used for both right and left pages.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T135443Z" creationid="Jeff Huang" creationdate="20180125T135235Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;左右頁相同：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;頁面樣式同時用於左右兩頁。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T135219Z" creationid="Jeff Huang" creationdate="20180125T135235Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;左右頁相同&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：頁面樣式同時用於左右兩頁。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
