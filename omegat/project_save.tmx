@@ -4507,6 +4507,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Understanding&lt;/f0&gt; numbered lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031542Z" creationid="Jeff Huang" creationdate="20180201T031542Z">
+        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;編號清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; tables</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093028Z" creationid="Jeff Huang" creationdate="20180121T125122Z">
@@ -4681,6 +4689,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002941Z" creationid="zerng07" creationdate="20180123T102443Z">
         <seg>&lt;f0&gt;不管你的對齊方式為何，如果你的英語文件有在用斷字樣式的話，至少要在出版前的最後一步&lt;/f0&gt;執行過「&lt;f1&gt; 工具 &gt; 語言 &gt; 斷字處理&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When in doubt, avoid them.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031524Z" creationid="Jeff Huang" creationdate="20180201T031524Z">
+        <seg>&lt;f0&gt;如果沒辦法確定的話就不要用吧。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25980,6 +25996,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143959Z" creationid="Franklin Weng" creationdate="20171212T114845Z">
         <seg>不管你用什麼範本，都要&lt;f0&gt;先完成範本註冊才能開始使用。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While people number lists all the time, the convention is that numbered lists &lt;f0&gt;should only be used&lt;/f0&gt; when the order of the information matters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031753Z" creationid="Jeff Huang" creationdate="20180201T031753Z">
+        <seg>雖然人們一直在將清單加上編號，但慣例是僅在資訊的順序很重要的時候&lt;f0&gt;才使用&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
