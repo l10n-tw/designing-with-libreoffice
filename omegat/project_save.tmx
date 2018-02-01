@@ -17449,8 +17449,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Most printers will print non-standard page dimensions on whatever size they support.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124824Z" creationid="Jeff Huang" creationdate="20180125T124824Z">
-        <seg>不管印表機支援哪些大小，其大多數都可以列印非標準的頁面尺寸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113922Z" creationid="Jeff Huang" creationdate="20180125T124824Z">
+        <seg>印表機大多數都可以列印非標準的頁面尺寸，無論它本身支援哪些紙張大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20624,8 +20624,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some printers may not &lt;t0/&gt;print non-standard dimensions at all from LibreOffice, but will support printing if you first &lt;f1&gt;ex&lt;/f1&gt;port the document to PDF, &lt;f2&gt;especially if they support PostScript format.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125045Z" creationid="Jeff Huang" creationdate="20180125T125045Z">
-        <seg>有一些印標機可能無法從LibreOffice列印非標準的尺寸，但如果你先將文件匯出為PDF就可能會支援，&lt;f2&gt;特別是如果它們支援PostScript格式時。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114036Z" creationid="Jeff Huang" creationdate="20180125T125045Z">
+        <seg>有些印標機可能真的無法從LibreOffice列印非標準的尺寸，但如果你先將文件匯出為PDF卻可能支援，&lt;f2&gt;尤其是它們有支援PostScript格式的時候。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21646,8 +21646,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Format&lt;/f0&gt; field changes automatically to &lt;f1&gt;User.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124624Z" creationid="Jeff Huang" creationdate="20180125T124624Z">
-        <seg>&lt;f0&gt;格式&lt;/f0&gt;欄位將會自動變更為&lt;f1&gt;使用者。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113822Z" creationid="Jeff Huang" creationdate="20180125T124624Z">
+        <seg>「&lt;f0&gt;格式&lt;/f0&gt;」欄位將會自動變更為「&lt;f1&gt;使用者&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24600,8 +24600,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To define your own page dimensions, start with any page size, and manually change the width and height.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T124433Z" creationid="Jeff Huang" creationdate="20180125T124433Z">
-        <seg>要定義你自己的頁面尺寸，請從任意頁面大小開始，然後手動變更寬度與高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113806Z" creationid="Jeff Huang" creationdate="20180125T124433Z">
+        <seg>若要定義你自己的紙張尺寸，請從任意頁面大小開始，然後手動變更紙張的寬度與高度。</seg>
       </tuv>
     </tu>
     <tu>
