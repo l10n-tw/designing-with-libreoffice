@@ -10992,6 +10992,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each step can have multiple paragraphs, most of them unnumbered, describing what happens when it is performed or the alternatives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T034743Z" creationid="Jeff Huang" creationdate="20180201T034743Z">
+        <seg>每個步驟都可以有多個段落，其中大部份都是沒有編號的，描述了執行時的狀況或是其他選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each top outline heading is a new slide, the others a bullet point on the slide.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T163450Z" creationid="Franklin Weng" creationdate="20180109T130743Z">
