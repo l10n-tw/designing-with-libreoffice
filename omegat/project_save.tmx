@@ -2817,8 +2817,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep this default arrangement, and &lt;/f0&gt;you should only have to think about setting page styles when you do something unusual, such as adding a &lt;f1&gt;l&lt;/f1&gt;andscape page to an otherwise &lt;f2&gt;p&lt;/f2&gt;ortrait-oriented document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102627Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
-        <seg>&lt;f0&gt;維持這項預設安排，&lt;/f0&gt;你應該只在你要做一些不常見的事情，例如新增一頁橫向頁面到一份縱向文件中時，才需考慮改這些頁面樣式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142806Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
+        <seg>&lt;f0&gt;維持這項預設安排，&lt;/f0&gt;你應該只在你要做一些不常見的事情，例如新增一頁橫向頁面到一份縱向文件中時，才需考慮更改這些頁面樣式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15752,8 +15752,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In these unusual circumstances, select &lt;f3&gt;Insert &gt; &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Manual Break &gt; Page Break&lt;/f5&gt; &lt;f6&gt;and select the appropriate page style.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102722Z" creationid="Jeff Huang" creationdate="20180124T131532Z">
-        <seg>在這類不尋常的狀況下，選取「&lt;f3&gt;插入 &gt; &lt;/f3&gt;&lt;f5&gt;手動分隔 &gt; 分頁&lt;/f5&gt;&lt;f6&gt;」，並選取適當的頁面樣式。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142810Z" creationid="Jeff Huang" creationdate="20180124T131532Z">
+        <seg>在這類不尋常的狀況下，選取「&lt;f3&gt;插入 &gt; &lt;/f3&gt;&lt;f5&gt;手動分隔 &gt; 分頁&lt;/f5&gt;&lt;f6&gt;」，並選擇適當的頁面樣式。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22851,8 +22851,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The most basic pattern is &lt;f0&gt;defined&lt;/f0&gt; for you: a &lt;f1&gt;l&lt;/f1&gt;eft &lt;f2&gt;p&lt;/f2&gt;age is followed by a &lt;f3&gt;r&lt;/f3&gt;ight &lt;f4&gt;p&lt;/f4&gt;age, and a &lt;f5&gt;r&lt;/f5&gt;ight &lt;f6&gt;p&lt;/f6&gt;age by a &lt;f7&gt;l&lt;/f7&gt;eft &lt;f8&gt;p&lt;/f8&gt;age&lt;f9&gt;.&lt;/f9&gt; If you use a &lt;f10&gt;First Page&lt;/f10&gt; &lt;f11&gt;style&lt;/f11&gt;, its &lt;f12&gt;Next &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;style&lt;/f14&gt;&lt;/f13&gt; &lt;f15&gt;f&lt;/f15&gt;ield &lt;f16&gt;defaults &lt;/f16&gt;to &lt;f17&gt;Left Page&lt;/f17&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T091427Z" creationid="Jeff Huang" creationdate="20180124T124656Z">
-        <seg>最基本的模式已經先為你&lt;f0&gt;定義好了&lt;/f0&gt;：左頁後會跟著右頁，右頁後又會跟著左頁。如果你使用了「&lt;f10&gt;第一頁&lt;/f10&gt; &lt;f11&gt;」樣式&lt;/f11&gt;，它的「&lt;f12&gt;下一個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;樣式&lt;/f14&gt;&lt;/f13&gt;欄」位&lt;f16&gt;預設&lt;/f16&gt;為「&lt;f17&gt;左頁&lt;/f17&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142751Z" creationid="Jeff Huang" creationdate="20180124T124656Z">
+        <seg>最基本的模式已經先為你&lt;f0&gt;定義好了&lt;/f0&gt;：左頁後會跟著右頁，右頁後又會跟著左頁。如果你使用了「&lt;f10&gt;第一頁&lt;/f10&gt; &lt;f11&gt;」樣式&lt;/f11&gt;，它的「&lt;f12&gt;下一個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;樣式&lt;/f14&gt;&lt;/f13&gt;」欄位&lt;f16&gt;預設&lt;/f16&gt;為「&lt;f17&gt;左頁&lt;/f17&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23052,8 +23052,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The only times this approach works &lt;f0&gt;reliably&lt;/f0&gt; is when manual or automatic pages clearly mark the start and the end &lt;f1&gt;of a page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T084406Z" creationid="Jeff Huang" creationdate="20180124T094158Z">
-        <seg>這種方法唯一能&lt;f0&gt;可靠&lt;/f0&gt;作用的時機，是手動頁面或自動頁面有清楚標記頁面起始與結束的時候&lt;f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142651Z" creationid="Jeff Huang" creationdate="20180124T094158Z">
+        <seg>這種方法唯一能&lt;f0&gt;可靠&lt;/f0&gt;作用的時刻，是手動頁面或自動頁面有清楚標記頁面起始與結束的時候&lt;f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24905,8 +24905,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Traditionally, a document’s first page is a &lt;f0&gt;r&lt;/f0&gt;ight page, modified to make clear that it is the start.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111953Z" creationid="Jeff Huang" creationdate="20180124T092229Z">
-        <seg>傳統上，左翻文本的第一頁在右頁，左翻文本則從左頁開始。修改成書本檢視後，就很清楚文本起頭的頁面了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142545Z" creationid="Jeff Huang" creationdate="20180124T092229Z">
+        <seg>傳統上，左翻文本的第一頁在右頁，右翻文本則從左頁開始。修改成書本檢視後，就很清楚文本起頭的頁面了。</seg>
       </tuv>
     </tu>
     <tu>
