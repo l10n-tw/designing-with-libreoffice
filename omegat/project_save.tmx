@@ -1065,8 +1065,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A title page is often centered, and in a larger font size than the body text.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T134053Z" creationid="Jeff Huang" creationdate="20180124T134053Z">
-        <seg>&lt;f0&gt;標題頁通常會置中，且文字大小會大於正文。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104328Z" creationid="Jeff Huang" creationdate="20180124T134053Z">
+        <seg>&lt;f0&gt;書名頁通常文字置中，且字的大小大於正文。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,8 +4686,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Usually, an epigraph is indented vertically and horizontally.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T134345Z" creationid="Jeff Huang" creationdate="20180124T134345Z">
-        <seg>&lt;f0&gt;通常文件開頭的那一句話都會有垂直與水平縮排。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104532Z" creationid="Jeff Huang" creationdate="20180124T134345Z">
+        <seg>&lt;f0&gt;通常，卷首語都會有垂直與水平縮排。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7081,8 +7081,8 @@
       <tuv lang="EN">
         <seg>A title page with the title and author’s name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133609Z" creationid="Jeff Huang" creationdate="20180124T133954Z">
-        <seg>含有書名和作者名字的書名頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104247Z" creationid="Jeff Huang" creationdate="20180124T133954Z">
+        <seg>寫上書名和作者姓名的書名頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,8 +7761,8 @@
       <tuv lang="EN">
         <seg>An epigraph, or short quote at the start of the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T134244Z" creationid="Jeff Huang" creationdate="20180124T134244Z">
-        <seg>在文件開頭的一句話或簡短的引言。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104437Z" creationid="Jeff Huang" creationdate="20180124T134244Z">
+        <seg>在文本開始前的題詞，或簡短的引文。</seg>
       </tuv>
     </tu>
     <tu>
