@@ -19712,8 +19712,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;More Fields&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Document &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Page &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; Page Numbers&lt;/f18&gt; &lt;f19&gt;(or simply &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Insert &gt; Fields &gt; Page Number&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;) to add the page number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034536Z" creationid="Jeff Huang" creationdate="20180129T034536Z">
-        <seg>選取&lt;f0&gt;「插入&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f7&gt;&lt;f8&gt;更多欄位&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;文件&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt; &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;頁面&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;頁碼」&lt;/f18&gt;&lt;f19&gt;（或是&lt;/f19&gt;&lt;f20&gt;「插入 &gt; 欄位 &gt; 頁碼」&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;也可以）以新增頁碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141531Z" creationid="Jeff Huang" creationdate="20180129T034536Z">
+        <seg>選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面 &gt; 頁碼&lt;/f0&gt;&lt;f19&gt;」（或是「&lt;/f19&gt;&lt;f20&gt;插入 &gt; 欄位 &gt; 頁碼&lt;/f20&gt;&lt;f19&gt;&lt;f22&gt;」也可以）以新增頁碼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22305,8 +22305,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called&lt;f3&gt; Chapter Number&lt;/f3&gt; is less conf&lt;f4&gt;using.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134550Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
-        <seg>預設值為&lt;f1&gt;標題 1，&lt;/f1&gt;但&lt;f2&gt;標題&lt;/f2&gt;或稱為&lt;f3&gt;章節編號&lt;/f3&gt;的自訂樣式較不易使人困惑。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141241Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
+        <seg>預設值為&lt;f1&gt;標題 1，&lt;/f1&gt;但&lt;f2&gt;標題&lt;/f2&gt;或稱為&lt;f3&gt;章節編號&lt;/f3&gt;的自訂樣式較不易使人困惑。</seg>
       </tuv>
     </tu>
     <tu>
