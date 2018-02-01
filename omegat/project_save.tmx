@@ -2391,8 +2391,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, in some versions of LibreOffice, some combinations may cause blank pages or other formatting problems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030351Z" creationid="Jeff Huang" creationdate="20180126T030351Z">
-        <seg>&lt;f0&gt;不過，在某些版本的LibreOffice中，特定的結合方式可能會導致空白頁或是其他的格式問題的產生。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140245Z" creationid="Jeff Huang" creationdate="20180126T030351Z">
+        <seg>&lt;f0&gt;不過，在某些版本的LibreOffice中，特定的設定組合可能會導致空白頁，或是產生其他格式問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12527,8 +12527,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For this reason, you should make sure that no conflicts exist, such as a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Next style &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;field that forces a page style set to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left only&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to appear on a right page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030654Z" creationid="Jeff Huang" creationdate="20180126T030654Z">
-        <seg>因此，你應該確保這兩個設定沒有衝突，例如讓&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;僅左頁&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;出現在右頁上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140338Z" creationid="Jeff Huang" creationdate="20180126T030654Z">
+        <seg>因此，你應該確保這兩個設定沒有互相衝突，例如讓「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位中的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;僅左頁&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」出現在右頁上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17185,8 +17185,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Margins &lt;f0&gt;are set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Page&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of a page style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030957Z" creationid="Jeff Huang" creationdate="20180126T030957Z">
-        <seg>邊距&lt;f0&gt;是在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;頁面&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中的頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140504Z" creationid="Jeff Huang" creationdate="20180126T030957Z">
+        <seg>邊距&lt;f0&gt;是在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;頁面&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中設定的頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18574,8 +18574,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Otherwise, a page style created in one &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;version of LibreOffice may not display as you intended in another version.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T030830Z" creationid="Jeff Huang" creationdate="20180126T030830Z">
-        <seg>否則在特定的LibreOffice版本中建立的頁面樣式&lt;/f6&gt;&lt;f8&gt;可能無法在其他版本中如你所預期的那樣顯示。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140404Z" creationid="Jeff Huang" creationdate="20180126T030830Z">
+        <seg>否則在某個LibreOffice版本中建立的頁面樣式&lt;/f6&gt;&lt;f8&gt;，可能無法在其他版本中如你所預期的那樣顯示。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
