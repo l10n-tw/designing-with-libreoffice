@@ -2769,8 +2769,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In theory, y&lt;/f0&gt;ou can change the style of the page at any time by placing the cursor on a page and making a selection from the &lt;f1&gt;Styles and Formatting &lt;/f1&gt;window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093352Z" creationid="Jeff Huang" creationdate="20180124T093352Z">
-        <seg>&lt;f0&gt;理論上，&lt;/f0&gt;你隨時都可以將游標置於頁面上並從&lt;f1&gt;樣式與格式&lt;/f1&gt;視窗中選取，以便隨時改變格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083956Z" creationid="Jeff Huang" creationdate="20180124T093352Z">
+        <seg>&lt;f0&gt;理論上，&lt;/f0&gt;你隨時都可以將游標放在某一頁上，接著從「&lt;f1&gt;樣式和格式&lt;/f1&gt;」視窗中選取頁面樣式做修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17166,8 +17166,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Master documents automatically add blank pages so that chapters will start with a &lt;f3&gt;r&lt;/f3&gt;ight page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T093043Z" creationid="Jeff Huang" creationdate="20180124T093043Z">
-        <seg>主控文件會自動新增空白頁面以讓章節從右手邊的頁面開始。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083743Z" creationid="Jeff Huang" creationdate="20180124T093043Z">
+        <seg>主控文件會自動新增空白頁來讓每一章都能從右頁開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24308,8 +24308,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This tradition also means that &lt;f0&gt;r&lt;/f0&gt;ight pages are &lt;f1&gt;usually&lt;/f1&gt; odd numbered, and &lt;f2&gt;l&lt;/f2&gt;eft pages even numbered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T092958Z" creationid="Jeff Huang" creationdate="20180124T092958Z">
-        <seg>這個傳統也代表了右手邊的頁面頁碼&lt;f1&gt;通常&lt;/f1&gt;為偶數，而左手邊的則為奇數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083658Z" creationid="Jeff Huang" creationdate="20180124T092958Z">
+        <seg>這個傳統也代表右頁的頁碼&lt;f1&gt;通常&lt;/f1&gt;是奇數，而左頁則為偶數。</seg>
       </tuv>
     </tu>
     <tu>
