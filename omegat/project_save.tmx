@@ -7500,8 +7500,8 @@
       <tuv lang="EN">
         <seg>All page format&lt;f0&gt;s&lt;/f0&gt; assume a single sheet of paper.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125221Z" creationid="Jeff Huang" creationdate="20180125T125221Z">
-        <seg>所有的頁面格式都假設有單張紙。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114119Z" creationid="Jeff Huang" creationdate="20180125T125221Z">
+        <seg>所有的頁面格式都假定使用單張的紙張。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13673,8 +13673,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, printing multiple pages to a sheet is more economical if you are using a large commercial printer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125413Z" creationid="Jeff Huang" creationdate="20180125T125413Z">
-        <seg>不過，如果你使用的是大型的商用印表機的話，一張紙上面列印多頁可能會比較經濟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114146Z" creationid="Jeff Huang" creationdate="20180125T125413Z">
+        <seg>不過，如果你用的是大型商用印表機的話，一張紙上面列印多頁可能比較經濟點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27098,8 +27098,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can set up multiple page sheet printing through&lt;f1&gt; File &gt; Print&lt;/f1&gt;, or else by &lt;f2&gt;using&lt;/f2&gt; text frames &lt;f3&gt;instead of pages.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125635Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
-        <seg>你可以透過&lt;f1&gt;「檔案 &gt; 列印」&lt;/f1&gt;，或是&lt;f2&gt;使用&lt;/f2&gt;文字框架&lt;f3&gt;而不是頁面&lt;/f3&gt;來設定一張紙上面印出多頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114333Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
+        <seg>你可以透過&lt;f1&gt;「檔案 &gt; 列印」&lt;/f1&gt;，或是&lt;f2&gt;使用&lt;/f2&gt;文字外框&lt;f3&gt;而不是頁面&lt;/f3&gt;的做法，讓一張紙張印上多頁。</seg>
       </tuv>
     </tu>
     <tu>
