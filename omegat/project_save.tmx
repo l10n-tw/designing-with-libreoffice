@@ -2817,8 +2817,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep this default arrangement, and &lt;/f0&gt;you should only have to think about setting page styles when you do something unusual, such as adding a &lt;f1&gt;l&lt;/f1&gt;andscape page to an otherwise &lt;f2&gt;p&lt;/f2&gt;ortrait-oriented document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T131633Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
-        <seg>&lt;f0&gt;保留這種預設的排列，&lt;/f0&gt;你應該僅在當你在做一些不尋常的事情，如新增橫向頁面到與肖像相關的文件中時，才需考慮另外設定頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102612Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
+        <seg>&lt;f0&gt;維持這項預設安排，&lt;/f0&gt;你應該只在你要做一些不尋常的事情，例如新增一頁橫向頁面到一份縱向文件中時，才需考慮改這些頁面樣式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12147,8 +12147,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if a page is set to &lt;f6&gt;Left Only,&lt;/f6&gt; the &lt;f7&gt;&lt;f8&gt;Next &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Style&lt;/f9&gt;&lt;f10&gt; fie&lt;/f10&gt;ld allows you to use it as right page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T130539Z" creationid="Jeff Huang" creationdate="20180124T130539Z">
-        <seg>舉例來說，若頁面被設定為&lt;f6&gt;僅左頁&lt;/f6&gt;，&lt;f7&gt;&lt;f8&gt;下一個&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;樣式&lt;/f9&gt;欄位會讓你可以使用右頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102244Z" creationid="Jeff Huang" creationdate="20180124T130539Z">
+        <seg>舉例來說，就算頁面的版面配置被設定為「&lt;f6&gt;僅左頁&lt;/f6&gt;」，「&lt;f7&gt;&lt;f8&gt;下一個&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;樣式&lt;/f9&gt;」欄位依然讓你可以使用右頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15621,8 +15621,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In some LibreOffice versions, a conflicting next style and page layout may cause layout problems, so make the two fields consistent.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T130850Z" creationid="Jeff Huang" creationdate="20180124T130850Z">
-        <seg>在部份的LibreOffice版本中，若下一個樣式與版面配置相衝突可能會造成問題，所以最好讓這兩個欄位保持一致。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102322Z" creationid="Jeff Huang" creationdate="20180124T130850Z">
+        <seg>在部份的LibreOffice版本中，若下一個樣式與頁面的版面配置相衝突可能會造成問題，所以還是讓這兩個欄位保持一致最好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21490,8 +21490,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Next &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;f3&gt; fie&lt;/f3&gt;ld over-rides the &lt;f4&gt;Page Layout&lt;/f4&gt; field on the &lt;f5&gt;Page&lt;/f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102121Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
-        <seg>「&lt;f0&gt;&lt;f1&gt;下一個&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式&lt;/f2&gt;」欄位的設定會凌駕「&lt;f5&gt;頁面&lt;/f5&gt;」標籤頁中的「&lt;f4&gt;頁面的版面配置&lt;/f4&gt;」欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102205Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;下一個&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式&lt;/f2&gt;」欄位的設定凌駕「&lt;f5&gt;頁面&lt;/f5&gt;」標籤頁中的「&lt;f4&gt;頁面的版面配置&lt;/f4&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
