@@ -4284,8 +4284,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Page Layout&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field may be over-ridden by the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Next style &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;field on the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Organizer&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140127Z" creationid="Jeff Huang" creationdate="20180126T030106Z">
-        <seg>「&lt;f1&gt;&lt;f2&gt;頁面的版面配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位可能會被「&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;統籌概覽&lt;/f8&gt;&lt;/f7&gt;」標籤頁中的「&lt;f4&gt;&lt;f5&gt;下一個樣式&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位設定凌駕。&lt;f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141140Z" creationid="Jeff Huang" creationdate="20180126T030106Z">
+        <seg>「&lt;f1&gt;&lt;f2&gt;頁面的版面配置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位可能會被「&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;統籌概覽&lt;/f8&gt;&lt;/f7&gt;」標籤頁中的「&lt;f4&gt;&lt;f5&gt;下一個樣式&lt;/f5&gt;&lt;/f4&gt;」欄位設定凌駕。&lt;f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10204,8 +10204,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create a user-defined page format with a width of 595 points, and &lt;f0&gt;a height 792 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T132535Z" creationid="Jeff Huang" creationdate="20180125T132037Z">
-        <seg>以寬度595點，高度792點建立使用者定義的頁面格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141056Z" creationid="Jeff Huang" creationdate="20180125T132037Z">
+        <seg>以寬度595點，高度792點建立使用者定義的&lt;f0&gt;頁面格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23671,8 +23671,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These are the smallest &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;measurements of the two formats.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T132632Z" creationid="Jeff Huang" creationdate="20180125T132139Z">
-        <seg>&lt;f0&gt;這是根據兩個格式&lt;/f0&gt;&lt;f2&gt;長寬的較短邊結合而成。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141100Z" creationid="Jeff Huang" creationdate="20180125T132139Z">
+        <seg>這是根據兩個格式&lt;/f0&gt;&lt;f2&gt;長寬的較短邊結合而成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26994,8 +26994,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can get a spread view by &lt;f0&gt;selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Book View&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from&lt;/f3&gt; the zoom controls at the bottom right of the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111947Z" creationid="Jeff Huang" creationdate="20180124T092110Z">
-        <seg>你可以&lt;f0&gt;選取&lt;/f0&gt;編輯視窗中，右下角的遠近調整控制項之「&lt;f1&gt;&lt;f2&gt;書本檢視&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」以書本式雙頁查閱你的文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141024Z" creationid="Jeff Huang" creationdate="20180124T092110Z">
+        <seg>你可以&lt;f0&gt;選取&lt;/f0&gt;編輯視窗中，右下角的遠近調整控制項之「&lt;f1&gt;&lt;f2&gt;書本檢視&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;」以書本式雙頁查閱你的文件。</seg>
       </tuv>
     </tu>
     <tu>
