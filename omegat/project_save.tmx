@@ -2559,6 +2559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If the order is irrelevant, use bullet lists instead.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032957Z" creationid="Jeff Huang" creationdate="20180201T032957Z">
+        <seg>&lt;f0&gt;如果資訊的順序不重要，請用項目符號清單。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you change the shadow’s position, use the same position for other shadows throughout the document.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T073930Z" creationid="Jeff Huang" creationdate="20180104T055945Z">
@@ -16320,6 +16328,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Learning the conventions of numbered lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032112Z" creationid="Jeff Huang" creationdate="20180201T032112Z">
+        <seg>學習編號清單的慣例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Leave more space below if you have a large signature.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010334Z" creationid="zerng07" creationdate="20180125T101406Z">
@@ -17657,6 +17673,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010015Z" creationid="zerng07" creationdate="20180125T130027Z">
         <seg>現在起，每當你選取「&lt;f5&gt;日期&lt;/f5&gt;」樣式，就會自動採用當時的日期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbered lists have fewer conventions tha&lt;f0&gt;n&lt;/f0&gt; bullet lists, but they do have a few:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032208Z" creationid="Jeff Huang" creationdate="20180201T032208Z">
+        <seg>編號清單的慣例較項目符號清單少，但其還是有一些慣例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23714,6 +23738,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are used when the order of items is important.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032238Z" creationid="Jeff Huang" creationdate="20180201T032238Z">
+        <seg>它們只能在項目順序重要時才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They consist of a line pointing to part of the diagram and a text box, both of which are edited together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074459Z" creationid="Jeff Huang" creationdate="20180118T134311Z">
@@ -26272,6 +26304,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T131418Z" creationid="Jeff Huang" creationdate="20180131T131418Z">
         <seg>Writer的預定義項目符號類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer’s pre-defined numbered lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032047Z" creationid="Jeff Huang" creationdate="20180201T032047Z">
+        <seg>Writer的預定義編號清單。</seg>
       </tuv>
     </tu>
     <tu>
