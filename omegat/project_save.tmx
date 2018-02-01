@@ -11905,6 +11905,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For &lt;t0/&gt;example, “To install the software update, &lt;f1&gt;follow these steps&lt;/f1&gt;:” &lt;f2&gt;or, simply “To install:”&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T034607Z" creationid="Jeff Huang" creationdate="20180201T034607Z">
+        <seg>舉例來說，「要安裝軟體更新，&lt;f1&gt;請遵照以下步驟&lt;/f1&gt;：」&lt;f2&gt;或簡單一點就是「安裝步驟：」&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For &lt;t0/&gt;this reason, setting headings in points as well only makes sense.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120302Z" creationid="Franklin Weng" creationdate="20180101T105148Z">
