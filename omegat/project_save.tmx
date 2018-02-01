@@ -2649,8 +2649,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In a mirrored layout, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inner&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; margin will be on the right side of left pages, but the left side of right pages.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180125T135102Z">
-        <seg>&lt;f0&gt;在鏡射的版面配置中，&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內部&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;邊距將會在左頁的右方，以及右頁的左方。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134722Z" creationid="Jeff Huang" creationdate="20180125T135102Z">
+        <seg>&lt;f0&gt;在左右相反的版面配置中，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」邊距代表左頁的右側，以及右頁的左側。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8616,8 +8616,8 @@
       <tuv lang="EN">
         <seg>Be careful that enough space is allotted so that the binding does not &lt;f0&gt;become so tight that it &lt;/f0&gt;obscure&lt;f1&gt;s&lt;/f1&gt; characters on the inner side of the page &lt;f2&gt;or requires readers to bend the binding to view the complete text.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T134949Z" creationid="Jeff Huang" creationdate="20180125T134949Z">
-        <seg>請小心預留足夠的空間給裝訂使用，&lt;f0&gt;不然裝訂會變得太緊密，&lt;/f0&gt;導致在頁面內緣的文字被遮住&lt;f2&gt;，或是讓讀者要彎折裝訂的地方來檢視完整文字。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134630Z" creationid="Jeff Huang" creationdate="20180125T134949Z">
+        <seg>請小心預留足夠空間給裝訂使用，&lt;f0&gt;不然裝訂處會變得太緊密，&lt;/f0&gt;導致頁面內緣的文字被遮住&lt;f2&gt;，或是讓讀者要彎折裝訂的地方才能看見完整文字。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15207,8 +15207,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In a traditional hard copy book, the inner margin may have extra space so that the book can be bound.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031214Z" creationid="Jeff Huang" creationdate="20180125T134522Z">
-        <seg>在傳統紙本書中，內部邊距可能會有額外的空間來讓書籍可以裝訂。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134508Z" creationid="Jeff Huang" creationdate="20180125T134522Z">
+        <seg>在傳統實體書中，內邊距會有額外空間讓書籍有地方可以裝訂。</seg>
       </tuv>
     </tu>
     <tu>
