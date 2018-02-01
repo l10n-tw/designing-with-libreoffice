@@ -5261,8 +5261,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;LibreOffice does not support crop marks, but you can still cut pages down to size by making careful measurements.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T130038Z" creationid="Jeff Huang" creationdate="20180125T130038Z">
-        <seg>&lt;f1&gt;LibreOffice不支援裁切標記，但你仍然可以透過仔細測量將頁面縮到最小。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114656Z" creationid="Jeff Huang" creationdate="20180125T130038Z">
+        <seg>&lt;f1&gt;LibreOffice不支援裁切標記，但你還是可以自己仔細測量裁切成合適大小。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7476,8 +7476,8 @@
       <tuv lang="EN">
         <seg>All multiple sheets will of course need to be cut &lt;f0&gt;or folded &lt;/f0&gt;later.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T125730Z" creationid="Jeff Huang" creationdate="20180125T125730Z">
-        <seg>而單張多頁當然需要在稍後裁切&lt;f0&gt;或折疊&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114547Z" creationid="Jeff Huang" creationdate="20180125T125730Z">
+        <seg>而單張多頁當然還要事後裁切&lt;f0&gt;或折疊&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27098,8 +27098,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can set up multiple page sheet printing through&lt;f1&gt; File &gt; Print&lt;/f1&gt;, or else by &lt;f2&gt;using&lt;/f2&gt; text frames &lt;f3&gt;instead of pages.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114333Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
-        <seg>你可以透過&lt;f1&gt;「檔案 &gt; 列印」&lt;/f1&gt;，或是&lt;f2&gt;使用&lt;/f2&gt;文字外框&lt;f3&gt;而不是頁面&lt;/f3&gt;的做法，讓一張紙張印上多頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114359Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
+        <seg>你可以透過&lt;f1&gt;「檔案 &gt; 列印」&lt;/f1&gt;，或是&lt;f2&gt;使用&lt;/f2&gt;文字外框&lt;f3&gt;而不是頁面&lt;/f3&gt;的做法，讓一張紙印上多頁。</seg>
       </tuv>
     </tu>
     <tu>
