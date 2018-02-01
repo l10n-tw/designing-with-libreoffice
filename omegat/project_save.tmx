@@ -14134,6 +14134,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they are lists within lists, then the bullet has the same indent as the text in the top level list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T025604Z" creationid="Jeff Huang" creationdate="20180201T025604Z">
+        <seg>如果它們是清單下的清單，項目符號會與其頂級清單中的文字有相同的縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If unit measurements are displayed, changing the unit may be a convenient way of changing the scale of a drawing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060458Z" creationid="Jeff Huang" creationdate="20171228T080444Z">
@@ -20578,6 +20586,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T083800Z" creationid="zerng07" creationdate="20180123T034719Z">
         <seg>在標準的字體排印學做法中，會試圖避免一頁中底部只有一行，稱為「孤兒」(Orphan)，以及避免一頁中頂端只有一行，稱為「寡婦」(Widow)。在LibreOffice中，前者稱為「分頁前孤行」，後者稱為「分頁後寡行」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start with a bullet on the left margin, then indent &lt;f0&gt;for the text&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T025040Z" creationid="Jeff Huang" creationdate="20180201T025040Z">
+        <seg>從左邊距開始的項目符號，然後再讓&lt;f0&gt;文字&lt;/f0&gt;縮排。</seg>
       </tuv>
     </tu>
     <tu>
