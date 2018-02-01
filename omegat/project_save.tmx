@@ -3448,6 +3448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Remember that bullets imply that the order is unimportant.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T073647Z" creationid="Jeff Huang" creationdate="20180201T073647Z">
+        <seg>&lt;f0&gt;請記住，使用項目符號意味著順序並不重要。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Robin Williams.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072008Z" creationid="zerng07" creationdate="20171228T072008Z">
@@ -22172,6 +22180,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The convention&lt;f0&gt;s&lt;/f0&gt; for outline lists &lt;f1&gt;are:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T073703Z" creationid="Jeff Huang" creationdate="20180201T073703Z">
+        <seg>大綱清單的慣例是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cross-reference only displays correctly from the master document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
@@ -25505,6 +25521,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095454Z" creationid="zerng07" creationdate="20180125T085525Z">
         <seg>通常，&lt;f2&gt;用一個行距寬&lt;/f2&gt;（中）&lt;f3&gt;可以避開前述兩種極端狀況。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, a different number&lt;f0&gt;ing system&lt;/f0&gt; is used for each level &lt;f1&gt;to help distinguish them&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T074026Z" creationid="Jeff Huang" creationdate="20180201T074026Z">
+        <seg>一般來說，每個層級會使用不同的&lt;f0&gt;編號系統&lt;/f0&gt;&lt;f1&gt;以協助分辨&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
