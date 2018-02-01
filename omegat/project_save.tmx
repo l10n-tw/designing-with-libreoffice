@@ -929,8 +929,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Layout Settings&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Page&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab set the basic formats for a page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133144Z" creationid="Jeff Huang" creationdate="20180125T133144Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;版面配置&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;位於&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;頁面&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁，可以設定頁面的基本格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134004Z" creationid="Jeff Huang" creationdate="20180125T133144Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;版面配置設定&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」位於「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;頁面&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁中，可以設定頁面的基本格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,8 +945,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Mirrored: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;The page style is used for both left and right pages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T135500Z" creationid="Jeff Huang" creationdate="20180125T133425Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;左右頁相反：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;頁面樣式可以同時用於左右兩頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134153Z" creationid="Jeff Huang" creationdate="20180125T133425Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;左右頁相反 (Mirrored)：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;頁面樣式可以同時用於左右兩頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21469,8 +21469,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Layout &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;setting&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;offers four choices:&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133315Z" creationid="Jeff Huang" creationdate="20180125T133315Z">
-        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;頁面&lt;/f7&gt;&lt;/f6&gt;的&lt;f9&gt;&lt;f10&gt;版面配置&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;設定&lt;/f11&gt;&lt;f14&gt;提供了四種選擇：&lt;/f14&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T134022Z" creationid="Jeff Huang" creationdate="20180125T133315Z">
+        <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;頁面&lt;/f7&gt;&lt;/f6&gt;的「&lt;f9&gt;&lt;f10&gt;版面配置&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;設定&lt;/f11&gt;&lt;f14&gt;」提供了四種選擇：&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
