@@ -3338,8 +3338,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Paper formats are set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Page&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for a style.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091515Z" creationid="Jeff Huang" creationdate="20180125T091515Z">
-        <seg>&lt;f0&gt;頁面格式是在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;頁面&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中設定的樣式。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113436Z" creationid="Jeff Huang" creationdate="20180125T091515Z">
+        <seg>&lt;f0&gt;頁面格式是在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;頁面&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中設定的樣式。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19250,8 +19250,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Regardless of the page size, the standard orientation is portrait (taller than wide).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091915Z" creationid="Jeff Huang" creationdate="20180125T091915Z">
-        <seg>不過不管頁面大小，標準的紙張方向都是縱向。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113647Z" creationid="Jeff Huang" creationdate="20180125T091915Z">
+        <seg>無論頁面大小為何，一般標準的紙張方向都是縱向（長度大於寬度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22080,8 +22080,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The alternative is landscape (wider than tall).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091936Z" creationid="Jeff Huang" creationdate="20180125T091936Z">
-        <seg>替代方案才是橫向。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113732Z" creationid="Jeff Huang" creationdate="20180125T091936Z">
+        <seg>替代方案則是橫向（寬度大於長度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22321,8 +22321,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default page size is usually determined by your locale, and should be changed as necessary for your &lt;f0&gt;needs or &lt;/f0&gt;printer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091615Z" creationid="Jeff Huang" creationdate="20180125T091615Z">
-        <seg>預設頁面大小通常取決於您的語系，並可視你的&lt;f0&gt;需求或&lt;/f0&gt;印表機變更。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113510Z" creationid="Jeff Huang" creationdate="20180125T091615Z">
+        <seg>預設頁面大小通常取決於您的語言和地區文化，並可視你的&lt;f0&gt;需求或&lt;/f0&gt;印表機修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24415,8 +24415,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Throughout much of the world, the standard size is &lt;f1&gt;A4,&lt;/f1&gt; but in North America, the standard size is&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;L&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;etter.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T091811Z" creationid="Jeff Huang" creationdate="20180125T091811Z">
-        <seg>在世界上多數的地方，標準尺寸是&lt;f1&gt;A4，&lt;/f1&gt;不過在北美洲，標準尺寸Letter。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113559Z" creationid="Jeff Huang" creationdate="20180125T091811Z">
+        <seg>世界上的多數地方，標準尺寸是&lt;f1&gt;A4；&lt;/f1&gt;不過在北美洲，標準尺寸是Letter (US)。</seg>
       </tuv>
     </tu>
     <tu>
