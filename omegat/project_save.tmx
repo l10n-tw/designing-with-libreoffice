@@ -2536,8 +2536,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If headers are a different color from body text, you can also use the header color for the background color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035633Z" creationid="Jeff Huang" creationdate="20180125T035633Z">
-        <seg>&lt;f0&gt;如果頁首與正文的色彩不同，你也可以使用頁首色彩來當作背景色彩。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113351Z" creationid="Jeff Huang" creationdate="20180125T035633Z">
+        <seg>&lt;f0&gt;如果頁首與內文的色彩不同，你也可以用頁首色彩作為背景色彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3625,6 +3625,9 @@
       <note>參照錯誤，略過不譯</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113221Z">
+        <seg>&lt;f0&gt;請見〈&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,8 +9996,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Common tactics for indicating a first page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035354Z" creationid="Jeff Huang" creationdate="20180125T035354Z">
-        <seg>指出第一頁常用的策略。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113304Z" creationid="Jeff Huang" creationdate="20180125T035354Z">
+        <seg>第一頁常用的指示策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21724,8 +21727,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Page&lt;/f0&gt; tab for &lt;f1&gt;p&lt;/f1&gt;age styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035835Z" creationid="Jeff Huang" creationdate="20180125T035835Z">
-        <seg>&lt;f0&gt;頁面&lt;/f0&gt;標籤頁是供頁面樣式使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113423Z" creationid="Jeff Huang" creationdate="20180125T035835Z">
+        <seg>「&lt;f0&gt;頁面&lt;/f0&gt;」標籤頁用來處理頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24108,8 +24111,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This indicator is common in fiction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T035235Z" creationid="Jeff Huang" creationdate="20180125T035235Z">
-        <seg>這種指標在小說中很常見。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113128Z" creationid="Jeff Huang" creationdate="20180125T035235Z">
+        <seg>這種指標用法在小說中很常見。</seg>
       </tuv>
     </tu>
     <tu>
