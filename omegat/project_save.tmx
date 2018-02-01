@@ -1722,6 +1722,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Consist of points that are all grammatical completions of the last sentence in the paragraph before them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024318Z" creationid="Jeff Huang" creationdate="20180201T024318Z">
+        <seg>&lt;f0&gt;包含了點的句子都會在段落的最後一句結束時完結其語意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Intersect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115639Z" creationid="Jeff Huang" creationdate="20180122T084245Z">
