@@ -8124,8 +8124,8 @@
       <tuv lang="EN">
         <seg>As a result, the &lt;f0&gt;Next &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt; field on the &lt;f3&gt;Organizer&lt;/f3&gt; tab is &lt;f4&gt;even more&lt;/f4&gt; important for page styles &lt;f5&gt;than for paragraph styles.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T123340Z" creationid="Jeff Huang" creationdate="20180124T123340Z">
-        <seg>因此，在&lt;f3&gt;統籌概覽&lt;/f3&gt;標籤頁中的&lt;f0&gt;下一個&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式&lt;/f2&gt;&lt;/f1&gt;對於頁面樣式來說比&lt;f5&gt;在段落樣式中更重要。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T084634Z" creationid="Jeff Huang" creationdate="20180124T123340Z">
+        <seg>因此，在「&lt;f3&gt;統籌概覽&lt;/f3&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;」對於頁面樣式來說，遠比&lt;f5&gt;段落樣式中更加重要。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22848,8 +22848,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The most basic pattern is &lt;f0&gt;defined&lt;/f0&gt; for you: a &lt;f1&gt;l&lt;/f1&gt;eft &lt;f2&gt;p&lt;/f2&gt;age is followed by a &lt;f3&gt;r&lt;/f3&gt;ight &lt;f4&gt;p&lt;/f4&gt;age, and a &lt;f5&gt;r&lt;/f5&gt;ight &lt;f6&gt;p&lt;/f6&gt;age by a &lt;f7&gt;l&lt;/f7&gt;eft &lt;f8&gt;p&lt;/f8&gt;age&lt;f9&gt;.&lt;/f9&gt; If you use a &lt;f10&gt;First Page&lt;/f10&gt; &lt;f11&gt;style&lt;/f11&gt;, its &lt;f12&gt;Next &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;style&lt;/f14&gt;&lt;/f13&gt; &lt;f15&gt;f&lt;/f15&gt;ield &lt;f16&gt;defaults &lt;/f16&gt;to &lt;f17&gt;Left Page&lt;/f17&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124656Z" creationid="Jeff Huang" creationdate="20180124T124656Z">
-        <seg>最基本的模式已經先為你&lt;f0&gt;定義好了&lt;/f0&gt;：左頁後會跟著右頁，右頁後又會跟著左頁。如果你使用了&lt;f10&gt;第一頁&lt;/f10&gt; &lt;f11&gt;樣式&lt;/f11&gt;，其&lt;f12&gt;下一個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;樣式&lt;/f14&gt;&lt;/f13&gt;欄位&lt;f16&gt;預設&lt;/f16&gt;為&lt;f17&gt;左頁&lt;/f17&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T091427Z" creationid="Jeff Huang" creationdate="20180124T124656Z">
+        <seg>最基本的模式已經先為你&lt;f0&gt;定義好了&lt;/f0&gt;：左頁後會跟著右頁，右頁後又會跟著左頁。如果你使用了「&lt;f10&gt;第一頁&lt;/f10&gt; &lt;f11&gt;」樣式&lt;/f11&gt;，它的「&lt;f12&gt;下一個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;樣式&lt;/f14&gt;&lt;/f13&gt;欄」位&lt;f16&gt;預設&lt;/f16&gt;為「&lt;f17&gt;左頁&lt;/f17&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27264,8 +27264,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You do not want to be continually inserting a page break and selecting a page style as you work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T122837Z" creationid="Jeff Huang" creationdate="20180124T122837Z">
-        <seg>你不會想要在工作中不斷地插入分頁符號與選取頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T084531Z" creationid="Jeff Huang" creationdate="20180124T122837Z">
+        <seg>你不會想在工作時不斷插入分頁符並選取頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
