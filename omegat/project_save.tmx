@@ -7922,6 +7922,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are generally no more than &lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt; &lt;f3&gt;items&lt;/f3&gt; long.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031026Z" creationid="Jeff Huang" creationdate="20180201T031026Z">
+        <seg>一般來說其長度不會超過&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;f3&gt;個項目&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are introduced in the last sentence in the body text above them either without any &lt;f0&gt;punctuation&lt;/f0&gt;, or with a colon.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T135219Z" creationid="Jeff Huang" creationdate="20180131T135219Z">
@@ -17325,6 +17333,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Much longer, and the eas&lt;f4&gt;e&lt;/f4&gt; of reading is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031151Z" creationid="Jeff Huang" creationdate="20180201T031151Z">
+        <seg>如果清單太長就會造成閱讀不易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mul&lt;f0&gt;i&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071716Z" creationid="Jeff Huang" creationdate="20180115T071716Z">
@@ -25449,6 +25465,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170213Z" creationid="zerng07" creationdate="20170817T183908Z">
         <seg>開放文件格式是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What matters is the consistency &lt;f1&gt;of list items and of all lists within the document.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T030946Z" creationid="Jeff Huang" creationdate="20180201T030946Z">
+        <seg>重要是項目符號清單&lt;f1&gt;和文件中的所有清單必須一致。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
