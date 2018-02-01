@@ -12282,6 +12282,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, in a procedure in a technical manual, one step might be impossible – or even dangerous – without doing another one first.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032028Z" creationid="Jeff Huang" creationdate="20180201T032028Z">
+        <seg>舉例來說，在技術手冊裡的其中一個程序，如果隨意挪動執行步驟就會造成無法挽回的後果時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, instead of &lt;f0&gt;letter.ott,&lt;/f0&gt; call your template &lt;f1&gt;personal-letter&lt;/f1&gt; – or, better yet, something &lt;f2&gt;long and exact &lt;/f2&gt;like &lt;f3&gt;personal-letter-&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;formal-structure&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt; &lt;s7/&gt;&lt;f8&gt;The more specific the template’s name, the easier it will be to find when you want it.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083648Z" creationid="Franklin Weng" creationdate="20171213T133143Z">
