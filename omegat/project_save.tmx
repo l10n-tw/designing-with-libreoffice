@@ -384,8 +384,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;A &lt;f1&gt;f&lt;/f1&gt;irst &lt;f2&gt;p&lt;/f2&gt;age is &lt;f3&gt;customarily a&lt;/f3&gt; modified &lt;f4&gt;r&lt;/f4&gt;ight &lt;f5&gt;p&lt;/f5&gt;age&lt;f6&gt;.&lt;/f6&gt; It should be different enough that it is immediately obvious as the start of a new part of the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T032549Z" creationid="Jeff Huang" creationdate="20180125T032549Z">
-        <seg>&lt;/f0&gt;第一頁&lt;f3&gt;通常&lt;/f3&gt;是修改過的右頁。它應該與其他頁面都不相同，讓其為文件的第一頁的事實更明顯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112358Z" creationid="Jeff Huang" creationdate="20180125T032549Z">
+        <seg>&lt;/f0&gt;第一頁&lt;f3&gt;通常&lt;/f3&gt;是客製修改過的右頁。它應該和其他頁面的差異夠大，明顯一看就知道是文本新部分開始的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;No matter how carefully you have developed and modified your template, it is still easy to miss problems &lt;f2&gt;in the&lt;/f2&gt; design unless you look at pages as a whole &lt;f3&gt;–&lt;/f3&gt; or, better, in a two-page spread.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070939Z" creationid="Jeff Huang" creationdate="20171212T034454Z">
-        <seg>&lt;/f1&gt;無論你的範本在製作與修改時有多謹慎，還是可能會遺漏一些設計上的問題，除非你將一頁整體視之——或是更好的做法，在兩頁式書籍版面配置下查看。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111919Z" creationid="Jeff Huang" creationdate="20171212T034454Z">
+        <seg>&lt;/f1&gt;無論你的範本在製作與修改時有多謹慎，還是可能會遺漏一些設計上的問題，除非你將一頁整體視之——或是更好的做法，在兩頁式書本版面配置下查看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4185,8 +4185,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The first page refers not to a title page, but the page on which a document or its first chapter begins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T031933Z" creationid="Jeff Huang" creationdate="20180125T031933Z">
-        <seg>&lt;f0&gt;第一頁指的不是標題頁，而是整份文件或其第一章開始的頁面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112112Z" creationid="Jeff Huang" creationdate="20180125T031933Z">
+        <seg>&lt;f0&gt;第一頁指的不是書名頁，而是文本或其第一章的開始頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,8 +4799,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;While&lt;/f0&gt; your document &lt;f1&gt;may be&lt;/f1&gt; intended to be read online, a two-page spread is &lt;f2&gt;still &lt;/f2&gt;a reasonable view to refer to regularly, because it means that you are less likely to miss any design problems.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T082141Z" creationid="Jeff Huang" creationdate="20180124T091537Z">
-        <seg>&lt;f0&gt;雖然&lt;/f0&gt;你的文件&lt;f1&gt;可能&lt;/f1&gt;想設計成線上閱讀，但兩頁式書籍版面配置&lt;f2&gt;依然&lt;/f2&gt;很適合你參考，因為這樣觀看更能讓你避免漏掉設計問題沒發現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111932Z" creationid="Jeff Huang" creationdate="20180124T091537Z">
+        <seg>&lt;f0&gt;雖然&lt;/f0&gt;你的文件&lt;f1&gt;可能&lt;/f1&gt;想設計成線上閱讀，但兩頁式書本版面配置&lt;f2&gt;依然&lt;/f2&gt;很適合你參考，因為這樣觀看更能讓你避免漏掉設計問題沒發現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11283,8 +11283,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Even more importantly, with wide screen monitors having become universal, a &lt;f0&gt;two-page&lt;/f0&gt; spread is the most economical display of a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T082226Z" creationid="Jeff Huang" creationdate="20180124T091827Z">
-        <seg>更重要的是，隨著寬螢幕的普及，&lt;f0&gt;兩頁&lt;/f0&gt;式書籍版面儼然成為文件最經濟的顯示方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111939Z" creationid="Jeff Huang" creationdate="20180124T091827Z">
+        <seg>更重要的是，隨著寬螢幕的普及，&lt;f0&gt;兩頁&lt;/f0&gt;式書本版面儼然成為文件最經濟的顯示方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24902,8 +24902,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Traditionally, a document’s first page is a &lt;f0&gt;r&lt;/f0&gt;ight page, modified to make clear that it is the start.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083033Z" creationid="Jeff Huang" creationdate="20180124T092229Z">
-        <seg>傳統上，左翻文本的第一頁在右頁，左翻文本則從左頁開始。修改成書籍檢視後，就很清楚文本起頭的頁面了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111953Z" creationid="Jeff Huang" creationdate="20180124T092229Z">
+        <seg>傳統上，左翻文本的第一頁在右頁，左翻文本則從左頁開始。修改成書本檢視後，就很清楚文本起頭的頁面了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26991,8 +26991,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can get a spread view by &lt;f0&gt;selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Book View&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from&lt;/f3&gt; the zoom controls at the bottom right of the editing window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T082603Z" creationid="Jeff Huang" creationdate="20180124T092110Z">
-        <seg>你可以&lt;f0&gt;選取&lt;/f0&gt;編輯視窗中，右下角的遠近調整控制項之「&lt;f1&gt;&lt;f2&gt;書籍檢視&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」以書籍式雙頁查閱你的文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111947Z" creationid="Jeff Huang" creationdate="20180124T092110Z">
+        <seg>你可以&lt;f0&gt;選取&lt;/f0&gt;編輯視窗中，右下角的遠近調整控制項之「&lt;f1&gt;&lt;f2&gt;書本檢視&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」以書本式雙頁查閱你的文件。</seg>
       </tuv>
     </tu>
     <tu>
