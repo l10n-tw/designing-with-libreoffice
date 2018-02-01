@@ -2919,6 +2919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;List styles create an outline method that uses a single paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T072442Z" creationid="Jeff Huang" creationdate="20180201T072442Z">
+        <seg>&lt;f0&gt;清單樣式建立了使用單個段落樣式的大綱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List&lt;/f0&gt; styles can be applied directly to a list, or, more elegantly, &lt;t1/&gt;associated with one or more paragraph styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160409Z" creationid="zerng07" creationdate="20171224T060558Z">
@@ -26360,6 +26368,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142038Z" creationid="Jeff Huang" creationdate="20180118T094157Z">
         <seg>Writer與Calc的版本少了其中&lt;f1&gt;一些&lt;/f1&gt;工具，像是連接線等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer gives several options for outline lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T071513Z" creationid="Jeff Huang" creationdate="20180201T071513Z">
+        <seg>Writer的大綱清單有許多選項。</seg>
       </tuv>
     </tu>
     <tu>
