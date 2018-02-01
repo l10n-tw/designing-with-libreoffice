@@ -25823,6 +25823,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When such a paragraph style is in use, you change the &lt;/f0&gt;level and the numbering by pressing &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Tab&lt;/f2&gt; &lt;f3&gt;key &lt;/f3&gt;to descend a level, and &lt;f4&gt;Shift+Tab&lt;/f4&gt; to &lt;f5&gt;ascend a level&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T072725Z" creationid="Jeff Huang" creationdate="20180201T072725Z">
+        <seg>當使用這種段落樣式時，&lt;/f0&gt;你可以透過按下&lt;f2&gt;Tab&lt;/f2&gt;&lt;f3&gt;鍵&lt;/f3&gt;來降低縮排層級，或是&lt;f4&gt;Shift+Tab&lt;/f4&gt;鍵來&lt;f5&gt;提高層級&lt;/f5&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When that happens, modify the space below the image so that it matches the convention you have set &lt;f0&gt;and leave the paragraph style settings alone.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T034309Z" creationid="zerng07" creationdate="20180123T034309Z">
