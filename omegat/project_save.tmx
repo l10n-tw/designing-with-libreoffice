@@ -2815,6 +2815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;L&lt;/f0&gt;evels can be ordered using Arabic numerals, upper and lower case Roman numerals, &lt;f1&gt;and &lt;/f1&gt;upper and lower case letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T074145Z" creationid="Jeff Huang" creationdate="20180201T074145Z">
+        <seg>不同的層級可以使用阿拉伯數字、大寫與小寫的羅馬數字以及大小寫字母來排序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;ibreOffice sets a &lt;f1&gt;default&lt;/f1&gt; line spacing based on the font size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T133000Z" creationid="Franklin Weng" creationdate="20180105T135634Z">
@@ -25216,6 +25224,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T062404Z" creationid="Jeff Huang" creationdate="20171214T062404Z">
         <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upper case Roman numerals are usually reserved for the top level, and upper case letters &lt;f0&gt;are used before lower case ones&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T074336Z" creationid="Jeff Huang" creationdate="20180201T074336Z">
+        <seg>大寫的羅馬數字通常用於最高層級，而大寫字母&lt;f0&gt;則在小寫字母前使用。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
