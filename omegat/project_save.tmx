@@ -7268,8 +7268,8 @@
       <tuv lang="EN">
         <seg>Add the landscape page &lt;f0&gt;if it is not already in use.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040447Z" creationid="Jeff Huang" creationdate="20180128T040447Z">
-        <seg>&lt;f0&gt;如果還未使用橫向頁面，&lt;/f0&gt;請新增一個。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T155728Z" creationid="Jeff Huang" creationdate="20180128T040447Z">
+        <seg>&lt;f0&gt;如果文件中還沒有橫向頁面，&lt;/f0&gt;請新增一頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22497,8 +22497,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The disadvantage of vertical headers and footers is that page styles do not automatically repeat them on every instance of a page style, the way th&lt;f0&gt;ey do&lt;/f0&gt; horizontal &lt;f1&gt;ones&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145040Z" creationid="Jeff Huang" creationdate="20180128T040105Z">
-        <seg>垂直頁首與頁尾的缺點是，這種頁面樣式不會自動在每一個頁面樣式中重覆，不像水平的頁首頁尾那樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145153Z" creationid="Jeff Huang" creationdate="20180128T040105Z">
+        <seg>垂直頁首與頁尾的缺點是，垂直頁面樣式不會自動在每一個這類頁面樣式中重覆，不像水平頁首頁尾那樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23823,8 +23823,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>These choices tends to restrict them to shorter documents.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040311Z" creationid="Jeff Huang" creationdate="20180128T040311Z">
-        <seg>這些選擇往往使文件變得比較短。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145324Z" creationid="Jeff Huang" creationdate="20180128T040311Z">
+        <seg>這些情況往往導致垂直頁首頁尾的使用，大多侷限在短篇文件上。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24736,8 +24736,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To create vertical headers and footers:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040336Z" creationid="Jeff Huang" creationdate="20180128T040336Z">
-        <seg>要建立垂直頁首與頁尾：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145341Z" creationid="Jeff Huang" creationdate="20180128T040336Z">
+        <seg>製作垂直頁首與頁尾的步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24904,8 +24904,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To set up a running header or footer:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134156Z" creationid="Jeff Huang" creationdate="20180127T134156Z">
-        <seg>要設定自動帶入的頁首或頁尾：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145351Z" creationid="Jeff Huang" creationdate="20180127T134156Z">
+        <seg>設定自動帶入頁首或頁尾的步驟：</seg>
       </tuv>
     </tu>
     <tu>
