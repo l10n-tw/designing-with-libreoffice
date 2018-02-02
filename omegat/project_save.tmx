@@ -6233,8 +6233,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Typically, each header or footer has up to three pieces of information.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T132541Z" creationid="Jeff Huang" creationdate="20180126T132541Z">
-        <seg>&lt;f3&gt;一般來說，每個頁首或頁尾會有最多三條資訊。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T080435Z" creationid="Jeff Huang" creationdate="20180126T132541Z">
+        <seg>&lt;f3&gt;一般來說，每個頁首或頁尾最多只能放三則資訊。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21710,8 +21710,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Header&lt;/f0&gt; and &lt;f1&gt;Footer&lt;/f1&gt; tab&lt;f2&gt;s&lt;/f2&gt; for a &lt;f3&gt;&lt;f4&gt;P&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;age&lt;/f5&gt; style have identical features.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T132846Z" creationid="Jeff Huang" creationdate="20180126T132846Z">
-        <seg>&lt;f0&gt;頁首&lt;/f0&gt;與&lt;f1&gt;頁尾&lt;/f1&gt;對頁面樣式來說與前面有相同的效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T080601Z" creationid="Jeff Huang" creationdate="20180126T132846Z">
+        <seg>&lt;f0&gt;頁首&lt;/f0&gt;與&lt;f1&gt;頁尾&lt;/f1&gt;標籤頁對「頁面」樣式來說，功能相同。</seg>
       </tuv>
     </tu>
     <tu>
