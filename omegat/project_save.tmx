@@ -3009,8 +3009,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Many fields have the advantage of updating automatically, or of taking information directly from your personal information or from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Properties.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T130117Z" creationid="Jeff Huang" creationdate="20180127T130117Z">
-        <seg>&lt;f0&gt;更多欄位有自動更新的優點，或是直接從你的個人資訊中取得資訊，又或是從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案 &gt; 屬性」。&lt;/f2&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T140432Z" creationid="Jeff Huang" creationdate="20180127T130117Z">
+        <seg>&lt;f0&gt;許多欄位有自動更新的優點，或是能直接從你的個人資訊或「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔案 &gt; 屬性&lt;/f2&gt;&lt;/f1&gt;」中取得相關資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11630,8 +11630,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fields for headers and footers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125859Z" creationid="Jeff Huang" creationdate="20180127T125859Z">
-        <seg>頁首與頁尾欄位</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T140319Z" creationid="Jeff Huang" creationdate="20180127T125859Z">
+        <seg>可用於頁首與頁尾的欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24583,8 +24583,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Title</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135608Z" creationid="Jeff Huang" creationdate="20180127T125445Z">
-        <seg>題名</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T140243Z" creationid="Jeff Huang" creationdate="20180127T125445Z">
+        <seg>主題</seg>
       </tuv>
     </tu>
     <tu>
