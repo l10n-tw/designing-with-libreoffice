@@ -20335,8 +20335,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Should you ever want this arrangement, you would have to give your paragraph style&lt;f0&gt;s&lt;/f0&gt; indents on the left and right, so that they use a shorter line than the header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023848Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
-        <seg>如果你想要這樣做，你就必須讓你的頁面樣式在左右有額外的縮進，這樣才能讓它們使用比頁首或頁尾還短的行。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124433Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
+        <seg>如果你真的這樣安排，你必須讓你的段落樣式在左右兩側都有額外的縮排，確保它們的行寬比頁首或頁尾還短。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27267,8 +27267,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You cannot enter a negative number &lt;f0&gt;to make&lt;/f0&gt; a header or footer extend into the left or right margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023612Z" creationid="Jeff Huang" creationdate="20180127T023612Z">
-        <seg>你不能輸入負值&lt;f0&gt;讓&lt;/f0&gt;頁首與頁尾延伸得比左右邊距更外面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124144Z" creationid="Jeff Huang" creationdate="20180127T023612Z">
+        <seg>你不能輸入負值&lt;f0&gt;讓&lt;/f0&gt;頁首與頁尾延伸到頁面左右邊距的空間內。</seg>
       </tuv>
     </tu>
     <tu>
