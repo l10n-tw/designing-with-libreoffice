@@ -1651,8 +1651,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;More&lt;/f1&gt; button on a &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab to reach the &lt;f4&gt;Border/Background&lt;/f4&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130926Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
-        <seg>&lt;f0&gt;請點按&lt;/f0&gt;「&lt;f2&gt;頁首&lt;/f2&gt;」或「&lt;f3&gt;頁尾&lt;/f3&gt;」標籤頁中的「&lt;f1&gt;其他&lt;/f1&gt;」按鈕，進入「&lt;f4&gt;邊框 / 背景&lt;/f4&gt;」標籤頁之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132548Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
+        <seg>&lt;f0&gt;請點按&lt;/f0&gt;「&lt;f2&gt;頁首&lt;/f2&gt;」或「&lt;f3&gt;頁尾&lt;/f3&gt;」標籤頁中的「&lt;f1&gt;其他&lt;/f1&gt;」按鈕，進入「&lt;f4&gt;邊框 / 背景&lt;/f4&gt;」對話視窗之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2969,8 +2969,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;ost of the time, you can also forget anything more than a single line between the header and the footer and the page’s main text frame – and even that line should be set to the thinnest setting possible, although you might choose to color it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132249Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
-        <seg>在大多數情況下，你可以把頁首頁尾和頁面主文字框之間放一條線以外的任何做法都忘記。甚至連就算你還會為這條線加上顏色，也都要讓那條線盡可能設成最短的高度這點，都忘掉吧。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132344Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
+        <seg>在大多數情況下，你可以把頁首頁尾和頁面主文字框之間放一條線以外的任何做法都忘記。還有就算你會為這條線加上顏色，也都要讓那條線盡可能設成最短的高度這點，也都一起忘掉吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15440,8 +15440,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In fact, &lt;f0&gt;you might manage without even a thin line if the space to the body text is large enough and the font used in the header or footer is different from the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T131833Z" creationid="Jeff Huang" creationdate="20180127T032224Z">
-        <seg>實際上，&lt;f0&gt;如果頁首頁尾和內文之間的間距夠大，而且頁首與頁尾和正文所用的字型有區別開來的話，根本就不需要加這條細線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132459Z" creationid="Jeff Huang" creationdate="20180127T032224Z">
+        <seg>實際上，&lt;f0&gt;如果頁首頁尾和內文之間的間距夠大，而且頁首與頁尾和正文所用的字型有區別開來的話，也就不需要加這條細線了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21212,8 +21212,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;f0&gt;he same is often true for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Background&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, except for the most delicate difference in shading between the page and the header and the footer, or if the only point of the header or footer is to add a graphic in the same place on every page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130911Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
-        <seg>而「&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;標籤頁一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132600Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
+        <seg>而「&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;對話視窗一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21597,8 +21597,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Border/Background&lt;/f0&gt; tab &lt;f1&gt;for headers and footers &lt;/f1&gt;is full of settings that need to be used cautiously.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130740Z" creationid="Jeff Huang" creationdate="20180127T024936Z">
-        <seg>頁首與頁尾的「&lt;f0&gt;邊框 / 背景&lt;/f0&gt;」標籤頁中有很多必須謹慎處理的設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132606Z" creationid="Jeff Huang" creationdate="20180127T024936Z">
+        <seg>頁首與頁尾的「&lt;f0&gt;邊框 / 背景&lt;/f0&gt;」對話視窗中有很多必須謹慎處理的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22947,8 +22947,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The most useful settings on the tab are for &lt;f0&gt;Spacing to Contents,&lt;/f0&gt; and even they are &lt;f1&gt;only &lt;/f1&gt;necessary &lt;f2&gt;if&lt;/f2&gt; your use of borders makes the head&lt;f3&gt;er&lt;/f3&gt; or footer look cramped.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033503Z" creationid="Jeff Huang" creationdate="20180127T033503Z">
-        <seg>標籤頁上最有用的大概是&lt;f0&gt;離內容的間距，&lt;/f0&gt;如果使用邊框會使得頁首與頁尾看起來過於狹窄，這時候你就應該使用它。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132540Z" creationid="Jeff Huang" creationdate="20180127T033503Z">
+        <seg>「邊框」標籤頁上最有用的設定大概是&lt;f0&gt;離內容的間距，&lt;/f0&gt;如果使用邊框會使得頁首與頁尾看起來過於狹窄，這時候你就應該使用它。</seg>
       </tuv>
     </tu>
     <tu>
