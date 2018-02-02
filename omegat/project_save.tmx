@@ -12768,8 +12768,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>From &lt;f0&gt;Tools &gt; Outline Numbering &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbering&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt; assign the &lt;f4&gt;paragraph &lt;/f4&gt;style you are using to &lt;f5&gt;an outline level if you have not already done so..&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T135012Z" creationid="Jeff Huang" creationdate="20180127T135012Z">
-        <seg>從&lt;f0&gt;「工具 &gt; 大綱編號 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;」指派&lt;f4&gt;段落&lt;/f4&gt;樣式&lt;f5&gt;，如果你還沒做完的話，這是用於大綱等級的。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T143742Z" creationid="Jeff Huang" creationdate="20180127T135012Z">
+        <seg>從&lt;f0&gt;「工具 &gt; 大綱編號 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;」將&lt;f4&gt;這個段落&lt;/f4&gt;樣式&lt;f5&gt;指派個大綱層級，如果你還沒這樣做過的話。（經查 5.4 以後已經拿掉了，所以只剩下預設用「標題1」這類自帶大綱層級的做法，要改寫囉～）&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22425,8 +22425,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called&lt;f3&gt; Chapter Number&lt;/f3&gt; is less conf&lt;f4&gt;using.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T142951Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
-        <seg>預設值為「&lt;f1&gt;標題 1」，&lt;/f1&gt;但用「&lt;f2&gt;題名&lt;/f2&gt;」或稱為「&lt;f3&gt;章節編號&lt;/f3&gt;」的自訂樣式較不易讓人困惑。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T143424Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
+        <seg>預設為「&lt;f1&gt;標題 1」段落樣式，&lt;/f1&gt;但改用「&lt;f2&gt;題名&lt;/f2&gt;」或稱為「&lt;f3&gt;章節編號&lt;/f3&gt;」的自訂樣式較不易讓人困惑。</seg>
       </tuv>
     </tu>
     <tu>
