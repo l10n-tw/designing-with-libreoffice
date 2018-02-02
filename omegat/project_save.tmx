@@ -3234,8 +3234,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Other content is available at &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Fields &gt; Other.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Most of the fields you might consider using are on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab and the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;DocInformation&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125027Z" creationid="Jeff Huang" creationdate="20180127T125027Z">
-        <seg>&lt;f0&gt;其他內容在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 欄位 &gt; 更多欄位」&lt;/f2&gt;&lt;/f1&gt;中提供。&lt;f3&gt;大多數人可能會使用的欄位應該都在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;文件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;文件資訊&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;標籤頁中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135426Z" creationid="Jeff Huang" creationdate="20180127T125027Z">
+        <seg>&lt;f0&gt;其他類型的內容在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 欄位 &gt; 更多欄位」&lt;/f2&gt;&lt;/f1&gt;中還有更多。&lt;f3&gt;大多數人可能會用到的欄位應該都在「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;文件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁和「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;文件資訊&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8312,8 +8312,8 @@
       <tuv lang="EN">
         <seg>As you finish the document, you can delete or replace these temporary fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T124707Z" creationid="Jeff Huang" creationdate="20180127T124707Z">
-        <seg>在你完成文件後，你可以刪除或取代這些暫時欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135251Z" creationid="Jeff Huang" creationdate="20180127T124707Z">
+        <seg>當你完成文件後，你可以刪除或取代這些暫時欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11630,8 +11630,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125258Z" creationid="Jeff Huang" creationdate="20180127T125258Z">
-        <seg>檔案名稱</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135506Z" creationid="Jeff Huang" creationdate="20180127T125258Z">
+        <seg>檔名</seg>
       </tuv>
     </tu>
     <tu>
@@ -26397,8 +26397,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>While you are writing, you might want to use temporary contents, especially fields from &lt;f0&gt;Insert &gt; Fields &gt; Document, &lt;/f0&gt;such &lt;t1/&gt;as the word count or template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135227Z" creationid="Jeff Huang" creationdate="20180127T124610Z">
-        <seg>當你在撰寫文件時，你可能會想要使用一些臨時的內容，特別是從&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件」&lt;/f0&gt;引用來的欄位，像是字數或範本等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135332Z" creationid="Jeff Huang" creationdate="20180127T124610Z">
+        <seg>當你在撰寫文件時，你可能會用到一些暫時性的內容，特別是從&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件」&lt;/f0&gt;引用來的欄位，像是統計字數或範本等。</seg>
       </tuv>
     </tu>
     <tu>
