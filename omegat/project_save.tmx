@@ -889,8 +889,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Height:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;The line height of the footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024300Z" creationid="Jeff Huang" creationdate="20180127T024300Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;高度：&lt;/f1&gt;&lt;/f0&gt;頁尾的行高。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125415Z" creationid="Jeff Huang" creationdate="20180127T024300Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;高度：&lt;/f1&gt;&lt;/f0&gt;頁首或頁尾的行高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14523,8 +14523,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are using the footer or header to include a recurring image, then the &lt;f3&gt;Height&lt;/f3&gt; will need to be at least the height of the image.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024638Z" creationid="Jeff Huang" creationdate="20180127T024638Z">
-        <seg>如果你正在使用包含了反覆出現的圖片的頁首或頁尾，&lt;f3&gt;高度&lt;/f3&gt;必須至少與圖片的高度相等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125528Z" creationid="Jeff Huang" creationdate="20180127T024638Z">
+        <seg>如果你要讓頁首或頁尾反覆出現某個影像，則&lt;f3&gt;高度&lt;/f3&gt;必須至少是影像的高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18050,8 +18050,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Often, this will be the line height of the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024333Z" creationid="Jeff Huang" creationdate="20180127T024333Z">
-        <seg>一般來說，這應該會是正文的行高。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125432Z" creationid="Jeff Huang" creationdate="20180127T024333Z">
+        <seg>一般來說，這應該用內文的行高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21597,8 +21597,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Border/Background&lt;/f0&gt; tab &lt;f1&gt;for headers and footers &lt;/f1&gt;is full of settings that need to be used cautiously.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T024936Z" creationid="Jeff Huang" creationdate="20180127T024936Z">
-        <seg>頁首與頁尾的&lt;f0&gt;邊框／背景&lt;/f0&gt;標籤頁是必須小心使用的完整設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125628Z" creationid="Jeff Huang" creationdate="20180127T024936Z">
+        <seg>頁首與頁尾的「&lt;f0&gt;邊框」或「背景&lt;/f0&gt;」標籤頁中有很多必須謹慎處理的設定。</seg>
       </tuv>
     </tu>
     <tu>
