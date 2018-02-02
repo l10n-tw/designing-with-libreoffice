@@ -5783,8 +5783,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;However, &lt;/f2&gt;you might &lt;t3/&gt;want to &lt;f4&gt;create&lt;/f4&gt; &lt;f5&gt;Header Center &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Left&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;and &lt;f9&gt;Header Center &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Right&lt;/f11&gt;&lt;/f10&gt; as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T034318Z" creationid="Jeff Huang" creationdate="20180127T034318Z">
-        <seg>&lt;f2&gt;不過，&lt;/f2&gt;你可能會也會想要&lt;f4&gt;建立&lt;/f4&gt;&lt;f5&gt;中頁首&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;左&lt;/f7&gt;&lt;/f6&gt;與&lt;f9&gt;中頁首&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;右&lt;/f11&gt;&lt;/f10&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T133229Z" creationid="Jeff Huang" creationdate="20180127T034318Z">
+        <seg>&lt;f2&gt;不過，&lt;/f2&gt;你可能也會想要&lt;f4&gt;建立&lt;/f4&gt;&lt;f5&gt;中頁首&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;左&lt;/f7&gt;&lt;/f6&gt;與&lt;f9&gt;中頁首&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;右&lt;/f11&gt;&lt;/f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,8 +8472,8 @@
       <tuv lang="EN">
         <seg>At this point, you may want to revisit your paragraph styles for headers and footers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033823Z" creationid="Jeff Huang" creationdate="20180127T033823Z">
-        <seg>此時，你可能會想要重新造訪頁首與頁尾的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T133056Z" creationid="Jeff Huang" creationdate="20180127T033823Z">
+        <seg>說到這裡，你可能會想要重新造訪頁首與頁尾的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20335,8 +20335,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Should you ever want this arrangement, you would have to give your paragraph style&lt;f0&gt;s&lt;/f0&gt; indents on the left and right, so that they use a shorter line than the header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124758Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
-        <seg>如果你真的需要這樣安排，你必須讓你的段落樣式在左右兩側都有額外的縮排，確保文字的行寬比頁首或頁尾空間還短。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132947Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
+        <seg>如果你真的需要這樣安排，你必須讓頁首頁尾的段落樣式在左右兩側都有額外的縮排，確保文字的行寬比頁首或頁尾空間還要短。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27355,8 +27355,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You have &lt;f0&gt;Header Left, Header Right, Footer Left,&lt;/f0&gt; and &lt;f1&gt;Footer Right&lt;/f1&gt; by default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T034034Z" creationid="Jeff Huang" creationdate="20180127T034034Z">
-        <seg>預設會有&lt;f0&gt;左頁首、右頁首、左頁首&lt;/f0&gt;與&lt;f1&gt;右頁尾&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T133203Z" creationid="Jeff Huang" creationdate="20180127T034034Z">
+        <seg>預設會有&lt;f0&gt;左頁頁首、右頁頁首、左頁頁尾&lt;/f0&gt;、&lt;f1&gt;右頁頁尾&lt;/f1&gt;等。</seg>
       </tuv>
     </tu>
     <tu>
