@@ -4891,8 +4891,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou might &lt;f1&gt;also &lt;/f1&gt;choose vertical headers and footers on portrait pages (ones taller than they are wide) to give a novel effect.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T035746Z" creationid="Jeff Huang" creationdate="20180128T035746Z">
-        <seg>你可能&lt;f1&gt;也&lt;/f1&gt;會在縱向頁面（長度比寬度大的頁面）選擇垂直的頁首與頁尾來取得新效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T144921Z" creationid="Jeff Huang" creationdate="20180128T035746Z">
+        <seg>你可能&lt;f1&gt;也&lt;/f1&gt;會在縱向頁面（長度比寬度大的頁面）選擇垂直的頁首與頁尾來製造新穎的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,8 +5863,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Instead, you have to recreate them on each instance, or copy and paste them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040227Z" creationid="Jeff Huang" creationdate="20180128T040227Z">
-        <seg>&lt;f2&gt;所以你必須在每個實體上重新建立，或是複製貼上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145115Z" creationid="Jeff Huang" creationdate="20180128T040227Z">
+        <seg>&lt;f2&gt;所以，你必須每次要用的時候都重來一次，或是複製貼上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22497,8 +22497,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The disadvantage of vertical headers and footers is that page styles do not automatically repeat them on every instance of a page style, the way th&lt;f0&gt;ey do&lt;/f0&gt; horizontal &lt;f1&gt;ones&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T040105Z" creationid="Jeff Huang" creationdate="20180128T040105Z">
-        <seg>垂直頁首與頁尾的缺點是頁面樣式不會自動在每個實體中重覆，不像水平的版本那樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145040Z" creationid="Jeff Huang" creationdate="20180128T040105Z">
+        <seg>垂直頁首與頁尾的缺點是，這種頁面樣式不會自動在每一個頁面樣式中重覆，不像水平的頁首頁尾那樣。</seg>
       </tuv>
     </tu>
     <tu>
