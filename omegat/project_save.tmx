@@ -3874,6 +3874,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Cont.&lt;/f1&gt; style &lt;f2&gt;is sometimes used for unnumbered paragraphs in a list that have a different format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T033724Z" creationid="Jeff Huang" creationdate="20180202T033724Z">
+        <seg>&lt;f1&gt;Cont.&lt;/f1&gt;樣式&lt;f2&gt;有時候會用在在清單中有不同樣式的未編號段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;HTML&lt;/f1&gt; view shows the paragraph styles that LibreOffice has mapped directly to specific &lt;f2&gt;HTML&lt;/f2&gt; tags.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155704Z" creationid="zerng07" creationdate="20171224T155658Z">
@@ -13763,6 +13771,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080751Z" creationid="zerng07" creationdate="20180125T080751Z">
         <seg>不過，那樣太多了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;name suggests using it with &lt;/f4&gt;a list style with the &lt;f5&gt;Numbering&lt;/f5&gt; &lt;f6&gt;field &lt;/f6&gt;set to &lt;f7&gt;None&lt;/f7&gt; on the &lt;f8&gt;Options&lt;/f8&gt; tab, and &lt;f9&gt;(continued)&lt;/f9&gt; or the equivalent in the &lt;f10&gt;Before&lt;/f10&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T034131Z" creationid="Jeff Huang" creationdate="20180202T034131Z">
+        <seg>不過，&lt;/f2&gt;&lt;f4&gt;這個名字暗示了其應用於&lt;/f4&gt;在&lt;f8&gt;選項&lt;/f8&gt;標籤頁中的&lt;f5&gt;編號&lt;/f5&gt;&lt;f6&gt;欄位&lt;/f6&gt;設定為&lt;f7&gt;無&lt;/f7&gt;，與在&lt;f10&gt;之前&lt;/f10&gt;欄位設定為&lt;f9&gt;(continued)&lt;/f9&gt;或是其他等價選項的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
