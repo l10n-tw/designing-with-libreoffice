@@ -1089,8 +1089,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A view of non-printing characters showing m&lt;/f0&gt;argins set &lt;f1&gt;using&lt;/f1&gt; the Golden Section.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T120653Z" creationid="Jeff Huang" creationdate="20180126T120653Z">
-        <seg>&lt;f0&gt;不會列印出來的字元可以用來檢視&lt;/f0&gt;黃金比例的邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T053550Z" creationid="Jeff Huang" creationdate="20180126T120653Z">
+        <seg>&lt;f0&gt;不會列印出來的格式設定標記（「檢視 &gt; 格式設定標記」）可以用來檢視&lt;/f0&gt;黃金比例的邊距。</seg>
       </tuv>
     </tu>
     <tu>
