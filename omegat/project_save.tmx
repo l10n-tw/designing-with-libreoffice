@@ -2857,8 +2857,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left margin &lt;/f0&gt;and &lt;f1&gt;Right &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;m&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;argin:&lt;/f4&gt; &lt;f5&gt;The margins for the header and footer are in addition to the page margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123040Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
-        <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;頁首與頁尾的邊距，與頁面邊距分開計算。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123445Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
+        <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;再加到頁首與頁尾邊距上的距離。</seg>
       </tuv>
     </tu>
     <tu>
