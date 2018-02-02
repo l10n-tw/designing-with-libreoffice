@@ -793,8 +793,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;Usually, these can be set to zero, since headers and footers &lt;f6&gt;are rarely&lt;/f6&gt; indented more than the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124049Z" creationid="Jeff Huang" creationdate="20180127T023457Z">
-        <seg>&lt;/f5&gt;一般來說，這些數值都可以設為零，因為頁首與頁尾&lt;f6&gt;很少&lt;/f6&gt;需要比內文更多的縮排。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124518Z" creationid="Jeff Huang" creationdate="20180127T023457Z">
+        <seg>&lt;/f5&gt;一般來說，這些數值都可以設為零，因為頁首與頁尾&lt;f6&gt;很少見&lt;/f6&gt;需要比內文更多的縮排。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20335,8 +20335,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Should you ever want this arrangement, you would have to give your paragraph style&lt;f0&gt;s&lt;/f0&gt; indents on the left and right, so that they use a shorter line than the header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124433Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
-        <seg>如果你真的這樣安排，你必須讓你的段落樣式在左右兩側都有額外的縮排，確保它們的行寬比頁首或頁尾還短。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124703Z" creationid="Jeff Huang" creationdate="20180127T023848Z">
+        <seg>如果你真的要這樣安排，你必須讓你的段落樣式在左右兩側都有額外的縮排，確保文字的行寬比頁首或頁尾空間還短。</seg>
       </tuv>
     </tu>
     <tu>
