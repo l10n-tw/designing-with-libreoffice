@@ -23437,6 +23437,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text in the &lt;f0&gt;Before&lt;/f0&gt; field will be added automatically whenever you apply the style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T034413Z" creationid="Jeff Huang" creationdate="20180202T034413Z">
+        <seg>&lt;f0&gt;之前&lt;/f0&gt;欄位中的文字將會在你套用樣式時自動新增。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text style basics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095611Z" creationid="zerng07" creationdate="20180125T094345Z">
