@@ -2857,8 +2857,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left margin &lt;/f0&gt;and &lt;f1&gt;Right &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;m&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;argin:&lt;/f4&gt; &lt;f5&gt;The margins for the header and footer are in addition to the page margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123445Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
-        <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;再加到頁首與頁尾邊距上的距離。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123830Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
+        <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;頁首和頁尾的邊距，獨立於頁面邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15223,8 +15223,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In Writer, their spacing is in addition to the margin; they do not fill part of the margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060353Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
-        <seg>在Writer中，頁首頁尾的空間和邊距是分開算的，它們不會填入邊距內。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123554Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
+        <seg>在Writer中，頁首頁尾的空間和邊距是分開算的，不會放到邊距的空間內。</seg>
       </tuv>
     </tu>
     <tu>
