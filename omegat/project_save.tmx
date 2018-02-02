@@ -11606,8 +11606,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fields are a common source of header and footer contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T035859Z" creationid="Jeff Huang" creationdate="20180127T035859Z">
-        <seg>欄位通常是頁首與頁尾內容的來源。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134953Z" creationid="Jeff Huang" creationdate="20180127T035859Z">
+        <seg>欄位通常是頁首與頁尾內容的資訊來源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18622,8 +18622,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Other possible contents includes the fields available in&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Insert &gt; Fields.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T124209Z" creationid="Jeff Huang" creationdate="20180127T124209Z">
-        <seg>其他可能的內容包含了在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 欄位」&lt;/f2&gt;&lt;/f1&gt;中提供的欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135133Z" creationid="Jeff Huang" creationdate="20180127T124209Z">
+        <seg>其他可能的內容則包含在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 欄位&lt;/f2&gt;&lt;/f1&gt;」中提供的欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22353,8 +22353,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The contents for headers and footers generally include &lt;f0&gt;static information such as the document name, chapter name, and writer’s name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T123829Z" creationid="Jeff Huang" creationdate="20180127T123829Z">
-        <seg>頁首與頁尾的內容通常包含了&lt;f0&gt;靜態資訊，如文件名稱、章節名稱與作者名稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135029Z" creationid="Jeff Huang" creationdate="20180127T123829Z">
+        <seg>頁首與頁尾的內容通常包含的是&lt;f0&gt;靜態資訊，如文件名稱、章名、作者名等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26397,8 +26397,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>While you are writing, you might want to use temporary contents, especially fields from &lt;f0&gt;Insert &gt; Fields &gt; Document, &lt;/f0&gt;such &lt;t1/&gt;as the word count or template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T124610Z" creationid="Jeff Huang" creationdate="20180127T124610Z">
-        <seg>當你在撰寫文件時，你可能會想要使用一些臨時的內容，特別是從&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件」&lt;/f0&gt;而來的欄位，如字數或範本等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135227Z" creationid="Jeff Huang" creationdate="20180127T124610Z">
+        <seg>當你在撰寫文件時，你可能會想要使用一些臨時的內容，特別是從&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件」&lt;/f0&gt;引用來的欄位，像是字數或範本等。</seg>
       </tuv>
     </tu>
     <tu>
