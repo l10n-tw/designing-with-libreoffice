@@ -11350,8 +11350,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Even when you manually format from &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Insert &gt; Header&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; or &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Footer&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, your selection is based on the pre-defined page styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131557Z" creationid="Jeff Huang" creationdate="20180126T131557Z">
-        <seg>你甚至可以從&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;「插入 &gt; 頁首」&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;或&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「頁尾」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;，你的選擇是基於預先定義好的頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060552Z" creationid="Jeff Huang" creationdate="20180126T131557Z">
+        <seg>甚至當你從&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;「插入 &gt; 頁首」&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;或&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「頁尾」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;做手動格式設定時，你的選擇仍是基於預先定義的頁面樣式而來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13064,8 +13064,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Head&lt;f0&gt;ers&lt;/f0&gt; and footers are spaces at the top and bottom of the page &lt;f1&gt;that contain&lt;/f1&gt; document information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T130905Z" creationid="Jeff Huang" creationdate="20180126T130905Z">
-        <seg>頁首與頁尾是頁面頂部與底部，其中&lt;f1&gt;包含&lt;/f1&gt;了文件資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060228Z" creationid="Jeff Huang" creationdate="20180126T130905Z">
+        <seg>頁首與頁尾是頁面的頂部與底部，用來&lt;f1&gt;擺放&lt;/f1&gt;文件的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15223,8 +15223,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In Writer, their spacing is in addition to the margin; they do not fill part of the margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131226Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
-        <seg>在Writer中，其間距是外加於邊距上；它們也不會填充邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060353Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
+        <seg>在Writer中，頁首頁尾的空間和邊距是分開算的，它們不會填入邊距內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25329,8 +25329,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Unlike in &lt;f0&gt;Microsoft&lt;/f0&gt; Word, in &lt;f1&gt;Writer&lt;/f1&gt;, headers and footers are &lt;f2&gt;classified as part of a page style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T131339Z" creationid="Jeff Huang" creationdate="20180126T131339Z">
-        <seg>與&lt;f0&gt;Microsoft&lt;/f0&gt; Word不同，在&lt;f1&gt;Writer&lt;/f1&gt;中，頁首與頁尾&lt;f2&gt;被歸類為頁面樣式的一部份。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060412Z" creationid="Jeff Huang" creationdate="20180126T131339Z">
+        <seg>和&lt;f0&gt;Microsoft&lt;/f0&gt; Word不同，在&lt;f1&gt;Writer&lt;/f1&gt;中，頁首與頁尾&lt;f2&gt;被歸類為頁面樣式的一部份。</seg>
       </tuv>
     </tu>
     <tu>
