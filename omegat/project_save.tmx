@@ -5791,8 +5791,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;However, &lt;/f2&gt;you might &lt;t3/&gt;want to &lt;f4&gt;create&lt;/f4&gt; &lt;f5&gt;Header Center &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Left&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;and &lt;f9&gt;Header Center &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Right&lt;/f11&gt;&lt;/f10&gt; as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T133229Z" creationid="Jeff Huang" creationdate="20180127T034318Z">
-        <seg>&lt;f2&gt;不過，&lt;/f2&gt;你可能也會想要&lt;f4&gt;建立&lt;/f4&gt;&lt;f5&gt;中頁首&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;左&lt;/f7&gt;&lt;/f6&gt;與&lt;f9&gt;中頁首&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;右&lt;/f11&gt;&lt;/f10&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134321Z" creationid="Jeff Huang" creationdate="20180127T034318Z">
+        <seg>&lt;f2&gt;不過，&lt;/f2&gt;你可能也會想要自己&lt;f4&gt;建立&lt;/f4&gt;&lt;f5&gt;頁首中央偏左&lt;/f5&gt;與&lt;f9&gt;頁首中央偏右&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;等樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18534,8 +18534,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Or, if you are using tabs instead of tables, &lt;f12&gt;consider character styles of the same names.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T034802Z" creationid="Jeff Huang" creationdate="20180127T034802Z">
-        <seg>或是如果你使用的是製表符而非表格，&lt;f12&gt;考慮相同名稱的字元樣式。&lt;/f12&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134424Z" creationid="Jeff Huang" creationdate="20180127T034802Z">
+        <seg>或是如果你是用製表符而非表格的做法，&lt;f12&gt;可以考慮建立相同名稱的字元樣式。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27411,8 +27411,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You have &lt;f0&gt;Header Left, Header Right, Footer Left,&lt;/f0&gt; and &lt;f1&gt;Footer Right&lt;/f1&gt; by default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T133203Z" creationid="Jeff Huang" creationdate="20180127T034034Z">
-        <seg>預設會有&lt;f0&gt;左頁頁首、右頁頁首、左頁頁尾&lt;/f0&gt;、&lt;f1&gt;右頁頁尾&lt;/f1&gt;等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T133340Z" creationid="Jeff Huang" creationdate="20180127T034034Z">
+        <seg>預設會有&lt;f0&gt;頁首左側、頁首右側、頁尾左側&lt;/f0&gt;、&lt;f1&gt;頁尾右側&lt;/f1&gt;等。</seg>
       </tuv>
     </tu>
     <tu>
