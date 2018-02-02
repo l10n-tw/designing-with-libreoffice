@@ -1651,8 +1651,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;More&lt;/f1&gt; button on a &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab to reach the &lt;f4&gt;Border/Background&lt;/f4&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033536Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
-        <seg>&lt;f0&gt;點按&lt;/f0&gt;位於&lt;f2&gt;頁首&lt;/f2&gt;或&lt;f3&gt;頁尾&lt;/f3&gt;標籤頁中的&lt;f1&gt;其他&lt;/f1&gt;按鈕以進入&lt;f4&gt;邊框／背景&lt;/f4&gt;標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130926Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
+        <seg>&lt;f0&gt;請點按&lt;/f0&gt;「&lt;f2&gt;頁首&lt;/f2&gt;」或「&lt;f3&gt;頁尾&lt;/f3&gt;」標籤頁中的「&lt;f1&gt;其他&lt;/f1&gt;」按鈕，進入「&lt;f4&gt;邊框 / 背景&lt;/f4&gt;」標籤頁之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2969,8 +2969,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;ost of the time, you can also forget anything more than a single line between the header and the footer and the page’s main text frame – and even that line should be set to the thinnest setting possible, although you might choose to color it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T031519Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
-        <seg>在大多數的情況下，你可能也會忘記任何位於頁首與頁尾和頁面主要文字框架間超過一行的東西，甚至可能會將那幾行設定成最薄的高度，雖然你有可能會選擇對其著色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T131228Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
+        <seg>大多數的情況下，你可能也會忘記位於頁首與頁尾和頁面主文字框之間超過一行的任何東西——甚至還將那幾行盡可能設成最薄的高度，雖然你也有可能有為它加上顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21212,8 +21212,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;f0&gt;he same is often true for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Background&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, except for the most delicate difference in shading between the page and the header and the footer, or if the only point of the header or footer is to add a graphic in the same place on every page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130518Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
-        <seg>而「&lt;f1&gt;&lt;f2&gt;背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;標籤頁一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才使用。（在LibreOffice 5.4中找不到「背景」標籤頁～）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130911Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
+        <seg>而「&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;標籤頁一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才使用。</seg>
       </tuv>
     </tu>
     <tu>
