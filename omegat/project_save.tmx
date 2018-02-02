@@ -2857,8 +2857,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left margin &lt;/f0&gt;and &lt;f1&gt;Right &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;m&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;argin:&lt;/f4&gt; &lt;f5&gt;The margins for the header and footer are in addition to the page margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023314Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
-        <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;頁首與頁尾的邊距是外加於頁面邊距上的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123040Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
+        <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;頁首與頁尾的邊距，與頁面邊距分開計算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6892,8 +6892,8 @@
       <tuv lang="EN">
         <seg>A more &lt;f0&gt;robust&lt;/f0&gt; solution is to add a single-row table with invisible &lt;f1&gt;cell &lt;/f1&gt;borders &lt;f2&gt;and&lt;/f2&gt; as many columns as you need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T121315Z" creationid="Jeff Huang" creationdate="20180126T135220Z">
-        <seg>更&lt;f0&gt;穩健&lt;/f0&gt;的解決方案，是新增一個單行表格，使用看不見的&lt;f1&gt;儲存格&lt;/f1&gt;邊框&lt;f2&gt;，還有&lt;/f2&gt;你所需要用到的欄數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T122917Z" creationid="Jeff Huang" creationdate="20180126T135220Z">
+        <seg>更&lt;f0&gt;穩健&lt;/f0&gt;的解決方案，是新增一個單行表格，使用看不見的&lt;f1&gt;儲存格&lt;/f1&gt;邊框&lt;f2&gt;，並加入&lt;/f2&gt;你所需要用到的欄數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8808,8 +8808,8 @@
       <tuv lang="EN">
         <seg>Below the box for turning on a header or footer are the basic formatting options:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023153Z" creationid="Jeff Huang" creationdate="20180127T023153Z">
-        <seg>開啟頁首與頁尾的框框下面會有基本的格式選項：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123013Z" creationid="Jeff Huang" creationdate="20180127T023153Z">
+        <seg>啟用頁首與頁尾的方框下面有一些基本的格式設定選項：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13841,8 +13841,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, this &lt;f0&gt;arrangement&lt;/f0&gt; can require constant readjustment as you revise, especially if you use fields &lt;f1&gt;or alter font sizes, making it more trouble that it’s worth.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T121224Z" creationid="Jeff Huang" creationdate="20180126T135002Z">
-        <seg>不過，這種&lt;f0&gt;編排&lt;/f0&gt;可能在你修訂內容時要不斷調整，尤其是在使用一些欄位或&lt;f1&gt;或修改字型大小後，會變得更加麻煩反而不值得這樣做。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T122900Z" creationid="Jeff Huang" creationdate="20180126T135002Z">
+        <seg>不過，這種&lt;f0&gt;安排&lt;/f0&gt;方式可能在你修訂內容後要不斷調整，尤其是加入一些欄位或&lt;f1&gt;或修改字型大小時，會變得更加麻煩反而不值得你這樣做。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24383,8 +24383,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This technique means fewer &lt;f3&gt;spontaneous&lt;/f3&gt; changes than with tabs, &lt;f4&gt;and, therefore, less work&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T122621Z" creationid="Jeff Huang" creationdate="20180126T135721Z">
-        <seg>這個技巧與 Tab 相比，較少發生&lt;f3&gt;意料外&lt;/f3&gt;的變動，&lt;f4&gt;所以也就能減少你的工作量&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T122920Z" creationid="Jeff Huang" creationdate="20180126T135721Z">
+        <seg>這個技巧與 Tab 相比，較少發生&lt;f3&gt;意料之外&lt;/f3&gt;的變動，&lt;f4&gt;所以也就能減少你的工作量&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
