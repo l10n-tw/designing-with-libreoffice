@@ -2405,6 +2405,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, the most effective approach is to create a paragraph style that is attached to the list style.&lt;/f0&gt; Go to &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Numbering &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;tyle&lt;/f5&gt; field on the &lt;f6&gt;Outline &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&amp;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Numbering&lt;/f9&gt; tab for the paragraph style, and select the list style from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134713Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
+        <seg>&lt;f0&gt;不過最有效的方式是建立附加到清單樣式的段落樣式。&lt;/f0&gt;到位於段落樣式裡的&lt;f6&gt;大綱&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;與&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;編號&lt;/f9&gt;標籤頁中的&lt;f2&gt;編號&lt;/f2&gt;&lt;f5&gt;樣式&lt;/f5&gt;欄位，然後從下拉式清單中選取清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, they can &lt;/f0&gt;also store structure, either in the form of outlines, or &lt;f1&gt;of&lt;/f1&gt; fields that automatically fill in standard information or indicate with placeholders what kind of information should be added.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115918Z" creationid="Franklin Weng" creationdate="20171212T100339Z">
@@ -12661,6 +12669,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting list styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T135123Z" creationid="Jeff Huang" creationdate="20180202T135123Z">
+        <seg>清單樣式格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting ten heading levels so that each is distinct &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;may just be possible, but neither the designer nor the reader is likely to be able to remember what all of them mean.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T121011Z" creationid="Franklin Weng" creationdate="20180102T135428Z">
@@ -19841,6 +19857,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Outline &amp; Numbering &gt; Numbering &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;tyle&lt;/f3&gt; to select from the drop-down list the list style to associate with a paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T135106Z" creationid="Jeff Huang" creationdate="20180202T135106Z">
+        <seg>選取&lt;f0&gt;「大綱與編號 &gt; 編號&lt;/f0&gt;&lt;f3&gt;樣式」&lt;/f3&gt;以從下拉式清單中選取要與段落樣式相關聯的清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Page Break&lt;/f0&gt; for the &lt;f1&gt;Type.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T085116Z" creationid="Jeff Huang" creationdate="20180129T085116Z">
@@ -23235,6 +23259,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The quick way is to select a style from the &lt;f0&gt;Bullets, Numbering Style&lt;/f0&gt;,&lt;f1&gt; Outline&lt;/f1&gt;, or &lt;f2&gt;&lt;f3&gt;Image&lt;/f3&gt;&lt;/f2&gt; tabs for a list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T135841Z" creationid="Jeff Huang" creationdate="20180202T135841Z">
+        <seg>較快速的方式是從清單樣式的&lt;f0&gt;項目符號、編號樣式&lt;/f0&gt;、&lt;f1&gt;大綱&lt;/f1&gt;或&lt;f2&gt;&lt;f3&gt;圖片&lt;/f3&gt;&lt;/f2&gt;標籤頁中選取樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The real purpose of typography is to make the text more inviting and easy to read.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162248Z" creationid="zerng07" creationdate="20170818T034410Z">
@@ -24249,6 +24281,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135719Z" creationid="Franklin Weng" creationdate="20180129T135719Z">
         <seg>這種試算表常常被輕忽，但它是&lt;f2&gt;最常用&lt;/f2&gt;的試算表型態之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method also has the advantage of requiring fewer mouse clicks &lt;f10&gt;to apply the style&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134804Z" creationid="Jeff Huang" creationdate="20180202T134804Z">
+        <seg>這個方法的優點是不需要點按太多次滑鼠&lt;f10&gt;來套用樣式&lt;/f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27430,6 +27470,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140033Z" creationid="zerng07" creationdate="20171226T090525Z">
         <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式化&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、&lt;f6&gt;從系統中的剪貼簿中貼上、套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have two ways of formatting &lt;f0&gt;bullets and numbers in list&lt;/f0&gt; styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T135633Z" creationid="Jeff Huang" creationdate="20180202T135633Z">
+        <seg>你有兩種方式在清單樣式中對&lt;f0&gt;項目符號與編號&lt;/f0&gt;進行格式設定。</seg>
       </tuv>
     </tu>
     <tu>
