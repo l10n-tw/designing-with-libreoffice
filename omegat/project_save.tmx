@@ -8039,8 +8039,8 @@
       <tuv lang="EN">
         <seg>Applying the &lt;f0&gt;G&lt;/f0&gt;olden &lt;f1&gt;S&lt;/f1&gt;ection to page margins means that, starting from the &lt;f2&gt;outer&lt;/f2&gt; margin &lt;f3&gt;moving to the top, then the inner and the bottom margins&lt;/f3&gt;, the proportions of the margins should be 2:3:4:6.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T033825Z" creationid="Jeff Huang" creationdate="20180126T033825Z">
-        <seg>將黃金比例應用到頁面邊距上也代表了，從&lt;f2&gt;外&lt;/f2&gt;邊距&lt;f3&gt;開始移動到上邊距，然後從內邊距移動到下邊距&lt;/f3&gt;，其邊距的比例應為2:3:4:6。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041428Z" creationid="Jeff Huang" creationdate="20180126T033825Z">
+        <seg>將黃金比例應用到頁面邊距上，代表從&lt;f2&gt;外&lt;/f2&gt;邊距&lt;f3&gt;開始移動到上邊距，往內邊距再移動到下邊距&lt;/f3&gt;，其邊距的比例應為2:3:4:6。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18332,8 +18332,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>One popular theory holds that the ideal margin settings are based on the &lt;f0&gt;G&lt;/f0&gt;olden &lt;f1&gt;S&lt;/f1&gt;ection, a set of proportions first fully described by Euclid that are &lt;f2&gt;said&lt;/f2&gt; to be naturally pleasing to the &lt;f3&gt;human &lt;/f3&gt;eye.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T033540Z" creationid="Jeff Huang" creationdate="20180126T033540Z">
-        <seg>較流行的理論認為理想的邊距設定是基於黃金比例，一個首先由歐幾里德完整描述，&lt;f2&gt;據說&lt;/f2&gt;會自然而然地被&lt;f3&gt;人&lt;/f3&gt;眼所喜愛。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041308Z" creationid="Jeff Huang" creationdate="20180126T033540Z">
+        <seg>較流行的理論認為理想的邊距設定要基於黃金比例，一組首次由歐幾里德 (Euclid) 完整描述的比例，&lt;f2&gt;據說&lt;/f2&gt;&lt;f3&gt;人&lt;/f3&gt;眼自然而然就會喜歡看見符合這個比例的東西。</seg>
       </tuv>
     </tu>
     <tu>
