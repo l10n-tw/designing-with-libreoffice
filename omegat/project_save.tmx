@@ -21212,8 +21212,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;f0&gt;he same is often true for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Background&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, except for the most delicate difference in shading between the page and the header and the footer, or if the only point of the header or footer is to add a graphic in the same place on every page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T030051Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
-        <seg>&lt;f1&gt;&lt;f2&gt;背景&lt;/f2&gt;&lt;/f1&gt;&lt;f0&gt;標籤頁通常也是如此&lt;/f0&gt;&lt;f3&gt;，除了頁面和頁首與頁尾在陰影上明顯不同，或是頁首與頁尾通常在每一頁上一樣的位置新增圖片。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T130518Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
+        <seg>而「&lt;f1&gt;&lt;f2&gt;背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;標籤頁一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才使用。（在LibreOffice 5.4中找不到「背景」標籤頁～）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24840,8 +24840,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To start with, unless you are looking for a retro-1990s look or deliberately practicing bad typography, ignore the settings for adding a shadow to the footer or header.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T025359Z" creationid="Jeff Huang" creationdate="20180127T025359Z">
-        <seg>首先，除非你正在尋找復古的1990年代的外觀，或是刻意練習糟糕的印刷術，否則請忽略為頁首與頁尾新增陰影的設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125949Z" creationid="Jeff Huang" creationdate="20180127T025359Z">
+        <seg>首先，除非你正在尋找復古的1990年代外觀，或是刻意練習糟糕的排印做法，否則請忽略為頁首或頁尾新增陰影的設定。</seg>
       </tuv>
     </tu>
     <tu>
