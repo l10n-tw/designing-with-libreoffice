@@ -8061,6 +8061,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applying list styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133844Z" creationid="Jeff Huang" creationdate="20180202T133844Z">
+        <seg>套用清單樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying the &lt;f0&gt;G&lt;/f0&gt;olden &lt;f1&gt;S&lt;/f1&gt;ection to page margins means that, starting from the &lt;f2&gt;outer&lt;/f2&gt; margin &lt;f3&gt;moving to the top, then the inner and the bottom margins&lt;/f3&gt;, the proportions of the margins should be 2:3:4:6.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041428Z" creationid="Jeff Huang" creationdate="20180126T033825Z">
@@ -26916,6 +26924,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T115816Z" creationid="Franklin Weng" creationdate="20180116T051913Z">
         <seg>5.4 你也可以在投影片畫面中按下右鍵，選取「投影片頁面屬性」，從&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁中調整點陣圖的大小、位置或偏移等。6.0 你也可以在投影片畫面中按下右鍵，選取「屬性」，從&lt;f2&gt;「背景」&lt;/f2&gt;標籤頁中調整點陣圖的大小、位置或偏移等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can apply &lt;f0&gt;a &lt;/f0&gt;list style just as you would &lt;f1&gt;any other style&lt;/f1&gt;, placing the cursor in a paragraph, and then selecting the list style from the &lt;f2&gt;Styles and Formatting&lt;/f2&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134123Z" creationid="Jeff Huang" creationdate="20180202T134123Z">
+        <seg>你可以像套用&lt;f1&gt;任何的其他樣式&lt;/f1&gt;一樣地套用清單樣式，只要將游標置於段落中，然後從&lt;f2&gt;樣式與格式&lt;/f2&gt;視窗中選取清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
