@@ -7484,8 +7484,8 @@
       <tuv lang="EN">
         <seg>All margins should be multiples of the &lt;f0&gt;line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121934Z" creationid="Jeff Huang" creationdate="20180126T121934Z">
-        <seg>所有邊距都應該是&lt;f0&gt;的整數倍。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T054010Z" creationid="Jeff Huang" creationdate="20180126T121934Z">
+        <seg>所有邊距都應該是&lt;f0&gt;行距的整數倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17032,8 +17032,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Make the &lt;f0&gt;bottom&lt;/f0&gt; margin &lt;f1&gt;taller&lt;/f1&gt; than the &lt;f2&gt;top&lt;/f2&gt; margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121533Z" creationid="Jeff Huang" creationdate="20180126T121533Z">
-        <seg>讓&lt;f0&gt;下&lt;/f0&gt;邊距&lt;f1&gt;寬&lt;/f1&gt;於&lt;f2&gt;上&lt;/f2&gt;邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T053949Z" creationid="Jeff Huang" creationdate="20180126T121533Z">
+        <seg>讓&lt;f0&gt;下&lt;/f0&gt;邊距&lt;f1&gt;大&lt;/f1&gt;於&lt;f2&gt;上&lt;/f2&gt;邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27026,8 +27026,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can find other page margins that are successful, but these guidelines reflect the most common margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T122109Z" creationid="Jeff Huang" creationdate="20180126T122109Z">
-        <seg>你也許會找到其他成功的邊距，但這些指南反映了最常見的邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T054051Z" creationid="Jeff Huang" creationdate="20180126T122109Z">
+        <seg>你也許會找到其他成功的邊距案例，而上述這些規則反映了最常見的邊距。</seg>
       </tuv>
     </tu>
     <tu>
