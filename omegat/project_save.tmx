@@ -12124,6 +12124,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Start&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;list style might have extra space above it to separate the list from the body text, and the&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;End&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; list style &lt;/f7&gt;extra space below it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T033628Z" creationid="Jeff Huang" creationdate="20180202T033628Z">
+        <seg>舉例來說，&lt;f1&gt;&lt;f2&gt;Start&lt;/f2&gt;&lt;/f1&gt;清單樣式可能會在內文上有額外的空間以與清單分離，而&lt;f5&gt;&lt;f6&gt;End&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;清單樣式&lt;/f7&gt;則是在其下有額外的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;page numbers will be more noticeable if placed by the outer margin of each page.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090640Z" creationid="Jeff Huang" creationdate="20171212T035607Z">
