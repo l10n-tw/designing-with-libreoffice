@@ -9433,8 +9433,8 @@
       <tuv lang="EN">
         <seg>By default, that means using heading styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133811Z" creationid="Jeff Huang" creationdate="20180127T133811Z">
-        <seg>預設情況下，這代表會使用標題樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T142134Z" creationid="Jeff Huang" creationdate="20180127T133811Z">
+        <seg>預設情況下，這代表你要用標題樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14305,8 +14305,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If more than one paragraph style is assigned to the same outline level, you may have unexpected results.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T134136Z" creationid="Jeff Huang" creationdate="20180127T134136Z">
-        <seg>如果有一個以上的段落樣式被指定了同一個大綱等級，你可能會得到非預期的結果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T142228Z" creationid="Jeff Huang" creationdate="20180127T134136Z">
+        <seg>如果有一個以上的段落樣式指定了同一個大綱層級，你可能會得到預期外的結果。</seg>
       </tuv>
     </tu>
     <tu>
