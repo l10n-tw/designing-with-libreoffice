@@ -4687,6 +4687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using&lt;/f0&gt; the same name for &lt;f1&gt;both the list style and &lt;/f1&gt;the paragraph style with which it is linked &lt;f2&gt;can make working with different types of styles much easier.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T032726Z" creationid="Jeff Huang" creationdate="20180202T032726Z">
+        <seg>&lt;f1&gt;對清單樣式與&lt;/f1&gt;與其連結的段落樣式&lt;f0&gt;使用&lt;/f0&gt;相同的名稱&lt;f2&gt;可以讓使用不同類型的樣式更簡單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Usually, an epigraph is indented vertically and horizontally.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104545Z" creationid="Jeff Huang" creationdate="20180124T134345Z">
