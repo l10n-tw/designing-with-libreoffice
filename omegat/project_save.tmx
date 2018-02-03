@@ -1199,6 +1199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Aligned at:&lt;/f0&gt; The vertical position for numbers, measured from the left margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T125026Z" creationid="Jeff Huang" creationdate="20180203T125026Z">
+        <seg>&lt;f0&gt;對齊：&lt;/f0&gt;編號的垂直位置，從左邊距開始測量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All Styles:&lt;/f0&gt; Especially when you are viewing paragraph styles, &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;All Styles&lt;/f2&gt; &lt;f3&gt;view&lt;/f3&gt; can give you so many names to scan that &lt;f4&gt;using it&lt;/f4&gt; is counter-productive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153531Z" creationid="zerng07" creationdate="20171224T153043Z">
@@ -13687,6 +13695,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you use any &lt;f2&gt;Numbering Alignment&lt;/f2&gt; except&lt;f3&gt; Left,&lt;/f3&gt; numbers set this field to another value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T125914Z" creationid="Jeff Huang" creationdate="20180203T125914Z">
+        <seg>不過，如果你使用任何除了&lt;f3&gt;左邊&lt;/f3&gt;以外的&lt;f2&gt;編號對齊方式&lt;/f2&gt;，此欄的數字就要設定成其他值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, in 4.4 and above, you can simply select an object and start to type.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T051326Z" creationid="Jeff Huang" creationdate="20180118T130721Z">
@@ -15698,6 +15714,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132411Z" creationid="Franklin Weng" creationdate="20171225T132528Z">
         <seg>在現代字型家族中，義大利體有時會以另一種「斜體」(Oblique) 取代，然而這種「斜體」其實只是將羅馬體向右傾斜而已，不像義大利體是手寫體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, you can leave this field at &lt;f1&gt;0&lt;/f1&gt; (at the left margin).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T125140Z" creationid="Jeff Huang" creationdate="20180203T125140Z">
+        <seg>在大多數的狀況下，你可以直接將此欄位設定為&lt;f1&gt;0&lt;/f1&gt;（在左邊距）。</seg>
       </tuv>
     </tu>
     <tu>
