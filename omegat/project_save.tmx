@@ -3183,6 +3183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Numbering Alignment:&lt;/f0&gt; How the bullet or number is aligned.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130059Z" creationid="Jeff Huang" creationdate="20180203T130059Z">
+        <seg>&lt;f0&gt;編號對齊：&lt;/f0&gt;項目符號或編號要如何對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;ver the years, LibreOffice has added tools to make &lt;f1&gt;manual formatting of pages&lt;/f1&gt; easier.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T075851Z" creationid="Jeff Huang" creationdate="20180124T085813Z">
@@ -17627,6 +17635,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115616Z" creationid="zerng07" creationdate="20180130T115432Z">
         <seg>大多數的時候，它們主要都在背景，所以使用者幾乎不能從外框和它所包住的影像或其他物件間中分辨出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the time, you can leave this field at the default of &lt;f1&gt;Left,&lt;/f1&gt; but if you are having trouble positioning text, changing the alignment &lt;f2&gt;to &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Center&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; or &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Right&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;can sometimes solve the problem, &lt;f9&gt;especially for lists or levels that require two-digit numbers.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130452Z" creationid="Jeff Huang" creationdate="20180203T130452Z">
+        <seg>大多數情況下，你可以直接將此欄位保留為預設的&lt;f1&gt;左，&lt;/f1&gt;但如果你在定位文字上有些問題，請將對齊變更&lt;f2&gt;為&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;置中&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;或&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;右&lt;/f7&gt;&lt;/f6&gt;，有時候可以解決問題，&lt;f9&gt;特別是需要兩位數字編號的清單或層級。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
