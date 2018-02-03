@@ -4824,6 +4824,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When you are defining a new list style, the important fields on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab are:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T124931Z" creationid="Jeff Huang" creationdate="20180203T124931Z">
+        <seg>&lt;f0&gt;當你在定義新清單樣式時，在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中的重要欄位有：&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When you are done, selecting the curve reveals the points that you can drag on to adjust the shape.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T071016Z" creationid="Jeff Huang" creationdate="20180118T132500Z">
