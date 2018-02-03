@@ -17944,6 +17944,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not only is that the logical place to look for changes on the list style, but adjusting the paragraph settings usually involves negative entries for the &lt;f3&gt;First Line&lt;/f3&gt; field, &lt;f4&gt;which can complicate editing immensely.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T034715Z" creationid="Jeff Huang" creationdate="20180203T034715Z">
+        <seg>不僅是尋找清單樣式上變化的合理位置，而且調整段落設定通常會涉及到&lt;f3&gt;第一行&lt;/f3&gt;欄位中的否定項目，&lt;f4&gt;這會使編輯變得非常複雜。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not only that, but many features are awkward to use &lt;f2&gt;when you format manually&lt;/f2&gt; – assuming you can use them at all.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T051003Z" creationid="zerng07" creationdate="20170824T175333Z">
