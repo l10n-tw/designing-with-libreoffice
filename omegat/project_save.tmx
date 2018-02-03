@@ -12428,6 +12428,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you decided to show three sublevels, the first use of the third sublevel would be numbered 1.1.1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134953Z" creationid="Jeff Huang" creationdate="20180203T134953Z">
+        <seg>舉例來說，如果你決定要顯示三個子層級，第三個子層級的第一個被使用的編號就會是1.1.1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you downloaded a Linux version directly from The Document Foundation, this directory will be in something like /opt/libreoffice4.4/share/template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142920Z" creationid="Franklin Weng" creationdate="20171223T133819Z">
@@ -15521,6 +15529,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T071654Z" creationid="Franklin Weng" creationdate="20180109T132545Z">
         <seg>在長篇投影片中，你可能會想要每一節的內容，都放一張對應的題名投影片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a numbered list, you can choose the number of outline levels in the list by adjusting the &lt;f0&gt;Show sublevels &lt;/f0&gt;field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134845Z" creationid="Jeff Huang" creationdate="20180203T134845Z">
+        <seg>在編號清單中，你可以透過調整&lt;f0&gt;顯示子層級&lt;/f0&gt;欄位選擇清單中的大綱層級的數量。</seg>
       </tuv>
     </tu>
     <tu>
