@@ -7850,6 +7850,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you might put a parenthesis both before or after the number, or text such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Step # &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Before&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134359Z" creationid="Jeff Huang" creationdate="20180203T134359Z">
+        <seg>或者你也可以在數字前後放括號，或是文字，如&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;步驟 #&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;在這之前&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although &lt;f1&gt;often&lt;/f1&gt; used for posters, some can be used for body text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T152055Z" creationid="Franklin Weng" creationdate="20180103T135605Z">
