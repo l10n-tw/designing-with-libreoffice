@@ -3199,6 +3199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Numbering followed &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;by:&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Sets the space between the number or bullet and the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130934Z" creationid="Jeff Huang" creationdate="20180203T130934Z">
+        <seg>&lt;f0&gt;編號後&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;接：&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;在編號或項目符號與文字間設定間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;ver the years, LibreOffice has added tools to make &lt;f1&gt;manual formatting of pages&lt;/f1&gt; easier.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T075851Z" creationid="Jeff Huang" creationdate="20180124T085813Z">
@@ -7806,6 +7814,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T142558Z" creationid="zerng07" creationdate="20170817T142558Z">
         <seg>雖然這個網頁上所寫的所有字型並非都很完整，但一致的高品質仍值得考慮使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although the choices include &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;space&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;nothing,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; the choice that offers the most control is&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Tab Stop.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131226Z" creationid="Jeff Huang" creationdate="20180203T131226Z">
+        <seg>雖然選項包含了&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;空格&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;或&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;無，&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;但選項中提供最大的可自訂程度的是&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;定位落點。</seg>
       </tuv>
     </tu>
     <tu>
