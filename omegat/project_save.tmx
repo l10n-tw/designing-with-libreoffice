@@ -2863,6 +2863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Indent at:&lt;/f0&gt; &lt;f1&gt;S&lt;/f1&gt;ets &lt;f2&gt;the start of&lt;/f2&gt; &lt;f3&gt;the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131856Z" creationid="Jeff Huang" creationdate="20180203T131856Z">
+        <seg>&lt;f0&gt;縮排：&lt;/f0&gt;設定文字&lt;f2&gt;的起始點&lt;/f2&gt;。&lt;f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;It is &lt;/f0&gt;used so you can &lt;f1&gt;focus on&lt;/f1&gt; the result of formatting changes &lt;f2&gt;rather than the content.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T100048Z" creationid="Franklin Weng" creationdate="20180105T093247Z">
@@ -15742,6 +15750,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In many cases, this setting is 0 points – that is, against the left margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131740Z" creationid="Jeff Huang" creationdate="20180203T131740Z">
+        <seg>在大多數的情況下，這個設定是0點，也就是左邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In many documents, only &lt;f0&gt;Text&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Body&lt;/f3&gt; and perhaps another handful of &lt;f4&gt;paragraph &lt;/f4&gt;styles are used at such length that hyphenation can improve how they fall on the page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122847Z" creationid="zerng07" creationdate="20180125T040524Z">
@@ -24649,6 +24665,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005511Z" creationid="zerng07" creationdate="20180125T102329Z">
         <seg>這個設定能讓Baskervald的灰度看起來接近Gillius一點，整個頁面看起來有比較一致的色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting should be equal or greater to the tab stop set for &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Numbering followed by&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132050Z" creationid="Jeff Huang" creationdate="20180203T132050Z">
+        <seg>此設定應大於等於定位落點於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;編號後接&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;中的設定。</seg>
       </tuv>
     </tu>
     <tu>
