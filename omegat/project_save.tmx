@@ -26088,6 +26088,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a list style is linked to a paragraph style, editing the fields on the &lt;f0&gt;Position&lt;/f0&gt; tab in the list number dialog results in changes to the &lt;f1&gt;Indent &gt; Before &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;text&lt;/f3&gt;&lt;/f2&gt; and &lt;f4&gt;Indent &gt; First &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;l&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ine&lt;/f7&gt; settings &lt;f8&gt;o&lt;/f8&gt;n the &lt;f9&gt;Indents &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&amp;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Spacing&lt;/f12&gt; tab for the paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T033829Z" creationid="Jeff Huang" creationdate="20180203T033829Z">
+        <seg>當清單樣式連結到段落樣式時，編輯在&lt;f0&gt;位置&lt;/f0&gt;標籤頁上的欄位會導致在段落樣式的&lt;f9&gt;縮排&lt;/f9&gt;與&lt;f12&gt;間距&lt;/f12&gt;標籤裡的&lt;f1&gt;「縮排 &gt; 之前」&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;中的文字&lt;/f3&gt;&lt;/f2&gt;與&lt;f4&gt;「縮排 &gt; 第一」&lt;/f4&gt;中&lt;f7&gt;行&lt;/f7&gt;設定的變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a paragraph has a Left alignment, all lines start at the same position on the left, but &lt;f0&gt;can end anywhere&lt;/f0&gt; on the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122615Z" creationid="zerng07" creationdate="20180125T024430Z">
