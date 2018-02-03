@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;If the value &lt;f1&gt;of the &lt;/f1&gt;&lt;f2&gt;Numbering Alignment&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;is 0, then choosing &lt;f4&gt;Center&lt;/f4&gt; or &lt;f5&gt;Right&lt;/f5&gt; can force the numbers into the left margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130840Z" creationid="Jeff Huang" creationdate="20180203T130840Z">
+        <seg>&lt;/f0&gt;如果&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;f1&gt;的值&lt;/f1&gt;為0，那麼選擇&lt;f4&gt;置中&lt;/f4&gt;或&lt;f5&gt;右&lt;/f5&gt;可以強制編號進入左邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;If you lack time, this is &lt;f1&gt;always &lt;/f1&gt;a low-maintenance tactic to use &lt;f2&gt;anyway, and is common in technical manuals.&lt;/f2&gt; While &lt;f3&gt;not always&lt;/f3&gt; ideal, it generally provides an adequate layout unless you are adding extremely small images, which tend to get lost in all the white space to their left and right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141911Z" creationid="zerng07" creationdate="20180130T141434Z">
@@ -22755,6 +22763,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T144222Z" creationid="zerng07" creationdate="20171219T144222Z">
         <seg>文件的格式設定非常簡單、平常，&lt;f0&gt;就像一篇作文。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dotted line is &lt;f0&gt;the margin in this example.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130538Z" creationid="Jeff Huang" creationdate="20180203T130538Z">
+        <seg>虛線是&lt;f0&gt;本例中的邊距。</seg>
       </tuv>
     </tu>
     <tu>
