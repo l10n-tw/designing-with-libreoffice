@@ -24677,6 +24677,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This setting should not be more than about two line-heights, or else the connection between the bullet or number and the text might be lost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132239Z" creationid="Jeff Huang" creationdate="20180203T132239Z">
+        <seg>這個設定不應該超過兩倍行高，否則項目符號與編號和文字的連接可能會消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This space is set using the &lt;f0&gt;Indent &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;t&lt;/f3&gt; field on the &lt;f4&gt;Position&lt;/f4&gt; tab for a list style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064835Z" creationid="zerng07" creationdate="20180125T064835Z">
