@@ -4513,6 +4513,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To create a numbered list, select a numbering style from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Number&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132555Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
+        <seg>&lt;f0&gt;要建立符號清單，從位於&lt;f4&gt;&lt;f5&gt;選項&lt;/f5&gt;&lt;/f4&gt;標籤頁中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位選取編號樣式。&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現況改寫</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To design your own&lt;/f0&gt; patterned backgrounds, &lt;f1&gt;g&lt;/f1&gt;o to &lt;f2&gt;View &gt; Master &gt; Slide Master,&lt;/f2&gt; and from the menu select &lt;f3&gt;Format &gt; Page &gt; Background&lt;/f3&gt; to choose a color, gradient, cross-hatching, or bitmap tile for the background &lt;f4&gt;for all slides with the same master slide.</seg>
@@ -12809,6 +12817,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T135123Z" creationid="Jeff Huang" creationdate="20180202T135123Z">
         <seg>清單樣式格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting ordered (numbered) lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132323Z" creationid="Jeff Huang" creationdate="20180203T132323Z">
+        <seg>對有序（編號）清單進行格式設定</seg>
       </tuv>
     </tu>
     <tu>
