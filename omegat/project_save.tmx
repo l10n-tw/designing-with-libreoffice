@@ -7394,6 +7394,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding characters before &lt;f0&gt;and&lt;/f0&gt; after numbers</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133431Z" creationid="Jeff Huang" creationdate="20180203T133431Z">
+        <seg>新增字元到編號前&lt;f0&gt;與&lt;/f0&gt;後</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding charts and graphs</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082403Z" creationid="Jeff Huang" creationdate="20180112T134056Z">
@@ -20113,6 +20121,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select a numbering style from the &lt;f0&gt;Options&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133330Z" creationid="Jeff Huang" creationdate="20180203T133330Z">
+        <seg>從&lt;f0&gt;選項&lt;/f0&gt;標籤頁選取一個編號樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LibreOffice現在沒有什麼給你選擇內容結構的獨立資料夾了，而且範本管理員的畫面就落在「簡報」的篩選狀態下。</note>
       <tuv lang="EN">
         <seg>Select a presentation structure from &lt;f0&gt;File &gt; New &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt; LibreOffice has a separate folder in the &lt;f4&gt;T&lt;/f4&gt;emplate &lt;f5&gt;Manager&lt;/f5&gt; for structures, marked simply &lt;f6&gt;Presentations.&lt;/f6&gt;</seg>
@@ -27556,6 +27572,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114359Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
         <seg>你可以透過&lt;f1&gt;「檔案 &gt; 列印」&lt;/f1&gt;，或是&lt;f2&gt;使用&lt;/f2&gt;文字外框&lt;f3&gt;而不是頁面&lt;/f3&gt;的做法，讓一張紙印上多頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set up to 40 characters before or after the actual number using the &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133544Z" creationid="Jeff Huang" creationdate="20180203T133544Z">
+        <seg>你可以使用&lt;f0&gt;在這之前&lt;/f0&gt;與&lt;f1&gt;在這之後&lt;/f1&gt;欄位來設定最多40個字元到實際的編號前面或後面。</seg>
       </tuv>
     </tu>
     <tu>
