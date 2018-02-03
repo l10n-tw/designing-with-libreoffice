@@ -1738,6 +1738,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Common characters after a number might be a period, a parenthesis, or both.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134206Z" creationid="Jeff Huang" creationdate="20180203T134206Z">
+        <seg>&lt;f0&gt;數字之後的通用字元可能是句號、括號或是兩者皆有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Compress Image: &lt;/f0&gt;Reduces the resolution, and therefore the size of the LibreOffice file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132524Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
@@ -6153,6 +6161,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101339Z" creationid="Franklin Weng" creationdate="20171212T100258Z">
         <seg>&lt;f2&gt;解決上述問題的方法，就是使用&lt;/f2&gt;範本——&lt;f3&gt;也就是已經預先儲存好格式設定和文稿結構等等的檔案，方便你重複利用或和別人分享。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;These characters are added automatically whenever the list style they are attached to is applied.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133642Z" creationid="Jeff Huang" creationdate="20180203T133642Z">
+        <seg>&lt;f2&gt;這些字元會在套用清單樣式時自動新增。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
