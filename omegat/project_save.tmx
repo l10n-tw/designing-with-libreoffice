@@ -15509,6 +15509,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;List Cont.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; style, you might add &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;(Continued)&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; before.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134459Z" creationid="Jeff Huang" creationdate="20180203T134459Z">
+        <seg>在&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;清單 Cont.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;樣式中，你可能會新增&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;（繼續）&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;在前面。&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a long slide show, you might want title pages for each section.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T071654Z" creationid="Franklin Weng" creationdate="20180109T132545Z">
@@ -17651,6 +17659,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T041333Z" creationid="Franklin Weng" creationdate="20171225T100441Z">
         <seg>等寬字 (Monospace)：這個字族的字型每個字母所佔用的&lt;f0&gt;水平&lt;/f0&gt;寬度都完全相同。如果是中文等寬字型，除了拉丁字母的水平寬度相同外，中文字的水平寬度則是拉丁字母的兩倍寬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More elaborately, you might set a paragraph style to start at the top of the page, then attach to it a list style with text so that the paragraph style will automatically add text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134658Z" creationid="Jeff Huang" creationdate="20180203T134658Z">
+        <seg>更準確地說，你可以設定一個從頁面頂部開始的段落樣式，然後附上一個帶有文字的段落樣式，這樣段落樣式就會自動新增文字了。</seg>
       </tuv>
     </tu>
     <tu>
