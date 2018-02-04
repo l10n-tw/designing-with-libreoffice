@@ -2204,6 +2204,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For most purposes, you probably have no reason to change these defaults.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T035450Z" creationid="Jeff Huang" creationdate="20180204T035450Z">
+        <seg>&lt;f0&gt;對於大多數用途來說，你應該不需要變更這些預設值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For some documents, especially short ones, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is all you need.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T105200Z" creationid="Jeff Huang" creationdate="20180124T135405Z">
