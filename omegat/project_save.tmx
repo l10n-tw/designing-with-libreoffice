@@ -4776,8 +4776,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Separator&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; line only if the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; is extremely tight and relying on white space alone would make reading difficult.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T131758Z" creationid="Jeff Huang" creationdate="20180129T131758Z">
-        <seg>&lt;f0&gt;僅在間距太緊時才使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分隔符&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;，單靠空格會不好閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160648Z" creationid="Jeff Huang" creationdate="20180129T131758Z">
+        <seg>&lt;f0&gt;只有在間距太緊單靠空格會不好閱讀時，才使用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分隔線&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7956,8 +7956,8 @@
       <tuv lang="EN">
         <seg>Among other possible confusions, this arrangement means that you must reduce the free space in one column before you add space to another column.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160443Z" creationid="Jeff Huang" creationdate="20180129T131145Z">
-        <seg>在其他可能造成的混亂中，這種安排意味著如果你想要新增空間到某一欄中，就必須先減少其他欄的可用空間才行。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160556Z" creationid="Jeff Huang" creationdate="20180129T131145Z">
+        <seg>在其他可能造成的混亂中（？？），這種安排意味著如果你想要新增空間到某一欄中，就必須先減少其他欄的可用空間才行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9016,8 +9016,8 @@
       <tuv lang="EN">
         <seg>Below the &lt;f0&gt;Width &amp; S&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;pac&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ing &lt;/f3&gt;is&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Spacing, &lt;/f6&gt;&lt;/f5&gt;which sets the spacing b&lt;f7&gt;etween columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T131351Z" creationid="Jeff Huang" creationdate="20180129T131351Z">
-        <seg>在&lt;f0&gt;寬度與間距&lt;/f0&gt;下是&lt;f5&gt;&lt;f6&gt;間距，&lt;/f6&gt;&lt;/f5&gt;其設定了欄位間的間距。&lt;f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160531Z" creationid="Jeff Huang" creationdate="20180129T131351Z">
+        <seg>在「&lt;f0&gt;寬度與間距&lt;/f0&gt;」的底部是「&lt;f5&gt;&lt;f6&gt;間隔&lt;/f6&gt;&lt;/f5&gt;」，用來設定欄與欄之間的間隔。&lt;f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23172,8 +23172,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The greater the spacing&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;, &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;the easier the text will be to read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T131449Z" creationid="Jeff Huang" creationdate="20180129T131449Z">
-        <seg>間距愈大&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;，&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;文字愈容易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160540Z" creationid="Jeff Huang" creationdate="20180129T131449Z">
+        <seg>間隔愈大&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;，&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;文字愈容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
