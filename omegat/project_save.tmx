@@ -376,8 +376,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;Without multiple columns, many indexes and tables would occupy far more pages than necessary.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094531Z" creationid="Jeff Huang" creationdate="20180129T094443Z">
-        <seg>&lt;/f0&gt;&lt;f2&gt;如果沒有多欄功能，許多索引與表格將佔用更多頁面。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T154840Z" creationid="Jeff Huang" creationdate="20180129T094443Z">
+        <seg>&lt;/f0&gt;&lt;f2&gt;如果沒有多欄功能，許多索引和表格必須佔用更多沒必要的頁面空間。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17970,8 +17970,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Multiple columns are useful for newsletters, and for printing indexes or other tables &lt;f0&gt;whose entries rarely require an entire line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T094546Z" creationid="Jeff Huang" creationdate="20180129T091143Z">
-        <seg>多欄對於報章雜誌&lt;f0&gt;與其他不需要整行的表格列印索引很有用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T154809Z" creationid="Jeff Huang" creationdate="20180129T091143Z">
+        <seg>多欄對於報章雜誌&lt;f0&gt;，還有文字不需要一整行寬度的索引、表格來說很有用。</seg>
       </tuv>
     </tu>
     <tu>
