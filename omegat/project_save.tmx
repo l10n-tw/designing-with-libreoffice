@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Always, y&lt;/f0&gt;our main concern should be to make different categories of information easily distinguishable, &lt;f1&gt;structuring so that information is easy to absorb.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185318Z" creationid="Franklin Weng" creationdate="20180204T185318Z">
+        <seg>&lt;f0&gt;如果你主要想法&lt;/f0&gt;是要能容易區分不同類別的資訊，那就要把資料&lt;f1&gt;做好結構化以易於理解吸收。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Amazon, for example, has gone so far as to ban presentations in its business.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T023327Z" creationid="Franklin Weng" creationdate="20180107T031426Z">
@@ -9796,6 +9804,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cells for totals &lt;f1&gt;might be a different color, and should always be placed &lt;/f1&gt;close to the sales figures &lt;f2&gt;they tally.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185102Z" creationid="Franklin Weng" creationdate="20180204T185102Z">
+        <seg>總計、小計等儲存格&lt;f1&gt;可能可以用別的背景色彩&lt;/f1&gt;，並且應該放在&lt;f2&gt;靠近它們所表達的圖表附近&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Centaur</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071650Z" creationid="Jeff Huang" creationdate="20180115T071650Z">
@@ -11951,6 +11967,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow the basic principles of design described in Chapter 1&lt;f0&gt;3&lt;/f0&gt; – formatting related types of information the same way and in the same order, and positioning t&lt;f1&gt;hem&lt;/f1&gt; close together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184507Z" creationid="Franklin Weng" creationdate="20180204T184507Z">
+        <seg>應用在第 &lt;f0&gt;13&lt;/f0&gt; 章所講的基本設計原則 – 將相關型態的資訊以相同的方式、順序來做格式設定，並且&lt;f1&gt;把它們放靠近一點。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Following these steps results in a useful, well-designed template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T140744Z" creationid="zerng07" creationdate="20180125T135141Z">
@@ -12692,6 +12716,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050021Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
         <seg>舉例來說，如果你正在建構一份組織架構圖，你可能會想要有個稱為「&lt;f0&gt;職位框&lt;/f0&gt;」的樣式來指出每一種工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if you are recording monthly sales figures, the text of cells &lt;f0&gt;that display&lt;/f0&gt; the sales figures should have the same format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184900Z" creationid="Franklin Weng" creationdate="20180204T184900Z">
+        <seg>例如，如果你正在紀錄每月銷售的圖表，那麼&lt;f0&gt;用來顯示&lt;/f0&gt;圖表的文字的儲存格也應該用相同的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16806,6 +16838,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Labels assist users, and are often recognized automatically by Calc.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184157Z" creationid="Franklin Weng" creationdate="20180204T184157Z">
+        <seg>標籤可以協助使用者，而且通常 Calc 會自動辨識。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last Printed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125834Z" creationid="Jeff Huang" creationdate="20180127T125834Z">
@@ -16874,6 +16914,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010334Z" creationid="zerng07" creationdate="20180125T101406Z">
         <seg>如果你下方的簽名區空間要很大的話，就設定更多空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leave space for labels – &lt;f0&gt;that is,&lt;/f0&gt; cells that describe each data array.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184123Z" creationid="Franklin Weng" creationdate="20180204T184123Z">
+        <seg>要保留空間給標籤 – &lt;f0&gt;所謂的標籤&lt;/f0&gt;就是內容用來描述每一個資料陣列的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25986,6 +26034,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062104Z" creationid="Jeff Huang" creationdate="20171229T020218Z">
         <seg>與使用標準連接線時相比，更擁擠的圖表中適合使用線條連接線。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use borders, backgrounds, and empty cells to set apart &lt;f0&gt;one &lt;/f0&gt;data array &lt;f1&gt;from another&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184257Z" creationid="Franklin Weng" creationdate="20180204T184257Z">
+        <seg>用邊框、背景色或空白儲存格來將，&lt;f0&gt;資料陣列&lt;/f0&gt;&lt;f1&gt;區隔開來。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
