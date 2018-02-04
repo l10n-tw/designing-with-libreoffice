@@ -9567,6 +9567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Character Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field for &lt;/f3&gt;numbered lists &lt;f4&gt;is set to the&lt;/f4&gt; &lt;f5&gt;Numbering Symbol&lt;/f5&gt; character style, &lt;f6&gt;and for bulleted lists to the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Bullets&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; character style.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T035352Z" creationid="Jeff Huang" creationdate="20180204T035352Z">
+        <seg>預設情況下，編號清單的&lt;f1&gt;&lt;f2&gt;字元樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;被設定為&lt;/f4&gt;&lt;f5&gt;編號符號&lt;/f5&gt;字元樣式，&lt;f6&gt;與項目符號供&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;項目符號&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;字元樣式使用。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, arrows and line ends have the same proportions as the line itself, but you can make them thinner or thicker as you choose.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T054716Z" creationid="Jeff Huang" creationdate="20171228T071503Z">
@@ -20585,6 +20593,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T164724Z" creationid="Franklin Weng" creationdate="20180115T090305Z">
         <seg>或者把背景設成部份透明，通常可以明顯改善。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the character style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T034952Z" creationid="Jeff Huang" creationdate="20180204T034952Z">
+        <seg>設定字元樣式</seg>
       </tuv>
     </tu>
     <tu>
