@@ -1153,8 +1153,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;nchor the image in the header &lt;f1&gt;or footer&lt;/f1&gt;, but place &lt;f2&gt;the image&lt;/f2&gt; outside the header &lt;f3&gt;or footer,&lt;/f3&gt; &lt;f4&gt;setting the anchor to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;As Paragraph&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;As Character.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; You can then position the image anywhere on the page, and it will be repeated each time the page style is used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T061252Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
-        <seg>將圖片定錨於頁首&lt;f1&gt;或頁尾&lt;/f1&gt;，但將&lt;f2&gt;圖片&lt;/f2&gt;置於頁首&lt;f3&gt;頁尾之外，&lt;/f3&gt;&lt;f4&gt;設定錨點為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;依段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;或&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;依章節。&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152513Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
+        <seg>將圖片定錨於頁首&lt;f1&gt;或頁尾&lt;/f1&gt;，但將&lt;f2&gt;圖片&lt;/f2&gt;置於頁首&lt;f3&gt;頁尾之外，&lt;/f3&gt;&lt;f4&gt;設定錨點為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;依段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;或&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;依字元。&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20202,8 +20202,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More Fields&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; Chapter number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144517Z" creationid="Jeff Huang" creationdate="20180129T034252Z">
-        <seg>選取「&lt;f0&gt;插入&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;文件&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;更多欄位&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt; &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;章內編號」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T154148Z" creationid="Jeff Huang" creationdate="20180129T034252Z">
+        <seg>選取「&lt;f0&gt;插入&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;文件&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;更多欄位&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt; &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;章節號」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22809,8 +22809,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called &lt;f3&gt;Chapter Number&lt;/f3&gt; is less confusing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144434Z" creationid="Jeff Huang" creationdate="20180129T033157Z">
-        <seg>預設是&lt;f1&gt;標題 1，&lt;/f1&gt;但&lt;f2&gt;其他標題&lt;/f2&gt;或自訂稱為&lt;f3&gt;章內編號&lt;/f3&gt;的樣式比較不混讓人搞混。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152431Z" creationid="Jeff Huang" creationdate="20180129T033157Z">
+        <seg>預設是&lt;f1&gt;標題 1，&lt;/f1&gt;但&lt;f2&gt;其他標題&lt;/f2&gt;或自訂稱為&lt;f3&gt;分章編號&lt;/f3&gt;的樣式比較不混讓人搞混。</seg>
       </tuv>
     </tu>
     <tu>
