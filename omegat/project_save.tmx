@@ -5791,8 +5791,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;90 degrees&lt;/f2&gt; positions the text so that it begins at the bottom and moves up, while &lt;f3&gt;270 degrees&lt;/f3&gt; positions the text so that it begins at the top and moves &lt;f4&gt;down&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T130346Z" creationid="Jeff Huang" creationdate="20180128T130346Z">
-        <seg>&lt;f2&gt;90 度&lt;/f2&gt;位置的文字會讓其從底部開始並往上顯示，而&lt;f3&gt;270 度&lt;/f3&gt;位置就是從頂部開始並&lt;f4&gt;向下&lt;/f4&gt;顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123415Z" creationid="Jeff Huang" creationdate="20180128T130346Z">
+        <seg>位置轉&lt;f2&gt;90 度&lt;/f2&gt;的文字會由下面開始往上顯示，而位置轉&lt;f3&gt;270 度&lt;/f3&gt;的則是從上面開始&lt;f4&gt;往下&lt;/f4&gt;顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21684,8 +21684,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Tabs, borders, shadows, and other formatting other than the paragraph style will be stripped when you &lt;f0&gt;click&lt;/f0&gt; the OK button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T131251Z" creationid="Jeff Huang" creationdate="20180128T131251Z">
-        <seg>製表符、邊框、陰影與其他除了段落樣式以外的格式都將會在你&lt;f0&gt;按下&lt;/f0&gt;確定按鈕時被移除。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123557Z" creationid="Jeff Huang" creationdate="20180128T131251Z">
+        <seg>製表符、邊框、陰影以及段落樣式之外的其他格式，會在你&lt;f0&gt;按下&lt;/f0&gt;「確定」按鈕時都會移除。</seg>
       </tuv>
     </tu>
     <tu>
