@@ -8068,8 +8068,8 @@
       <tuv lang="EN">
         <seg>An offset is most commonly used when a document has a number of &lt;f0&gt;pages that are either unnumbered or use a different numbering system&lt;/f0&gt;, such as front matter or &lt;f1&gt;an introduction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T031545Z" creationid="Jeff Huang" creationdate="20180129T031545Z">
-        <seg>當文件有許多&lt;f0&gt;未編號或是使用不同邊號系統的頁面&lt;/f0&gt;，如前頁&lt;f1&gt;或是引言時，最常用的就是偏移量。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T135640Z" creationid="Jeff Huang" creationdate="20180129T031545Z">
+        <seg>偏移最常使用的時機，就是當文件有許多&lt;f0&gt;未編號頁面，或是有使用不同編號系統的頁面&lt;/f0&gt;的情況，如前置內容&lt;f1&gt;或序文等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21756,8 +21756,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Technical documentation or any other material that is frequently revised &lt;f0&gt;sometimes&lt;/f0&gt; restarts the numbering with every chapter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T031830Z" creationid="Jeff Huang" creationdate="20180129T031830Z">
-        <seg>技術文件或是任何其他經常修訂的文件&lt;f0&gt;有時&lt;/f0&gt;會在每個章節重新開始其編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T140023Z" creationid="Jeff Huang" creationdate="20180129T031830Z">
+        <seg>技術文件，或是任何其他經常修訂內容的文件，&lt;f0&gt;有時&lt;/f0&gt;每一章都會重新編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24911,8 +24911,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This style &lt;f0&gt;may be&lt;/f0&gt; used so that, when revisions are published, users can replace only a chapter instead of the whole document – &lt;f1&gt;an arrangement especially useful with ring binders.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T032156Z" creationid="Jeff Huang" creationdate="20180129T032156Z">
-        <seg>這種樣式&lt;f0&gt;可能&lt;/f0&gt;會用於當修訂版發佈時，使用者可以僅取代其中一章而非整份文件，&lt;f1&gt;其在活頁夾上特別有用。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T140516Z" creationid="Jeff Huang" creationdate="20180129T032156Z">
+        <seg>如果使用這種樣式，只要修訂版出版後，使用者可以只替換其中一章的內容，而不是整份文件——&lt;f1&gt;特別適合線圈裝訂的書籍&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25681,8 +25681,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Under this system, for example, the third page of chapter 5 would have the page number &lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;3.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T031939Z" creationid="Jeff Huang" creationdate="20180129T031939Z">
-        <seg>在這種編號系統下，如第五頁的第三章就會有如下的頁碼：&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;3。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T140116Z" creationid="Jeff Huang" creationdate="20180129T031939Z">
+        <seg>像在這樣的編號系統下，第五章的第三頁就會有如下的頁碼：&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;3。</seg>
       </tuv>
     </tu>
     <tu>
