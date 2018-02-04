@@ -719,6 +719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;Make the colors as different as possible to make the &lt;f3&gt;sheet&lt;/f3&gt; &lt;f4&gt;readable at a glance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T191508Z" creationid="Franklin Weng" creationdate="20180204T191508Z">
+        <seg>&lt;/f2&gt;盡可能用不同色彩，讓&lt;f3&gt;工作表&lt;/f3&gt;可以&lt;f4&gt;一眼就看出重點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;The alternative is to spend more &lt;t3/&gt;time on trial and error, and still end up &lt;f4&gt;(as likely as not) &lt;/f4&gt;with something worse than if you &lt;f5&gt;had taken&lt;/f5&gt; some advice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T033016Z" creationid="zerng07" creationdate="20170818T031915Z">
@@ -1894,6 +1902,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T033240Z" creationid="Jeff Huang" creationdate="20180116T032215Z">
         <seg>&lt;f0&gt;圖表與配置圖的設計，與文字頁面或試算表相比來說限制較少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Do not &lt;/f0&gt;worry about &lt;f1&gt;abstract aesthetics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185447Z" creationid="Franklin Weng" creationdate="20180204T185447Z">
+        <seg>&lt;f0&gt;不要&lt;/f0&gt;太糾結於&lt;f1&gt;抽象的美學。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6168,6 +6184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The more complex a spreadsheet is, and the longer the spreadsheet is likely to be used, the more important planning becomes.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185837Z" creationid="Franklin Weng" creationdate="20180204T185837Z">
+        <seg>&lt;f2&gt;試算表越複雜，它就可能會被用得越久，而這個計畫也就越重要。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The other options in the drop-down list are &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Centered &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;and &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Justified.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122902Z" creationid="zerng07" creationdate="20180123T122830Z">
@@ -6212,6 +6236,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T085432Z" creationid="Franklin Weng" creationdate="20171215T124719Z">
         <seg>&lt;f2&gt;這對於簡報背景範本來說是不錯的辦法，但是對於文字文件這一類就不一定，尤其是有複雜格式設定的文件，可能在匯入匯出上會出問題。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;To create sub-lists, set off cells from the rest of the sheet by blank cells, borders, or backgrounds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T191415Z" creationid="Franklin Weng" creationdate="20180204T191415Z">
+        <seg>&lt;f2&gt;要建立子清單，就放在工作表其他可用的地方，然後跟主清單用空白儲存格、邊框或背景色來區隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,6 +7097,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140518Z" creationid="Franklin Weng" creationdate="20180105T144717Z">
         <seg>&lt;f0&gt;一行文字超過80個字元時。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list &lt;f0&gt;usually &lt;/f0&gt;consists of cells formatted for text, &lt;f1&gt;not&lt;/f1&gt; numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T190002Z" creationid="Franklin Weng" creationdate="20180204T190002Z">
+        <seg>清單&lt;f0&gt;通常&lt;/f0&gt;是由對文字，&lt;f1&gt;而非&lt;/f1&gt;對數字做格式設定的儲存格所組成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8813,6 +8853,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141530Z" creationid="zerng07" creationdate="20180125T101223Z">
         <seg>這兩者都根據「內文」（Baskervald ADF Std，15 點）樣式做對應修改即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basically, &lt;f2&gt;a spreadsheet list is a more powerful version of a table in a text document: its structure is meant to make information easier to scan, and to help users see relations between items that would be harder to see if the document consisted only of text.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T190136Z" creationid="Franklin Weng" creationdate="20180204T190136Z">
+        <seg>基本上，&lt;f2&gt;試算表清單就是文字文件中表格的加強版：它的結構是為了讓資訊更容易被看到，讓使用者看到項目間的關聯性，而這關聯性只用文字可能並不容易被突顯出來。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10909,6 +10957,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;spreadsheet &lt;/f0&gt;lists</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185853Z" creationid="Franklin Weng" creationdate="20180204T185853Z">
+        <seg>設計&lt;f0&gt;試算表&lt;/f0&gt;清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Designing &lt;f0&gt;the f&lt;/f0&gt;irst &lt;f1&gt;p&lt;/f1&gt;age</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T031852Z" creationid="Jeff Huang" creationdate="20180125T031852Z">
@@ -12355,6 +12411,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T133518Z" creationid="Jeff Huang" creationdate="20180129T030721Z">
         <seg>想要看到完整的選項，請從「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面&lt;/f0&gt;」中設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a list, assign &lt;f0&gt;individual&lt;/f0&gt; colors to either the tasks or the people &lt;f1&gt;assigned them&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T191146Z" creationid="Franklin Weng" creationdate="20180204T191146Z">
+        <seg>在清單中，對每個工作或每個&lt;f0&gt;指定工作&lt;/f0&gt;的人都用&lt;f1&gt;個別的色彩&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18223,6 +18287,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134640Z" creationid="Franklin Weng" creationdate="20180106T042407Z">
         <seg>雖然說不是每個現代的人文主義襯線體字型的灰度，都設計得跟概念源頭一樣黑，但滿多都是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not everybody is equipped to admire the design of a text document, but very few have ever considered admiring the design of a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185616Z" creationid="Franklin Weng" creationdate="20180204T185616Z">
+        <seg>並不是每個人都知道怎麼欣賞一份文字文件的設計，試算表就更不用說了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25933,6 +26005,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unless you can visualize &lt;f0&gt;the format clearly&lt;/f0&gt;, start the design by sketching out its approximate layout &lt;f1&gt;on a piece of paper&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185805Z" creationid="Franklin Weng" creationdate="20180204T185805Z">
+        <seg>除非你可以很清楚瞭解&lt;f0&gt;格式所呈現的視覺效果&lt;/f0&gt;，不然建議來是先在&lt;f1&gt;一張紙上&lt;/f1&gt;畫出設計的草稿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unlike Microsoft Word, LibreOffice does not display a &lt;f0&gt;&lt;f1&gt;Normal&lt;/f1&gt;&lt;/f0&gt; template anywhere in its menus.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102509Z" creationid="Franklin Weng" creationdate="20171212T101056Z">
@@ -25945,6 +26025,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060412Z" creationid="Jeff Huang" creationdate="20180126T131339Z">
         <seg>和&lt;f0&gt;Microsoft&lt;/f0&gt; Word不同，在&lt;f1&gt;Writer&lt;/f1&gt;中，頁首與頁尾&lt;f2&gt;被歸類為頁面樣式的一部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike text documents, spreadsheets remain extremely practical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185650Z" creationid="Franklin Weng" creationdate="20180204T185650Z">
+        <seg>畢竟比起文字文件來說，試算表還是以務實為主。</seg>
       </tuv>
     </tu>
     <tu>
