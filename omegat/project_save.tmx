@@ -4726,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unless extra spacing is provided, t&lt;/f0&gt;he &lt;f1&gt;list items are displaced&lt;/f1&gt; w&lt;f2&gt;hen the numbering enters two digits.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135022Z" creationid="Jeff Huang" creationdate="20180204T135022Z">
+        <seg>&lt;f0&gt;除非有額外的間距，&lt;/f0&gt;&lt;f1&gt;否則當編號輸入兩位數字時&lt;/f1&gt;&lt;f2&gt;清單項目可能也會被取代。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Unless you are using only the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, page design almost always begins with the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Left Page&lt;/f6&gt; and &lt;f7&gt;Right Page&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T105536Z" creationid="Jeff Huang" creationdate="20180125T030810Z">
@@ -18252,6 +18260,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032208Z" creationid="Jeff Huang" creationdate="20180201T032208Z">
         <seg>編號清單的慣例較項目符號清單少，但其還是有一些慣例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbered lists with two digits can displace list items, &lt;f0&gt;upsetting your carefully calculated designs by offsetting the text too much.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T134558Z" creationid="Jeff Huang" creationdate="20180204T134558Z">
+        <seg>兩位數字的清單編號可能會取代清單項目，&lt;f0&gt;因為文字會偏移太多而擾亂你精心計算過的設計。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
