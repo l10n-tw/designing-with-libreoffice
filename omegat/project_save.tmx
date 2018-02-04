@@ -8126,8 +8126,8 @@
       <tuv lang="EN">
         <seg>Another option is to add manual frames and set up the text flow you want.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134631Z" creationid="Jeff Huang" creationdate="20180129T134631Z">
-        <seg>另一個選項是新增手動框架，並設定你想要的排文和分頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161312Z" creationid="Jeff Huang" creationdate="20180129T134631Z">
+        <seg>另一種選擇是手動加入外框，並且設定你想要用的排文和分頁方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,8 +8375,8 @@
       <tuv lang="EN">
         <seg>As a result, you cannot create a page style with more than one column format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T132632Z" creationid="Jeff Huang" creationdate="20180129T132632Z">
-        <seg>因此，你不能建立多於一欄格式的頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161115Z" creationid="Jeff Huang" creationdate="20180129T132632Z">
+        <seg>所以，你無法做出一種以上的多欄版面配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10211,8 +10211,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Combining single- and multiple-column &lt;f0&gt;layouts&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160940Z" creationid="Jeff Huang" creationdate="20180129T132143Z">
-        <seg>結合單欄與多欄&lt;f0&gt;版面配置&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161124Z" creationid="Jeff Huang" creationdate="20180129T132143Z">
+        <seg>結合單欄與多欄&lt;f0&gt;的版面配置&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15171,8 +15171,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you need such a layout, begin with a single-column design, then add a multiple-column section.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T133856Z" creationid="Jeff Huang" creationdate="20180129T133856Z">
-        <seg>如果你需要這樣的版面配置，請從單欄設計開始，然後再加入多欄的部份。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161155Z" creationid="Jeff Huang" creationdate="20180129T133856Z">
+        <seg>如果你確實需要這樣的版面配置，請從單欄設計開始，然後再單獨加入多欄的區段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25812,8 +25812,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Unfortunately, you will need to add the section on each instance of the page style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134240Z" creationid="Jeff Huang" creationdate="20180129T134240Z">
-        <seg>不幸的是，你將必須為每個頁面樣式的實體新增頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161237Z" creationid="Jeff Huang" creationdate="20180129T134240Z">
+        <seg>不幸的是，你必須為每個多欄區段新增各自的頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
