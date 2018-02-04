@@ -5775,8 +5775,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;You can add more columns, but the tools assume no more than 4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T095821Z" creationid="Jeff Huang" creationdate="20180129T095821Z">
-        <seg>&lt;f1&gt;你可以新增更多欄，但工具假定不會超過4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155601Z" creationid="Jeff Huang" creationdate="20180129T095821Z">
+        <seg>&lt;f1&gt;你可以新增更多欄，&lt;del&gt;但工具假定不會超過4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5。&lt;/f3&gt;&lt;/del&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12935,8 +12935,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fortunately, this is exactly what the &lt;f0&gt;Column&lt;/f0&gt; tab assumes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155357Z" creationid="Jeff Huang" creationdate="20180129T095609Z">
-        <seg>幸運的是，這正是「&lt;f0&gt;多欄&lt;/f0&gt;」標籤頁原本的假設。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155544Z" creationid="Jeff Huang" creationdate="20180129T095609Z">
+        <seg>幸運的是，這正是「&lt;f0&gt;多欄&lt;/f0&gt;」標籤頁原本的假設。（不，現在測試 5.4 以後都沒有假定 4-5 欄了，設定成10欄都行，要改寫。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27725,8 +27725,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can set the number of columns by entering an exact number plus a layout under &lt;f0&gt;Settings.&lt;/f0&gt; In most cases, all columns are given the same width.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T130434Z" creationid="Jeff Huang" creationdate="20180129T130434Z">
-        <seg>你可以透過在&lt;f0&gt;設定&lt;/f0&gt;下輸入一個確切的數字加上版面配置來設定欄位數。在大多數的情況下，所有欄位都會有一樣的寬度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155944Z" creationid="Jeff Huang" creationdate="20180129T130434Z">
+        <seg>在「&lt;f0&gt;設定&lt;/f0&gt;」下你可以輸入一個確切的數字，或者挑選版面配置選項來設定欄數。在大多數的情況下，所有的欄寬都會一樣。</seg>
       </tuv>
     </tu>
     <tu>
