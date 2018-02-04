@@ -2165,8 +2165,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Footnotes are positioned automatically by LibreOffice – usually with acceptable results, although occasionally the only &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;solution is to convert them to endnotes instead.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T134913Z" creationid="Jeff Huang" creationdate="20180129T134913Z">
-        <seg>&lt;f0&gt;註腳會由LibreOffice自動定位，通常結果不會太差，雖然有時候唯一的&lt;/f0&gt;&lt;f2&gt;解決方法是將其轉換為尾註。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161526Z" creationid="Jeff Huang" creationdate="20180129T134913Z">
+        <seg>&lt;f0&gt;註腳的位置由LibreOffice自動定位——通常結果不會太差，不過有時想進一步改善的話，唯一&lt;/f0&gt;&lt;f2&gt;解決方案是轉換成尾註。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3722,6 +3722,9 @@
       <note>參照錯誤，略過不譯。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161329Z">
+        <seg>&lt;f0&gt;請見「&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Error: Reference source not found&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;」，第&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Error: Reference source not found&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14313,8 +14316,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can control much of the footnote layout by the settings on a page style’s &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Footnote&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135019Z" creationid="Jeff Huang" creationdate="20180129T135019Z">
-        <seg>不過，你可以透過在頁面樣式中的&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;尾註&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁&lt;/f5&gt;來控制多數的註腳版面配置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T161626Z" creationid="Jeff Huang" creationdate="20180129T135019Z">
+        <seg>不過，你可以在頁面樣式中的&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;尾註&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁&lt;/f5&gt;來控制多數的註腳版面配置。</seg>
       </tuv>
     </tu>
     <tu>
