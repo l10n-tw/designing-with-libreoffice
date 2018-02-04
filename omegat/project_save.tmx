@@ -8068,8 +8068,8 @@
       <tuv lang="EN">
         <seg>An offset is most commonly used when a document has a number of &lt;f0&gt;pages that are either unnumbered or use a different numbering system&lt;/f0&gt;, such as front matter or &lt;f1&gt;an introduction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T135640Z" creationid="Jeff Huang" creationdate="20180129T031545Z">
-        <seg>偏移最常使用的時機，就是當文件有許多&lt;f0&gt;未編號頁面，或是有使用不同編號系統的頁面&lt;/f0&gt;的情況，如前置內容&lt;f1&gt;或序文等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143453Z" creationid="Jeff Huang" creationdate="20180129T031545Z">
+        <seg>偏移最常使用的時機，就是當文件有許多&lt;f0&gt;未編號頁面，或是有使用不同編號系統的頁面&lt;/f0&gt;的情況，如前置內容&lt;f1&gt;、序文或引言等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10452,8 +10452,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create &lt;f0&gt;&lt;f1&gt;Introduction Start, Introduction Left &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;and &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Introduction Right&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; page styles, modeled on the main default pages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143352Z" creationid="Jeff Huang" creationdate="20180129T083704Z">
-        <seg>建立「&lt;f0&gt;&lt;f1&gt;序文起始」、「序文左頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」與「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;序文右頁&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」頁面樣式，在主要的預設頁面上形塑看看。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143444Z" creationid="Jeff Huang" creationdate="20180129T083704Z">
+        <seg>建立「&lt;f0&gt;&lt;f1&gt;引言起始」、「引言左頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」與「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;引言右頁&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」頁面樣式，在主要的預設頁面上形塑看看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18546,8 +18546,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>On each of these custom styles, set &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page &gt; Layout Settings &gt; Format&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; to lower case Roman numerals.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T084239Z" creationid="Jeff Huang" creationdate="20180129T084239Z">
-        <seg>在每一個自訂樣式中，設定&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「頁面 &gt; 版面配置設定 &gt; 格式」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;設定為小寫的羅馬數字。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143714Z" creationid="Jeff Huang" creationdate="20180129T084239Z">
+        <seg>在每一個自訂樣式中，將「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;頁面 &gt; 版面配置設定 &gt; 頁碼&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」設定為小寫羅馬數字。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
