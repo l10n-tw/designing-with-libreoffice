@@ -14169,8 +14169,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, to gain full control of page numbering, you need to go to &lt;f0&gt;Insert &gt; Fields &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;More Fields&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; Document &gt; Page.&lt;/f3&gt; There, you can &lt;f4&gt;override the page style’s setting with&lt;/f4&gt; another numbering format &lt;f5&gt;chosen &lt;/f5&gt;from the pane on the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T030002Z" creationid="Jeff Huang" creationdate="20180129T030002Z">
-        <seg>不過，想要完整地控制頁碼，你必須到&lt;f0&gt;「插入 &gt; 欄位 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;更多欄位&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; 文件 &gt; 頁面」。&lt;/f3&gt;在這裡，你可以覆寫從右邊的面板&lt;f5&gt;選擇的&lt;/f5&gt;編號格式與&lt;f4&gt;頁面樣式的設定&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T131820Z" creationid="Jeff Huang" creationdate="20180129T030002Z">
+        <seg>不過，想要完整控制頁碼，你必須到&lt;f0&gt;「插入 &gt; 欄位 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;更多欄位&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; 文件 &gt; 頁面」。&lt;/f3&gt;在這裡，你可以從右邊的面板中&lt;f5&gt;選擇&lt;/f5&gt;其他編號格式&lt;f4&gt;凌駕頁面樣式中的設定&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23871,8 +23871,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The sub-menu also includes a &lt;f0&gt;Page Count&lt;/f0&gt; field, so by typing one or two characters, you can quickly have “2 of 3” or “2/3.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T131134Z" creationid="Jeff Huang" creationdate="20180129T025558Z">
-        <seg>子選單中也包含了「&lt;f0&gt;頁數&lt;/f0&gt;」欄位，所以只要再輸入兩三個字，你就可以快速得出「第頁，共三頁」或“2/3”之類的頁數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T131305Z" creationid="Jeff Huang" creationdate="20180129T025558Z">
+        <seg>子選單中也包含了「&lt;f0&gt;頁數&lt;/f0&gt;」欄位，所以只要再輸入幾個字，你就可以快速得出「第2頁，共3頁」或「2/3」之類的頁數。</seg>
       </tuv>
     </tu>
     <tu>
