@@ -10452,8 +10452,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create &lt;f0&gt;&lt;f1&gt;Introduction Start, Introduction Left &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;and &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Introduction Right&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; page styles, modeled on the main default pages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T083704Z" creationid="Jeff Huang" creationdate="20180129T083704Z">
-        <seg>建立&lt;f0&gt;&lt;f1&gt;引言起始頁、引言左頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;與&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;引言右頁&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;頁面樣式，在主要的預設頁面上建模。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143352Z" creationid="Jeff Huang" creationdate="20180129T083704Z">
+        <seg>建立「&lt;f0&gt;&lt;f1&gt;序文起始」、「序文左頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」與「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;序文右頁&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」頁面樣式，在主要的預設頁面上形塑看看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19786,7 +19786,7 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Restarting page numbers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142808Z" creationid="Jeff Huang" creationdate="20180129T082418Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143050Z" creationid="Jeff Huang" creationdate="20180129T082418Z">
         <seg>重新開始頁碼</seg>
       </tuv>
     </tu>
@@ -23411,8 +23411,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The most common scenario in which page numbering restarts is when a document begins with an introduction – usually numbered in lower case &lt;f0&gt;R&lt;/f0&gt;oman numerals, then continues with the rest of the te&lt;f1&gt;x&lt;/f1&gt;t – usually numbered in Arabic numerals.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143025Z" creationid="Jeff Huang" creationdate="20180129T082753Z">
-        <seg>重新開始頁碼的狀況最常見於序言部分（西方排印做法中多以小寫羅馬數字編號），然後才進到其餘文字部份（通常以阿拉伯數字編號）的文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143054Z" creationid="Jeff Huang" creationdate="20180129T082753Z">
+        <seg>重新開始計算頁碼的狀況最常見於序言部分（西方排印做法中多以小寫羅馬數字編號），然後才進到其餘文字部份（通常以阿拉伯數字編號）的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25352,8 +25352,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To restart the page count:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T082827Z" creationid="Jeff Huang" creationdate="20180129T082827Z">
-        <seg>要讓頁數重新開始：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143104Z" creationid="Jeff Huang" creationdate="20180129T082827Z">
+        <seg>重新開始計算頁碼的步驟：</seg>
       </tuv>
     </tu>
     <tu>
