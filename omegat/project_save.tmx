@@ -3762,8 +3762,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select the now-vertical line and click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Insert &gt; Frame&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to place it in a frame.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T133002Z" creationid="Jeff Huang" creationdate="20180128T133002Z">
-        <seg>&lt;f0&gt;選取目前垂直的行並點按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 框架」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來將其置於框架中。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123724Z" creationid="Jeff Huang" creationdate="20180128T133002Z">
+        <seg>&lt;f0&gt;選取目前垂直的行，並點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 外框 &gt; 外框&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」將它置於外框之中。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14843,8 +14843,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are working in an existing document, check another page style to see how far the header or footer is positioned from the main text body in other page styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134233Z" creationid="Jeff Huang" creationdate="20180128T134233Z">
-        <seg>如果你正在處理既有的文件，檢查另一個頁面樣式以看看其他頁面樣式中的頁首與頁尾的位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123932Z" creationid="Jeff Huang" creationdate="20180128T134233Z">
+        <seg>如果你正在處理已經存在的文件，查看另外的頁面樣式中頁首與頁尾的位置放在哪裡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19377,8 +19377,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Position the frame outside the inner or outer margin, where it will act as a header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T133509Z" creationid="Jeff Huang" creationdate="20180128T133509Z">
-        <seg>將框架放置於內邊距或外邊距之外，其行為就會如同頁首或頁尾一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123803Z" creationid="Jeff Huang" creationdate="20180128T133509Z">
+        <seg>將外框放置於內邊距或外邊距之外的地方，讓它看起來就像頁首或頁尾一樣。</seg>
       </tuv>
     </tu>
     <tu>
