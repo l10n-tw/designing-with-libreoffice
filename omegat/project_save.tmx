@@ -1169,8 +1169,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adding c&lt;/f0&gt;hapters in page numbering</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T033004Z" creationid="Jeff Huang" creationdate="20180129T033004Z">
-        <seg>在頁碼中&lt;f0&gt;新增&lt;/f0&gt;章節</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152358Z" creationid="Jeff Huang" creationdate="20180129T033004Z">
+        <seg>在頁碼中&lt;f0&gt;新增&lt;/f0&gt;章號</seg>
       </tuv>
     </tu>
     <tu>
@@ -2617,8 +2617,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If necessary, from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Outline Numbering &gt; Numbering, &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;assign the style you are using to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Level 1.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;In the &lt;f7&gt;After&lt;/f7&gt; field, add a separator, such as a hyphen.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144441Z" creationid="Jeff Huang" creationdate="20180129T034004Z">
-        <seg>&lt;f0&gt;如有必要，從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 章內編號&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」中指派你要用於「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;層級1&lt;/f5&gt;&lt;/f4&gt;」的樣式。接著到「&lt;f7&gt;在這之後&lt;/f7&gt;」欄位，加入你想用的分隔符號，如連字號等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152428Z" creationid="Jeff Huang" creationdate="20180129T034004Z">
+        <seg>&lt;f0&gt;如有必要，從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 分章編號&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」中指派你要用於「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;層級1&lt;/f5&gt;&lt;/f4&gt;」的樣式。接著到「&lt;f7&gt;在這之後&lt;/f7&gt;」欄位，加入你想用的分隔符號，如連字號等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5429,8 +5429,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Later, as you write, you will find that &lt;/f1&gt;some features, such as &lt;f2&gt;Insert &gt; Fields &gt; Other Document &gt; Chapter &gt; Chapter name&lt;/f2&gt; field, depend on the pre-defined paragraph styles being in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T150155Z" creationid="zerng07" creationdate="20180121T112337Z">
-        <seg>&lt;f1&gt;之後，隨著你文件越寫越多，你會發現有&lt;/f1&gt;一些功能，例如「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件 &gt; 章 &gt; 章名&lt;/f2&gt;」這個欄位，依賴的是文件中預先定義的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152218Z" creationid="zerng07" creationdate="20180121T112337Z">
+        <seg>&lt;f1&gt;之後，隨著你文件越寫越多，你會發現有&lt;/f1&gt;一些功能，例如「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件 &gt; 分章 &gt; 章名&lt;/f2&gt;」這個欄位，依賴的是文件中預先定義的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9899,8 +9899,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Chapter</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T150206Z" creationid="Jeff Huang" creationdate="20180127T125513Z">
-        <seg>章</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152227Z" creationid="Jeff Huang" creationdate="20180127T125513Z">
+        <seg>分章</seg>
       </tuv>
     </tu>
     <tu>
@@ -20193,8 +20193,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More &gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Chapter &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Number&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T145459Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
-        <seg>選取&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 章次 &gt; 章內編號&lt;/f0&gt;&lt;f18&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152333Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
+        <seg>選取&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 分章 &gt; 章號&lt;/f0&gt;&lt;f18&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25280,8 +25280,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To include the chapter in the page numbering:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144535Z" creationid="Jeff Huang" creationdate="20180129T033029Z">
-        <seg>要在頁碼中包含章次：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152403Z" creationid="Jeff Huang" creationdate="20180129T033029Z">
+        <seg>要在頁碼中包含章號：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27883,8 +27883,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You could then have a right page that repeats &lt;f2&gt;Heading 2&lt;/f2&gt; texts to help readers see where they are in the chapter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144714Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
-        <seg>你可能會想在右頁頁首放「&lt;f2&gt;標題 2&lt;/f2&gt;」的文字來協助讀者確認目前的章內位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152322Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
+        <seg>你可能會想在右頁頁首放「&lt;f2&gt;標題 2&lt;/f2&gt;」的文字來協助讀者確認目前的章節位置。</seg>
       </tuv>
     </tu>
     <tu>
