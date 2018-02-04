@@ -929,8 +929,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Insert &gt; Fields&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; includes &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Page Number&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; in its sub-menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T024312Z" creationid="Jeff Huang" creationdate="20180129T024312Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「插入 &gt; 欄位」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;在子選單中包含了&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;頁碼&lt;/f4&gt;&lt;/f3&gt;。&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T130040Z" creationid="Jeff Huang" creationdate="20180129T024312Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;插入 &gt; 欄位&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」的子選單中包含了&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;頁碼&lt;/f4&gt;&lt;/f3&gt;選項。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20343,8 +20343,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Selecting from the sub-menu, you can insert a page number based on the setting for the current page style set from the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page &gt; Layout Settings &gt; Format field&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T024728Z" creationid="Jeff Huang" creationdate="20180129T024728Z">
-        <seg>從子選單中選取，你可以插入基於目前頁面樣式的頁碼，可以在&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「頁面 &gt; 版面配置設定 &gt; 頁碼」&lt;/f7&gt;&lt;/f6&gt;中找到。&lt;f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T130539Z" creationid="Jeff Huang" creationdate="20180129T024728Z">
+        <seg>你可以從子選單中選擇，LibreOffice會根據目前頁面樣式設定顯示頁碼。你可以前往頁面樣式的「頁面」標籤頁，在「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; 版面配置設定 &gt; 頁碼&lt;/f7&gt;&lt;/f6&gt;」中找到相關選項。&lt;f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
