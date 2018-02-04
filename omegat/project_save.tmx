@@ -5429,8 +5429,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Later, as you write, you will find that &lt;/f1&gt;some features, such as &lt;f2&gt;Insert &gt; Fields &gt; Other Document &gt; Chapter &gt; Chapter name&lt;/f2&gt; field, depend on the pre-defined paragraph styles being in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144613Z" creationid="zerng07" creationdate="20180121T112337Z">
-        <seg>&lt;f1&gt;之後，隨著你文件越寫越多，你會發現有&lt;/f1&gt;一些功能，例如「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件 &gt; 章次 &gt; 章內名稱&lt;/f2&gt;」這個欄位，依賴的是文件中預先定義的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T150155Z" creationid="zerng07" creationdate="20180121T112337Z">
+        <seg>&lt;f1&gt;之後，隨著你文件越寫越多，你會發現有&lt;/f1&gt;一些功能，例如「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件 &gt; 章 &gt; 章名&lt;/f2&gt;」這個欄位，依賴的是文件中預先定義的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9899,8 +9899,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Chapter</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144653Z" creationid="Jeff Huang" creationdate="20180127T125513Z">
-        <seg>章次</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T150206Z" creationid="Jeff Huang" creationdate="20180127T125513Z">
+        <seg>章</seg>
       </tuv>
     </tu>
     <tu>
