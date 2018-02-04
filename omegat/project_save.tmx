@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using&lt;/f0&gt; the &lt;f1&gt;Before, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;After,&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and/or&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Show sublevels &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;fields&lt;/f7&gt; mean&lt;f8&gt;s&lt;/f8&gt; that the &lt;f9&gt;settings on the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Position&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; tab need to be adjusted so there is enough space between the number and the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T034404Z" creationid="Jeff Huang" creationdate="20180204T034404Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;&lt;f1&gt;在這之前、&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;在這之後&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;與／或&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;顯示子層級&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;欄位&lt;/f7&gt;代表了&lt;f9&gt;位於&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;位置&lt;/f11&gt;&lt;/f10&gt;標籤頁上的設定需要被調整以讓數字與文字間有足夠的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T180129Z" creationid="zerng07" creationdate="20171226T090543Z">
