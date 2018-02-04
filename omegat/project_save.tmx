@@ -12318,8 +12318,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For a complete set of options, set page numbers from &lt;f0&gt;Insert &gt; Fields &gt; More Fields &gt; Document &gt; Page.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T030721Z" creationid="Jeff Huang" creationdate="20180129T030721Z">
-        <seg>要看到完整的選項，請從&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面」&lt;/f0&gt;中設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T133518Z" creationid="Jeff Huang" creationdate="20180129T030721Z">
+        <seg>想要看到完整的選項，請從「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面&lt;/f0&gt;」中設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12727,8 +12727,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, you might want to start with an introduction numbered in Roman numerals, then continue with the body of the text numbered in Arabic numerals.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T030319Z" creationid="Jeff Huang" creationdate="20180129T030319Z">
-        <seg>舉例來說，你可能想要在引言的部份從羅馬數字開始，然後到了正文的部份換成以阿拉伯數字繼續。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T133254Z" creationid="Jeff Huang" creationdate="20180129T030319Z">
+        <seg>舉例來說，你可能想要先在書本的前言或序言部份以羅馬數字編號，然後到了正文部份換成以阿拉伯數字編號（這是常見的西方字體排印做法）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27281,8 +27281,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You also have the option of adding an offset – of subtracting or adding pages from the actual page count.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T031204Z" creationid="Jeff Huang" creationdate="20180129T031204Z">
-        <seg>你也有可以新增偏移量的選項，自實際頁數新增或移除頁面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T133927Z" creationid="Jeff Huang" creationdate="20180129T031204Z">
+        <seg>你也有可以新增偏移量的選項，為實際頁數加數字或減數字。</seg>
       </tuv>
     </tu>
     <tu>
