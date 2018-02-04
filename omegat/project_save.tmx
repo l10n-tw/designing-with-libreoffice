@@ -20904,8 +20904,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Size the frame so it occupies the full space between the top and bottom margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134512Z" creationid="Jeff Huang" creationdate="20180128T134512Z">
-        <seg>調整框架的大小以佔據上下邊距間的空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T124127Z" creationid="Jeff Huang" creationdate="20180128T134512Z">
+        <seg>調整外框的大小，讓它佔據上下邊距間的整個空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25088,8 +25088,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To be exact, you can &lt;f0&gt;subtract the top and bottom margins from the page height to get the exact size that the frame should be.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134628Z" creationid="Jeff Huang" creationdate="20180128T134628Z">
-        <seg>要更精確的話，你可以&lt;f0&gt;用頁面高度減掉上下邊距來取得框架的確切大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T124202Z" creationid="Jeff Huang" creationdate="20180128T134628Z">
+        <seg>如果要更精確的話，你可以&lt;f0&gt;用頁面高度減掉上下邊距來換算外框的確切大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25537,8 +25537,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Turn on the grid to help you position the frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T134305Z" creationid="Jeff Huang" creationdate="20180128T134305Z">
-        <seg>開啟網格以協助你定位框架。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T124038Z" creationid="Jeff Huang" creationdate="20180128T134305Z">
+        <seg>啟用網格（「檢視 &gt; 顯示網格」）協助你定位外框。</seg>
       </tuv>
     </tu>
     <tu>
