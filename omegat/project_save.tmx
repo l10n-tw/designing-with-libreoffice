@@ -15405,8 +15405,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Immediately before the page on which the page count restarts and the main body of the text begins, select &lt;f0&gt;Insert &gt; Manual Break.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T085003Z" creationid="Jeff Huang" creationdate="20180129T085003Z">
-        <seg>在快到頁數重新開始且正文開始的頁面前，選取&lt;f0&gt;「插入 &gt; 手動分隔」。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143954Z" creationid="Jeff Huang" creationdate="20180129T085003Z">
+        <seg>在頁數即將重新開始計算、且正文內容還沒開始之前的頁面中，選取「&lt;f0&gt;插入 &gt; 手動分隔&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
