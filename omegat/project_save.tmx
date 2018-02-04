@@ -1828,8 +1828,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;D&lt;/f0&gt;esigners sometimes pride themselves on a minimum of indicators, &lt;f1&gt;but better to use more indicators than are strictly necessary than have readers miss that you are starting a new chapter.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112605Z" creationid="Jeff Huang" creationdate="20180125T032821Z">
-        <seg>設計師有時會以使用最少的指標為榮，&lt;f1&gt;但最好使用比需要的最低指標數再多一點，不要讓讀者錯過你開始新章節的地方。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144646Z" creationid="Jeff Huang" creationdate="20180125T032821Z">
+        <seg>設計師有時會以使用最少的指標為榮，&lt;f1&gt;但最好使用比需要的最低指標數再多一點，不要讓讀者錯過你展開新一章的地方。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5429,8 +5429,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Later, as you write, you will find that &lt;/f1&gt;some features, such as &lt;f2&gt;Insert &gt; Fields &gt; Other Document &gt; Chapter &gt; Chapter name&lt;/f2&gt; field, depend on the pre-defined paragraph styles being in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T112337Z" creationid="zerng07" creationdate="20180121T112337Z">
-        <seg>&lt;f1&gt;之後，隨著你文件越寫越多，你會發現有&lt;/f1&gt;一些功能，例如「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件 &gt; 章節 &gt; 章節名稱&lt;/f2&gt;」這個欄位，依賴的是文件中預先定義的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144613Z" creationid="zerng07" creationdate="20180121T112337Z">
+        <seg>&lt;f1&gt;之後，隨著你文件越寫越多，你會發現有&lt;/f1&gt;一些功能，例如「&lt;f2&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt;&gt; 文件 &gt; 章次 &gt; 章內名稱&lt;/f2&gt;」這個欄位，依賴的是文件中預先定義的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9899,8 +9899,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Chapter</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125513Z" creationid="Jeff Huang" creationdate="20180127T125513Z">
-        <seg>章節</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144653Z" creationid="Jeff Huang" creationdate="20180127T125513Z">
+        <seg>章次</seg>
       </tuv>
     </tu>
     <tu>
@@ -20193,8 +20193,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More &gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Chapter &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Number&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144427Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
-        <seg>選取&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 章節 &gt; 章內編號&lt;/f0&gt;&lt;f18&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T145459Z" creationid="Jeff Huang" creationdate="20180127T135414Z">
+        <seg>選取&lt;f0&gt;「插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 章次 &gt; 章內編號&lt;/f0&gt;&lt;f18&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24623,8 +24623,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This chapter concludes with a discussion of how to design graphs and charts using LibreOffice’s Chart sub-system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040310Z" creationid="Jeff Huang" creationdate="20171220T081223Z">
-        <seg>本章節將會討論如何使用LibreOffice的「圖表」子系統設計圖形與圖表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144550Z" creationid="Jeff Huang" creationdate="20171220T081223Z">
+        <seg>本章將會討論如何使用LibreOffice的「圖表」子系統設計圖形與圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25280,8 +25280,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>To include the chapter in the page numbering:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T033029Z" creationid="Jeff Huang" creationdate="20180129T033029Z">
-        <seg>要在頁碼中包含章節：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144535Z" creationid="Jeff Huang" creationdate="20180129T033029Z">
+        <seg>要在頁碼中包含章次：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27883,8 +27883,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You could then have a right page that repeats &lt;f2&gt;Heading 2&lt;/f2&gt; texts to help readers see where they are in the chapter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T141828Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
-        <seg>你可能會想在右頁頁首放「&lt;f2&gt;標題 2&lt;/f2&gt;」的文字來協助讀者確認目前的章節位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144714Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
+        <seg>你可能會想在右頁頁首放「&lt;f2&gt;標題 2&lt;/f2&gt;」的文字來協助讀者確認目前的章內位置。</seg>
       </tuv>
     </tu>
     <tu>
