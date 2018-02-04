@@ -2617,8 +2617,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If necessary, from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Outline Numbering &gt; Numbering, &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;assign the style you are using to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Level 1.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;In the &lt;f7&gt;After&lt;/f7&gt; field, add a separator, such as a hyphen.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034004Z" creationid="Jeff Huang" creationdate="20180129T034004Z">
-        <seg>&lt;f0&gt;如有必要，從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「工具 &gt; 章節編號」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;指派你要用於&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;第一階&lt;/f5&gt;&lt;/f4&gt;的樣式。在這之&lt;f7&gt;後&lt;/f7&gt;欄位，新增分隔器，如連字號等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142031Z" creationid="Jeff Huang" creationdate="20180129T034004Z">
+        <seg>&lt;f0&gt;如有必要，從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 章節編號&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」中指派你要用於「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;層級1&lt;/f5&gt;&lt;/f4&gt;」的樣式。接著到「&lt;f7&gt;在這之後&lt;/f7&gt;」欄位，加入你想用的分隔符號，如連字號等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19273,8 +19273,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Place the cursor in the position for the page number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034033Z" creationid="Jeff Huang" creationdate="20180129T034033Z">
-        <seg>將游標置於頁碼的位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142117Z" creationid="Jeff Huang" creationdate="20180129T034033Z">
+        <seg>將游標放到該是頁碼的位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20202,8 +20202,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More Fields&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; Chapter number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034252Z" creationid="Jeff Huang" creationdate="20180129T034252Z">
-        <seg>選取&lt;f0&gt;「插入&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;文件&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;更多欄位&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt; &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;章節編號」</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142106Z" creationid="Jeff Huang" creationdate="20180129T034252Z">
+        <seg>選取「&lt;f0&gt;插入&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;文件&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;更多欄位&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt; &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;章節&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;章節編號」</seg>
       </tuv>
     </tu>
     <tu>
@@ -20471,8 +20471,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set up a paragraph style on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab so that it starts a new page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T143347Z" creationid="Jeff Huang" creationdate="20180127T134307Z">
-        <seg>在要取用之段落樣式的「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中作設定，讓它會開啟新的一頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T141842Z" creationid="Jeff Huang" creationdate="20180127T134307Z">
+        <seg>在段落樣式的「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中作設定，讓它會開啟新的一頁。</seg>
       </tuv>
     </tu>
     <tu>
