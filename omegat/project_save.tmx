@@ -9905,6 +9905,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Characters before and after numbers in a list, created using the &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; fields, &lt;f2&gt;increase the versatility of list styles.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T034945Z" creationid="Jeff Huang" creationdate="20180204T034945Z">
+        <seg>使用&lt;f0&gt;在這之前&lt;/f0&gt;與&lt;f1&gt;在這之後&lt;/f1&gt;欄位建立在清單中編號前後的字元&lt;f2&gt;可以增加清單樣式的多樣性。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Charts and graphs are created in LibreOffice with the Chart sub-system.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082545Z" creationid="Jeff Huang" creationdate="20180112T134713Z">
