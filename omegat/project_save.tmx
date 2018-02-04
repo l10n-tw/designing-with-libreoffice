@@ -19529,8 +19529,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Probably, you will want to use &lt;f0&gt;&lt;f1&gt;First Page.&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T090022Z" creationid="Jeff Huang" creationdate="20180129T090022Z">
-        <seg>也許你會想要使用&lt;f0&gt;&lt;f1&gt;第一頁。&lt;/f1&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144041Z" creationid="Jeff Huang" creationdate="20180129T090022Z">
+        <seg>也許你會想要用「&lt;f0&gt;&lt;f1&gt;第一頁&lt;/f1&gt;&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20158,8 +20158,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;hange page number,&lt;/f2&gt; and set the number to &lt;f3&gt;&lt;f4&gt;R&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;estart at.&lt;/f5&gt; Negative numbers are not allowed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T090134Z" creationid="Jeff Huang" creationdate="20180129T090134Z">
-        <seg>選取&lt;f2&gt;變更頁碼，&lt;/f2&gt;並設定編號為不允許以負數重新開始。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144149Z" creationid="Jeff Huang" creationdate="20180129T090134Z">
+        <seg>選取「&lt;f2&gt;變更頁碼&lt;/f2&gt;」，並設定你要重新開始編號的數字。這個數字不能是負數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20227,8 +20227,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Page Break&lt;/f0&gt; for the &lt;f1&gt;Type.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T085116Z" creationid="Jeff Huang" creationdate="20180129T085116Z">
-        <seg>從&lt;f1&gt;類型&lt;/f1&gt;中選取&lt;f0&gt;分頁&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144007Z" creationid="Jeff Huang" creationdate="20180129T085116Z">
+        <seg>從「&lt;f1&gt;類型&lt;/f1&gt;」中選取「&lt;f0&gt;分頁&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20303,8 +20303,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select the page style to use after the break.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T085906Z" creationid="Jeff Huang" creationdate="20180129T085906Z">
-        <seg>選取要用於分隔後的頁面樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144030Z" creationid="Jeff Huang" creationdate="20180129T085906Z">
+        <seg>選取分頁後要使用的頁面樣式。</seg>
       </tuv>
     </tu>
     <tu>
