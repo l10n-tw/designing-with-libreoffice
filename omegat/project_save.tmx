@@ -7956,8 +7956,8 @@
       <tuv lang="EN">
         <seg>Among other possible confusions, this arrangement means that you must reduce the free space in one column before you add space to another column.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T131145Z" creationid="Jeff Huang" creationdate="20180129T131145Z">
-        <seg>在其他可能造成的混亂中，這種排列方式意味著你可能要在新增空間到其他欄位前先減少某一欄位的可用空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160443Z" creationid="Jeff Huang" creationdate="20180129T131145Z">
+        <seg>在其他可能造成的混亂中，這種安排意味著如果你想要新增空間到某一欄中，就必須先減少其他欄的可用空間才行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8616,8 +8616,8 @@
       <tuv lang="EN">
         <seg>At all times, the total with of all columns must equal the total available.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T130913Z" creationid="Jeff Huang" creationdate="20180129T130913Z">
-        <seg>在任何時候，全部欄位的總數都必須等於可用的總數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160234Z" creationid="Jeff Huang" creationdate="20180129T130913Z">
+        <seg>在任何時候，這裡全部的欄數必須等於上方設定中可用的欄數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15227,8 +15227,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you prefer, you can set each column width separately using &lt;f0&gt;Width &amp; S&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;pac&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ing&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160039Z" creationid="Jeff Huang" creationdate="20180129T130637Z">
-        <seg>如果你偏好的話，你可以改為利用「&lt;f0&gt;寬度和間距&lt;/f0&gt;」分別設定各個欄位的寬度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160137Z" creationid="Jeff Huang" creationdate="20180129T130637Z">
+        <seg>如果你想要的話，還可以利用「&lt;f0&gt;寬度和間距&lt;/f0&gt;」分別設定各個欄位的寬度。</seg>
       </tuv>
     </tu>
     <tu>
