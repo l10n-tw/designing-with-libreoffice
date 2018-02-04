@@ -4591,8 +4591,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Too many&lt;/f0&gt; columns may result in poor hyphenation and problems with alignment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T095132Z" creationid="Jeff Huang" creationdate="20180129T095132Z">
-        <seg>&lt;f0&gt;太多&lt;/f0&gt;欄可能會導致難看的連字號與一些對齊問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155250Z" creationid="Jeff Huang" creationdate="20180129T095132Z">
+        <seg>&lt;f0&gt;太多&lt;/f0&gt;欄可能導致連字號太多很難讀，還會遇到一些對齊上的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12935,8 +12935,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fortunately, this is exactly what the &lt;f0&gt;Column&lt;/f0&gt; tab assumes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T095609Z" creationid="Jeff Huang" creationdate="20180129T095609Z">
-        <seg>幸運的是，這正是&lt;f0&gt;多欄&lt;/f0&gt;標籤頁原本的假設。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155357Z" creationid="Jeff Huang" creationdate="20180129T095609Z">
+        <seg>幸運的是，這正是「&lt;f0&gt;多欄&lt;/f0&gt;」標籤頁原本的假設。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18604,8 +18604,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>On the most commonly used formats – A4 or &lt;f0&gt;L&lt;/f0&gt;etter sized paper with a portrait orientation – you probably have room for a maximum of &lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt; columns, unless some of them are extremely narrow.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155128Z" creationid="Jeff Huang" creationdate="20180129T094931Z">
-        <seg>在最常用的格式中（也就是A4與Letter大小的縱向頁面），你的空間也許最多能容納到&lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;欄，不過有一些欄的空間會真的很窄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155157Z" creationid="Jeff Huang" creationdate="20180129T094931Z">
+        <seg>在最常用的格式中（也就是A4與Letter大小的縱向頁面），你的空間也許最多能容納到&lt;f1&gt;4&lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt;5&lt;/f3&gt;欄，不過有一些欄的空間會非常窄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20152,6 +20152,9 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <note>又是參照錯誤......不想翻</note>
       <tuv lang="EN">
         <seg>See “&lt;rf1&gt;Error: Reference source not found&lt;/rf1&gt;,” &lt;f2&gt;page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;Error: Reference source not found&lt;/rf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155315Z">
+        <seg>請見〈&lt;rf1&gt;Error: Reference source not found&lt;/rf1&gt;〉， &lt;f2&gt;第&lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;Error: Reference source not found&lt;/rf4&gt;&lt;/f3&gt;&lt;f5&gt;頁。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
