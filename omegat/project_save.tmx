@@ -25783,6 +25783,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unless modified, these&lt;/f0&gt; character style&lt;f1&gt;s&lt;/f1&gt; use the same font and font size as the &lt;f2&gt;Default &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Style&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; c&lt;/f5&gt;haracter style, and appl&lt;f6&gt;y&lt;/f6&gt; to both the number and any text in the &lt;f7&gt;Before&lt;/f7&gt; or &lt;f8&gt;After&lt;/f8&gt; fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T035854Z" creationid="Jeff Huang" creationdate="20180204T035854Z">
+        <seg>除非經過修改，否則這些&lt;/f0&gt;字元樣式會使用與&lt;f2&gt;預設&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;樣式&lt;/f4&gt;&lt;/f3&gt;字元樣式相同的字型與大小，並同時套用到編號與任何在&lt;f7&gt;在這之前&lt;/f7&gt;或&lt;f8&gt;在這之後&lt;/f8&gt;欄位中的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unless some of your templates are extremely similar, you &lt;f3&gt;probably &lt;/f3&gt;won't want to design more than one at a time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T082902Z" creationid="Franklin Weng" creationdate="20171213T132634Z">
