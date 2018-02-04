@@ -2101,8 +2101,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Follow&lt;/f0&gt; steps 3 and 5 for every page style in the document that includes &lt;f1&gt;chapter-&lt;/f1&gt;page numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T034725Z" creationid="Jeff Huang" creationdate="20180129T034725Z">
-        <seg>對文件每個包含&lt;f1&gt;章節-&lt;/f1&gt;頁碼的頁面樣式&lt;f0&gt;重覆&lt;/f0&gt;步驟三至五。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142754Z" creationid="Jeff Huang" creationdate="20180129T034725Z">
+        <seg>對文件中包含章內頁碼的每個頁面樣式&lt;f0&gt;重覆&lt;/f0&gt;步驟三至五的動作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20184,8 +20184,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;More Fields&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Document &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Page &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;&gt;&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; Page Numbers&lt;/f18&gt; &lt;f19&gt;(or simply &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Insert &gt; Fields &gt; Page Number&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;) to add the page number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141820Z" creationid="Jeff Huang" creationdate="20180129T034536Z">
-        <seg>選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面 &gt; 頁碼&lt;/f0&gt;&lt;f19&gt;」（或是「&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;插入 &gt; 欄位 &gt; 頁碼&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;」也可以）以新增頁碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142621Z" creationid="Jeff Huang" creationdate="20180129T034536Z">
+        <seg>選取「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 文件 &gt; 頁面 &gt; 頁碼&lt;/f0&gt;&lt;f19&gt;」（或是「插入 &gt; 頁碼」和「&lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;插入 &gt; 欄位 &gt; 頁碼&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;」也都可以）以新增頁碼。</seg>
       </tuv>
     </tu>
     <tu>
