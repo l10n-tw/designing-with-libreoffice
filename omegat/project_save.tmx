@@ -1506,8 +1506,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before you design, sketch out the alternatives for &lt;/f0&gt;positioning multiple &lt;f1&gt;images&lt;/f1&gt; on the &lt;f2&gt;same&lt;/f2&gt; page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084449Z" creationid="zerng07" creationdate="20180205T084449Z">
-        <seg>&lt;f0&gt;在你設計之前，先草圖畫出在&lt;f2&gt;同&lt;/f2&gt;一樣上&lt;/f0&gt;放置多張&lt;f1&gt;影像&lt;/f1&gt;的不同選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084502Z" creationid="zerng07" creationdate="20180205T084449Z">
+        <seg>&lt;f0&gt;在你設計之前，先草圖畫出在&lt;f2&gt;同&lt;/f2&gt;一樣上&lt;/f0&gt;放置多張&lt;f1&gt;影像&lt;/f1&gt;的不同做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2891,6 +2891,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135711Z" creationid="zerng07" creationdate="20170817T135446Z">
         <seg>&lt;f0&gt;換句話說，這些自由字型和對應的專有字型有一樣的垂直空間和水平空間，雖然在字型本身的設計上卻不盡相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File name&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, adding a path changes the image from an embedded image that is part of the document file to a linked, separate file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120816Z" creationid="zerng07" creationdate="20180205T120816Z">
+        <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔名&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位中加入路徑，會讓內嵌的影像從文件檔內的一部分，改變成連結式的獨立檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4517,6 +4525,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;These tools do not affect the image itself, only its display.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T092132Z" creationid="zerng07" creationdate="20180205T092132Z">
+        <seg>&lt;f0&gt;這些工具不會影像原始影像，只會影響它的顯示畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;These uses aside, o&lt;/f0&gt;ne of the most common animations is displaying bullet points or lines one at a time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T091200Z" creationid="Franklin Weng" creationdate="20180120T114139Z">
@@ -5144,6 +5160,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093027Z" creationid="Franklin Weng" creationdate="20180120T120630Z">
         <seg>&lt;f0&gt;你還可以調整動畫出現的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;方向&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;速度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，不過這個例子中不需要。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>發現 Crop 有「裁切」和「裁剪」兩個翻譯，統一為「裁切」。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can adjust how an image displays with the tools on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Crop&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs, which are available when you select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Image Properties&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; from its right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T092049Z" creationid="zerng07" creationdate="20180205T092049Z">
+        <seg>&lt;f0&gt;你可以對影像按右鍵，從右鍵選單中選取「&lt;f7&gt;&lt;f8&gt;屬性&lt;/f8&gt;&lt;/f7&gt;&lt;/f0&gt;」，然後在「&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;裁切&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁的提供工具中調整影像的顯示內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10072,6 +10097,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T133957Z" creationid="Franklin Weng" creationdate="20180106T042102Z">
         <seg>把它調整為12/16（行距改為16）看起來有改善：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing the path replaces the image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120857Z" creationid="zerng07" creationdate="20180205T120857Z">
+        <seg>變更路徑取代影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18978,6 +19011,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Image&lt;/f0&gt; tab, you can flip an image vertically or horizontally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T092320Z" creationid="zerng07" creationdate="20180205T092320Z">
+        <seg>在「&lt;f0&gt;影像&lt;/f0&gt;」標籤頁中，你可以垂直或水平翻轉影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>可是現在不是 5 倍嗎？五倍鑽石。啊，不是，是五倍紅寶石。啊啊，也不對，是18的五倍，應該是90才對。</note>
       <tuv lang="EN">
         <seg>On the &lt;f0&gt;Indents and Spacing&lt;/f0&gt; tab, set &lt;f1&gt;Spac&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;ing&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Below &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Paragraph&lt;/f6&gt;&lt;/f5&gt; to &lt;f7&gt;95&lt;/f7&gt; points (5 lines).</seg>
@@ -19858,6 +19899,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preparing images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084458Z" creationid="zerng07" creationdate="20180205T084458Z">
+        <seg>準備影像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preparing notes and handouts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T121226Z" creationid="Franklin Weng" creationdate="20180120T121226Z">
@@ -20575,6 +20624,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T130535Z" creationid="Franklin Weng" creationdate="20180103T131744Z">
         <seg>請參見「&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;依歷史分類作搭配&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;」這段，在第 &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Choosing linking or embedding&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;9&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120936Z" creationid="zerng07" creationdate="20180205T120936Z">
+        <seg>請見〈&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;選擇連結還是內嵌&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;〉，第&lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;9&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;頁。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22406,6 +22463,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055530Z" creationid="Jeff Huang" creationdate="20171228T073527Z">
         <seg>.sod 檔包含自訂的線條格式，而 .soe 檔則包含自訂的箭頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab has no undo function, but you can easily change the settings until you revert to the original.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T092250Z" creationid="zerng07" creationdate="20180205T092250Z">
+        <seg>「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁沒有取消動作的功能，但在你還原回原始狀態前，你都可以輕鬆修改設定值。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26791,6 +26856,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using these settings, you could add dingbats or perhaps decorative scroll work twice in a two-page spread so that they formed a mirrored image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120649Z" creationid="zerng07" creationdate="20180205T120644Z">
+        <seg>利用這些設定，你可以在兩頁式書籍配置中加入雜錦圖或卷軸裝飾兩次來構成鏡像影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usually, &lt;f2&gt;a full line-space&lt;/f2&gt; (middle) &lt;f3&gt;avoids both extremes.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095454Z" creationid="zerng07" creationdate="20180125T085525Z">
@@ -28195,6 +28268,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131410Z" creationid="Franklin Weng" creationdate="20171223T123451Z">
         <seg>你可以進一步用「&lt;f0&gt;佔位項&lt;/f0&gt;」字元樣式來調整佔位項的外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can further refine the editing by setting which pages the image is flipped upon.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T092442Z" creationid="zerng07" creationdate="20180205T092442Z">
+        <seg>你可以進一步設定影像要在哪些頁面上翻轉來微調設定。</seg>
       </tuv>
     </tu>
     <tu>
