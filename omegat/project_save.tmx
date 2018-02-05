@@ -12591,6 +12591,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a bullet list &lt;t1/&gt;can be made into a checklist &lt;f2&gt;by selecting the font or character used for the bullet.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090812Z" creationid="Jeff Huang" creationdate="20180205T090812Z">
+        <seg>舉例來說，&lt;f2&gt;透果選取用於項目符號的字型或字元，項目符號清單也可以做成檢查表。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, a list style can have a character style associated with it so that you can have colored bullets or numbers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162101Z" creationid="zerng07" creationdate="20171227T161926Z">
@@ -15545,6 +15553,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T090910Z" creationid="Jeff Huang" creationdate="20180112T140433Z">
         <seg>如果你想要另一張類似的圖表，就&lt;f0&gt;必須&lt;/f0&gt;複製、貼上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want a checklist to be used with a pen, set up the list style in the usual way, using a character style that uses the OpenSymbol font that ships with LibreOffice, and assign the character &lt;f0&gt;U+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;E00B&lt;/f2&gt;&lt;/f1&gt; (a &lt;f3&gt;shaded&lt;/f3&gt; open box) as the bullet (that is two zeros, not lower case “o”s&lt;f4&gt;)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091300Z" creationid="Jeff Huang" creationdate="20180205T091300Z">
+        <seg>如果你想要一個可以用筆在上面塗塗寫寫的檢查表的話，請以一般的方式設定清單樣式，並套用使用內建於LibreOffice的OpenSymbol字型的字元樣式，然後將字元指定為&lt;f0&gt;U+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;E00B&lt;/f2&gt;&lt;/f1&gt;（這是帶&lt;f3&gt;陰影&lt;/f3&gt;的方框）並套用到項目符號上（其為兩個零而非小寫的「o」）。</seg>
       </tuv>
     </tu>
     <tu>
