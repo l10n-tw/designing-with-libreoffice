@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T093939Z" creationid="Jeff Huang" creationdate="20180205T093939Z">
+        <seg>&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Having designed an effective slide show, you must also design an effective means of delivery.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T171017Z" creationid="Franklin Weng" creationdate="20180120T125158Z">
@@ -9558,6 +9566,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041552Z" creationid="Jeff Huang" creationdate="20180116T053327Z">
         <seg>相較之下，字數與作者姓名就不會一起出現在頁首或頁尾，除非你真的沒有其他地方能放了。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Linked graphic&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;only adds a link to the graphic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T093919Z" creationid="Jeff Huang" creationdate="20180205T093919Z">
+        <seg>相較之下，&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;連結圖形&lt;/f5&gt;&lt;/f4&gt;&lt;f9&gt;只新增了連到到圖案中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20568,6 +20584,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T123751Z" creationid="Franklin Weng" creationdate="20171224T082445Z">
         <seg>請參考〈&lt;f9&gt;&lt;bf10&gt;字型效果&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;〉，第&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;？？&lt;/bf13&gt;&lt;/f12&gt;頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>參照錯誤，略過不譯。</note>
+      <tuv lang="EN">
+        <seg>See “&lt;/f9&gt;&lt;f10&gt;&lt;rf11&gt;Error: Reference source not found&lt;/rf11&gt;&lt;/f10&gt;&lt;f12&gt;,” page &lt;/f12&gt;&lt;f13&gt;&lt;rf14&gt;Error: Reference source not found&lt;/rf14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
