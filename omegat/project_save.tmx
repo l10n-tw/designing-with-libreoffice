@@ -6659,6 +6659,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;Print the list, and it is immediately ready for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091324Z" creationid="Jeff Huang" creationdate="20180205T091324Z">
+        <seg>&lt;f5&gt;列印清單，然後就可以直接使用了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;Within the same presentation, you can store several different shows, each for a different audience or circumstance.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T170712Z" creationid="Franklin Weng" creationdate="20180120T123214Z">
@@ -7513,6 +7521,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T161732Z" creationid="Franklin Weng" creationdate="20180103T125539Z">
         <seg>這樣一來，文件可能過大而無法當成郵件附件寄送給收件者，尤其是電子信箱供應商有限制附件大小時就會變得很麻煩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add some corporate branding and letterhead, and the To Do list can be used in business.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091442Z" creationid="Jeff Huang" creationdate="20180205T091442Z">
+        <seg>再新增一些品牌標誌與信頭，這就是商業用的待辦清單了。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15602,6 +15618,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150021Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
         <seg>如果你想要調整物件大小或改變它的形狀，請拖曳點按它之後出現的手把。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use the list on the computer, create two &lt;f0&gt;list &lt;/f0&gt;styles, one that uses the character U+2752, and one that uses the character U+E531 (a box with a check mark).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091714Z" creationid="Jeff Huang" creationdate="20180205T091714Z">
+        <seg>如果你想要使用在電腦上的清單，請建立兩個&lt;f0&gt;清單&lt;/f0&gt;樣式，其中一個使用U+2752字元，另一個則使用U+E531字元（帶有勾選符號的方框）</seg>
       </tuv>
     </tu>
     <tu>
