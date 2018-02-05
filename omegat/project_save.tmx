@@ -1191,6 +1191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Adjust the size of the numbers using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Options &gt; Character Style.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T020827Z" creationid="Jeff Huang" creationdate="20180205T020827Z">
+        <seg>使用&lt;f1&gt;&lt;f2&gt;「選項 &gt; 字元樣式」&lt;/f2&gt;&lt;/f1&gt;&lt;f0&gt;來調整編號大小。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adjusting the page c&lt;/f0&gt;olor</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T104745Z" creationid="Franklin Weng" creationdate="20180105T130657Z">
@@ -3816,6 +3824,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T105213Z" creationid="Jeff Huang" creationdate="20180116T070541Z">
         <seg>&lt;f0&gt;將姓名與公司這兩項和其他聯絡資訊分開沒有什麼意義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbering Alignment &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;to&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021245Z" creationid="Jeff Huang" creationdate="20180205T021245Z">
+        <seg>&lt;f0&gt;將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;設定為&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;右&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
