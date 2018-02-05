@@ -7136,8 +7136,8 @@
       <tuv lang="EN">
         <seg>A color or graphic background usually does not need a border unless some point along its edge blends into the paper color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T024401Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
-        <seg>彩色背景或是圖案背景通常不需要邊框，除非邊緣有地方會混入紙張色彩中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141858Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
+        <seg>彩色背景或是圖案背景通常不需要邊框，除非邊緣有地方的顏色會和紙張色彩混在一起。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8606,6 +8606,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T104853Z" creationid="Jeff Huang" creationdate="20180121T132650Z">
         <seg>將圓柱、矩形與三角形排列在一起，並且合成一個群組，能做出一個有模有樣的鉛筆，適合當作文件中的圖示使用，例如拿來標示祕訣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a final step in image editing, remov&lt;f0&gt;e&lt;/f0&gt; any unnecessary clutter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141755Z" creationid="zerng07" creationdate="20180205T141755Z">
+        <seg>影像編輯的最後一步，移除任何不必要的雜亂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10442,6 +10450,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072213Z" creationid="Jeff Huang" creationdate="20180115T072213Z">
         <seg>Cinzel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleaning up the image</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141717Z" creationid="zerng07" creationdate="20180205T141717Z">
+        <seg>清理影像</seg>
       </tuv>
     </tu>
     <tu>
@@ -16895,6 +16911,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030516Z" creationid="zerng07" creationdate="20171227T030516Z">
         <seg>在&lt;/f0&gt;LibreOffice 4.4&lt;f1&gt;和後續版本中，&lt;/f1&gt;你可以先反白標明文件的部分內容，接著從工具列的樣式下拉選單中找出你要的樣式，並在這個樣式旁邊的下拉選單中選取「&lt;f2&gt;更新&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;以符合&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;選取內容&lt;/f5&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include the shadow and you have a natural border that needs no further attention.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141713Z" creationid="zerng07" creationdate="20180205T141704Z">
+        <seg>加上了陰影後，你就有了自然邊緣而不需多加處理。</seg>
       </tuv>
     </tu>
     <tu>
