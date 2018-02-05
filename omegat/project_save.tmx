@@ -5003,6 +5003,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When you use&lt;/f0&gt; an unusual character &lt;f1&gt;style &lt;/f1&gt;for bullets, &lt;f2&gt;be sure to include the font used when you share a file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T085806Z" creationid="Jeff Huang" creationdate="20180205T085806Z">
+        <seg>&lt;f0&gt;當你在項目符號上使用&lt;/f0&gt;不尋常的字元&lt;f1&gt;樣式時&lt;/f1&gt;，&lt;f2&gt;請在分享檔案時也包含所使用的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When&lt;/f0&gt; documents have been added to a master document or pasted together, the number&lt;f1&gt;ing of the first numbered&lt;/f1&gt; list in each document &lt;f2&gt;may need to be&lt;/f2&gt; restart&lt;f3&gt;ed manually&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090832Z" creationid="Jeff Huang" creationdate="20171213T023454Z">
@@ -15566,6 +15574,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your design includes nested bullets – that is, bullet lists within bullet lists – you might want to create an additional &lt;f0&gt;list style&lt;/f0&gt; with a name like &lt;f1&gt;Bullets2.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090254Z" creationid="Jeff Huang" creationdate="20180205T090254Z">
+        <seg>如果你的設計包含了巢狀的項目符號（也就是說，你的項目符號底下還有另一層項目符號），你可能會想要建立另外的&lt;f0&gt;清單樣式&lt;/f0&gt;名稱，如&lt;f1&gt;項目符號2。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your document has no footnotes, ignore the &lt;f0&gt;Footnote&lt;/f0&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T021940Z" creationid="Jeff Huang" creationdate="20180129T135802Z">
@@ -23332,6 +23348,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143020Z" creationid="zerng07" creationdate="20170822T141123Z">
         <seg>而表現出這類性質的特徵，應該只有那些經過訓練的&lt;f2&gt;眼睛&lt;/f2&gt;能警覺分辨出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field name is deceptive: To set up a bullet list, select &lt;f0&gt;Options &gt; Number &gt; Bullet&lt;/f0&gt; in a list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090034Z" creationid="Jeff Huang" creationdate="20180205T090034Z">
+        <seg>欄位名稱有點誤導：要設定項目符號清單，請在清單樣式中選取&lt;f0&gt;「選項 &gt; 編號 &gt; 項目符號」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
