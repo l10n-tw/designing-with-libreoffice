@@ -2728,6 +2728,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you &lt;/f0&gt;take a screen shot of a menu, white out any irrelevant text &lt;f1&gt;and dialogs in the background.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142011Z" creationid="zerng07" creationdate="20180205T142011Z">
+        <seg>&lt;f0&gt;如果你&lt;/f0&gt;為某個選單擷取了螢幕快照，可將背景中無關的文字和對話視窗用白色區塊遮掉&lt;f1&gt;。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you change the shadow’s position, use the same position for other shadows throughout the document.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T073930Z" creationid="Jeff Huang" creationdate="20180104T055945Z">
@@ -10278,6 +10286,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for details in the background that might accidentally violate someone’s privacy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142103Z" creationid="zerng07" creationdate="20180205T142103Z">
+        <seg>仔細檢查背景的細節，確認畫面中沒有意外暴露誰的隱私資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that &lt;f0&gt;Effect Appear &gt; Start &lt;/f0&gt;on the&lt;f1&gt; Custom Animation&lt;/f1&gt; pane is set to &lt;f2&gt;On Click.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T092957Z" creationid="Franklin Weng" creationdate="20180120T120515Z">
@@ -10979,6 +10995,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072026Z" creationid="Jeff Huang" creationdate="20180115T072026Z">
         <seg>Crimson Text, EB Garamond</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crop any blank space in an image if possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142126Z" creationid="zerng07" creationdate="20180205T142126Z">
+        <seg>如果可以的話，裁切掉任何影像中的空白空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13101,6 +13125,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T052144Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
         <seg>舉例來說，在大多數的Writer樣式裡，你可能不大需要邊框或背景，但在Draw之中，這樣的特性&lt;f0&gt;（如「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」與「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區塊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」）&lt;/f6&gt;就變成了重點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141911Z" creationid="zerng07" creationdate="20180205T141911Z">
+        <seg>範例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20951,6 +20983,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T073013Z" creationid="Jeff Huang" creationdate="20171229T035339Z">
         <seg>詳情請見〈第13章〉。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See if you can improve the contrast of an exceptionally dark or light image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142209Z" creationid="zerng07" creationdate="20180205T142209Z">
+        <seg>確認你是否可以改善過暗或過亮影像的對比。</seg>
       </tuv>
     </tu>
     <tu>
