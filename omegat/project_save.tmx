@@ -4662,6 +4662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Throughout LibreOffice, frames&lt;/f0&gt; &lt;f1&gt;are usually less trouble if you follow these best practices:&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142501Z" creationid="zerng07" creationdate="20180205T142424Z">
+        <seg>&lt;f0&gt;在LibreOffice的所有應用程式中，&lt;/f0&gt;&lt;f1&gt;只要你有遵循以下做法，外框通常不會遇到那麼多問題：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tilt Up&lt;/f0&gt;, &lt;f1&gt;Down&lt;/f1&gt;, &lt;f2&gt;Left&lt;/f2&gt;, &lt;f3&gt;Right:&lt;/f3&gt; Angles the sample.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T091313Z" creationid="Jeff Huang" creationdate="20180121T121207Z">
@@ -12185,6 +12193,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Experiment with image size, making it no larger than necessary for legibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142321Z" creationid="zerng07" creationdate="20180205T142321Z">
+        <seg>實驗一下影像的大小，讓影像不會比需要的尺寸還要大，但又看得看得清楚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Experiments with page color show that anything less makes the color of the font too &lt;f4&gt;d&lt;/f4&gt;ark on the page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094219Z" creationid="zerng07" creationdate="20180125T094219Z">
@@ -16983,6 +16999,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050951Z" creationid="Jeff Huang" creationdate="20171221T072310Z">
         <seg>插入你在文件中要使用的形狀各一，然後在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式和格式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」視窗中選擇樣式套用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142346Z" creationid="zerng07" creationdate="20180205T142346Z">
+        <seg>插入影像</seg>
       </tuv>
     </tu>
     <tu>
