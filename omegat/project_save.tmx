@@ -7445,6 +7445,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add extra space between the number and the list item using &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;Indent at &lt;/f1&gt;&lt;f2&gt;field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T020449Z" creationid="Jeff Huang" creationdate="20180205T020449Z">
+        <seg>使用&lt;f1&gt;縮排&lt;/f1&gt;&lt;f2&gt;欄位在編號與清單項目間增加額外的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add lines with arrows and their captions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082147Z" creationid="Jeff Huang" creationdate="20180112T133248Z">
@@ -10713,6 +10721,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002018Z" creationid="zerng07" creationdate="20180122T025918Z">
         <seg>看到被截斷的字，代表應該調整「&lt;f0&gt;固定&lt;/f0&gt;」行距數值，或是替換成「&lt;f1&gt;至少&lt;/f1&gt;」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>D&lt;/f2&gt;o not add so much space that the association between numbers and list items is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T020605Z" creationid="Jeff Huang" creationdate="20180205T020605Z">
+        <seg>&lt;/f2&gt;不要加入太多間距，這會讓編號與清單項目間的關聯遺失。</seg>
       </tuv>
     </tu>
     <tu>
