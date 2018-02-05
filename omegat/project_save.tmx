@@ -14098,6 +14098,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, notice that this field refers to the first time that the list style is used in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021712Z" creationid="Jeff Huang" creationdate="20180205T021712Z">
+        <seg>但是請注意，這個欄位是清單樣式第一次用在文件中時才會套用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, on the &lt;f0&gt;Indents &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, you can indent&lt;/f3&gt; a paragraph on the left by entering a value in the &lt;f4&gt;Before &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Text&lt;/f6&gt;&lt;/f5&gt; field, or on the right by entering a value in the &lt;f7&gt;After &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Text&lt;/f9&gt;&lt;/f8&gt; field.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T063842Z" creationid="zerng07" creationdate="20180125T063842Z">
@@ -16646,6 +16654,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134845Z" creationid="Franklin Weng" creationdate="20180126T134642Z">
         <seg>所以 Calc 中只有兩種樣式型態，而其中一種還是用來把試算表擠在同一頁中印出來用的 – 這是一種特殊使用案例，對大部份使用者來說並沒有什麼關係。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not a tool for re-starting the numbering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021737Z" creationid="Jeff Huang" creationdate="20180205T021737Z">
+        <seg>這並不是重新開始編號的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19951,6 +19967,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143050Z" creationid="Jeff Huang" creationdate="20180129T082418Z">
         <seg>重新開始頁碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reversing &lt;f0&gt;n&lt;/f0&gt;umber &lt;f1&gt;o&lt;/f1&gt;rder</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022131Z" creationid="Jeff Huang" creationdate="20180205T022131Z">
+        <seg>讓編號順序反過來</seg>
       </tuv>
     </tu>
     <tu>
@@ -25520,6 +25544,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074531Z" creationid="Jeff Huang" creationdate="20180118T134856Z">
         <seg>要移除邊框的話，就在物件上點按右鍵，並選取&lt;f0&gt;「線條 &gt; 樣式 &gt; 無」。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restart the numbering in a list, right-click on a paragraph &lt;f0&gt;with a list&lt;/f0&gt; and select &lt;f1&gt;Restart Numbering&lt;/f1&gt; from the menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021949Z" creationid="Jeff Huang" creationdate="20180205T021949Z">
+        <seg>要重新開始清單中的編號，在&lt;f0&gt;有清單&lt;/f0&gt;的段落上按右鍵並從選單中選取&lt;f1&gt;重新開始編號&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
