@@ -4445,6 +4445,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The space should be a multiple of the line-spacing.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T083511Z" creationid="zerng07" creationdate="20180205T083511Z">
+        <seg>&lt;f0&gt;空間應該要是行距的倍數。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt; first step in design is to choose the fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T123132Z" creationid="Franklin Weng" creationdate="20171224T081954Z">
@@ -26429,6 +26437,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T154508Z" creationid="Franklin Weng" creationdate="20180105T093041Z">
         <seg>用假文做實驗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using either a border or extra white space when images have the same background as the pages of your document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084234Z" creationid="zerng07" creationdate="20180205T084234Z">
+        <seg>當影像和你的文件背景相同時，可以使用邊框或額外空白。</seg>
       </tuv>
     </tu>
     <tu>
