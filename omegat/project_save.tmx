@@ -5300,6 +5300,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Create the list using the first style, then tick off an item by applying the second style to it.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091809Z" creationid="Jeff Huang" creationdate="20180205T091809Z">
+        <seg>&lt;f1&gt;使用第一種樣式來建立清單，然後再套用第二種樣式來勾選項目。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Curved connectors are most suitable when you want an informal look to a diagram, perhaps to suggest that the relationships you are illustrating are approximate.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062445Z" creationid="Jeff Huang" creationdate="20171229T021224Z">
@@ -10929,6 +10937,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090701Z" creationid="Jeff Huang" creationdate="20180205T090701Z">
         <seg>取決於你所選擇的字元，&lt;f0&gt;項目符號&lt;/f0&gt;清單樣式可以做的事情比無序清單還多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the purpose of the list, you can also create a third &lt;f0&gt;list &lt;/f0&gt;style that uses the character U+E532 (an X mark) to indicate items that were not completed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092005Z" creationid="Jeff Huang" creationdate="20180205T092005Z">
+        <seg>根據清單的用途，你還可以建立第三種&lt;f0&gt;清單&lt;/f0&gt;樣式，其使用了U+E532字元（打叉的標記）來指示尚未完成的項目。</seg>
       </tuv>
     </tu>
     <tu>
