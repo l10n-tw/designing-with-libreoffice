@@ -13025,6 +13025,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, some operating system or desktop themes place a shadow around dialog windows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141625Z" creationid="zerng07" creationdate="20180205T141625Z">
+        <seg>舉例，有些作業系統或桌面的佈景主題會在對話視窗周圍放置陰影。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, they could be all nouns or participles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024932Z" creationid="Jeff Huang" creationdate="20180201T024932Z">
@@ -14063,6 +14071,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123801Z" creationid="Franklin Weng" creationdate="20180103T125506Z">
         <seg>不過，一份原本只要14 KB的檔案，可能在嵌入兩個字型之後暴增為13.4 MB。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, a natural border can be just as effective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141442Z" creationid="zerng07" creationdate="20180205T141442Z">
+        <seg>不過，自然邊緣也會有同樣的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15144,6 +15160,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120929Z" creationid="Franklin Weng" creationdate="20180116T053408Z">
         <seg>如果其他的選項都無法滿足你的需求，那就自行製作樣式背景。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If possible, crop the image so that all its edges are a different color from the document’s background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141526Z" creationid="zerng07" creationdate="20180205T141526Z">
+        <seg>如果可以的話，裁切影像時讓全部的邊緣顏色都和文件的背景色不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21434,6 +21458,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171228T064116Z" creationid="Jeff Huang" creationdate="20171228T063625Z">
         <seg>設定線條格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting natural borders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141357Z" creationid="zerng07" creationdate="20180205T141357Z">
+        <seg>設定自然邊緣</seg>
       </tuv>
     </tu>
     <tu>
@@ -28421,6 +28453,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T111042Z" creationid="zerng07" creationdate="20171226T075813Z">
         <seg>&lt;f0&gt;有時候&lt;/f0&gt;你可以更改自訂樣式要顯示在哪個類別中，&lt;f1&gt;來讓檢視樣式時更有效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add a border to an image in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141420Z" creationid="zerng07" creationdate="20180205T141420Z">
+        <seg>你可以在LibreOffice中為影像加入邊緣。</seg>
       </tuv>
     </tu>
     <tu>
