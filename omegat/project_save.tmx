@@ -13817,6 +13817,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, be careful: too detailed or unusual a dingbat distracts from the contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023734Z" creationid="Jeff Huang" creationdate="20180205T023734Z">
+        <seg>不過要小心：過於詳細或不尋常的雜錦圖會讓讀者分心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, because each font uses the space for characters differently, the default line spacing is not always ideal.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T164634Z" creationid="Franklin Weng" creationdate="20180105T135827Z">
@@ -25416,6 +25424,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112551Z" creationid="Franklin Weng" creationdate="20171223T042710Z">
         <seg>修改預設範本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To choose a truly unusual bullet, set the character style to use a dingbat font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023556Z" creationid="Jeff Huang" creationdate="20180205T023556Z">
+        <seg>要選擇真的很不一樣的項目符號，設定字元樣式使用雜錦圖字型。</seg>
       </tuv>
     </tu>
     <tu>
