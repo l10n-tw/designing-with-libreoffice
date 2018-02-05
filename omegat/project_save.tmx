@@ -14554,6 +14554,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you might want to change the symbol using the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Character&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023305Z" creationid="Jeff Huang" creationdate="20180205T023305Z">
+        <seg>不過，你可能會想要使用&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄來變更符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you want a selection of fonts that will go together with a minimum of tweaking.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T164359Z" creationid="Franklin Weng" creationdate="20180105T121057Z">
@@ -16622,6 +16630,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T115957Z" creationid="Franklin Weng" creationdate="20180101T133905Z">
         <seg>它可以跟內文使用同一個字族。不過要這樣做的話，這部分文字所用的字型樣式、大小、色彩等就要與內文有所區隔。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It gives you a standard bullet for the Default style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023218Z" creationid="Jeff Huang" creationdate="20180205T023218Z">
+        <seg>其為你提供了預設樣式的標準項目符號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20599,6 +20615,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T130539Z" creationid="Jeff Huang" creationdate="20180129T024728Z">
         <seg>你可以從子選單中選擇，LibreOffice會根據目前頁面樣式設定顯示頁碼。你可以前往頁面樣式的「頁面」標籤頁，在「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; 版面配置設定 &gt; 頁碼&lt;/f7&gt;&lt;/f6&gt;」中找到相關選項。&lt;f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Character&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field opens a dialog window from which you can choose any symbol supported by the current font.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023503Z" creationid="Jeff Huang" creationdate="20180205T023503Z">
+        <seg>選取&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;字元&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;欄位會開啟對話框，你可以從中選擇任何目前的字型所支援的符號。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
