@@ -15062,6 +15062,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If some images are too large to display legibly at this size, consider adding a landscape page style for them.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131316Z" creationid="zerng07" creationdate="20180205T131316Z">
+        <seg>如果有些影像過大無法以這個尺寸大小適當顯示，可以考慮為它們使用橫向的頁面樣式。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If that happens, your document will not be seen how you meant it to be seen.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083143Z" creationid="Franklin Weng" creationdate="20171213T132924Z">
@@ -28993,6 +29001,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075141Z" creationid="Jeff Huang" creationdate="20171213T025322Z">
         <seg>文件中用到的各種語言或語言的不同地區環境，都需要有對應的斷字字典才能利用這個功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need this measurement when sizing &lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;images.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T124612Z" creationid="zerng07" creationdate="20180205T124612Z">
+        <seg>你會需要這個測量值來調整&lt;/f5&gt;&lt;t6/&gt;&lt;f7&gt;影像大小。</seg>
       </tuv>
     </tu>
     <tu>
