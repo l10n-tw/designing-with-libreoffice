@@ -6958,8 +6958,8 @@
       <tuv lang="EN">
         <seg>A chapter title and/or number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144415Z" creationid="Jeff Huang" creationdate="20180125T033836Z">
-        <seg>章名和或章內編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032804Z" creationid="Jeff Huang" creationdate="20180125T033836Z">
+        <seg>章名和或章號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7511,8 +7511,8 @@
       <tuv lang="EN">
         <seg>Adding chapter numbers to page numbers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144403Z" creationid="Jeff Huang" creationdate="20180129T031658Z">
-        <seg>新增章內編號到頁碼中</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032824Z" creationid="Jeff Huang" creationdate="20180129T031658Z">
+        <seg>新增章號到頁碼中</seg>
       </tuv>
     </tu>
     <tu>
@@ -23082,8 +23082,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The default is &lt;f1&gt;Heading 1,&lt;/f1&gt; but &lt;f2&gt;Title&lt;/f2&gt; or a custom style called&lt;f3&gt; Chapter Number&lt;/f3&gt; is less conf&lt;f4&gt;using.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144420Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
-        <seg>預設為「&lt;f1&gt;標題 1」段落樣式，&lt;/f1&gt;但改用「&lt;f2&gt;題名&lt;/f2&gt;」或稱為「&lt;f3&gt;章內編號&lt;/f3&gt;」的自訂樣式較不易讓人困惑。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032818Z" creationid="Jeff Huang" creationdate="20180127T134550Z">
+        <seg>預設為「&lt;f1&gt;標題 1」段落樣式，&lt;/f1&gt;但改用「&lt;f2&gt;題名&lt;/f2&gt;」或稱為「&lt;f3&gt;章號&lt;/f3&gt;」的自訂樣式較不易讓人困惑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28027,8 +28027,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can set a specific &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Maximum footnote height,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Not larger than page area&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – which means that no footnote can be larger than a page long.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T021852Z" creationid="Jeff Huang" creationdate="20180129T135621Z">
-        <seg>你可以指定「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;註腳的最高&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，或「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;最高不超過頁高&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」——代表沒有註腳可以比一頁的高度還長。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032632Z" creationid="Jeff Huang" creationdate="20180129T135621Z">
+        <seg>你可以指定「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;註腳的最高&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」高度，或是「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;最高不超過頁高&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」——代表沒有註腳可以比一頁的高度還長。</seg>
       </tuv>
     </tu>
     <tu>
