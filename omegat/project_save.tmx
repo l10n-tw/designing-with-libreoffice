@@ -14123,6 +14123,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, given the potential instability of frames, the tools on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Crop&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs are just extra things that might go wrong.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123158Z" creationid="zerng07" creationdate="20180205T123158Z">
+        <seg>不過，由於外框有潛在的不穩定性，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;裁切&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁中的修改可能提高出錯的機率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, giving names to every element is hard work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055704Z" creationid="Jeff Huang" creationdate="20171123T075855Z">
@@ -15129,6 +15137,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131414Z" creationid="zerng07" creationdate="20180130T131414Z">
         <seg>如果你在擺放某個物件時遇到麻煩，第一件事應該要檢查你是不是在編輯影像本身而不是外框，還是在編輯外框而不是影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are having trouble with graphics &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;staying in place, avoid these tabs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123248Z" creationid="zerng07" creationdate="20180205T123248Z">
+        <seg>如果你在處理圖形時遇到定位上的麻煩，&lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;記得避開這些標籤頁不要動。</seg>
       </tuv>
     </tu>
     <tu>
