@@ -3488,6 +3488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;reparing images &lt;f1&gt;in graphics editors&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123653Z" creationid="zerng07" creationdate="20180205T123653Z">
+        <seg>&lt;f1&gt;在圖形編輯器中準備影像&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Page c&lt;/f0&gt;olor &lt;f1&gt;can be affected by many variables, including the designer’s eye, the paper, and the toner left in the printer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151053Z" creationid="Franklin Weng" creationdate="20180106T023713Z">
@@ -6041,6 +6049,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Editors such as GIMP and Krita are free to download for all the operating systems that LibreOffice runs on.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123853Z" creationid="zerng07" creationdate="20180205T123853Z">
+        <seg>&lt;f2&gt;如GIMP和Krita這些編輯器都開放所有LibreOffice能運行的作業系統免費下載。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Few ever notice the visual slide transitions – t&lt;/f2&gt;he audience will judge your talk on its content and its delivery.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T072017Z" creationid="Franklin Weng" creationdate="20180120T062659Z">
@@ -8298,8 +8314,8 @@
       <tuv lang="EN">
         <seg>Another consideration is that LibreOffice’s editing tools are less versatile than many third party graphics editors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123413Z" creationid="zerng07" creationdate="20180205T123413Z">
-        <seg>另一個要考慮的是，LibreOffice的編輯工具比起第三方圖形編輯器而言還是功能太少。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123600Z" creationid="zerng07" creationdate="20180205T123413Z">
+        <seg>另一個要考慮的是，LibreOffice的編輯工具比起許多第三方圖形編輯器而言還是功能太少。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13634,6 +13650,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Graphic&lt;f0&gt;s&lt;/f0&gt; editors can be a more &lt;f1&gt;versatile and &lt;/f1&gt;reliable way of preparing images than the tools that LibreOffice itself provides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123808Z" creationid="zerng07" creationdate="20180205T123808Z">
+        <seg>圖形編輯器比起LibreOffice自身提供的影像工具，&lt;f1&gt;功用更多也更可靠&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Graphics, tables, charts, and other objects should be positioned as closely as possible to the text to which they refer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T072657Z" creationid="Jeff Huang" creationdate="20171213T023745Z">
@@ -16925,8 +16949,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It includes not only fields to crop the display, but also &lt;f1&gt;fields &lt;/f1&gt;to adjust the display size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123531Z" creationid="zerng07" creationdate="20180205T123531Z">
-        <seg>它不只包含裁切顯示畫面的欄位，也包含調整顯示大小的&lt;f1&gt;欄位 &lt;/f1&gt;&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123634Z" creationid="zerng07" creationdate="20180205T123531Z">
+        <seg>它除了有裁切顯示畫面的欄位外，也有包含調整顯示大小的&lt;f1&gt;欄位 &lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
