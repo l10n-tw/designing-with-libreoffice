@@ -10854,6 +10854,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cropping is the displaying of only part of an image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T121106Z" creationid="zerng07" creationdate="20180205T121106Z">
+        <seg>裁切是只顯示出部分的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customized lines are stored in the /user/config directory of your personal configuration path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055456Z" creationid="Jeff Huang" creationdate="20171228T071909Z">
@@ -24625,6 +24633,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152552Z" creationid="zerng07" creationdate="20171225T152552Z">
         <seg>LibreOffice的各個樣式視窗中，設定被分門別類到不同的標籤頁畫面中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt; tab edits &lt;f3&gt;how&lt;/f3&gt; a&lt;f4&gt;n image displays in LibreOffice&lt;/f4&gt;, not the image file itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T121042Z" creationid="zerng07" creationdate="20180205T121042Z">
+        <seg>「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;」標籤頁可編輯一張影像在LibreOffice中的顯現畫面&lt;/f4&gt;，而不是編輯原始影像本身。</seg>
       </tuv>
     </tu>
     <tu>
