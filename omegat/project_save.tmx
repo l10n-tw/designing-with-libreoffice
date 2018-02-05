@@ -9051,6 +9051,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bars and arrows are quickest to insert, while &lt;f0&gt;adding &lt;/f0&gt;an oval usually involves making its fill area transparent so that the part of an image &lt;f1&gt;i&lt;/f1&gt;t encircle&lt;f2&gt;s&lt;/f2&gt; is visible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T140841Z" creationid="zerng07" creationdate="20180205T140841Z">
+        <seg>線段或箭頭可以快速插入；至於橢圓的話，通常要先讓圈內的填入區塊轉為透明，才能讓圈住的內容得以被看見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base both on the Body Text (Baskervald ADF Std, 15 point).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141530Z" creationid="zerng07" creationdate="20180125T101223Z">
@@ -10346,6 +10354,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T074910Z" creationid="Jeff Huang" creationdate="20180104T075323Z">
         <seg>至少選擇跟內文字相同的字型大小，如果是&lt;f0&gt;圖表&lt;/f0&gt;可以略大一些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose one type of indicator, and note its colors and dimensions so that you can use them consistently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T140937Z" creationid="zerng07" creationdate="20180205T140937Z">
+        <seg>選擇一種指示記號，並註記使用的色彩和長度，這樣之後使用方能有一致性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28357,6 +28373,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072635Z" creationid="Jeff Huang" creationdate="20171229T034750Z">
         <seg>你只能用已經在LibreOffice中定義過的格式填入內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;f0&gt;also &lt;/f0&gt;add &lt;f1&gt;indicators such as &lt;/f1&gt;arrows, lines, &lt;f2&gt;boxes, &lt;/f2&gt;or &lt;f3&gt;callouts within the graphics editor, or by&lt;/f3&gt; using &lt;f4&gt;&lt;f5&gt;View &gt; Toolbars &gt; Drawing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141156Z" creationid="zerng07" creationdate="20180205T141156Z">
+        <seg>你&lt;f0&gt;也&lt;/f0&gt;可以從圖形編輯器中加入箭頭、線段、方框、圖說文字等&lt;f1&gt;指示記號&lt;/f1&gt;，抑或是利用「&lt;f4&gt;&lt;f5&gt;檢視 &gt; 工具列 &gt; 繪圖」完成。</seg>
       </tuv>
     </tu>
     <tu>
