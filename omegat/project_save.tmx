@@ -8296,6 +8296,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another consideration is that LibreOffice’s editing tools are less versatile than many third party graphics editors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123413Z" creationid="zerng07" creationdate="20180205T123413Z">
+        <seg>另一個要考慮的是，LibreOffice的編輯工具比起第三方圖形編輯器而言還是功能太少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another issue with font styles is that, through the years, various attempts have been made to standardize them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T160730Z" creationid="Franklin Weng" creationdate="20171228T072418Z">
@@ -16915,6 +16923,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It includes not only fields to crop the display, but also &lt;f1&gt;fields &lt;/f1&gt;to adjust the display size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123531Z" creationid="zerng07" creationdate="20180205T123531Z">
+        <seg>它不只包含裁切顯示畫面的欄位，也包含調整顯示大小的&lt;f1&gt;欄位 &lt;/f1&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is a collection of information together with calculations that help to analyze the data.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135916Z" creationid="Franklin Weng" creationdate="20180129T135916Z">
@@ -20708,6 +20724,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;Using cropping or indicators &lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;,” page &lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;8&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123321Z" creationid="zerng07" creationdate="20180205T123321Z">
+        <seg>請見〈&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;使用裁切或指示器 &lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;〉，第&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;8&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;頁。&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>參照錯誤，略過不譯。</note>
       <tuv lang="EN">
         <seg>See “&lt;/f9&gt;&lt;f10&gt;&lt;rf11&gt;Error: Reference source not found&lt;/rf11&gt;&lt;/f10&gt;&lt;f12&gt;,” page &lt;/f12&gt;&lt;f13&gt;&lt;rf14&gt;Error: Reference source not found&lt;/rf14&gt;&lt;/f13&gt;&lt;f15&gt;.</seg>
@@ -22671,6 +22695,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T154918Z" creationid="Jeff Huang" creationdate="20180129T094641Z">
         <seg>「&lt;f0&gt;多欄&lt;/f0&gt;」標籤頁包含許多設定多欄版面的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Crop&lt;/f0&gt; tab is a misnomer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123449Z" creationid="zerng07" creationdate="20180205T123449Z">
+        <seg>「&lt;f0&gt;裁切&lt;/f0&gt;」標籤頁的名稱其實不大恰當。</seg>
       </tuv>
     </tu>
     <tu>
