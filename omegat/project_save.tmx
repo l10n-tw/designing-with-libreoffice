@@ -9956,6 +9956,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the &lt;f0&gt;&lt;f1&gt;Paragraph&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; style and its associated&lt;/f2&gt; &lt;f3&gt;&lt;f4&gt;List&lt;/f4&gt;&lt;/f3&gt; style as each task is completed or &lt;f5&gt;marked as undone.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092326Z" creationid="Jeff Huang" creationdate="20180205T092326Z">
+        <seg>當每個工作完成或&lt;f5&gt;被標記為未完成時&lt;/f5&gt;，變更&lt;f0&gt;&lt;f1&gt;段落&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式與其關聯的&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;清單&lt;/f4&gt;&lt;/f3&gt;樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the &lt;f1&gt;&lt;f2&gt;Inherit from&lt;/f2&gt;&lt;/f1&gt; field on the &lt;f3&gt;Organizer&lt;/f3&gt; tab from &lt;f4&gt;&lt;f5&gt;Addressee&lt;/f5&gt;&lt;/f4&gt; to &lt;f6&gt;Header,&lt;/f6&gt; &lt;f7&gt;and c&lt;/f7&gt;hange the alignment to &lt;f8&gt;Right&lt;/f8&gt; on the &lt;f9&gt;Alignment&lt;/f9&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141326Z" creationid="zerng07" creationdate="20180125T103524Z">
@@ -27547,6 +27555,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T171446Z" creationid="Franklin Weng" creationdate="20180120T130653Z">
         <seg>學會了這些提示技巧，你應該就&lt;f0&gt;有能力掌控&lt;/f0&gt;你的投影片，而不是被投影片拖著走了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With three list styles, you can create both manual and computer-based checklists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092059Z" creationid="Jeff Huang" creationdate="20180205T092059Z">
+        <seg>有了這三種清單樣式，你就可以同時建立手寫與在電腦上使用的檢查表了。</seg>
       </tuv>
     </tu>
     <tu>
