@@ -10909,6 +10909,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the characters you choose, &lt;f0&gt;bulleted &lt;/f0&gt;list styles can serve as more than unordered lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090701Z" creationid="Jeff Huang" creationdate="20180205T090701Z">
+        <seg>取決於你所選擇的字元，&lt;f0&gt;項目符號&lt;/f0&gt;清單樣式可以做的事情比無序清單還多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the version of LibreOffice, this over-ride may cause formatting problems, so make everything consistent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T141714Z" creationid="Jeff Huang" creationdate="20180129T032933Z">
@@ -11843,6 +11851,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T130857Z" creationid="Jeff Huang" creationdate="20180125T130857Z">
         <seg>範例：結合A4/Letter的&lt;f0&gt;範本&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: Making a checklist</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090533Z" creationid="Jeff Huang" creationdate="20180205T090533Z">
+        <seg>範例：製作檢查表</seg>
       </tuv>
     </tu>
     <tu>
@@ -15997,6 +16013,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032032Z" creationid="zerng07" creationdate="20171219T032032Z">
         <seg>實際上，修改樣式會更快；&lt;f1&gt;你只需要作出一次修改，整份文件就會一併套上對應的更動。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, indenting the nested bullets and nothing more is enough to distinguish them from the top level bullets.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090518Z" creationid="Jeff Huang" creationdate="20180205T090518Z">
+        <seg>事實上，巢狀項目符號的縮排只不過是將其與最上層的項目符號分開而已。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
