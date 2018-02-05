@@ -2028,6 +2028,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Editing a graphic &lt;/f0&gt;helps readers know what to focus on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T132920Z" creationid="zerng07" creationdate="20180205T132920Z">
+        <seg>&lt;f0&gt;編輯圖形&lt;/f0&gt;可以協助讀者瞭解聚焦的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Either s&lt;/f0&gt;elect one of the templates in the Template pane &lt;f1&gt;or c&lt;/f1&gt;lick the &lt;f2&gt;From File&lt;/f2&gt; button and select a document template using the file manager.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141700Z" creationid="Franklin Weng" creationdate="20171223T132625Z">
@@ -10939,6 +10947,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T121106Z" creationid="zerng07" creationdate="20180205T121106Z">
         <seg>裁切是只顯示出部分的影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cropping is the reduction of the image to whatever is essential.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T133019Z" creationid="zerng07" creationdate="20180205T133019Z">
+        <seg>裁切是將影像化簡成只有必要部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27009,6 +27025,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using cropping or indicators</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T132854Z" creationid="zerng07" creationdate="20180205T132854Z">
+        <seg>使用裁切或指示線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using dummy text to experiment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T154508Z" creationid="Franklin Weng" creationdate="20180105T093041Z">
@@ -28927,6 +28951,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135341Z" creationid="Jeff Huang" creationdate="20180204T135341Z">
         <seg>你有幾個選項來校正這個問題：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have two main choices: cropping or adding indicators.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T132937Z" creationid="zerng07" creationdate="20180205T132937Z">
+        <seg>你有兩種選擇：裁切或加入指示線。</seg>
       </tuv>
     </tu>
     <tu>
