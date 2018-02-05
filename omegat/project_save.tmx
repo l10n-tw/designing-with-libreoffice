@@ -1263,6 +1263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;All these tools can be handier than opening a graphics editor to make changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123001Z" creationid="zerng07" creationdate="20180205T123001Z">
+        <seg>&lt;f0&gt;所有這些工具比起另外打開圖形編輯器修修改改都還要順手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All&lt;/f0&gt; of these fonts can be found from the sources listed in Appendix &lt;f1&gt;C&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100623Z" creationid="Jeff Huang" creationdate="20180115T071442Z">
@@ -15309,6 +15317,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you display only part of the image, you can select&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Keep image size &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;or else scale the newly cropped image to a percentage of its original size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T122833Z" creationid="zerng07" creationdate="20180205T122833Z">
+        <seg>如果你只想顯示影像的一部分，你可以選擇「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;維持影像大小&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」，或者是讓新裁切後的影像縮放成原始大小的某個百分比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do choose both, an obvious arrangement is to reserve one for just the page number, which is the most used information likely to be in a header or footer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T080914Z" creationid="Jeff Huang" creationdate="20180126T133018Z">
@@ -28476,6 +28492,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T130625Z" creationid="Jeff Huang" creationdate="20180129T024847Z">
         <seg>再來，你可以編輯頁碼的段落樣式對齊頁碼。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can undo such changes by clicking the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Original Image size&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T122919Z" creationid="zerng07" creationdate="20180205T122919Z">
+        <seg>你可以點按「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;原始大小&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕取消這些變更。</seg>
       </tuv>
     </tu>
     <tu>
