@@ -766,6 +766,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>為何？寫錯了嗎？頁寬減去垂直邊距？？？原理是什麼？？？</note>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;You can determine this distance by subtracting the vertical margins from the page width given on the &lt;f4&gt;Page&lt;/f4&gt; tab of &lt;f5&gt;each page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T124536Z" creationid="zerng07" creationdate="20180205T124536Z">
+        <seg>&lt;/f3&gt;你可以根據各個頁面樣式中「&lt;f4&gt;頁面&lt;/f4&gt;」標籤頁給的頁寬減去垂直間距來決定這個距離。&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;/f4&gt;</seg>
       </tuv>
