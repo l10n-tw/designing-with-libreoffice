@@ -7237,6 +7237,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A reverse order list must be entered manually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022620Z" creationid="Jeff Huang" creationdate="20180205T022620Z">
+        <seg>倒序清單必須手動輸入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A rotatable &lt;f0&gt;3D rectangle.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T092920Z" creationid="Jeff Huang" creationdate="20180121T124734Z">
@@ -21076,6 +21084,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since LibreOffice does not recognized reverse order lists, &lt;f0&gt;it will not automatically generate numbers.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022756Z" creationid="Jeff Huang" creationdate="20180205T022756Z">
+        <seg>因為LibreOffice無法識別倒序清單，&lt;f0&gt;所以其無法自動生成編號。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since each is in a &lt;f2&gt;different&lt;/f2&gt; category, &lt;f3&gt;neither you nor LibreOffice should confuse them.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162832Z" creationid="zerng07" creationdate="20171227T162832Z">
@@ -25977,6 +25993,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074605Z" creationid="zerng07" creationdate="20171224T092614Z">
         <seg>解除&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗的停駐位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately, LibreOffice provides no way short of a custom macro for reverse order in lists.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022559Z" creationid="Jeff Huang" creationdate="20180205T022559Z">
+        <seg>不幸的是，LibreOffice並未提供自定義巨集來讓編號清單的順序反過來。</seg>
       </tuv>
     </tu>
     <tu>
