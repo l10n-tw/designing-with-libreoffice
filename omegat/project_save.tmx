@@ -19939,6 +19939,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restarting a numbered list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021355Z" creationid="Jeff Huang" creationdate="20180205T021355Z">
+        <seg>重新開始編號清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restarting page numbers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143050Z" creationid="Jeff Huang" creationdate="20180129T082418Z">
@@ -22359,6 +22367,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123735Z" creationid="Franklin Weng" creationdate="20180120T123735Z">
         <seg>The &lt;f0&gt;Navigator &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;isible&lt;/f3&gt; check box gives you another way to move back and forth between slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Options&lt;/f0&gt; tab for a number&lt;f1&gt;ing&lt;/f1&gt; &lt;f2&gt;style&lt;/f2&gt; includes a &lt;f3&gt;Start at&lt;/f3&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021620Z" creationid="Jeff Huang" creationdate="20180205T021620Z">
+        <seg>編號&lt;f2&gt;樣式&lt;/f2&gt;的&lt;f0&gt;選項&lt;/f0&gt;標籤頁包含了&lt;f3&gt;起始編號&lt;/f3&gt;欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26538,6 +26554,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121458Z" creationid="Franklin Weng" creationdate="20171223T093236Z">
         <seg>&lt;/f0&gt;當你準備好要填入資訊時，點按佔位項&lt;f1&gt;欄位&lt;/f1&gt;填入資料，即可把原來的佔位內容替換掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watch that this change does not extend numbers into the left margin.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021340Z" creationid="Jeff Huang" creationdate="20180205T021340Z">
+        <seg>請注意，這個變動不會將編號延展到左邊距。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
