@@ -4675,8 +4675,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Typically,&lt;/f0&gt; you will want at least two lines’ spacing &lt;f1&gt;as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Space to text&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;,&lt;/f4&gt; and at least one line between the &lt;f5&gt;&lt;f6&gt;S&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;eparator &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;line&lt;/f9&gt;&lt;/f8&gt; and the &lt;f10&gt;&lt;f11&gt;Spacing to&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; footnote &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;contents&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T033135Z" creationid="Jeff Huang" creationdate="20180130T033135Z">
-        <seg>&lt;f0&gt;一般來說，&lt;/f0&gt;你會想要行距至少為兩倍行高&lt;f1&gt;，這是在&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;到文字的間距中&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;，&lt;/f4&gt;至少一倍行高，這就是在&lt;f7&gt;分隔&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;線&lt;/f9&gt;&lt;/f8&gt;與&lt;f10&gt;&lt;f11&gt;內容到&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt;註腳的間距&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;。&lt;/f15&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T022701Z" creationid="Jeff Huang" creationdate="20180130T033135Z">
+        <seg>&lt;f0&gt;一般來說，&lt;/f0&gt;你會想要讓&lt;f1&gt;「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;離文字的空間&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」至少為兩倍行距，&lt;/f4&gt;讓「&lt;f7&gt;分隔&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;線&lt;/f9&gt;&lt;/f8&gt;」其&lt;f10&gt;&lt;f11&gt;「&lt;/f11&gt;&lt;/f10&gt;&lt;f13&gt;&lt;f14&gt;至註腳內容的間隔&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;」為至少一倍行距。&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7279,8 +7279,8 @@
       <tuv lang="EN">
         <seg>A separator should be as thin and as short as possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T033230Z" creationid="Jeff Huang" creationdate="20180130T033230Z">
-        <seg>分隔線應輕薄短小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T022713Z" creationid="Jeff Huang" creationdate="20180130T033230Z">
+        <seg>分隔線應該盡可能輕薄短小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15528,8 +15528,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If your document has no footnotes, ignore the &lt;f0&gt;Footnote&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135802Z" creationid="Jeff Huang" creationdate="20180129T135802Z">
-        <seg>如果你的文件沒有註腳，請忽略&lt;f0&gt;註腳&lt;/f0&gt;標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T021940Z" creationid="Jeff Huang" creationdate="20180129T135802Z">
+        <seg>如果你的文件沒有註腳，請忽略「&lt;f0&gt;註腳&lt;/f0&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22251,8 +22251,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Background&lt;/f0&gt; tab is available for page styles, but is often unnecessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034424Z" creationid="Jeff Huang" creationdate="20180130T034424Z">
-        <seg>&lt;f0&gt;背景&lt;/f0&gt;標籤頁可用於頁面樣式，但往往都是不必要的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T022821Z" creationid="Jeff Huang" creationdate="20180130T034424Z">
+        <seg>「&lt;f0&gt;背景&lt;/f0&gt;」標籤頁可用於頁面樣式，但往往不必要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26560,8 +26560,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Usually, this is not a problem, since a footnote longer than a page is probably important enough to be moved to in the main text or an appendix.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T135724Z" creationid="Jeff Huang" creationdate="20180129T135724Z">
-        <seg>一般來說，這不是問題，因為比一頁還長的註腳應該重要到足以移到正文或附錄。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T021931Z" creationid="Jeff Huang" creationdate="20180129T135724Z">
+        <seg>一般來說，這不是問題，因為比一頁還長的註腳應該重要到足以移到正文或附錄中。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27317,8 +27317,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>With proper spacing, it may not be needed at all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T033426Z" creationid="Jeff Huang" creationdate="20180130T033426Z">
-        <seg>只要有適當的間距，你可能就不需要它了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T022737Z" creationid="Jeff Huang" creationdate="20180130T033426Z">
+        <seg>只要有適當的間距，分隔線就不必了。</seg>
       </tuv>
     </tu>
     <tu>
