@@ -6734,8 +6734,8 @@
       <tuv lang="EN">
         <seg>&lt;t0/&gt;A more efficient solution is to print on color&lt;f1&gt;ed&lt;/f1&gt; paper, although you might have trouble matching batches of the paper exactly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055058Z" creationid="Jeff Huang" creationdate="20180130T055058Z">
-        <seg>較有效的解決方式是印在已有顏色的紙上，雖然這樣你可能比較不好找到整批相同顏色且符合原先背景顏色的紙。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023527Z" creationid="Jeff Huang" creationdate="20180130T055058Z">
+        <seg>比較有效的解決方式是印在有顏色的紙上，雖然這樣你可能難以找到整批色彩相同，而且還符合想像中背景顏色的紙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6998,8 +6998,8 @@
       <tuv lang="EN">
         <seg>A color or graphic background usually does not need a border unless some point along its edge blends into the paper color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055513Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
-        <seg>彩色或是圖案背景通常不需要邊框，除非其邊緣的某個點會與紙張色彩混合。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T024033Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
+        <seg>彩色背景或是圖案背景通常不需要邊框，除非邊緣上的某個點會混入紙張色彩中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8875,8 +8875,8 @@
       <tuv lang="EN">
         <seg>Backgrounds are useful either to mark part of the document as different or for short works like brochures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034741Z" creationid="Jeff Huang" creationdate="20180130T034741Z">
-        <seg>背景對於將文件的一部份標記為不同時，或是較短的作品（如小冊子）時很有用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T022909Z" creationid="Jeff Huang" creationdate="20180130T034741Z">
+        <seg>背景對於將文件的一部份標記為不同之處時，或是小冊子這類較短的作品時很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12489,8 +12489,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For another, in a printed document, changing the background from the default white can mean slower printing and wasted ink.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054829Z" creationid="Jeff Huang" creationdate="20180130T054829Z">
-        <seg>另一方面，在印出來的文件中，自預設的白底改成其他顏色通常代表了列印會變慢，而且會浪費墨水。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023403Z" creationid="Jeff Huang" creationdate="20180130T054829Z">
+        <seg>另一方面，在印出來的文件中，把背景從預設的白底改成其他顏色的話，通常代表列印過程會變慢，而且浪費墨水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12922,8 +12922,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For one thing, they cover only the space inside the margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054216Z" creationid="Jeff Huang" creationdate="20180130T054216Z">
-        <seg>一方面，其只包含了邊距內的空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023058Z" creationid="Jeff Huang" creationdate="20180130T054216Z">
+        <seg>一方面，背景的範圍只包含邊距以內的空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15046,8 +15046,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you can’t give a reason for a special background, then you can be &lt;f0&gt;confident that it is not really needed.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034938Z" creationid="Jeff Huang" creationdate="20180130T034938Z">
-        <seg>如果你找不到使用特殊背景的理由，那麼你就&lt;f0&gt;不需要它了。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023001Z" creationid="Jeff Huang" creationdate="20180130T034938Z">
+        <seg>如果你找不到使用特定背景的理由，那麼請對自己有自信地說你&lt;f0&gt;真的不需要背景。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,8 +15222,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you go ahead despite these limitations, the basic principle &lt;f0&gt;remain the same as for paragraphs or any other unit of design that can use a background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T055316Z" creationid="Jeff Huang" creationdate="20180130T055316Z">
-        <seg>如果你不管這些限制而繼續前進，其基本原則&lt;f0&gt;與段落或是其他可以使用背景的單元相同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023755Z" creationid="Jeff Huang" creationdate="20180130T055316Z">
+        <seg>如果你拋開這些限制繼續向前邁進，背景使用上的基本原則&lt;f0&gt;和段落或其他可使用背景的設計元素相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18773,8 +18773,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>On most home printers, you will still have about a centimeter &lt;f2&gt;or so &lt;/f2&gt;around the edge of the page &lt;f3&gt;where you cannot print&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054557Z" creationid="Jeff Huang" creationdate="20180130T054557Z">
-        <seg>在大多數的家用印表機中，紙張邊緣大概會有一公分&lt;f2&gt;或更多&lt;/f2&gt;&lt;f3&gt;無法列印的空間&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023218Z" creationid="Jeff Huang" creationdate="20180130T054557Z">
+        <seg>在大多數的家用印表機中，紙張邊緣大概會有一公分&lt;f2&gt;或更多的&lt;/f2&gt;&lt;f3&gt;無法列印空間&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20355,6 +20355,9 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <note>又是參照錯誤，略過不譯。</note>
       <tuv lang="EN">
         <seg>See “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023818Z">
+        <seg>請見〈&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22646,8 +22649,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;trouble&lt;/f0&gt; is that page backgrounds are seriously limited in functionality.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054140Z" creationid="Jeff Huang" creationdate="20180130T054140Z">
-        <seg>&lt;f0&gt;麻煩&lt;/f0&gt;的是頁面背景功能嚴重受限。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023031Z" creationid="Jeff Huang" creationdate="20180130T054140Z">
+        <seg>&lt;f0&gt;最麻煩&lt;/f0&gt;的是頁面背景功能有很多限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24837,8 +24840,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>This &lt;f4&gt;non-printing area&lt;/f4&gt; severely limits the usefulness of adding a background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054707Z" creationid="Jeff Huang" creationdate="20180130T054707Z">
-        <seg>這個&lt;f4&gt;不能列印的區域&lt;/f4&gt;嚴重限制了新增背景的用途。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023315Z" creationid="Jeff Huang" creationdate="20180130T054707Z">
+        <seg>這些&lt;f4&gt;不能列印的區域&lt;/f4&gt;嚴重限制加背景的用處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28040,8 +28043,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can set all the margins to zero, but you will need a printer capable of bleeds (the technical name for printing to the edge of the paper&lt;f1&gt;)&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T054422Z" creationid="Jeff Huang" creationdate="20180130T054422Z">
-        <seg>你可以將所有邊距設定為零，但你需要有出血（印到紙張邊緣的技術性名稱）功能的印表機。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023149Z" creationid="Jeff Huang" creationdate="20180130T054422Z">
+        <seg>你可以將所有邊距設定為零，但你需要有出血（讓機器能印到紙張邊緣的術語）功能的印表機。</seg>
       </tuv>
     </tu>
     <tu>
