@@ -2125,8 +2125,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Follow&lt;/f0&gt; steps 3 and 5 for every page style in the document that includes &lt;f1&gt;chapter-&lt;/f1&gt;page numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142754Z" creationid="Jeff Huang" creationdate="20180129T034725Z">
-        <seg>對文件中包含章內頁碼的每個頁面樣式&lt;f0&gt;重覆&lt;/f0&gt;步驟三至五的動作。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032955Z" creationid="Jeff Huang" creationdate="20180129T034725Z">
+        <seg>對文件中含有章內頁碼的每個頁面樣式，&lt;f0&gt;重覆&lt;/f0&gt;步驟三至五的動作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20013,8 +20013,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Restarting page numbers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143050Z" creationid="Jeff Huang" creationdate="20180129T082418Z">
-        <seg>重新開始頁碼</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T033000Z" creationid="Jeff Huang" creationdate="20180129T082418Z">
+        <seg>重新計算頁碼</seg>
       </tuv>
     </tu>
     <tu>
@@ -20430,7 +20430,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
-      <note>又見一堆垃圾標籤......</note>
+      <note>又見一堆垃圾標籤...... chapter number 章節編號改譯為「章節號」，避免誤以為是標號功能，但其實是取用生成的章節號 (chapter number)。製作標號功能的是 chapter numbering，改譯為「章節標號」取代章節編號，以免兩者相混淆。</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fields &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Document &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;More &gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Chapter &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Chapter &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Number&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;.</seg>
       </tuv>
