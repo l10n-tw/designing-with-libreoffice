@@ -4606,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;These precautions seem to work &lt;/f0&gt;more reliably in Writer than in Calc, Draw, or Impress.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065253Z" creationid="zerng07" creationdate="20180206T065253Z">
+        <seg>&lt;f0&gt;這些預防措施似乎在Writer中&lt;/f0&gt;比Calc、Draw、Impress還要可靠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;These tools are partly reproduced in the Drawing tool bar of other applications.&lt;/f0&gt; &lt;f1&gt;Like stand-alone graphic editors as Inkscape, these tools work with vector graphics, which are formats stored mathematically and which therefore can be expanded to any size.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T031555Z" creationid="Jeff Huang" creationdate="20180116T030526Z">
@@ -10506,6 +10514,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T121056Z" creationid="Franklin Weng" creationdate="20180102T135651Z">
         <seg>一開始你在選擇字型時，要先考慮你想要給讀者怎樣的印象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing linking or embedding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065302Z" creationid="zerng07" creationdate="20180206T065302Z">
+        <seg>選擇連結還是內嵌</seg>
       </tuv>
     </tu>
     <tu>
@@ -28080,6 +28096,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082854Z" creationid="Jeff Huang" creationdate="20180112T135820Z">
         <seg>當你選取「&lt;f6&gt;插入 &gt; 圖表&lt;/f6&gt;」後，LibreOffice會新增一張&lt;f7&gt;預設的&lt;/f7&gt;圖表到你的文件中，&lt;f8&gt;準確來說是一張&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;平面&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;長條圖&lt;/f11&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select a&lt;f0&gt;n&lt;/f0&gt; image from the file manager using &lt;f1&gt;Insert &gt; Image&lt;/f1&gt;, LibreOffice defaults to embedding the image as part of the document file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065437Z" creationid="zerng07" creationdate="20180206T065437Z">
+        <seg>當你用「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」從檔案管理員中選取影像後，LibreOffice預設會將影像內嵌作為文件檔的一部分。</seg>
       </tuv>
     </tu>
     <tu>
