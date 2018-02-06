@@ -1987,6 +1987,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Document&lt;/f0&gt; size is &lt;f1&gt;bigger, because images are included.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070640Z" creationid="zerng07" creationdate="20180206T070617Z">
+        <seg>&lt;f0&gt;文件&lt;/f0&gt;大小&lt;f1&gt;比較大，因為文件內含影像。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Document&lt;/f0&gt; size is smaller, &lt;f1&gt;without images.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070637Z" creationid="zerng07" creationdate="20180206T070637Z">
+        <seg>&lt;f0&gt;文件&lt;/f0&gt;大小比較小，&lt;f1&gt;沒有內含影像。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Don’t mistake me – s&lt;/f0&gt;tyles remain useful in Calc, especially for spreadsheets that are in constant use and maintained over long periods of time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135119Z" creationid="Franklin Weng" creationdate="20180126T135104Z">
@@ -2695,6 +2711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;mages cannot be lost, because they are part of the &lt;f1&gt;document at all times.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070734Z" creationid="zerng07" creationdate="20180206T070734Z">
+        <seg>影像不會消失，因為它們是文件&lt;f1&gt;的一部分。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;ncre&lt;f1&gt;ase&lt;/f1&gt; the font size and line-spacing a bit at a time, and work with different combinations &lt;f2&gt;systematically.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T153552Z" creationid="Franklin Weng" creationdate="20180106T041157Z">
@@ -2828,6 +2852,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062807Z" creationid="zerng07" creationdate="20180206T062807Z">
         <seg>&lt;f0&gt;如果&lt;/f0&gt;可以的話，對&lt;f1&gt;外框樣式&lt;/f1&gt;作格式設定，而不是各個外框個別手動設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Images&lt;/f0&gt; can be easily lost, &lt;f1&gt;so create orderly directories to reduce the possibility.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070836Z" creationid="zerng07" creationdate="20180206T070836Z">
+        <seg>&lt;f0&gt;影像&lt;/f0&gt;很容易消失，&lt;f1&gt;所以要建立有秩序的資料夾結構才能降低影像不見的可能性。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,6 +12025,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Embedding</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070551Z" creationid="zerng07" creationdate="20180206T070551Z">
+        <seg>內嵌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding simplifies file-sharing, making it unnecessary for recipients to have the document’s fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123713Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
@@ -18239,6 +18279,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124306Z" creationid="Jeff Huang" creationdate="20180111T124306Z">
         <seg>以箭頭開始的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linking</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070555Z" creationid="zerng07" creationdate="20180206T070555Z">
+        <seg>連結</seg>
       </tuv>
     </tu>
     <tu>
