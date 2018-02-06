@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If necessary, experiment with the exact settings first, making note&lt;f1&gt;s&lt;/f1&gt; of all the settings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062947Z" creationid="zerng07" creationdate="20180206T062947Z">
-        <seg>&lt;/f0&gt;如果有需要，先實驗切確的設定數值，然後將所有的設定值記錄下來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063050Z" creationid="zerng07" creationdate="20180206T062947Z">
+        <seg>&lt;/f0&gt;如果有需要，先實驗出切確的設定數值，然後將所有的設定值記錄下來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6102,6 +6102,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151533Z" creationid="Franklin Weng" creationdate="20171212T124454Z">
         <seg>&lt;f2&gt;目前，有個「範本變更器」(Template Changer) 擴充套件可用，不過已經有一段時間沒有發行新版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Delete a frame and s&lt;/f2&gt;tart from scratch if you want to move a&lt;f3&gt;n object&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063208Z" creationid="zerng07" creationdate="20180206T063208Z">
+        <seg>&lt;f2&gt;如果你想要移動物件的話，請刪除外框，然後&lt;/f2&gt;從頭開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18877,6 +18885,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Never copy and paste frames &lt;f0&gt;or&lt;/f0&gt; &lt;f1&gt;objects&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063125Z" creationid="zerng07" creationdate="20180206T063125Z">
+        <seg>對於外框&lt;f0&gt;或是&lt;/f0&gt;&lt;f1&gt;物件&lt;/f1&gt;，永遠不要用複製貼上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Never have a list with more than nine items.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135501Z" creationid="Jeff Huang" creationdate="20180204T135501Z">
@@ -25178,6 +25194,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T045918Z" creationid="Jeff Huang" creationdate="20171220T082931Z">
         <seg>然後再為各個元素指派一個圖形樣式。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then delete the experiment and add the frame again, applying the settings as the frame is added.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063044Z" creationid="zerng07" creationdate="20180206T063044Z">
+        <seg>接著刪除實驗項目，重新加入外框，把剛剛記下的設定值套用到新加入的外框上。</seg>
       </tuv>
     </tu>
     <tu>
