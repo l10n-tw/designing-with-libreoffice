@@ -14131,6 +14131,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, &lt;f0&gt;in some versions of LibreOffice, you have the option to use the &lt;/f0&gt;&lt;f1&gt;Insert as Link&lt;/f1&gt; &lt;f2&gt;box in&lt;/f2&gt; the bottom left corner of the file manager.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065614Z" creationid="zerng07" creationdate="20180206T065614Z">
+        <seg>不過，&lt;f0&gt;有些LibreOffice的版本中，你可以選擇使用檔案管理員左下角的「&lt;/f0&gt;&lt;f1&gt;插入為連結&lt;/f1&gt;&lt;f2&gt;」方框&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, &lt;f0&gt;no matter what criteria you use, &lt;/f0&gt;the only way to be sure that fonts match is to experiment with them, &lt;f1&gt;both on-screen and by printing frequent hard copy samples.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T131031Z" creationid="Franklin Weng" creationdate="20180103T131951Z">
@@ -28102,8 +28110,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>When you select a&lt;f0&gt;n&lt;/f0&gt; image from the file manager using &lt;f1&gt;Insert &gt; Image&lt;/f1&gt;, LibreOffice defaults to embedding the image as part of the document file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065437Z" creationid="zerng07" creationdate="20180206T065437Z">
-        <seg>當你用「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」從檔案管理員中選取影像後，LibreOffice預設會將影像內嵌作為文件檔的一部分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065444Z" creationid="zerng07" creationdate="20180206T065437Z">
+        <seg>當你用「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」從檔案管理員中選取影像後，LibreOffice預設會將影像內嵌為文件檔的一部分。</seg>
       </tuv>
     </tu>
     <tu>
