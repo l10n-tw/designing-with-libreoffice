@@ -1016,10 +1016,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;None:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; The frame interrupts the text, so there is no text to the left and right of the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120235Z" creationid="zerng07" creationdate="20180206T120034Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;無：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;外框中斷了文字，所以外框左右兩側都沒有文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Only Right&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; or &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Only Left: &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;The page style is used only for right pages or only for left pages.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140050Z" creationid="Jeff Huang" creationdate="20180125T135408Z">
         <seg>&lt;f0&gt;&lt;f1&gt;僅右頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;或&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;僅左頁：&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;頁面樣式僅用於右頁，或僅用於左頁。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Optimal: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Automatically wraps text on all sides of the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120118Z" creationid="zerng07" creationdate="20180206T120118Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;最適：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Automatically wraps text on all sides of the frame.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,6 +1292,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005106Z" creationid="zerng07" creationdate="20180125T092828Z">
         <seg>&lt;f0&gt;在幾經實驗之後，我決定使用Arkandis Digital Foundry推出的兩個自由授權字型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;After:&lt;/f0&gt; Text wraps above, below, and to the right, leaving white space on the left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120045Z" creationid="zerng07" creationdate="20180206T120045Z">
+        <seg>&lt;f0&gt;之後：&lt;/f0&gt; Text wraps above, below, and to the right, leaving white space on the left.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,6 +1605,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084502Z" creationid="zerng07" creationdate="20180205T084449Z">
         <seg>&lt;f0&gt;在你設計之前，先草圖畫出在&lt;f2&gt;同&lt;/f2&gt;一樣上&lt;/f0&gt;放置多張&lt;f1&gt;影像&lt;/f1&gt;的不同做法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Before: &lt;/f0&gt;Text wraps above, below, and to the left, leaving white space on the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120040Z" creationid="zerng07" creationdate="20180206T120040Z">
+        <seg>&lt;f0&gt;之前：&lt;/f0&gt;Text wraps above, below, and to the left, leaving white space on the right.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3705,6 +3737,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Parallel:&lt;/f0&gt; Text wraps &lt;f1&gt;equally &lt;/f1&gt;on all sides of the frame, &lt;f2&gt;starting on the left, then jumping across the image to the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120054Z" creationid="zerng07" creationdate="20180206T120054Z">
+        <seg>&lt;f0&gt;平行：&lt;/f0&gt; Text wraps &lt;f1&gt;equally &lt;/f1&gt;on all sides of the frame, &lt;f2&gt;starting on the left, then jumping across the image to the right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Part of the reaction is a fad for two-dimensional icons and widgets on mobile devices, and part is that 3D graphics are no longer a novelty.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T093701Z" creationid="Jeff Huang" creationdate="20180115T025236Z">
@@ -4826,6 +4866,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T104511Z" creationid="Jeff Huang" creationdate="20180116T064330Z">
         <seg>&lt;f0&gt;這種策略與大多數初學者的本能相抵觸，一般的本能會希望做出對稱的設計。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Through:&lt;/f0&gt; &lt;f1&gt;The frame is placed on top of the text, hiding it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120104Z" creationid="zerng07" creationdate="20180206T120104Z">
+        <seg>&lt;f0&gt;穿過：&lt;/f0&gt; &lt;f1&gt;The frame is placed on top of the text, hiding it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26301,6 +26349,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T143212Z" creationid="Jeff Huang" creationdate="20180125T035235Z">
         <seg>這種指示做法在小說中很常見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a favorite strategy in technical manuals, because it requires minimal time positioning.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120338Z" creationid="zerng07" creationdate="20180206T120338Z">
+        <seg>這是技術手冊中最受重用的環繞方式，幾乎不花多少時間在定位上。</seg>
       </tuv>
     </tu>
     <tu>
