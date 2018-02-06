@@ -6450,6 +6450,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Use the &lt;/f2&gt;right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063320Z" creationid="zerng07" creationdate="20180206T063320Z">
+        <seg>&lt;f2&gt;改用&lt;/f2&gt;右鍵選單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Using the red color makes sense because it is the dominant color in the octopus panel.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T133931Z" creationid="Jeff Huang" creationdate="20180116T072012Z">
@@ -17091,6 +17099,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, always use styles.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063630Z" creationid="zerng07" creationdate="20180206T063630Z">
+        <seg>反之，始終採用樣式處理。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, color is the typographical term for how dark or light a passage or a page looks overall.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162408Z" creationid="Franklin Weng" creationdate="20180105T130846Z">
@@ -18893,6 +18909,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Never drag a&lt;f0&gt;n object&lt;/f0&gt; to resize &lt;f1&gt;or reposition&lt;/f1&gt; it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063303Z" creationid="zerng07" creationdate="20180206T063303Z">
+        <seg>永遠不要拖曳物件重新調整大小，或重新放定位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Never have a list with more than nine items.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135501Z" creationid="Jeff Huang" creationdate="20180204T135501Z">
@@ -18905,6 +18929,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150745Z" creationid="Franklin Weng" creationdate="20171212T120620Z">
         <seg>絕對不要在文件中變更格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Never use spaces or empty lines to position &lt;f0&gt;objects.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063351Z" creationid="zerng07" creationdate="20180206T063351Z">
+        <seg>永遠不要用空白鍵或空行定位物件位置。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
