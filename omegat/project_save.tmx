@@ -6933,6 +6933,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Usually, generous spacing improves the look of the page.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T115704Z" creationid="zerng07" creationdate="20180206T115704Z">
+        <seg>&lt;f4&gt;通常，較寬鬆的間距能改善頁面的外觀。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;You could also start from the inner margin, but the result is often a narrow margin that may binding reduces even more&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041518Z" creationid="Jeff Huang" creationdate="20180126T033942Z">
@@ -10720,8 +10728,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Choosing text wrap</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T114922Z" creationid="zerng07" creationdate="20180206T114922Z">
-        <seg>選擇文繞圖方式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T115406Z" creationid="zerng07" creationdate="20180206T114922Z">
+        <seg>選擇文字環繞方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -23284,10 +23292,18 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text wrap &lt;f1&gt;features set&lt;/f1&gt; how &lt;f2&gt;exterior &lt;/f2&gt;text moves around the frame, and the spacing between &lt;f3&gt;exterior&lt;/f3&gt; text and the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T115620Z" creationid="zerng07" creationdate="20180206T115620Z">
+        <seg>文字環繞&lt;f1&gt;功能設定了&lt;/f1&gt;&lt;f2&gt;外圍&lt;/f2&gt;文字如何在外框周邊移動，以及&lt;f3&gt;外圍&lt;/f3&gt;文字和外框之間的間隔距離。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text wrap refers to how body text is positioned &lt;f0&gt;in relation to&lt;/f0&gt; a frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T115359Z" creationid="zerng07" creationdate="20180206T115359Z">
-        <seg>文繞圖 (Text wrap) 指的是內文字位置與外框之間的&lt;f0&gt;相對&lt;/f0&gt;關係。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T115420Z" creationid="zerng07" creationdate="20180206T115359Z">
+        <seg>文字環繞 (Text wrap) 指的是內文字與外框之間的&lt;f0&gt;相對&lt;/f0&gt;位置關係。</seg>
       </tuv>
     </tu>
     <tu>
