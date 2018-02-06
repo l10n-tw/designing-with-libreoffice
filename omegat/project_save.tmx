@@ -25519,6 +25519,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The vertical options are &lt;f0&gt;Top&lt;/f0&gt;, &lt;f1&gt;Bottom&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;From Top&lt;/f4&gt; (which also includes a space above field called &lt;f5&gt;By&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T095342Z" creationid="zerng07" creationdate="20180206T095342Z">
+        <seg>蹤向選項有「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;下方&lt;/f1&gt;」、「&lt;f2&gt;中&lt;/f2&gt;」，&lt;f3&gt;和「&lt;/f3&gt;&lt;f4&gt;自上&lt;/f4&gt;」（搭配一個設定上方空間的「&lt;f5&gt;距&lt;/f5&gt;」欄位）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The window for each style throughout LibreOffice is divided into tabs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152552Z" creationid="zerng07" creationdate="20171225T152552Z">
