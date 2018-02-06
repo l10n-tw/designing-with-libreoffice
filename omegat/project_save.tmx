@@ -3216,6 +3216,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Large and colored headings help to organize information as well.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122357Z" creationid="Franklin Weng" creationdate="20180206T122357Z">
+        <seg>&lt;f0&gt;放大並上色的標題也有助於組織這些資訊。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Layout settings&lt;/f0&gt; are on the bottom right of the &lt;f1&gt;Page&lt;/f1&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T135143Z" creationid="Jeff Huang" creationdate="20180125T135147Z">
@@ -6178,6 +6186,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;When &lt;/f1&gt;they do, their &lt;f2&gt;functions&lt;/f2&gt; are &lt;f3&gt;apt&lt;/f3&gt; to be simple &lt;f4&gt;ones&lt;/f4&gt; from the Mathematical &lt;f5&gt;and Statistical categories, &lt;/f5&gt;such as &lt;f6&gt;SUM&lt;/f6&gt; &lt;f7&gt;or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;AVERAGE.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121943Z" creationid="Franklin Weng" creationdate="20180206T121943Z">
+        <seg>&lt;f1&gt;即使有&lt;/f1&gt;，通常也只是&lt;f2&gt;一些&lt;/f2&gt;&lt;f3&gt;簡單&lt;/f3&gt;的&lt;f4&gt;數學運算&lt;/f4&gt;或&lt;f5&gt;統計&lt;/f5&gt;，例如 &lt;f6&gt;SUM&lt;/f6&gt; &lt;f7&gt;或是&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; AVERAGE &lt;/f9&gt;&lt;/f8&gt;之類的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;With each selection, the frame and handles expand to include the new shape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T163339Z" creationid="Jeff Huang" creationdate="20180121T133145Z">
@@ -7603,6 +7619,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135456Z" creationid="Franklin Weng" creationdate="20180129T135456Z">
         <seg>一份清單型的試算表可以跟待辦清單一樣簡單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list spreadsheet for planning a trip.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122131Z" creationid="Franklin Weng" creationdate="20180206T122131Z">
+        <seg>計畫旅遊的一份試算表清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11960,6 +11984,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don’t under-estimate list spreadsheets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122010Z" creationid="Franklin Weng" creationdate="20180206T122010Z">
+        <seg>不要小看試算表中的清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don’t use a presentation if:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T041229Z" creationid="Franklin Weng" creationdate="20180107T061757Z">
@@ -12441,6 +12473,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even without functions, they can still be useful, &lt;f0&gt;and they are probably the most common type of spreadsheet used&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122051Z" creationid="Franklin Weng" creationdate="20180206T122051Z">
+        <seg>即使沒有函式，清單還是很有用；&lt;f0&gt;它們可能還是試算表中最常使用到的類型。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even worse, several lines are single words.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120646Z" creationid="zerng07" creationdate="20180123T120526Z">
@@ -12541,6 +12581,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T031023Z" creationid="zerng07" creationdate="20180122T030227Z">
         <seg>除了方便求快、一次性的文件之外，都應該避免使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「單行」、「1.15行」、「1.5 行」、&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「雙行」&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;這些選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exercise: A trip-planning list</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121957Z" creationid="Franklin Weng" creationdate="20180206T121957Z">
+        <seg>練習：旅遊計畫清單</seg>
       </tuv>
     </tu>
     <tu>
@@ -13782,6 +13830,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114152Z" creationid="zerng07" creationdate="20171219T114152Z">
         <seg>手動格式設定時機：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Format the &lt;f0&gt;Default&lt;/f0&gt; and &lt;f1&gt;Heading &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;cell styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122511Z" creationid="Franklin Weng" creationdate="20180206T122511Z">
+        <seg>設定儲存格型態中的「&lt;f0&gt;預設&lt;/f0&gt;」與「&lt;f1&gt;標題&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt; &lt;/f4&gt;兩種樣式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18636,6 +18692,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lists are likely to make little use of &lt;f0&gt;functions&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121718Z" creationid="Franklin Weng" creationdate="20180206T121718Z">
+        <seg>清單通常很少用到&lt;f0&gt;函式&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lists have more formatting choices, which would be harder to offer if all the choices were squeezed into a single tab for paragraph styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083237Z" creationid="Jeff Huang" creationdate="20180131T083237Z">
@@ -18712,6 +18776,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T121153Z" creationid="Jeff Huang" creationdate="20180126T121153Z">
         <seg>讓&lt;f0&gt;上&lt;/f0&gt;邊距&lt;f1&gt;大&lt;/f1&gt;於&lt;f2&gt;內&lt;/f2&gt;邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the &lt;f5&gt;Heading 1 &lt;/f5&gt;style’s &lt;f6&gt;Font Size&lt;/f6&gt; and &lt;f7&gt;Font Color&lt;/f7&gt; different from the &lt;f8&gt;Default &lt;/f8&gt;&lt;f9&gt;style’&lt;/f9&gt;s.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122653Z" creationid="Franklin Weng" creationdate="20180206T122653Z">
+        <seg>將「&lt;f5&gt;標題 1&lt;/f5&gt;」樣式的&lt;f6&gt;字型大小&lt;/f6&gt;與&lt;f7&gt;字型色彩&lt;/f7&gt;設定成跟「&lt;f8&gt;預設&lt;/f8&gt;」&lt;f9&gt;樣式&lt;/f9&gt;不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18961,6 +19033,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161724Z" creationid="Franklin Weng" creationdate="20180107T062453Z">
         <seg>聽眾需要&lt;f0&gt;個別關注，或是討論很重要。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>看原檔的範例圖，應該是作者筆誤，是 title 不是 total，翻譯修正</note>
+      <tuv lang="EN">
+        <seg>Merge the cells in row 1, and enter a tot&lt;f0&gt;a&lt;/f0&gt;l, using &lt;f1&gt;the&lt;/f1&gt; &lt;f2&gt;Heading 1 &lt;/f2&gt;cell style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122922Z" creationid="Franklin Weng" creationdate="20180206T122922Z">
+        <seg>將第一列的儲存格合併起來，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;用「&lt;f2&gt;標題 1&lt;/f2&gt;」的樣式輸入標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23196,6 +23277,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sub-lists are separated by blank cells, borders, and title, and each day of the trip is broken down into half-hour sections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122256Z" creationid="Franklin Weng" creationdate="20180206T122256Z">
+        <seg>子清單用空白的儲存格、邊框與標題來區隔開來，每一天的行程都往下拆分到以半小時為單位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such a collection could be as basic as a personal monthly account that lists income and expenses, or as complex as a collection of raw data whose average or future growth is projected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140045Z" creationid="Franklin Weng" creationdate="20180129T140045Z">
@@ -23312,6 +23401,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T031140Z" creationid="Jeff Huang" creationdate="20180130T062917Z">
         <seg>花點時間了解頁面樣式，你就會發現Writer有其獨到之處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take, for example, this simple trip planner:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122108Z" creationid="Franklin Weng" creationdate="20180206T122108Z">
+        <seg>例如，做以下這一份簡單的旅遊計畫：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26962,6 +27059,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create this trip planner:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122408Z" creationid="Franklin Weng" creationdate="20180206T122408Z">
+        <seg>建立此旅遊計畫的方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create vertical headers and footers:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145341Z" creationid="Jeff Huang" creationdate="20180128T040336Z">
@@ -30084,6 +30189,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140937Z" creationid="Franklin Weng" creationdate="20171223T130941Z">
         <seg>你也可以使用將文件中的手動格式設定轉換成範本的功能，但直接修改範本才是比較可靠、實際的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might also want a sign-off column, &lt;f0&gt;either for initials or a signature, or perhaps a check mark borrowed from a dingbat font.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121655Z" creationid="Franklin Weng" creationdate="20180206T121655Z">
+        <seg>你或許會要再加上一欄，&lt;f0&gt;放上縮寫或是簽名，或是從雜錦圖字型中借一個勾選框放這裡。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
