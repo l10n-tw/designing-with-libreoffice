@@ -11744,6 +11744,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not use &lt;f0&gt;t&lt;/f0&gt;he &lt;f1&gt;Follow Text Flow&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T100609Z" creationid="zerng07" creationdate="20180206T100609Z">
+        <seg>不要使用「&lt;f1&gt;排文和分頁&lt;/f1&gt;」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not use an “and,” “or,” or any other word to introduce the last point in the list, even though that would be grammatically correct.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031342Z" creationid="Jeff Huang" creationdate="20180201T031342Z">
@@ -17553,6 +17561,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T104308Z" creationid="Franklin Weng" creationdate="20171215T134443Z">
         <seg>範本精靈會引導你選擇基本的格式設定和文稿結構等等，並建立投影片的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is included for compatibility with old OpenOffice.org documents, not for use today.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101129Z" creationid="zerng07" creationdate="20180206T101129Z">
+        <seg>這個選項是為了和舊版OpenOffice.org文件相容而存在，不適合現在人使用。</seg>
       </tuv>
     </tu>
     <tu>
