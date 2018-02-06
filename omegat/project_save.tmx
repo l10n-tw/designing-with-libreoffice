@@ -1611,8 +1611,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before: &lt;/f0&gt;Text wraps above, below, and to the left, leaving white space on the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120040Z" creationid="zerng07" creationdate="20180206T120040Z">
-        <seg>&lt;f0&gt;之前：&lt;/f0&gt;Text wraps above, below, and to the left, leaving white space on the right.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120549Z" creationid="zerng07" creationdate="20180206T120040Z">
+        <seg>&lt;f0&gt;之前：&lt;/f0&gt;文字包住外框的上方、下方、左側，留下右側空白。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14884,6 +14884,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, it can make small images look even smaller because of the white space beside them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120419Z" creationid="zerng07" creationdate="20180206T120412Z">
+        <seg>然而，這可能會讓小張影像看起來更小，因為周圍有一大片空白把它包住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it is worth creating so you remember what style to use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131307Z" creationid="zerng07" creationdate="20180125T131307Z">
@@ -17649,6 +17657,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135916Z" creationid="Franklin Weng" creationdate="20180129T135916Z">
         <seg>它實際上是計算過的資訊集合，以便協助分析資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a good, average choice, but not always ideal.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120449Z" creationid="zerng07" creationdate="20180206T120449Z">
+        <seg>這是個好用、一般的選擇，但不一定理想。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
