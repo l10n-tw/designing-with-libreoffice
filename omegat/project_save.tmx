@@ -6515,6 +6515,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;If you select this option&lt;/f3&gt;, your document will &lt;f4&gt;use&lt;/f4&gt; the image’s original file each time it loads.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065822Z" creationid="zerng07" creationdate="20180206T065822Z">
+        <seg>&lt;f3&gt;如果你選取了這個選項&lt;/f3&gt;，你的文件每次載入影像時都會直接取用影像的原始檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;In these cases, the same results can often be obtained with more options by choosing another method.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100150Z" creationid="zerng07" creationdate="20180125T100150Z">
@@ -18239,6 +18247,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152403Z" creationid="zerng07" creationdate="20171225T152307Z">
         <seg>清單有時候會在你套用預設段落樣式後沒動到項目符號或編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Located at the bottom left of the Insert Image window, the &lt;f0&gt;Insert as Link&lt;/f0&gt; option is easy to overlook.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065914Z" creationid="zerng07" creationdate="20180206T065914Z">
+        <seg>在「插入影像」視窗的左下角，「&lt;f0&gt;插入為連結&lt;/f0&gt;」選項很容易被忽略。</seg>
       </tuv>
     </tu>
     <tu>
