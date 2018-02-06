@@ -2800,6 +2800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you do not use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &lt;s3/&gt;&gt; Update &gt; Update All&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;, &lt;/f4&gt;Writer updates the image the next time the document opens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071609Z" creationid="zerng07" creationdate="20180206T071609Z">
+        <seg>&lt;f0&gt;如果你不使用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具&lt;s3/&gt; &gt; 更新 &gt; 全部更新&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;」，&lt;/f4&gt;Writer會在下次文件開啟時更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you do see problems, consider repeating the final editing process.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091642Z" creationid="Jeff Huang" creationdate="20171214T064507Z">
@@ -16260,6 +16268,23 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T054400Z" creationid="Jeff Huang" creationdate="20180126T122704Z">
         <seg>如果你的文件要印出來並裝訂，&lt;f0&gt;內&lt;/f0&gt;邊距&lt;f1&gt;需要多留&lt;/f1&gt;&lt;f2&gt;額外&lt;/f2&gt;空間給裝訂使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images are updated by overwriting the existing separate image file with a new one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071417Z" creationid="zerng07" creationdate="20180206T071417Z">
+        <seg>以新影像檔覆蓋既有的不同影像檔來更新影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>介面改了，隨之更改。</note>
+      <tuv lang="EN">
+        <seg>Images are updated by selecting &lt;f0&gt;Change Image&lt;/f0&gt; from their right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071324Z" creationid="zerng07" creationdate="20180206T071324Z">
+        <seg>可以從右鍵選單中選取「&lt;f0&gt;取代&lt;/f0&gt;」更新你要的影像。</seg>
       </tuv>
     </tu>
     <tu>
