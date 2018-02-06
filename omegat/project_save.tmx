@@ -27914,11 +27914,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>目前 Margin 翻譯是「邊框」是錯誤的，因為不是紙張的邊框，而是指餘白的邊距… 錯誤翻譯會在 6.0 和 5.4 中修正。</note>
       <tuv lang="EN">
         <seg>Usually, the most useful reference point will be &lt;f6&gt;Margin,&lt;/f6&gt; the least &lt;f7&gt;useful&lt;/f7&gt; &lt;f8&gt;Entire Page.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T100338Z" creationid="zerng07" creationdate="20180206T100338Z">
-        <seg>通常而言，最有用的參考點是「&lt;f6&gt;邊距&lt;/f6&gt;」， the least &lt;f7&gt;useful&lt;/f7&gt; &lt;f8&gt;Entire Page.&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T100517Z" creationid="zerng07" creationdate="20180206T100338Z">
+        <seg>通常而言，最有用的參考點是「&lt;f6&gt;邊距&lt;/f6&gt;」，最無&lt;f7&gt;用&lt;/f7&gt;的是「&lt;f8&gt;整個頁面&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
