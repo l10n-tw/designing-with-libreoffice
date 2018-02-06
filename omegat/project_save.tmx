@@ -27941,6 +27941,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Heading 1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; cell style for headers, and the cell’s collective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Border&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab to put a box around each clump of information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T132025Z" creationid="Franklin Weng" creationdate="20180206T132025Z">
+        <seg>標題的部份用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;標題 1&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式， 然後在樣式設定的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;邊框&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;標籤頁中加上每一組儲存格的邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Relative&lt;/f0&gt; fields to set a &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; that is a percentage of the &lt;f3&gt;paragraph’s or &lt;/f3&gt;page’s width and height.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084734Z" creationid="zerng07" creationdate="20180206T084734Z">
@@ -28097,6 +28105,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084234Z" creationid="zerng07" creationdate="20180205T084234Z">
         <seg>當影像和你的文件背景相同時，可以使用邊框或額外空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using empty rows and columns as separators, &lt;f0&gt;create ranges of rows for Summary, Planning, and Packing, increasing row and column dimensions as necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T123522Z" creationid="Franklin Weng" creationdate="20180206T123522Z">
+        <seg>用空白的列與欄做為分隔線，&lt;f0&gt;分別將幾列的範圍做成 Summary, Planning 跟 Packing 三個區塊，必要的時候就增加列與欄的大小。</seg>
       </tuv>
     </tu>
     <tu>
