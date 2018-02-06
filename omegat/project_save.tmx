@@ -21429,6 +21429,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Autosize&lt;/f0&gt; for &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; when first adding a frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085100Z" creationid="zerng07" creationdate="20180206T085100Z">
+        <seg>當剛加入外框之時，為「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」選取「&lt;f0&gt;自動調整大小&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現狀修改</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Custom Animation&lt;/f0&gt; from the&lt;f1&gt; Slide Show&lt;/f1&gt; men&lt;f2&gt;u&lt;/f2&gt; or sidebar.</seg>
