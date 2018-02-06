@@ -1519,6 +1519,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;As an example of an everyday use for a spreadsheet&lt;/f0&gt;, here are the steps to create a teacher’s mark book, starting with the basic setup:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143427Z" creationid="Franklin Weng" creationdate="20180206T143427Z">
+        <seg>&lt;f0&gt;這裡就有一個日常生活中使用試算表的範例&lt;/f0&gt;。這邊列出從基本設定開始，如何建構一份老師使用的成績紀錄本：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LibreOffice 中看不到這些類別。作者可能有一些其他來源的範本，例如裝過 StarOffice 或 Lotus Symphony 之類的發行版提供這些東西？！需要改寫。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;As shown above, you might have sub-folders such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;EN-US&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;EN-CA&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for templates that use American and Canadian English locales for dictionaries.</seg>
@@ -2473,6 +2481,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141729Z" creationid="Jeff Huang" creationdate="20180122T135811Z">
         <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 陰影線」&lt;/f0&gt;會在LibreOffice中建立線形陰影線的填入內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Format the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; cell style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143510Z" creationid="Franklin Weng" creationdate="20180206T143510Z">
+        <seg>&lt;f0&gt;將儲存格的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式格式設定好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3436,6 +3452,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132218Z" creationid="zerng07" creationdate="20180130T132218Z">
         <seg>&lt;f0&gt;旁註 (Marginalia)：&lt;/f0&gt;坐落在主要文字外框左側的外框，能做出頁面邊距中的旁註效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Merge columns &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;A-G&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in row 1&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and use &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Heading 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to enter the course name.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143901Z" creationid="Franklin Weng" creationdate="20180206T143901Z">
+        <seg>&lt;f0&gt;將&lt;/f0&gt;第 1 列的&lt;f1&gt;&lt;f2&gt; A-G &lt;/f2&gt;&lt;/f1&gt;欄合併起來，&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;然後用&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;標題 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; 的樣式來輸入科目名稱。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7490,6 +7514,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141858Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
         <seg>彩色背景或是圖案背景通常不需要邊框，除非邊緣有地方的顏色會和紙張色彩混在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A common misconception is that you need to be a mathematical wizard to take advantage of spreadsheet functions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143249Z" creationid="Franklin Weng" creationdate="20180206T143249Z">
+        <seg>有一個常見的誤解是，要利用試算表的函式，你本身必須是個數學天才。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16907,6 +16939,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, create &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Total, Heading 1, Heading 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Value&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143626Z" creationid="Franklin Weng" creationdate="20180206T143626Z">
+        <seg>然後建立&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;總計、標題 1、標題 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 與 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;數值&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;這幾種樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, should you print on &lt;f0&gt;both&lt;/f0&gt; sides of a page, the lines will overlap &lt;f1&gt;in most places&lt;/f1&gt;, preventing the shadow of the other page showing through thin paper.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T025221Z" creationid="zerng07" creationdate="20180122T024809Z">
@@ -17088,6 +17128,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032032Z" creationid="zerng07" creationdate="20171219T032032Z">
         <seg>實際上，修改樣式會更快；&lt;f1&gt;你只需要作出一次修改，整份文件就會一併套上對應的更動。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, functions can have simple everyday &lt;f0&gt;uses&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143321Z" creationid="Franklin Weng" creationdate="20180206T143321Z">
+        <seg>事實上，函式即使在日常生活中也都&lt;f0&gt;很好用&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22116,6 +22164,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084012Z" creationid="zerng07" creationdate="20180206T084012Z">
         <seg>分別設定「&lt;f0&gt;寬度&lt;/f0&gt;」和「&lt;f1&gt;高度&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set column &lt;f0&gt;A &lt;/f0&gt;to a width of 12 centimeters, and column &lt;f1&gt;H&lt;/f1&gt; to &lt;f2&gt;1&lt;/f2&gt; centimeter&lt;f3&gt;.&lt;/f3&gt; Column H will be used as a spacer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143908Z" creationid="Franklin Weng" creationdate="20180206T143908Z">
+        <seg>Set column &lt;f0&gt;A &lt;/f0&gt;to a width of 12 centimeters, and column &lt;f1&gt;H&lt;/f1&gt; to &lt;f2&gt;1&lt;/f2&gt; centimeter&lt;f3&gt;.&lt;/f3&gt; Column H will be used as a spacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28016,6 +28072,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T162656Z" creationid="Franklin Weng" creationdate="20180107T125819Z">
         <seg>用Impress中類似Draw的功能製作任何圖表或&lt;f1&gt;表格&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Font Size&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Font Color&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; to distinguish them from the &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Default&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; style.&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143744Z" creationid="Franklin Weng" creationdate="20180206T143744Z">
+        <seg>用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;字型大小&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;跟&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;字型色彩&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;來區分這幾種樣式&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;跟預設&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;樣式&lt;/f18&gt;的不同。</seg>
       </tuv>
     </tu>
     <tu>
