@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;Which you prefer is not so much right or wrong as a matter of how you prefer to work and how &lt;f2&gt;others&lt;/f2&gt; prefer to receive your work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070458Z" creationid="zerng07" creationdate="20180206T070458Z">
+        <seg>&lt;/f1&gt;你使用哪一種其實沒有什麼對錯，完全只在於你的工作方式偏好，還有&lt;f2&gt;他人&lt;/f2&gt;接收檔案成品的偏好而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f21&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T134336Z" creationid="Jeff Huang" creationdate="20180125T134336Z">
@@ -20392,6 +20400,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T135615Z" creationid="Franklin Weng" creationdate="20180126T135615Z">
         <seg>規劃試算表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pluses and minuses to consider &lt;f0&gt;include&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070548Z" creationid="zerng07" creationdate="20180206T070548Z">
+        <seg>值得考慮的優缺點&lt;f0&gt;包括&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
