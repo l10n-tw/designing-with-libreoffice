@@ -13690,6 +13690,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Frames and images share an almost identical dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T075142Z" creationid="zerng07" creationdate="20180206T075142Z">
+        <seg>外框和影像共用幾乎相同的對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free Licensed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071503Z" creationid="Jeff Huang" creationdate="20180115T071503Z">
@@ -23611,6 +23619,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T133813Z" creationid="Jeff Huang" creationdate="20180122T133813Z">
         <seg>&lt;f0&gt;上面的插圖&lt;/f0&gt;是基於角度為0，且沒有X或Y偏移的漸層。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;main&lt;/f0&gt; difference is that the window for frames includes a &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;olumn&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T081408Z" creationid="zerng07" creationdate="20180206T081408Z">
+        <seg>&lt;f0&gt;主要的&lt;/f0&gt;差別在於外框的對話視窗多了「&lt;f3&gt;多欄&lt;/f3&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
