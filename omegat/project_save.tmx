@@ -2864,6 +2864,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Images&lt;/f0&gt; can be edited from within LibreOffice, &lt;f1&gt;which is more convenient.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071111Z" creationid="zerng07" creationdate="20180206T071111Z">
+        <seg>&lt;f0&gt;影像&lt;/f0&gt;可以直接從LibreOffice中編輯，&lt;f1&gt;更加方便。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Images&lt;/f0&gt; must be edited in &lt;f1&gt;a &lt;/f1&gt;graphics editor, which gives more options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071201Z" creationid="zerng07" creationdate="20180206T071201Z">
+        <seg>&lt;f0&gt;影像&lt;/f0&gt;必須在另外的圖片編輯器中編修，給你更多選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In Calc, creat&lt;/f0&gt;ing a chart is easy; &lt;f1&gt;a&lt;/f1&gt;dding a chart opens a wizard that lets you work through the stages of formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094705Z" creationid="Jeff Huang" creationdate="20180115T031628Z">
@@ -25446,6 +25462,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no additional files to find.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070933Z" creationid="zerng07" creationdate="20180206T070933Z">
+        <seg>不必再額外找出什麼檔案附上去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are several probabl&lt;f0&gt;e&lt;/f0&gt; reasons for this difference:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134123Z" creationid="Franklin Weng" creationdate="20180126T133844Z">
@@ -28224,6 +28248,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T100731Z" creationid="Franklin Weng" creationdate="20180114T141349Z">
         <seg>選擇背景是&lt;f0&gt;設計時常見的挑戰。（請參考「=&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;」，第&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you share a &lt;f0&gt;document&lt;/f0&gt;, you have to send image &lt;f1&gt;files&lt;/f1&gt; &lt;f2&gt;as well.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071040Z" creationid="zerng07" creationdate="20180206T071040Z">
+        <seg>當你分享&lt;f0&gt;文件&lt;/f0&gt;時，你必須一併附上影像&lt;f1&gt;檔&lt;/f1&gt; &lt;f2&gt;。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you share, &lt;f0&gt;you know the document is complete.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070910Z" creationid="zerng07" creationdate="20180206T070910Z">
+        <seg>當你分享時，&lt;f0&gt;你知道文件已經完整。</seg>
       </tuv>
     </tu>
     <tu>
