@@ -1042,8 +1042,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Optimal: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Automatically wraps text on all sides of the frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120118Z" creationid="zerng07" creationdate="20180206T120118Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;最適：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Automatically wraps text on all sides of the frame.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121301Z" creationid="zerng07" creationdate="20180206T120118Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;最適：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;自動環繞外框四周的文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7009,6 +7009,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041518Z" creationid="Jeff Huang" creationdate="20180126T033942Z">
         <seg>&lt;f4&gt;你也可以從內邊距開始黃金比例，但結果通常是個更窄的邊距，會影響裝訂。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;You might also make the image partly transparent so that the text is more readable.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121245Z" creationid="zerng07" creationdate="20180206T121245Z">
+        <seg>&lt;f4&gt;你也可以讓影像部分透明，讓文字更容易閱讀。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15714,6 +15722,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104215Z" creationid="Jeff Huang" creationdate="20180124T133510Z">
         <seg>如果條文很短，可以分為多欄節省空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the frame is less than 2 centimeters from any margin, the text is not wrapped on that side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121346Z" creationid="zerng07" creationdate="20180206T121346Z">
+        <seg>如果外框離任何邊距的距離小於2公分，則文字就不會環繞到這一邊。</seg>
       </tuv>
     </tu>
     <tu>
