@@ -848,6 +848,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;This feature&lt;/f5&gt; clumps rows and columns together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212749Z" creationid="Franklin Weng" creationdate="20180206T212749Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;這個功能&lt;/f5&gt;可以把一群列或一群欄集合起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131558Z" creationid="Franklin Weng" creationdate="20180126T131558Z">
@@ -1532,6 +1540,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092140Z" creationid="Jeff Huang" creationdate="20180113T133101Z">
         <seg>&lt;f0&gt;面積圖：&lt;/f0&gt;有許多線條的圖表，在線條間的空間有填入色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;As an alternative to hiding individual cells, you can select &lt;/f0&gt;&lt;f1&gt;Data &gt; Group and Outline &gt; Group&lt;/f1&gt; &lt;f2&gt;to hide multiple cells&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212703Z" creationid="Franklin Weng" creationdate="20180206T212703Z">
+        <seg>&lt;f0&gt;另一種隱藏儲存格的方式，你可以到選單中的「&lt;/f0&gt;&lt;f1&gt;資料 &gt; 群組與大綱 &gt; 群組&lt;/f1&gt;」&lt;f2&gt;來同時隱藏多個儲存格。&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2657,6 +2673,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031541Z" creationid="zerng07" creationdate="20171227T031541Z">
         <seg>&lt;f0&gt;隱藏樣式和&lt;/f0&gt;刪除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hiding and showing&lt;/f0&gt; the display cells</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T211924Z" creationid="Franklin Weng" creationdate="20180206T211924Z">
+        <seg>&lt;f0&gt;隱藏與顯示&lt;/f0&gt;儲存格</seg>
       </tuv>
     </tu>
     <tu>
@@ -5742,6 +5766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f11&gt;For that reason, they are not detailed here.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T211704Z" creationid="Franklin Weng" creationdate="20180206T211530Z">
+        <seg>&lt;f11&gt;在這邊不詳細解說。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;(Perhaps it is meant to add a shadow?)&lt;/f1&gt; Changing the font size or the space between char&lt;f2&gt;a&lt;/f2&gt;cters worked slightly, but not enough.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135943Z" creationid="Franklin Weng" creationdate="20180106T043342Z">
@@ -7747,6 +7779,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120941Z" creationid="Franklin Weng" creationdate="20180116T091535Z">
         <seg>「陰影線」的背景。&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A hidden column – in this case, Column&lt;f0&gt; B, which is &lt;/f0&gt;for contracts paid in Canadian dollars.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212255Z" creationid="Franklin Weng" creationdate="20180206T212255Z">
+        <seg>隱藏的欄 – 例如這張圖中的欄&lt;f0&gt; B&lt;/f0&gt;，原先是合約費用以加幣計算的數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10518,6 +10558,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By&lt;/f11&gt; contrast, the ones here can be added to the spreadsheet as you design, &lt;f12&gt;either because they make using a sheet easier or because they need space allocated to them on a sheet.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T211826Z" creationid="Franklin Weng" creationdate="20180206T211648Z">
+        <seg>相反地，&lt;/f11&gt;這邊提到的工具都可以在你設計時加入試算表內，&lt;f12&gt;一方面他們對你使用試算表有幫助，二方面這些工具佔用的空間必須先規劃好。&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cabin, Gillius ADF, Hammersmith &lt;f0&gt;One&lt;/f0&gt;, &lt;f1&gt;Railway&lt;/f1&gt; Regular, Raleway</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072039Z" creationid="Jeff Huang" creationdate="20180115T072039Z">
@@ -10778,6 +10826,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120857Z" creationid="zerng07" creationdate="20180205T120857Z">
         <seg>變更路徑取代影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing these options can temporarily reduce complexity when you scan or study data, or select the data to print to hard copy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212142Z" creationid="Franklin Weng" creationdate="20180206T212142Z">
+        <seg>改變這些選項可以暫時性地減少你在尋找與研究資料時的複雜度，或是可以用來選擇要印出來的資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11531,6 +11587,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T080404Z" creationid="Jeff Huang" creationdate="20180111T115551Z">
         <seg>製作流程圖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a group adds a tree structure to show the group by expanding the tree, or hide it by collapsing &lt;f6&gt;the tree.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212826Z" creationid="Franklin Weng" creationdate="20180206T212826Z">
+        <seg>集合起來之後，會看到一個樹狀結構，可以同時把整組儲存格展開或折疊隱藏起來。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12428,6 +12492,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T040053Z" creationid="Jeff Huang" creationdate="20180116T033057Z">
         <seg>各條原則都有助於引導讀者閱讀文件，但運用上仍須依情境而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each row and column heading includes options to &lt;f0&gt;Hide&lt;/f0&gt; or &lt;f1&gt;Show&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212043Z" creationid="Franklin Weng" creationdate="20180206T212043Z">
+        <seg>對每一列或每一欄的標籤點下右鍵都可以選擇要&lt;f0&gt;隱藏&lt;/f0&gt;或&lt;f1&gt;顯示&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14599,6 +14671,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T072657Z" creationid="Jeff Huang" creationdate="20171213T023745Z">
         <seg>圖片、表格、圖表、其他物件等，都應該要盡可能靠近它們所指涉的文字旁邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping and outlining cells</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212606Z" creationid="Franklin Weng" creationdate="20180206T212606Z">
+        <seg>群組與大綱</seg>
       </tuv>
     </tu>
     <tu>
@@ -23168,11 +23248,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>真的要翻譯成「偵探」嗎？</note>
       <tuv lang="EN">
         <seg>Some tools – &lt;f0&gt;Detective&lt;/f0&gt;, &lt;f1&gt;Goal Seek&lt;/f1&gt;, &lt;f2&gt;&lt;f3&gt;Multiple Operators&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Pivot Tables&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, and &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Solver&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; – &lt;/f10&gt;are for use as you work with a spreadsheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T155338Z" creationid="Franklin Weng" creationdate="20180206T155338Z">
-        <seg>有些工具 – 像是「&lt;f0&gt;偵探&lt;/f0&gt;」、「&lt;f1&gt;Goal Seek&lt;/f1&gt;, &lt;f2&gt;&lt;f3&gt;Multiple Operators&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Pivot Tables&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, and &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Solver&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; – &lt;/f10&gt;are for use as you work with a spreadsheet.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T211439Z" creationid="Franklin Weng" creationdate="20180206T155338Z">
+        <seg>有些工具 – 像是「&lt;f0&gt;偵探&lt;/f0&gt;」、「&lt;f1&gt;目標搜尋&lt;/f1&gt;」、「&lt;f2&gt;&lt;f3&gt;多重運算&lt;/f3&gt;&lt;/f2&gt;」、&lt;f4&gt;&lt;/f4&gt;「&lt;f5&gt;&lt;f6&gt;樞紐分析表&lt;/f6&gt;&lt;/f5&gt;」&lt;f7&gt;，以及「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;求解器&lt;/f9&gt;&lt;/f8&gt;」等等&lt;f10&gt; – &lt;/f10&gt;都是你在運用試算表時很好的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30357,6 +30438,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083304Z" creationid="Jeff Huang" creationdate="20171214T060620Z">
         <seg>有時候你可以先從子文件把某個範圍的頁面列印成 &lt;f0&gt;&lt;f1&gt;PDF&lt;/f1&gt;&lt;/f0&gt;，再從主控文件做一樣的事情，並比較兩者間行文分頁的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still tell that the Anita Dibley contract is in Canadian dollars, because its listing under American dollar is blank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212349Z" creationid="Franklin Weng" creationdate="20180206T212349Z">
+        <seg>你還是可以用加幣為單位來告訴 Anita Dibley 合約上的費用，因為在美元那一欄是空白的。</seg>
       </tuv>
     </tu>
     <tu>
