@@ -26191,6 +26191,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This choice means that the line that an object is placed upon has a height that is tall enough to display it fully.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T102905Z" creationid="zerng07" creationdate="20180206T102905Z">
+        <seg>這個選擇表示物件所放置位置的行，其高度將足以完整顯示這個物件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This choice only works when your video &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;driver has hardware acceleration, which some Linux installations will not have.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092916Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
