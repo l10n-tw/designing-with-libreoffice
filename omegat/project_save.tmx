@@ -1529,6 +1529,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;B&lt;/f0&gt;oth e&lt;f1&gt;mbedding and linking have pluses and minuses.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070220Z" creationid="zerng07" creationdate="20180206T070220Z">
+        <seg>不管是內嵌&lt;f1&gt;或是連結都有其優勢與劣勢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Bar: &lt;/f0&gt;&lt;f1&gt;The data displays in horizontal columns.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091616Z" creationid="Jeff Huang" creationdate="20180113T132110Z">
@@ -16619,6 +16627,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, professional writers and designers argue all the time about these two approaches.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070148Z" creationid="zerng07" creationdate="20180206T070148Z">
+        <seg>實際上，職業作家和設計師常常爭吵這兩種做法的好壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In fact, the actual height can vary considerably.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T170130Z" creationid="Franklin Weng" creationdate="20171231T134349Z">
@@ -24180,6 +24196,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005023Z" creationid="zerng07" creationdate="20180125T092214Z">
         <seg>本範例略過頁面設定，因為這個部分我們還沒講到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fact that LibreOffice defaults to embedding images suggests that its original programmers saw embedding as the easiest solution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070059Z" creationid="zerng07" creationdate="20180206T070059Z">
+        <seg>LibreOffice預設內嵌影像的理由是，原來的程式開發人員認為內嵌的作法是最簡易的解決方案。</seg>
       </tuv>
     </tu>
     <tu>
