@@ -1280,6 +1280,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Adding an&lt;/f0&gt; AutoFilter&lt;f1&gt; &lt;/f1&gt;requires a cell at the top of a &lt;f2&gt;range&lt;/f2&gt; of cells, where it adds a &lt;f3&gt;permanent&lt;/f3&gt; drop-down &lt;f4&gt;list for filtering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213702Z" creationid="Franklin Weng" creationdate="20180206T213702Z">
+        <seg>&lt;f0&gt;Adding an&lt;/f0&gt; AutoFilter&lt;f1&gt; &lt;/f1&gt;requires a cell at the top of a &lt;f2&gt;range&lt;/f2&gt; of cells, where it adds a &lt;f3&gt;permanent&lt;/f3&gt; drop-down &lt;f4&gt;list for filtering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding c&lt;/f0&gt;hapters in page numbering</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152358Z" creationid="Jeff Huang" creationdate="20180129T033004Z">
@@ -1802,6 +1810,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Calc includes three types of filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213600Z" creationid="Franklin Weng" creationdate="20180206T213551Z">
+        <seg>&lt;f0&gt;Calc 內有三種篩選型態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Carefully c&lt;/f0&gt;heck styles that were supposed to &lt;f1&gt;be &lt;/f1&gt;overwritten.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142050Z" creationid="Franklin Weng" creationdate="20171223T132842Z">
@@ -2063,6 +2079,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091837Z" creationid="Franklin Weng" creationdate="20180115T091837Z">
         <seg>設計背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Filter&lt;/f0&gt; changes the data displayed in a selection of cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213237Z" creationid="Franklin Weng" creationdate="20180206T213052Z">
+        <seg>「&lt;f0&gt;資料&lt;/f0&gt;」選單中關於篩選的功能會顯示你所選擇想看的資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5866,6 +5890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144926Z" creationid="zerng07" creationdate="20171225T144926Z">
         <seg>&lt;f1&gt;兩者都能作用——重點在於你不必修改兩次，而是一次就到位。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Filtering does not delete the data in the selected cell &lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt; only which cells are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213330Z" creationid="Franklin Weng" creationdate="20180206T213330Z">
+        <seg>&lt;f1&gt;篩選並不會把符合條件的資料刪除 &lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt; 它只是決定要顯示哪些儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10523,6 +10555,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>By filtering, you can focus on data more carefully by hiding information not immediately needed, or prepared different versions of a spreadsheet for printing or presenting to different audiences.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213541Z" creationid="Franklin Weng" creationdate="20180206T213541Z">
+        <seg>透過篩選，你可以更專注在特定資料，而把目前不需要的資料隱藏起來。另外也可以用於針對不同聽眾群所需要的資料來分別列印或展示。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>哪來這麼多垃圾標籤......
 Franklin: 頁數修改注意</note>
       <tuv lang="EN">
@@ -13097,6 +13137,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filtering data</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213055Z" creationid="Franklin Weng" creationdate="20180206T213034Z">
+        <seg>篩選資料</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding and replacing common mistakes is much faster than spell checking, and allows you to see more of the context in which the mistake occurs.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T080948Z" creationid="Jeff Huang" creationdate="20171213T031404Z">
@@ -14699,6 +14747,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groups can be nested within groups.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212853Z" creationid="Franklin Weng" creationdate="20180206T212853Z">
+        <seg>群組可以是巢狀式，也就是群組內還有群組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Handouts are generally copies of the slide show printed out to give to the audience.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T170514Z" creationid="Franklin Weng" creationdate="20180120T121852Z">
@@ -14791,6 +14847,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072059Z" creationid="Jeff Huang" creationdate="20180115T072059Z">
         <seg>Helvetica Narrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here, Columns B and C are grouped, &lt;f0&gt;allowing them to be hidden or revealed together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212938Z" creationid="Franklin Weng" creationdate="20180206T212938Z">
+        <seg>這張圖中的欄 B 與欄 C 被集合起了，&lt;f0&gt;這樣可以讓這兩欄同時隱藏或顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24925,6 +24989,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The c&lt;/f0&gt;ontrol for expanding and hiding are in the top margin &lt;f1&gt;on the left.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213026Z" creationid="Franklin Weng" creationdate="20180206T213026Z">
+        <seg>&lt;/f0&gt;控制展開或隱藏的地方在標籤上方的&lt;f1&gt;左側&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The characteristics of graphic text are mostly the same as for &lt;f0&gt;text documents, with a few minor changes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T074430Z" creationid="Jeff Huang" creationdate="20180104T070635Z">
@@ -26118,6 +26190,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064411Z" creationid="zerng07" creationdate="20180125T064351Z">
         <seg>清單中，項目符號或編號與項目條文之間的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard and advanced filters can be useful, but the most convenient filter for everyday use&lt;/f0&gt; – &lt;f1&gt;especially in lists – &lt;/f1&gt;is often AutoFilter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213654Z" creationid="Franklin Weng" creationdate="20180206T213556Z">
+        <seg>標準篩選與進階篩選都很有用，但是一般日常最分便使用的&lt;/f0&gt; – &lt;f1&gt;特別是在清單內 – &lt;/f1&gt;還是「自動篩選」。</seg>
       </tuv>
     </tu>
     <tu>
