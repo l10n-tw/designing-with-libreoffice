@@ -8431,6 +8431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An anchor is a reference point for positioning &lt;f0&gt;frames and images&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101152Z" creationid="zerng07" creationdate="20180206T101152Z">
+        <seg>錨定是定位&lt;f0&gt;外框和影像&lt;/f0&gt;的參考點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An audience of developers may see a &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;3D&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; chart as proof that style has triumphed over substance, while an audience of marketers might see a &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;2D&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; chart as a lack of sophistication.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094057Z" creationid="Jeff Huang" creationdate="20180115T025959Z">
@@ -21887,6 +21895,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting anchors</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101133Z" creationid="zerng07" creationdate="20180206T101133Z">
+        <seg>設定錨定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting color through line spacing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123817Z" creationid="Franklin Weng" creationdate="20180105T133459Z">
@@ -29868,6 +29884,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T133056Z" creationid="Franklin Weng" creationdate="20171223T133056Z">
         <seg>不會有任何確認視窗，通常只要幾秒中就可以匯入完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You set the anchor on the &lt;f1&gt;Type&lt;/f1&gt; tab for a&lt;f2&gt;n&lt;/f2&gt; image or frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101230Z" creationid="zerng07" creationdate="20180206T101230Z">
+        <seg>你可以在影像或外框的「&lt;f1&gt;類型&lt;/f1&gt;」標籤頁中設定錨定。</seg>
       </tuv>
     </tu>
     <tu>
