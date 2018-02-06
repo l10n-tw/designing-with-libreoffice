@@ -1706,6 +1706,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Change Image&lt;/f0&gt; &lt;f1&gt;may not work if you have try to swap in an image with the same name as the original.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T072223Z" creationid="zerng07" creationdate="20180206T072223Z">
+        <seg>如果你試圖替換成和原始影像名稱相同的影像檔時，「&lt;f0&gt;取代&lt;/f0&gt;&lt;f1&gt;」可能無法作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Changing&lt;/f0&gt; the style hierarchy</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143929Z" creationid="zerng07" creationdate="20171225T143929Z">
@@ -5344,8 +5352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can adjust how an image displays with the tools on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Crop&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs, which are available when you select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Image Properties&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; from its right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T092049Z" creationid="zerng07" creationdate="20180205T092049Z">
-        <seg>&lt;f0&gt;你可以對影像按右鍵，從右鍵選單中選取「&lt;f7&gt;&lt;f8&gt;屬性&lt;/f8&gt;&lt;/f7&gt;&lt;/f0&gt;」，然後在「&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;裁切&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁的提供工具中調整影像的顯示內容。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071844Z" creationid="zerng07" creationdate="20180205T092049Z">
+        <seg>&lt;f0&gt;你可以對影像按右鍵，從右鍵選單中選取「&lt;f7&gt;&lt;f8&gt;屬性&lt;/f8&gt;&lt;/f7&gt;&lt;/f0&gt;」，然後在「&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;裁切&lt;/f5&gt;&lt;/f4&gt;&lt;f9&gt;」標籤頁的提供工具中調整影像的顯示內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16274,8 +16282,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Images are updated by overwriting the existing separate image file with a new one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071417Z" creationid="zerng07" creationdate="20180206T071417Z">
-        <seg>以新影像檔覆蓋既有的不同影像檔來更新影像。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T072110Z" creationid="zerng07" creationdate="20180206T071417Z">
+        <seg>以不同的新影像檔覆蓋既有的影像檔來更新影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,6 +17264,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162408Z" creationid="Franklin Weng" creationdate="20180105T130846Z">
         <seg>而是字體排印學中的術語，指的是一段文字、或一個頁面，整體畫面看來較暗還是較亮；如果是白底黑字時又稱為「灰度」。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, delete the original image and then insert the replacement.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T072300Z" creationid="zerng07" creationdate="20180206T072300Z">
+        <seg>此時，你可以刪除原始影像，接著再插入取代用的影像。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25377,8 +25393,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt; tab edits &lt;f3&gt;how&lt;/f3&gt; a&lt;f4&gt;n image displays in LibreOffice&lt;/f4&gt;, not the image file itself.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T121042Z" creationid="zerng07" creationdate="20180205T121042Z">
-        <seg>「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;」標籤頁可編輯一張影像在LibreOffice中的顯現畫面&lt;/f4&gt;，而不是編輯原始影像本身。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071914Z" creationid="zerng07" creationdate="20180205T121042Z">
+        <seg>「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;」標籤頁可編輯一張影像在LibreOffice中的顯現畫面，而不是編輯原始影像本身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29052,8 +29068,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You can edit the frame by modifying the frame style it uses, &lt;f0&gt;but you should avoid &lt;/f0&gt;manual override&lt;f1&gt;s whenever possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131144Z" creationid="zerng07" creationdate="20180130T130909Z">
-        <seg>你可以修改外框樣式來編輯外框，而且應該盡可能避免&lt;f0&gt;手動凌駕樣式的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071826Z" creationid="zerng07" creationdate="20180130T130909Z">
+        <seg>你可以修改外框樣式來編輯外框，而且應該盡可能避免&lt;f0&gt;手動凌駕&lt;/f0&gt;樣式的格式設定。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
