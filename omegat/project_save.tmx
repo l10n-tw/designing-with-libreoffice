@@ -8433,8 +8433,8 @@
       <tuv lang="EN">
         <seg>An anchor is a reference point for positioning &lt;f0&gt;frames and images&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101152Z" creationid="zerng07" creationdate="20180206T101152Z">
-        <seg>錨定是定位&lt;f0&gt;外框和影像&lt;/f0&gt;的參考點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T102313Z" creationid="zerng07" creationdate="20180206T101152Z">
+        <seg>錨定是定位&lt;f0&gt;外框和影像&lt;/f0&gt;用的參考點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23723,6 +23723,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085421Z" creationid="zerng07" creationdate="20180206T085421Z">
         <seg>「&lt;f0&gt;類型&lt;/f0&gt;」標籤頁中&lt;f1&gt;包含許多調整影像大小、錨定、定位的選項。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Type&lt;/f0&gt; tab offers four options for the anchor: &lt;f1&gt;To Page&lt;/f1&gt;, &lt;f2&gt;To Paragraph&lt;/f2&gt;, &lt;f3&gt;To Character&lt;/f3&gt;, and &lt;f4&gt;As Character&lt;/f4&gt;.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;The first three choices indicate what an object is positioned in relation to.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T102727Z" creationid="zerng07" creationdate="20180206T102727Z">
+        <seg>「&lt;f0&gt;類型&lt;/f0&gt;」標籤頁中提供四種錨定選項：「&lt;f1&gt;至頁面&lt;/f1&gt;」、「&lt;f2&gt;至段落&lt;/f2&gt;」、「&lt;f3&gt;至字元&lt;/f3&gt;」，和「&lt;f4&gt;作為字元&lt;/f4&gt;」。&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;前三種選擇代表與此物件相對的位置關係。</seg>
       </tuv>
     </tu>
     <tu>
