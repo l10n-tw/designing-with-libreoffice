@@ -26207,6 +26207,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option may have no effect if you edit the frame dimensions later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085240Z" creationid="zerng07" creationdate="20180206T085240Z">
+        <seg>如果你之後會編輯外框尺寸大小的話，這個選項就沒有什麼作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This policy avoids the tendency to corruption that used to plague &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;MS &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Word (and may still do, for all that I know).&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144150Z" creationid="Franklin Weng" creationdate="20171212T115129Z">
