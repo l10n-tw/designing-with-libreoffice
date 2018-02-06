@@ -806,6 +806,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;However, the easiest way to add a function is to use the &lt;f4&gt;&lt;f5&gt;Insert &gt; Function &lt;/f5&gt;&lt;/f4&gt;dialog window, which opens a wizard for building functions and previews answers and errors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T140626Z" creationid="Franklin Weng" creationdate="20180206T140626Z">
+        <seg>&lt;/f3&gt;最簡單的方式還是用選單中的「&lt;f4&gt;&lt;f5&gt;插入 &gt; 函式&lt;/f5&gt;&lt;/f4&gt;」，它會開啟一個精靈視窗，並讓你預覽計算的結果或是錯誤。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>為何？寫錯了嗎？頁寬減去垂直邊距？？？原理是什麼？？？</note>
       <tuv lang="EN">
         <seg>&lt;/f3&gt;You can determine this distance by subtracting the vertical margins from the page width given on the &lt;f4&gt;Page&lt;/f4&gt; tab of &lt;f5&gt;each page style.</seg>
@@ -2136,6 +2144,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T160739Z" creationid="zerng07" creationdate="20171227T160739Z">
         <seg>特別是Writer中，樣式先依照功能命名，名稱後面再接它們位於檔案階層中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Each has its own set of input variables, some entered manually and others that can be entered by dragging with the mouse on selected cells.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135619Z" creationid="Franklin Weng" creationdate="20180206T135619Z">
+        <seg>&lt;f0&gt;每一個都會有自己的烏入變數，有些是手動輸入，有些是可以用滑鼠拖曳到選擇的儲存格來輸入。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10358,6 +10374,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc includes over 455 different functions for manipulating data, and more functions are available as extensions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135105Z" creationid="Franklin Weng" creationdate="20180206T135105Z">
+        <seg>Calc 中包含了超過 455 種處理資料用的函式，並且還有更多的函式可以透過擴充套件取得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc styles are given only &lt;f0&gt;two&lt;/f0&gt; sample defaults, making it harder for users to imagine how they might be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134940Z" creationid="Franklin Weng" creationdate="20180126T134940Z">
@@ -11703,6 +11727,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Designing &lt;f0&gt;data collections&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T134959Z" creationid="Franklin Weng" creationdate="20180206T134959Z">
+        <seg>設計&lt;f0&gt;資料集合&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Designing &lt;f0&gt;drawing content&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T025917Z" creationid="Jeff Huang" creationdate="20180116T025917Z">
@@ -12605,6 +12637,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121957Z" creationid="Franklin Weng" creationdate="20180206T121957Z">
         <seg>練習：旅遊計畫清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exercise: Creating a &lt;f0&gt;m&lt;/f0&gt;ark &lt;f1&gt;b&lt;/f1&gt;ook</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143155Z" creationid="Franklin Weng" creationdate="20180206T143155Z">
+        <seg>練習： 建立一份成績紀錄本&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13858,6 +13898,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format the cells for raw data and th&lt;f0&gt;ose for&lt;/f0&gt; manipulations of the data differently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135511Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
+        <seg>將存放原始資料，還有操作資料用的儲存格做不同的格式設定。&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting charts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180112T140448Z" creationid="Jeff Huang" creationdate="20180112T140448Z">
@@ -14055,6 +14103,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071808Z" creationid="Jeff Huang" creationdate="20180115T071808Z">
         <seg>Frutiger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions for data collections vary widely.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135541Z" creationid="Franklin Weng" creationdate="20180206T135541Z">
+        <seg>資料集合所用到的函式差別很大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16835,6 +16891,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to functions, plan for column headings, totals, and the results of the functions you will need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135408Z" creationid="Franklin Weng" creationdate="20180206T135408Z">
+        <seg>除了函式之外，欄位標題、總和還有函式的結果呈現等都是你需要做計劃的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140344Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
@@ -18917,6 +18981,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many functions are deliberately compatible with &lt;f0&gt;Microsoft&lt;/f0&gt; Excel, &lt;f1&gt;so that Calc spreadsheets can be easily shared.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135245Z" creationid="Franklin Weng" creationdate="20180206T135245Z">
+        <seg>許多函式是刻意做成與 &lt;f0&gt;Microsoft&lt;/f0&gt; Excel 相容的，&lt;f1&gt;這樣比較容易跟其他人分享 Calc 試算表。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many graphic editors will show an actual size and a printed size, display&lt;f0&gt;ing&lt;/f0&gt; each in a number of different formats, including pixels, points, inches, and percentage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T132236Z" creationid="zerng07" creationdate="20180205T132236Z">
@@ -19387,6 +19459,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031151Z" creationid="Jeff Huang" creationdate="20180201T031151Z">
         <seg>如果清單太長就會造成閱讀不易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Much of the Planning and Packing sections can be reused, &lt;f0&gt;while recycling the calendar only requires a change of dates.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T134949Z" creationid="Franklin Weng" creationdate="20180206T134949Z">
+        <seg>在 Planning 與 Packing 兩個區段的部份可以重覆使用，&lt;f0&gt;而行程的部份只需要修改日期就好。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24227,6 +24307,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Function Wizard &lt;f0&gt;(Insert &gt; Function)&lt;/f0&gt; is the easiest way to construct a formula.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T141148Z" creationid="Franklin Weng" creationdate="20180206T141148Z">
+        <seg>函式精靈&lt;f0&gt;（「插入 &gt; 函式」）&lt;/f0&gt;可以說是使用函式最方便的方法了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Load Styles window opens.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141443Z" creationid="Franklin Weng" creationdate="20171223T132508Z">
@@ -25886,6 +25974,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T152552Z" creationid="zerng07" creationdate="20171225T152552Z">
         <seg>LibreOffice的各個樣式視窗中，設定被分門別類到不同的標籤頁畫面中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The window is also useful for browsing functions to discover &lt;f0&gt;the ones you need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T140712Z" creationid="Franklin Weng" creationdate="20180206T140712Z">
+        <seg>這個視窗也可以讓你瀏覽整個函式清單，以便&lt;f0&gt;找到你需要的函式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29630,6 +29726,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>行為與 6.0 版不同。</note>
+      <tuv lang="EN">
+        <seg>You can choose a category to browse, or press a key to jump to a category starting with that letter.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T141101Z" creationid="Franklin Weng" creationdate="20180206T141101Z">
+        <seg>你可以選擇要瀏覽的函式類別，或是輸入幾個字母，它就會幫你篩選出名稱包含你輸入的字母的函式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>You can choose between four kinds of connector:</seg>
       </tuv>
@@ -29715,6 +29820,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071826Z" creationid="zerng07" creationdate="20180130T130909Z">
         <seg>你可以修改外框樣式來編輯外框，而且應該盡可能避免&lt;f0&gt;手動凌駕&lt;/f0&gt;樣式的格式設定。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can enter variables manually from the &lt;f0&gt;&lt;f1&gt;F&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ormula bar&lt;/f2&gt; at the bottom of the tool bars, or with &lt;f3&gt;Insert &gt; Function List.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T140516Z" creationid="Franklin Weng" creationdate="20180206T140516Z">
+        <seg>你可以手動在工具列下的&lt;f0&gt;&lt;f1&gt;&lt;f2&gt;公式列&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;手動輸入，或是透過選單中的&lt;f3&gt;「插入 &gt; 函式」。</seg>
       </tuv>
     </tu>
     <tu>
