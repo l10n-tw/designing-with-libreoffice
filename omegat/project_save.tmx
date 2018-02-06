@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;If you use this option, you should also select &lt;f2&gt;Wrap &gt; Options &gt; In Background &lt;/f2&gt;&lt;f3&gt;so that the text is visible&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121205Z" creationid="zerng07" creationdate="20180206T121205Z">
+        <seg>&lt;/f1&gt;如果你使用這個選項，你應該也要同時選取「&lt;f2&gt;環繞 &gt; 選項 &gt; 置於背景&lt;/f2&gt;&lt;f3&gt;」，這樣才看得到文字&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;Impress rescale&lt;f2&gt;s&lt;/f2&gt; slides &lt;f3&gt;as needed&lt;/f3&gt;, but rescaling distorts &lt;f4&gt;not only screenshots, but also text on logos.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T165547Z" creationid="Franklin Weng" creationdate="20180115T092206Z">
@@ -4872,8 +4880,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Through:&lt;/f0&gt; &lt;f1&gt;The frame is placed on top of the text, hiding it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120104Z" creationid="zerng07" creationdate="20180206T120104Z">
-        <seg>&lt;f0&gt;穿過：&lt;/f0&gt; &lt;f1&gt;The frame is placed on top of the text, hiding it.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121005Z" creationid="zerng07" creationdate="20180206T120104Z">
+        <seg>&lt;f0&gt;穿過：&lt;/f0&gt; &lt;f1&gt;外框放在文字上方，掩蓋下面的文字。</seg>
       </tuv>
     </tu>
     <tu>
