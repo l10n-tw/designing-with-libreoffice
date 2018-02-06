@@ -13602,6 +13602,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting frames &lt;f0&gt;and&lt;/f0&gt; images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T072322Z" creationid="zerng07" creationdate="20180206T072322Z">
+        <seg>設定外框&lt;f0&gt;和&lt;/f0&gt;影像的格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting header&lt;f0&gt;s&lt;/f0&gt; &lt;f1&gt;and&lt;/f1&gt; footer&lt;f2&gt;s&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T023201Z" creationid="Jeff Huang" creationdate="20180126T135952Z">
@@ -25034,6 +25042,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T034011Z" creationid="Jeff Huang" creationdate="20180203T034011Z">
         <seg>反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The right-click menu includes items for both &lt;f0&gt;frame and image&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T072359Z" creationid="zerng07" creationdate="20180206T072359Z">
+        <seg>右鍵選單中包含了&lt;f0&gt;外框和影像&lt;/f0&gt;的相關項目。</seg>
       </tuv>
     </tu>
     <tu>
