@@ -27474,6 +27474,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Relative&lt;/f0&gt; fields to set a &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; that is a percentage of the &lt;f3&gt;paragraph’s or &lt;/f3&gt;page’s width and height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084734Z" creationid="zerng07" creationdate="20180206T084734Z">
+        <seg>使用「&lt;f0&gt;相對於&lt;/f0&gt;」欄位，可將其「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」設定成&lt;f3&gt;段落或&lt;/f3&gt;頁面寬度或高度的百分比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the Navigator so that you go through the objects systematically, and you can recognize departures from the formatting conventions you have set.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T073405Z" creationid="Jeff Huang" creationdate="20171213T024300Z">
