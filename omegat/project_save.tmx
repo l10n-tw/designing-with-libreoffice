@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;However, if the frame is centered, it requires readers’ eyes to jump continually across the frame and should be avoided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121718Z" creationid="zerng07" creationdate="20180206T121718Z">
+        <seg>&lt;/f1&gt;不過，如果外框置中的話，這個做法會讓讀者在閱讀時，得不斷從外框的左側跳到右側去，應該極力避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;If you use this option, you should also select &lt;f2&gt;Wrap &gt; Options &gt; In Background &lt;/f2&gt;&lt;f3&gt;so that the text is visible&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121205Z" creationid="zerng07" creationdate="20180206T121205Z">
@@ -14031,6 +14039,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T124006Z" creationid="Franklin Weng" creationdate="20171223T093515Z">
         <seg>一般使用者資訊，儲存在「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 使用者資料&lt;/f0&gt;」之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally, &lt;f0&gt;Optimal&lt;/f0&gt; makes a reasonable default setting &lt;f1&gt;if one side of the frame is close to the left or the right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121539Z" creationid="zerng07" creationdate="20180206T121539Z">
+        <seg>如果外框的一側很接近左邊距或右邊距時，「&lt;f0&gt;最適&lt;/f0&gt;」通常是合理的預設設定&lt;f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
