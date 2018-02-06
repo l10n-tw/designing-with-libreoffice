@@ -6322,6 +6322,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;However,&lt;/f2&gt; setting the anchor to &lt;f3&gt;As Character&lt;/f3&gt; seems the &lt;f4&gt;choice least likely to have objects shift spontaneously.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T114535Z" creationid="zerng07" creationdate="20180206T114535Z">
+        <seg>&lt;f2&gt;然而，&lt;/f2&gt;將錨定設定為「&lt;f3&gt;作為字元&lt;/f3&gt;」似乎才是&lt;f4&gt;比較不會讓物件出乎意料偏移的選擇。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;nstead of adding all the characteristics every place where you format, you apply the style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061633Z" creationid="zerng07" creationdate="20170903T152317Z">
@@ -28881,6 +28889,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142038Z" creationid="Jeff Huang" creationdate="20180118T094157Z">
         <seg>Writer與Calc的版本少了其中&lt;f1&gt;一些&lt;/f1&gt;工具，像是連接線等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer defaults images to &lt;f0&gt;To Paragraph&lt;/f0&gt; when you insert a&lt;f1&gt;n&lt;/f1&gt; image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T114423Z" creationid="zerng07" creationdate="20180206T114423Z">
+        <seg>當你將影像插入Writer中時，影像錨定預設為「&lt;f0&gt;至段落&lt;/f0&gt;」。 </seg>
       </tuv>
     </tu>
     <tu>
