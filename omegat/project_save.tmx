@@ -1298,8 +1298,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;After:&lt;/f0&gt; Text wraps above, below, and to the right, leaving white space on the left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120045Z" creationid="zerng07" creationdate="20180206T120045Z">
-        <seg>&lt;f0&gt;之後：&lt;/f0&gt; Text wraps above, below, and to the right, leaving white space on the left.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120700Z" creationid="zerng07" creationdate="20180206T120045Z">
+        <seg>&lt;f0&gt;之後：&lt;/f0&gt;文字包住上方、下方、右側，留下左側空白。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3739,8 +3739,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Parallel:&lt;/f0&gt; Text wraps &lt;f1&gt;equally &lt;/f1&gt;on all sides of the frame, &lt;f2&gt;starting on the left, then jumping across the image to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120054Z" creationid="zerng07" creationdate="20180206T120054Z">
-        <seg>&lt;f0&gt;平行：&lt;/f0&gt; Text wraps &lt;f1&gt;equally &lt;/f1&gt;on all sides of the frame, &lt;f2&gt;starting on the left, then jumping across the image to the right.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120822Z" creationid="zerng07" creationdate="20180206T120054Z">
+        <seg>&lt;f0&gt;平行：&lt;/f0&gt;文字&lt;f1&gt;同等距離&lt;/f1&gt;環繞於外框四周，&lt;f2&gt;文字從左側開始，接著跳到影像的右側去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26561,6 +26561,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This setting is especially useful for frames against the left margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120717Z" creationid="zerng07" creationdate="20180206T120717Z">
+        <seg>這個設定特別適合靠在左側邊距上的外框使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting is especially useful for frames against the right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120722Z" creationid="zerng07" creationdate="20180206T120642Z">
+        <seg>這個設定特別適合靠在右側邊距上的外框使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setting should be equal or greater to the tab stop set for &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Numbering followed by&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132050Z" creationid="Jeff Huang" creationdate="20180203T132050Z">
@@ -27583,6 +27599,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T082902Z" creationid="Franklin Weng" creationdate="20171213T132634Z">
         <seg>除非你有一些範本用途極度相近，否則你&lt;f3&gt;應該&lt;/f3&gt;不會想要一次就設計一個以上的範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unless the text is very short, avoid this wrap, because most readers will have to concentrate to read the text.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120921Z" creationid="zerng07" creationdate="20180206T120921Z">
+        <seg>除非文字非常短，否則請避免這種環繞方式，因為這會讓大多數讀者無法專心在文字閱讀上。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
