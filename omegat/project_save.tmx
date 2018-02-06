@@ -11984,6 +11984,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each of these alignments can be relative to various reference points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T093444Z" creationid="zerng07" creationdate="20180206T093444Z">
+        <seg>這些對齊方式可以相對於各種參考點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each of these tabs give a variety of options, &lt;f4&gt;although not an exhaustive list.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T030224Z" creationid="Jeff Huang" creationdate="20180203T030224Z">
@@ -27878,6 +27886,15 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033100Z" creationid="Jeff Huang" creationdate="20180125T033100Z">
         <seg>不過，一般情況下，指標會更明顯：&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>目前 Left page border 翻譯是「左頁面邊距」是錯誤的，因為是從紙張邊緣開始算的，不是邊距… 錯誤翻譯會在 6.0 和 5.4 中修正。</note>
+      <tuv lang="EN">
+        <seg>Usually, the most useful reference point &lt;f0&gt;is&lt;/f0&gt; &lt;f1&gt;Left Page Border&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T094627Z" creationid="zerng07" creationdate="20180206T094627Z">
+        <seg>一般來說，最有用的參考點是「&lt;f1&gt;左側頁緣&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
