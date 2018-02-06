@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;If necessary, experiment with the exact settings first, making note&lt;f1&gt;s&lt;/f1&gt; of all the settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062947Z" creationid="zerng07" creationdate="20180206T062947Z">
+        <seg>&lt;/f0&gt;如果有需要，先實驗切確的設定數值，然後將所有的設定值記錄下來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;If the value &lt;f1&gt;of the &lt;/f1&gt;&lt;f2&gt;Numbering Alignment&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;is 0, then choosing &lt;f4&gt;Center&lt;/f4&gt; or &lt;f5&gt;Right&lt;/f5&gt; can force the numbers into the left margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130840Z" creationid="Jeff Huang" creationdate="20180203T130840Z">
@@ -1196,6 +1204,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033703Z" creationid="Jeff Huang" creationdate="20180127T033703Z">
         <seg>&lt;f0&gt;新增&lt;/f0&gt;頁首&lt;f1&gt;與&lt;/f1&gt;頁尾段落格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Adjust objects immediately after you add them, not later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062838Z" creationid="zerng07" creationdate="20180206T062838Z">
+        <seg>&lt;f0&gt;在你加入物件之後立刻調整，而不是等之後才調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2788,6 +2804,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T032417Z" creationid="Jeff Huang" creationdate="20180203T032417Z">
         <seg>&lt;f0&gt;如果你的設計太過混亂，請點按&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;位置&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;標籤頁&lt;/f6&gt;中的&lt;f1&gt;&lt;f2&gt;預設值&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕&lt;/f3&gt;或&lt;f10&gt;&lt;f11&gt;選項&lt;/f11&gt;&lt;/f10&gt;標籤頁中的&lt;f7&gt;&lt;f8&gt;重設&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;按鈕&lt;/f9&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If&lt;/f0&gt; possible, format the &lt;f1&gt;frame style&lt;/f1&gt;, not individual frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062807Z" creationid="zerng07" creationdate="20180206T062807Z">
+        <seg>&lt;f0&gt;如果&lt;/f0&gt;可以的話，對&lt;f1&gt;外框樣式&lt;/f1&gt;作格式設定，而不是各個外框個別手動設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7619,6 +7643,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111924Z" creationid="zerng07" creationdate="20171219T111924Z">
         <seg>從工具列中加入&lt;f0&gt;編號清單&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add &lt;f0&gt;objects&lt;/f0&gt; when the formatting and &lt;f1&gt;writing is done.&lt;/f1&gt; The &lt;f2&gt;objects&lt;/f2&gt; are less likely to move around.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062709Z" creationid="zerng07" creationdate="20180206T062709Z">
+        <seg>在完成格式設定和寫作內容之後再加入&lt;f0&gt;物件&lt;/f0&gt;。&lt;f2&gt;這樣物件&lt;/f2&gt;才比較不會跑來跑去。</seg>
       </tuv>
     </tu>
     <tu>
