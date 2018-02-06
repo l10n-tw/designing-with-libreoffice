@@ -3801,6 +3801,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Resize frames and images on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Type&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of the dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T083925Z" creationid="zerng07" creationdate="20180206T083925Z">
+        <seg>&lt;f0&gt;透過外框和影像的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;類型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁調整大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Robin Williams.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072008Z" creationid="zerng07" creationdate="20171228T072008Z">
@@ -6959,8 +6967,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;B&lt;/f6&gt;e sure that you select the one you intend to modify.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T081508Z" creationid="zerng07" creationdate="20180206T081508Z">
-        <seg>記得確認你選取的是想要修改的部分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T082142Z" creationid="zerng07" creationdate="20180206T081508Z">
+        <seg>記得確認你選取到的是想要修改的部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20954,6 +20962,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T041613Z" creationid="Jeff Huang" creationdate="20180116T053637Z">
         <seg>重複：重複設計元素來讓文件更為一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resizing frames and images</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T082202Z" creationid="zerng07" creationdate="20180206T082202Z">
+        <seg>調整外框和影像的大小</seg>
       </tuv>
     </tu>
     <tu>
