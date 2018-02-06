@@ -1617,6 +1617,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;By contrast, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;As Character&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; indicates that the object is treated as a character.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T102811Z" creationid="zerng07" creationdate="20180206T102811Z">
+        <seg>&lt;f0&gt;而「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;作為字元&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」代表物件會被視為字元處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By contrast,&lt;/f0&gt; bullets take up more space.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T125610Z" creationid="Jeff Huang" creationdate="20180131T125610Z">
