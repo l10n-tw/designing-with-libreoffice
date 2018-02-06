@@ -24617,6 +24617,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The horizontal options are &lt;f0&gt;Left&lt;/f0&gt;, &lt;f1&gt;Right&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;From Left&lt;/f4&gt; (which &lt;f5&gt;works with&lt;/f5&gt; an indent field called &lt;f6&gt;By&lt;/f6&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T093417Z" creationid="zerng07" creationdate="20180206T093417Z">
+        <seg>橫向選項有「&lt;f0&gt;左&lt;/f0&gt;」、「&lt;f1&gt;右&lt;/f1&gt;」、「&lt;f2&gt;中&lt;/f2&gt;」，&lt;f3&gt;和「&lt;/f3&gt;&lt;f4&gt;自左&lt;/f4&gt;」（&lt;f5&gt;搭配&lt;/f5&gt;「&lt;f6&gt;距&lt;/f6&gt;」欄位使用）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The immediate result is a single line &lt;f0&gt;for text&lt;/f0&gt; in the top or bottom margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T114252Z" creationid="Jeff Huang" creationdate="20180126T133939Z">
