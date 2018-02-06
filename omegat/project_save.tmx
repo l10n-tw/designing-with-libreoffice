@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;It is already set apart by the thin column&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; H, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;but you can use the borders and/or background to further set it apart.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144916Z" creationid="Franklin Weng" creationdate="20180206T144916Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位 H 已經設定做為區隔用，&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;不過你還是可以在評比範圍那邊加上邊框做進一步區隔。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;The tool is similar to the one in Impress, but defaults to gray column headings and row.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093154Z" creationid="Jeff Huang" creationdate="20180121T125352Z">
@@ -2403,6 +2411,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For convenience, enter the grading scale in column &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;I.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144958Z" creationid="Franklin Weng" creationdate="20180206T144812Z">
+        <seg>&lt;f0&gt;為了方便起見，我們在欄位 I 加入成績評比範圍（Scale）。&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
@@ -3268,6 +3284,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162121Z" creationid="zerng07" creationdate="20170822T193513Z">
         <seg>&lt;f0&gt;深入&lt;/f0&gt;學習西方字體排印學</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Leave enough rows for the number of students, then use the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Exam&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; column below the list of students for the labels of any statistics you want to set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145209Z" creationid="Franklin Weng" creationdate="20180206T144949Z">
+        <seg>&lt;f0&gt;看有多少學生，就保留多少列。然後用 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Exam&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 欄，學生成績紀錄的下方放上你要做哪些統計的標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5230,6 +5254,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160648Z" creationid="Jeff Huang" creationdate="20180129T131758Z">
         <seg>&lt;f0&gt;只有在間距太緊單靠空格會不好閱讀時，才使用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分隔線&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Value&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style to format the row below the headings to enter the value of each assignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144634Z" creationid="Franklin Weng" creationdate="20180206T144634Z">
+        <seg>&lt;f0&gt;用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;數值&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式來對標題下方那一列做格式設定，並且輸入每一項目的權重。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7799,6 +7831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A row separates the figures from the raw data in the sample, but you could use other formatting to set them apart.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145321Z" creationid="Franklin Weng" creationdate="20180206T145321Z">
+        <seg>在這個範例中，成績紀錄跟下方的統計是用一個空白列來區隔，不過你當然也可以用其他的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A sample riddled with hyphens is a sign that you will either have to change the font, or adjust its size or alignment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034826Z" creationid="Franklin Weng" creationdate="20180105T120930Z">
@@ -7931,6 +7971,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T115350Z" creationid="zerng07" creationdate="20180123T115350Z">
         <seg>「&lt;/f2&gt;左/上&lt;f3&gt;」對齊其實也有它的問題，尤其是欄中或表格中，&lt;/f3&gt;但通常沒那麼嚴重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;f0&gt;n excerpt from a data collection spreadsheet – specifically, &lt;/f0&gt;a mark book for teachers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145503Z" creationid="Franklin Weng" creationdate="20180206T145503Z">
+        <seg>&lt;f0&gt;資料集合的試算表的一個範例：&lt;/f0&gt;老師用的成績紀錄簿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13930,6 +13978,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format the &lt;f0&gt;Total&lt;/f0&gt; and &lt;f1&gt;Grade&lt;/f1&gt; columns with the &lt;f2&gt;Value&lt;/f2&gt; cell style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145024Z" creationid="Franklin Weng" creationdate="20180206T144948Z">
+        <seg>將 &lt;f0&gt;Total&lt;/f0&gt; 與 &lt;f1&gt;Grade&lt;/f1&gt; 欄位的格式也設定成「&lt;f2&gt;數值&lt;/f2&gt;」樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format the cells for raw data and th&lt;f0&gt;ose for&lt;/f0&gt; manipulations of the data differently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135511Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
@@ -17476,6 +17532,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the sample, I have used &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Average, Median, Max, and Min.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145340Z" creationid="Franklin Weng" creationdate="20180206T145340Z">
+        <seg>在這個範例中，統計部份我加上了 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Average, Median, Max, 跟 Min。&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the status bar at the bottom of the editing window, set LibreOffice to display &lt;f0&gt;multiple pages, selecting the third button from the left.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085817Z" creationid="zerng07" creationdate="20180121T085817Z">
@@ -18912,6 +18976,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122653Z" creationid="Franklin Weng" creationdate="20180206T122653Z">
         <seg>將「&lt;f5&gt;標題 1&lt;/f5&gt;」樣式的&lt;f6&gt;字型大小&lt;/f6&gt;與&lt;f7&gt;字型色彩&lt;/f7&gt;設定成跟「&lt;f8&gt;預設&lt;/f8&gt;」&lt;f9&gt;樣式&lt;/f9&gt;不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the total out of 100 so that it is a percentage.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144707Z" creationid="Franklin Weng" creationdate="20180206T144707Z">
+        <seg>權重的總和要是 100，表示權重以百分比來計算。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22170,8 +22242,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set column &lt;f0&gt;A &lt;/f0&gt;to a width of 12 centimeters, and column &lt;f1&gt;H&lt;/f1&gt; to &lt;f2&gt;1&lt;/f2&gt; centimeter&lt;f3&gt;.&lt;/f3&gt; Column H will be used as a spacer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143908Z" creationid="Franklin Weng" creationdate="20180206T143908Z">
-        <seg>Set column &lt;f0&gt;A &lt;/f0&gt;to a width of 12 centimeters, and column &lt;f1&gt;H&lt;/f1&gt; to &lt;f2&gt;1&lt;/f2&gt; centimeter&lt;f3&gt;.&lt;/f3&gt; Column H will be used as a spacer.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144151Z" creationid="Franklin Weng" creationdate="20180206T143908Z">
+        <seg>將欄位 &lt;f0&gt;A &lt;/f0&gt;的寬度設為 12 公分，欄位 &lt;f1&gt;H&lt;/f1&gt; 設為 &lt;f2&gt;1&lt;/f2&gt; 公分&lt;f3&gt;。&lt;/f3&gt; H 欄是用來分隔的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23802,6 +23874,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055920Z" creationid="Jeff Huang" creationdate="20171228T075114Z">
         <seg>&lt;/f3&gt;雖然你幾乎不大需要修改預設值，但「&lt;f4&gt;&lt;f5&gt;線條&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位能讓你調整尺寸線和輔助線之間的關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Total&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; column will contain the actual statistics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145239Z" creationid="Franklin Weng" creationdate="20180206T145239Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Total&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 這一欄仍保持最原始的統計紀錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28089,6 +28169,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T070852Z" creationid="Franklin Weng" creationdate="20180115T092440Z">
         <seg>用&lt;f0&gt;右方側邊欄中「屬性」面板的「背景」欄位，從「無」改為其他選項&lt;/f0&gt;來&lt;f1&gt;設計與選擇&lt;/f1&gt;背景樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>標題採用原文就不用再重新截圖惹</note>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Heading 2 &lt;/f0&gt;to name columns&lt;f1&gt; A-G.&lt;/f1&gt; Starting from &lt;f2&gt;column&lt;/f2&gt; A, the &lt;f3&gt;h&lt;/f3&gt;eadings will be: &lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144339Z" creationid="Franklin Weng" creationdate="20180206T144339Z">
+        <seg>用&lt;f0&gt;標題 2 &lt;/f0&gt;的樣式來輸入欄位&lt;f1&gt; A-G &lt;/f1&gt; 的名稱，分別為：&lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;跟&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade。&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
