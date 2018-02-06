@@ -3833,6 +3833,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;elect &lt;f1&gt;Keep ratio,&lt;/f1&gt; &lt;f2&gt;then add either the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Width&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; or &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Height.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; The other dimension will change automatically to remain proportional, saving you calculations.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084439Z" creationid="zerng07" creationdate="20180206T084439Z">
+        <seg>選取「&lt;f1&gt;維持比例&lt;/f1&gt;」後&lt;f2&gt;，接著修改「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;寬度&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」或「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;高度&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」。另一個尚未修改的維度就會自動依據原始比例修改，免去你自己計算的辛勞。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;etting text characteristics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T065956Z" creationid="Jeff Huang" creationdate="20180104T065956Z">
@@ -21687,6 +21695,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set &lt;f0&gt;Width&lt;/f0&gt; and &lt;f1&gt;Height&lt;/f1&gt; separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084012Z" creationid="zerng07" creationdate="20180206T084012Z">
+        <seg>分別設定「&lt;f0&gt;寬度&lt;/f0&gt;」和「&lt;f1&gt;高度&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the &lt;f0&gt;&lt;f1&gt;L&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ine spacing &lt;/f2&gt;to &lt;f3&gt;Fixed &gt; 1&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;8&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; points &lt;/f6&gt;on the &lt;f7&gt;Indents &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&amp;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Spacing&lt;/f10&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005453Z" creationid="zerng07" creationdate="20180125T102247Z">
@@ -26047,6 +26063,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This choice can easily distort the image, so you are better off with other alternatives.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084049Z" creationid="zerng07" creationdate="20180206T084049Z">
+        <seg>這樣做很容易讓影像扭曲變形，所以最好還是用其他方式處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This choice only works when your video &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;driver has hardware acceleration, which some Linux installations will not have.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T092916Z" creationid="Jeff Huang" creationdate="20180113T134557Z">
@@ -29542,8 +29566,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>You have several options for resizing:&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T083938Z" creationid="zerng07" creationdate="20180206T083938Z">
-        <seg>你有許多調整大小用的選項ㄤ&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T083947Z" creationid="zerng07" creationdate="20180206T083938Z">
+        <seg>你有許多調整大小用的選項：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
