@@ -23742,6 +23742,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>LibreOffice 中的 As character 現在有兩種翻譯，「作為字元」和「如字元」，統一成「作為字元」。
+AOO 則是「為字元」、「如字元」、「作為字元」、「當作字元」皆有。</note>
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Type&lt;/f0&gt; tab offers four options for the anchor: &lt;f1&gt;To Page&lt;/f1&gt;, &lt;f2&gt;To Paragraph&lt;/f2&gt;, &lt;f3&gt;To Character&lt;/f3&gt;, and &lt;f4&gt;As Character&lt;/f4&gt;.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;The first three choices indicate what an object is positioned in relation to.</seg>
       </tuv>
