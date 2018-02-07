@@ -1127,6 +1127,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>依現有版本改寫</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tool &gt; Filters &gt; Standard Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;sets the Columns and conditions with which to filter information.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141501Z" creationid="Franklin Weng" creationdate="20180207T141501Z">
+        <seg>&lt;f0&gt;「&lt;f1&gt;資料 &gt; 更多篩選 &gt; 標準篩選&lt;/f1&gt;」&lt;/f0&gt;&lt;f2&gt;可以設定欄位跟要篩選的條件。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Type &gt; Auto&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; sets the time between repetitions of the presentation when it runs unattended.&lt;/f2&gt;</seg>
       </tuv>
@@ -8687,6 +8696,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alone among filters, they can show empty and non-empty cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141233Z" creationid="Franklin Weng" creationdate="20180207T141233Z">
+        <seg>不管其他過濾條件，它們可以直接選擇空白或非空白的儲存格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Along with each basic paragraph style, LibreOffice also &lt;f0&gt;includes&lt;/f0&gt; list styles ending in &lt;f1&gt;Cont.&lt;/f1&gt; (Continue), &lt;f2&gt;End, &lt;/f2&gt;and &lt;f3&gt;Start.&lt;/f3&gt; &lt;f4&gt;You can use these styles to customize lists.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T033442Z" creationid="Jeff Huang" creationdate="20180202T033442Z">
@@ -9599,6 +9616,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125247Z" creationid="Jeff Huang" creationdate="20180127T125247Z">
         <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto&lt;f0&gt;F&lt;/f0&gt;ilters have several advantages:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T140429Z" creationid="Franklin Weng" creationdate="20180207T140429Z">
+        <seg>自動篩選有幾個優點：&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25647,6 +25672,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The menu includes buttons for hiding and unhiding cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141306Z" creationid="Franklin Weng" creationdate="20180207T141306Z">
+        <seg>選單中包含了要隱藏還是顯示符合篩選條件的儲存格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The middle column has three hyphenated lines, while hyphenation causes awkward breaks throughout.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003425Z" creationid="zerng07" creationdate="20180123T120205Z">
@@ -26819,6 +26852,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are always on the sheet, next to the data they filter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T140818Z" creationid="Franklin Weng" creationdate="20180207T140818Z">
+        <seg>它們會一直在工作表上，就在要篩選的資料旁邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are generally introduced in the body text by a summary of the overall task they describe that ends in a colon.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T033942Z" creationid="Jeff Huang" creationdate="20180201T033942Z">
@@ -26999,6 +27040,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135900Z" creationid="Jeff Huang" creationdate="20180204T135900Z">
         <seg>這種排列方式應該會讓你的說明最容易被記住。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This cell can contain a heading, or, if you prefer, remain blank so that the control in the lower right corner is more obvious.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T140418Z" creationid="Franklin Weng" creationdate="20180207T140418Z">
+        <seg>最上方這個儲存格可以是標題，或者也可以用一個空白的儲存格，讓控制篩選條件的按鈕更明顯。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30254,6 +30303,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135922Z" creationid="Jeff Huang" creationdate="20180122T124957Z">
         <seg>你可以從主選單中的&lt;f2&gt;「格式 &gt; 區塊 &gt; 漸層」加入自訂的漸層色&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a standard filter from them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141330Z" creationid="Franklin Weng" creationdate="20180207T141330Z">
+        <seg>你可以用自動篩選來建立標準篩選。</seg>
       </tuv>
     </tu>
     <tu>
