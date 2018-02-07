@@ -5198,8 +5198,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To work, &lt;/f0&gt;&lt;f1&gt;SUBTOTAL&lt;/f1&gt; &lt;f2&gt;requires a&lt;/f2&gt; data array – that is, a &lt;f3&gt;selected range&lt;/f3&gt; of cells with &lt;f4&gt;a label.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144436Z" creationid="Franklin Weng" creationdate="20180207T144436Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;「&lt;f1&gt;小計&lt;/f1&gt;」的運作&lt;f2&gt;需要&lt;/f2&gt;一個資料陣列 – 也就是&lt;f3&gt;選取好一個範圍&lt;/f3&gt;的儲存格，以及&lt;f4&gt;一個標籤。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T151535Z" creationid="Franklin Weng" creationdate="20180207T144436Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;「&lt;f1&gt;小計&lt;/f1&gt;」的運作&lt;f2&gt;需要&lt;/f2&gt;一個資料陣列 – 也就是&lt;f3&gt;選取好一個範圍&lt;/f3&gt;的儲存格，內含&lt;f4&gt;一個標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6481,6 +6481,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T122144Z" creationid="Franklin Weng" creationdate="20180105T133429Z">
         <seg>&lt;f1&gt;你可能會發現，斜眼看文本也能幫助你忽略內容，專注在灰度之上。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;You select where the labels for totals appear from the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Group by&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144911Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
+        <seg>&lt;f1&gt;你可以從&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;那個下拉式選單中，選擇要計算的範圍標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28240,6 +28248,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typically, the labels appear in the column to the left of the data array, with the totals below the data array.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T145337Z" creationid="Franklin Weng" creationdate="20180207T145337Z">
+        <seg>一般用法裡，小計本身的Typically, the labels appear in the column to the left of the data array, with the totals below the data array.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typically, you apply them after inserting a shape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T031945Z" creationid="Jeff Huang" creationdate="20171220T075149Z">
@@ -28922,6 +28938,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Subtotals&lt;/f0&gt; window, you can select data arrays, then choose a statistical function to apply to them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144809Z" creationid="Franklin Weng" creationdate="20180207T144809Z">
+        <seg>使用「&lt;f0&gt;小計&lt;/f0&gt;」視窗，你可以選擇資料陣列，然後選擇要套用的統計函式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Navigator's controls, you can move headings and the sections of body text below them anywhere in the document much more quickly than you can copy and paste.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054857Z" creationid="Jeff Huang" creationdate="20171123T062216Z">
@@ -29264,6 +29288,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124424Z" creationid="zerng07" creationdate="20180130T124424Z">
         <seg>每當你新加一個物件到Writer內時，物件會自動被預先定義的外框包住。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When applied, it adds labels for subtotals and totals.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144741Z" creationid="Franklin Weng" creationdate="20180207T144741Z">
+        <seg>套用此功能後，它就會根據標籤來計算小計跟總和。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
