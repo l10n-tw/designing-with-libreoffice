@@ -1129,6 +1129,15 @@
     <tu>
       <note>依現有版本改寫</note>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tool &gt; Filters &gt; Advanced Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;reads filters from the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141843Z" creationid="Franklin Weng" creationdate="20180207T141843Z">
+        <seg>&lt;f0&gt;「&lt;f1&gt;資料 &gt; 更多篩選 &gt; 進階篩選&lt;/f1&gt;」&lt;/f0&gt;&lt;f2&gt;則會從試算表中讀取篩選條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現有版本改寫</note>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tool &gt; Filters &gt; Standard Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;sets the Columns and conditions with which to filter information.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141501Z" creationid="Franklin Weng" creationdate="20180207T141501Z">
@@ -2088,6 +2097,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091837Z" creationid="Franklin Weng" creationdate="20180115T091837Z">
         <seg>設計背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依現有版本改寫</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Filter &gt; Autofilter&lt;/f0&gt; adds a convenient drop-down list for sorting a range of cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142252Z" creationid="Franklin Weng" creationdate="20180207T141914Z">
+        <seg>&lt;f0&gt;「資料 &gt; 自動篩選」&lt;/f0&gt;會新增一個很方便的下拉式選單，來篩選某個範圍的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,6 +4196,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;SUBTOTAL&lt;/f0&gt; is actually a function listed under the Mathematical category &lt;f1&gt;of functions.&lt;/f1&gt; &lt;f2&gt;However, b&lt;/f2&gt;ecause of its usefulness, the function has a graphical interface accessible from &lt;f3&gt;Data &gt; Subtotal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142531Z" creationid="Franklin Weng" creationdate="20180207T142531Z">
+        <seg>&lt;f0&gt;SUBTOTAL&lt;/f0&gt; 實際上是一個在「數學」分類中的&lt;f1&gt;函式&lt;/f1&gt;名稱。&lt;f2&gt;不過&lt;/f2&gt;因為這個函式相當有用，所以在選單中的特別給它一個位置，在&lt;f3&gt;「資料 &gt; 小計」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save Image:&lt;/f0&gt; Copies the image to its own file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142749Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
@@ -5166,6 +5192,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074547Z" creationid="zerng07" creationdate="20171224T083920Z">
         <seg>要&lt;f0&gt;開啓&lt;/f0&gt;&lt;f1&gt;樣式&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;格式 &lt;/f4&gt;視窗，&lt;f5&gt;有以下這些做法：&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To work, &lt;/f0&gt;&lt;f1&gt;SUBTOTAL&lt;/f1&gt; &lt;f2&gt;requires a&lt;/f2&gt; data array – that is, a &lt;f3&gt;selected range&lt;/f3&gt; of cells with &lt;f4&gt;a label.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144436Z" creationid="Franklin Weng" creationdate="20180207T144436Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;「&lt;f1&gt;小計&lt;/f1&gt;」的運作&lt;f2&gt;需要&lt;/f2&gt;一個資料陣列 – 也就是&lt;f3&gt;選取好一個範圍&lt;/f3&gt;的儲存格，以及&lt;f4&gt;一個標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11688,6 +11722,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating subtotals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142317Z" creationid="Franklin Weng" creationdate="20180207T142317Z">
+        <seg>建立小計（Subtotals）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating templates with wizards</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T085850Z" creationid="Franklin Weng" creationdate="20171215T125230Z">
@@ -12980,8 +13022,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Exercise: Creating a &lt;f0&gt;m&lt;/f0&gt;ark &lt;f1&gt;b&lt;/f1&gt;ook</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143155Z" creationid="Franklin Weng" creationdate="20180206T143155Z">
-        <seg>練習： 建立一份成績紀錄本&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142005Z" creationid="Franklin Weng" creationdate="20180206T143155Z">
+        <seg>練習： 建立一份成績紀錄本&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21028,6 +21070,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, its options are similar to those of a standard filter.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141903Z" creationid="Franklin Weng" creationdate="20180207T141903Z">
+        <seg>其他的選項則跟標準篩選類似。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, the result &lt;f4&gt;could&lt;/f4&gt; be stylistic chaos.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
@@ -23534,8 +23584,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Spreadsheets often &lt;f0&gt;grow as needed, because they are mostly used online.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134659Z" creationid="Franklin Weng" creationdate="20180126T134633Z">
-        <seg>試算表的樣式通常只依其需求而發展，因為多半是在電腦上使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141926Z" creationid="Franklin Weng" creationdate="20180126T134633Z">
+        <seg>試算表的樣式通常&lt;f0&gt;只依其需求而發展，因為多半是在電腦上使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28554,8 +28604,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Heading 2 &lt;/f0&gt;to name columns&lt;f1&gt; A-G.&lt;/f1&gt; Starting from &lt;f2&gt;column&lt;/f2&gt; A, the &lt;f3&gt;h&lt;/f3&gt;eadings will be: &lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144339Z" creationid="Franklin Weng" creationdate="20180206T144339Z">
-        <seg>用&lt;f0&gt;標題 2 &lt;/f0&gt;的樣式來輸入欄位&lt;f1&gt; A-G &lt;/f1&gt; 的名稱，分別為：&lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;跟&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade。&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142036Z" creationid="Franklin Weng" creationdate="20180206T144339Z">
+        <seg>用&lt;f0&gt;標題 2 &lt;/f0&gt;的樣式來輸入欄位&lt;f1&gt; A-G &lt;/f1&gt; 的名稱，&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;分別為：&lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;跟&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade。&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30381,8 +30431,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can enter variables manually from the &lt;f0&gt;&lt;f1&gt;F&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ormula bar&lt;/f2&gt; at the bottom of the tool bars, or with &lt;f3&gt;Insert &gt; Function List.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T140516Z" creationid="Franklin Weng" creationdate="20180206T140516Z">
-        <seg>你可以手動在工具列下的&lt;f0&gt;&lt;f1&gt;&lt;f2&gt;公式列&lt;/f2&gt;&lt;/f1&gt;&lt;/f0&gt;手動輸入，或是透過選單中的&lt;f3&gt;「插入 &gt; 函式」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141953Z" creationid="Franklin Weng" creationdate="20180206T140516Z">
+        <seg>你可以手動在工具列下的&lt;f0&gt;&lt;f1&gt;公式列&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;手動輸入，或是透過選單中的&lt;f3&gt;「插入 &gt; 函式」。</seg>
       </tuv>
     </tu>
     <tu>
