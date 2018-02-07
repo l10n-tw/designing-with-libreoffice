@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Validity&lt;/f0&gt; defines the type of contents that can be entered in a cell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160644Z" creationid="Franklin Weng" creationdate="20180207T160644Z">
+        <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;」功能用來定義儲存格中可以輸入怎麼樣的資料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Vertical spacing is set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Indents and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing &gt; Above Paragraph&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing &gt; Below Paragraph.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T013414Z" creationid="zerng07" creationdate="20180123T013414Z">
@@ -5893,6 +5901,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T153126Z" creationid="Franklin Weng" creationdate="20180106T122600Z">
         <seg>&lt;f1&gt;跟Writer裡一樣，&lt;/f1&gt;範本還是很重要，但樣式在此的重要性&lt;f2&gt;相對較低&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Basically, it is a form of online help, either to aid your memory, or to assist others who are using the same spreadsheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160734Z" creationid="Franklin Weng" creationdate="20180207T160734Z">
+        <seg>&lt;f1&gt;基本上，它可以算是一種線上說明：幫助你記憶，或協助其他使用同一份試算表的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11956,8 +11972,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Defining cell content &lt;f0&gt;and&lt;/f0&gt; adding help</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160109Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
-        <seg>Defining cell content &lt;f0&gt;and&lt;/f0&gt; adding help</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160313Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
+        <seg>定義儲存格內容&lt;f0&gt;並&lt;/f0&gt;加上說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -17180,6 +17196,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Imagine what you might need to know if you are &lt;f0&gt;us&lt;/f0&gt;ing &lt;f1&gt;the spreadsheet&lt;/f1&gt; six months from now, &lt;t2/&gt;and provide as much detail as possible in the message.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160917Z" creationid="Franklin Weng" creationdate="20180207T160917Z">
+        <seg>想像一下你可能在六個月之後還要&lt;f0&gt;再用&lt;/f0&gt;這份&lt;f1&gt;試算表&lt;/f1&gt;，&lt;t2/&gt;然後盡可能提供詳細的訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Immediately before the page on which the page count restarts and the main body of the text begins, select &lt;f0&gt;Insert &gt; Manual Break.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143954Z" creationid="Jeff Huang" creationdate="20180129T085003Z">
@@ -21517,6 +21541,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104848Z" creationid="Jeff Huang" creationdate="20180124T134820Z">
         <seg>詩歌，特別是韻文與散文交融的文體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Point form or short phrases may be cryptic to your future self and other readers, &lt;f3&gt;so test your messages on somebody else.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160932Z" creationid="Franklin Weng" creationdate="20180207T160932Z">
+        <seg>Point form or short phrases may be cryptic to your future self and other readers, &lt;f3&gt;so test your messages on somebody else.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30859,6 +30891,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152322Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
         <seg>你可能會想在右頁頁首放「&lt;f2&gt;標題 2&lt;/f2&gt;」的文字來協助讀者確認目前的章節位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You create your own messages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160746Z" creationid="Franklin Weng" creationdate="20180207T160746Z">
+        <seg>你可以自己寫提示訊息。</seg>
       </tuv>
     </tu>
     <tu>
