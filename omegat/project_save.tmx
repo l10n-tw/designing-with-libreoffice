@@ -5833,6 +5833,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You&lt;/f0&gt; can also arrange the subtotals according to choices made on the window’s &lt;f1&gt;&lt;f2&gt;O&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ption&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt; tab, including ascending and descending order or using one of the pre-defined custom sorts defined in &lt;f6&gt;Tools &gt; Options for Calc.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T154652Z" creationid="Franklin Weng" creationdate="20180207T154652Z">
+        <seg>&lt;f0&gt;你&lt;/f0&gt;也可以透過小計視窗中的「&lt;f1&gt;&lt;f2&gt;選項&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;標籤頁來安排小計的呈現，包括升序或降序，或是用「自訂排序」，會用到你在「&lt;f6&gt;工具 &gt; 選項 &gt; LibreOffice Calc&lt;/f6&gt;」裡的「排序清單」中定義的排序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;c) Two sword fighter dingbats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T113932Z" creationid="Jeff Huang" creationdate="20180122T034257Z">
@@ -12660,6 +12668,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit the labels for totals &lt;f0&gt;by modifying&lt;/f0&gt; the &lt;f1&gt;Result&lt;/f1&gt; and &lt;f2&gt;Result2&lt;/f2&gt; cell styles so that they stand out and readers can go directly to them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153914Z" creationid="Franklin Weng" creationdate="20180207T153914Z">
+        <seg>你可以&lt;f0&gt;修改&lt;/f0&gt;標籤，改用「&lt;f1&gt;結果&lt;/f1&gt;」與「&lt;f2&gt;結果2&lt;/f2&gt;」的樣式，讓統計結果突顯出來，讀者可以明顯看到結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editable parts of a chart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031142Z" creationid="Jeff Huang" creationdate="20180115T031142Z">
@@ -13752,6 +13768,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T114450Z" creationid="zerng07" creationdate="20180121T114450Z">
         <seg>對於任何用不到的樣式，可以從右鍵選單中選取「&lt;f15&gt;隱藏&lt;/f15&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For efficiency, you can choose up to three groups of data arrays to which to apply a function.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153325Z" creationid="Franklin Weng" creationdate="20180207T153325Z">
+        <seg>為了效率，你最多可以把資料陣列分成三組來套用函式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29532,6 +29556,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081612Z" creationid="Franklin Weng" creationdate="20171231T133110Z">
         <seg>當你在設定段落樣式和字元樣式時，前往「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定&lt;/f0&gt;」中，把「&lt;f1&gt;定量單位&lt;/f1&gt;」改成「點」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click the &lt;f0&gt;OK&lt;/f0&gt; button in the window, Calc adds subtotals and grand totals to the selected arrays.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153605Z" creationid="Franklin Weng" creationdate="20180207T153605Z">
+        <seg>當你按下「&lt;f0&gt;確定&lt;/f0&gt;」鍵時，Calc 就會依據選擇的範圍與函式來計算小計與總計。</seg>
       </tuv>
     </tu>
     <tu>
