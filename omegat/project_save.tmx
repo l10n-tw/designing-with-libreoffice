@@ -2126,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Subtotal&lt;/f0&gt; performs a function upon a data array, and adds labels for the totals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160040Z" creationid="Franklin Weng" creationdate="20180207T160040Z">
+        <seg>「&lt;f0&gt;資料 &gt; 小計&lt;/f0&gt;」可以選擇函式對一個資料陣列做計算，並在結果處加上標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Decrease&lt;/f0&gt; spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140236Z" creationid="Franklin Weng" creationdate="20180105T144456Z">
