@@ -2118,6 +2118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Subtotal&lt;/f0&gt; adds totals to a data array.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152722Z" creationid="Franklin Weng" creationdate="20180207T152722Z">
+        <seg>「&lt;f0&gt;資料 &gt; 小計&lt;/f0&gt;」可以計算一個資料陣列的總和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Decrease&lt;/f0&gt; spacing &lt;f1&gt;for:&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140236Z" creationid="Franklin Weng" creationdate="20180105T144456Z">
@@ -6487,8 +6495,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;You select where the labels for totals appear from the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Group by&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; drop-down list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144911Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
-        <seg>&lt;f1&gt;你可以從&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;那個下拉式選單中，選擇要計算的範圍標籤。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152115Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
+        <seg>&lt;f1&gt;你可以從&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;那個下拉式選單中，選擇小計的標籤出現的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15499,6 +15507,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010210Z" creationid="zerng07" creationdate="20180125T134439Z">
         <seg>不過，它還需要設定「&lt;f2&gt;縮排和間距&lt;/f2&gt;」標籤頁的「&lt;f1&gt;第一行&lt;/f1&gt;」縮排；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, it needs to be set up &lt;f1&gt;in the correct position.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153001Z" creationid="Franklin Weng" creationdate="20180207T153001Z">
+        <seg>不過，它需要規劃在&lt;f1&gt;正確的位置&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28250,8 +28266,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Typically, the labels appear in the column to the left of the data array, with the totals below the data array.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T145337Z" creationid="Franklin Weng" creationdate="20180207T145337Z">
-        <seg>一般用法裡，小計本身的Typically, the labels appear in the column to the left of the data array, with the totals below the data array.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152158Z" creationid="Franklin Weng" creationdate="20180207T145337Z">
+        <seg>一般用法裡，小計的標籤會出現在左方，而總和則是在資料陣列的下方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29291,11 +29307,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>這邊的 Label 意義不明，是指用來加總的依據，還是加總完會多出幾列並且加上小計跟總和的標籤？</note>
       <tuv lang="EN">
         <seg>When applied, it adds labels for subtotals and totals.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144741Z" creationid="Franklin Weng" creationdate="20180207T144741Z">
-        <seg>套用此功能後，它就會根據標籤來計算小計跟總和。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T151659Z" creationid="Franklin Weng" creationdate="20180207T144741Z">
+        <seg>套用此功能後，它會在小計跟總和處加上標籤。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30955,6 +30972,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T134847Z" creationid="Franklin Weng" creationdate="20180206T134847Z">
         <seg>有可能你在每次旅遊都要調整一下這個計劃範本，但總比每次都從頭做起要好吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may need to add a column &lt;f0&gt;to your data&lt;/f0&gt; to hold the totals &lt;f1&gt;unless you have planned for them.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152639Z" creationid="Franklin Weng" creationdate="20180207T152639Z">
+        <seg>你可能會需要在&lt;f0&gt;你的資料&lt;/f0&gt;中新增一欄，把總和記在那裡，&lt;f1&gt;除非你本來就規劃好位置了。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
