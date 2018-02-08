@@ -31514,6 +31514,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You must enter at least one character or a space, or else the graphic disappears when you press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key, leaving the indent but no bullet.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T070219Z" creationid="Jeff Huang" creationdate="20180208T070219Z">
+        <seg>你必須至少輸入一個字元或空格，否則當你按下&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵時，圖形就會消失，此時就會空有縮排卻無項目符號。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You need to drag the cursor for only a few characters to apply the style to a paragraph or a page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115528Z" creationid="zerng07" creationdate="20171226T115517Z">
