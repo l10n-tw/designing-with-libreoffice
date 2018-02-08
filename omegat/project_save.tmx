@@ -7157,6 +7157,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Writer adds an automatic name, such as &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Frame15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, but a more descriptive name is useful if you use the Navigator to jump around in a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T145648Z" creationid="zerng07" creationdate="20180208T145648Z">
+        <seg>&lt;f2&gt;Writer會自動生成名稱，例如：「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;外框15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」，但如果你採用更便於理解的描述性名稱的話，在使用「助手」瀏覽文件時會很好用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Y&lt;/f2&gt;ou can &lt;f3&gt;always &lt;/f3&gt;change the &lt;f4&gt;Measure&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;ment&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; unit&lt;/f7&gt; back to centimeters or inches &lt;f8&gt;when you start to add content to a template.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081850Z" creationid="Franklin Weng" creationdate="20171231T133321Z">
