@@ -1466,6 +1466,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Although the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Borders&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab contains numerous options, &lt;/f3&gt;borders are &lt;f4&gt;mostly&lt;/f4&gt; useful when at least one edge of a&lt;f5&gt;n&lt;/f5&gt; image is the same color as the page background, so that one blends into the other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T082326Z" creationid="zerng07" creationdate="20180208T082326Z">
+        <seg>&lt;f0&gt;雖然「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;邊框&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁包含很多選項，&lt;/f3&gt;不過邊框&lt;f4&gt;只在&lt;/f4&gt;某個影像邊緣的顏色與頁面背景色彩相同，導致兩者混在一起時才比較有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Although the work-arounds may give you fewer formatting options, they do keep images where you put them.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135726Z" creationid="zerng07" creationdate="20180130T122320Z">
@@ -5061,6 +5069,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121426Z" creationid="Franklin Weng" creationdate="20171223T093157Z">
         <seg>&lt;f0&gt;佔位項加到文件中就成為欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The result is usually cramped and awkward-looking.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080916Z" creationid="zerng07" creationdate="20180208T080916Z">
+        <seg>&lt;f0&gt;結果通常看起來又擠又醜。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13096,6 +13112,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072431Z" creationid="Jeff Huang" creationdate="20171229T022632Z">
         <seg>即使如此，有時候移除既有的連接線，並加入另一條可能還比較節省時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Even then, extra space around the image can be just as effective.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T082425Z" creationid="zerng07" creationdate="20180208T082416Z">
+        <seg>即便可以這樣做，改在影像周圍放置額外空白也同樣有效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23207,6 +23231,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080650Z" creationid="zerng07" creationdate="20180208T080640Z">
         <seg>設定外框與影像的邊框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting frame backgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T082430Z" creationid="zerng07" creationdate="20180208T082430Z">
+        <seg>設定外框背景</seg>
       </tuv>
     </tu>
     <tu>
