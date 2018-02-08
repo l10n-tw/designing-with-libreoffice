@@ -25488,6 +25488,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default width of all images &lt;f0&gt;is&lt;/f0&gt; 280 points, the width between the margins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063914Z" creationid="zerng07" creationdate="20180208T063914Z">
+        <seg>所有影像的預設寬度是280點，即是兩個邊距之間的寬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The director&lt;f0&gt;y (or directories)&lt;/f0&gt; where templates are stored is listed in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142647Z" creationid="Franklin Weng" creationdate="20171223T133553Z">
@@ -26288,6 +26296,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094205Z" creationid="Jeff Huang" creationdate="20180115T030455Z">
         <seg>圖表的組成結構可能因為圖表類型而有所不同，但多數應該會包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The point is to be consistent &lt;f0&gt;and not to have any large gaps.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063557Z" creationid="zerng07" creationdate="20180208T063557Z">
+        <seg>重點是要前後一致，而且不能有大空洞。</seg>
       </tuv>
     </tu>
     <tu>
