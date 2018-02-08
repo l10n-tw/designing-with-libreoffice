@@ -17332,6 +17332,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Images below a bullet or numbered item, or an indented paragraph, will align with the start of the text above them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T064837Z" creationid="zerng07" creationdate="20180208T064837Z">
+        <seg>項目符號或編號條目之下的影像，或是縮排的段落，會對齊上方的文字開頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Images may be less than the complete page width when a dialog window is smaller than usual &lt;f0&gt;or is cropped.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T064326Z" creationid="zerng07" creationdate="20180208T064326Z">
