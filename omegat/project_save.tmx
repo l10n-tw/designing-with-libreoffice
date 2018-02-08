@@ -14437,6 +14437,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For now, the next best thing is to to use &lt;f0&gt;Table &gt; Auto&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;F&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ormat&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T082321Z" creationid="Jeff Huang" creationdate="20180208T082321Z">
+        <seg>現在，下一個最好的事情是使用&lt;f0&gt;「表格 &gt; 自動格式設定」&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For one thing, they cover only the space inside the margins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023058Z" creationid="Jeff Huang" creationdate="20180130T054216Z">
@@ -19282,6 +19290,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T122634Z" creationid="zerng07" creationdate="20180130T122634Z">
         <seg>LibreOffice目前偏好使用「影像」這個詞語，你也有時候會看到「圖形」或是用「圖片」的地方，但都是一樣的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice does not have currently have styles for tables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T081750Z" creationid="Jeff Huang" creationdate="20180208T081750Z">
+        <seg>LibreOffice目前還有沒有表格樣式。</seg>
       </tuv>
     </tu>
     <tu>
