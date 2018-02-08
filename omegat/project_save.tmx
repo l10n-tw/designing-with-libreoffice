@@ -2720,6 +2720,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;H&lt;/f0&gt;ere is &lt;f1&gt;a sample &lt;/f1&gt;policy &lt;f2&gt;that was used in one draft of this book (the final one is somewhat different):&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T062804Z" creationid="zerng07" creationdate="20180208T062804Z">
+        <seg>這裡有個示範&lt;/f1&gt;策略&lt;f2&gt;，起初作為本書的草稿（最終的做法仍然有些不同）：&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;owever, you can ignore all except the colors and still produce an original gradient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140110Z" creationid="Jeff Huang" creationdate="20180122T131136Z">
@@ -17280,6 +17288,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092907Z" creationid="Jeff Huang" creationdate="20180205T092907Z">
         <seg>用於項目符號的圖片也是&lt;f0&gt;用來在頁面上定位圖片的一種方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Images, tables &lt;f0&gt;and&lt;/f0&gt; paragraphs &lt;f1&gt;a&lt;/f1&gt;ll have a minimum of 8 points of white space above and below them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063116Z" creationid="zerng07" creationdate="20180208T063116Z">
+        <seg>影像、表格和段落的上下全都有至少8點的空白。</seg>
       </tuv>
     </tu>
     <tu>
