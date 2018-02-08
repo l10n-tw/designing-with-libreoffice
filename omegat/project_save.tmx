@@ -5751,6 +5751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;While the dialog windows for frames and images include a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Background&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, often&lt;/f3&gt; a background &lt;f4&gt;has no useful function.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T082741Z" creationid="zerng07" creationdate="20180208T082741Z">
+        <seg>&lt;f0&gt;雖然外框和影像的對話視窗有個「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;背景&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁，但通常&lt;/f3&gt;背景&lt;f4&gt;沒有什麼實用的功能。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;While you might not think such a small measurement would make a difference, it often can.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T133602Z" creationid="Franklin Weng" creationdate="20180105T140012Z">
@@ -7845,6 +7853,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150037Z" creationid="Jeff Huang" creationdate="20180118T123403Z">
         <seg>移動中的基本形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A carefully selected background color might prevent a&lt;f0&gt;n&lt;/f0&gt; image blending into the page background, but a border or extra space is &lt;f1&gt;often&lt;/f1&gt; an easier solution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T083256Z" creationid="zerng07" creationdate="20180208T083256Z">
+        <seg>仔細挑選背景色彩可以防止影像混入頁面背景顏色中，但邊框或額外空白間距&lt;f1&gt;一般&lt;/f1&gt;是更輕鬆的做法。</seg>
       </tuv>
     </tu>
     <tu>
