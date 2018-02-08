@@ -17308,6 +17308,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Images may be less than the complete page width when a dialog window is smaller than usual &lt;f0&gt;or is cropped.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T064326Z" creationid="zerng07" creationdate="20180208T064326Z">
+        <seg>當對話視窗（應該是外框？）比平常小，或是經過裁切的話，影像可能會小於頁面的完整寬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Images used for bullets are also a&lt;f0&gt; way to position an image on a page.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092907Z" creationid="Jeff Huang" creationdate="20180205T092907Z">
