@@ -16303,6 +16303,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If another heading or other element gives enough additional white space above or below, then an element may not add any white space itself.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063318Z" creationid="zerng07" creationdate="20180208T063318Z">
+        <seg>如果另一個標題或其他元素的上下有足夠的額外間距，那麼這些元素可能就不再需要再加空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If designing your own templates is too large a step, start by using the wizards that LibreOffice installs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T090927Z" creationid="Franklin Weng" creationdate="20171215T125301Z">
