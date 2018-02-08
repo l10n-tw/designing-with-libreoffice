@@ -27750,6 +27750,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option is the equivalent of right-clicking on the contents and selecting &lt;f3&gt;Arrange &gt; Send to back.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T074648Z" creationid="zerng07" creationdate="20180208T074648Z">
+        <seg>這個選項等同於對內容按右鍵，選取「&lt;f3&gt;編排 &gt; 移動到最下層&lt;/f3&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option may have no effect if you edit the frame dimensions later.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085240Z" creationid="zerng07" creationdate="20180206T085240Z">
