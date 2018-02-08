@@ -28640,6 +28640,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Treats the frame as an object in a stack of objects, sending its contents to the back so that the body text is at the front.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T074518Z" creationid="zerng07" creationdate="20180208T074518Z">
+        <seg>外框會被視為物件堆疊之中的一個物件，並將內容送到後面去，而內文字會在前面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Try not to be confused by the fact that &lt;f0&gt;Page Preview does not display two-page spreads accurately.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090535Z" creationid="Jeff Huang" creationdate="20171212T035319Z">
