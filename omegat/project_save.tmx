@@ -15913,8 +15913,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, what happens whe&lt;f0&gt;n&lt;/f0&gt; the space above an image is added to the space &lt;t1/&gt;below a heading?</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011905Z" creationid="zerng07" creationdate="20180208T011720Z">
-        <seg>不過，如果下有空間的標題下方，再插一個上有空間的影像會發生甚麼事？</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T012100Z" creationid="zerng07" creationdate="20180208T011720Z">
+        <seg>不過，如果下有空白的標題下方，再插一個上有空白的影像會發生甚麼事？</seg>
       </tuv>
     </tu>
     <tu>
@@ -25161,8 +25161,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The basic space above and below is easy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011732Z" creationid="zerng07" creationdate="20180208T011631Z">
-        <seg>上與下的基本間距很簡單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011914Z" creationid="zerng07" creationdate="20180208T011631Z">
+        <seg>上下的基本空間很簡單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26297,6 +26297,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T140311Z" creationid="Jeff Huang" creationdate="20180122T132222Z">
         <seg>結果通常是Impress投影片或甚至是桌布都能用的抽象設計。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is too much white space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T012020Z" creationid="zerng07" creationdate="20180208T012003Z">
+        <seg>結果就是空白太多。</seg>
       </tuv>
     </tu>
     <tu>
