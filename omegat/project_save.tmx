@@ -4753,6 +4753,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Wrap &gt; Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; fields set the white space on each side of the frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011020Z" creationid="zerng07" creationdate="20180208T011020Z">
+        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;環繞 &gt; 間距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位設定了外框周圍各邊的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The Elements of Typographic Style.&lt;/f0&gt; &lt;f1&gt;2nd ed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162142Z" creationid="zerng07" creationdate="20171227T183357Z">
@@ -22410,6 +22418,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Wrap &gt; Options &gt; Contour&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; if you want the text wrap to conform more closely to the shape of the object in the frame.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T010835Z" creationid="zerng07" creationdate="20180208T010835Z">
+        <seg>如果你想要讓文字環繞更一致地接近外框中物件形狀，選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;環繞 &gt; 選項 &gt; 輪廓&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;hange page number,&lt;/f2&gt; and set the number to &lt;f3&gt;&lt;f4&gt;R&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;estart at.&lt;/f5&gt; Negative numbers are not allowed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144149Z" creationid="Jeff Huang" creationdate="20180129T090134Z">
@@ -23015,6 +23031,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T022721Z" creationid="zerng07" creationdate="20180122T022721Z">
         <seg>設定垂直行距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting white space around a frame</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T010847Z" creationid="zerng07" creationdate="20180208T010847Z">
+        <seg>設定外框周圍的空白</seg>
       </tuv>
     </tu>
     <tu>
