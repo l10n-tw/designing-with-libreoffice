@@ -16465,6 +16465,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the image is cut off, you need either to adjust the image size, or else change the line spacing to &lt;f0&gt;At Least &lt;/f0&gt;&lt;f1&gt;so the top half of the characters in a line is not chopped off.&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T060830Z" creationid="Jeff Huang" creationdate="20180208T060830Z">
+        <seg>如果圖片被切斷，那就需要調整圖片大小，或者將行距調到&lt;f0&gt;最小&lt;/f0&gt;&lt;f1&gt;以避免一行中字元的上半部被截斷。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the template changes, the next time &lt;f0&gt;you restart LibreOffice and open the document&lt;/f0&gt;, you are prompted to update the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144950Z" creationid="Franklin Weng" creationdate="20171212T115341Z">
