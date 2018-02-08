@@ -3868,6 +3868,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Only outside:&lt;/f0&gt; Like &lt;f1&gt;Contour&lt;/f1&gt;, but ignores blank spaces in the object.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080050Z" creationid="zerng07" creationdate="20180208T080050Z">
+        <seg>&lt;f0&gt;僅外側：&lt;/f0&gt; 類似「&lt;f1&gt;輪廓&lt;/f1&gt;」，但是會忽略物件的空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;OpenOffice?&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T183045Z" creationid="zerng07" creationdate="20170817T175243Z">
@@ -18612,6 +18620,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T115957Z" creationid="Franklin Weng" creationdate="20180101T133905Z">
         <seg>它可以跟內文使用同一個字族。不過要這樣做的話，這部分文字所用的字型樣式、大小、色彩等就要與內文有所區隔。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It cannot be used with &lt;f2&gt;f&lt;/f2&gt;rames (that is, &lt;f3&gt;Text Frames&lt;/f3&gt;), presumably because text is too regular for it to make any difference in the wrap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080602Z" creationid="zerng07" creationdate="20180208T080602Z">
+        <seg>無法配合外框使用（此例為&lt;f3&gt;文字外框&lt;/f3&gt;），推測可能是文字外框太方正，所以環繞上不會有任何差異。</seg>
       </tuv>
     </tu>
     <tu>
