@@ -3747,6 +3747,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Name:&lt;/f0&gt; &lt;f1&gt;F&lt;/f1&gt;or the frame or image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T141320Z" creationid="zerng07" creationdate="20180208T141320Z">
+        <seg>&lt;f0&gt;名稱：&lt;/f0&gt;適用於外框或影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Name:&lt;/f0&gt; The entry that appears in the &lt;f1&gt;Style and Formatting&lt;/f1&gt; window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T153629Z" creationid="zerng07" creationdate="20171225T153629Z">
@@ -20950,6 +20958,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113303Z" creationid="zerng07" creationdate="20171219T113258Z">
         <seg>通常，你也不再需要切換裡面的顯示內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, you can ignore these settings: &lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T141300Z" creationid="zerng07" creationdate="20180208T141300Z">
+        <seg>一般你可以忽略這些設定：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
