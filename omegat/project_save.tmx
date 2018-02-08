@@ -1570,6 +1570,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;As a general rule, t&lt;/f0&gt;he minimal white space around a frame should be &lt;f1&gt;half&lt;/f1&gt; the line height in the body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011329Z" creationid="zerng07" creationdate="20180208T011329Z">
+        <seg>&lt;f0&gt;作為通則，&lt;/f0&gt;外框周圍的最少空白間距，應該是內文字行高的&lt;f1&gt;一半&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;As an alternative to hiding individual cells, you can select &lt;/f0&gt;&lt;f1&gt;Data &gt; Group and Outline &gt; Group&lt;/f1&gt; &lt;f2&gt;to hide multiple cells&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212703Z" creationid="Franklin Weng" creationdate="20180206T212703Z">
@@ -6601,6 +6609,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T122137Z" creationid="zerng07" creationdate="20180123T115111Z">
         <seg>&lt;f2&gt;所以，作為規則，一行英文如果少於40個字元，那麼就不值得你花一堆心力去調整兩端對齊造成的字間空白。（譯者註：經過測試，LibreOffice 5.4 以後的版本，少於40個字元時就算按兩端對齊，還是會以向左對齊優先。所以不存在這個問題了。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;As much as &lt;/f2&gt;three times the line height may also work, but &lt;f3&gt;anything more usually looks sparse.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011500Z" creationid="zerng07" creationdate="20180208T011500Z">
+        <seg>&lt;f2&gt;最多&lt;/f2&gt;到行高的三倍應該都還行，&lt;f3&gt;如果更多的話看起來通常就太疏鬆了。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12270,6 +12286,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T053155Z" creationid="Jeff Huang" creationdate="20171228T063524Z">
         <seg>關於圖形樣式的獨特樣式特性，會在本章後面詳細介紹。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developing a white space policy</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011520Z" creationid="zerng07" creationdate="20180208T011520Z">
+        <seg>發展空白策略</seg>
       </tuv>
     </tu>
     <tu>
