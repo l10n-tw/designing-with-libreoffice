@@ -2455,6 +2455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;First paragraph:&lt;/f0&gt; Starts a new paragraph below the frame if you press the &lt;f1&gt;Enter&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T070421Z" creationid="zerng07" creationdate="20180208T070421Z">
+        <seg>&lt;f0&gt;第一段落&lt;/f0&gt;：如果你按下&lt;f1&gt;Enter&lt;/f1&gt;鍵的話，則在外框下方開始新段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Follow&lt;/f0&gt; steps 3 and 5 for every page style in the document that includes &lt;f1&gt;chapter-&lt;/f1&gt;page numbering.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032955Z" creationid="Jeff Huang" creationdate="20180129T034725Z">
@@ -17622,6 +17630,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the basic text wrap &lt;f0&gt;choices&lt;/f0&gt;, the &lt;f1&gt;Wrap&lt;/f1&gt; tab includes several settings that modify how the settings work:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T070252Z" creationid="zerng07" creationdate="20180208T070252Z">
+        <seg>除了基本的文字環繞&lt;f0&gt;選擇&lt;/f0&gt;之外，「&lt;f1&gt;環繞&lt;/f1&gt;」標籤頁還包含許多變化作用方式的設定：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140344Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
@@ -23043,6 +23059,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting &lt;f0&gt;other&lt;/f0&gt; wrap options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T065620Z" creationid="zerng07" creationdate="20180208T065620Z">
+        <seg>設定其他環繞選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting &lt;f0&gt;presentation options&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T122525Z" creationid="Franklin Weng" creationdate="20180120T122525Z">
@@ -23496,6 +23520,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120140Z" creationid="Franklin Weng" creationdate="20180101T105013Z">
         <seg>因為所有標題的大小通常會全部一起決定，而且彼此相關，因此使用百分比也相當合理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since this choice adds space according to the size of the object, you will have more control if you ignore this setting and adjust the white space exactly using the &lt;f2&gt;Spacing&lt;/f2&gt; fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T071745Z" creationid="zerng07" creationdate="20180208T071745Z">
+        <seg>因為這個選項會根據物件大小加入空間；如果你忽略這個設定並直接用「&lt;f2&gt;間距&lt;/f2&gt;」欄位調整實際間距數值的話，可以掌握更多控制。</seg>
       </tuv>
     </tu>
     <tu>
