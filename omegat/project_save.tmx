@@ -2053,6 +2053,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Contour: &lt;/f0&gt;Wraps the text more closely to the shape of the object in the frame than choosing a text wrap setting alone can.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T075419Z" creationid="zerng07" creationdate="20180208T075419Z">
+        <seg>&lt;f0&gt;輪廓：&lt;/f0&gt;讓文字更能依據外框內物件的輪廓外形環繞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create a shape from overlapping objects by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Modify &gt; Shapes &gt; Intersect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115639Z" creationid="Jeff Huang" creationdate="20180122T084245Z">
