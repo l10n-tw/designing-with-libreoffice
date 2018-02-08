@@ -18932,6 +18932,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Large images or tables will be on separate pages, introduced by a heading that forces a new page break.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T065607Z" creationid="zerng07" creationdate="20180208T065607Z">
+        <seg>大張影像或大份表格會獨立放在頁面上，前面由一個會強制分新頁的標題引導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last Printed</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T125834Z" creationid="Jeff Huang" creationdate="20180127T125834Z">
