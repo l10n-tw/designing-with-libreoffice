@@ -984,6 +984,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Alignment&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can usually be ignored, but can help with the spacing between the bullet and the text.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064106Z" creationid="Jeff Huang" creationdate="20180208T064106Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;通常可以被忽略，但可以協助項目符號與文字的間距更好辨認。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Fixed&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; also has the advantage that documents will be register-true, regardless of whether the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Register-true&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; setting is turned on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024717Z" creationid="zerng07" creationdate="20180122T024437Z">
@@ -3367,6 +3375,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T164336Z" creationid="zerng07" creationdate="20170817T154546Z">
         <seg>&lt;f0&gt;它的&lt;/f0&gt;Writer文書處理器&lt;f1&gt;特別&lt;/f1&gt;根據樣式的概念架構而成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Keep &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;r&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;atio&lt;/f3&gt;, &lt;f4&gt;&lt;f5&gt;w&lt;/f5&gt;&lt;/f4&gt;hen selected, &lt;f6&gt;ensures&lt;/f6&gt; that &lt;f7&gt;changing either &lt;/f7&gt;the &lt;f8&gt;&lt;f9&gt;Width&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; or &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Height&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field &lt;/f13&gt;change&lt;f14&gt;s the other&lt;/f14&gt; proportionally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T063750Z" creationid="Jeff Huang" creationdate="20180208T063750Z">
+        <seg>&lt;f0&gt;保留&lt;/f0&gt;比例，當選定後，&lt;f6&gt;請確保&lt;/f6&gt;&lt;f7&gt;不論是在變更&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;寬度&lt;/f9&gt;&lt;/f8&gt;或&lt;f11&gt;&lt;f12&gt;高度&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;欄位&lt;/f13&gt;時按比例變更另一個。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25692,6 +25708,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090034Z" creationid="Jeff Huang" creationdate="20180205T090034Z">
         <seg>欄位名稱有點誤導：要設定項目符號清單，請在清單樣式中選取&lt;f0&gt;「選項 &gt; 編號 &gt; 項目符號」&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields for using a picture as a bullet appear after you have selected &lt;f0&gt;Options &gt; Number &gt; Graphics &lt;/f0&gt;or &lt;f1&gt;Linked Graphics.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064250Z" creationid="Jeff Huang" creationdate="20180208T064250Z">
+        <seg>選取&lt;f0&gt;「選項 &gt; 編號 &gt; 圖案」&lt;/f0&gt;或&lt;f1&gt;連結圖案&lt;/f1&gt;後就會出現將圖片用於項目符號的欄位。</seg>
       </tuv>
     </tu>
     <tu>
