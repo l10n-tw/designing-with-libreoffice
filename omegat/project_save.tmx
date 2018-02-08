@@ -4755,7 +4755,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Wrap &gt; Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; fields set the white space on each side of the frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011020Z" creationid="zerng07" creationdate="20180208T011020Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011042Z" creationid="zerng07" creationdate="20180208T011020Z">
         <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;環繞 &gt; 間距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位設定了外框周圍各邊的空間。</seg>
       </tuv>
     </tu>
@@ -26942,6 +26942,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These settings are often ignored, but they are as important as the text wrap setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011145Z" creationid="zerng07" creationdate="20180208T011145Z">
+        <seg>這些設定經常被忽略，但是對於文字環繞設定來說可是至關重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These settings are useful &lt;f0&gt;for &lt;/f0&gt;large font sizes, but needing them in other circumstances is often a sign that you are adding too many words per slide and risking readability.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T134209Z" creationid="Franklin Weng" creationdate="20180118T034107Z">
@@ -28147,6 +28155,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T162935Z" creationid="Franklin Weng" creationdate="20180105T132629Z">
         <seg>色彩太黑讀來令人困擾，太亮又讓人看不清，都會給人「這家出版社到底是出了什麼問題」的感覺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too little spacing and the page looks cramped, while too much spacing weakens the association of the frame’s contents with the body text around it.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011245Z" creationid="zerng07" creationdate="20180208T011245Z">
+        <seg>過少的間距會讓頁面看起來很擁擠，而過多的間距則會削減外框內容和周圍文字之間的關聯性。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
