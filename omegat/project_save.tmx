@@ -2704,6 +2704,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Graphic bullets are especially useful for&lt;/f0&gt; reoccurring graphics.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064415Z" creationid="Jeff Huang" creationdate="20180208T064415Z">
+        <seg>&lt;f0&gt;圖形項目符號對於&lt;/f0&gt;重覆出現的圖形來說特別有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Grid:&lt;/f0&gt; The lines against the wall that make values &lt;f1&gt;in the axes easier&lt;/f1&gt; to read.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094455Z" creationid="Jeff Huang" creationdate="20180115T030852Z">
@@ -13116,6 +13124,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: &lt;f0&gt;Repeating graphics using lists&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064332Z" creationid="Jeff Huang" creationdate="20180208T064332Z">
+        <seg>範例：&lt;f0&gt;使用清單重覆圖形&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: &lt;f0&gt;S&lt;/f0&gt;tyles save time</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032200Z" creationid="zerng07" creationdate="20171219T032047Z">
@@ -14080,6 +14096,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173417Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
         <seg>舉例而言，在GNU/Linux下，當你在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;範本選單&lt;/f2&gt;&lt;/f1&gt;中儲存時&lt;f3&gt;，範本管理員只能儲存、搜尋和檢視。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in a technical document, you could use a graphic to mark a note, caution, or warning, &lt;f1&gt;as this book does.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064610Z" creationid="Jeff Huang" creationdate="20180208T064610Z">
+        <seg>舉例來說，在技術文件中你可以使用圖形來標記評註或警告，&lt;f1&gt;就跟這本書的用法一樣。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
