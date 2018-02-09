@@ -4472,6 +4472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select from the main menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data &gt; Pivot Table &gt; Create,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; then select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Data Source registered in LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Source&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; dialog, then make a selection from the Select Data Source dialog.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144945Z" creationid="Franklin Weng" creationdate="20180209T144945Z">
+        <seg>&lt;f0&gt;Select from the main menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data &gt; Pivot Table &gt; Create,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; then select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Data Source registered in LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Source&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; dialog, then make a selection from the Select Data Source dialog.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;AutoUpdate&lt;/f1&gt; &lt;f2&gt;check box&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;on the &lt;/f5&gt;&lt;f6&gt;Organizer&lt;/f6&gt; tab of &lt;f7&gt;a&lt;/f7&gt; style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025925Z" creationid="zerng07" creationdate="20171227T025925Z">
@@ -31854,6 +31862,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082642Z" creationid="Jeff Huang" creationdate="20180112T135005Z">
         <seg>你可以在Writer中&lt;f1&gt;選取&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「插入 &gt; 圖表」&lt;/f3&gt;&lt;/f2&gt;來使用圖表，在其他LibreOffice應用程式中也是如此。&lt;f5&gt;&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a database as the source for a pivot table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144938Z" creationid="Franklin Weng" creationdate="20180209T144938Z">
+        <seg>你可以用資料庫來做為樞紐分析表的資料來源。</seg>
       </tuv>
     </tu>
     <tu>
