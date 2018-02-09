@@ -8590,8 +8590,8 @@
       <tuv lang="EN">
         <seg>Adding columns</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120352Z" creationid="zerng07" creationdate="20180209T120352Z">
-        <seg>加入欄</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T121622Z" creationid="zerng07" creationdate="20180209T120352Z">
+        <seg>加入多欄</seg>
       </tuv>
     </tu>
     <tu>
@@ -31370,8 +31370,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can set multiple columns for a text frame &lt;f0&gt;on&lt;/f0&gt; the &lt;f1&gt;Columns &lt;/f1&gt;tab in the dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T121610Z" creationid="zerng07" creationdate="20180209T121610Z">
-        <seg>你可以對文字外框的「&lt;f1&gt;欄&lt;/f1&gt;」標籤頁中設定多欄。You can set multiple columns for a text frame &lt;f0&gt;on&lt;/f0&gt; the tab in the dialog window.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T121616Z" creationid="zerng07" creationdate="20180209T121610Z">
+        <seg>你可以對文字外框的「&lt;f1&gt;欄&lt;/f1&gt;」標籤頁中設定多欄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31750,6 +31750,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T103932Z" creationid="zerng07" creationdate="20180125T103821Z">
         <seg>有時你會需要重新啟動LibreOffice才能讓修改生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may prefer to insert a section &lt;f0&gt;from&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Insert &gt; Section...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;instead, since sections have more options than frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T122350Z" creationid="zerng07" creationdate="20180209T122350Z">
+        <seg>你或許會更偏好用「&lt;f1&gt;&lt;f2&gt;插入 &gt; 區段...&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;來插入區段，因為區段比起外框有更多選項可以調整。</seg>
       </tuv>
     </tu>
     <tu>
