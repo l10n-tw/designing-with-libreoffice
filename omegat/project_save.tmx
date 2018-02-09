@@ -2326,6 +2326,13 @@
       </tuv>
     </tu>
     <tu>
+      <note>沒看到這個選項了。
+</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Editable in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;r&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ead-only document:&lt;/f3&gt; &lt;f4&gt;A&lt;/f4&gt;llows editing in &lt;f5&gt;a&lt;/f5&gt; restricted document.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Editing a graphic &lt;/f0&gt;helps readers know what to focus on.</seg>
       </tuv>
@@ -4100,6 +4107,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Print:&lt;/f0&gt; &lt;f1&gt;I&lt;/f1&gt;nclude&lt;f2&gt;s&lt;/f2&gt; frame or image when you print.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115616Z" creationid="zerng07" creationdate="20180209T115616Z">
+        <seg>&lt;f0&gt;列印：&lt;/f0&gt;當你想要印出這個外框或影像時勾選它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Printed&lt;/f0&gt; versions of the same manuals &lt;f1&gt;are available for sale &lt;/f1&gt;at the Friends of Open Document store &lt;f2&gt;at:&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184216Z" creationid="zerng07" creationdate="20170817T183857Z">
@@ -4765,6 +4780,12 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140443Z" creationid="zerng07" creationdate="20180130T140443Z">
         <seg>&lt;f0&gt;可以考慮的策略有：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>沒看到這個選項。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text direction:&lt;/f0&gt; &lt;f1&gt;A&lt;/f1&gt;pplies only to non-Western European languages within a frame.</seg>
       </tuv>
     </tu>
     <tu>
