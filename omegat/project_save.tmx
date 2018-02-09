@@ -1868,6 +1868,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Captions are automatically detected and used to create the content entries.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T134613Z" creationid="zerng07" creationdate="20180209T134613Z">
+        <seg>&lt;f0&gt;圖表標示會自動偵測出來，並製作成目錄條目。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Carefully c&lt;/f0&gt;heck styles that were supposed to &lt;f1&gt;be &lt;/f1&gt;overwritten.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142050Z" creationid="Franklin Weng" creationdate="20171223T132842Z">
@@ -5327,6 +5335,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072936Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
         <seg>&lt;f0&gt;若要新增填入格式，前往選單中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「格式 &gt; 區塊」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;，並選取你想要新增的填入類型的標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To add&lt;/f0&gt; a caption:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T134621Z" creationid="zerng07" creationdate="20180209T134621Z">
+        <seg>&lt;f0&gt;若要加入&lt;/f0&gt;圖表標示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22552,6 +22568,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T160408Z" creationid="Franklin Weng" creationdate="20171225T132602Z">
         <seg>右方斜體&lt;f1&gt;字型&lt;/f1&gt;：ADF Gillus。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click anywhere in the &lt;f0&gt;image&lt;/f0&gt; and select &lt;f1&gt;Caption&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T134947Z" creationid="zerng07" creationdate="20180209T134947Z">
+        <seg>在&lt;f0&gt;影像中&lt;/f0&gt;以右鍵點按任意處，從情境選單中選取「&lt;f1&gt;插入圖表標示&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
