@@ -1843,6 +1843,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;onsider &lt;f1&gt;whether&lt;/f1&gt; you want to set the &lt;f2&gt;Category&lt;/f2&gt; &lt;f3&gt;and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields &lt;/f6&gt;and the separator between the number and the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T135304Z" creationid="zerng07" creationdate="20180209T135304Z">
+        <seg>你可以考慮&lt;f1&gt;是否&lt;/f1&gt;要設定「&lt;f2&gt;類別&lt;/f2&gt;」&lt;f3&gt;和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;編號&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位，&lt;/f6&gt;以及數字和文字之間的分隔符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ontexts for changing color</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T143851Z" creationid="Franklin Weng" creationdate="20180105T140723Z">
@@ -27516,6 +27524,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T141100Z" creationid="Jeff Huang" creationdate="20180125T132139Z">
         <seg>這是根據兩個格式&lt;/f0&gt;&lt;f2&gt;長寬的較短邊結合而成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are time-honored features for any objects added to a document, but &lt;f7&gt;many modern documents avoid them altogether.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T135623Z" creationid="zerng07" creationdate="20180209T135623Z">
+        <seg>以上這些是任何加入文件中的物件由來已久的功能，&lt;f7&gt;但是許多現代文件都避免把它們放在一起。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
