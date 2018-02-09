@@ -1715,6 +1715,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Be as concise as possible, and revise your messages carefully.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T121550Z" creationid="Franklin Weng" creationdate="20180209T121550Z">
+        <seg>&lt;f0&gt;當然也不要寫得落落長。仔細地推敲修改你的訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Before editing images, measure&lt;/f0&gt; the distance &lt;f1&gt;between the left and right &lt;/f1&gt;(&lt;f2&gt;or inner and outer&lt;/f2&gt;)&lt;f3&gt; margins on all pages where images might display.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T124253Z" creationid="zerng07" creationdate="20180205T124253Z">
@@ -2081,6 +2089,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024318Z" creationid="Jeff Huang" creationdate="20180201T024318Z">
         <seg>&lt;f0&gt;包含了點的句子都會在段落的最後一句結束時完結其語意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Contents for &lt;/f0&gt;&lt;f1&gt;Validity &lt;/f1&gt;&lt;f2&gt;can include:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T121824Z" creationid="Franklin Weng" creationdate="20180209T121824Z">
+        <seg>&lt;f0&gt;資料驗證&lt;/f0&gt;的&lt;f1&gt;內容&lt;/f1&gt;&lt;f2&gt;可以包括：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4750,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101246Z" creationid="zerng07" creationdate="20180125T100443Z">
         <seg>此範本中的字元樣式，大概只需要用到「&lt;f1&gt;強調&lt;/f1&gt;」（西方慣例用義大利體，中文可以改用仿宋體、楷體等）和「&lt;f2&gt;非常強調&lt;/f2&gt;」（西方慣例用粗體，中文則可以用同一字型家族的粗體，或是黑體）兩種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he range &lt;f1&gt;and type &lt;/f1&gt;of contents that can be entered &lt;f2&gt;(on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Criteria&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141437Z" creationid="Franklin Weng" creationdate="20180209T141437Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;可輸入的內容&lt;f1&gt;範圍與型態&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;（在「條件」標籤頁。）&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22101,8 +22125,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Point form or short phrases may be cryptic to your future self and other readers, &lt;f3&gt;so test your messages on somebody else.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160932Z" creationid="Franklin Weng" creationdate="20180207T160932Z">
-        <seg>Point form or short phrases may be cryptic to your future self and other readers, &lt;f3&gt;so test your messages on somebody else.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T024050Z" creationid="Franklin Weng" creationdate="20180207T160932Z">
+        <seg>用簡單列舉摘要，或是簡短的幾個字，都有可能造成你自己未來再讀，或其他人使用這份試算表時看不懂的困擾。所以記得，你所寫的提示訊息&lt;f3&gt;也要讓其他人看看&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22472,6 +22496,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T134904Z" creationid="Jeff Huang" creationdate="20180118T031859Z">
         <seg>還記得要限制使用的字型數量建議嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember, though, that &lt;/f0&gt;too much detail &lt;f1&gt;is more useful than&lt;/f1&gt; too little.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T121750Z" creationid="Franklin Weng" creationdate="20180209T121750Z">
+        <seg>把握住詳細與簡潔之間的分寸，&lt;/f0&gt;&lt;f1&gt;必要時詳細總比簡略好。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26882,6 +26914,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124753Z" creationid="zerng07" creationdate="20180209T124753Z">
         <seg>一張影像的目的可以&lt;f1&gt;根據周圍的文字瞭解清楚，尤其是上面介紹它的段落後面附個冒號時更是如此。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of the cell contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141518Z" creationid="Franklin Weng" creationdate="20180209T141518Z">
+        <seg>儲存格內容的目的。</seg>
       </tuv>
     </tu>
     <tu>
