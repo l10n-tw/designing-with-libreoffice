@@ -2326,12 +2326,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>只有外框有這個選項。原譯為「可編輯唯讀文件」讓人看不懂，誤以為是「可以編輯唯讀文件」。改譯為「在唯讀文件中可以編輯」。</note>
+      <note>只有外框有這個選項。原譯為「可編輯唯讀文件」讓人看不懂，誤以為是「可以編輯唯讀文件」。改譯為「可在唯讀文件中編輯」。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Editable in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;r&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ead-only document:&lt;/f3&gt; &lt;f4&gt;A&lt;/f4&gt;llows editing in &lt;f5&gt;a&lt;/f5&gt; restricted document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120105Z">
-        <seg>「&lt;f0&gt;在唯讀文件中可以編輯&lt;/f0&gt;」：允許在受限的唯讀文件中編輯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T122942Z">
+        <seg>「&lt;f0&gt;可在唯讀文件中編輯&lt;/f0&gt;」：允許在受限的唯讀文件中編輯。</seg>
       </tuv>
     </tu>
     <tu>
