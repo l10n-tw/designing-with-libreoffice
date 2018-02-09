@@ -4309,6 +4309,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;elect the range of data &lt;f1&gt;on the spreadsheet, including the headings.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144103Z" creationid="Franklin Weng" creationdate="20180209T144103Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;選擇試算表中某個資料範圍，&lt;f1&gt;包括它的標題。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;etting text characteristics</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180104T065956Z" creationid="Jeff Huang" creationdate="20180104T065956Z">
@@ -8132,6 +8140,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A data range showing tourism expenditure, &lt;f0&gt;according to nationality, gender, and age, selected to create a pivot table.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144916Z" creationid="Franklin Weng" creationdate="20180209T144916Z">
+        <seg>&lt;f0&gt;圖為根據國籍、性別、年紀等條件顯示旅遊支出的資料範圍，選擇起來準備建立樞紐分析表。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A definition of invalid content, &lt;f0&gt;whether it will be accepted, &lt;/f0&gt;and how to correct it (on the &lt;f1&gt;Error Alert&lt;/f1&gt; tab).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141844Z" creationid="Franklin Weng" creationdate="20180209T141710Z">
@@ -8361,6 +8377,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085644Z" creationid="Jeff Huang" creationdate="20171111T132234Z">
         <seg>無論採取何種出版方式，只要一個段落超過半頁篇幅以上，一般就應該再切分成多個段落，畢竟讀者看到超長的段落很容易就會自動跳過。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A pivot table is a rearrangement of an existing range of data to give new insight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143130Z" creationid="Franklin Weng" creationdate="20180209T143130Z">
+        <seg>樞紐分析表是將現有範圍的資料重新安排，以提供不同角度檢視的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10013,6 +10037,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T035246Z" creationid="Jeff Huang" creationdate="20180115T035246Z">
         <seg>首先，新的工作流程可能會讓你感到不耐煩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At its most complicated, a pivot table can be used to analyze raw scientific data, showing the correlations between different fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143434Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
+        <seg>它可以處理相當複雜的資料，例如用於分析原始科學資料，顯示不同因素間的相關性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12177,6 +12209,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T100422Z" creationid="zerng07" creationdate="20180125T100422Z">
         <seg>製作字元樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating pivot tables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143056Z" creationid="Franklin Weng" creationdate="20180209T143056Z">
+        <seg>建立樞紐分析表</seg>
       </tuv>
     </tu>
     <tu>
@@ -16038,6 +16078,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175935Z" creationid="zerng07" creationdate="20171223T175015Z">
         <seg>然而，在&lt;f2&gt;其他應用程式&lt;/f2&gt;中，樣式的確能幫忙集中管理常用的設定，這是樣式本身帶來的助益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, it can also be used in simpler cases, such as sales figures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143457Z" creationid="Franklin Weng" creationdate="20180209T143457Z">
+        <seg>當然它也可以用來處理簡單的資料，例如銷售圖表等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28702,6 +28750,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T120045Z" creationid="Jeff Huang" creationdate="20180125T131926Z">
         <seg>製作結合A4/Letter大小的範本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a pivot table:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143634Z" creationid="Franklin Weng" creationdate="20180209T143634Z">
+        <seg>建立樞紐分析表的做法：</seg>
       </tuv>
     </tu>
     <tu>
