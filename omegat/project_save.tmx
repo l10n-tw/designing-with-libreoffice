@@ -31513,6 +31513,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use some pre-defined macros, but to record a macro in LibreOffice, you first need to select &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced &gt; Optional (unstable) options &gt; Enable macro recording (limited).&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124244Z" creationid="zerng07" creationdate="20180209T124244Z">
+        <seg>你可以使用一些預先定義的巨集。但如果你想要自己在LibreOffice中錄製巨集的話，你要先選取「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 進階 &gt; 選擇性功能 &gt; 啟用巨集錄製功能（功能尚有限）&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use this format to exchange documents between the two, or &lt;f0&gt;with &lt;/f0&gt;any other application that uses &lt;f1&gt;ODF,&lt;/f1&gt; such as Calligra Suite or Abi&lt;f2&gt;W&lt;/f2&gt;ord.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164842Z" creationid="zerng07" creationdate="20170822T143900Z">
@@ -31870,8 +31878,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You need the frame name from the &lt;f0&gt;Options&lt;/f0&gt; tab to configure a hyperlink.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T123854Z" creationid="zerng07" creationdate="20180209T122920Z">
-        <seg>你需要有「&lt;f0&gt;選項&lt;/f0&gt;」標籤頁中的外框名稱才能設定超連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124042Z" creationid="zerng07" creationdate="20180209T122920Z">
+        <seg>若要設定超連結，你需要「&lt;f0&gt;選項&lt;/f0&gt;」標籤頁中的外框名稱。</seg>
       </tuv>
     </tu>
     <tu>
