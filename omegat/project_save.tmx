@@ -1242,6 +1242,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A validity rule is part of a cell’s content.&lt;/f0&gt; &lt;f1&gt;Selecting&lt;/f1&gt; &lt;f2&gt;Format&lt;/f2&gt; or &lt;f3&gt;Delete All &lt;/f3&gt;from the &lt;f4&gt;Delete Contents&lt;/f4&gt; window &lt;f5&gt;removes it&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142536Z" creationid="Franklin Weng" creationdate="20180209T142536Z">
+        <seg>&lt;f0&gt;驗證規則是儲存格內容的一部份。&lt;/f0&gt;&lt;f1&gt;在「刪除內容」視窗中選擇「全部刪除」或「格式」&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;會把驗證規則一起刪除掉。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A view of non-printing characters showing m&lt;/f0&gt;argins set &lt;f1&gt;using&lt;/f1&gt; the Golden Section.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T053550Z" creationid="Jeff Huang" creationdate="20180126T120653Z">
@@ -1502,6 +1510,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162146Z" creationid="zerng07" creationdate="20171227T184049Z">
         <seg>《&lt;f0&gt;論字體排印學&lt;/f0&gt;》(An Essay on Typography) (David R. Godine: Boston, 1998)：當代設計形塑者之一的理論思想。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;An explanation of &lt;/f0&gt;the content rules you &lt;f1&gt;decide upon&lt;/f1&gt; for the cell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141719Z" creationid="Franklin Weng" creationdate="20180209T141617Z">
+        <seg>&lt;f0&gt;這個儲存格內容的輸入說明。&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2202,6 +2218,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160040Z" creationid="Franklin Weng" creationdate="20180207T160040Z">
         <seg>「&lt;f0&gt;資料 &gt; 小計&lt;/f0&gt;」可以選擇函式對一個資料陣列做計算，並在結果處加上標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Validity &lt;/f0&gt;&lt;f1&gt;is a form of online help.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142846Z" creationid="Franklin Weng" creationdate="20180209T142846Z">
+        <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;」&lt;f1&gt;是線上說明的一種型式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4794,6 +4818,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;o copy a validity rule &lt;f1&gt;along with the rest of the cell’s content&lt;/f1&gt;, use &lt;f2&gt;Edit &gt; Paste Special &gt; Paste Formats &lt;/f2&gt;or &lt;f3&gt;Paste All.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142755Z" creationid="Franklin Weng" creationdate="20180209T142755Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;要複製驗證規則也一樣，&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;在「編輯 &gt; 選擇性貼上」&lt;/f2&gt;視窗中選取&lt;f3&gt;「全部貼上」或「格式」&lt;/f3&gt;就會把驗證規則一起貼過去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o frame the document unobtrusively so &lt;f1&gt;that &lt;/f1&gt;readers can focus on its content.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140759Z" creationid="Jeff Huang" creationdate="20180126T031636Z">
@@ -6135,6 +6167,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T153126Z" creationid="Franklin Weng" creationdate="20180106T122600Z">
         <seg>&lt;f1&gt;跟Writer裡一樣，&lt;/f1&gt;範本還是很重要，但樣式在此的重要性&lt;f2&gt;相對較低&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>做得到嗎？</note>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;At the very least, explain in the first sentence what is wrong and in the second what needs to be corrected.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143027Z" creationid="Franklin Weng" creationdate="20180209T143027Z">
+        <seg>&lt;f1&gt;至少在錯誤訊息的第一句要解釋錯在哪裡，第二句要說明哪邊需要修正。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8090,6 +8131,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>A definition of invalid content, &lt;f0&gt;whether it will be accepted, &lt;/f0&gt;and how to correct it (on the &lt;f1&gt;Error Alert&lt;/f1&gt; tab).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141844Z" creationid="Franklin Weng" creationdate="20180209T141710Z">
+        <seg>何謂無效的內容，&lt;f0&gt;無效的內容是否可接受&lt;/f0&gt;，以及錯誤訊息（在&lt;f1&gt;「錯誤警告」&lt;/f1&gt;標籤頁）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>我在 LibreOffice 5.4.4, GNOME on Wayland 環境試不出來。</note>
       <tuv lang="EN">
         <seg>A dialog window opens so that you can give the new style a title.&lt;/f3&gt;</seg>
@@ -8224,6 +8273,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122131Z" creationid="Franklin Weng" creationdate="20180206T122131Z">
         <seg>計畫旅遊的一份試算表清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A macro that starts when invalid content is entered.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141946Z" creationid="Franklin Weng" creationdate="20180209T141946Z">
+        <seg>輸入無效內容的話，要啟動哪一個巨集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26910,6 +26967,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The proper formatting of contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141532Z" creationid="Franklin Weng" creationdate="20180209T141532Z">
+        <seg>內容正確的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The purpose of a&lt;f0&gt;n&lt;/f0&gt; image may be clear from &lt;f1&gt;the text around it, especially if the paragraph above introduces it with a colon.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124753Z" creationid="zerng07" creationdate="20180209T124753Z">
@@ -29426,6 +29491,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unless otherwise stated, most of this information can be entered on the &lt;f0&gt;Input Help&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142034Z" creationid="Franklin Weng" creationdate="20180209T142034Z">
+        <seg>除非特別說明，不然大部份的資訊都可以放在&lt;f0&gt;「輸入說明」&lt;/f0&gt;中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unless some of your templates are extremely similar, you &lt;f3&gt;probably &lt;/f3&gt;won't want to design more than one at a time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T082902Z" creationid="Franklin Weng" creationdate="20171213T132634Z">
@@ -31821,6 +31894,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T152322Z" creationid="Jeff Huang" creationdate="20180127T133445Z">
         <seg>你可能會想在右頁頁首放「&lt;f2&gt;標題 2&lt;/f2&gt;」的文字來協助讀者確認目前的章節位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You create &lt;f0&gt;your own &lt;/f0&gt;Validity error messages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142909Z" creationid="Franklin Weng" creationdate="20180209T142909Z">
+        <seg>你可以建立&lt;f0&gt;你自己&lt;/f0&gt;的驗證規則的錯誤訊息。</seg>
       </tuv>
     </tu>
     <tu>
