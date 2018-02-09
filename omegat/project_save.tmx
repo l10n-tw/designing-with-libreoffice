@@ -4785,9 +4785,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>沒看到這個選項。</note>
+      <note>只有外框有這個選項。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text direction:&lt;/f0&gt; &lt;f1&gt;A&lt;/f1&gt;pplies only to non-Western European languages within a frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120246Z">
+        <seg>&lt;f0&gt;文字方向：&lt;/f0&gt;僅外框內的非西方語言文字適用這個選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6944,6 +6947,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151835Z" creationid="Franklin Weng" creationdate="20180206T151835Z">
         <seg>&lt;f2&gt;如果你對這些工具不是很熟悉，那麼花點時間去瞭解這些工具的用處，對你規劃你的試算表是很有幫助的。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Ignore this setting in English or other Western European languages.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120317Z" creationid="zerng07" creationdate="20180209T120317Z">
+        <seg>&lt;f2&gt;如果是用英文或其他西方歐洲語言時可以忽略。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
