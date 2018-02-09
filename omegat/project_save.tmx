@@ -8588,6 +8588,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding columns</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120352Z" creationid="zerng07" creationdate="20180209T120352Z">
+        <seg>加入欄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding content to headers &lt;f0&gt;and&lt;/f0&gt; footers</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T035711Z" creationid="Jeff Huang" creationdate="20180127T035711Z">
@@ -25126,6 +25134,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Option&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt; tab for &lt;f3&gt;f&lt;/f3&gt;rame styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120345Z" creationid="zerng07" creationdate="20180209T120345Z">
+        <seg>外框樣式的「&lt;f0&gt;選項&lt;/f0&gt;」標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Options&lt;/f0&gt; tab for a number&lt;f1&gt;ing&lt;/f1&gt; &lt;f2&gt;style&lt;/f2&gt; includes a &lt;f3&gt;Start at&lt;/f3&gt; field.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021620Z" creationid="Jeff Huang" creationdate="20180205T021620Z">
@@ -31348,6 +31364,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023149Z" creationid="Jeff Huang" creationdate="20180130T054422Z">
         <seg>你可以將所有邊距設定為零，但你需要有出血（讓機器能印到紙張邊緣的術語）功能的印表機。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set multiple columns for a text frame &lt;f0&gt;on&lt;/f0&gt; the &lt;f1&gt;Columns &lt;/f1&gt;tab in the dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T121610Z" creationid="zerng07" creationdate="20180209T121610Z">
+        <seg>你可以對文字外框的「&lt;f1&gt;欄&lt;/f1&gt;」標籤頁中設定多欄。You can set multiple columns for a text frame &lt;f0&gt;on&lt;/f0&gt; the tab in the dialog window.</seg>
       </tuv>
     </tu>
     <tu>
