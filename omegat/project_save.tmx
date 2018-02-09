@@ -8620,6 +8620,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding hyperlinks and macros</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T122405Z" creationid="zerng07" creationdate="20180209T122405Z">
+        <seg>加入超連結和巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding images</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142714Z" creationid="Jeff Huang" creationdate="20180122T091154Z">
@@ -18165,6 +18173,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081722Z" creationid="Jeff Huang" creationdate="20180131T081722Z">
         <seg>在大多數的文字處理程式中，清單選項包含在段落樣式中，但完全不&lt;f1&gt;提供&lt;/f1&gt;表格&lt;f0&gt;樣式&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In online documents, you can add hyperlinks &lt;f0&gt;(links)&lt;/f0&gt; and macros that run when you click a frame or image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T122528Z" creationid="zerng07" creationdate="20180209T122528Z">
+        <seg>在線上文件中，你可以為外框或影像設定個點按後可進入的超連結&lt;f0&gt;（連結）&lt;/f0&gt;，或可以執行的巨集。</seg>
       </tuv>
     </tu>
     <tu>
