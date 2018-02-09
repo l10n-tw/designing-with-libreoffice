@@ -4116,6 +4116,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Protect: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;P&lt;/f2&gt;&lt;/f1&gt;revents editing of &lt;f3&gt;Content&lt;/f3&gt;,&lt;f4&gt; Position&lt;/f4&gt;, and &lt;f5&gt;Size.&lt;/f5&gt; These options are useful when a document has multiple editors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115336Z" creationid="zerng07" creationdate="20180209T115336Z">
+        <seg>&lt;f0&gt;保護：&lt;/f0&gt;防止編輯「&lt;f3&gt;內容&lt;/f3&gt;」、「&lt;f4&gt;位置&lt;/f4&gt;」、或「&lt;f5&gt;大小&lt;/f5&gt;」。這幾個選項對文件同時間有許多人編輯時很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;unning headers or footers &lt;f1&gt;can be set up using any paragraph style set as an outline level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T142055Z" creationid="Jeff Huang" creationdate="20180127T133736Z">
@@ -29636,8 +29644,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Using the file name for an image’s name can help you stay organized.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115030Z" creationid="zerng07" creationdate="20180209T115030Z">
-        <seg>使用檔名作為影像的名稱可以協助你維持條理。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115050Z" creationid="zerng07" creationdate="20180209T115030Z">
+        <seg>使用檔名作為影像的名稱可以協助你維持有條不紊。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
