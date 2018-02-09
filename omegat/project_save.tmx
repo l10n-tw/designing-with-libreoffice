@@ -21328,8 +21328,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Once you add a new category, it is available to use again.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T135741Z" creationid="zerng07" creationdate="20180209T135741Z">
-        <seg>一旦你加入新的類別後，後續就可以直接使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T135754Z" creationid="zerng07" creationdate="20180209T135741Z">
+        <seg>一旦你加入新的類別後，後續就可以直接沿用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28741,6 +28741,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091441Z" creationid="Jeff Huang" creationdate="20171214T062013Z">
         <seg>要克服這些問題，請避免緊湊的分頁位置，讓頁面結尾留下一到兩行空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To prefix the &lt;f0&gt;image&lt;/f0&gt; number with the chapter number, &lt;f1&gt;click&lt;/f1&gt; the &lt;f2&gt;Options&lt;/f2&gt; button and select the&lt;f3&gt; Outline Level&lt;/f3&gt; &lt;f4&gt;that&lt;/f4&gt; &lt;f5&gt;includes&lt;/f5&gt; the chapter number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T140305Z" creationid="zerng07" creationdate="20180209T140305Z">
+        <seg>如果要將章號放在&lt;f0&gt;影像&lt;/f0&gt;編號之前的話，&lt;f1&gt;點按&lt;/f1&gt;「&lt;f2&gt;選項&lt;/f2&gt;」按鈕並選取&lt;f5&gt;含有&lt;/f5&gt;章號的對應「&lt;f3&gt;層級&lt;/f3&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
