@@ -4197,6 +4197,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Remember that&lt;/f0&gt; the tenth time &lt;f1&gt;users hear a sound or see a macro effect&lt;/f1&gt;, many will wish for a way to turn &lt;f2&gt;it &lt;/f2&gt;off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124541Z" creationid="zerng07" creationdate="20180209T124541Z">
+        <seg>&lt;f0&gt;請記住&lt;/f0&gt;，&lt;f1&gt;當使用者聽到聲音或看到巨集效果時&lt;/f1&gt;，十之八九會希望有辦法關掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Resize frames and images on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Type&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of the dialog window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T083925Z" creationid="zerng07" creationdate="20180206T083925Z">
@@ -8560,6 +8568,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T155728Z" creationid="Jeff Huang" creationdate="20180128T040447Z">
         <seg>&lt;f0&gt;如果文件中還沒有橫向頁面，&lt;/f0&gt;請新增一頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding &lt;f0&gt;captions&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124549Z" creationid="zerng07" creationdate="20180209T124549Z">
+        <seg>加入&lt;f0&gt;圖表標示&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26738,6 +26754,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T042552Z" creationid="Franklin Weng" creationdate="20180107T063347Z">
         <seg>簡報會在沒人介紹的狀況下循環播放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of a&lt;f0&gt;n&lt;/f0&gt; image may be clear from &lt;f1&gt;the text around it, especially if the paragraph above introduces it with a colon.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124753Z" creationid="zerng07" creationdate="20180209T124753Z">
+        <seg>一張影像的目的可以&lt;f1&gt;根據周圍的文字瞭解清楚，尤其是上面介紹它的段落後面附個冒號時更是如此。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
