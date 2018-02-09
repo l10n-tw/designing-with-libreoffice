@@ -1516,8 +1516,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Another consideration is that i&lt;/f0&gt;n online documents or when the caption is separated from the text that an image illustrates, the caption &lt;f1&gt;might be used as&lt;/f1&gt; &lt;f2&gt;a &lt;/f2&gt;cross-reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133453Z" creationid="zerng07" creationdate="20180209T133453Z">
-        <seg>&lt;f0&gt;另一個考量是&lt;/f0&gt;線上文件，或是當圖表標示和影像說明的文字分開時，這個圖表標示可能作為交叉參照使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133723Z" creationid="zerng07" creationdate="20180209T133453Z">
+        <seg>&lt;f0&gt;其他考量點是&lt;/f0&gt;放在線上文件中，或是圖表標示和影像說明的文字分開，可能作為交叉參照使用的狀況。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20339,6 +20339,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the time, however, what is obvious to you after you have planned and written is much less obvious to readers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133939Z" creationid="zerng07" creationdate="20180209T133939Z">
+        <seg>不過，在你規劃中與寫作中看起來覺得很顯眼的東西，其實絕大多數的情況下對於讀者來說都很無感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the time, they are so completely in the background that users have a hard time distinguishing frames from the images and other objects they enclose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115616Z" creationid="zerng07" creationdate="20180130T115432Z">
@@ -24153,8 +24161,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes, that may be true, and you may want to consider whether to use captions at all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133635Z" creationid="zerng07" creationdate="20180209T133635Z">
-        <seg>有時候或許真的是這樣，你可以考慮看看到底要不要用圖表的標示說明。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133818Z" creationid="zerng07" creationdate="20180209T133635Z">
+        <seg>而有時候或許真的是這樣，你可以考慮看看到底要不要用圖表的標示說明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30364,8 +30372,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When you compose a caption, you may think that it is embarrassingly obvious.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133550Z" creationid="zerng07" creationdate="20180209T133550Z">
-        <seg>當你編寫圖表標示時，你可能會覺得很好像太明顯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133803Z" creationid="zerng07" creationdate="20180209T133550Z">
+        <seg>還有當你編寫圖表標示時，覺得文字好像太過於明顯。</seg>
       </tuv>
     </tu>
     <tu>
