@@ -1908,6 +1908,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Caption paragraphs are formatted using the &lt;/f0&gt;&lt;f1&gt;Caption&lt;/f1&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T085937Z" creationid="zerng07" creationdate="20180210T085937Z">
+        <seg>&lt;f0&gt;圖表標示的文字段落使用「&lt;/f0&gt;&lt;f1&gt;圖表標示&lt;/f1&gt;」段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Captions are automatically detected and used to create the content entries.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T134613Z" creationid="zerng07" creationdate="20180209T134613Z">
@@ -15068,6 +15076,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135511Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
         <seg>將存放原始資料，還有操作資料用的儲存格做不同的格式設定。&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting captions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T085825Z" creationid="zerng07" creationdate="20180210T085825Z">
+        <seg>修改圖表標示格式設定</seg>
       </tuv>
     </tu>
     <tu>
