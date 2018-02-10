@@ -3804,6 +3804,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Most times, you will want to use the entire space between the horizontal margins.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T025559Z" creationid="Jeff Huang" creationdate="20180210T025559Z">
+        <seg>&lt;f0&gt;大多數情況下，你可能會想要使用水平間距的整個空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Much of t&lt;/f0&gt;his book is designed to explain not only what styles and templates are and how to use them, but also what you need to consider when selecting them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184836Z" creationid="zerng07" creationdate="20170817T162427Z">
@@ -5103,6 +5111,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T120846Z" creationid="Franklin Weng" creationdate="20180116T091503Z">
         <seg>&lt;f0&gt;這個設計看起來有點錯縱複雜，但是因為樣式很小所以不至於影響前景文字的易讀性。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The different colors help readers follow information horizontally within the table.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T025429Z" creationid="Jeff Huang" creationdate="20180210T025429Z">
+        <seg>&lt;f0&gt;不同的顏色可以協助讀者在表格內水平檢視相關資訊。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19387,6 +19403,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082228Z" creationid="Jeff Huang" creationdate="20180112T133600Z">
         <seg>請讓線條的長度與位置盡可能保持整齊，除非你只是在試驗非正式的外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep the spacing around tables consistent.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T025502Z" creationid="Jeff Huang" creationdate="20180210T025502Z">
+        <seg>維持表格間距一致</seg>
       </tuv>
     </tu>
     <tu>
