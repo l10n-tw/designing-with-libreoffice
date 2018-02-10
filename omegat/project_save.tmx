@@ -23742,6 +23742,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the caption order, placing either the number (complete with chapter number preface) or the category first.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053846Z" creationid="zerng07" creationdate="20180210T053846Z">
+        <seg>設定圖表標示順序，看是要先放編號（前面搭配章號）還是類別。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the font size to 14 p&lt;f0&gt;oin&lt;/f0&gt;ts for greater legibility on the &lt;f1&gt;Font&lt;/f1&gt; tab, &lt;f2&gt;and s&lt;/f2&gt;et the line space to 1&lt;f3&gt;8&lt;/f3&gt; points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T013552Z" creationid="zerng07" creationdate="20180125T093753Z">
@@ -28989,6 +28997,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133411Z" creationid="Franklin Weng" creationdate="20180118T033800Z">
         <seg>在同時有題名和內容的投影片中，題名部分一般會置中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a chapter number, you must assign a numbering style to one paragraph style, and then assign the paragraph style to an &lt;f0&gt;o&lt;/f0&gt;utline &lt;f1&gt;l&lt;/f1&gt;evel.&lt;f2&gt; Heading 1&lt;/f2&gt; is often used for this purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T084044Z" creationid="zerng07" creationdate="20180210T084044Z">
+        <seg>如果要加入章號，你必須指派編號樣式給一個段落樣式，然後指派該段落樣式一個大綱層級。通常會用「&lt;f2&gt;標題 1&lt;/f2&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
