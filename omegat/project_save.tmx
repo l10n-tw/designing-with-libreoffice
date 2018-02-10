@@ -2504,6 +2504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;onts should be the same size as body text, although they may be in a different font or weight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033124Z" creationid="Jeff Huang" creationdate="20180210T033124Z">
+        <seg>其字型應與內文的文字大小相同，雖然其可能會使用不同的字型或字重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;Apache &lt;/f1&gt;OpenOffice’&lt;f2&gt;s collection of extensions and templates&lt;/f2&gt;, &lt;f3&gt;go to:&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T193326Z" creationid="zerng07" creationdate="20170817T171125Z">
@@ -6490,6 +6498,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114656Z" creationid="Jeff Huang" creationdate="20180125T130038Z">
         <seg>&lt;f1&gt;LibreOffice不支援裁切標記，但你還是可以自己仔細測量裁切成合適大小。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Making them smaller saves space at the cost of readability and convenience.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033231Z" creationid="Jeff Huang" creationdate="20180210T033231Z">
+        <seg>&lt;f1&gt;減小文字大小可以節省空間，但代價就是降低了可讀性與方便性。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
