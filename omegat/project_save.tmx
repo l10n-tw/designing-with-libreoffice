@@ -6428,6 +6428,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>可以請作者說中文嗎？</note>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;If anything, a smaller font for captions removes much of the convenience of adding the image in the first place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090906Z" creationid="zerng07" creationdate="20180210T090849Z">
+        <seg>&lt;f1&gt;真要說的話，讓圖表標示的字小一點起初移除加入影像的便利性？？？？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f1&gt;If you are speaking in a language that &lt;/f1&gt;reads left to right, &lt;f2&gt;listeners’&lt;/f2&gt; eyes are more likely to move toward you.</seg>
       </tuv>
