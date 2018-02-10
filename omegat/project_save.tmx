@@ -1774,8 +1774,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before inserting, unselect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Heading&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Border &lt;/f4&gt;&lt;f5&gt;and select&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Don't split table over pages.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131533Z" creationid="zerng07" creationdate="20180210T130542Z">
-        <seg>&lt;f0&gt;在插入之前，取消選項中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後取消選取「&lt;/f5&gt;&lt;f8&gt;允許跨頁和跨欄分割表格&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131605Z" creationid="zerng07" creationdate="20180210T130542Z">
+        <seg>&lt;f0&gt;在插入之前，取消選項中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後選取「&lt;/f5&gt;&lt;f8&gt;表格不要跨頁切分&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31822,6 +31822,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120811Z" creationid="zerng07" creationdate="20171226T113944Z">
         <seg>在&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗或側邊欄中，有些樣式類別也提供一種跟基本套用技巧相反的做法：你可以先選擇樣式，再點選你想要套用的地方。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the cursor in the table, right-click and select &lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;to add the space above and below the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131751Z" creationid="zerng07" creationdate="20180210T131751Z">
+        <seg>將游標放在表格內，點按右鍵，並選取「&lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;to add the space above and below the table.</seg>
       </tuv>
     </tu>
     <tu>
