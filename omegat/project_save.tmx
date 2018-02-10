@@ -24472,6 +24472,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the table work-around limits some options, use it only after the Haugland workaround fails.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113541Z" creationid="zerng07" creationdate="20180210T113541Z">
+        <seg>由於表格變通方案會限制你能做的選擇，請只在Haugland變通方案失敗時才嘗試它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since this choice adds space according to the size of the object, you will have more control if you ignore this setting and adjust the white space exactly using the &lt;f2&gt;Spacing&lt;/f2&gt; fields.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T071755Z" creationid="zerng07" creationdate="20180208T071745Z">
