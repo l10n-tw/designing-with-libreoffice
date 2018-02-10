@@ -3364,6 +3364,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition, t&lt;/f0&gt;he caption should have less space between it and the &lt;f1&gt;image&lt;/f1&gt; than between it and the text &lt;f2&gt;below or above it&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T091356Z" creationid="zerng07" creationdate="20180210T091356Z">
+        <seg>&lt;f0&gt;此外，&lt;/f0&gt;圖表標示和&lt;f1&gt;影像&lt;/f1&gt;之間的空間，應該要比它和影像上或下文字之間的空間還要小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082528Z" creationid="zerng07" creationdate="20171225T082407Z">
@@ -17939,6 +17947,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T150021Z" creationid="Jeff Huang" creationdate="20180118T122725Z">
         <seg>如果你想要調整物件大小或改變它的形狀，請拖曳點按它之後出現的手把。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to save space, use a narrow or condensed font style for captions.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090943Z" creationid="zerng07" creationdate="20180210T090943Z">
+        <seg>如果你想要節省空間，可以改用窄體或壓縮體的字型樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
