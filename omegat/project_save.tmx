@@ -23742,6 +23742,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the caption &lt;f0&gt;Position&lt;/f0&gt; to &lt;f1&gt;Above&lt;/f1&gt; or &lt;f2&gt;Below&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T084648Z" creationid="zerng07" creationdate="20180210T084648Z">
+        <seg>將圖表標示的「&lt;f0&gt;位置&lt;/f0&gt;」設定為「&lt;f1&gt;上方&lt;/f1&gt;」或「&lt;f2&gt;下方&lt;/f2&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the caption order, placing either the number (complete with chapter number preface) or the category first.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053846Z" creationid="zerng07" creationdate="20180210T053846Z">
@@ -29003,8 +29011,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To add a chapter number, you must assign a numbering style to one paragraph style, and then assign the paragraph style to an &lt;f0&gt;o&lt;/f0&gt;utline &lt;f1&gt;l&lt;/f1&gt;evel.&lt;f2&gt; Heading 1&lt;/f2&gt; is often used for this purpose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T084346Z" creationid="zerng07" creationdate="20180210T084044Z">
-        <seg>如果要加入章號，你必須指派編號樣式給一個段落樣式，然後指派該段落樣式一個大綱層級。通常會用「&lt;f2&gt;標題 1&lt;/f2&gt;」。（現在有「按章自動編號編號圖表標示」，這部分改寫）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T084407Z" creationid="zerng07" creationdate="20180210T084044Z">
+        <seg>如果要加入章號，你必須指派編號樣式給一個段落樣式，然後指派該段落樣式一個大綱層級。通常會用「&lt;f2&gt;標題 1&lt;/f2&gt;」。（現在有「按章自動編號編號圖表標示」，這部分要改寫）</seg>
       </tuv>
     </tu>
     <tu>
