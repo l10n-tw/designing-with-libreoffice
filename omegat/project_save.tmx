@@ -10764,6 +10764,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below the image in the top row, apply the &lt;f0&gt;Image Spacer&lt;/f0&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134205Z" creationid="zerng07" creationdate="20180210T134205Z">
+        <seg>在第一列影像的下方，套用前面講過的「&lt;f0&gt;影像間隔&lt;/f0&gt;」段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below the return address is the &lt;f0&gt;Date&lt;/f0&gt; style, which is followed by white space, then the &lt;f1&gt;Address&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T124718Z" creationid="zerng07" creationdate="20180125T124434Z">
@@ -19215,6 +19223,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this way, you only have to move the table, and can forget about the image.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134052Z" creationid="zerng07" creationdate="20180210T134052Z">
+        <seg>如此一來，只要移動表格就行，你可以把影像忘了。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In&lt;/f0&gt; LibreOffice 4.4 &lt;f1&gt;and later, &lt;/f1&gt;you can update styles by highlighting part of the document, then selecting a style in the tool bar’s drop-down list and clicking &lt;f2&gt;Update &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;to Match&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Selection&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030516Z" creationid="zerng07" creationdate="20171227T030516Z">
@@ -26691,6 +26707,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131039Z" creationid="Jeff Huang" creationdate="20180122T085252Z">
         <seg>「修改」選單的底部由一般曲線、線條與形狀的選項組合而成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The bottom of the image is now aligned with the bottom side of the top row.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134255Z" creationid="zerng07" creationdate="20180210T134255Z">
+        <seg>影像的底部目前會和第一列的底部對齊。</seg>
       </tuv>
     </tu>
     <tu>
