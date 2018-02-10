@@ -4640,6 +4640,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Similarly, t&lt;/f0&gt;he style does not need to be smaller than the body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090621Z" creationid="zerng07" creationdate="20180210T090621Z">
+        <seg>&lt;f0&gt;還有，&lt;/f0&gt;這個樣式也不必採用比內文還小的文字大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>修改請求</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Since that is the way they are meant to be seen, trying to lighten them would fail to do them justice.&lt;/f0&gt;</seg>
@@ -12127,8 +12135,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Contrary to common usage, &lt;f2&gt;t&lt;/f2&gt;he &lt;f3&gt;&lt;f4&gt;Caption&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; paragraph &lt;/f5&gt;style defaults to italic, but a regular weight is &lt;f6&gt;more common.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090408Z" creationid="zerng07" creationdate="20180210T090408Z">
-        <seg>和常見用法相反，在LibreOffice中「&lt;f3&gt;&lt;f4&gt;圖表標示&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」段落&lt;/f5&gt;樣式預設為義大利體（義式斜體），但在西方字體排印學中反而&lt;f6&gt;比較常用&lt;/f6&gt;一般字重。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090520Z" creationid="zerng07" creationdate="20180210T090408Z">
+        <seg>和常見用法相反，在LibreOffice中「&lt;f3&gt;&lt;f4&gt;圖表標示&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」段落&lt;/f5&gt;樣式預設採用義大利體（義式斜體），但在西方字體排印學中反而&lt;f6&gt;更常用&lt;/f6&gt;一般字重。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29436,8 +29444,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To start with, a font family traditionally contains four main styles: Regular, Italic, Bold, and Bold Italic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132509Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
-        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：標準 (Regular)、義大利體 (Italic)、粗體 (Bold)、粗義大利體 (Bold Italic)；而在LibreOffice中的字型樣式選單中則對應到「標準」、「義式斜體」、「粗體」、「義式粗斜體」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090425Z" creationid="Franklin Weng" creationdate="20171228T071056Z">
+        <seg>我們開始來看。傳統上一個西方字族有四種主要樣式：一般 (Regular)、義大利體 (Italic)、粗體 (Bold)、粗義大利體 (Bold Italic)；而在LibreOffice中的字型樣式選單中則對應到「標準」、「義式斜體」、「粗體」、「義式粗斜體」。</seg>
       </tuv>
     </tu>
     <tu>
