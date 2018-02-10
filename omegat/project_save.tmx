@@ -18112,6 +18112,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>「向左」的翻譯有誤（可能翻譯者以為是在講對齊），已改為「左側」。（向上向下改譯為「上方」「下方」，向左向右改譯為「左側」「右側」。）</note>
+      <tuv lang="EN">
+        <seg>If you want an indentation from the left, set the &lt;f0&gt;Alignment&lt;/f0&gt; to &lt;f1&gt;From Left, &lt;/f1&gt;and set the indentation in the&lt;f2&gt; Spacing &gt; Left &lt;/f2&gt;field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133352Z" creationid="zerng07" creationdate="20180210T133352Z">
+        <seg>如果你想要從左邊開始算的縮排，點按「&lt;f0&gt;對齊&lt;/f0&gt;」的「&lt;f1&gt;從左&lt;/f1&gt;」，並設定「&lt;f2&gt;間隔 &gt; 左側 &lt;/f2&gt;」欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現狀改寫</note>
       <tuv lang="EN">
         <seg>If you want to create another master slide, click the&lt;f0&gt; New Master &lt;/f0&gt;icon in the floating window.</seg>
@@ -28945,6 +28954,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090259Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
         <seg>這個動作可以讓你知道定下精準標題的價值所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This formatting aligns the image with indented text, which is a useful way of showing what text the image is connected to.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133456Z" creationid="zerng07" creationdate="20180210T133456Z">
+        <seg>這個格式設定可以讓影像與縮排文字對齊，是很好展現出影像相關文字所在處的做法。</seg>
       </tuv>
     </tu>
     <tu>
