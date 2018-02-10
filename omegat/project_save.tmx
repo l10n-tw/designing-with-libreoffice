@@ -6382,6 +6382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Be sure that your formatting positions the caption closer to the image than to the text below the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134548Z" creationid="zerng07" creationdate="20180210T134548Z">
+        <seg>&lt;f1&gt;要確定你的圖表標示格式設定上比較靠近影像，而不是比較靠近表格下方的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Bottom: Regular capitals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T063606Z" creationid="Franklin Weng" creationdate="20171228T063606Z">
@@ -9516,6 +9524,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125013Z" creationid="Franklin Weng" creationdate="20171223T094259Z">
         <seg>在美國通用的是月-日-年的格式，但國際上逐漸傾向採用一致的順序——無論是年-月-日（臺灣用），還是較少見的日-月-年的格式。（要改成以臺灣為主的敘述）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although full wrap options are unavailable with this work-around, &lt;f0&gt;you can use two columns, instead of two rows, and place the second column to the left or right of the image.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134837Z" creationid="zerng07" creationdate="20180210T134837Z">
+        <seg>雖然這種變通方案無法取用所有的文字環繞選項，&lt;f0&gt;但你也可以使用兩欄而不是兩列，接著把第二欄放在影像的左側或右側來達成。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13213,6 +13229,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031342Z" creationid="Jeff Huang" creationdate="20180201T031342Z">
         <seg>請不要在清單中的最後一點使用「和」、「或」，即便這在文法上並沒有問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not use automatic captions (see “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Adding automatic captions&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;20&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134645Z" creationid="zerng07" creationdate="20180210T134645Z">
+        <seg>不要使用自動圖表標示（請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;自動加上圖表標示&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁）。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
