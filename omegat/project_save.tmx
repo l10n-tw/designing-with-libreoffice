@@ -2631,6 +2631,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For convenience, t&lt;/f0&gt;he &lt;f1&gt;boundaries&lt;/f1&gt; of the borderless table in the middle are shown within Writer, but do not print.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T031205Z" creationid="Jeff Huang" creationdate="20180210T031205Z">
+        <seg>&lt;f0&gt;為了方便起見，&lt;/f0&gt;Writer中會顯示無邊框表格的&lt;f1&gt;邊界&lt;/f1&gt;，但在列印中並非如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
@@ -7530,6 +7538,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;They may go out of fashion, but they will always remain functional.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T030938Z" creationid="Jeff Huang" creationdate="20180210T030938Z">
+        <seg>&lt;f3&gt;它們也許會過時，但還是會相當實用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;This demand is unlikely to disapear because, although most professional designers think in terms of proprietary fonts, clients are often unwilling to pay for them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100124Z" creationid="Jeff Huang" creationdate="20180115T065625Z">
@@ -9892,6 +9908,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T162900Z" creationid="Franklin Weng" creationdate="20180105T132333Z">
         <seg>當你打開一本專業的出版書時，&lt;f0&gt;通常&lt;/f0&gt;會期待內文字不要黑成一陀，也不會像水洗過一樣迷濛。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you can see, modern typography favors simple designs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T030835Z" creationid="Jeff Huang" creationdate="20180210T030835Z">
+        <seg>如你所見，現代的字體排印學有利於簡潔的設計。</seg>
       </tuv>
     </tu>
     <tu>
