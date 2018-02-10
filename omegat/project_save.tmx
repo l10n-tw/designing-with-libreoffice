@@ -9879,6 +9879,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>As you design a template, decide what table formats the document will have.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T024259Z" creationid="Jeff Huang" creationdate="20180210T024259Z">
+        <seg>在設計範本時，請先確定文件將會使用何種表格的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4稱為貼附線 snap line，6.0稱為貼附導線 snap guide。但是，這裡描述的貼附線功能在 5.4 和 6.0 都被「網格」取代了。</note>
       <tuv lang="EN">
         <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
@@ -22228,6 +22236,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Planning tables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T024202Z" creationid="Jeff Huang" creationdate="20180210T024202Z">
+        <seg>規劃表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pluses and minuses to consider &lt;f0&gt;include&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070548Z" creationid="zerng07" creationdate="20180206T070548Z">
@@ -26737,6 +26753,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T043225Z" creationid="Franklin Weng" creationdate="20171225T130126Z">
         <seg>最常見的西方字族基本&lt;f0&gt;樣式&lt;/f0&gt;有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T024311Z" creationid="Jeff Huang" creationdate="20180210T024311Z">
+        <seg>最常見的是：</seg>
       </tuv>
     </tu>
     <tu>
