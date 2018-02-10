@@ -8896,8 +8896,8 @@
       <tuv lang="EN">
         <seg>Adding automatic captions</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094035Z" creationid="zerng07" creationdate="20180210T094035Z">
-        <seg>加入自動圖表標示</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094351Z" creationid="zerng07" creationdate="20180210T094035Z">
+        <seg>自動加上圖表標示</seg>
       </tuv>
     </tu>
     <tu>
@@ -29471,6 +29471,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T031355Z" creationid="Jeff Huang" creationdate="20180210T031355Z">
         <seg>要觀看列印時無邊框表格的外觀，&lt;f0&gt;請從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案 &gt; 列印預覽」&lt;/f2&gt;&lt;/f1&gt;中檢視。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up Autocaptions, &lt;f0&gt;select the types of objects for them, then follow the directions above for adding a caption.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094533Z" creationid="zerng07" creationdate="20180210T094533Z">
+        <seg>若要設置自動圖表標示，&lt;f0&gt;先選取目標物件的類型，接著遵照上面的指示加入圖表標示。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
