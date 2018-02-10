@@ -6511,6 +6511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In effect, the table acts as a frame, except that for some reason images in a table are less likely to move around.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123125Z" creationid="zerng07" creationdate="20180210T123125Z">
+        <seg>&lt;f1&gt;實際上，表格的行為其實跟外框一樣，不過基於某些不明原因讓表格中的影像比較不會四處移動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In fact, there are only four work-arounds, three of which are less than ideal: &lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T024731Z" creationid="Jeff Huang" creationdate="20180130T060011Z">
@@ -29100,6 +29108,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This solution is similar to using tables for layout on a web page.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123155Z" creationid="zerng07" creationdate="20180210T123155Z">
+        <seg>這個解決方案類似在網頁上用表格作版面配置的方法。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This space is set using the &lt;f0&gt;Indent &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;t&lt;/f3&gt; field on the &lt;f4&gt;Position&lt;/f4&gt; tab for a list style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064835Z" creationid="zerng07" creationdate="20180125T064835Z">
@@ -29200,6 +29216,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T152720Z" creationid="zerng07" creationdate="20171224T152720Z">
         <seg>此檢視畫面對於全新文件來說沒有一點用處，&lt;f1&gt;你只需繼續作業，它後續就能簡要顯示出目前的樣式數目。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This workaround &lt;f0&gt;only gives you the option of wrapping text above and below the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123327Z" creationid="zerng07" creationdate="20180210T123327Z">
+        <seg>這個變通方案能&lt;f0&gt;調整的就只有表格之上與之下的文字環繞。</seg>
       </tuv>
     </tu>
     <tu>
