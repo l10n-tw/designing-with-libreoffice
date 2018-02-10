@@ -1683,6 +1683,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Autocaptions immediately add a caption to all specified objects, using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Caption&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094335Z" creationid="zerng07" creationdate="20180210T094335Z">
+        <seg>&lt;f0&gt;自動圖表標示能立刻以「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;圖表標示&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」段落樣式為指定的所有物件加上圖表標示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic:&lt;/f0&gt; A minimalist list of &lt;f1&gt;pre-defined &lt;/f1&gt;styles&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155432Z" creationid="zerng07" creationdate="20171224T152927Z">
@@ -8882,6 +8890,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034218Z" creationid="Jeff Huang" creationdate="20180210T034218Z">
         <seg>新增表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding automatic captions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094035Z" creationid="zerng07" creationdate="20180210T094035Z">
+        <seg>加入自動圖表標示</seg>
       </tuv>
     </tu>
     <tu>
