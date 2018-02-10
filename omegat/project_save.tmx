@@ -20428,6 +20428,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make any other formatting changes, and close the &lt;f0&gt;&lt;f1&gt;Image&lt;/f1&gt;&lt;/f0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T120001Z" creationid="zerng07" creationdate="20180210T120001Z">
+        <seg>修改其他格式設定，然後關閉&lt;f0&gt;&lt;f1&gt;影像&lt;/f1&gt;&lt;/f0&gt;對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make the &lt;f0&gt;bottom&lt;/f0&gt; margin &lt;f1&gt;taller&lt;/f1&gt; than the &lt;f2&gt;top&lt;/f2&gt; margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T053949Z" creationid="Jeff Huang" creationdate="20180126T121533Z">
@@ -23986,8 +23994,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the horizontal &lt;f0&gt;and vertical &lt;/f0&gt;alignment &lt;f1&gt;if necessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115847Z" creationid="zerng07" creationdate="20180210T115535Z">
-        <seg>視需要，設定&lt;f0&gt;橫向或縱向&lt;/f0&gt;對齊。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115912Z" creationid="zerng07" creationdate="20180210T115535Z">
+        <seg>根據需求設定&lt;f0&gt;橫向或縱向&lt;/f0&gt;對齊。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
