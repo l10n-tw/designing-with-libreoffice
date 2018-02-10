@@ -2916,8 +2916,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;H&lt;/f0&gt;ere is &lt;f1&gt;a sample &lt;/f1&gt;policy &lt;f2&gt;that was used in one draft of this book (the final one is somewhat different):&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T062804Z" creationid="zerng07" creationdate="20180208T062804Z">
-        <seg>這裡有個示範&lt;/f1&gt;策略&lt;f2&gt;，起初作為本書的草稿（最終的做法仍然有些不同）：&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135422Z" creationid="zerng07" creationdate="20180208T062804Z">
+        <seg>&lt;f1&gt;這裡有個示範&lt;/f1&gt;策略&lt;f2&gt;，起初作為本書的草稿（最終的做法仍然有些不同）：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11223,8 +11223,8 @@
       <tuv lang="EN">
         <seg>By contrast, &lt;f0&gt;in many cases, you should &lt;/f0&gt;use &lt;f1&gt;Entire Page &lt;/f1&gt;only if the document is intended for on-line use or your printer is capable of bleeds &lt;f2&gt;(that is, printing to the very edge of the page).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T094944Z" creationid="zerng07" creationdate="20180206T094944Z">
-        <seg>此外，&lt;f0&gt;在許多案例中，你應該只有在文件目標為線上觀看，或者是你的印表機有出血功能時（代表可以列印到頁面的最外緣），&lt;/f0&gt;才使用「&lt;f1&gt;整個頁面&lt;/f1&gt;」的選項。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135324Z" creationid="zerng07" creationdate="20180206T094944Z">
+        <seg>此外，&lt;f0&gt;在許多案例中，你應該只有在文件目標為線上觀看，或者是你的印表機有出血功能時（代表可以列印到頁面的最外緣），&lt;/f0&gt;才使用「&lt;f1&gt;整個頁面&lt;/f1&gt;&lt;f2&gt;」的選項。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19065,8 +19065,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In some versions of LibreOffice, or with some settings, the boundaries&lt;/f1&gt; &lt;f2&gt;may&lt;/f2&gt; be visible in the editing window&lt;f3&gt;,&lt;/f3&gt; but &lt;f4&gt;they &lt;/f4&gt;will not &lt;f5&gt;print.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130757Z" creationid="zerng07" creationdate="20180210T130711Z">
-        <seg>在某些版本的LibreOffice中，或是在某些設定下，編輯視窗中可以看得見邊界，但是&lt;f4&gt;邊界&lt;/f4&gt;不會真正被&lt;f5&gt;列印出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135739Z" creationid="zerng07" creationdate="20180210T130711Z">
+        <seg>在某些版本的LibreOffice中，或是在某些設定下，編輯視窗中可以看得見邊界，&lt;/f1&gt;但是&lt;f4&gt;邊界&lt;/f4&gt;不會真正被&lt;f5&gt;列印出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23921,8 +23921,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Table &gt; Insert Table,&lt;/f0&gt; and make a table with &lt;f1&gt;these characteristics: &lt;/f1&gt;1 column and 2 rows &lt;f2&gt;(or 1 column and 1 row if you are not using captions).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131301Z" creationid="zerng07" creationdate="20180210T125816Z">
-        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，然後依此在「更多選項」中設定：&lt;/f1&gt;1欄，2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135641Z" creationid="zerng07" creationdate="20180210T125816Z">
+        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，然後依此在「更多選項」&lt;f1&gt;中設定：&lt;/f1&gt;1欄，2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
