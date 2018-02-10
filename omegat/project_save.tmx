@@ -4262,6 +4262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Place the cursor in the top row of the table and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to add the image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133718Z" creationid="zerng07" creationdate="20180210T133718Z">
+        <seg>&lt;f0&gt;將游標放置在表格的上方列，然後點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」加入影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T145913Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
@@ -30582,6 +30590,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T132025Z" creationid="Franklin Weng" creationdate="20180206T132025Z">
         <seg>標題的部份用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;標題 1&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式， 然後在樣式設定的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;邊框&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;標籤頁中加上每一組儲存格的邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Alignment&lt;/f0&gt; and &lt;f1&gt;Spacing&lt;/f1&gt; settings to place the table that will contain the graphic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133545Z" creationid="zerng07" creationdate="20180210T133545Z">
+        <seg>調整「&lt;f0&gt;對齊&lt;/f0&gt;」和「&lt;f1&gt;間隔&lt;/f1&gt;」設定來擺放想包含圖片的表格位置。</seg>
       </tuv>
     </tu>
     <tu>
