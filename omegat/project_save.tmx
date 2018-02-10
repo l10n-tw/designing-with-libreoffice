@@ -3517,6 +3517,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In others, the boundaries may show even in&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; File &gt; Print Preview.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;s4/&gt;To see how the table looks, right-click within it and unselect &lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Table Boundaries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131208Z" creationid="zerng07" creationdate="20180210T131208Z">
+        <seg>&lt;f0&gt;在其他情況下，邊界甚至在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔案 &gt; 列印預覽&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」中還看得到。&lt;s4/&gt;&lt;del&gt;如果想要看見表格的話，在表格之內點按右鍵，然後取消選取「&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;表格邊界」。（找不到這個部分，如果真的沒有的話就刪掉）&lt;/del&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File name&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, adding a path changes the image from an embedded image that is part of the document file to a linked, separate file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120816Z" creationid="zerng07" creationdate="20180205T120816Z">
