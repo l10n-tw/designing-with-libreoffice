@@ -6511,6 +6511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;However,&lt;/f1&gt; some of the advanced uses of some types of frames &lt;f2&gt;are less obvious&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135115Z" creationid="zerng07" creationdate="20180210T135029Z">
+        <seg>&lt;f1&gt;不過，&lt;/f1&gt;有些外框類型的進階用法&lt;f2&gt;就沒那麼顯而易懂&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;I&lt;/f1&gt;ts front page includes a list of the most recently uploaded fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184222Z" creationid="zerng07" creationdate="20170817T135951Z">
@@ -7769,6 +7777,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T131824Z" creationid="Franklin Weng" creationdate="20180118T030545Z">
         <seg>&lt;f3&gt;這個自訂選項能為你的設計增添更多彈性。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;This section covers some of them.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135130Z" creationid="zerng07" creationdate="20180210T135130Z">
+        <seg>&lt;f3&gt;這一節會談談這個部分。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9162,8 +9178,8 @@
       <tuv lang="EN">
         <seg>Advanced uses of frames</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135000Z" creationid="zerng07" creationdate="20180210T135000Z">
-        <seg>外框的進階使用</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135033Z" creationid="zerng07" creationdate="20180210T135000Z">
+        <seg>外框的進階用法</seg>
       </tuv>
     </tu>
     <tu>
@@ -26683,6 +26699,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T090327Z" creationid="Jeff Huang" creationdate="20180120T133708Z">
         <seg>文字的基線就是「m」或「n」底部擺放位置的假想直線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic formatting of frames is &lt;f0&gt;straightforward&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135022Z" creationid="zerng07" creationdate="20180210T135022Z">
+        <seg>外框的基本格式設定很&lt;f0&gt;直覺&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
