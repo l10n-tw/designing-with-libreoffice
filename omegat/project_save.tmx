@@ -4877,8 +4877,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;boundaries of the table are not the same as its borders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130617Z" creationid="zerng07" creationdate="20180210T130617Z">
-        <seg>表格的邊界和邊框是不一樣的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130718Z" creationid="zerng07" creationdate="20180210T130617Z">
+        <seg>&lt;f1&gt;表格的邊界和邊框是不一樣的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18960,8 +18960,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In some versions of LibreOffice, or with some settings, the boundaries&lt;/f1&gt; &lt;f2&gt;may&lt;/f2&gt; be visible in the editing window&lt;f3&gt;,&lt;/f3&gt; but &lt;f4&gt;they &lt;/f4&gt;will not &lt;f5&gt;print.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130711Z" creationid="zerng07" creationdate="20180210T130711Z">
-        <seg>在某些版本的LibreOffice中，或是在某些設定下，編輯視窗中可以看得見邊界&lt;/f1&gt;&lt;f2&gt;可能&lt;/f2&gt; be visible in the editing window&lt;f3&gt;,&lt;/f3&gt; but &lt;f4&gt;they &lt;/f4&gt;will not &lt;f5&gt;print.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130757Z" creationid="zerng07" creationdate="20180210T130711Z">
+        <seg>在某些版本的LibreOffice中，或是在某些設定下，編輯視窗中可以看得見邊界，但是&lt;f4&gt;邊界&lt;/f4&gt;不會真正被&lt;f5&gt;列印出來。</seg>
       </tuv>
     </tu>
     <tu>
