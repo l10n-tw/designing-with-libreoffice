@@ -3194,6 +3194,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If necessary, change the paragraph style to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to eliminate unnecessary numbers, bullets, or indentations.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T125631Z" creationid="zerng07" creationdate="20180210T125631Z">
+        <seg>&lt;f0&gt;如果有必要，將段落樣式改為「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」可消去不需要的編號、項目符號或縮排等。.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>此段原文與現況略有不同，我做了一些修正。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If necessary, from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Outline Numbering &gt; Numbering, &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;assign the style you are using to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Level 1.&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;In the &lt;f7&gt;After&lt;/f7&gt; field, add a separator, such as a hyphen.</seg>
@@ -11760,8 +11768,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Check that tables are turned off in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; AutoCaption.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T124007Z" creationid="zerng07" creationdate="20180210T124007Z">
-        <seg>在「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 自動圖表標示&lt;/f0&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T125512Z" creationid="zerng07" creationdate="20180210T124007Z">
+        <seg>在「&lt;f0&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 自動圖表標示&lt;/f0&gt;」中確認表格部分已經關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22631,6 +22639,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor on a blank line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T125528Z" creationid="zerng07" creationdate="20180210T125528Z">
+        <seg>將游標放在空行上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the mouse cursor in the position for the page number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T143857Z" creationid="Jeff Huang" creationdate="20180127T135053Z">
@@ -23753,6 +23769,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T144007Z" creationid="Jeff Huang" creationdate="20180129T085116Z">
         <seg>從「&lt;f1&gt;類型&lt;/f1&gt;」中選取「&lt;f0&gt;分頁&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Table &gt; Insert Table,&lt;/f0&gt; and make a table with &lt;f1&gt;these characteristics: &lt;/f1&gt;1 column and 2 rows &lt;f2&gt;(or 1 column and 1 row if you are not using captions).&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T125816Z" creationid="zerng07" creationdate="20180210T125816Z">
+        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，然後依此設定：&lt;/f1&gt;1欄，2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
