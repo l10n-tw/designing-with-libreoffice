@@ -1770,6 +1770,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>我遍尋不著「標題」在哪… 如果真的找不到的話，這邊要改寫。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Before inserting, unselect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Heading&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Border &lt;/f4&gt;&lt;f5&gt;and select&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Don't split table over pages.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130542Z" creationid="zerng07" creationdate="20180210T130542Z">
+        <seg>&lt;f0&gt;在插入之影像前，取消選取表格屬性中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」（我遍尋不著「標題」在哪… 如果真的找不到的話，這邊要改寫）和「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後取消選取「&lt;/f5&gt;&lt;f8&gt;允許跨頁和跨欄分割表格&lt;/f8&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before you design, sketch out the alternatives for &lt;/f0&gt;positioning multiple &lt;f1&gt;images&lt;/f1&gt; on the &lt;f2&gt;same&lt;/f2&gt; page.</seg>
       </tuv>
