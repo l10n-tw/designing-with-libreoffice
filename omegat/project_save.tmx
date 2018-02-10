@@ -1774,8 +1774,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before inserting, unselect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Heading&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Border &lt;/f4&gt;&lt;f5&gt;and select&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Don't split table over pages.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130542Z" creationid="zerng07" creationdate="20180210T130542Z">
-        <seg>&lt;f0&gt;在插入之影像前，取消選取表格屬性中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」（我遍尋不著「標題」在哪… 如果真的找不到的話，這邊要改寫）和「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後取消選取「&lt;/f5&gt;&lt;f8&gt;允許跨頁和跨欄分割表格&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131533Z" creationid="zerng07" creationdate="20180210T130542Z">
+        <seg>&lt;f0&gt;在插入之前，取消選項中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後取消選取「&lt;/f5&gt;&lt;f8&gt;允許跨頁和跨欄分割表格&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23808,8 +23808,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Table &gt; Insert Table,&lt;/f0&gt; and make a table with &lt;f1&gt;these characteristics: &lt;/f1&gt;1 column and 2 rows &lt;f2&gt;(or 1 column and 1 row if you are not using captions).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T125816Z" creationid="zerng07" creationdate="20180210T125816Z">
-        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，然後依此設定：&lt;/f1&gt;1欄，2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131301Z" creationid="zerng07" creationdate="20180210T125816Z">
+        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，然後依此在「更多選項」中設定：&lt;/f1&gt;1欄，2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
