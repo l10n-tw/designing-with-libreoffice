@@ -13351,6 +13351,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either name the table so you can find it in the Navigator, or else accept the default name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034507Z" creationid="Jeff Huang" creationdate="20180210T034507Z">
+        <seg>請為表格命名以便你可以在助手中找到它，或是使用預設名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either print out a copy or use &lt;f0&gt;File &gt; Print Preview.&lt;/f0&gt; &lt;f1&gt;Better still, do both.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075343Z" creationid="Jeff Huang" creationdate="20171212T034216Z">
@@ -26363,6 +26371,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default name is &lt;f0&gt;Table&lt;/f0&gt;, followed by a number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034550Z" creationid="Jeff Huang" creationdate="20180210T034550Z">
+        <seg>預設的名稱即為&lt;f0&gt;表格&lt;/f0&gt;，後面再加編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default page designs are either for a specific dimension, such as &lt;f0&gt;Envelope&lt;/f0&gt; and &lt;f1&gt;Landscape,&lt;/f1&gt; or for a specific purpose, such as &lt;f2&gt;Endnote&lt;/f2&gt; or &lt;f3&gt;Index.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T103936Z" creationid="Jeff Huang" creationdate="20180124T132916Z">
@@ -27105,6 +27121,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094540Z" creationid="zerng07" creationdate="20180125T094540Z">
         <seg>接下來兩章則探討你偶爾遇到的特殊案例，和或許想用的進階設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number indicates &lt;f1&gt;the &lt;/f1&gt;order in which the table was added, not the table's order from the start of the file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034723Z" creationid="Jeff Huang" creationdate="20180210T034723Z">
+        <seg>數字代表了表格加入的順序，而非表格從檔案開始算起的編號。</seg>
       </tuv>
     </tu>
     <tu>
