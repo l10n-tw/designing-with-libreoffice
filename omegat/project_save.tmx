@@ -12294,6 +12294,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a new line, and &lt;f0&gt;click&lt;/f0&gt; &lt;f1&gt;Insert &gt; Image&lt;/f1&gt; to add the image.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114750Z" creationid="zerng07" creationdate="20180210T114750Z">
+        <seg>建立新一行空行，然後&lt;f0&gt;點按&lt;/f0&gt;「&lt;f1&gt;插入 &gt; 影像&lt;/f1&gt;」加入影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a paragraph style to link the list style to.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T065453Z" creationid="Jeff Huang" creationdate="20180208T065453Z">
@@ -15692,8 +15700,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Haugland’s workaround works mostly with the &lt;f0&gt;Type&lt;/f0&gt; tab in the &lt;f1&gt;Image&lt;/f1&gt; dialog &lt;f2&gt;window&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114452Z" creationid="zerng07" creationdate="20180210T114452Z">
-        <seg>在霍格蘭的解決方案中，主要是作用在「&lt;f1&gt;影像&lt;/f1&gt;」對話&lt;f2&gt;視窗&lt;/f2&gt;中的「&lt;f0&gt;類型&lt;/f0&gt;」標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114508Z" creationid="zerng07" creationdate="20180210T114452Z">
+        <seg>依據霍格蘭的解決方案，主要作用在「&lt;f1&gt;影像&lt;/f1&gt;」對話&lt;f2&gt;視窗&lt;/f2&gt;中的「&lt;f0&gt;類型&lt;/f0&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15782,6 +15790,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072059Z" creationid="Jeff Huang" creationdate="20180115T072059Z">
         <seg>Helvetica Narrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here is Haugland’s solution, &lt;f0&gt;reworded and slightly reworked&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114635Z" creationid="zerng07" creationdate="20180210T114635Z">
+        <seg>以下為霍氏解決方案步驟，&lt;f0&gt;有經過稍微改寫&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
