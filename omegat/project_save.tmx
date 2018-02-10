@@ -4264,8 +4264,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Place the cursor in the top row of the table and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to add the image.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133718Z" creationid="zerng07" creationdate="20180210T133718Z">
-        <seg>&lt;f0&gt;將游標放置在表格的上方列，然後點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」加入影像。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134501Z" creationid="zerng07" creationdate="20180210T133718Z">
+        <seg>&lt;f0&gt;將游標放置在表格的第一列，然後點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」加入影像。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26713,8 +26713,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The bottom of the image is now aligned with the bottom side of the top row.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134255Z" creationid="zerng07" creationdate="20180210T134255Z">
-        <seg>影像的底部目前會和第一列的底部對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134359Z" creationid="zerng07" creationdate="20180210T134255Z">
+        <seg>影像的底部現在就和第一列的底部對齊了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30902,6 +30902,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T124311Z" creationid="Jeff Huang" creationdate="20180108T124311Z">
         <seg>使用文字動畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Caption&lt;/f0&gt; paragraph style, add the caption in the second row.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134449Z" creationid="zerng07" creationdate="20180210T134449Z">
+        <seg>在第二列加入使用「&lt;f0&gt;圖表標示&lt;/f0&gt;」段落樣式的圖表標示說明。</seg>
       </tuv>
     </tu>
     <tu>
