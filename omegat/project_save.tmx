@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;This choice lets Writer treat the image the same way it would a letter or number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115514Z" creationid="zerng07" creationdate="20180210T115514Z">
+        <seg>&lt;/f1&gt;」。這個選擇能讓Writer以文字的方式對待這張影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;This field &lt;f2&gt;should&lt;/f2&gt; be a multiple of the &lt;f3&gt;line height&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125216Z" creationid="Jeff Huang" creationdate="20180127T024040Z">
@@ -5847,6 +5855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the right-click menu, s&lt;/f0&gt;et the anchor to &lt;f1&gt;As Character.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115412Z" creationid="zerng07" creationdate="20180210T115412Z">
+        <seg>&lt;f0&gt;使用右鍵選單，&lt;/f0&gt;將錨定設定為「&lt;f1&gt;作為字元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; Fill Format Mode</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110734Z" creationid="zerng07" creationdate="20171226T110734Z">
@@ -7486,6 +7502,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133701Z" creationid="Jeff Huang" creationdate="20180202T133701Z">
         <seg>&lt;f2&gt;你可以在稍後到&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;已隱藏&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來檢視並將它們取消隱藏，不過這是在你確定還是需要它們的情況下。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;You will probably want to select the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Keep ratio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; check box, to avoid distorting the image.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115330Z" creationid="zerng07" creationdate="20180210T115330Z">
+        <seg>&lt;f2&gt;你可能會希望選取「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;維持比例&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」勾選框以避免影像扭曲變形。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23959,6 +23983,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the horizontal &lt;f0&gt;and vertical &lt;/f0&gt;alignment &lt;f1&gt;if necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115535Z" creationid="zerng07" creationdate="20180210T115535Z">
+        <seg>如果有需要，設定&lt;f0&gt;水平或垂直&lt;/f0&gt;對齊。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the objects to which you automatically want to add a caption from &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; AutoCaption.&lt;/f1&gt;&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094815Z" creationid="zerng07" creationdate="20180210T094815Z">
@@ -28062,6 +28094,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T165913Z" creationid="Franklin Weng" creationdate="20171231T124431Z">
         <seg>例如在300-500，或700-900之間的字重名稱並沒有統一。還有理論上字重可以是 350，&lt;f0&gt;但這個數字除了和相同字族間的其他字型有關係之外，實際上它自己又能代表什麼意義呢？&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The vertical alignment rarely needs adjustment, while the horizontal alignment can generally remain on the left side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115700Z" creationid="zerng07" creationdate="20180210T115700Z">
+        <seg>垂直對齊幾乎不需要什麼調整，而水平對齊一般則可以維持在左側。</seg>
       </tuv>
     </tu>
     <tu>
