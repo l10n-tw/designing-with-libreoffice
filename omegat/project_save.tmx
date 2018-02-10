@@ -16669,8 +16669,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, two work-arounds are known for Writer – but not, unfortunately, for other LibreOffice applications: the Haugland work-around and the table work-around.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113447Z" creationid="zerng07" creationdate="20180210T113447Z">
-        <seg>不過，有兩種適合Writer的變通方案——但可惜不適合LibreOffice的其他應用程式：Haugland變通方案，以及表格變通方案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113821Z" creationid="zerng07" creationdate="20180210T113447Z">
+        <seg>不過，有兩種適合Writer的變通方案——但可惜不適合LibreOffice的其他應用程式：霍格蘭 (Haugland) 變通方案，以及表格變通方案。霍格蘭</seg>
       </tuv>
     </tu>
     <tu>
@@ -18157,6 +18157,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T162911Z" creationid="Franklin Weng" creationdate="20180107T130124Z">
         <seg>早期版本預設開啟簡報精靈，協助你設計簡報的內容架構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In 2009, Solveig Haugland, one of the first &lt;f0&gt;people &lt;/f0&gt;to write about OpenOffice.org, devised a solution for making images &lt;t1/&gt;“reasonably manageable.” &lt;f2&gt;H&lt;/f2&gt;er solution is still the most reliable anyone has found.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114259Z" creationid="zerng07" creationdate="20180210T113842Z">
+        <seg>在2009年，蘇維格・霍格蘭 (Solveig Haugland)，最早開始寫OpenOffice.org相關書籍的作者之一，提出了一種能讓圖片「可合理管理」的解決方案。她的方案是目前為止已知最可靠的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24474,8 +24482,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since the table work-around limits some options, use it only after the Haugland workaround fails.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113541Z" creationid="zerng07" creationdate="20180210T113541Z">
-        <seg>由於表格變通方案會限制你能做的選擇，請只在Haugland變通方案失敗時才嘗試它。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113828Z" creationid="zerng07" creationdate="20180210T113541Z">
+        <seg>由於表格變通方案會限制你能做的選擇，請只在霍格蘭變通方案失敗時才嘗試它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30594,6 +30602,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T144809Z" creationid="Franklin Weng" creationdate="20180207T144809Z">
         <seg>使用「&lt;f0&gt;小計&lt;/f0&gt;」視窗，你可以選擇資料陣列，然後選擇要套用的統計函式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Haugland workaround</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113835Z" creationid="zerng07" creationdate="20180210T113835Z">
+        <seg>使用霍格蘭變通方案</seg>
       </tuv>
     </tu>
     <tu>
