@@ -6792,6 +6792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Vertical headings may save space, but they reduce readability, which is the main point of having a table.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033030Z" creationid="Jeff Huang" creationdate="20180210T033030Z">
+        <seg>&lt;f1&gt;垂直標題可以節省空間，但其會降低可讀性，而可讀性正是建立表格的主要原因。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;When &lt;/f1&gt;they do, their &lt;f2&gt;functions&lt;/f2&gt; are &lt;f3&gt;apt&lt;/f3&gt; to be simple &lt;f4&gt;ones&lt;/f4&gt; from the Mathematical &lt;f5&gt;and Statistical categories, &lt;/f5&gt;such as &lt;f6&gt;SUM&lt;/f6&gt; &lt;f7&gt;or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;AVERAGE.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121943Z" creationid="Franklin Weng" creationdate="20180206T121943Z">
@@ -15585,6 +15593,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Headings should be horizontal or &lt;f0&gt;at the most slightly angled, but&lt;/f0&gt; never vertical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T032805Z" creationid="Jeff Huang" creationdate="20180210T032805Z">
+        <seg>標題應該是水平或&lt;f0&gt;稍微有一點角度的，但&lt;/f0&gt;千萬不要是垂直的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Headings, which are rarely more than a few words long &lt;f5&gt;and almost never more than two lines&lt;/f5&gt;, generally do not need to be hyphenated at all.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041032Z" creationid="zerng07" creationdate="20180125T040858Z">
@@ -17240,6 +17256,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T125528Z" creationid="Jeff Huang" creationdate="20180127T024638Z">
         <seg>如果你要讓頁首或頁尾反覆出現某個影像，則&lt;f3&gt;高度&lt;/f3&gt;必須至少是影像的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are working in a Western European language like English, these rules should ensure that your tables serve their function properly:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T032656Z" creationid="Jeff Huang" creationdate="20180210T032656Z">
+        <seg>如果你使用的是西歐語言（如英文），那麼這些規則應該可以確保你的表格能正確地發揮其功能：</seg>
       </tuv>
     </tu>
     <tu>
