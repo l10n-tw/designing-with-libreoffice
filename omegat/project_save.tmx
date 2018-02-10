@@ -2150,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Consider saving the table as an &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AutoFormat.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T140141Z" creationid="Jeff Huang" creationdate="20180210T140141Z">
+        <seg>&lt;f0&gt;請考慮將表格儲存為&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;自動格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consider whether to select&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Apply border &lt;/f3&gt;and&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;S&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;hadow&lt;/f7&gt; to the caption &lt;f8&gt;in the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Options&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; sub-window&lt;/f11&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053554Z" creationid="zerng07" creationdate="20180210T053554Z">
@@ -23618,6 +23626,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034817Z" creationid="Jeff Huang" creationdate="20171213T025421Z">
         <seg>即便你的樣式並未設定使用斷字，只要執行了斷字工具依然會加入斷字的連字號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ee “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Creating AutoFormats&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;36&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T140234Z" creationid="Jeff Huang" creationdate="20180210T140234Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;請見「&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;建立自動格式&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;」，第&lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;36&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;頁。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
