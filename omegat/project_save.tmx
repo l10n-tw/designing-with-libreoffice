@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Designing&lt;/f0&gt; tables</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T032436Z" creationid="Jeff Huang" creationdate="20180210T032436Z">
+        <seg>&lt;f0&gt;設計&lt;/f0&gt;表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Diagrams and layout have fewer limits to their design than a page of text or even a spreadsheet.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T033240Z" creationid="Jeff Huang" creationdate="20180116T032215Z">
@@ -11832,6 +11840,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T095251Z" creationid="Jeff Huang" creationdate="20180115T033121Z">
         <seg>在圖表上連點兩下使其邊框被灰色線條包圍，然後開啟右鍵選單選取「&lt;f2&gt;圖表類型&lt;/f2&gt;」，並選擇要的圖表設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cluttered or over-designed tables work against that goal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T032552Z" creationid="Jeff Huang" creationdate="20180210T032552Z">
+        <seg>凌亂或過度設計的表格就違背了這個目標。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26615,6 +26631,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T095559Z" creationid="zerng07" creationdate="20180121T095559Z">
         <seg>目標是要盡你所能&lt;f0&gt;發展&lt;/f0&gt;出最好的&lt;f1&gt;設計&lt;/f1&gt;來，不要死守無意義的一致性不改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The goal of tables is to present information efficiently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T032515Z" creationid="Jeff Huang" creationdate="20180210T032515Z">
+        <seg>表格的目標是有效地呈現資訊。</seg>
       </tuv>
     </tu>
     <tu>
