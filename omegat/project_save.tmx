@@ -18610,6 +18610,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In particular, leave space at the bottom of table cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033941Z" creationid="Jeff Huang" creationdate="20180210T033941Z">
+        <seg>特別是在儲存格的底部留下空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In particular, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Effects&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; field includes the option for &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Small Capitals&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, which are used to make two or more upper case letters in a row more readable.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T121022Z" creationid="Franklin Weng" creationdate="20180101T121155Z">
@@ -23456,6 +23464,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T114853Z" creationid="zerng07" creationdate="20171226T114853Z">
         <seg>選取一個樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select all the cells in the table, and select &lt;f0&gt;Table &gt; Spacing &gt; Below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034133Z" creationid="Jeff Huang" creationdate="20180210T034133Z">
+        <seg>選取表格中的所有儲存格，然後再選取&lt;f0&gt;「表格 &gt; 間距 &gt; 向下」。</seg>
       </tuv>
     </tu>
     <tu>
