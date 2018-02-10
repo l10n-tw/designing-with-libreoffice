@@ -2036,6 +2036,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt; from the right-click &lt;f3&gt;menu and go to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Type&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114912Z" creationid="zerng07" creationdate="20180210T114912Z">
+        <seg>從右鍵選單中&lt;f0&gt;點按&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;屬性&lt;/f2&gt;&lt;/f1&gt;」 &lt;f3&gt;，並前往「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;More&lt;/f1&gt; button on a &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab to reach the &lt;f4&gt;Border/Background&lt;/f4&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132548Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
@@ -17241,6 +17249,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T121346Z" creationid="zerng07" creationdate="20180206T121346Z">
         <seg>如果外框離任何邊距的距離小於2公分，則文字就不會環繞到這一邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the frame is visible, you can select&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Frame &gt; Type&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; instead.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115133Z" creationid="zerng07" creationdate="20180210T115133Z">
+        <seg>如果可以看到外框的話，你可以改為對外框選取「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;屬性 &gt; 類型&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
