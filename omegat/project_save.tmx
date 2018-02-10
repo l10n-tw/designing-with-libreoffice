@@ -23863,6 +23863,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the objects to which you automatically want to add a caption from &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; AutoCaption.&lt;/f1&gt;&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094815Z" creationid="zerng07" creationdate="20180210T094815Z">
+        <seg>前往「&lt;f0&gt;&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 自動圖表標示&lt;/f1&gt;&lt;/f0&gt;」，設定你想要自動加上圖表標示的物件類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the slide design as needed for individual slides.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T162629Z" creationid="Franklin Weng" creationdate="20180107T125717Z">
@@ -29477,8 +29485,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To set up Autocaptions, &lt;f0&gt;select the types of objects for them, then follow the directions above for adding a caption.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094533Z" creationid="zerng07" creationdate="20180210T094533Z">
-        <seg>若要設置自動圖表標示，&lt;f0&gt;先選取目標物件的類型，接著遵照上面的指示加入圖表標示。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094950Z" creationid="zerng07" creationdate="20180210T094533Z">
+        <seg>若要設置自動圖表標示，&lt;f0&gt;選定目標的物件類型後，接著遵照上面的設定指示加入圖表標示。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32254,6 +32262,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T095704Z" creationid="zerng07" creationdate="20180121T095704Z">
         <seg>&lt;f0&gt;設計時&lt;/f0&gt;盡可能運用Writer的預先定義樣式可以節省時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select multiple Autocaptions to format at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094559Z" creationid="zerng07" creationdate="20180210T094559Z">
+        <seg>您可以同時間選取多種自動圖表標示的格式。</seg>
       </tuv>
     </tu>
     <tu>
