@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;Two line &lt;f1&gt;heights&lt;/f1&gt; will often be ideal.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034211Z" creationid="Jeff Huang" creationdate="20180210T034211Z">
+        <seg>&lt;/f0&gt;兩倍行&lt;f1&gt;高&lt;/f1&gt;會是比較理想的高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;When you move an object that has connectors, the connectors are modified to keep them attached to the objects at the other end.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060755Z" creationid="Jeff Huang" creationdate="20171229T014117Z">
@@ -8801,6 +8809,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124549Z" creationid="zerng07" creationdate="20180209T124549Z">
         <seg>加入&lt;f0&gt;圖表標示&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding a table</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034218Z" creationid="Jeff Huang" creationdate="20180210T034218Z">
+        <seg>新增表格</seg>
       </tuv>
     </tu>
     <tu>
@@ -23425,6 +23441,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Table &gt; Insert Table&lt;/f0&gt; or &lt;f1&gt;p&lt;/f1&gt;ress &lt;f2&gt;Ctrl+ F12.&lt;/f2&gt; The &lt;f3&gt;Insert Table&lt;/f3&gt; &lt;f4&gt;dialog &lt;/f4&gt;window opens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034347Z" creationid="Jeff Huang" creationdate="20180210T034347Z">
+        <seg>選取&lt;f0&gt;「表格 &gt; 插入表格」&lt;/f0&gt;或按下&lt;f2&gt;Ctrl+ F12。&lt;/f2&gt;然後就會開啟&lt;f3&gt;插入表格&lt;/f3&gt;&lt;f4&gt;對話框&lt;/f4&gt;視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現狀改寫</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;View &gt; Master &gt; Slide Master.&lt;/f0&gt; The Slide Master&lt;f1&gt; &lt;/f1&gt;view opens.</seg>
@@ -29006,6 +29030,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T120045Z" creationid="Jeff Huang" creationdate="20180125T131926Z">
         <seg>製作結合A4/Letter大小的範本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a new table:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034227Z" creationid="Jeff Huang" creationdate="20180210T034227Z">
+        <seg>建立新表格：</seg>
       </tuv>
     </tu>
     <tu>
