@@ -4875,6 +4875,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;boundaries of the table are not the same as its borders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130617Z" creationid="zerng07" creationdate="20180210T130617Z">
+        <seg>表格的邊界和邊框是不一樣的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he Drawing tool bar has icons in Draw and Impress that it does not have in Writer and Calc.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T032037Z" creationid="Jeff Huang" creationdate="20171220T075344Z">
@@ -18946,6 +18954,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T064415Z" creationid="Jeff Huang" creationdate="20180116T033311Z">
         <seg>在某些情況下，一次運用一條以上的原則可以加強你的設計，&lt;f0&gt;但在其他情況下卻可能彼此間互相抵觸&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some versions of LibreOffice, or with some settings, the boundaries&lt;/f1&gt; &lt;f2&gt;may&lt;/f2&gt; be visible in the editing window&lt;f3&gt;,&lt;/f3&gt; but &lt;f4&gt;they &lt;/f4&gt;will not &lt;f5&gt;print.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T130711Z" creationid="zerng07" creationdate="20180210T130711Z">
+        <seg>在某些版本的LibreOffice中，或是在某些設定下，編輯視窗中可以看得見邊界&lt;/f1&gt;&lt;f2&gt;可能&lt;/f2&gt; be visible in the editing window&lt;f3&gt;,&lt;/f3&gt; but &lt;f4&gt;they &lt;/f4&gt;will not &lt;f5&gt;print.</seg>
       </tuv>
     </tu>
     <tu>
