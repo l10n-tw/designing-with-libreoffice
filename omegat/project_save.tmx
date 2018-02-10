@@ -17285,6 +17285,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>可是單純加影像不是沒有外框嗎？這是什麼意思…</note>
       <tuv lang="EN">
         <seg>If the frame is visible, you can select&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Frame &gt; Type&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; instead.&lt;/f9&gt;</seg>
       </tuv>
@@ -17554,6 +17555,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074308Z" creationid="zerng07" creationdate="20171225T073847Z">
         <seg>如果你在&lt;f1&gt;樣式和格式&lt;/f1&gt;視窗中更改了樣式類型，則反白標明的樣式一般也會跟著改變。&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you continue to have problems with frames &lt;f0&gt;and objects staying where you placed them&lt;/f0&gt;, try replacing them with tables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123006Z" creationid="zerng07" creationdate="20180210T123006Z">
+        <seg>如果你持續遇到外框和&lt;f0&gt;物件無法待在你指定地方的問題&lt;/f0&gt;，嘗試用表格的方式取代原本的做法。</seg>
       </tuv>
     </tu>
     <tu>
