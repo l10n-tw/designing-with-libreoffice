@@ -12383,6 +12383,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an&lt;f0&gt; Image Spacer&lt;/f0&gt; &lt;f1&gt;p&lt;/f1&gt;aragraph style with&lt;f2&gt; Indents &amp; Spacing &gt; Line spacing&lt;/f2&gt; set to &lt;f3&gt;Fixed, &lt;/f3&gt;and a line spacing of &lt;f4&gt;0 &lt;/f4&gt;points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123739Z" creationid="zerng07" creationdate="20180210T123739Z">
+        <seg>建立一個「&lt;f0&gt;影像間隔&lt;/f0&gt;」段落樣式，將其「&lt;f2&gt;縮排和間距 &gt; 行距&lt;/f2&gt;」設為「&lt;f3&gt;固定&lt;/f3&gt;」，以及行距為&lt;f4&gt;0 &lt;/f4&gt;點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create and register the replacement &lt;f0&gt;template&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112601Z" creationid="Franklin Weng" creationdate="20171223T042734Z">
@@ -29769,6 +29777,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064650Z" creationid="Jeff Huang" creationdate="20180208T064650Z">
         <seg>要為項目符號使用重覆的圖形：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the table workaround:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123617Z" creationid="zerng07" creationdate="20180210T123617Z">
+        <seg>使用表格變通方案的步驟：</seg>
       </tuv>
     </tu>
     <tu>
