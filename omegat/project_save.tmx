@@ -1804,6 +1804,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Border:&lt;/f0&gt; Adds a &lt;f1&gt;default &lt;/f1&gt;border around all cells and table edges consisting of a solid line, black in color and .05 points thick.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T135718Z" creationid="Jeff Huang" creationdate="20180210T135718Z">
+        <seg>&lt;f0&gt;邊框：&lt;/f0&gt;在所有儲存格週邊與表格邊緣加入&lt;f1&gt;預設&lt;/f1&gt;邊框，其由黑色的0.05點厚實線組成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Both &lt;/f0&gt;LibreOffice &lt;f1&gt;and Apache OpenOffice &lt;/f1&gt;support Post&lt;f2&gt;S&lt;/f2&gt;cript &lt;f3&gt;(.pfb)&lt;/f3&gt;, TrueType &lt;f4&gt;(.ttf)&lt;/f4&gt;, &lt;f5&gt;and&lt;/f5&gt; OpenType &lt;f6&gt;(.otf)&lt;/f6&gt; font &lt;f7&gt;file formats.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T112742Z" creationid="Franklin Weng" creationdate="20171224T075458Z">
@@ -2363,6 +2371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070637Z" creationid="zerng07" creationdate="20180206T070637Z">
         <seg>&lt;f0&gt;文件&lt;/f0&gt;大小比較小，&lt;f1&gt;沒有內含影像。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Don't split &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;table &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;over &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;pages:&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Prevents tables from printing on two or more pages unless the table is so long that is impossible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T135256Z" creationid="Jeff Huang" creationdate="20180210T135256Z">
+        <seg>&lt;f0&gt;不要讓&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;跨&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;頁：&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;除非表格過長，否則不要讓表格印到兩頁或更多頁上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7559,6 +7575,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081850Z" creationid="Franklin Weng" creationdate="20171231T133321Z">
         <seg>&lt;f8&gt;當你開始將內容加入範本時&lt;/f8&gt;，你隨時都可以把「定量單位」換回公分或英吋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;You can adjust this setting on a table’s &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Border&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T135840Z" creationid="Jeff Huang" creationdate="20180210T135840Z">
+        <seg>&lt;f2&gt;你可以在&lt;/f2&gt;表格的&lt;f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁中調整此設定。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21610,6 +21634,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note the options you choose in the first table and, so far as possible, use them in every other one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T140056Z" creationid="Jeff Huang" creationdate="20180210T140056Z">
+        <seg>請注意你在第一個表格中選擇的選項，並盡可能在其他表格中使用相同的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T074605Z" creationid="Jeff Huang" creationdate="20180104T071824Z">
@@ -22296,6 +22328,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T180055Z" creationid="Franklin Weng" creationdate="20171213T123131Z">
         <seg>OpenOffice的範本管理員&lt;f0&gt;和LibreOffice 3.3之前版本提供的範本管理員，在使用上功能都相同。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Optionally, click the &lt;f0&gt;AutoFormat&lt;/f0&gt; button to choose an already-defined format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T140016Z" creationid="Jeff Huang" creationdate="20180210T140016Z">
+        <seg>或是點按&lt;f0&gt;自動格式&lt;/f0&gt;按鈕來選擇已定義好的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29314,6 +29354,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120722Z" creationid="zerng07" creationdate="20180206T120642Z">
         <seg>這個設定特別適合靠在右側邊距上的外框使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting keeps information together, but can also create &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;problems with page breaks unless tables are always given their own page.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T135514Z" creationid="Jeff Huang" creationdate="20180210T135514Z">
+        <seg>此設定讓資訊放在一起，但也可能導致&lt;/f6&gt;&lt;f8&gt;分頁符號出現問題，除非表格每次都能有單獨有自己的頁面。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
