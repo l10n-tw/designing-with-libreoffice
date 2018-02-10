@@ -20325,6 +20325,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like most measurements, these should usually be multiples of the line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133000Z" creationid="zerng07" creationdate="20180210T133000Z">
+        <seg>如同其他測量數據的規則一樣，這些數值一般應該採用行距的倍數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like other LibreOffice applications, Draw &lt;f0&gt;includes&lt;/f0&gt; pre-defined styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T044926Z" creationid="Jeff Huang" creationdate="20171220T081832Z">
