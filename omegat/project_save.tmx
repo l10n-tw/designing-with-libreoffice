@@ -1910,8 +1910,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Caption paragraphs are formatted using the &lt;/f0&gt;&lt;f1&gt;Caption&lt;/f1&gt; paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T085937Z" creationid="zerng07" creationdate="20180210T085937Z">
-        <seg>&lt;f0&gt;圖表標示的文字段落使用「&lt;/f0&gt;&lt;f1&gt;圖表標示&lt;/f1&gt;」段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090026Z" creationid="zerng07" creationdate="20180210T085937Z">
+        <seg>&lt;f0&gt;圖表標示的文字段落會使用「&lt;/f0&gt;&lt;f1&gt;圖表標示&lt;/f1&gt;」段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12121,6 +12121,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T151808Z" creationid="Franklin Weng" creationdate="20180120T125927Z">
         <seg>演講的時候，盡量讓你的身體保持在螢幕的左邊（從聽眾的視角來看）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contrary to common usage, &lt;f2&gt;t&lt;/f2&gt;he &lt;f3&gt;&lt;f4&gt;Caption&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; paragraph &lt;/f5&gt;style defaults to italic, but a regular weight is &lt;f6&gt;more common.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090408Z" creationid="zerng07" creationdate="20180210T090408Z">
+        <seg>和常見用法相反，在LibreOffice中「&lt;f3&gt;&lt;f4&gt;圖表標示&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」段落&lt;/f5&gt;樣式預設為義大利體（義式斜體），但在西方字體排印學中反而&lt;f6&gt;比較常用&lt;/f6&gt;一般字重。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32035,8 +32043,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can edit the caption directly, or change its formatting by selecting &lt;f0&gt;Caption&lt;/f0&gt; again from the right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T085813Z" creationid="zerng07" creationdate="20180210T085813Z">
-        <seg>你可以直接編輯圖表標示，或是從右鍵選單中再次選取「 &lt;f0&gt;插入圖表標示&lt;/f0&gt;」改變其格式設定（經試驗，點下去又會加新的圖表標示…所以要修改）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090013Z" creationid="zerng07" creationdate="20180210T085813Z">
+        <seg>你可以直接編輯圖表標示的文字內容&lt;del&gt;，或是從右鍵選單中再次選取「 &lt;f0&gt;插入圖表標示&lt;/f0&gt;」改變其格式設定（經試驗，點下去又會加新的圖表標示…所以要修改）&lt;/del&gt;。</seg>
       </tuv>
     </tu>
     <tu>
