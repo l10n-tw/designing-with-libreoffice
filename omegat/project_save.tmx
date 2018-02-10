@@ -22148,6 +22148,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place sample tables of the appropriate widths in &lt;f0&gt;&lt;f1&gt;Table &gt; AutoFormat (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;see “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Using AutoFormats&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;,” page &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;35&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;).&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T030306Z" creationid="Jeff Huang" creationdate="20180210T030306Z">
+        <seg>放置適當寬度的範例表格於&lt;f0&gt;&lt;f1&gt;「表格 &gt; 自動格式」（&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;請見「&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;使用自動格式&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;」，第&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;35&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;頁）。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor anywhere in the header paragraph.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112549Z" creationid="zerng07" creationdate="20171219T112549Z">
@@ -30331,6 +30339,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021340Z" creationid="Jeff Huang" creationdate="20180205T021340Z">
         <seg>請注意，這個變動不會將編號延展到左邊距。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watch, too, for extra space added by paragraphs above and below the table.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T025642Z" creationid="Jeff Huang" creationdate="20180210T025642Z">
+        <seg>請注意表格上下的額外空間。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
