@@ -6219,6 +6219,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f12&gt;Avoid using them if you cannot explain what purpose they serve.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053631Z" creationid="zerng07" creationdate="20180210T053631Z">
+        <seg>&lt;f12&gt;如果你無法解釋出你之所以這麼做的原因，那麼請避免使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;(Perhaps it is meant to add a shadow?)&lt;/f1&gt; Changing the font size or the space between char&lt;f2&gt;a&lt;/f2&gt;cters worked slightly, but not enough.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135943Z" creationid="Franklin Weng" creationdate="20180106T043342Z">
@@ -21481,6 +21489,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113303Z" creationid="zerng07" creationdate="20171219T113258Z">
         <seg>通常，你也不再需要切換裡面的顯示內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, you can do without either one.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053704Z" creationid="zerng07" creationdate="20180210T053704Z">
+        <seg>一般而言沒有必要。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
