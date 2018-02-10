@@ -7449,6 +7449,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;A caption below an image is more common today, but a caption above may be useful if you need to explain something before readers look at the image.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T084917Z" creationid="zerng07" creationdate="20180210T084917Z">
+        <seg>&lt;f3&gt;今日較常見的做法是把圖表標示放在影像的下方，但如果你需要在讀者看到影像前先解釋的話，放在影像上方也很有用處。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Having readers disagree with &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;the opinions you express can be a natural consequence of writing, but annoying readers with your design is simply a poor tactic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T080251Z" creationid="Jeff Huang" creationdate="20180108T135735Z">
@@ -32005,6 +32013,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105623Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
         <seg>你可以從&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中，選取「進入群組」來編輯群組中的個別形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit the caption directly, or change its formatting by selecting &lt;f0&gt;Caption&lt;/f0&gt; again from the right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T085813Z" creationid="zerng07" creationdate="20180210T085813Z">
+        <seg>你可以直接編輯圖表標示，或是從右鍵選單中再次選取「 &lt;f0&gt;插入圖表標示&lt;/f0&gt;」改變其格式設定（經試驗，點下去又會加新的圖表標示…所以要修改）。</seg>
       </tuv>
     </tu>
     <tu>
