@@ -5854,11 +5854,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>這是為了賣弄文學，所以還要加個場景地點。但使用者明明就已經進入右鍵選單選擇「屬性」後的視窗中了，故多此一舉。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using the right-click menu, s&lt;/f0&gt;et the anchor to &lt;f1&gt;As Character.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115412Z" creationid="zerng07" creationdate="20180210T115412Z">
-        <seg>&lt;f0&gt;使用右鍵選單，&lt;/f0&gt;將錨定設定為「&lt;f1&gt;作為字元</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115812Z" creationid="zerng07" creationdate="20180210T115412Z">
+        <seg>&lt;f0&gt;繼續&lt;/f0&gt;將錨定設定為「&lt;f1&gt;作為字元</seg>
       </tuv>
     </tu>
     <tu>
@@ -23985,8 +23986,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the horizontal &lt;f0&gt;and vertical &lt;/f0&gt;alignment &lt;f1&gt;if necessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115535Z" creationid="zerng07" creationdate="20180210T115535Z">
-        <seg>如果有需要，設定&lt;f0&gt;水平或垂直&lt;/f0&gt;對齊。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115847Z" creationid="zerng07" creationdate="20180210T115535Z">
+        <seg>視需要，設定&lt;f0&gt;橫向或縱向&lt;/f0&gt;對齊。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28100,8 +28101,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The vertical alignment rarely needs adjustment, while the horizontal alignment can generally remain on the left side.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115700Z" creationid="zerng07" creationdate="20180210T115700Z">
-        <seg>垂直對齊幾乎不需要什麼調整，而水平對齊一般則可以維持在左側。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115903Z" creationid="zerng07" creationdate="20180210T115700Z">
+        <seg>縱向對齊幾乎不大需要什麼調整，而橫向對齊一般則可以維持在左側。</seg>
       </tuv>
     </tu>
     <tu>
