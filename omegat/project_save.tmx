@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;f2&gt;The &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Pivot Table Layout&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; window opens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134745Z" creationid="Franklin Weng" creationdate="20180210T134708Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;會出現&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;樞紐分析表版面配置&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;的視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;All measurements are in points&lt;f2&gt; and can be used for setting other sizes and spacing&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150626Z" creationid="Franklin Weng" creationdate="20180106T023349Z">
@@ -2069,6 +2077,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; &lt;f1&gt;Data &gt; Pivot Table &gt; Create.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134344Z" creationid="Franklin Weng" creationdate="20180210T134344Z">
+        <seg>&lt;f0&gt;點按&lt;/f0&gt;「&lt;f1&gt;資料 &gt; 樞紐分析表 &gt; 建立」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;More&lt;/f1&gt; button on a &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab to reach the &lt;f4&gt;Border/Background&lt;/f4&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132548Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
@@ -2106,6 +2122,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120627Z" creationid="zerng07" creationdate="20171226T105442Z">
         <seg>&lt;f0&gt;點按&lt;/f0&gt;清單最底部的「&lt;f1&gt;&lt;f2&gt;更多樣式...&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;連結，會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;樣式和格式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗或側邊欄。至於從各樣式自身的下拉選單中選取&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;編輯樣式&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;，則會開啟該樣式的對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Column Fields: &lt;/f0&gt;&lt;f1&gt;Creates columns from an available field.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135243Z" creationid="Franklin Weng" creationdate="20180210T135209Z">
+        <seg>&lt;f0&gt;欄的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位中的項目建立一欄。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2299,6 +2323,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142846Z" creationid="Franklin Weng" creationdate="20180209T142846Z">
         <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;」&lt;f1&gt;是線上說明的一種型式。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Data Fields: &lt;/f0&gt;&lt;f1&gt;Information to manipulate in the pivot table.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135317Z" creationid="Franklin Weng" creationdate="20180210T135317Z">
+        <seg>&lt;f0&gt;資料欄位：&lt;/f0&gt;&lt;f1&gt;樞紐分析表中的操作資訊。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page Fields: &lt;/f0&gt;&lt;f1&gt;Creates a drop-down list to filter what the Pivot table displays.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135147Z" creationid="Franklin Weng" creationdate="20180210T135147Z">
+        <seg>&lt;f0&gt;頁面欄位：&lt;/f0&gt;&lt;f1&gt;會建立一個下拉式選單，來篩選樞紐分析表顯示的項目。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Page c&lt;/f0&gt;olor &lt;f1&gt;can be affected by many variables, including the designer’s eye, the paper, and the toner left in the printer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151053Z" creationid="Franklin Weng" creationdate="20180106T023713Z">
@@ -4462,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Row Fields: &lt;/f0&gt;&lt;f1&gt;Creates rows from an available field.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135254Z" creationid="Franklin Weng" creationdate="20180210T135225Z">
+        <seg>&lt;f0&gt;列的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位中的項目建立一列。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;elect &lt;f1&gt;Keep ratio,&lt;/f1&gt; &lt;f2&gt;then add either the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Width&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; or &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Height.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; The other dimension will change automatically to remain proportional, saving you calculations.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084439Z" creationid="zerng07" creationdate="20180206T084439Z">
@@ -4635,8 +4683,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select from the main menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data &gt; Pivot Table &gt; Create,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; then select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Data Source registered in LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Source&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; dialog, then make a selection from the Select Data Source dialog.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144945Z" creationid="Franklin Weng" creationdate="20180209T144945Z">
-        <seg>&lt;f0&gt;Select from the main menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data &gt; Pivot Table &gt; Create,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; then select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Data Source registered in LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Source&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; dialog, then make a selection from the Select Data Source dialog.&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134318Z" creationid="Franklin Weng" creationdate="20180209T144945Z">
+        <seg>&lt;f0&gt;從主選單中&lt;/f0&gt;選擇「&lt;f1&gt;&lt;f2&gt;資料 &gt; 樞紐分析表 &gt; 建立&lt;/f2&gt;&lt;/f1&gt;」，&lt;f3&gt;&lt;/f3&gt;然後從「&lt;f4&gt;&lt;f5&gt;選取來源&lt;/f5&gt;&lt;/f4&gt;」視窗中選擇「&lt;f6&gt;LibreOffice 中已註冊的資料來源&lt;/f6&gt;」，&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;然後選擇要建樞紐分析表的資料來源。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6959,6 +7007,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151224Z" creationid="Franklin Weng" creationdate="20171212T120744Z">
         <seg>&lt;f1&gt;你可能會覺得說這種做法會干擾你作業，但這樣做表示&lt;/f1&gt;你不需要去記做過哪些變更，或是&lt;f2&gt;在下次開啟檔案時收到變更的通知時，不至於搞不清楚是不是不小心動到什麼。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Total columns&lt;/f1&gt; and &lt;f2&gt;Total row&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; are selected by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135603Z" creationid="Franklin Weng" creationdate="20180210T135538Z">
+        <seg>「&lt;f1&gt;總欄數&lt;/f1&gt;」跟「&lt;f2&gt;總列數&lt;/f2&gt;」&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;預設是勾選起來的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11967,6 +12023,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choices are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135117Z" creationid="Franklin Weng" creationdate="20180210T135117Z">
+        <seg>選擇包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose fonts at least the size of body text, if not slightly larger &lt;f0&gt;for diagrams.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T074910Z" creationid="Jeff Huang" creationdate="20180104T075323Z">
@@ -12147,6 +12211,22 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T084247Z" creationid="zerng07" creationdate="20171224T084223Z">
         <seg>在&lt;f1&gt;格式設定&lt;/f1&gt;工具列中的樣式清單底部點按「&lt;f0&gt;更多樣式...&lt;/f0&gt;」連結。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;OK&lt;/f0&gt; button to create the pivot table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T140350Z" creationid="Franklin Weng" creationdate="20180210T140350Z">
+        <seg>點按「&lt;f0&gt;確定&lt;/f0&gt;」，就會建立一個樞紐分析表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; arrow to select any other layout options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135524Z" creationid="Franklin Weng" creationdate="20180210T135524Z">
+        <seg>點按下面的「&lt;f0&gt;選項&lt;/f0&gt;」會出現一些版面配置的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13409,6 +13489,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the available fields to the other panes to change their relationships.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135105Z" creationid="Franklin Weng" creationdate="20180210T135105Z">
+        <seg>把可用欄位中的標題拖到其他欄位去，會改變圖表中它們的關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag the cursor over the part of the document you wish to format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115407Z" creationid="zerng07" creationdate="20171226T115407Z">
@@ -14046,6 +14134,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T081753Z" creationid="Jeff Huang" creationdate="20180111T135114Z">
         <seg>預期有重新調整物件位置，並且還可能要調整大小的準備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Experiment to find the best arrangement.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135021Z" creationid="Franklin Weng" creationdate="20180210T135021Z">
+        <seg>實驗看看，找出最佳配置安排。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14838,6 +14934,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135255Z" creationid="Franklin Weng" creationdate="20180106T042927Z">
         <seg>例如，把Heuristica設定為12/16之後，我覺得還是太黑，所以我把字元之間的「間距」增加了0.8個點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, by default, a new pivot table opens in a new sheet called something lik&lt;f1&gt;e $'Pivot Table_Sheet1_1'.$A$1&lt;/f1&gt;, &lt;f2&gt;which would create a new sheet and place the first cell of the pivot table in the first cell of the new sheet.&lt;/f2&gt; However, you might give the destination a more meaningful name, or place the pivot table on the same sheet as the source data.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T140326Z" creationid="Franklin Weng" creationdate="20180210T140326Z">
+        <seg>例如，預設開啟新的樞紐分析表時，會新開一個工作表，叫做 &lt;f1&gt;$'樞紐分析表_工作表1_1'.$A$1&lt;/f1&gt;&lt;f2&gt;（其中「工作表」會是你所選取資料來源的工作表名稱），並把樞紐分析表放在新工作表的第一個儲存格。&lt;/f2&gt;不過，你也可以把目的地取一個較有意義的名稱，或是把樞紐分析表放在跟資料來源同樣的工作表內。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17321,6 +17425,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T142228Z" creationid="Jeff Huang" creationdate="20180127T134136Z">
         <seg>如果有一個以上的段落樣式指定了同一個大綱層級，你可能會得到預期外的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, click the&lt;f0&gt; Source and Destination&lt;/f0&gt; arrow to make any modifications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135639Z" creationid="Franklin Weng" creationdate="20180210T135539Z">
+        <seg>需要的話，點按「&lt;f0&gt;來源與目的地&lt;/f0&gt;」來做其它的變更。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22665,6 +22777,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page fields are optional.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135337Z" creationid="Franklin Weng" creationdate="20180210T135337Z">
+        <seg>頁面欄位則不一定要有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page numbering and different page numbering styles begin where you intended.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T080051Z" creationid="Jeff Huang" creationdate="20171212T034720Z">
@@ -27392,6 +27512,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The headings in the original data are listed in the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Available Fields &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;pane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134924Z" creationid="Franklin Weng" creationdate="20180210T134924Z">
+        <seg>原始資料中的標題會被列在&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「可用欄位」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The headings in this chapter will give you a checklist of steps to follow.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
@@ -27454,6 +27582,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145733Z" creationid="Franklin Weng" creationdate="20171212T115935Z">
         <seg>這個標籤頁的呈現配置和LibreOffice 4.3以前不同，之前的範本是列在視窗的最下方。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layout window for a pivot table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135039Z" creationid="Franklin Weng" creationdate="20180210T135039Z">
+        <seg>樞紐分析表的版面配置視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27880,6 +28016,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094205Z" creationid="Jeff Huang" creationdate="20180115T030455Z">
         <seg>圖表的組成結構可能因為圖表類型而有所不同，但多數應該會包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pivot table appears in the &lt;f1&gt;d&lt;/f1&gt;estination entered by default or edited by you.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T140353Z" creationid="Franklin Weng" creationdate="20180210T140353Z">
+        <seg>The pivot table appears in the &lt;f1&gt;d&lt;/f1&gt;estination entered by default or edited by you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28906,6 +29050,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032238Z" creationid="Jeff Huang" creationdate="20180201T032238Z">
         <seg>它們只能在項目順序重要時才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can be added to any of the other panes, but not all combinations will be relevant or make sense.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135006Z" creationid="Franklin Weng" creationdate="20180210T135006Z">
+        <seg>這些標題可以加到任何其他的欄位中，但要注意把標題放到某些欄位並沒有意義。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31252,6 +31404,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visualizing the results of a pivot table takes practice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135429Z" creationid="Franklin Weng" creationdate="20180210T135429Z">
+        <seg>要產生樞紐分析表的視覺化結果，需要不少練習。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>W&lt;/f0&gt;hen you are ready to insert the information, click the placeholder &lt;f1&gt;field &lt;/f1&gt;to replace it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121458Z" creationid="Franklin Weng" creationdate="20171223T093236Z">
@@ -33079,6 +33239,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You do not need to use all the available fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135112Z" creationid="Franklin Weng" creationdate="20180210T135112Z">
+        <seg>你不見得需要用上所有的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not want to be continually inserting a page break and selecting a page style as you work.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T084531Z" creationid="Jeff Huang" creationdate="20180124T122837Z">
@@ -33240,6 +33408,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may need to experiment to get the results you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135448Z" creationid="Franklin Weng" creationdate="20180210T135448Z">
+        <seg>你可能需要多實驗幾次，才能找到你理想中的呈現方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may need to re-start LibreOffice for the changes to take effect.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T103932Z" creationid="zerng07" creationdate="20180125T103821Z">
@@ -33342,6 +33518,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T070219Z" creationid="Jeff Huang" creationdate="20180208T070219Z">
         <seg>你必須至少輸入一個字元或空格，否則當你按下&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵時，圖形就會消失，此時就會空有縮排卻無項目符號。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need at least one column or row field, plus at least one data field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135330Z" creationid="Franklin Weng" creationdate="20180210T135330Z">
+        <seg>你需要至少一欄或一列，加上一個資料欄位。</seg>
       </tuv>
     </tu>
     <tu>
