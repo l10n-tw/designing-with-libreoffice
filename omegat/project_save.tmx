@@ -18040,6 +18040,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you ever need to know the exact space between margins, you can right-click on &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table Properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and read the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field on the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Table &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;tab to get the information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T030705Z" creationid="Jeff Huang" creationdate="20180211T030705Z">
+        <seg>如果你需要知道邊距間的準確間距，你可以右鍵點按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格屬性&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並在&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;表格&lt;/f8&gt;&lt;/f7&gt;標籤頁上讀取&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位&lt;/f6&gt;&lt;f9&gt;以取得資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you experience some problems with graphics, try copying and pasting &lt;f0&gt;a few pages at a time&lt;/f0&gt; instead of all at once.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140326Z" creationid="Franklin Weng" creationdate="20171223T125020Z">
