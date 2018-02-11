@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Confusingly, settings for how text displays are on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for cell styles.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122638Z" creationid="Franklin Weng" creationdate="20180211T122638Z">
+        <seg>&lt;f0&gt;但奇怪的是，對於儲存格中文字顯示的設定是放在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Connectors join shapes together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060705Z" creationid="Jeff Huang" creationdate="20171229T013858Z">
@@ -5127,6 +5135,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T150655Z" creationid="Franklin Weng" creationdate="20180105T150655Z">
         <seg>文字縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Alignment&lt;/f1&gt; tab &lt;f2&gt;also &lt;/f2&gt;sets hyphenation and page wrap inside cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122305Z" creationid="Franklin Weng" creationdate="20180211T122305Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中&lt;f2&gt;也&lt;/f2&gt;可以設定儲存格中的斷字處理與文字折行等等選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16756,6 +16772,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, &lt;f6&gt;the alignment options&lt;/f6&gt; also include &lt;f7&gt;Filled&lt;/f7&gt;, which repeats contents so that the entire cell is filled, and &lt;f8&gt;Distributed&lt;/f8&gt;, a close relative of &lt;f9&gt;Justified&lt;/f9&gt; that distributes contents evenly across the cell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122102Z" creationid="Franklin Weng" creationdate="20180211T121920Z">
+        <seg>不過，&lt;f6&gt;在選項中&lt;/f6&gt;還包括「&lt;f7&gt;填滿&lt;/f7&gt;」，會重覆內容直到儲存格被填滿為止；以及「&lt;f8&gt;分散對齊&lt;/f8&gt;」，跟「&lt;f9&gt;兩端對齊&lt;/f9&gt;」類似，但是內容會平均地分布在儲存格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, LibreOffice &lt;f1&gt;adds&lt;/f1&gt; three more styles in Writer (plus a pseudo-style for &lt;f2&gt;t&lt;/f2&gt;ables), and other styles &lt;f3&gt;for spreadsheets, presentations, and diagrams.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T142401Z" creationid="zerng07" creationdate="20171223T173143Z">
@@ -17161,6 +17185,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T130531Z" creationid="Franklin Weng" creationdate="20180118T024220Z">
         <seg>不過，大部份狀況下，預設的間距就已經很適當了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, in practice, &lt;f2&gt;most&lt;/f2&gt; people are focused on the information rather than the design, and tend to leave the &lt;t3/&gt;defaults unchanged.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122434Z" creationid="Franklin Weng" creationdate="20180211T122434Z">
+        <seg>不過在實務上，&lt;f2&gt;大部份&lt;/f2&gt;的人都還是比較重視試算表中的資訊，而非外觀的設定。所以大部份選項&lt;t3/&gt;用預設值即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19188,6 +19220,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>In English locales, the separator is usually a comma (for instance, &lt;f0&gt;1,000&lt;/f0&gt;), but in German it is a period (&lt;f1&gt;1.000&lt;/f1&gt;) &lt;f2&gt;and&lt;/f2&gt; in France a space (&lt;f3&gt;1 000&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121644Z" creationid="Franklin Weng" creationdate="20180211T121644Z">
+        <seg>在英文語言環境中，通常使用逗點（例如 &lt;f0&gt;1,000&lt;/f0&gt;）做千位分隔符，但在德國則是用句點（&lt;f1&gt;1.000&lt;/f1&gt;），&lt;f2&gt;而&lt;/f2&gt;法國則是用空白（&lt;f3&gt;1 000&lt;/f3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>6.0 請改為「格式設定」</note>
       <tuv lang="EN">
         <seg>In LibreOffice releases before 4.4 and &lt;f0&gt;in &lt;/f0&gt;Apache OpenOffice, you can click the first icon on the left on the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar (the bot&lt;f2&gt;t&lt;/f2&gt;om default tool bar).</seg>
@@ -19775,6 +19815,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, most users are interested in the other options on the tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122509Z" creationid="Franklin Weng" creationdate="20180211T122509Z">
+        <seg>講真的，大部份使用者可能對這個標籤頁中其他的選項還更有興趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, only the slide number is used regularly these days, &lt;f0&gt;and, sometimes, not even it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121240Z" creationid="Franklin Weng" creationdate="20180116T092257Z">
@@ -20276,6 +20324,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T184251Z" creationid="zerng07" creationdate="20170817T141414Z">
         <seg>它的用途多樣；不過若將之用於品牌識別，可能會讓&lt;f1&gt;採用此字型的文件自動&lt;/f1&gt;被辨識為和Ubuntu有關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also contains the equivalents for vertical alignment.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122143Z" creationid="Franklin Weng" creationdate="20180211T122143Z">
+        <seg>縱向的選項也差不多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24446,6 +24502,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rotating text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122513Z" creationid="Franklin Weng" creationdate="20180211T122513Z">
+        <seg>旋轉文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run the spell check in the &lt;f0&gt;Tools&lt;/f0&gt; menu for each language used in the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075802Z" creationid="Jeff Huang" creationdate="20171213T030137Z">
@@ -25247,6 +25311,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T033138Z" creationid="Franklin Weng" creationdate="20171223T033138Z">
         <seg>設定新的預設範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting alignment</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121701Z" creationid="Franklin Weng" creationdate="20180211T121701Z">
+        <seg>設定對齊</seg>
       </tuv>
     </tu>
     <tu>
@@ -26934,6 +27006,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131202Z" creationid="zerng07" creationdate="20180125T130403Z">
         <seg>「&lt;f0&gt;地址&lt;/f0&gt;」樣式則延續「&lt;f1&gt;頁首&lt;/f1&gt;」樣式不必修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab has the options you might expect: &lt;f1&gt;Left&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;Right&lt;/f3&gt;, and &lt;f4&gt;Justified&lt;/f4&gt;, &lt;f5&gt;all of them referring to how a line is positioned in a cell&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121926Z" creationid="Franklin Weng" creationdate="20180211T121843Z">
+        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡的選項大致上跟你想的差不多：&lt;f1&gt;左&lt;/f1&gt;、&lt;f2&gt;置中&lt;/f2&gt;、&lt;f3&gt;右&lt;/f3&gt;跟&lt;f4&gt;兩端對齊&lt;/f4&gt;，&lt;f5&gt;這些選項都是用來設定在儲存格中的一行文字怎麼擺放。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab includes settings for displaying text inside cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122533Z" creationid="Franklin Weng" creationdate="20180211T122533Z">
+        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中包括儲存格內文字顯示的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29070,6 +29158,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The separator used depends on the locale.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121525Z" creationid="Franklin Weng" creationdate="20180211T121525Z">
+        <seg>使用的符號依所在地域而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The settings discussed in this chapter are the ones you are likely to use in every document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094426Z" creationid="zerng07" creationdate="20180125T094426Z">
@@ -29667,6 +29763,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180109T132356Z" creationid="Franklin Weng" creationdate="20180109T132356Z">
         <seg>這些投影片包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These options &lt;f0&gt;are&lt;/f0&gt; useful if you &lt;f1&gt;care about&lt;/f1&gt; the look of your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122345Z" creationid="Franklin Weng" creationdate="20180211T122345Z">
+        <seg>如果你&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;很在乎&lt;/f1&gt;試算表的外觀，那這些選項就很有用。</seg>
       </tuv>
     </tu>
     <tu>
