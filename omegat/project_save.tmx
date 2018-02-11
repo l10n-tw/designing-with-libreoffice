@@ -9578,6 +9578,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the main text to the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152112Z" creationid="zerng07" creationdate="20180211T152112Z">
+        <seg>將正文放到文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding &lt;f0&gt;captions&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124549Z" creationid="zerng07" creationdate="20180209T124549Z">
@@ -11306,6 +11314,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131157Z" creationid="Jeff Huang" creationdate="20180122T090120Z">
         <seg>請留意，它們真的會連在一起，所以LibreOffice可能繪製出歪七扭八的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be sure to leave a generous gap between the frame and the text.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T151913Z" creationid="zerng07" creationdate="20180211T151913Z">
+        <seg>確認外框和文字之間的間隔夠大。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
