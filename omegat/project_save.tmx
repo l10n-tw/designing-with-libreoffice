@@ -4865,6 +4865,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Similarly&lt;/f0&gt;, if the next paragraph style is a caption, &lt;f1&gt;position&lt;/f1&gt; the caption closer to the table than the next paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033614Z" creationid="Jeff Huang" creationdate="20180211T033614Z">
+        <seg>&lt;f0&gt;同理&lt;/f0&gt;，如果下一個段落樣式是標題，則將標題&lt;f1&gt;置於&lt;/f1&gt;較靠近表格的地方（比下一個段落更接近）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>修改請求</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Since that is the way they are meant to be seen, trying to lighten them would fail to do them justice.&lt;/f0&gt;</seg>
