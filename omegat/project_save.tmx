@@ -2994,6 +2994,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Generally, y&lt;/f0&gt;ou should also avoid&lt;f1&gt; old style figures in favor of lining figures (the ones you are used to seeing).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092908Z" creationid="Franklin Weng" creationdate="20180211T092908Z">
+        <seg>&lt;f0&gt;一般而言，&lt;/f0&gt;你應該避免使用&lt;f1&gt;舊式數字，而用齊線數字（平常你習慣看的那種）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Graphic bullets are especially useful for&lt;/f0&gt; reoccurring graphics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064415Z" creationid="Jeff Huang" creationdate="20180208T064415Z">
@@ -8136,8 +8144,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;Most spreadsheets should follow the suggestions for online documents in “Other considerations for fonts,” page 83.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T091025Z" creationid="Franklin Weng" creationdate="20180211T091025Z">
-        <seg>&lt;f4&gt;大部份的試算表都應該遵循Most spreadsheets should follow the suggestions for online documents in “Other considerations for fonts,” page 83.&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092054Z" creationid="Franklin Weng" creationdate="20180211T091025Z">
+        <seg>&lt;f4&gt;大部份的試算表都應該遵循第 XXX 頁中，「字型的其他考量」裡對線上（螢幕上）閱讀時的字型建議。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8651,6 +8659,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141858Z" creationid="Jeff Huang" creationdate="20180130T055513Z">
         <seg>彩色背景或是圖案背景通常不需要邊框，除非邊緣有地方的顏色會和紙張色彩混在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A common fault in spreadsheets is to choose a small font size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092114Z" creationid="Franklin Weng" creationdate="20180211T092114Z">
+        <seg>一個在試算表中常見的錯誤，就是選擇過小的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16544,6 +16560,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101051Z" creationid="Franklin Weng" creationdate="20171212T101051Z">
         <seg>範本的運作方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, &lt;f0&gt;a font size that prevents easy reading goes against the main purposes of putting information in a spreadsheet in the first place.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092311Z" creationid="Franklin Weng" creationdate="20180211T092311Z">
+        <seg>不過，&lt;f0&gt;適於閱讀的字型反而往往會跟「把資訊放在試算表中呈現」這個最初的主要目的衝突。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
