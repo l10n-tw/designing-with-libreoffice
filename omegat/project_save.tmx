@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;For instance, consider a separate cell style for:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061255Z" creationid="Franklin Weng" creationdate="20180211T061255Z">
+        <seg>&lt;/f1&gt;例如，你可以考慮對以下的儲存格建立不同的樣式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;For instance&lt;f2&gt;, while the flow chart library contains most of the basic shapes for creating flow charts, some of the shapes you need may be available from other buttons on the tool bars.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T140443Z" creationid="Jeff Huang" creationdate="20180118T035755Z">
@@ -2363,6 +2371,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135317Z" creationid="Franklin Weng" creationdate="20180210T135317Z">
         <seg>&lt;f0&gt;資料欄位：&lt;/f0&gt;&lt;f1&gt;樞紐分析表中的操作資訊。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Deciding on the &lt;/f0&gt;styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061113Z" creationid="Franklin Weng" creationdate="20180211T061113Z">
+        <seg>&lt;f0&gt;決定&lt;/f0&gt;樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -8656,6 +8672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A different cell color for each task or person in a list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061346Z" creationid="Franklin Weng" creationdate="20180211T061346Z">
+        <seg>清單中每個不同的工作或人使用不同的儲存格色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dimension line for a three-dimensional shape.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T162729Z" creationid="Jeff Huang" creationdate="20180118T130259Z">
@@ -9908,6 +9932,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120340Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
         <seg>在Impress投影片中，有給題名、內文使用的佔位項，還有中間用來新增表格、圖表、影像與影片用的通用佔位項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An analysis of your purposes can help you decide what styles to create.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061231Z" creationid="Franklin Weng" creationdate="20180211T061231Z">
+        <seg>分析好你的目標，可以協助你決定要建立怎麼樣的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11783,6 +11815,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc offers only a &lt;f0&gt;couple of&lt;/f0&gt; sample cell and page styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061153Z" creationid="Franklin Weng" creationdate="20180211T061153Z">
+        <seg>Calc 只提供&lt;f0&gt;一些&lt;/f0&gt;範例的儲存格與頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc styles are given only &lt;f0&gt;two&lt;/f0&gt; sample defaults, making it harder for users to imagine how they might be used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T134940Z" creationid="Franklin Weng" creationdate="20180126T134940Z">
@@ -12451,6 +12491,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T134240Z" creationid="Jeff Huang" creationdate="20180122T115759Z">
         <seg>所謂色彩定義是指，把幾種色彩用不同比例調在一起構成新色彩的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Column headings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061303Z" creationid="Franklin Weng" creationdate="20180211T061303Z">
+        <seg>欄標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13805,6 +13853,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071607Z" creationid="Jeff Huang" creationdate="20180115T071607Z">
         <seg>EB Garamond</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each cell of a different &lt;f0&gt;c&lt;/f0&gt;ategory on the &lt;f1&gt;Numbers&lt;/f1&gt; tab for cell styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T070730Z" creationid="Franklin Weng" creationdate="20180211T070730Z">
+        <seg>每個不同的儲存格類別Each cell of a different &lt;f0&gt;c&lt;/f0&gt;ategory on the &lt;f1&gt;Numbers&lt;/f1&gt; tab for cell styles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16432,6 +16488,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T034218Z" creationid="Jeff Huang" creationdate="20180203T034218Z">
         <seg>不過，&lt;f0&gt;為了避免太過複雜，&lt;/f0&gt;請在&lt;f1&gt;位置&lt;/f1&gt;標籤頁上對&lt;f2&gt;清單樣式&lt;/f2&gt;進行所有變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, &lt;f1&gt;you can create other styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061208Z" creationid="Franklin Weng" creationdate="20180211T061208Z">
+        <seg>不過，&lt;f1&gt;你還是可以自己建立其他的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25957,6 +26021,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T082153Z" creationid="Jeff Huang" creationdate="20180124T082153Z">
         <seg>設計頁面樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub-&lt;f0&gt;t&lt;/f0&gt;otals and/or &lt;f1&gt;t&lt;/f1&gt;otals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061321Z" creationid="Franklin Weng" creationdate="20180211T061321Z">
+        <seg>&lt;f0&gt;小計&lt;/f0&gt;與&lt;f1&gt;總和&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
