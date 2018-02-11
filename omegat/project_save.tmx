@@ -5036,8 +5036,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the frame style to&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Marginalia.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152535Z" creationid="zerng07" creationdate="20180211T152535Z">
-        <seg>&lt;f0&gt;將外框樣式設定成「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;旁註&lt;/f2&gt;&lt;/f1&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152913Z" creationid="zerng07" creationdate="20180211T152535Z">
+        <seg>&lt;f0&gt;把外框樣式設定成「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;旁註&lt;/f2&gt;&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9746,6 +9746,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding the frame adds the &lt;f0&gt;Frame Contents&lt;/f0&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T153018Z" creationid="zerng07" creationdate="20180211T153000Z">
+        <seg>新增外框會加入「&lt;f0&gt;外框內容&lt;/f0&gt;」段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional &lt;f0&gt;images&lt;/f0&gt; (&lt;f1&gt;Insert &gt; Image&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T075156Z" creationid="Franklin Weng" creationdate="20180120T065428Z">
@@ -14432,6 +14440,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173048Z" creationid="Franklin Weng" creationdate="20171223T134413Z">
         <seg>範本管理員的各種檢視狀態下，只會顯示適用於&lt;f0&gt;該選擇情境的相關圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Frame Contents&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; style to format the contents of the marginalia frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T153127Z" creationid="zerng07" creationdate="20180211T153127Z">
+        <seg>編輯「&lt;f2&gt;&lt;f3&gt;外框內容&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」樣式來修改旁註外框的內容格式。</seg>
       </tuv>
     </tu>
     <tu>
