@@ -831,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;For instance, 0&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;1/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; is January 31, 2015.&lt;/f7&gt; However, this format means that whether the month or the date comes first is unclear &lt;f8&gt;for days 1-12 of any month&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114437Z" creationid="Franklin Weng" creationdate="20180211T114437Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;例如，0&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;1/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;表示 2015 年 1 月 31 日。&lt;/f7&gt;但這種格式在表示&lt;f8&gt;每個月的 1 日到 12 日&lt;/f8&gt;時往往會讓人分不清哪一個數字是月哪一個數字是日。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;Usually, any problems with &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As Character&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; can be solved by setting the line spacing for a paragraph style with &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;At Least.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T114329Z" creationid="zerng07" creationdate="20180206T112801Z">
@@ -4081,6 +4089,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T122644Z" creationid="Franklin Weng" creationdate="20180116T094633Z">
         <seg>&lt;f0&gt;大多數人只有「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」跟&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;「字型效果」這兩個部分比較常用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Most time&lt;/f0&gt; formats assume a 24 hour clock, unless they end with &lt;f1&gt;PM.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114552Z" creationid="Franklin Weng" creationdate="20180211T114552Z">
+        <seg>&lt;f0&gt;大部份的時間&lt;/f0&gt;格式都假設為 24 小時制，除非以 &lt;f1&gt;PM&lt;/f1&gt; 結尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18400,6 +18416,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose a format without &lt;f0&gt;sufficient &lt;/f0&gt;decimal places, your spreadsheet may read inaccurately when you use formulas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114219Z" creationid="Franklin Weng" creationdate="20180211T114219Z">
+        <seg>如果你選擇的格式中沒有&lt;f0&gt;足夠&lt;/f0&gt;的小數位數，那麼使用公式所計算出來的數值可能就不夠精確。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you continue to have problems with frames &lt;f0&gt;and objects staying where you placed them&lt;/f0&gt;, try replacing them with tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123006Z" creationid="zerng07" creationdate="20180210T123006Z">
@@ -20724,6 +20748,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leading zeros set the digital places to the left of the decimal point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120638Z" creationid="Franklin Weng" creationdate="20180211T120638Z">
+        <seg>「前置零」設定小數點左方至少要顯示幾位數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>League Gothic</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071511Z" creationid="Jeff Huang" creationdate="20180115T071511Z">
@@ -21371,6 +21403,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T120001Z" creationid="zerng07" creationdate="20180210T120001Z">
         <seg>修改其他格式設定，然後關閉&lt;f0&gt;&lt;f1&gt;影像&lt;/f1&gt;&lt;/f0&gt;對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure you set the number of decimal places that you need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120448Z" creationid="Franklin Weng" creationdate="20180211T120448Z">
+        <seg>確定你所設定的小數位數是足夠的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22118,6 +22158,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T132638Z" creationid="Franklin Weng" creationdate="20171213T132638Z">
         <seg>命名範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Negative numbers &lt;f0&gt;are &lt;/f0&gt;red.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120843Z" creationid="Franklin Weng" creationdate="20180211T120843Z">
+        <seg>&lt;f0&gt;用紅色&lt;/f0&gt;顯示負數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,6 +23338,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T052333Z" creationid="Jeff Huang" creationdate="20171221T082638Z">
         <seg>你也可能會選擇忽略其他選項，&lt;f0&gt;或許是因為&lt;/f0&gt;預設值&lt;f1&gt;已經滿足你的目的&lt;/f1&gt;，&lt;f2&gt;又或是因為你的繪圖&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;不會受到這些設定影響等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, Calc rounds up or down, &lt;f0&gt;which may display&lt;/f0&gt; imprecise results for formulas.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120543Z" creationid="Franklin Weng" creationdate="20180211T120543Z">
+        <seg>不然，Calc 可能會進位或捨去，&lt;f0&gt;顯示出來的&lt;/f0&gt;公式計算結果的數字會不夠精確。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27816,6 +27872,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default Date format for &lt;f0&gt;&lt;f1&gt;US&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; English&lt;/f2&gt; is &lt;f3&gt;MM/DD/YY.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114259Z" creationid="Franklin Weng" creationdate="20180211T114259Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;美式&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;英文&lt;/f2&gt;預設的日期格式為 &lt;f3&gt;MM/DD/YY。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default chart includes &lt;f0&gt;three&lt;/f0&gt; Y axis values.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091333Z" creationid="Jeff Huang" creationdate="20180113T131343Z">
@@ -27828,6 +27892,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133756Z" creationid="Franklin Weng" creationdate="20180117T120921Z">
         <seg>投影片的預設字型大小為：題名44 點，&lt;f0&gt;第一層大綱&lt;/f0&gt;18 點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>把範例改成 7 才不會跟選項的 1/2 搞混</note>
+      <tuv lang="EN">
+        <seg>The default is 1, which means that you need to change it to 2 if you want to display 01 rather than 1.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120816Z" creationid="Franklin Weng" creationdate="20180211T120816Z">
+        <seg>預設值為 1，表示左方預設為一位數。如果你要顯示 07 而不是 7，那就要把這個選項設為 2 表示顯示兩位數，不足的前面補 0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30070,6 +30143,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a traditional setting for accounting, but &lt;f1&gt;make sure that your cell backgrounds and font color do not conflict with it.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120932Z" creationid="Franklin Weng" creationdate="20180211T120932Z">
+        <seg>這是傳統會計的做法。如果你這樣設定，&lt;f1&gt;就要留意背景色是否會造成前景的紅色看不清楚。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is just what it sounds like: the height of the letter “x” and sixteen other lower case letters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T115122Z" creationid="Franklin Weng" creationdate="20180101T133147Z">
@@ -30462,6 +30543,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thousands separator: Whether a character will be used to separate numbers larger than a thousand for easier reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121502Z" creationid="Franklin Weng" creationdate="20180211T121502Z">
+        <seg>千位分隔符：使用哪一個符號做為一千以上數字分隔的符號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Three-dimensional charts were a new feature in early office suites.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T093347Z" creationid="Jeff Huang" creationdate="20180115T024443Z">
@@ -30603,6 +30692,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162345Z" creationid="Franklin Weng" creationdate="20180101T130222Z">
         <seg>若要細細品味&lt;f0&gt;西方字型間的不同差異，有些字體排印學的名詞要先瞭解：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid ambiguity, use the format &lt;f0&gt;YYYY-MM-DD,&lt;/f0&gt; which is becoming increasingly common &lt;f1&gt;as an international standard&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114525Z" creationid="Franklin Weng" creationdate="20180211T114525Z">
+        <seg>要避免這種混淆，最好使用 &lt;f0&gt;YYYY-MM-DD&lt;/f0&gt; 這樣的格式。這種表示法已經逐漸&lt;f1&gt;成為國際標準。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34438,6 +34535,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T111911Z" creationid="Jeff Huang" creationdate="20180125T031634Z">
         <seg>如果線上文件有可能被印出來，那麼你也應該考慮兩頁式版面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should also keep in mind the general options that may or may not apply to a particular &lt;f0&gt;number format &lt;/f0&gt;option:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120433Z" creationid="Franklin Weng" creationdate="20180211T120433Z">
+        <seg>你也要留意以下這些特別的&lt;f0&gt;數字格式設定&lt;/f0&gt;選項：</seg>
       </tuv>
     </tu>
     <tu>
