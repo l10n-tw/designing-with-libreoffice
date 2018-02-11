@@ -3821,6 +3821,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Keep with next &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;paragraph&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;: &lt;/f3&gt;&lt;f4&gt;Since a table usually requires an introduction, this setting should only be needed occasionally.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T132301Z" creationid="Jeff Huang" creationdate="20180211T132301Z">
+        <seg>&lt;f0&gt;與下段同頁&lt;/f0&gt;：&lt;f4&gt;由於表格通常會需要簡介，所以這個設定用到的機會應該很少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;evels can be ordered using Arabic numerals, upper and lower case Roman numerals, &lt;f1&gt;and &lt;/f1&gt;upper and lower case letters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T074145Z" creationid="Jeff Huang" creationdate="20180201T074145Z">
