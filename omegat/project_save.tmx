@@ -19510,6 +19510,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Writer, marginalia are technically not placed in the margins – they just give the &lt;t0/&gt;appearance of being so.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T143340Z" creationid="zerng07" creationdate="20180211T143340Z">
+        <seg>在Writer裡，旁註從技術上來說其實沒放在邊距上——它們只是表現出這樣子的外觀而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Writer, their spacing is in addition to the margin; they do not fill part of the margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123554Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
@@ -21994,8 +22002,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Marginalia were first named during the Middle Ages, when paper was so expensive that none of it was wasted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T115915Z" creationid="zerng07" creationdate="20180211T115915Z">
-        <seg>旁註的英文名稱Marginalia，起源自中古世紀(Middle Ages)紙都還很貴的時候，沒有人打算浪費紙張。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T133443Z" creationid="zerng07" creationdate="20180211T115915Z">
+        <seg>旁註的英文名稱Marginalia，起源自中古世紀(Middle Ages)紙都還很貴的時候，沒有人會浪費紙張。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27214,6 +27222,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025133Z" creationid="zerng07" creationdate="20180125T025133Z">
         <seg>這代表「向左對齊」在欄中或表格中都是更好的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that you can often get away with a narrower left margin than usual, since marginalia leave plenty of white space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T143523Z" creationid="zerng07" creationdate="20180211T143523Z">
+        <seg>這代表你真正的左邊距會比平時還要窄，因為旁註會佔據很多空間。</seg>
       </tuv>
     </tu>
     <tu>
