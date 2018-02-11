@@ -1152,6 +1152,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Repeat Heading:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Repeats the top row(s) of a table on each page if the table continues on another page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T130452Z" creationid="Jeff Huang" creationdate="20180211T130452Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;重覆標題：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;如果表格在另外一頁接續的話就重覆表格的頂端列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Right and Left: T&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;he page style is used for both right and left pages.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T135219Z" creationid="Jeff Huang" creationdate="20180125T135235Z">
@@ -32449,6 +32457,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124947Z" creationid="Jeff Huang" creationdate="20180124T124947Z">
         <seg>一般來說，你可以直接使用&lt;f0&gt;預設值。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, you need only the first row when it serves as a table heading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T130654Z" creationid="Jeff Huang" creationdate="20180211T130654Z">
+        <seg>一般來說，你只需要第一列用來當作表格標題。</seg>
       </tuv>
     </tu>
     <tu>
