@@ -9119,7 +9119,8 @@
       </tuv>
     </tu>
     <tu>
-      <note>類似這種東西 http://www.nextgen.com.tw/Manual/note/a4_sidenote.htm</note>
+      <note>類似這種東西 http://www.nextgen.com.tw/Manual/note/a4_sidenote.htm
+查了眾多資料，marginalia 旁註是寫注疏用的，不是放標題。拿旁註來放標題大概只是慣用做法，後面有提到。</note>
       <tuv lang="EN">
         <seg>A major exception are marginalia – headings that are placed to the left of a body of text in a second column.</seg>
       </tuv>
@@ -22011,8 +22012,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Marginalia frames used to create sideheads to replacing normal headings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T145106Z" creationid="zerng07" creationdate="20180211T145106Z">
-        <seg>滿多人習慣用旁註外框做成頁側標題來取代一般標題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T145124Z" creationid="zerng07" creationdate="20180211T145106Z">
+        <seg>所以滿多人習慣用旁註外框做成頁側標題來取代一般標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31134,6 +31135,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T113755Z" creationid="Jeff Huang" creationdate="20180126T133821Z">
         <seg>若要加入頁首或頁尾，前往一項頁面樣式的「&lt;f0&gt;頁首&lt;/f0&gt;」或「&lt;f1&gt;頁尾&lt;/f1&gt;」標籤頁，並選取左上角對應的「顯示頁首」或「顯示頁尾」勾選框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add sideheads:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T145133Z" creationid="zerng07" creationdate="20180211T145133Z">
+        <seg>若要加入頁側標題：</seg>
       </tuv>
     </tu>
     <tu>
