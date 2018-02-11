@@ -3227,6 +3227,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab provides alternatives that many people today prefer.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132400Z" creationid="Franklin Weng" creationdate="20180211T132400Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;在「&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中則提供了現今較多人傾向使用的替代方案。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, the most effective approach is to create a paragraph style that is attached to the list style.&lt;/f0&gt; Go to &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Numbering &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;tyle&lt;/f5&gt; field on the &lt;f6&gt;Outline &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&amp;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Numbering&lt;/f9&gt; tab for the paragraph style, and select the list style from the drop-down list.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134713Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
@@ -5197,8 +5205,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Alignment&lt;/f1&gt; tab &lt;f2&gt;also &lt;/f2&gt;sets hyphenation and page wrap inside cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122305Z" creationid="Franklin Weng" creationdate="20180211T122305Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中&lt;f2&gt;也&lt;/f2&gt;可以設定儲存格中的斷字處理與文字折行等等選項。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131713Z" creationid="Franklin Weng" creationdate="20180211T122305Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中&lt;f2&gt;也&lt;/f2&gt;可以設定儲存格中的連字號處理與文字折行等等選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6333,8 +6341,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;W&lt;/f0&gt;hen spreadsheets first became popular, most users were satisfied with text appearing in a single line, &lt;f1&gt;extending into the next cell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131608Z" creationid="Franklin Weng" creationdate="20180211T131608Z">
-        <seg>&lt;f0&gt;W&lt;/f0&gt;hen spreadsheets first became popular, most users were satisfied with text appearing in a single line, &lt;f1&gt;extending into the next cell.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132036Z" creationid="Franklin Weng" creationdate="20180211T131608Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;當試算表開始風行時，大部份的使用者都習慣於讓文字以單行呈現，超過則&lt;f1&gt;延伸顯示到下一個儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6479,6 +6487,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T103911Z" creationid="Franklin Weng" creationdate="20171215T125810Z">
         <seg>&lt;f0&gt;範本精靈&lt;/f0&gt;可以從「&lt;f1&gt;檔案 &gt; 精靈&lt;/f1&gt;」選單中找到。&lt;f3&gt;有些精靈會有使用LibreOffice Base資料庫，或是從電子郵件客戶端的通訊錄填入欄位中的功能，這對用於需要大量發信的文件來說很有用。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Wrapped text can also cause unusual breaks in words.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132925Z" creationid="Franklin Weng" creationdate="20180211T132925Z">
+        <seg>&lt;f0&gt;此外，文字折行也會造成斷字的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,6 +7667,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;However, be careful: &lt;/f2&gt;even with a zoom, it &lt;f3&gt;can result in text that is too small for easy reading.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132540Z" creationid="Franklin Weng" creationdate="20180211T132540Z">
+        <seg>&lt;f2&gt;但還是要小心：&lt;/f2&gt;縮小後的文字&lt;f3&gt;還是有可能造成閱讀上的困難。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;However, this practice can cause other pages in the document to change their style &lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt; not all the time, but often enough that the method is unreliable.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T084115Z" creationid="Jeff Huang" creationdate="20180124T093627Z">
@@ -8739,6 +8763,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150508Z" creationid="Franklin Weng" creationdate="20180106T023308Z">
         <seg>典型的內文&lt;f0&gt;行距&lt;/f0&gt;紀錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;more readable&lt;/f0&gt; solution is &lt;f1&gt;Wrap text&lt;/f1&gt; &lt;f2&gt;automatically.&lt;/f2&gt; &lt;f3&gt;This option makes text in a cell act like text in a Writer document, making it easier to read at the cost of changing the dimensions of the cell, which may not be practical if the cell needs to align with other cells.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132905Z" creationid="Franklin Weng" creationdate="20180211T132905Z">
+        <seg>另一個&lt;f0&gt;可讀性較高&lt;/f0&gt;的方案是「&lt;f1&gt;文字&lt;/f1&gt;&lt;f2&gt;自動折行&lt;/f2&gt;」。&lt;f3&gt;這個選項讓儲存格內的文字像在文字文件中一樣的行為，碰到邊框時就折行。這樣比較容易閱讀，代價是可能有時要調整儲存格大小，而如果儲存格又要跟其他儲存格對齊時就會有點麻煩。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16396,6 +16428,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generally, i&lt;/f0&gt;f a cell is set to use text, you &lt;f1&gt;should&lt;/f1&gt; check &lt;f2&gt;Hyphenation&lt;/f2&gt; &lt;f3&gt;active&lt;/f3&gt; as well &lt;f4&gt;to make the text more readable.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133143Z" creationid="Franklin Weng" creationdate="20180211T133143Z">
+        <seg>一般來說，&lt;/f0&gt;如果儲存格格式是設定成文字，那你就&lt;f1&gt;應該&lt;/f1&gt;同時勾選「&lt;f2&gt;斷字處理&lt;/f2&gt;&lt;f3&gt;啟用中&lt;/f3&gt;」&lt;f4&gt;讓文字更易於閱讀。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generally, images stay anchored to the page, paragraph, or character to which you assign them, and some users never have problems.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T120503Z" creationid="zerng07" creationdate="20180130T120020Z">
@@ -20628,6 +20668,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T075716Z" creationid="Jeff Huang" creationdate="20180124T085614Z">
         <seg>所以，是其他文書處理器對待這些功能的處理方式不合邏輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is still the default way to display cell contents, and die-hards insist that it is the only way.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132142Z" creationid="Franklin Weng" creationdate="20180211T132129Z">
+        <seg>它現在還是顯示儲存格內容的預設方式，有些頑固派反革命份子仍然堅持這是唯一的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26969,6 +27017,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text extension &lt;f0&gt;overlaps text into other cells as necessary.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132308Z" creationid="Franklin Weng" creationdate="20180211T132308Z">
+        <seg>文字延伸&lt;f0&gt;會在必要時讓文字蓋到下一個儲存格之上。overlaps text into other cells as necessary.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text extension is used regardless of whether text is rotated or not.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132248Z" creationid="Franklin Weng" creationdate="20180211T132248Z">
+        <seg>不管文字有沒有被旋轉，都會使用文字延伸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text for captions and notes sometimes goes as low as 8 points, while headings and titles are rarely more than 28 points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120022Z" creationid="Franklin Weng" creationdate="20171231T134623Z">
@@ -28485,6 +28549,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080145Z" creationid="zerng07" creationdate="20171226T080131Z">
         <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中的一些欄位，如果你做設定沒有意義的話會自動轉為灰色不能點選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is &lt;f0&gt;Shrink to fit cell size.&lt;/f0&gt; This option is useful largely for contents that almost but not quite fit&lt;f1&gt;s&lt;/f1&gt; into a cell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132503Z" creationid="Franklin Weng" creationdate="20180211T132503Z">
+        <seg>第一個是「&lt;f0&gt;縮小以符合儲存格大小&lt;/f0&gt;」。這個選項很常用在內容只比儲存格大一些些時。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30579,6 +30651,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T184519Z" creationid="zerng07" creationdate="20170817T182426Z">
         <seg>這種作法完全合法，但偶爾只是選用不同圖示和作其他些微更動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This presentation is known in LibreOffice as text extension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132048Z" creationid="Franklin Weng" creationdate="20180211T132048Z">
+        <seg>這種方式稱為「文字延伸」。</seg>
       </tuv>
     </tu>
     <tu>
