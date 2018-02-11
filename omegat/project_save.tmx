@@ -18306,8 +18306,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If a work-around is necessary, try using a table, adding a two-column row whenever you want a side-head, and using the &lt;f0&gt;From Left&lt;/f0&gt; alignment in the second row to separate the text from the side-head.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T155337Z" creationid="zerng07" creationdate="20180211T154558Z">
-        <seg>如果真有必要用到變通方案，嘗試使用表格達成，在你想要放頁側標題的地方放個雙欄的一列表格，然後下面第二個放文字的表格則利用「&lt;f0&gt;從左&lt;/f0&gt;」對齊來設定分開文字和側邊標題？？？（看不大懂，試不出來）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T155754Z" creationid="zerng07" creationdate="20180211T154558Z">
+        <seg>如果真有必要用到變通方案，嘗試使用表格達成，在你想要放頁側標題的地方放個雙欄的一列表格（左欄放頁側標題，右欄放正文）。然後下方第二個放正文的表格則修改「&lt;f0&gt;從左&lt;/f0&gt;」對齊設定，讓它退到正文的位置去，和側邊標題的區塊分開來。（看不大懂，但感覺上是這個意思。）</seg>
       </tuv>
     </tu>
     <tu>
