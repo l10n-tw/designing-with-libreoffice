@@ -7171,6 +7171,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Y&lt;/f1&gt;ou can also align it to the &lt;f2&gt;c&lt;/f2&gt;enter or the &lt;f3&gt;b&lt;/f3&gt;ottom, &lt;f4&gt;although in practice there is rarely a reason for doing so.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034446Z" creationid="Jeff Huang" creationdate="20180211T034446Z">
+        <seg>你可以讓其置中或與底部對齊，&lt;f4&gt;但實務上很少有這麼做的理由。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Y&lt;/f1&gt;our audience will never notice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133230Z" creationid="Franklin Weng" creationdate="20180118T033716Z">
@@ -11609,6 +11617,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074514Z" creationid="Jeff Huang" creationdate="20180118T134710Z">
         <seg>預設情況下，圖說文字有附帶邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, content is aligned to the top of cells on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034330Z" creationid="Jeff Huang" creationdate="20180211T034330Z">
+        <seg>預設情況下，內容會與&lt;f0&gt;排文和分頁&lt;/f0&gt;標籤頁上的頂部儲存格對齊。</seg>
       </tuv>
     </tu>
     <tu>
