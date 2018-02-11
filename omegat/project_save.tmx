@@ -3637,6 +3637,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In other words, they are basic units&lt;/f0&gt; for format and content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085619Z" creationid="Franklin Weng" creationdate="20180211T085619Z">
+        <seg>&lt;f0&gt;也就是說，它們是格式與內容的基本單位。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In other words, they occupy the same vertical and horizontal space, although they may otherwise be designed differently.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T135711Z" creationid="zerng07" creationdate="20170817T135446Z">
@@ -4870,6 +4878,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180126T031147Z" creationid="Jeff Huang" creationdate="20180126T030847Z">
         <seg>&lt;f0&gt;設定&lt;/f0&gt;邊距</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Setting up&lt;/f0&gt; cell styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085344Z" creationid="Franklin Weng" creationdate="20180211T085344Z">
+        <seg>&lt;f0&gt;設定&lt;/f0&gt;儲存格樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,6 +9592,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All cells above and to the left of the selected cell &lt;f2&gt;are&lt;/f2&gt; &lt;f3&gt;formatted using the style.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085244Z" creationid="Franklin Weng" creationdate="20180211T085244Z">
+        <seg>所有在選取儲存格上方跟左方的儲存格&lt;f2&gt;都會套用&lt;/f2&gt;此&lt;f3&gt;樣式所定義的格式設定&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All connectors can end with an arrow or an open or filled circle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062556Z" creationid="Jeff Huang" creationdate="20171229T021353Z">
@@ -11955,6 +11979,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033435Z" creationid="Jeff Huang" creationdate="20180210T033435Z">
         <seg>儲存格邊框、&lt;f0&gt;著色&lt;/f0&gt;與其他&lt;f1&gt;精心設計的&lt;/f1&gt;元素應該儘量減少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cell styles are the spreadsheet equivalents of paragraph styles in text documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085458Z" creationid="Franklin Weng" creationdate="20180211T085458Z">
+        <seg>試算表中的儲存格樣式就相當於文字文件中的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17297,6 +17329,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T085212Z" creationid="zerng07" creationdate="20180123T085212Z">
         <seg>然而，這個設定，也同樣可能讓分頁位置變得很差，所以請謹慎使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, to avoid printing blank pages, &lt;/f0&gt;place the cursor in the last cell that has content, then click the style in the &lt;f1&gt;Styles and Formatting &lt;/f1&gt;window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085148Z" creationid="Franklin Weng" creationdate="20180211T085148Z">
+        <seg>不過，為了避免印出空白頁，&lt;/f0&gt;可以將游標點到最後一個有內容的儲存格，然後在「&lt;f1&gt;樣式&lt;/f1&gt;」中選取要使用的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23169,6 +23209,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page styles are not visible in the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085257Z" creationid="Franklin Weng" creationdate="20180211T085257Z">
+        <seg>頁面樣式在編輯視窗中是看不出來的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page styles are one of &lt;f0&gt;Writer’s&lt;/f0&gt; &lt;f1&gt;distinguishing&lt;/f1&gt; features.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T054454Z" creationid="Jeff Huang" creationdate="20180124T082331Z">
@@ -28525,6 +28573,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The resemblance is so close that over half the tabs on cell styles are nearly identical to those on paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T090831Z" creationid="Franklin Weng" creationdate="20180211T090831Z">
+        <seg>兩者相似程度到在儲存格樣式中的標籤頁有超過一半跟段落樣式中的是幾乎一樣的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result &lt;f0&gt;is not completely satisfactory for either size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T133022Z" creationid="Jeff Huang" creationdate="20180125T132855Z">
@@ -32185,8 +32241,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When the cells are selected, click the style in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window &lt;f1&gt;in the side bar.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084905Z" creationid="Franklin Weng" creationdate="20180211T084905Z">
-        <seg>當選完儲存格後，點按右方側邊欄的「樣式」按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085020Z" creationid="Franklin Weng" creationdate="20180211T084905Z">
+        <seg>當選完儲存格後，點按右方&lt;f0&gt;側邊欄&lt;/f0&gt;的「&lt;f1&gt;樣式&lt;/f1&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33619,6 +33675,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T164842Z" creationid="zerng07" creationdate="20170822T143900Z">
         <seg>你可以在兩個同樣應用程式之間使用此格式交換文件，或者是&lt;f0&gt;和&lt;/f0&gt;任何其他也採用&lt;f1&gt;ODF&lt;/f1&gt;的應用程式彼此互相交換文件，例如說Calligra Suite或Abi&lt;f2&gt;W&lt;/f2&gt;ord……等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can view them from &lt;f0&gt;File &gt; Page Preview.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085333Z" creationid="Franklin Weng" creationdate="20180211T085333Z">
+        <seg>你可以在「&lt;f0&gt;檔案 &gt; 列印預覽&lt;/f0&gt;」中查看。</seg>
       </tuv>
     </tu>
     <tu>
