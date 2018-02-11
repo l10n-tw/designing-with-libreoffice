@@ -9561,6 +9561,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>不懂「加入影像和其他物件」導致「它們能和文字的開頭對齊」的因果關係在哪裡？so that？？？</note>
+      <tuv lang="EN">
+        <seg>Add images and other objects so that they align with the start of the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T153321Z" creationid="zerng07" creationdate="20180211T153240Z">
+        <seg>加入影像和其他物件，並且讓使它們和文字的開頭對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Add lines with arrows and their captions.</seg>
       </tuv>
@@ -14446,8 +14455,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Edit &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Frame Contents&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; style to format the contents of the marginalia frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T153127Z" creationid="zerng07" creationdate="20180211T153127Z">
-        <seg>編輯「&lt;f2&gt;&lt;f3&gt;外框內容&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」樣式來修改旁註外框的內容格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T153134Z" creationid="zerng07" creationdate="20180211T153127Z">
+        <seg>編輯「&lt;f2&gt;&lt;f3&gt;外框內容&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」樣式來設定旁註外框的內容格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16658,6 +16667,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093211Z" creationid="zerng07" creationdate="20180125T093211Z">
         <seg>Gillius &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ADF&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; No.2，模擬Gill Sans，用於標題文字（這裡代表任何非書信正文的部分）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give each &lt;f0&gt;m&lt;/f0&gt;arginalia frame the same width as the first one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T153217Z" creationid="zerng07" creationdate="20180211T153208Z">
+        <seg>讓每個旁註外框都和第一個旁註外框的寬度相同。</seg>
       </tuv>
     </tu>
     <tu>
