@@ -1972,6 +1972,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133556Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;hoosing a head&lt;f1&gt;ing&lt;/f1&gt; font</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T133321Z" creationid="Franklin Weng" creationdate="20180101T133321Z">
@@ -5392,6 +5400,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120246Z">
         <seg>&lt;f0&gt;文字方向：&lt;/f0&gt;僅外框內的非西方語言文字適用這個選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text wrap&lt;/f0&gt; present&lt;f1&gt;s&lt;/f1&gt; spreadsheet text in a more conventional format than &lt;f2&gt;t&lt;/f2&gt;ext extension,&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;displaying contents without spilling over into another cell.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133539Z" creationid="Franklin Weng" creationdate="20180211T133539Z">
+        <seg>「&lt;f0&gt;文字折行&lt;/f0&gt;」比起&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;「&lt;f3&gt;文字延伸&lt;/f3&gt;」來說，讓試算表中的文字以更為符合常規的方式來呈現文字，而&lt;f4&gt;不會讓內容蓋到其它儲存格去。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25555,6 +25571,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting cell protection</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133547Z" creationid="Franklin Weng" creationdate="20180211T133547Z">
+        <seg>設定儲存格保護</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting color through line spacing</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T123817Z" creationid="Franklin Weng" creationdate="20180105T133459Z">
@@ -30351,6 +30375,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They work best online, where cell width is not an issue, and you can use as much space as you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133329Z" creationid="Franklin Weng" creationdate="20180211T133329Z">
+        <seg>這樣在線上閱讀時是最好的選擇，因為儲存格的寬度此時不是問題，而你可以盡量照想要的方式利用空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This &lt;f4&gt;non-printing area&lt;/f4&gt; severely limits the usefulness of adding a background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T023315Z" creationid="Jeff Huang" creationdate="20180130T054707Z">
@@ -31524,6 +31556,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002344Z" creationid="zerng07" creationdate="20180123T014838Z">
         <seg>那麼，標題前、後間距，加上標題字大小的垂直空間，應該等於15或7.5點（行高一半）的倍數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Together, these two choices make cell content visible at a glance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133253Z" creationid="Franklin Weng" creationdate="20180211T133253Z">
+        <seg>這兩個選項結合在一起，讓儲存格第一眼就能輕易看清楚。</seg>
       </tuv>
     </tu>
     <tu>
