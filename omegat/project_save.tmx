@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Positioning a table in hard copy can be difficult, because you frequently get uneven page breaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T125755Z" creationid="Jeff Huang" creationdate="20180211T125755Z">
+        <seg>&lt;f0&gt;在紙本上定位表格可能比較困難，因為常常會有不均勻的分頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Presentation always on top&lt;/f0&gt; &lt;f1&gt;floats Impress above any other open windows, preventing you from fumbling in front of your audience.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T140237Z" creationid="Franklin Weng" creationdate="20180120T124127Z">
@@ -25499,6 +25507,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting text flow options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T125633Z" creationid="Jeff Huang" creationdate="20180211T125633Z">
+        <seg>設定排文和分頁選項</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting the &lt;f0&gt;page &lt;/f0&gt;background</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T034138Z" creationid="Jeff Huang" creationdate="20180130T034138Z">
@@ -26193,6 +26209,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151142Z" creationid="Franklin Weng" creationdate="20180106T024342Z">
         <seg>這有時很主觀，尤其是你的眼光還不夠完美時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, rearranging rows can improve the break, but often you need to manually intervene with one of the available tools, most of which are listed in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Flow&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Table Format&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; dialog window.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T130147Z" creationid="Jeff Huang" creationdate="20180211T130147Z">
+        <seg>有時候將列重排可以改善分頁，但你通常會需要手動以其中一種可用的工具介入，其大多數都已列於&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;表格格式&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;對話框&lt;/f6&gt;的&lt;f1&gt;&lt;f2&gt;排文和分頁&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁&lt;/f3&gt;中。</seg>
       </tuv>
     </tu>
     <tu>
