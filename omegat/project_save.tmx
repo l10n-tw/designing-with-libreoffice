@@ -3341,6 +3341,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If the table is surrounded by text, p&lt;/f0&gt;lace a table closer to the paragraph above it than the one below it to show &lt;f1&gt;their relation.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033405Z" creationid="Jeff Huang" creationdate="20180211T033405Z">
+        <seg>&lt;f0&gt;如果表格被文字環繞的話，&lt;/f0&gt;將表格置於較靠近位於其上的段落（要比位於其下的段落更接近），這樣可以突顯&lt;f1&gt;它們之間的關係。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you &lt;/f0&gt;take a screen shot of a menu, white out any irrelevant text &lt;f1&gt;and dialogs in the background.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142011Z" creationid="zerng07" creationdate="20180205T142011Z">
@@ -3905,6 +3913,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T071308Z" creationid="Franklin Weng" creationdate="20180109T132240Z">
         <seg>&lt;f0&gt;製作&lt;/f0&gt;結構式範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Manual:&lt;/f0&gt; Use the &lt;f1&gt;Spacing&lt;/f1&gt; fields to adjust the table on its left and right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033107Z" creationid="Jeff Huang" creationdate="20180211T033107Z">
+        <seg>&lt;f0&gt;手動：&lt;/f0&gt;使用&lt;f1&gt;間距&lt;/f1&gt;欄位來調整表格的左右對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17716,6 +17732,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T060830Z" creationid="Jeff Huang" creationdate="20180208T060830Z">
         <seg>如果圖片被切斷，那就需要調整圖片大小，或者將行距調到&lt;f0&gt;最小&lt;/f0&gt;&lt;f1&gt;以避免一行中字元的上半部被截斷。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the table’&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;w&lt;/f2&gt;idth equals the full length of the line, this setting &lt;f3&gt;has&lt;/f3&gt; no visible effect.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033019Z" creationid="Jeff Huang" creationdate="20180211T033019Z">
+        <seg>如果表格的寬度等於整行寬度，那麼這個設定就不會有可見的效果。</seg>
       </tuv>
     </tu>
     <tu>
