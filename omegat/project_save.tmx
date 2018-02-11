@@ -6421,6 +6421,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can redistribute horizontal space among the existing columns by u&lt;/f0&gt;sing the cursor to drag at cell borders.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034758Z" creationid="Jeff Huang" creationdate="20180211T034758Z">
+        <seg>&lt;f0&gt;你可以使用滑鼠游標在在既有欄位的邊框上拖曳以重新分配其水平間距。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can use Drawing Object styles &lt;/f0&gt;to add your own &lt;f1&gt;unique &lt;/f1&gt;designs, but selecting from the &lt;f2&gt;pre&lt;/f2&gt;-defined layouts is &lt;f3&gt;almost always &lt;/f3&gt;a better use of your time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T170112Z" creationid="Franklin Weng" creationdate="20180120T065113Z">
@@ -9340,6 +9348,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130028Z" creationid="Franklin Weng" creationdate="20171223T120714Z">
         <seg>調整遠近距離以便你設計樣本名片。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adjusting &lt;f0&gt;column spacing&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034505Z" creationid="Jeff Huang" creationdate="20180211T034505Z">
+        <seg>調整&lt;f0&gt;欄間距&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
