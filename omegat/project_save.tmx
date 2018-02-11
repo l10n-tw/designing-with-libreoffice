@@ -1707,6 +1707,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Automatic: &lt;/f0&gt;The table fills the entire line width.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T031846Z" creationid="Jeff Huang" creationdate="20180211T031846Z">
+        <seg>&lt;f0&gt;自動：&lt;/f0&gt;表格會填滿整行的寬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Automatic:&lt;/f0&gt; A minimalist list of &lt;f1&gt;pre-defined &lt;/f1&gt;styles&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155432Z" creationid="zerng07" creationdate="20171224T152927Z">
@@ -3745,6 +3753,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123927Z" creationid="Jeff Huang" creationdate="20180127T023314Z">
         <seg>&lt;f0&gt;左邊距&lt;/f0&gt;與&lt;f1&gt;右邊距&lt;/f1&gt;：&lt;f5&gt;頁首和頁尾的邊距，是從頁面邊距再往中間算的空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Left:&lt;/f0&gt; The &lt;f1&gt;left side of the table aligns with the page’s left margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T031922Z" creationid="Jeff Huang" creationdate="20180211T031922Z">
+        <seg>&lt;f0&gt;左：&lt;/f0&gt;&lt;f1&gt;表格左邊對齊頁面的左邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33202,6 +33218,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T122919Z" creationid="zerng07" creationdate="20180205T122919Z">
         <seg>你可以點按「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;原始大小&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕取消這些變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Spacing &gt; Right&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; to indent the right side of the table.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032022Z" creationid="Jeff Huang" creationdate="20180211T032022Z">
+        <seg>你可以使用&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「間距 &gt; 右」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;來讓表格右邊縮排。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
