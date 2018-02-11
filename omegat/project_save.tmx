@@ -3581,6 +3581,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Cell&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sub-menu, you can split a single selected cell, or merge two or more selected cells, altering the general table design for your specific purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025219Z" creationid="Jeff Huang" creationdate="20180211T025219Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;儲存格&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;子選單中，你可以分離選定的儲存格，或是合併兩個或更多個選定的儲存格，將通用的表格設計更換為根據你的特定用途所設計的表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File name&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, adding a path changes the image from an embedded image that is part of the document file to a linked, separate file.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120816Z" creationid="zerng07" creationdate="20180205T120816Z">
@@ -15648,6 +15656,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141434Z" creationid="Franklin Weng" creationdate="20171223T132459Z">
         <seg>在圖示列的最右邊有一個下拉式選單，拉下來後&lt;f0&gt;選擇&lt;/f0&gt;「&lt;f1&gt;載入樣式&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From these sub-menus, you can &lt;f3&gt;s&lt;/f3&gt;elect, &lt;f4&gt;i&lt;/f4&gt;nsert, or &lt;f5&gt;d&lt;/f5&gt;elete parts of a table, as well as adjusting their width or height.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T024801Z" creationid="Jeff Huang" creationdate="20180211T024801Z">
+        <seg>從這些子選單中，你可以選取、插入或刪除表格的某些元件，也可以調整它們的寬度與高度。</seg>
       </tuv>
     </tu>
     <tu>
