@@ -29983,6 +29983,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete an entire table, &lt;f0&gt;place the mouse cursor anywhere in the table and either click&lt;/f0&gt; &lt;f1&gt;Table &gt; Delete &gt; Table &lt;/f1&gt;from the &lt;f2&gt;main &lt;/f2&gt;menu or select &lt;f3&gt;the table as well as&lt;/f3&gt; the space before and after the table and press the &lt;f4&gt;Delete&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025826Z" creationid="Jeff Huang" creationdate="20180211T025826Z">
+        <seg>要刪除整份表格，&lt;f0&gt;將滑鼠游標置於表格中的任一處，然後從主選單中點按&lt;/f0&gt;&lt;f1&gt;「表格 &gt; 刪除 &gt; 表格」&lt;/f1&gt;或是選取&lt;f3&gt;表格與&lt;/f3&gt;表格前後的空間並按下&lt;f4&gt;Delete&lt;/f4&gt;鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To display, all contents must fall within this area.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T132732Z" creationid="Jeff Huang" creationdate="20180125T132226Z">
