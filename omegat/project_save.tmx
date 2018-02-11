@@ -5020,8 +5020,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Indents &amp; Spacing &gt; Before Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Text Body&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; paragraph style so that the text will begin to the right of the marginalia frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T151705Z" creationid="zerng07" creationdate="20180211T151705Z">
-        <seg>&lt;f0&gt;設定&lt;/f0&gt;「&lt;f4&gt;&lt;f5&gt;內文&lt;/f5&gt;&lt;/f4&gt;」段落樣式中的「&lt;f1&gt;&lt;f2&gt;縮排和間距 &gt; 文字之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;&lt;f6&gt;，讓內文從旁註外框的右側開始。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152218Z" creationid="zerng07" creationdate="20180211T151705Z">
+        <seg>&lt;f0&gt;設定&lt;/f0&gt;「&lt;f4&gt;&lt;f5&gt;內文&lt;/f5&gt;&lt;/f4&gt;」段落樣式中的「&lt;f1&gt;&lt;f2&gt;縮排和間距 &gt; 文字之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位&lt;/f3&gt;&lt;f6&gt;，讓內文從旁註外框的右側開始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11320,8 +11320,8 @@
       <tuv lang="EN">
         <seg>Be sure to leave a generous gap between the frame and the text.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T151913Z" creationid="zerng07" creationdate="20180211T151913Z">
-        <seg>確認外框和文字之間的間隔夠大。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152155Z" creationid="zerng07" creationdate="20180211T151913Z">
+        <seg>確認外框和文字之間的間隔留得夠大。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25205,6 +25205,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T095143Z" creationid="Jeff Huang" creationdate="20180115T032910Z">
         <seg>在Calc、Draw、Impress或Writer中選取&lt;f0&gt;「插入 &gt; 圖表」&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Insert &gt; Frame&lt;/f0&gt; to add a text frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152142Z" creationid="zerng07" creationdate="20180211T152142Z">
+        <seg>選取「&lt;f0&gt;插入 &gt; 外框&lt;/f0&gt;」加入文字外框。</seg>
       </tuv>
     </tu>
     <tu>
