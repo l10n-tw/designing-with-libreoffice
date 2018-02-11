@@ -26556,6 +26556,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Table&lt;/f0&gt; tab &lt;f1&gt;of the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Table Format&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; dialog window &lt;/f4&gt;has fields for &lt;f5&gt;positioning&lt;/f5&gt; a table horizontally &lt;f6&gt;and vertically.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T031322Z" creationid="Jeff Huang" creationdate="20180211T031322Z">
+        <seg>&lt;f2&gt;&lt;f3&gt;表格格式&lt;/f3&gt;&lt;/f2&gt;的&lt;f0&gt;表格&lt;/f0&gt;標籤&lt;f4&gt;對話框&lt;/f4&gt;包含了用於水平或&lt;f6&gt;垂直&lt;/f6&gt;&lt;f5&gt;定位&lt;/f5&gt;表格的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Text Body &lt;/f0&gt;style is already created.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T134318Z" creationid="zerng07" creationdate="20180125T134318Z">
