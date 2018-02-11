@@ -904,6 +904,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;However, it is available if it will be useful for captions if you prefer not to place captions in a frame.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134406Z" creationid="Jeff Huang" creationdate="20180211T134406Z">
+        <seg>&lt;/f4&gt;&lt;f6&gt;不過，如果你不想把標題放在框架中，這就相當有用。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131558Z" creationid="Franklin Weng" creationdate="20180126T131558Z">
@@ -4698,6 +4706,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124541Z" creationid="zerng07" creationdate="20180209T124541Z">
         <seg>&lt;f0&gt;請記住&lt;/f0&gt;，&lt;f1&gt;當使用者聽到聲音或看到巨集效果時&lt;/f1&gt;，十之八九會希望有辦法關掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Repeat Heading:&lt;/f0&gt; &lt;f1&gt;Repeats the top row(s) of a table on each page if the table continues on another page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134512Z" creationid="Jeff Huang" creationdate="20180211T134512Z">
+        <seg>&lt;f0&gt;重覆標題：&lt;/f0&gt;&lt;f1&gt;如果表格內容在另一列的話，重覆表格的前幾列。</seg>
       </tuv>
     </tu>
     <tu>
