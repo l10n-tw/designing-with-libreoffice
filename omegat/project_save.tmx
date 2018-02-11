@@ -6581,6 +6581,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can redistribute vertical space between the existing rows by u&lt;/f0&gt;sing the cursor to drag at cell borders &lt;f1&gt;or selecting&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;Row &gt; Height&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; from the right-click menu.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T125623Z" creationid="Jeff Huang" creationdate="20180211T125623Z">
+        <seg>&lt;f0&gt;你可以使用滑鼠游標拖曳儲存格邊框&lt;/f0&gt;&lt;f1&gt;或是從右鍵選單中選取&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;「列 &gt; 高度」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;來重新分配既有的列的垂直高度。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can use Drawing Object styles &lt;/f0&gt;to add your own &lt;f1&gt;unique &lt;/f1&gt;designs, but selecting from the &lt;f2&gt;pre&lt;/f2&gt;-defined layouts is &lt;f3&gt;almost always &lt;/f3&gt;a better use of your time.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T170112Z" creationid="Franklin Weng" creationdate="20180120T065113Z">
