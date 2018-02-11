@@ -4366,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page styles set how sheets are printed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084207Z" creationid="Franklin Weng" creationdate="20180211T084207Z">
+        <seg>&lt;f0&gt;頁面樣式用來設定工作表要如何列印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Page&lt;/f0&gt; styles are the most reliable way to format pages differently, including headers and footers and footnotes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060017Z" creationid="zerng07" creationdate="20171224T060017Z">
@@ -9960,6 +9968,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An entire sheet (select the cell above row 1 and to the left of column A).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084749Z" creationid="Franklin Weng" creationdate="20180211T084749Z">
+        <seg>整張工作表（點按在 A1 儲存格左上角那個空白處）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An epigraph, or short quote at the start of the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104542Z" creationid="Jeff Huang" creationdate="20180124T134244Z">
@@ -10231,6 +10247,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133844Z" creationid="Jeff Huang" creationdate="20180202T133844Z">
         <seg>套用清單樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applying spreadsheet &lt;f0&gt;styles&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084632Z" creationid="Franklin Weng" creationdate="20180211T084632Z">
+        <seg>套用試算表&lt;f0&gt;樣式&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10680,6 +10704,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T140050Z" creationid="Franklin Weng" creationdate="20180106T043208Z">
         <seg>有時候，如果所有嘗試都失敗的話，就試著換成字族中的其他樣式看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At other times, pages may be color code&lt;f1&gt;d&lt;/f1&gt; by purpose or customer, &lt;f2&gt;or include a sheet used as a title page.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084619Z" creationid="Franklin Weng" creationdate="20180211T084619Z">
+        <seg>其他的時候，頁面可以依目的或客戶來&lt;f1&gt;上不同的色彩&lt;/f1&gt;，&lt;f2&gt;或是加入一個工作表來當標題頁。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11939,6 +11971,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185102Z" creationid="Franklin Weng" creationdate="20180204T185102Z">
         <seg>總計、小計等儲存格&lt;f1&gt;可能可以用別的背景色彩&lt;/f1&gt;，並且應該放在&lt;f2&gt;靠近它們所表達的圖表附近&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cells to be hidden when printing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084147Z" creationid="Franklin Weng" creationdate="20180211T084147Z">
+        <seg>在列印時要隱藏起來的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19767,6 +19807,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual cells or a range of cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084700Z" creationid="Franklin Weng" creationdate="20180211T084700Z">
+        <seg>個別的儲存格，或儲存格範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information designer Edward Tufte points out that presentations are designed for a lecture format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T021505Z" creationid="Franklin Weng" creationdate="20180106T125820Z">
@@ -22394,6 +22442,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often, you may need only one style, &lt;/f0&gt;selecting colors for branding or purposes and choosing the tactic for printing hard copy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084508Z" creationid="Franklin Weng" creationdate="20180211T084508Z">
+        <seg>通常你只需要一種樣式，&lt;/f0&gt;選擇品牌或目的的色彩，然後選擇如何列印出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often, you will not find exactly the sample you need, but if you pick the one closest to it, you can modify it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T085229Z" creationid="Jeff Huang" creationdate="20180120T131611Z">
@@ -22648,6 +22704,22 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T041548Z" creationid="Franklin Weng" creationdate="20180107T062355Z">
         <seg>你的目標之一是希望&lt;f0&gt;聽眾可以參與互動。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One or more columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084707Z" creationid="Franklin Weng" creationdate="20180211T084707Z">
+        <seg>一個或以上的欄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One or more rows.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084713Z" creationid="Franklin Weng" creationdate="20180211T084713Z">
+        <seg>一個或以上的列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29406,6 +29478,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They define page dimensions, format headers, footers, and margins, and how wide sheets are printed on multiple pages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084411Z" creationid="Franklin Weng" creationdate="20180211T084411Z">
+        <seg>這些設定包括頁面的大小、頁首頁尾的格式、頁面的邊距，以及欄位較多的工作表要如何印在多個頁面上等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They do not affect shape or size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T032145Z" creationid="Jeff Huang" creationdate="20171220T080023Z">
@@ -30143,10 +30223,26 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a page style, &lt;f0&gt;you technically need only to place the cursor anywhere on a sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084938Z" creationid="Franklin Weng" creationdate="20180211T084938Z">
+        <seg>要套用頁面樣式，&lt;f0&gt;你只需要把游標移在工作表上的任何位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a style, you must select part of the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T084001Z" creationid="zerng07" creationdate="20171226T084001Z">
         <seg>如果要套用樣式，你必須先選取一部份的文件內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply cell styles, you can select:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084642Z" creationid="Franklin Weng" creationdate="20180211T084642Z">
+        <seg>要套用試算表樣式，你可以選擇：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32083,6 +32179,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145544Z" creationid="Franklin Weng" creationdate="20180206T145544Z">
         <seg>當基本的佈局做好以後，&lt;f0&gt;就開始輸入學生成績跟計算用的函式：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the cells are selected, click the style in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window &lt;f1&gt;in the side bar.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084905Z" creationid="Franklin Weng" creationdate="20180211T084905Z">
+        <seg>當選完儲存格後，點按右方側邊欄的「樣式」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
