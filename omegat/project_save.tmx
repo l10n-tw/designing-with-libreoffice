@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122936Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;unning headers or footers &lt;f1&gt;can be set up using any paragraph style set as an outline level.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T142055Z" creationid="Jeff Huang" creationdate="20180127T133736Z">
@@ -5311,6 +5319,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140443Z" creationid="zerng07" creationdate="20180130T140443Z">
         <seg>&lt;f0&gt;可以考慮的策略有：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;O&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;rientation &lt;/f3&gt;is useful largely for headings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122704Z" creationid="Franklin Weng" creationdate="20180211T122704Z">
+        <seg>「&lt;f0&gt;文字&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;方向&lt;/f3&gt;」的設定大部份用在標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11641,6 +11657,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T080415Z" creationid="Franklin Weng" creationdate="20171231T131902Z">
         <seg>不過你需要記住的是，所有的區分系統，都是相對於同一個字型家族而言所做的大略分類。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By angling headings, you can often squeeze the entire text into a column that would otherwise be too small for it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122825Z" creationid="Franklin Weng" creationdate="20180211T122825Z">
+        <seg>調整標題文字的角度，通常可以讓你把整段文字擠在一起，以便放入不怎麼寬的欄中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33642,6 +33666,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142749Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
         <seg>你可以在範本路徑中新增其他目錄，用半形分號分隔即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can adjust text with the dial counter, or more precisely by entering an angle in the &lt;f0&gt;Degrees&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122945Z" creationid="Franklin Weng" creationdate="20180211T122933Z">
+        <seg>你可以用旁邊的上下箭頭，或是直接輸入角度數值在「&lt;f0&gt;度&lt;/f0&gt;」這個欄位中。</seg>
       </tuv>
     </tu>
     <tu>
