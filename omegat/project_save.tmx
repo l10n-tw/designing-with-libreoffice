@@ -1032,6 +1032,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Allow table to split across pages and columns:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; A multi-page table tends to defeat the purpose of making information easily read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T131545Z" creationid="Jeff Huang" creationdate="20180211T131545Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;允許跨頁和跨欄分割表格：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;一個多頁的表格往往讓資訊的易讀性付之闕如。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Fixed&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; also has the advantage that documents will be register-true, regardless of whether the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Register-true&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; setting is turned on.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024717Z" creationid="zerng07" creationdate="20180122T024437Z">
