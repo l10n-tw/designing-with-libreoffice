@@ -1490,6 +1490,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alternatively, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table Properties &gt; Columns&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu and balancing the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Column Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T035304Z" creationid="Jeff Huang" creationdate="20180211T035304Z">
+        <seg>&lt;f0&gt;或是從右鍵選單中選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「表格屬性 &gt; 欄」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;然後平衡&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;欄寬&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Although often more elaborate than strictly necessary, these wizards can give you a starting point to studying templates.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T134357Z" creationid="Franklin Weng" creationdate="20171215T125929Z">
@@ -7095,6 +7103,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T075433Z" creationid="zerng07" creationdate="20180125T044408Z">
         <seg>&lt;f1&gt;這套組合鍵可以放置條件式連字號，它只能在靠近行尾右邊距的斷字處理區域協助斷字。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;This method may seem inexact, but with both vertical and horizontal rulers in the editing window, it can actually be as exact as any choice.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034927Z" creationid="Jeff Huang" creationdate="20180211T034927Z">
+        <seg>&lt;f1&gt;這個方法看起來似乎不太精確，但因為編輯視窗中有垂直與水平尺規，實際上它可以和任何選擇一樣精確。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
