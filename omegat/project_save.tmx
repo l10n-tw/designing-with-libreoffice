@@ -1618,6 +1618,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Anchor it &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;To paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152348Z" creationid="zerng07" creationdate="20180211T152348Z">
+        <seg>&lt;f0&gt;錨定設為「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;至段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Another choice is&lt;/f0&gt; to turn off hyphenation completely, which is &lt;f1&gt;probably &lt;/f1&gt;why the &lt;f2&gt;Text Flow&lt;/f2&gt; tab does &lt;f3&gt;not &lt;/f3&gt;check the &lt;f4&gt;&lt;f5&gt;Automatically&lt;/f5&gt;&lt;/f4&gt; hyphenation box &lt;f6&gt;by default&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T033045Z" creationid="zerng07" creationdate="20180125T033045Z">
@@ -4045,6 +4053,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Make the frame borderless.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152429Z" creationid="zerng07" creationdate="20180211T152415Z">
+        <seg>&lt;f0&gt;」。邊框改為沒有邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Making a s&lt;/f0&gt;tructural &lt;f1&gt;t&lt;/f1&gt;emplate</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T071308Z" creationid="Franklin Weng" creationdate="20180109T132240Z">
@@ -5014,6 +5030,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085046Z" creationid="zerng07" creationdate="20180121T084953Z">
         <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 一般 &gt; 設定 &gt; 定量單位&lt;/f2&gt;&lt;/f1&gt;」中，將預設單位設為「點」。&lt;f3&gt;完成設計之後，你可以把預設單位設回公分或英吋，但一般字體排印最常用的單位還是點。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the frame style to&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Marginalia.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152535Z" creationid="zerng07" creationdate="20180211T152535Z">
+        <seg>&lt;f0&gt;將外框樣式設定成「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;旁註&lt;/f2&gt;&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7423,6 +7447,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143935Z" creationid="zerng07" creationdate="20171219T143935Z">
         <seg>&lt;f1&gt;直到你結束樣式設計為止會需要做出許多更動，所以建立樣式是浪費時間。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Use the following format&lt;/f1&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152257Z" creationid="zerng07" creationdate="20180211T152257Z">
+        <seg>&lt;f1&gt;外框使用下列格式&lt;/f1&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11320,8 +11352,8 @@
       <tuv lang="EN">
         <seg>Be sure to leave a generous gap between the frame and the text.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152155Z" creationid="zerng07" creationdate="20180211T151913Z">
-        <seg>確認外框和文字之間的間隔留得夠大。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152239Z" creationid="zerng07" creationdate="20180211T151913Z">
+        <seg>確保外框和文字間的間隔留得夠大。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28263,6 +28295,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T080056Z" creationid="zerng07" creationdate="20180125T080056Z">
         <seg>下面這篇看起來沒那麼亂，因為它把縮排的數量減少到三種。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The boundary of the frame will be visible when editing but it will not print, nor will it be visible in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Print Preview.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152516Z" creationid="zerng07" creationdate="20180211T152516Z">
+        <seg>外框的邊界在編輯時都還看得見，但是不會印出來，也不會出現在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔案 &gt; 列印預覽&lt;/f2&gt;&lt;/f1&gt;」中。</seg>
       </tuv>
     </tu>
     <tu>
