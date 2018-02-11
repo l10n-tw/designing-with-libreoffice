@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131342Z" creationid="Franklin Weng" creationdate="20180211T131342Z">
+        <seg>&lt;/f23&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T100612Z" creationid="Franklin Weng" creationdate="20171231T100612Z">
@@ -4592,8 +4600,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122936Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
-        <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T125704Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;盡量少旋轉文字。在「&lt;f1&gt;文字方向&lt;/f1&gt;」的轉盤以逆時針旋轉，&lt;f2&gt;讓文字從最低處開始。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6307,6 +6315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;W&lt;/f0&gt;hen spreadsheets first became popular, most users were satisfied with text appearing in a single line, &lt;f1&gt;extending into the next cell.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131608Z" creationid="Franklin Weng" creationdate="20180211T131608Z">
+        <seg>&lt;f0&gt;W&lt;/f0&gt;hen spreadsheets first became popular, most users were satisfied with text appearing in a single line, &lt;f1&gt;extending into the next cell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wall:&lt;/f0&gt; The background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094351Z" creationid="Jeff Huang" creationdate="20180115T030728Z">
@@ -6681,6 +6697,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053631Z" creationid="zerng07" creationdate="20180210T053631Z">
         <seg>&lt;f12&gt;如果你無法解釋出你之所以這麼做的原因，那麼請避免使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f18&gt;At times, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Text Extension Inside Cell&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; may be reasonable, &lt;/f21&gt;&lt;t22/&gt;&lt;f23&gt;since it confines text to within the cell border, although it can quickly become too small to read easily.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131341Z" creationid="Franklin Weng" creationdate="20180211T131341Z">
+        <seg>&lt;f18&gt;有的時候，&lt;/f18&gt;「&lt;f19&gt;&lt;f20&gt;文字只在儲存格內延伸&lt;/f20&gt;&lt;/f19&gt;」&lt;f21&gt;也可能是個合理的選擇，&lt;/f21&gt;&lt;t22/&gt;&lt;f23&gt;因為它會把文字侷限在儲存格邊框內，雖然可能很快文字就會縮小到無法閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,6 +7851,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Text &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;E&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;xtension &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;F&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;rom &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;L&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;ower &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;C&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;ell &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;B&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;order&lt;/f17&gt; gives you the most space, and is usually a reasonable default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131227Z" creationid="Franklin Weng" creationdate="20180211T131227Z">
+        <seg>&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;/f17&gt;「文字從儲存格下邊緣延伸」會讓你有最多空間放文字，通常是個合理的預設值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;That means that if the document has more than two instances of the heading, using styles saves you effort.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113912Z" creationid="zerng07" creationdate="20171219T113834Z">
@@ -8442,6 +8474,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115429Z" creationid="zerng07" creationdate="20180209T115429Z">
         <seg>「&lt;f7&gt;&lt;f8&gt;保護&lt;/f8&gt;&lt;/f7&gt;」無法&lt;f9&gt;協助&lt;/f9&gt;讓影像定在某個位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f6&gt;Rotating text may allow more to be squeezed in, but often at the cost of reduced readability.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130737Z" creationid="Franklin Weng" creationdate="20180211T130737Z">
+        <seg>&lt;f6&gt;除非你真的要把文字擠在小儲存格中，才考慮旋轉文字，因為它通常會犧牲可讀性。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9524,6 +9564,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T122405Z" creationid="zerng07" creationdate="20180209T122405Z">
         <seg>加入超連結和巨集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding hyphenation and text wrap</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131459Z" creationid="Franklin Weng" creationdate="20180211T131443Z">
+        <seg>加入連字號與文字折行處理</seg>
       </tuv>
     </tu>
     <tu>
@@ -16188,6 +16236,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From left to right: a 45-degree angle, a 90-degree angle, and &lt;f0&gt;v&lt;/f0&gt;ertically stacked&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131416Z" creationid="Franklin Weng" creationdate="20180211T131416Z">
+        <seg>從左到右：45 度角，90 度角，還有「垂直堆疊」。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the menu, select&lt;f0&gt; Insert &gt; Fields &gt; Other &gt; Document &gt; Date.&lt;/f0&gt; Select &lt;f1&gt;a&lt;/f1&gt; format from the &lt;f2&gt;Format&lt;/f2&gt; pane, then &lt;f3&gt;click&lt;/f3&gt; the &lt;f4&gt;Insert&lt;/f4&gt; button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005920Z" creationid="zerng07" creationdate="20180125T130004Z">
@@ -21349,6 +21405,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Like text orientation, hyphenation and text wrap settings are found on the &lt;f0&gt;Alignment&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131530Z" creationid="Franklin Weng" creationdate="20180211T131452Z">
+        <seg>就跟文字方向一樣，連字號與文字折行設定都被放在「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>不確定「隱藏字型效果」是指什麼，先 skip。=&gt; 看起來是已經被砍掉的功能，爬 UI 可翻譯的字串爬不到。</note>
       <tuv lang="EN">
         <seg>Like the &lt;f0&gt;Hide Font &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;e&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ffect,&lt;/f3&gt; the &lt;f4&gt;Range&lt;/f4&gt; pane is useful for single-sourcing similar presentations in the same file.</seg>
@@ -21997,6 +22061,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T132336Z" creationid="Jeff Huang" creationdate="20180131T132336Z">
         <seg>最近，投影片進一步推進了項目符號的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More than &lt;f3&gt;a 45-&lt;/f3&gt;degree &lt;f4&gt;angle&lt;/f4&gt; should generally be avoided, and even more so &lt;f5&gt;Vertically Stacked,&lt;/f5&gt; which displays text vertically, character by character.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130649Z" creationid="Franklin Weng" creationdate="20180211T130649Z">
+        <seg>通常不要轉超過 &lt;f3&gt;45&lt;/f3&gt; &lt;f4&gt;度&lt;/f4&gt;，或甚至用「&lt;f5&gt;垂直堆疊&lt;/f5&gt;」，也就是垂直方向一個字元一個字元這樣顯示文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24578,6 +24650,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122513Z" creationid="Franklin Weng" creationdate="20180211T122513Z">
         <seg>旋轉文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rotating text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131348Z" creationid="Franklin Weng" creationdate="20180211T131348Z">
+        <seg>旋轉文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33746,6 +33826,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142749Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
         <seg>你可以在範本路徑中新增其他目錄，用半形分號分隔即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can adjust rotated text by selecting its &lt;f0&gt;Reference Edge –&lt;/f0&gt; &lt;f1&gt;that is, &lt;/f1&gt;where the text starts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130839Z" creationid="Franklin Weng" creationdate="20180211T130839Z">
+        <seg>另外文字旋轉後可以選擇它的「&lt;f0&gt;參照邊線&lt;/f0&gt;」 – &lt;f1&gt;也就是&lt;/f1&gt;文字開始的地方。</seg>
       </tuv>
     </tu>
     <tu>
