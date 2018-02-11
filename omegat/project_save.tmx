@@ -4294,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other formats, such as dates or currency, must be specifically set from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbers&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113147Z" creationid="Franklin Weng" creationdate="20180211T113147Z">
+        <seg>&lt;f0&gt;其他的格式，如日期或貨幣，則必須經由格式設定中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「數字」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁&lt;/f3&gt;來設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Other names for&lt;/f0&gt; pre-defined styles are descriptive, such as &lt;f1&gt;Object without fill&lt;/f1&gt; &lt;f2&gt;in Draw.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T161131Z" creationid="zerng07" creationdate="20171227T161131Z">
@@ -6263,6 +6271,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031524Z" creationid="Jeff Huang" creationdate="20180201T031524Z">
         <seg>&lt;f0&gt;如果沒辦法確定的話就不要用吧。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When you &lt;/f0&gt;select another &lt;f1&gt;format&lt;/f1&gt;, the behavior of the cell becomes fixed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113420Z" creationid="Franklin Weng" creationdate="20180211T113420Z">
+        <seg>&lt;f0&gt;當你&lt;/f0&gt;選擇其他的&lt;f1&gt;格式&lt;/f1&gt;時，儲存格的行為就會變得固定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9864,6 +9880,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alphabetical characters are assumed to be text, &lt;f0&gt;aligned to the left, &lt;/f0&gt;and numbers are assumed to be ordinary number&lt;f1&gt;s, aligned to the right for convenience when reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113103Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
+        <seg>英文或拉丁文等字母預設為文字型態，置左對齊，而數字則預設為... 數字，會靠右對齊以方便閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also available on Google Books.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T183302Z" creationid="zerng07" creationdate="20171227T183302Z">
@@ -11821,6 +11845,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, cells are set to contain any sort of information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112912Z" creationid="Franklin Weng" creationdate="20180211T112912Z">
+        <seg>儲存格預設是可以包含任何型態的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, content is aligned to the top of cells on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034330Z" creationid="Jeff Huang" creationdate="20180211T034330Z">
@@ -13196,6 +13228,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T133019Z" creationid="zerng07" creationdate="20180205T133019Z">
         <seg>裁切是將影像化簡成只有必要部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currency and other symbols are added automatically, &lt;f7&gt;depending on the format.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113950Z" creationid="Franklin Weng" creationdate="20180211T113950Z">
+        <seg>貨幣與其他符號會&lt;f7&gt;根據格式設定&lt;/f7&gt;而自動加入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15675,6 +15715,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, selecting &lt;f2&gt;Text&lt;/f2&gt; means that numbers are treated as text characters, which might be handy in a list of &lt;f3&gt;numerical&lt;/f3&gt; addresses &lt;f4&gt;that you did not want aligned to the right.&lt;/f4&gt; Similarly, selecting &lt;f5&gt;Date&lt;/f5&gt; means that today’s date is always &lt;t6/&gt;presented in the format you select.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113709Z" creationid="Franklin Weng" creationdate="20180211T113709Z">
+        <seg>比方說，型態選擇「&lt;f2&gt;文字&lt;/f2&gt;」就表示即使輸入的是數字，也會當成文字字元來處理。這可以用來處理地址清單中的&lt;f3&gt;數字&lt;/f3&gt;，因為你可能&lt;f4&gt;不想讓這數字靠右對齊&lt;/f4&gt;。或者是選擇「&lt;f5&gt;日期&lt;/f5&gt;」，則表示今天的日期&lt;t6/&gt;一定會用你所設定的日期格式來顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, single sheet brochures are often printed duplex (double-sided) with connected frames on one side for pages two and three, and frames on the other side for pages one and four.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114848Z" creationid="Jeff Huang" creationdate="20180125T130538Z">
@@ -15855,6 +15903,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135511Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
         <seg>將存放原始資料，還有操作資料用的儲存格做不同的格式設定。&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formats are often available with and without decimal places.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114137Z" creationid="Franklin Weng" creationdate="20180211T114137Z">
+        <seg>格式有含小數位跟不含小數位的區別。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16288,6 +16344,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T125959Z" creationid="Franklin Weng" creationdate="20171223T095047Z">
         <seg>開啟「&lt;f0&gt;&lt;f1&gt;檔案 &gt; 新增 &gt; 名片&lt;/f1&gt;&lt;/f0&gt;」，並選擇「單張」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go wild – if the background makes a useful distinction, no one will care if it is gaudy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112810Z" creationid="Franklin Weng" creationdate="20180211T112810Z">
+        <seg>所以放膽去用 – 既然背景是用來做區分的，就沒有人會在乎用色是否太花俏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17173,6 +17237,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, make sure that backgrounds contrast with foregrounds, so that cell contents can be easily read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112844Z" creationid="Franklin Weng" creationdate="20180211T112844Z">
+        <seg>不過，一樣要記得確保背景與前景色彩的對比夠強，這樣儲存格的內容才容易閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, many charts only require one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091340Z" creationid="Jeff Huang" creationdate="20180113T131404Z">
@@ -17193,6 +17265,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T032424Z" creationid="Jeff Huang" creationdate="20180210T032424Z">
         <seg>不過現代的慣例傾向於儘量減少使用背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, note that:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114038Z" creationid="Franklin Weng" creationdate="20180211T114038Z">
+        <seg>不過，要留意以下幾點：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25139,6 +25219,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting how numbers are handled</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112851Z" creationid="Franklin Weng" creationdate="20180211T112851Z">
+        <seg>設定如何處理數字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting hyphenation</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025204Z" creationid="zerng07" creationdate="20180125T025204Z">
@@ -26972,6 +27060,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Numbers&lt;/f0&gt; tab &lt;f1&gt;sets how cells&lt;/f1&gt; treat numbers &lt;f2&gt;(and text, too).&lt;/f2&gt; &lt;f3&gt;The available default formats depend on the locale to which LibreOffice is set.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113346Z" creationid="Franklin Weng" creationdate="20180211T113346Z">
+        <seg>「&lt;f0&gt;數字&lt;/f0&gt;」標籤頁&lt;f1&gt;設定儲存格&lt;/f1&gt;如何處理數字&lt;f2&gt;（還有文字）。&lt;/f2&gt; &lt;f3&gt;預設的格式設定則跟 LibreOffice 所設定的語言環境設定有關。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Option&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt; tab for &lt;f3&gt;f&lt;/f3&gt;rame styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T120345Z" creationid="zerng07" creationdate="20180209T120345Z">
@@ -27467,6 +27563,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091523Z" creationid="Jeff Huang" creationdate="20180113T131937Z">
         <seg>可用的圖表類型有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The available formats depends on the category.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113959Z" creationid="Franklin Weng" creationdate="20180211T113959Z">
+        <seg>可用的格式則依類別而定。</seg>
       </tuv>
     </tu>
     <tu>
