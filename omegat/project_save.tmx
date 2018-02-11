@@ -13120,6 +13120,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting text to a table requires markers to mark columns and rows, and is rarely worth the effort.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T135028Z" creationid="Jeff Huang" creationdate="20180211T135028Z">
+        <seg>將文字轉換為表格需要先手動標記欄與列，是很不值得的努力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cool!” and plunged ahead.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T134408Z" creationid="Jeff Huang" creationdate="20180118T030701Z">
@@ -17216,6 +17224,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T114927Z" creationid="Jeff Huang" creationdate="20180115T035705Z">
         <seg>不過，如果在開始前花更多時間規劃，你應該會在工作中節省修改設計的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, converting a table to text saves time when you decide to change the presentation of information or are working with data that uses tabs to create columns.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T135256Z" creationid="Jeff Huang" creationdate="20180211T135256Z">
+        <seg>不過，將表格轉換為文字則可以為你在決定更換資訊顯示方式或處理使用製表符建立的資料時節省時間。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
