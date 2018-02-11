@@ -8672,6 +8672,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A more exact way to edit is to use the &lt;f0&gt;Cell&lt;/f0&gt;, &lt;f1&gt;Row&lt;/f1&gt;, and &lt;f2&gt;Column&lt;/f2&gt; sub-menus on the right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T024643Z" creationid="Jeff Huang" creationdate="20180211T024643Z">
+        <seg>更準確的方式是使用右鍵選單中的&lt;f0&gt;儲存格&lt;/f0&gt;、&lt;f1&gt;欄&lt;/f1&gt;與&lt;f2&gt;列&lt;/f2&gt;子選單來編輯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more flexible set of rules &lt;f0&gt;can be distilled from the majority of theories and layouts:&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T053635Z" creationid="Jeff Huang" creationdate="20180126T121018Z">
@@ -17539,6 +17547,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115210Z" creationid="zerng07" creationdate="20171226T115210Z">
         <seg>如果這個按鈕顏色轉灰，代表選取的樣式類別不能使用&lt;f0&gt;填入格式&lt;/f0&gt;功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the cursor is simply in the table, you edit the entire table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T024343Z" creationid="Jeff Huang" creationdate="20180211T024343Z">
+        <seg>如果游標放在表格中，那就是編輯整格表格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31956,6 +31972,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135940Z" creationid="zerng07" creationdate="20171226T135940Z">
         <seg>當你貼上一段內容時，請點按上層工具列「&lt;f0&gt;貼上&lt;/f0&gt;」圖示旁的下箭頭，並選擇&lt;f1&gt;未格式設定的文字&lt;/f1&gt;。 這個額外動作可以預防格式設定的各種疑難雜症。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you right-click in a table and select &lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Properties&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;from the right-click menu, &lt;/f3&gt;you &lt;f4&gt;can &lt;/f4&gt;edit all parts of the table that are currently selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T024245Z" creationid="Jeff Huang" creationdate="20180211T024245Z">
+        <seg>當你在表格上按右鍵並&lt;f3&gt;從右鍵選單&lt;/f3&gt;選取&lt;f0&gt;表格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;屬性&lt;/f2&gt;&lt;/f1&gt;後，你就&lt;f4&gt;可以&lt;/f4&gt;編輯目前選取的所有表格元件。</seg>
       </tuv>
     </tu>
     <tu>
