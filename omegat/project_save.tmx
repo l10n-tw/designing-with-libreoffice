@@ -4278,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other colors can be easily confused with the colored lines that Calc uses for display purposes but does not print.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T111942Z" creationid="Franklin Weng" creationdate="20180211T111700Z">
+        <seg>&lt;f0&gt;如果文字也用彩色的，就很容易跟 Calc 中用來顯示但不列印的背景色彩混淆。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Other content is available at &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Fields &gt; Other.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Most of the fields you might consider using are on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab and the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;DocInformation&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135426Z" creationid="Jeff Huang" creationdate="20180127T125027Z">
@@ -7695,6 +7703,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165606Z" creationid="zerng07" creationdate="20170822T163203Z">
         <seg>&lt;f2&gt;與之相反，LibreOffice是一套&lt;/f2&gt;強大的&lt;f3&gt;&lt;/f3&gt;軟體，它有&lt;f4&gt;它&lt;/f4&gt;自己的特長。&lt;f5&gt;它有時候用起來可能比Microsoft Office還差，但一樣有時候卻又比Microsoft Office更強。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Sometimes, they&lt;/f2&gt; distinguish &lt;f3&gt;calculations&lt;/f3&gt; and formula results &lt;f4&gt;in a data collection&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112627Z" creationid="Franklin Weng" creationdate="20180211T112627Z">
+        <seg>&lt;f2&gt;有的時候，背景色用來在資料集合中區分&lt;/f2&gt;&lt;f3&gt;計算與公式的結果&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24771,6 +24787,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;b&lt;/f0&gt;ackgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112046Z" creationid="Franklin Weng" creationdate="20180211T112046Z">
+        <seg>選擇&lt;f0&gt;背景&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;b&lt;/f0&gt;orders</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093629Z" creationid="Franklin Weng" creationdate="20180211T093629Z">
@@ -31412,6 +31436,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185650Z" creationid="Franklin Weng" creationdate="20180204T185650Z">
         <seg>畢竟比起文字文件來說，試算表還是以務實為主。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike text documents, spreadsheets use backgrounds freely &lt;f0&gt;for purposes such as classifying&lt;/f0&gt; tasks or &lt;f1&gt;who does them&lt;/f1&gt; in a list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112412Z" creationid="Franklin Weng" creationdate="20180211T112412Z">
+        <seg>跟文字文件不同，試算表對背景的使用比較自由，&lt;f0&gt;通常用來分類工作&lt;/f0&gt;，或在清單中&lt;f1&gt;標記工作的負責人&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
