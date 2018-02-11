@@ -3042,6 +3042,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Here, those tourists who identify as female are shown to spend the most money when traveling.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T060729Z" creationid="Franklin Weng" creationdate="20180211T060729Z">
+        <seg>&lt;f0&gt;這裡的例子中，女性在旅遊中的花費是最高的。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hidden Styles:&lt;/f0&gt; Styles you have removed from the other views to reduce the clutter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153957Z" creationid="zerng07" creationdate="20171224T153935Z">
@@ -8880,6 +8888,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A pivot table that takes the source data and rearranges its information to show tourist spending by gender.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T060644Z" creationid="Franklin Weng" creationdate="20180211T060644Z">
+        <seg>一份樞紐分析咬，將資料來源重新安排，依遊客性別顯示旅遊的花費狀況。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A quotation of over three lines or &lt;f0&gt;100&lt;/f0&gt; words.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064003Z" creationid="zerng07" creationdate="20180125T064003Z">
@@ -12315,6 +12331,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131817Z" creationid="zerng07" creationdate="20180205T131817Z">
         <seg>清理影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Data &gt; Pivot Table &gt; Refresh&lt;/f0&gt; to update pivot tables with the latest data or to correct a mistake.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061104Z" creationid="Franklin Weng" creationdate="20180211T061015Z">
+        <seg>如果要更新資料，或修正錯誤之後，從選單中點按「&lt;f0&gt;資料 &gt; 樞紐分析表 &gt; 重新整理&lt;/f0&gt;」 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23129,6 +23153,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pivot tables are uneditable, and do not refresh automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061020Z" creationid="Franklin Weng" creationdate="20180211T060751Z">
+        <seg>建立好的樞紐分析表是不能編輯的，而且不會自動重新整理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place sample tables of the appropriate widths in &lt;f0&gt;&lt;f1&gt;Table &gt; AutoFormat (&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;see “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Using AutoFormats&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;,” page &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;35&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;).&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T030306Z" creationid="Jeff Huang" creationdate="20180210T030306Z">
@@ -28254,8 +28286,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The pivot table appears in the &lt;f1&gt;d&lt;/f1&gt;estination entered by default or edited by you.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T140353Z" creationid="Franklin Weng" creationdate="20180210T140353Z">
-        <seg>The pivot table appears in the &lt;f1&gt;d&lt;/f1&gt;estination entered by default or edited by you.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T060558Z" creationid="Franklin Weng" creationdate="20180210T140353Z">
+        <seg>它會出現在預設，或是你所指定的位置。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
