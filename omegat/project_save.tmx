@@ -4165,6 +4165,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;O&lt;/f0&gt;ld style figures &lt;f1&gt;look more polished in text, but are&lt;/f1&gt; harder to read than lining figures &lt;f2&gt;in a spreadsheet or table.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093616Z" creationid="Franklin Weng" creationdate="20180211T093616Z">
+        <seg>&lt;f0&gt;舊式數字&lt;/f0&gt;在文字中&lt;f1&gt;看起來比較優雅&lt;/f1&gt;，但是在&lt;f2&gt;試算表或表格&lt;/f2&gt;中看起來則變得很難閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;ver the years, LibreOffice has added tools to make &lt;f1&gt;manual formatting of pages&lt;/f1&gt; easier.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T075851Z" creationid="Jeff Huang" creationdate="20180124T085813Z">
@@ -11300,6 +11308,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Borders &lt;f0&gt;in spreadsheets help to mark data arrays as separate from other figures on the sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093854Z" creationid="Franklin Weng" creationdate="20180211T093854Z">
+        <seg>&lt;f0&gt;在試算表中的邊框可以幫忙在工作表裡的一大堆數字中標記出資料陣列所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both LibreOffice and Apache OpenOffice are widely available &lt;f0&gt;at no cost to anyone with an Internet connection.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T182000Z" creationid="zerng07" creationdate="20170817T182000Z">
@@ -16812,6 +16828,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, blank cells or backgrounds can be used instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093909Z" creationid="Franklin Weng" creationdate="20180211T093909Z">
+        <seg>不過當然也可以改用空白的儲存格或背景來代替。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, borders are usually unnecessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T074525Z" creationid="Jeff Huang" creationdate="20180118T134732Z">
@@ -20668,6 +20692,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left: Old style figures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093343Z" creationid="Franklin Weng" creationdate="20180211T093343Z">
+        <seg>左方：舊式數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left: Serif font (Goudy Bookletter 1911).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T164752Z" creationid="Franklin Weng" creationdate="20171225T092814Z">
@@ -22570,6 +22602,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Old style figures, each with their own baselines, can be easier to read in text &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;documents, but modern readers are likely to find them harder to read in rows of figures.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093336Z" creationid="Franklin Weng" creationdate="20180211T093336Z">
+        <seg>舊式數字裡每個數字都有它自己的基線，在文字文件中閱讀還好；&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;但是現在的讀者多半覺得這種字型放在一行中不易閱讀。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On a first page, you might even be able to position the image more or less the way you want it by extending the height of the header or footer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T024953Z" creationid="Jeff Huang" creationdate="20180130T060201Z">
@@ -24166,6 +24206,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right: Lining figures.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093349Z" creationid="Franklin Weng" creationdate="20180211T093349Z">
+        <seg>右方：齊線數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right: Slab &lt;f0&gt;serif font&lt;/f0&gt; (&lt;f1&gt;Chunk&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T144012Z" creationid="Franklin Weng" creationdate="20171225T092831Z">
@@ -24711,6 +24759,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075504Z" creationid="Jeff Huang" creationdate="20171214T062547Z">
         <seg>按下「&lt;f0&gt;工具 &gt; 更新 &gt; 全部更新&lt;/f0&gt;」以確保所有欄位都是最新狀態。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;b&lt;/f0&gt;orders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093629Z" creationid="Franklin Weng" creationdate="20180211T093629Z">
+        <seg>選擇&lt;f0&gt;邊框&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25400,6 +25456,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082025Z" creationid="zerng07" creationdate="20171225T082016Z">
         <seg>此外，編輯視窗中最底部的橫列中，由左至右算起來第三個欄位會顯示目前的頁面樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, thicker than normal borders can set off totals or statistics from raw data.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T094008Z" creationid="Franklin Weng" creationdate="20180211T094008Z">
+        <seg>另外也可以用比一般來得厚的邊框，來標記總和或統計數字。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34150,6 +34214,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115528Z" creationid="zerng07" creationdate="20171226T115517Z">
         <seg>如果你填入的是段落樣式或頁面樣式，所拖曳的範圍只要包含該處的幾個字元即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You rarely see spreadsheets using any color except black for ordinary purposes, regardless of whether the sheet is used online or printed to hard copy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T094102Z" creationid="Franklin Weng" creationdate="20180211T094102Z">
+        <seg>You rarely see spreadsheets using any color except black for ordinary purposes, regardless of whether the sheet is used online or printed to hard copy.</seg>
       </tuv>
     </tu>
     <tu>
