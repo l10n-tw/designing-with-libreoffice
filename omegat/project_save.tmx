@@ -2005,6 +2005,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Center:&lt;/f0&gt; The table aligns with the center of the line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032919Z" creationid="Jeff Huang" creationdate="20180211T032919Z">
+        <seg>&lt;f0&gt;置中：&lt;/f0&gt;表格會對齊一行的中央。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Change Image: &lt;/f0&gt;Replaces the current image with another one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142745Z" creationid="Jeff Huang" creationdate="20180122T092135Z">
@@ -4514,6 +4522,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134010Z" creationid="zerng07" creationdate="20180210T134010Z">
         <seg>&lt;f0&gt;對影像點按右鍵，點選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;屬性 &gt; 環繞&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。將「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;上&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」、「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;下&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」間距設為 0，將影像放在表格的左上角。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right:&lt;/f0&gt; &lt;f1&gt;The &lt;/f1&gt;right side of the table aligns with the page’s right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032824Z" creationid="Jeff Huang" creationdate="20180211T032824Z">
+        <seg>&lt;f0&gt;右方：&lt;/f0&gt;表格右邊對齊頁面的右邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33251,6 +33267,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082642Z" creationid="Jeff Huang" creationdate="20180112T135005Z">
         <seg>你可以在Writer中&lt;f1&gt;選取&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「插入 &gt; 圖表」&lt;/f3&gt;&lt;/f2&gt;來使用圖表，在其他LibreOffice應用程式中也是如此。&lt;f5&gt;&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use &lt;f2&gt;Spacing &gt; Left&lt;/f2&gt; &lt;f3&gt;to indent the left&lt;/f3&gt; side of the &lt;f4&gt;table&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032840Z" creationid="Jeff Huang" creationdate="20180211T032840Z">
+        <seg>你可以使用&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「間距 &gt; 向左」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;來讓表格左邊縮排。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
