@@ -6477,6 +6477,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can read more about paragraph styles in Chapters 4–7.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T090857Z" creationid="Franklin Weng" creationdate="20180211T090857Z">
+        <seg>&lt;f0&gt;你可以回去第四章到第七章再複習一下段落樣式。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can redistribute horizontal space among the existing columns by u&lt;/f0&gt;sing the cursor to drag at cell borders.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034758Z" creationid="Jeff Huang" creationdate="20180211T034758Z">
@@ -8122,6 +8130,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T101502Z" creationid="zerng07" creationdate="20171224T101502Z">
         <seg>&lt;f4&gt;LibreOffice能記住視窗位置是否停駐在那個位置，下次重新啟動時依然能與上次一致。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;Most spreadsheets should follow the suggestions for online documents in “Other considerations for fonts,” page 83.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T091025Z" creationid="Franklin Weng" creationdate="20180211T091025Z">
+        <seg>&lt;f4&gt;大部份的試算表都應該遵循Most spreadsheets should follow the suggestions for online documents in “Other considerations for fonts,” page 83.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12315,6 +12331,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135117Z" creationid="Franklin Weng" creationdate="20180210T135117Z">
         <seg>選擇包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;f&lt;/f0&gt;onts and &lt;f1&gt;f&lt;/f1&gt;ont &lt;f2&gt;e&lt;/f2&gt;ffects by the same criteria as &lt;f3&gt;you would &lt;/f3&gt;for text documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T090953Z" creationid="Franklin Weng" creationdate="20180211T090953Z">
+        <seg>跟文字文件一樣的方式來選擇&lt;f0&gt;字型&lt;/f0&gt;與&lt;f1&gt;字型&lt;/f1&gt;&lt;f2&gt;效果&lt;/f2&gt;。&lt;f3&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24695,6 +24719,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T102634Z" creationid="Franklin Weng" creationdate="20171228T063645Z">
         <seg>利用字型樣式或&lt;f0&gt;字樣&lt;/f0&gt;選擇字型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting fonts for spreadsheets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T090904Z" creationid="Franklin Weng" creationdate="20180211T090904Z">
+        <seg>選擇試算表字型</seg>
       </tuv>
     </tu>
     <tu>
