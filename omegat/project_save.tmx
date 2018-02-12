@@ -10934,6 +10934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with styles, AutoFormats can be either pre-defined or customized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124751Z" creationid="Jeff Huang" creationdate="20180212T124751Z">
+        <seg>與樣式相同，自動格式可以是預先定義好的，也可以是自定義的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with styles, the &lt;f0&gt;short&lt;/f0&gt; answer is, “&lt;f1&gt;Whenever possible.&lt;/f1&gt;” &lt;f2&gt;Not only are templates more efficient than designing from scratch, but using them consistently helps you get used to the concepts behind them.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101145Z" creationid="Franklin Weng" creationdate="20171212T100732Z">
@@ -19499,6 +19507,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091714Z" creationid="Jeff Huang" creationdate="20180205T091714Z">
         <seg>如果你想要使用在電腦上的清單，請建立兩個&lt;f0&gt;清單&lt;/f0&gt;樣式，其中一個使用U+2752字元，另一個則使用U+E531字元（帶有勾選符號的方框）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use the same name as an existing AutoFormat, you must delete the existing AutoFormat first.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125018Z" creationid="Jeff Huang" creationdate="20180212T125018Z">
+        <seg>如果你想要使用與既有的自動格式相同的名稱，你必須先刪除既有的自動格式。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32482,6 +32498,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T060412Z" creationid="Jeff Huang" creationdate="20180126T131339Z">
         <seg>和&lt;f0&gt;Microsoft&lt;/f0&gt; Word不同，在&lt;f1&gt;Writer&lt;/f1&gt;中，頁首與頁尾&lt;f2&gt;被歸類為頁面樣式的一部份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike styles, AutoFormats cannot be edited, except for being renamed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124850Z" creationid="Jeff Huang" creationdate="20180212T124850Z">
+        <seg>但與樣式不同的是，你無法編輯自動格式，除非其被重新命名。</seg>
       </tuv>
     </tu>
     <tu>
