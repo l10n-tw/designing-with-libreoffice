@@ -18626,11 +18626,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>前一個分節與另一章的分節重複但意義不同，需要審閱。</note>
       <tuv lang="EN">
         <seg>If the sentence which introduces a table is clear enough, a caption may be redundant.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T093542Z" creationid="Jeff Huang" creationdate="20180212T093542Z">
-        <seg>如果表格簡介夠清楚，標題看起來可能就會比較多餘。</seg>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T094555Z" creationid="Jeff Huang" creationdate="20180212T093542Z">
+        <seg>（備註）如果表格簡介夠清楚，標題看起來可能就會比較多餘。</seg>
       </tuv>
     </tu>
     <tu>
