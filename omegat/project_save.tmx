@@ -17512,6 +17512,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if a table needs a caption, &lt;f0&gt;or you want to refer to the table by a number, right-click and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Caption&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T094512Z" creationid="Jeff Huang" creationdate="20180212T094512Z">
+        <seg>不過，如果表格需要標題，&lt;f0&gt;或是你需要以數字引用表格，請點按右鍵並選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt;。&lt;f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if the paragraphs above or below have spacing, adjust the table spacing to eliminate extra spacing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133043Z" creationid="zerng07" creationdate="20180210T133043Z">
