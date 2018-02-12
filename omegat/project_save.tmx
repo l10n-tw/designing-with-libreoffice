@@ -6377,6 +6377,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using&lt;/f0&gt; AutoFormats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124338Z" creationid="Jeff Huang" creationdate="20180212T124338Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;自動格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; Fill Format Mode</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110734Z" creationid="zerng07" creationdate="20171226T110734Z">
@@ -18740,6 +18748,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are having trouble with frames staying in place, add a row with no borders to the bottom of the table and place the caption there.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124324Z" creationid="Jeff Huang" creationdate="20180212T124324Z">
+        <seg>如果你在使用框架時遇到問題，請在表格底部新增一個沒有邊框的列，然後將標題置於其中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are having trouble with graphics &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;staying in place, avoid these tabs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123248Z" creationid="zerng07" creationdate="20180205T123248Z">
@@ -27209,6 +27225,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041849Z" creationid="Jeff Huang" creationdate="20180126T034702Z">
         <seg>&lt;f0&gt;老實說，&lt;/f0&gt;唯一可以看到黃金比例用在頁面格式設計上的，大概只有詩集和小量印刷的散文，印刷業者願意收取更多費用交換精心設計的頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;f0&gt;AutoF&lt;/f0&gt;ormats are a partial substitute for styles, but the pre-defined formats include many o&lt;f1&gt;bsolete&lt;/f1&gt; designs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124538Z" creationid="Jeff Huang" creationdate="20180212T124538Z">
+        <seg>表格的&lt;f0&gt;自動格式&lt;/f0&gt;是樣式的部份替代，但是預先定義好的格式包含了許多&lt;f1&gt;過時的&lt;/f1&gt;設計。</seg>
       </tuv>
     </tu>
     <tu>
