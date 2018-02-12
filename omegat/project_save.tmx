@@ -15805,6 +15805,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you set the format to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Date,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; you could choose from such formats as &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;YYYY-MM-DD &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;or &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DD-MM-YY.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T091532Z" creationid="Jeff Huang" creationdate="20180212T091532Z">
+        <seg>舉例來說，如果你將格式設定為&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;日期&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;，那你就可以選擇如&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;YYYY-MM-DD &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;或&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DD-MM-YY&lt;/f12&gt;&lt;/f11&gt;等格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you use a particular shade of blue for the headings, use the same blue as a background for table headers and for a line that separates the header from the &lt;f2&gt;text&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T054126Z" creationid="Jeff Huang" creationdate="20180116T053959Z">
