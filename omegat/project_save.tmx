@@ -2020,6 +2020,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;By modern standards, they are ugly and over-elaborate&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125830Z" creationid="Jeff Huang" creationdate="20180212T125830Z">
+        <seg>&lt;f0&gt;以現代的標準來看，它們很醜且太過複雜。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;By understanding both,&lt;/f0&gt; you can &lt;f1&gt;take advantage of what publishers &lt;/f1&gt;have been learning for over half a millennium &lt;f2&gt;about what works and what doesn’t.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170818T032621Z" creationid="zerng07" creationdate="20170818T031240Z">
@@ -13507,6 +13515,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating AutoFormats</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125838Z" creationid="Jeff Huang" creationdate="20180212T125838Z">
+        <seg>建立自動格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a chart</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094637Z" creationid="Jeff Huang" creationdate="20180115T031445Z">
@@ -13527,6 +13543,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212826Z" creationid="Franklin Weng" creationdate="20180206T212826Z">
         <seg>集合起來之後，會看到一個樹狀結構，可以同時把整組儲存格展開或折疊隱藏起來。&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an AutoFormat is similar to creating a new paragraph style from a selection:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T130029Z" creationid="Jeff Huang" creationdate="20180212T130029Z">
+        <seg>建立自動格式類似於從選取的東西中建立新的段落樣式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23186,6 +23210,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060925Z" creationid="Jeff Huang" creationdate="20171229T014546Z">
         <seg>&lt;f0&gt;除非你同時選擇兩個物件，此時所有其中元素如同成為一個群組一樣一起被拖曳&lt;/f0&gt;，否則連接線另一端的物件會留在原位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Obsolete table formats are found throughout LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125648Z" creationid="Jeff Huang" creationdate="20180212T125648Z">
+        <seg>整個LibreOffice都能找到過時的表格格式。</seg>
       </tuv>
     </tu>
     <tu>
