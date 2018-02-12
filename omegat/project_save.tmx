@@ -1795,6 +1795,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;AutoFormats&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;are the closest that Writer gets to table styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124707Z" creationid="Jeff Huang" creationdate="20180212T124707Z">
+        <seg>&lt;f0&gt;自動格式&lt;/f0&gt;&lt;f3&gt;在Writer上相當接近表格樣式了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Autocaptions immediately add a caption to all specified objects, using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Caption&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094335Z" creationid="zerng07" creationdate="20180210T094335Z">
