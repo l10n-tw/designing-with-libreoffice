@@ -4261,6 +4261,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number format:&lt;/f0&gt; &lt;f1&gt;Available from the right-click menu, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Number format&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; opens a dialog window where you can set how numbers are interpreted and presented.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T084921Z" creationid="Jeff Huang" creationdate="20180212T084921Z">
+        <seg>&lt;f0&gt;數字格式：&lt;/f0&gt;&lt;f1&gt;可從右鍵選單中使用，&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;數字格式&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;會開啟讓你可以設定數字要如何解釋與顯示的對話框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Numbering Alignment:&lt;/f0&gt; How the bullet or number is aligned.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130059Z" creationid="Jeff Huang" creationdate="20180203T130059Z">
@@ -33965,6 +33973,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175725Z" creationid="zerng07" creationdate="20171223T174459Z">
         <seg>Writer可能還不如InDesign這類工具所表現的那般精準，但它確實能媲美FrameMaker這種善於處理大量文字的文書工具。事實上，我還認識一些使用Writer作書籍設計工具的出版社。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writer’&lt;f0&gt;s&lt;/f0&gt; tables have limited capacity to act as a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T084531Z" creationid="Jeff Huang" creationdate="20180212T084531Z">
+        <seg>Writer的表格要當作試算表使用頗有難度：</seg>
       </tuv>
     </tu>
     <tu>
