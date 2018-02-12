@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;You might want to use corporate or project colors for borders or &lt;f1&gt;a &lt;/f1&gt;colored header, &lt;f2&gt;but usually nothing more.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125614Z" creationid="Jeff Huang" creationdate="20180212T125614Z">
+        <seg>你可能會想要在邊框或頁首使用公司或專案的色彩，&lt;f2&gt;但也就這樣了。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131604Z" creationid="Franklin Weng" creationdate="20180126T131604Z">
@@ -15265,6 +15273,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184507Z" creationid="Franklin Weng" creationdate="20180204T184507Z">
         <seg>應用在第 &lt;f0&gt;13&lt;/f0&gt; 章所講的基本設計原則 – 將相關型態的資訊以相同的方式、順序來做格式設定，並且&lt;f1&gt;把它們放靠近一點。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow the same restrictions when creating customized AutoFormats&lt;f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125437Z" creationid="Jeff Huang" creationdate="20180212T125437Z">
+        <seg>建立自定義的自動格式時也有相同的限制。</seg>
       </tuv>
     </tu>
     <tu>
