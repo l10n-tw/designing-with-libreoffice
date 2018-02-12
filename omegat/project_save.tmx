@@ -2268,6 +2268,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; the formatting options you want to store in the Auto&lt;f1&gt;F&lt;/f1&gt;ormat &lt;f2&gt;from the list at the bottom of the&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; AutoFormat &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;dialog window&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T132310Z" creationid="Jeff Huang" creationdate="20180212T132310Z">
+        <seg>&lt;f2&gt;從位於&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;自動格式&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;對話框&lt;/f5&gt;底部的清單&lt;f0&gt;點按&lt;/f0&gt;要儲存在自動格式中的格式選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin：現在是在側邊欄</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Clicking the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;More Styles... &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;link at the bottom of the list opens the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles and Formatting&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window, while selecting &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Edit Style&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; from a style’s drop-down menu opens the dialog window for the style.</seg>
