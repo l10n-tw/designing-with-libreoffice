@@ -18320,6 +18320,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifies input specifically as numbers and right aligns it.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T091858Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
+        <seg>將輸入識別為數字並向右對齊。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;f1&gt;Heading 1&lt;/f1&gt; was used only for the chapter title, then the header would always include the chapter title.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T141659Z" creationid="Jeff Huang" creationdate="20180127T133320Z">
