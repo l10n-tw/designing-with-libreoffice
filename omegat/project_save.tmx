@@ -1410,6 +1410,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Adding formulas: &lt;/f0&gt;&lt;f1&gt;Selected from &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Table &gt; Formula &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;in the main menu, this option opens a tool bar for inserting a couple of dozen common spreadsheet formulas.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T092521Z" creationid="Jeff Huang" creationdate="20180212T092521Z">
+        <seg>&lt;f0&gt;新增公式：&lt;/f0&gt;&lt;f1&gt;在主選中選取&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「表格 &gt; 公式」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;，這個選項會開啟用於插入十幾種常用的試算表公式的工具列。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding&lt;/f0&gt; header &lt;f1&gt;and&lt;/f1&gt; footer paragraph styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T033703Z" creationid="Jeff Huang" creationdate="20180127T033703Z">
