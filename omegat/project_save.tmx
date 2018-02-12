@@ -1040,6 +1040,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Alignment: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Available from &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table &gt; Input in Tables&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Alignment&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; places numbers in the lower right corner of a cell, as in a spreadsheet.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T093031Z" creationid="Jeff Huang" creationdate="20180212T093031Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;對齊：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;可從&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;「工具 &gt; 選項 &gt; LibreOffice Writer &gt; 表格 &gt; 表格中輸入」&lt;/f4&gt;&lt;/f3&gt;使用，&lt;f6&gt;&lt;f7&gt;對齊&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;將數字放在儲存格的右下角，就像在試算表裡那樣。&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Alignment&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can usually be ignored, but can help with the spacing between the bullet and the text.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064106Z" creationid="Jeff Huang" creationdate="20180208T064106Z">
@@ -30095,6 +30103,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071914Z" creationid="zerng07" creationdate="20180205T121042Z">
         <seg>「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;」標籤頁可編輯一張影像在LibreOffice中的顯現畫面，而不是編輯原始影像本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The&lt;f0&gt; Formula bar&lt;/f0&gt; allows basic spreadsheet functions to be used in Writer tables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T092615Z" creationid="Jeff Huang" creationdate="20180212T092615Z">
+        <seg>&lt;f0&gt;公式工具列&lt;/f0&gt;讓你可以在Writer中使用基本的試算表函式。</seg>
       </tuv>
     </tu>
     <tu>
