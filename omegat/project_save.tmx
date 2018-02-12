@@ -4277,6 +4277,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;N&lt;/f0&gt;ame the new AutoFormat&lt;f1&gt;.&lt;/f1&gt; Until you close the dialog window, the new AutoFormat displays at the top of the window’s list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T132600Z" creationid="Jeff Huang" creationdate="20180212T132600Z">
+        <seg>為新的自動格式命名。在關閉對話框前，新的自動格式會顯示在視窗清單的頂部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Name:&lt;/f0&gt; &lt;f1&gt;F&lt;/f1&gt;or the frame or image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T141320Z" creationid="zerng07" creationdate="20180208T141320Z">
@@ -19906,6 +19914,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the formatting listed in the window, you als&lt;f0&gt;o&lt;/f0&gt; save font selection and spacing options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T134034Z" creationid="Jeff Huang" creationdate="20180212T134034Z">
+        <seg>除了視窗中列出的格式以外，你還可以儲存字型選擇與間距選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, any custom-named styles in use in the original document are copied over to the new document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140344Z" creationid="Franklin Weng" creationdate="20171223T125056Z">
@@ -23082,6 +23098,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T051003Z" creationid="zerng07" creationdate="20170824T175333Z">
         <seg>更糟的是，還有很多實用功能在&lt;f2&gt;你採用手動格式設定之後便自毀長城&lt;/f2&gt;——假如你會用這些功能的話。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in some versions of LibreO&lt;f1&gt;f&lt;/f1&gt;fice, once you click the button, you can no longer select formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T132426Z" creationid="Jeff Huang" creationdate="20180212T132426Z">
+        <seg>請注意，在某些版本的LibreOffice中，一旦你點按了該按鈕，你就無法再選取任何格式了。</seg>
       </tuv>
     </tu>
     <tu>
