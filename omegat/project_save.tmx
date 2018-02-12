@@ -18700,6 +18700,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you always want a caption, set up &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;AutoCaption&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for tables in &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table &gt; AutoCaption.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T095137Z" creationid="Jeff Huang" creationdate="20180212T095137Z">
+        <seg>如果你總是需要標題，請設定表格的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;自動標題&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;，此設定位於&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;「工具 &gt; 選項 &gt; LibreOffice Writer &gt; 表格 &gt; 自動標題」。&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are &lt;f0&gt;publishing&lt;/f0&gt; online, neither paper size nor orientation matters unless the document might be printed to PDF or converted to an ebook format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114939Z" creationid="Jeff Huang" creationdate="20180125T130817Z">
