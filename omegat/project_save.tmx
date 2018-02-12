@@ -9675,6 +9675,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a caption &lt;f0&gt;to the table&lt;/f0&gt; adds a frame &lt;f1&gt;around&lt;/f1&gt; the table &lt;f2&gt;and the caption&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124153Z" creationid="Jeff Huang" creationdate="20180212T124153Z">
+        <seg>&lt;f0&gt;在表格中&lt;/f0&gt;新增標題會在表格&lt;f2&gt;與標題&lt;/f2&gt;&lt;f1&gt;週邊&lt;/f1&gt;加入框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a table</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034218Z" creationid="Jeff Huang" creationdate="20180210T034218Z">
