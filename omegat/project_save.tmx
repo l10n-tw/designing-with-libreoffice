@@ -12692,8 +12692,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Changing anchors, moving objects, copying and pasting – sometimes any editing &lt;f0&gt;whatsoever&lt;/f0&gt; seems to send objects shifting out of control.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135714Z" creationid="zerng07" creationdate="20180130T120940Z">
-        <seg>變更錨定、移動物件、複製後貼上等等——有時候&lt;f0&gt;想盡辦法&lt;/f0&gt;做任何編輯，似乎都改變不了影像亂偏移的命運。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033750Z" creationid="zerng07" creationdate="20180130T120940Z">
+        <seg>有時候&lt;f0&gt;想盡辦法&lt;/f0&gt;做任何編輯——變更錨定、移動物件、複製後貼上等等，似乎都改變不了影像亂偏移的命運。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16432,8 +16432,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For this reason, this chapter includes both how things are supposed to work (and should work for you, with any luck), and the precautions and work-arounds you may need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124938Z" creationid="zerng07" creationdate="20180130T121758Z">
-        <seg>基於此因，本章內容會解釋這些是怎麼運作的（如果幸運的話，應該也能幫到你），以及你可能需要的預防措施和變通方案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033845Z" creationid="zerng07" creationdate="20180130T121758Z">
+        <seg>基於此因，本章內容會像你解釋這部分是怎麼運作的（如果幸運的話，應該也能幫到你），以及你可能需要的預防措施和變通方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32784,8 +32784,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Unfortunately, however, elements not included in any frame style, such as a&lt;f0&gt;n&lt;/f0&gt; image’s anchor, alignment, stacking, and wrap usually have to be edited separately for each frame, making this advice easier to give than to practice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135814Z" creationid="zerng07" creationdate="20180130T130927Z">
-        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、堆疊、周圍文字的換行等，通常都必須一個外框一個外框各自修改，所以實際上這個建議說的可比做的簡單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034011Z" creationid="zerng07" creationdate="20180130T130927Z">
+        <seg>如果不幸的，想改的元素不在任何外框樣式中，像是影像的錨定、對齊、堆疊、周圍文字的環繞等，通常都必須一個外框一個外框各自修改，所以實際上這個建議說的可比做的簡單。</seg>
       </tuv>
     </tu>
     <tu>
