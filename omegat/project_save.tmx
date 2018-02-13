@@ -2046,8 +2046,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133556Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
-        <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113045Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
+        <seg>儲存格保護除了可以避免儲存格內容被修改，也可以讓 Calc 在列印或執行其他操作時跳過該儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2129,6 +2129,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172311Z" creationid="zerng07" creationdate="20171225T172311Z">
         <seg>&lt;f0&gt;類別：&lt;/f0&gt;列出樣式的檢視畫面&lt;f1&gt;所在&lt;/f1&gt;選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell protection is not activated unless you elect either &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Sheet&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tools &gt; Protect Document.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Selecting either item a second time turns off all protection features.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T120919Z" creationid="Franklin Weng" creationdate="20180213T120919Z">
+        <seg>&lt;f0&gt;儲存格保護只有在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「工具」選單下選擇「保護工作表」或「保護試算表」時才會發揮作用。再點一次的話所有的保護功能都會同時被關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3230,30 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153957Z" creationid="zerng07" creationdate="20171224T153935Z">
         <seg>&lt;f0&gt;隱藏樣式：&lt;/f0&gt;您先前從其他檢視畫面中隱藏的樣式，這樣做主要是為了減少檢視畫面的雜亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide all: &lt;/f0&gt;Formatted cells are protected from editing, any formula in them is hidden, and &lt;f1&gt;the cells &lt;/f1&gt;are not printed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113545Z" creationid="Franklin Weng" creationdate="20180213T113516Z">
+        <seg>&lt;f0&gt;全部隱藏：&lt;/f0&gt;無法再編輯此儲存格，任何公式函式都會隱藏起來，並且此&lt;f1&gt;儲存格&lt;/f1&gt;將不會被列印出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide formula:&lt;/f0&gt; Any &lt;f1&gt;function&lt;/f1&gt; in a formatted cell is invisible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113616Z" creationid="Franklin Weng" creationdate="20180213T113616Z">
+        <seg>&lt;f0&gt;隱藏公式：&lt;/f0&gt;任何在此儲存格中的&lt;f1&gt;函式&lt;/f1&gt;都會被隱藏起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide when printing:&lt;/f0&gt; The contents of formatted cells are not printed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113635Z" creationid="Franklin Weng" creationdate="20180213T113635Z">
+        <seg>&lt;f0&gt;列印時隱藏：&lt;/f0&gt;此儲存格的內容不會被列印出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,6 +4794,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115336Z" creationid="zerng07" creationdate="20180209T115336Z">
         <seg>&lt;f0&gt;保護：&lt;/f0&gt;防止編輯「&lt;f3&gt;內容&lt;/f3&gt;」、「&lt;f4&gt;位置&lt;/f4&gt;」、或「&lt;f5&gt;大小&lt;/f5&gt;」。這幾個選項對文件同時間有許多人編輯時很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Protected: &lt;/f0&gt;Formatted cells cannot be edited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113550Z" creationid="Franklin Weng" creationdate="20180213T113529Z">
+        <seg>&lt;f0&gt;受保護：&lt;/f0&gt;無法再編輯此儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7711,6 +7751,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152115Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
         <seg>&lt;f1&gt;你可以從&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;那個下拉式選單中，選擇小計的標籤出現的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;You should only make this choice when you know that you will always be printing the spreadsheet in the same way.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113813Z" creationid="Franklin Weng" creationdate="20180213T113813Z">
+        <seg>&lt;f1&gt;只有在你確定試算表都用同樣的方式列印時，才使用此選項。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27963,6 +28011,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T143748Z" creationid="Jeff Huang" creationdate="20180125T133315Z">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;頁面&lt;/f7&gt;&lt;/f6&gt;的「&lt;f9&gt;&lt;f10&gt;版面配置設定&lt;/f10&gt;&lt;/f9&gt;&lt;f14&gt;」提供了四種選擇：&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Cell P&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;rotection&lt;/f2&gt; tab offers four options:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113348Z" creationid="Franklin Weng" creationdate="20180213T113348Z">
+        <seg>在「&lt;f0&gt;&lt;f1&gt;儲存格&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;保護&lt;/f2&gt;」標籤頁中提供四個選項：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Cell protection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;tab helps to control editing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113244Z" creationid="Franklin Weng" creationdate="20180213T113244Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;儲存格保護&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;&lt;/f2&gt;標籤頁可以用來控制此功能。</seg>
       </tuv>
     </tu>
     <tu>
