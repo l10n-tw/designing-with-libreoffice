@@ -6965,6 +6965,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;A frame can only receive text from one frame and flow into one other frame.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032342Z" creationid="zerng07" creationdate="20180213T032342Z">
+        <seg>&lt;f1&gt;一個外框僅能從另一個外框接收文字流，然後輸出文字流到再另一個外框。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Although you can modify many features from the right-click menu, some observers suggest that using the dialog windows seems to help keep objects where you placed them.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T075126Z" creationid="zerng07" creationdate="20180206T075126Z">
@@ -18932,6 +18940,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are having trouble linking, the reason could be:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032210Z" creationid="zerng07" creationdate="20180213T032210Z">
+        <seg>如果你在連結時出了問題，原因可能是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are having trouble positioning something, the first thing you should do is check whether you are editing the image instead of the frame, or the frame instead of the image.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131414Z" creationid="zerng07" creationdate="20180130T131414Z">
@@ -30292,6 +30308,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target frame has contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032221Z" creationid="zerng07" creationdate="20180213T032221Z">
+        <seg>目標的外框內已經有內容了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target frame is already linked &lt;f0&gt;from&lt;/f0&gt; another frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032240Z" creationid="zerng07" creationdate="20180213T032240Z">
+        <seg>目標的外框已經和其他外框相連結了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text area is immediately visible in Apache OpenOffice, but in LibreOffice you need to click anywhere in the margin for the minimal guides to be visible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T114500Z" creationid="Jeff Huang" creationdate="20180126T134245Z">
@@ -32458,6 +32490,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T074518Z" creationid="zerng07" creationdate="20180208T074518Z">
         <seg>外框會被視為物件堆疊之中的一個物件，並將內容送到後面去，而內文字會在前面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Troubleshooting the connection of frames</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032155Z" creationid="zerng07" creationdate="20180213T032146Z">
+        <seg>解決連結外框時的疑難雜症</seg>
       </tuv>
     </tu>
     <tu>
