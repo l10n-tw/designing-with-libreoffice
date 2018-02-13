@@ -5932,6 +5932,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The second is to add a bitmap as the Area for a paragraph, then lighten it using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;transparency tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T023002Z" creationid="zerng07" creationdate="20180213T023002Z">
+        <seg>&lt;f0&gt;」。第二種是將點陣圖作為某個段落的「區塊」（舊版稱為「區域」），接著透過「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;透明度&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁讓色彩明亮一點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The space should be a multiple of the line-spacing.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T083511Z" creationid="zerng07" creationdate="20180205T083511Z">
@@ -29122,6 +29130,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132503Z" creationid="Franklin Weng" creationdate="20180211T132503Z">
         <seg>第一個是「&lt;f0&gt;縮小以符合儲存格大小&lt;/f0&gt;」。這個選項很常用在內容只比儲存格大一些些時。&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is to add a basic frame with text or an image, and select from the right-click menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Arrange &gt; Send to Back.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T022438Z" creationid="zerng07" creationdate="20180213T022438Z">
+        <seg>第一種是新增一個含有文字或影像的基本外框，接著按右鍵「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編排 &gt; 移到最下層</seg>
       </tuv>
     </tu>
     <tu>
