@@ -2284,6 +2284,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; the&lt;f1&gt; Link Frames&lt;/f1&gt; icon on the &lt;f2&gt;Frames&lt;/f2&gt; tool bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025507Z" creationid="zerng07" creationdate="20180213T025507Z">
+        <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f2&gt;外框&lt;/f2&gt;」工具列中點按「&lt;f1&gt;連結外框&lt;/f1&gt;」圖示。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin：現在是在側邊欄</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Clicking the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;More Styles... &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;link at the bottom of the list opens the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Styles and Formatting&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; window, while selecting &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Edit Style&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; from a style’s drop-down menu opens the dialog window for the style.</seg>
@@ -13463,6 +13471,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143444Z" creationid="Jeff Huang" creationdate="20180129T083704Z">
         <seg>建立「&lt;f0&gt;&lt;f1&gt;引言起始」、「引言左頁&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」與「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;引言右頁&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」頁面樣式，在主要的預設頁面上形塑看看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &lt;f0&gt;two or more&lt;/f0&gt; frames using&lt;f1&gt; Insert &gt; Frame&lt;/f1&gt;, leaving both empty.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025511Z" creationid="zerng07" creationdate="20180213T025347Z">
+        <seg>使用「&lt;f1&gt;插入 &gt; 外框 &gt; 外框&lt;/f1&gt;」製作&lt;f0&gt;兩個或兩個以上的&lt;/f0&gt;外框，內部都留空白。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25778,6 +25794,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111843Z" creationid="zerng07" creationdate="20171219T111843Z">
         <seg>選取「&lt;f0&gt;格式 &gt; 段落 &gt; 縮排和間距&lt;/f0&gt;」，編輯「&lt;f1&gt;段落之上&lt;/f1&gt;」欄位，並按下「&lt;f2&gt;確定&lt;/f2&gt;」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the first frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025356Z" creationid="zerng07" creationdate="20180213T025356Z">
+        <seg>選取第一個外框。</seg>
       </tuv>
     </tu>
     <tu>
