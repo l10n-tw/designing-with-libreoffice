@@ -1048,6 +1048,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Color Scale&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; and &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Data Bar&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; are shortcuts to options available under &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Condition&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T124027Z" creationid="Franklin Weng" creationdate="20180213T124027Z">
+        <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Color Scale&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; and &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Data Bar&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; are shortcuts to options available under &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Condition&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102344Z" creationid="Franklin Weng" creationdate="20171231T102344Z">
@@ -10370,6 +10378,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>新版沒有 Condition 這一層。</note>
+      <tuv lang="EN">
+        <seg>All types of conditional formatting can be configured from &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Condition&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T124747Z" creationid="Franklin Weng" creationdate="20180213T123653Z">
+        <seg>所有條件式格式設定的型態都可以在「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;條件&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」中設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>All writers have their favorite words and expressions.</seg>
       </tuv>
@@ -13343,6 +13360,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T084554Z" creationid="Franklin Weng" creationdate="20180114T055620Z">
         <seg>結論頁：總結內容、&lt;f1&gt;喚起行動，或是放個加強你主要論點的範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conditonal formatting is an extension of sparklines, &lt;f0&gt;which are &lt;/f0&gt;small, undetailed graphs popularized by the information designer &lt;t1/&gt;Edward Tufte.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T123234Z" creationid="Franklin Weng" creationdate="20180213T123234Z">
+        <seg>條件式格式設定是所謂「走勢圖」（Sparklines）的一種延伸。&lt;f0&gt;走勢圖&lt;/f0&gt;是一種小型的，不是看詳細資料而是看趨勢的一種圖形，由資訊設計師&lt;t1/&gt; Edward Tufte 所推廣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17659,6 +17684,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T114927Z" creationid="Jeff Huang" creationdate="20180115T035705Z">
         <seg>不過，如果在開始前花更多時間規劃，你應該會在工作中節省修改設計的時間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, conditonal formatting gives other graphical representations of data as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T123349Z" creationid="Franklin Weng" creationdate="20180213T123349Z">
+        <seg>不過，條件式格式設定還可以將資料用其他圖形方式呈現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31940,6 +31973,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;f0&gt;use&lt;/f0&gt; Calc’s conditional formatting, &lt;f1&gt;select the cells to work with, then click&lt;/f1&gt; &lt;f2&gt;Format &gt; Conditional Formatting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt; Condition&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and select an item from the sub-menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T124057Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
+        <seg>在 Calc 中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定，&lt;f1&gt;先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定 &gt; 條件」，&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;然後從子選單中選擇其中一個項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a chapter number, you must assign a numbering style to one paragraph style, and then assign the paragraph style to an &lt;f0&gt;o&lt;/f0&gt;utline &lt;f1&gt;l&lt;/f1&gt;evel.&lt;f2&gt; Heading 1&lt;/f2&gt; is often used for this purpose.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T084407Z" creationid="zerng07" creationdate="20180210T084044Z">
@@ -35129,6 +35170,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135922Z" creationid="Jeff Huang" creationdate="20180122T124957Z">
         <seg>你可以從主選單中的&lt;f2&gt;「格式 &gt; 區塊 &gt; 漸層」加入自訂的漸層色&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a sparkline by shrinking a chart and removing the legends.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T123308Z" creationid="Franklin Weng" creationdate="20180213T123308Z">
+        <seg>你可以把一份圖表縮小，把圖例去掉，就可以得到一份走勢圖。</seg>
       </tuv>
     </tu>
     <tu>
