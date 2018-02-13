@@ -898,8 +898,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;You can determine this distance by subtracting the vertical margins from the page width given on the &lt;f4&gt;Page&lt;/f4&gt; tab of &lt;f5&gt;each page style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T124536Z" creationid="zerng07" creationdate="20180205T124536Z">
-        <seg>&lt;/f3&gt;你可以根據各個頁面樣式中「&lt;f4&gt;頁面&lt;/f4&gt;」標籤頁給的頁寬減去垂直間距來決定這個距離。&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034445Z" creationid="zerng07" creationdate="20180205T124536Z">
+        <seg>&lt;/f3&gt;你可以根據各個頁面樣式中「&lt;f4&gt;頁面&lt;/f4&gt;」標籤頁給的頁寬，減去垂直間距來決定這個距離。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15839,8 +15839,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For an online document, a resolution of 96 &lt;f0&gt;dpi&lt;/f0&gt; (dots per inch) is usually enough.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131930Z" creationid="zerng07" creationdate="20180205T131930Z">
-        <seg>對於線上文件而言，96 &lt;f0&gt;dpi&lt;/f0&gt;（dots per inch，每英吋有幾個點）通常已經足夠。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034453Z" creationid="zerng07" creationdate="20180205T131930Z">
+        <seg>對於線上文件而言，96 &lt;f0&gt;dpi&lt;/f0&gt;（Dots Per Inch，每英吋有幾個點）通常已經足夠。</seg>
       </tuv>
     </tu>
     <tu>
