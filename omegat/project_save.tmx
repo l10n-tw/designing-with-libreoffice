@@ -35206,6 +35206,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can delete &lt;f0&gt;any AutoFormats one at a time, including &lt;/f0&gt;pre-defined AutoFormats&lt;f1&gt;.&lt;/f1&gt; &lt;f2&gt;Deleted &lt;/f2&gt;AutoFormats&lt;f3&gt; &lt;/f3&gt;are deleted not just from the current document, but from Writer &lt;f4&gt;and all documents.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180213T131016Z" creationid="Jeff Huang" creationdate="20180213T131016Z">
+        <seg>你可以一次刪除&lt;f0&gt;任意一個自動格式，包含&lt;/f0&gt;預定義的自動格式。&lt;f2&gt;被刪除的&lt;/f2&gt;自動格式並不只是從目前的文件中刪除，也從Writer&lt;f4&gt;與所有文件中刪除。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can descend a level in the outline by pressing &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and ascend a level by pressing &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T065539Z" creationid="Franklin Weng" creationdate="20180109T130919Z">
