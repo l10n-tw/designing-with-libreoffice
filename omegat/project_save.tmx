@@ -1404,8 +1404,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;nchor the image in the header &lt;f1&gt;or footer&lt;/f1&gt;, but place &lt;f2&gt;the image&lt;/f2&gt; outside the header &lt;f3&gt;or footer,&lt;/f3&gt; &lt;f4&gt;setting the anchor to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;As Paragraph&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;As Character.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; You can then position the image anywhere on the page, and it will be repeated each time the page style is used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T030113Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
-        <seg>將圖片定錨於頁首&lt;f1&gt;或頁尾&lt;/f1&gt;中，但把&lt;f2&gt;圖片&lt;/f2&gt;放在頁首&lt;f3&gt;頁尾文字區塊以外，&lt;/f3&gt;&lt;f4&gt;設定錨定為「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;作為段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」或「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;作為字元&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」（經過測試，在LibreOffice 5.4以後，只要把圖片放到頁首或頁尾區塊，你就點不到了，只能點到頁首或頁尾… 還有，錨定也沒有「作為段落」這個選項，但確實有「作為字元」。所以，這個部分還要刪改）。然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032101Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
+        <seg>將圖片錨定在頁首&lt;f1&gt;或頁尾&lt;/f1&gt;中，但把&lt;f2&gt;圖片&lt;/f2&gt;放在頁首&lt;f3&gt;頁尾文字區塊以外，&lt;/f3&gt;&lt;f4&gt;設定錨定為「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;至段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」或「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;作為字元&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」（經過測試，在LibreOffice 5.4以後，要先「編排 &gt; 移到最上層」，否則只要把圖片放到頁首或頁尾區塊，你就點不到了… 就算用「助手」也只能編輯內容，無法移動它。還有，錨定也沒有「作為段落」這個選項應該是手誤，已確認改成「至段落」可以重複出現。這個部分還要改寫）。然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
       </tuv>
     </tu>
     <tu>
