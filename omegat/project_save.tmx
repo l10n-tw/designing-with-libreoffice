@@ -20532,6 +20532,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In many ways, Writer’&lt;f0&gt;s&lt;/f0&gt; tables are simpler versions of frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180213T131453Z" creationid="Jeff Huang" creationdate="20180213T131453Z">
+        <seg>在許多種意義上，Writer的表格都是簡化版的外框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In many ways, frame styles are as much for Writer’s automatic formatting as they are for users.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033550Z" creationid="zerng07" creationdate="20180130T115322Z">
@@ -29773,6 +29781,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060153Z" creationid="zerng07" creationdate="20171224T060153Z">
         <seg>主要的缺點是你無法透過相同的頁面樣式輕鬆讓物件在每一頁重複出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The major differences are that &lt;f1&gt;you cannot wrap text around tables&lt;/f1&gt;, and text cannot flow from cell to cell like it can from frame to frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180213T132101Z" creationid="Jeff Huang" creationdate="20180213T132101Z">
+        <seg>其主要的不同是&lt;f1&gt;你不能在表格旁邊圍繞文字&lt;/f1&gt;，而文字也不能像外框一樣從一個外框跑到另一個外框。</seg>
       </tuv>
     </tu>
     <tu>
