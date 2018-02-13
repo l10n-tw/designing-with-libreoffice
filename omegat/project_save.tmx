@@ -14693,6 +14693,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit the frames as needed – for example, making them borderless, or coloring the borders or background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T030137Z" creationid="zerng07" creationdate="20180213T030137Z">
+        <seg>然後根據需求編輯外框——例如沒有邊框，或為邊框上色，或是增添背景等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit the labels for totals &lt;f0&gt;by modifying&lt;/f0&gt; the &lt;f1&gt;Result&lt;/f1&gt; and &lt;f2&gt;Result2&lt;/f2&gt; cell styles so that they stand out and readers can go directly to them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153914Z" creationid="Franklin Weng" creationdate="20180207T153914Z">
@@ -18900,6 +18908,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you anchor two text frames in the header of a page style, then position the frames on the page and link them, the same arrangement of frames appears on every instance of the page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T030423Z" creationid="zerng07" creationdate="20180213T030423Z">
+        <seg>如果你將兩個文字外框錨定在頁面樣式的頁首中，接著把外框放到頁面上然後連結這兩個外框，那麼之後只要有用相同的頁面樣式就會出現相同安排的外框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are &lt;f0&gt;publishing&lt;/f0&gt; online, neither paper size nor orientation matters unless the document might be printed to PDF or converted to an ebook format.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114939Z" creationid="Jeff Huang" creationdate="20180125T130817Z">
@@ -20463,6 +20479,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T024630Z" creationid="zerng07" creationdate="20180122T024630Z">
         <seg>換句話說，所有頁面中的每一行都會對在同一個水平位置上，特別是這份文件只採用一種字型時更會如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other words, text from the first frame will flow automatically into the second frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T030035Z" creationid="zerng07" creationdate="20180213T030026Z">
+        <seg>換句話說，第一個外框中的文字如果滿了會自動流到第二個外框去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26305,8 +26329,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting text flow between frames</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024938Z" creationid="zerng07" creationdate="20180213T024938Z">
-        <seg>設定外框之間的排文</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025911Z" creationid="zerng07" creationdate="20180213T024938Z">
+        <seg>設定外框與外框間的排文</seg>
       </tuv>
     </tu>
     <tu>
@@ -28994,6 +29018,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063914Z" creationid="zerng07" creationdate="20180208T063914Z">
         <seg>所有影像的預設寬度是280點，即是兩個邊距之間的寬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The diagonal blue line indicates that the two frames are connected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T030000Z" creationid="zerng07" creationdate="20180213T030000Z">
+        <seg>藍色斜線指示這兩個外框連結在一起。</seg>
       </tuv>
     </tu>
     <tu>
