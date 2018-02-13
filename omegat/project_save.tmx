@@ -19156,6 +19156,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do need to edit a watermark, select it and click &lt;f0&gt;Format &gt; Arrange &gt; Bring to Front.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024838Z" creationid="zerng07" creationdate="20180213T024838Z">
+        <seg>如果你真的需要編輯水印的話，選取到水印後點按「&lt;f0&gt;格式 &gt; 編排 &gt; 移到最上層&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not select a sub-folder, the template is saved to the appropriate tab for its file format, rather than to a sub-folder.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T111121Z" creationid="Franklin Weng" creationdate="20171222T141754Z">
@@ -20070,6 +20078,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111045Z" creationid="zerng07" creationdate="20171219T111045Z">
         <seg>此外，你想要編輯標題來讓標題能以數字開頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In advanced layouts, using multiple text frames can be easier tha&lt;f0&gt;n&lt;/f0&gt; using sections or columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025038Z" creationid="zerng07" creationdate="20180213T025038Z">
+        <seg>在複雜的進階版面配置中，如果是用多個文字外框會比用區段或欄還簡單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26243,6 +26259,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T063210Z" creationid="Franklin Weng" creationdate="20180120T063059Z">
         <seg>設定投影片版面配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting text flow between frames</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024938Z" creationid="zerng07" creationdate="20180213T024938Z">
+        <seg>設定外框之間的排文</seg>
       </tuv>
     </tu>
     <tu>
@@ -32908,6 +32932,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T084734Z" creationid="zerng07" creationdate="20180206T084734Z">
         <seg>使用「&lt;f0&gt;相對於&lt;/f0&gt;」欄位，可將其「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」設定成&lt;f3&gt;段落或&lt;/f3&gt;頁面寬度或高度的百分比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Navigator if you have trouble selecting the watermark or its frame.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024912Z" creationid="zerng07" creationdate="20180213T024912Z">
+        <seg>如果你選不到水印或其外框時，請使用「助手」協助你。</seg>
       </tuv>
     </tu>
     <tu>
