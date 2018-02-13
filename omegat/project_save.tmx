@@ -15965,6 +15965,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you create a &lt;t1/&gt;brochure on a single piece of paper, the inside pages (pages 2-3) are two connected frames.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025212Z" creationid="zerng07" creationdate="20180213T025212Z">
+        <seg>舉例來說，如果你要用單一張紙做成小冊子，其中的內頁（第二頁、第三頁）是兩個連續的外框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you created two paragraph styles for bullet&lt;f0&gt;s&lt;/f0&gt;, differing only in the list style each used, you could save time by setting one of the styles as the parent of another.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144845Z" creationid="zerng07" creationdate="20171225T144845Z">
@@ -31945,6 +31953,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105049Z" creationid="Jeff Huang" creationdate="20180121T133011Z">
         <seg>如果要組合形狀群組，先按住&lt;f0&gt;Shift&lt;/f0&gt;鍵不放，接著一次選取一個你要的形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To have text flow from one frame to another:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025245Z" creationid="zerng07" creationdate="20180213T025245Z">
+        <seg>讓文字安排從一個外框流到另一個外框去：</seg>
       </tuv>
     </tu>
     <tu>
