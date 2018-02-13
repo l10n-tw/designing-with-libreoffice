@@ -4438,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Wrap&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, s&lt;/f3&gt;elect&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Settings&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Through &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;and&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt; Options &gt; In Background.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T022222Z" creationid="zerng07" creationdate="20180213T022222Z">
+        <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;環繞&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，選取「&lt;f5&gt;&lt;f6&gt;設定&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;穿過&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」和「&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;選項 &gt; 置於背景&lt;/f12&gt;&lt;/f11&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Once a template is open, y&lt;/f0&gt;ou can edit &lt;f1&gt;it&lt;/f1&gt; exactly the same as any other document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135910Z" creationid="Franklin Weng" creationdate="20171223T124035Z">
@@ -6219,6 +6227,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105310Z" creationid="Franklin Weng" creationdate="20171218T124928Z">
         <seg>&lt;f0&gt;當然&lt;/f0&gt;，如果你用「&lt;f1&gt;檔案 &gt; 儲存&lt;/f1&gt;」或是「&lt;f4&gt;檔案 &gt; 另存新檔&lt;/f4&gt;」來儲存範本的話，確實可以在「儲存」對話視窗的格式清單中，將檔案格式選擇存成LibreOffice範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Two other ways exist to add a watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T022320Z" creationid="zerng07" creationdate="20180213T022320Z">
+        <seg>&lt;f0&gt;還有兩種其他方法可加入水印。（新：「格式 &gt; 水印」，改寫時補上。）</seg>
       </tuv>
     </tu>
     <tu>
