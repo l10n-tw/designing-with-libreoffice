@@ -22,22 +22,22 @@
 3. 完成所有章節
 
 第二階段：改作
-1. 加入中文版對應要有的內容，例如中文的自由字型、中文的文字排印學，並且改作為符合 5.4 時下最新版
+1. 加入中文版對應要有的內容，例如中文的自由字型、中文的文字排印學，並且改作為符合 6.0 時下最新版
 2. 四處找人閱讀校對
 3. 正式發表
-4. 改作為符合 6.0 版
+4. 改作為符合 5.4 版
 
 ## 翻譯階段
 * 已完成的有：
 第一章至第五章，第十二章至第十四章、第十六章、附錄A至附錄D
 
-括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
+括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第九章 (Cheng-Chia Tseng)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
 
 * 翻譯中的有：
-第六章（Mark Hung）、第七章 (Vdragon)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十五章（Franklin Weng）
+第六章（Mark Hung）、第七章 (Vdragon)、、第十章 (Jeff Huang)、第十五章（Franklin Weng）
 
 * 校對中的有：
-第八章（未）
+第八章（未）、第九章 (未)
 
 * 未處理的有：
 第十一章
