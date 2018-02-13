@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;The &lt;f1&gt;Watermark&lt;/f1&gt; frame style positions a graphic frame for use as a watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T021457Z" creationid="zerng07" creationdate="20180213T021248Z">
+        <seg>&lt;/f0&gt;套用「&lt;f1&gt;水印&lt;/f1&gt;」 外框樣式會將圖片外框放在水印用的位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;The design &lt;f1&gt;is simpler – and therefore stronger – with all contact information in a single column, and the name and company are still prominent because they are at the top of the column.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T105408Z" creationid="Jeff Huang" creationdate="20180116T070832Z">
@@ -5912,6 +5920,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T083511Z" creationid="zerng07" creationdate="20180205T083511Z">
         <seg>&lt;f0&gt;空間應該要是行距的倍數。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The text and objects in the document appear over top the watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T021243Z" creationid="zerng07" creationdate="20180213T021243Z">
+        <seg>&lt;f0&gt;文件中的文字和物件會蓋在水印之上。</seg>
       </tuv>
     </tu>
     <tu>
