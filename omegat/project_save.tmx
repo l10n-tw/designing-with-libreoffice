@@ -2068,6 +2068,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;onditional formatting in Calc automatically &lt;f1&gt;changes the appearance of&lt;/f1&gt; &lt;f2&gt;selected cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121945Z" creationid="Franklin Weng" creationdate="20180213T121945Z">
+        <seg>Calc 中的「&lt;f0&gt;條件式格式設定&lt;/f0&gt;」會&lt;f1&gt;自動變更選取儲存格的外觀。&lt;/f1&gt;&lt;f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;onsider &lt;f1&gt;whether&lt;/f1&gt; you want to set the &lt;f2&gt;Category&lt;/f2&gt; &lt;f3&gt;and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields &lt;/f6&gt;and the separator between the number and the text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T135304Z" creationid="zerng07" creationdate="20180209T135304Z">
@@ -12628,8 +12636,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cell &lt;f0&gt;protection is useful mostly against accidental changes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T120925Z" creationid="Franklin Weng" creationdate="20180213T120925Z">
-        <seg>Cell &lt;f0&gt;protection is useful mostly against accidental changes.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121404Z" creationid="Franklin Weng" creationdate="20180213T120925Z">
+        <seg>&lt;f0&gt;「儲存格保護」功能大多數是用在避免儲存格被不小心修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16189,6 +16197,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the spreadsheet might be used by clerks who need to enter data into specific cells, but who should not change anything else.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121629Z" creationid="Franklin Weng" creationdate="20180213T121357Z">
+        <seg>例如，一份試算表可能只讓店員輸入資料到特定的儲存格，但其它的儲存格都不能更動。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, they could be all nouns or participles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024932Z" creationid="Jeff Huang" creationdate="20180201T024932Z">
@@ -19072,6 +19088,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T054027Z" creationid="Jeff Huang" creationdate="20171111T131629Z">
         <seg>如果打算線上發布文件，那麼一個段落盡量不要超過四句或五句話，&lt;f0&gt;方便讀者閱讀理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are seriously concerned about preventing other users from editing your spreadsheet, password protect the document, and/or limit the permissions on the file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121747Z" creationid="Franklin Weng" creationdate="20180213T121747Z">
+        <seg>如果你完全不想讓其他使用者編輯你的試算表，你可以用密碼保護整份試算表，並且/或是限制檔案的權限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26311,6 +26335,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting conditional formatting &lt;f0&gt;for cells&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121855Z" creationid="Franklin Weng" creationdate="20180213T121855Z">
+        <seg>設定&lt;f0&gt;儲存格&lt;/f0&gt;的條件式格式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting connectors</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060630Z" creationid="Jeff Huang" creationdate="20171229T013748Z">
@@ -28816,6 +28848,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T101512Z" creationid="Franklin Weng" creationdate="20180105T115806Z">
         <seg>&lt;f0&gt;Lorem Ipsum&lt;/f0&gt;文章背後的假想為，除非你會讀拉丁文，否則你無法理解文章的內容，如此便可更專注於格式設定上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The automatic format can be the application of a cell style, or of an indicator that visually presents data in much the same way as a graph or a chart.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T122618Z" creationid="Franklin Weng" creationdate="20180213T122618Z">
+        <seg>這個自動化的格式設定可以是套用某個儲存格樣式，或是在特定條件下顯示資料，類似圖形或圖表的概念。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
