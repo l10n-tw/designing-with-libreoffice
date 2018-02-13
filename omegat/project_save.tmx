@@ -2287,8 +2287,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the&lt;f1&gt; Link Frames&lt;/f1&gt; icon on the &lt;f2&gt;Frames&lt;/f2&gt; tool bar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025507Z" creationid="zerng07" creationdate="20180213T025507Z">
-        <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f2&gt;外框&lt;/f2&gt;」工具列中點按「&lt;f1&gt;連結外框&lt;/f1&gt;」圖示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025605Z" creationid="zerng07" creationdate="20180213T025507Z">
+        <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f2&gt;外框&lt;/f2&gt;」工具列中點按鏈條形狀的「&lt;f1&gt;連結外框&lt;/f1&gt;」圖示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25839,6 +25839,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the target frame (the one that text will flow into from the first frame).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025758Z" creationid="zerng07" creationdate="20180213T025758Z">
+        <seg>選取目標外框（選取文字要從第一個外框流過去的下個外框）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the types of styles to import by selecting the boxes along the &lt;f0&gt;bottom&lt;/f0&gt; of the &lt;f1&gt;Load Styles&lt;/f1&gt; window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141756Z" creationid="Franklin Weng" creationdate="20171223T132650Z">
@@ -30332,6 +30340,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tool bar displays &lt;f3&gt;only &lt;/f3&gt;when a frame is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025641Z" creationid="zerng07" creationdate="20180213T025641Z">
+        <seg>這個工具列&lt;f3&gt;只會&lt;/f3&gt;你選取外框的時候才會出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The top objects and the visible parts of objects lower in the stack disappear, leaving only the parts that overlap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T084628Z" creationid="Jeff Huang" creationdate="20180122T084628Z">
@@ -33801,6 +33817,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115259Z" creationid="Jeff Huang" creationdate="20180122T040023Z">
         <seg>當圓圈與雜錦圖堆疊後，如果套用「&lt;f0&gt;&lt;f1&gt;減去&lt;/f1&gt;&lt;/f0&gt;」會留下剪紙式的缺口透出底下紙張的顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the frames are connected, a blue line runs between them when one frame is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025900Z" creationid="zerng07" creationdate="20180213T025900Z">
+        <seg>當外框連結好之後，只要選取其中一個外框，就會出現一條藍線連在一起。</seg>
       </tuv>
     </tu>
     <tu>
