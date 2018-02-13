@@ -9578,6 +9578,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A watermark used to indicate that a document is a draft.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024610Z" creationid="zerng07" creationdate="20180213T024610Z">
+        <seg>用來指示文件還是草稿的水印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A4 is a standard page size in most of the world, and Letter in the United States and Canada.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T130952Z" creationid="Jeff Huang" creationdate="20180125T130952Z">
@@ -30436,6 +30444,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then add it to a page style as a background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024545Z" creationid="zerng07" creationdate="20180213T024545Z">
+        <seg>再來把它加到作為背景用的頁面樣式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then assign one graphic style per element.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T045918Z" creationid="Jeff Huang" creationdate="20171220T082931Z">
@@ -33978,6 +33994,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070910Z" creationid="zerng07" creationdate="20180206T070910Z">
         <seg>當你分享時，&lt;f0&gt;你知道文件已經完整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever possible, do not insert a watermark that you will need to edit later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T024745Z" creationid="zerng07" creationdate="20180213T024745Z">
+        <seg>如果還沒有確定好水印，之後還需要修修改改的話，就先不要插入。</seg>
       </tuv>
     </tu>
     <tu>
