@@ -2157,6 +2157,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell value is:&lt;/f0&gt; Applies the selected cell style when the &lt;f1&gt;numerical value&lt;/f1&gt; is met.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074105Z" creationid="Franklin Weng" creationdate="20180215T074105Z">
+        <seg>&lt;f0&gt;儲存格值：&lt;/f0&gt;選取的儲存格的&lt;f1&gt;數值&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cell&lt;/f0&gt; &lt;f1&gt;s&lt;/f1&gt;tyles set both the appearance of cells and the types of content in them, such &lt;f2&gt;as&lt;/f2&gt; percentages or currency.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075303Z" creationid="zerng07" creationdate="20171224T075303Z">
@@ -3062,6 +3070,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141729Z" creationid="Jeff Huang" creationdate="20180122T135811Z">
         <seg>&lt;f0&gt;「格式 &gt; 區塊 &gt; 陰影線」&lt;/f0&gt;會在LibreOffice中建立線形陰影線的填入內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Format &gt; Conditional Formatting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; Condition &gt; Condition.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073745Z" creationid="Franklin Weng" creationdate="20180215T073745Z">
+        <seg>「&lt;f0&gt;格式 &gt; Format &gt; 格式化條件設定 &gt; 條件&lt;/f0&gt;」中的「&lt;f1&gt;&lt;f2&gt;條件&lt;/f2&gt;&lt;/f1&gt;」設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12208,6 +12224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By changing the general condition,&lt;f0&gt; &lt;/f0&gt;you can set the following types of conditional formatting:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074031Z" creationid="Franklin Weng" creationdate="20180215T074031Z">
+        <seg>在一般條件中你可以設定：&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By clicking on a part of the graph or opening the right-click menu, you can manually edit all of its pieces.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094139Z" creationid="Jeff Huang" creationdate="20180115T030320Z">
@@ -16815,6 +16839,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From left to right, they are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073824Z" creationid="Franklin Weng" creationdate="20180215T073824Z">
+        <seg>從左到右分別為：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From left to right: a 45-degree angle, a 90-degree angle, and &lt;f0&gt;v&lt;/f0&gt;ertically stacked&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131416Z" creationid="Franklin Weng" creationdate="20180211T131416Z">
@@ -18820,6 +18852,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085911Z" creationid="zerng07" creationdate="20180206T085911Z">
         <seg>如果有必要，先做實驗，把你想要的尺寸大小記錄下來，接著刪除你實驗的項目，然後重新再插入影像一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can edit the range of cells affected at the bottom of the &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Conditions&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; window.&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073604Z" creationid="Franklin Weng" creationdate="20180215T073604Z">
+        <seg>如果有必要設定多個儲存格，你可以在&lt;/f17&gt;「&lt;f18&gt;&lt;f19&gt;條件&lt;/f19&gt;&lt;/f18&gt;」&lt;f20&gt;視窗&lt;/f20&gt;底部編輯儲存格範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28191,6 +28231,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Conditions&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; area&lt;/f2&gt; has three fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073814Z" creationid="Franklin Weng" creationdate="20180215T073814Z">
+        <seg>在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;」設定&lt;f2&gt;區塊&lt;/f2&gt;中有三個欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;H&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;yphenation&lt;/f2&gt; settings on the &lt;f3&gt;Text Flow&lt;/f3&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T041803Z" creationid="zerng07" creationdate="20180125T041423Z">
@@ -29542,6 +29590,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filter to refine the condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073943Z" creationid="Franklin Weng" creationdate="20180215T073943Z">
+        <seg>用來微調條件設定的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is &lt;f0&gt;Shrink to fit cell size.&lt;/f0&gt; This option is useful largely for contents that almost but not quite fit&lt;f1&gt;s&lt;/f1&gt; into a cell.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132503Z" creationid="Franklin Weng" creationdate="20180211T132503Z">
@@ -29642,6 +29698,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T073934Z" creationid="Franklin Weng" creationdate="20180120T064847Z">
         <seg>你可以調整投影片中配置好的外框，例如拖曳外框邊緣或角落來調整它們的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The general condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073832Z" creationid="Franklin Weng" creationdate="20180215T073832Z">
+        <seg>一般條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30068,6 +30132,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034723Z" creationid="Jeff Huang" creationdate="20180210T034723Z">
         <seg>數字代表了表格加入的順序，而非表格從檔案開始算起的編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The numerical value that must be present to activate the conditional formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074013Z" creationid="Franklin Weng" creationdate="20180215T074013Z">
+        <seg>要達到條件的值。</seg>
       </tuv>
     </tu>
     <tu>
