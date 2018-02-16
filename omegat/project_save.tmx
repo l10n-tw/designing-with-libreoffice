@@ -2914,6 +2914,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;many&lt;/f1&gt; spreadsheets, the &lt;f2&gt;most&lt;/f2&gt; practical solution is to select from &lt;f3&gt;Page order, &lt;/f3&gt;choosing &lt;f4&gt;Top to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;b&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ottom, then &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;right&lt;/f9&gt;&lt;/f8&gt; or &lt;f10&gt;Left to &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;r&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;ight, then &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;d&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;own.&lt;/f16&gt; These selections can be confusing, but the diagrams beside the selection &lt;f17&gt;may keep things clear.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143805Z" creationid="Franklin Weng" creationdate="20180216T143805Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;對&lt;f1&gt;許多&lt;/f1&gt;試算表來說，&lt;f2&gt;最可行&lt;/f2&gt;的方案是從「&lt;f3&gt;頁序&lt;/f3&gt;」中，選擇&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;/f16&gt;「由上至下，再向右」或是「由左至右，再向下」。這些選項看起來有點難懂，不過&lt;f17&gt;搭配旁邊的圖一看就清楚了&lt;/f17&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fi&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;les &gt; Properties &gt; General&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; lists the template upon which the document was originally based.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145616Z" creationid="Franklin Weng" creationdate="20171212T115904Z">
@@ -3376,6 +3384,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160117Z" creationid="zerng07" creationdate="20171224T143053Z">
         <seg>&lt;f0&gt;階層式&lt;/f0&gt;：顯示樣式彼此之間的關係（&lt;f1&gt;請見第&lt;/f1&gt;&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;&lt;f4&gt;頁&lt;/f4&gt;〈&lt;f2&gt;&lt;bf3&gt;樣式的階層&lt;/bf3&gt;&lt;/f2&gt;〉）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However, &lt;/f0&gt;for all of these solutions, you are limited to no more than about one-third reduction in size &lt;f1&gt;if you are interested in readability&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143402Z" creationid="Franklin Weng" creationdate="20180216T143254Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;不管用哪些選項，&lt;f1&gt;你都要留意可讀性&lt;/f1&gt;，不要把大小縮到三分之一以下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8244,6 +8260,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;M&lt;/f2&gt;ost of these options are of limited use, &lt;f3&gt;e&lt;/f3&gt;xcept perhaps for comments on unfinished drafts or trial attempts at printing – after all, if the spreadsheet doesn’t need objects, why add them?</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144503Z" creationid="Franklin Weng" creationdate="20180216T144503Z">
+        <seg>&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;大部份的選項都是看狀況有限度的使用，除非是在草稿中要印出評註，或是在嘗試列印 – 畢竟，如果試算表內根本不需要物件/影像，幹嘛把它勾起來？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Make sure that any animations you add are not just bells and whistles, but illustrate something that cannot be easily shown any other way.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093204Z" creationid="Franklin Weng" creationdate="20180120T120819Z">
@@ -11047,6 +11071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anything more, and the contents will be less than 8 points high, and &lt;f2&gt;hard to read&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143337Z" creationid="Franklin Weng" creationdate="20180216T143337Z">
+        <seg>再變小，內容字體變得比 8 點還小，就&lt;f2&gt;很難閱讀了&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache OpenOffice still allows entries of 1/10 &lt;f0&gt;points.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023520Z" creationid="zerng07" creationdate="20180122T023520Z">
@@ -11484,6 +11516,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180130T060306Z" creationid="Jeff Huang" creationdate="20180130T060306Z">
         <seg>將圖形與清單樣式相關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At 300dpi or less, the result may not be printable, either.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143431Z" creationid="Franklin Weng" creationdate="20180216T143431Z">
+        <seg>另外就是如果縮到 300dpi 以下，可能就沒辦法印了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14729,6 +14769,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085932Z" creationid="Jeff Huang" creationdate="20171111T133140Z">
         <seg>某個字詞是否能完整表達出你的想法，或是還有更好的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't rely on printing a spreadsheet five minutes before you need it unless you have done so before and know how to get the results you want.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144045Z" creationid="Franklin Weng" creationdate="20180216T144045Z">
+        <seg>不要在用到前五分鐘才去印試算表，除非你已經有完善的規劃，確定印出來的結果是你要的樣子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19605,6 +19653,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you continue to have problems, you might be able turn off the printing of elements &lt;f0&gt;such as comments&lt;/f0&gt; o&lt;f1&gt;r&lt;/f1&gt; charts to save space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143930Z" creationid="Franklin Weng" creationdate="20180216T143930Z">
+        <seg>如果你還是有問題，你可以考慮某些東西不要印，例如&lt;f0&gt;評註&lt;/f0&gt;或&lt;f1&gt;圖表&lt;/f1&gt;等以節省空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you create your slide show as suggested &lt;f0&gt;in this chapter&lt;/f0&gt;, &lt;f1&gt;such&lt;/f1&gt; problems should be minimized.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T145045Z" creationid="Franklin Weng" creationdate="20180120T125454Z">
@@ -21120,6 +21176,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T042312Z" creationid="Jeff Huang" creationdate="20180126T035350Z">
         <seg>最後，黃金比例大多時候享有盛名但並不實際——&lt;f1&gt;不是每個人都相信值得費心套用這套細膩的理論。&lt;/f1&gt;如果你決定使用黃金比例，那麼請選擇較厚且優質的紙張，還有簡單但優雅的字型作為文件的內文字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the end, you may even want to tape pages together to reproduce the spreadsheet more accurately in hard copy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144212Z" creationid="Franklin Weng" creationdate="20180216T144212Z">
+        <seg>最後，你可能甚至要把幾頁合在一起，才能更精確地呈現出試算表的樣子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24711,6 +24775,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T064032Z" creationid="Jeff Huang" creationdate="20180118T131434Z">
         <seg>除非你同時選擇了兩個物件，此時所有元素就會如同成為一個群組一樣一起被拖曳；否則連接線另一端的物件會留在原位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other options</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144215Z" creationid="Franklin Weng" creationdate="20180216T144215Z">
+        <seg>其它選項</seg>
       </tuv>
     </tu>
     <tu>
@@ -28938,6 +29010,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab’s &lt;f1&gt;Print&lt;/f1&gt; pane includes selection boxes for what is printed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144256Z" creationid="Franklin Weng" creationdate="20180216T144256Z">
+        <seg>在「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「&lt;f1&gt;列印&lt;/f1&gt;」區塊中包含了要列印的項目的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window always opens with the style for the current cursor position highlighted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074313Z" creationid="zerng07" creationdate="20171225T073730Z">
@@ -30639,6 +30719,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134904Z" creationid="Jeff Huang" creationdate="20180127T035123Z">
         <seg>至於頁碼，或許可以大一點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The page order options on the &lt;f0&gt;Sheet&lt;/f0&gt; tab help to squeeze a spreadsheet onto a page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143841Z" creationid="Franklin Weng" creationdate="20180216T143841Z">
+        <seg>「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「頁序」選項可以幫你把試算表擠到一頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34420,6 +34508,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whatever combination of solutions you decide to use, plan and test in advance.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143946Z" creationid="Franklin Weng" creationdate="20180216T143946Z">
+        <seg>不管你決定用怎樣的解決方案，都要預先規劃跟測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whatever tactic you choose, the &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;conclusion is your last chance to leave an impression with listeners.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T084629Z" creationid="Franklin Weng" creationdate="20180114T055653Z">
@@ -35520,6 +35616,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143813Z" creationid="zerng07" creationdate="20171219T143757Z">
         <seg>你正在一邊實驗&lt;f0&gt;樣式&lt;/f0&gt;一邊打造範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are likely to need several tries to print satisfactorily.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144104Z" creationid="Franklin Weng" creationdate="20180216T144104Z">
+        <seg>你可能會需要多試幾次，才能印出滿意的結果。</seg>
       </tuv>
     </tu>
     <tu>
