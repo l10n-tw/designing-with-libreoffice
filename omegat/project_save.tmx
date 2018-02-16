@@ -4056,8 +4056,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Instead&lt;/f0&gt; use the &lt;f1&gt;Add&lt;/f1&gt; button to &lt;f2&gt;apply&lt;/f2&gt; your own formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T150143Z" creationid="Franklin Weng" creationdate="20180216T150143Z">
-        <seg>&lt;f0&gt;Instead&lt;/f0&gt; use the &lt;f1&gt;Add&lt;/f1&gt; button to &lt;f2&gt;apply&lt;/f2&gt; your own formatting.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152416Z" creationid="Franklin Weng" creationdate="20180216T150143Z">
+        <seg>&lt;f0&gt;你可以&lt;/f0&gt;用「&lt;f1&gt;加入&lt;/f1&gt;」鍵來&lt;f2&gt;套用&lt;/f2&gt;你自己的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5536,6 +5536,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T034604Z" creationid="zerng07" creationdate="20180122T034604Z">
         <seg>&lt;f1&gt;段落與段落間&lt;/f1&gt;的&lt;f0&gt;間距&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Spreadsheets are primarily lists or ledgers&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152812Z" creationid="Franklin Weng" creationdate="20180216T152812Z">
+        <seg>&lt;f0&gt;試算表基本上就是清單或帳簿。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7462,6 +7470,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T073542Z" creationid="Franklin Weng" creationdate="20171228T071348Z">
         <seg>&lt;f1&gt;如果你偏好的是義大利體 (Italic)，那麼你可能得尋找一些能和一般字重互相搭配的其他字型。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;If you still have problems, consider not adding any other elements.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153051Z" creationid="Franklin Weng" creationdate="20180216T153051Z">
+        <seg>&lt;f1&gt;如果你還是有問題，就考慮別加上其他的元素吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -11769,6 +11785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto&lt;f0&gt;F&lt;/f0&gt;ormat&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;are an alternative to &lt;f3&gt;p&lt;/f3&gt;age styles for formatting &lt;f4&gt;some aspects of a spreadsheet.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152708Z" creationid="Franklin Weng" creationdate="20180216T152708Z">
+        <seg>「&lt;f0&gt;自動格式樣式&lt;/f0&gt;」&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;是對試算表中的一部份套用&lt;f3&gt;頁面樣式&lt;/f3&gt;的&lt;f4&gt;另一個選擇。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating style application</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T043928Z" creationid="zerng07" creationdate="20171227T033125Z">
@@ -15447,6 +15471,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even worse, &lt;f0&gt;nobody has found a workaround for the problem in Calc.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152953Z" creationid="Franklin Weng" creationdate="20180216T152953Z">
+        <seg>更糟的是，&lt;f0&gt;在 Calc 中這類問題還沒有人找得到變通方案。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even worse, several lines are single words.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T120646Z" creationid="zerng07" creationdate="20180123T120526Z">
@@ -18878,6 +18910,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T143630Z" creationid="Franklin Weng" creationdate="20171212T101117Z">
         <seg>不過，你也&lt;f0&gt;可以設計&lt;/f0&gt;一份&lt;f1&gt;包含更多格式設定資訊的範本作為自己的預設範本&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, you can also add &lt;f1&gt;other elements, such as pictures, charts, and formulas, especially when you are turning a spreadsheet into a tutorial.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152901Z" creationid="Franklin Weng" creationdate="20180216T152901Z">
+        <seg>不過，你也可以&lt;f1&gt;加入其他元素，像是圖片、圖表、公式等等，特別是當你把試算表變成一份教學文件時這些元素會很有用。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27690,6 +27730,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of these conventions are expectations, worth noting because they are how others will judge your work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153320Z" creationid="Franklin Weng" creationdate="20180216T153320Z">
+        <seg>有些是值得注意的慣例，因為它們會是其他人看你工作成果的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of these features just have limited or specialized use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T094908Z" creationid="zerng07" creationdate="20180125T094908Z">
@@ -27944,6 +27992,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T120010Z" creationid="Franklin Weng" creationdate="20180122T120010Z">
         <seg>試算表&lt;f0&gt;設計&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheet conventions differ greatly from those of text documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153238Z" creationid="Franklin Weng" creationdate="20180216T153238Z">
+        <seg>試算表使用的習慣與文字文件有很大的不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29650,6 +29706,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142816Z" creationid="zerng07" creationdate="20171224T142810Z">
         <seg>視窗提供的基本檢視內容&lt;f0&gt;端視各應用程式而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The best advice is to follow the precautions suggested &lt;f0&gt;in Chapter 10 for Writer frames&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153035Z" creationid="Franklin Weng" creationdate="20180216T153035Z">
+        <seg>我能給的最好忠告是遵循&lt;f0&gt;第 10 章&lt;/f0&gt;中對 Writer 外框的建議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31918,6 +31982,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are almost always enhancements rather than necessities on a spreadsheet.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153108Z" creationid="Franklin Weng" creationdate="20180216T153108Z">
+        <seg>它們通常只是強化性質，對試算表來說並不是必需的。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are also close in size: A4 has a width of 595 points and a height of 842 points, while Letter has a width of 612 points, and a height of 792 points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T131220Z" creationid="Jeff Huang" creationdate="20180125T131220Z">
@@ -33753,6 +33825,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, just as with frames in text documents, additional elements in Calc do not always stay where you place them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152930Z" creationid="Franklin Weng" creationdate="20180216T152930Z">
+        <seg>只是，就跟文字文件中的外框一樣，在 Calc 中新增元素也不一定會老實待在你要它待的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately, some of the original formatting, including the text color and any underlining, &lt;f0&gt;sometimes remains when available system memory is low.&lt;/f0&gt; When it does, applying the &lt;f1&gt;Default&lt;/f1&gt; character style may remove it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135538Z" creationid="zerng07" creationdate="20171226T135538Z">
@@ -34577,6 +34657,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T121458Z" creationid="Franklin Weng" creationdate="20171223T093236Z">
         <seg>&lt;/f0&gt;當你準備好要填入資訊時，點按佔位項&lt;f1&gt;欄位&lt;/f1&gt;填入資料，即可把原來的佔位內容替換掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>W&lt;f0&gt;orking with&lt;/f0&gt; conventions</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153224Z" creationid="Franklin Weng" creationdate="20180216T153224Z">
+        <seg>&lt;f0&gt;養成良好的習慣&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35926,6 +36014,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can apply an AutoFormat to an entire sheet by clicking the cell above the row 1 header and to the left of the column A header.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152552Z" creationid="Franklin Weng" creationdate="20180216T152552Z">
+        <seg>你可以先點按在 A1 儲存格左上角那個空白處，然後把自動格式樣式套用到整張工作表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can build complicated shapes by combining basic shapes in different ways.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T110231Z" creationid="Jeff Huang" creationdate="20180122T025539Z">
@@ -36669,6 +36765,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171123T080000Z" creationid="Jeff Huang" creationdate="20171123T080000Z">
         <seg>你可能會決定只為關鍵元素命名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find Auto&lt;f3&gt;F&lt;/f3&gt;ormat more useful than using &lt;f4&gt;p&lt;/f4&gt;age styles &lt;f5&gt;for creating a general look.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152505Z" creationid="Franklin Weng" creationdate="20180216T152505Z">
+        <seg>如果只是要建立一般的外觀，你可能會覺得「&lt;f3&gt;自動格式樣式&lt;/f3&gt;」會比「&lt;f4&gt;頁面樣式&lt;/f4&gt;」要有用。&lt;f5&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
