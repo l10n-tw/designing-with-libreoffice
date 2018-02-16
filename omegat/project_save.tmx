@@ -1530,6 +1530,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;All Cells &gt; Color Scale (2 entries)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131344Z" creationid="Franklin Weng" creationdate="20180216T131344Z">
+        <seg>&lt;f0&gt;All Cells &gt; Color Scale (2 entries)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All Styles:&lt;/f0&gt; Especially when you are viewing paragraph styles, &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;All Styles&lt;/f2&gt; &lt;f3&gt;view&lt;/f3&gt; can give you so many names to scan that &lt;f4&gt;using it&lt;/f4&gt; is counter-productive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153531Z" creationid="zerng07" creationdate="20171224T153043Z">
@@ -2551,6 +2559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Date is: &lt;/f0&gt;Applies the selected cell style to cells in which the designated filter is used, from Today to Last Week.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131121Z" creationid="Franklin Weng" creationdate="20180216T131121Z">
+        <seg>&lt;f0&gt;日期：&lt;/f0&gt;在選取的儲存格範圍中，找到儲存格的值為指定的時間點時套用樣式。時間點的指定為下拉式選單，可選的值從今日、昨日、明日到今年、去年、明年等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Deciding on the &lt;/f0&gt;styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061113Z" creationid="Franklin Weng" creationdate="20180211T061113Z">
@@ -3086,6 +3102,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143510Z" creationid="Franklin Weng" creationdate="20180206T143510Z">
         <seg>&lt;f0&gt;將儲存格的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式格式設定好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Formula is:&lt;/f0&gt; Applies the selected cell style to cells in which the designated formula is used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130744Z" creationid="Franklin Weng" creationdate="20180216T130744Z">
+        <seg>&lt;f0&gt;公式：&lt;/f0&gt;在選取的儲存格範圍中，找到使用到指定的函式與公式的儲存格並套用選取的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,6 +10442,8 @@
       </tuv>
     </tu>
     <tu>
+      <note>實際上並不是所有的都在「條件」中設定。「色階」與「日期」等從 4.0 版開始就都是在「條件」之外的。所以不確定這一段原文是否精確。
+我感覺作者用的應該多了一層「條件」選單。先依現有 6.x 版狀況翻譯</note>
       <tuv lang="EN">
         <seg>All types of conditional formatting can be configured from &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Condition&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
@@ -21356,6 +21382,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It cannot be used for cells formatted for text.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130609Z" creationid="Franklin Weng" creationdate="20180216T130609Z">
+        <seg>它不能用在放文字的儲存格。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It cannot be used with &lt;f2&gt;f&lt;/f2&gt;rames (that is, &lt;f3&gt;Text Frames&lt;/f3&gt;), presumably because text is too regular for it to make any difference in the wrap.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080602Z" creationid="zerng07" creationdate="20180208T080602Z">
@@ -29678,6 +29712,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula is typically one that view&lt;f1&gt;er&lt;/f1&gt;s of the sheet wish to find easily.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130858Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
+        <seg>「公式」這種型態通常是讓查看此工作表的人可以快速尋找。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The four basic font styles &lt;f0&gt;in most font families.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T074139Z" creationid="Franklin Weng" creationdate="20171228T072231Z">
@@ -32032,6 +32074,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083658Z" creationid="Jeff Huang" creationdate="20180124T092958Z">
         <seg>這個傳統也代表右頁的頁碼&lt;f1&gt;通常&lt;/f1&gt;是奇數，而左頁則為偶數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This type is especially useful for locating recent information.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131133Z" creationid="Franklin Weng" creationdate="20180216T131133Z">
+        <seg>這個型態通常用來尋找最近的資訊。</seg>
       </tuv>
     </tu>
     <tu>
