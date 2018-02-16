@@ -1080,6 +1080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;All Cells &gt; Color scale (3 entries)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Like a color scale for two entries, except that a third target value is added, often a midpoint using the value &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Percent&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T133132Z" creationid="Franklin Weng" creationdate="20180216T133132Z">
+        <seg>選擇「&lt;f0&gt;&lt;f1&gt;色階（3 個條目）&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：跟 2 個條目很像，就是加上第三個目標值。通常第三個值是用&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;百分比&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來標示最高與最低中間的值。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Allow table to split across pages and columns:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; A multi-page table tends to defeat the purpose of making information easily read.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T131545Z" creationid="Jeff Huang" creationdate="20180211T131545Z">
@@ -1529,11 +1537,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>傷腦筋，這個不在「條件」的區塊中。這樣寫法在 review 時可能需要重新調整。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;All Cells &gt; Color Scale (2 entries)&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131344Z" creationid="Franklin Weng" creationdate="20180216T131344Z">
-        <seg>&lt;f0&gt;All Cells &gt; Color Scale (2 entries)&lt;/f0&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132348Z" creationid="Franklin Weng" creationdate="20180216T131344Z">
+        <seg>&lt;f0&gt;另外在「條件式格式設定」下選擇「色階」，你可以在一般條件中選擇「所有儲存格」，然後選擇「色階（2 個條目）」&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3089,11 +3098,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>這裡顯示作者使用的應該多了一層 Condition 選單。實際上 LibreOffice 並沒有。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Conditional Formatting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; Condition &gt; Condition.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073745Z" creationid="Franklin Weng" creationdate="20180215T073745Z">
-        <seg>「&lt;f0&gt;格式 &gt; Format &gt; 格式化條件設定 &gt; 條件&lt;/f0&gt;」中的「&lt;f1&gt;&lt;f2&gt;條件&lt;/f2&gt;&lt;/f1&gt;」設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131922Z" creationid="Franklin Weng" creationdate="20180215T073745Z">
+        <seg>「&lt;f0&gt;格式 &gt; 格式化條件設定 &gt; 條件&lt;/f0&gt;」中的「&lt;f1&gt;&lt;f2&gt;條件&lt;/f2&gt;&lt;/f1&gt;」設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,6 +9241,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A color scale, with &lt;f0&gt;yellow&lt;/f0&gt; indicating the lowest value&lt;f1&gt; and cyan&lt;/f1&gt; the highest.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132804Z" creationid="Franklin Weng" creationdate="20180216T132804Z">
+        <seg>「色階」的一種用法，將最低值標記為&lt;f0&gt;黃色&lt;/f0&gt;，最高值標記為&lt;f1&gt;青色&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A common fault in spreadsheets is to choose a small font size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092114Z" creationid="Franklin Weng" creationdate="20180211T092114Z">
@@ -13785,6 +13803,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T185102Z" creationid="zerng07" creationdate="20170817T142039Z">
         <seg>專為GNU/Linux作業系統上之&lt;f0&gt;KDE&lt;/f0&gt;桌面環境所製作的字型，Oxygen是現代幾何風字型，形狀簡潔，但極為易讀，看起來很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates a gradient of two colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132401Z" creationid="Franklin Weng" creationdate="20180216T132401Z">
+        <seg>這樣會建立一個兩個顏色所形成的漸層。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22895,6 +22921,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mid-ranged values are different shades of &lt;f2&gt;green&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132859Z" creationid="Franklin Weng" creationdate="20180216T132859Z">
+        <seg>在中間的值則為不同色調的&lt;f2&gt;綠色&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mint Spirit No2, &lt;f0&gt;Nunito&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071550Z" creationid="Jeff Huang" creationdate="20180115T071550Z">
@@ -29263,6 +29297,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The color scale &lt;f1&gt;is especially useful for showing high and low values in a range of cells at a quick glance.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132706Z" creationid="Franklin Weng" creationdate="20180216T132706Z">
+        <seg>「色階」&lt;f1&gt;在選取的儲存格範圍中快速找到高值與低值這方面特別好用。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The combined effect of &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; settings for &lt;f2&gt;two subsequent&lt;/f2&gt; paragraph styles can cause unexpected&lt;f3&gt;ly large spaces between paragraphs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T095256Z" creationid="zerng07" creationdate="20180123T091015Z">
@@ -29628,6 +29670,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T080145Z" creationid="zerng07" creationdate="20171226T080131Z">
         <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中的一些欄位，如果你做設定沒有意義的話會自動轉為灰色不能點選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>這幾段都需要特別留意 Review</note>
+      <tuv lang="EN">
+        <seg>The fields refer not to formulas, but to target values.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132602Z" creationid="Franklin Weng" creationdate="20180216T132602Z">
+        <seg>這個欄位指的不是公式或函式，而是目標值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32197,11 +32248,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>我感覺作者用的應該多了一層「條件」選單。先依現有 6.x 版狀況翻譯</note>
       <tuv lang="EN">
         <seg>To &lt;f0&gt;use&lt;/f0&gt; Calc’s conditional formatting, &lt;f1&gt;select the cells to work with, then click&lt;/f1&gt; &lt;f2&gt;Format &gt; Conditional Formatting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt; Condition&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and select an item from the sub-menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T124057Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
-        <seg>在 Calc 中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定，&lt;f1&gt;先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定 &gt; 條件」，&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;然後從子選單中選擇其中一個項目。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131830Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
+        <seg>在 Calc 中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定，&lt;f1&gt;先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定」，&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;然後從子選單中選擇其中一個項目。</seg>
       </tuv>
     </tu>
     <tu>
