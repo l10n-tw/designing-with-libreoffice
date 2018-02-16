@@ -8307,6 +8307,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;This type is useful for emphasizing target values in a range of cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130546Z" creationid="Franklin Weng" creationdate="20180215T074124Z">
+        <seg>&lt;f2&gt;這種型態用於突顯選取的儲存格範圍中的目標數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;To create sub-lists, set off cells from the rest of the sheet by blank cells, borders, or backgrounds.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T191415Z" creationid="Franklin Weng" creationdate="20180204T191415Z">
@@ -30138,8 +30146,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The numerical value that must be present to activate the conditional formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074013Z" creationid="Franklin Weng" creationdate="20180215T074013Z">
-        <seg>要達到條件的值。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074127Z" creationid="Franklin Weng" creationdate="20180215T074013Z">
+        <seg>要達到條件的數值。</seg>
       </tuv>
     </tu>
     <tu>
