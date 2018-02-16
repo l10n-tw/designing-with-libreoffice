@@ -1981,6 +1981,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Begin by experimenting with the&lt;/f0&gt; &lt;f1&gt;Reduce/Enlarge printout,&lt;/f1&gt; &lt;f2&gt;entering either&lt;/f2&gt; a percentage of the original size, or &lt;f3&gt;Fit &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;print &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;range(s) to width/height&lt;/f6&gt; or &lt;f7&gt;Fit print range(s) on number of pages&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143159Z" creationid="Franklin Weng" creationdate="20180216T143159Z">
+        <seg>&lt;f0&gt;你可以先試試&lt;/f0&gt;「&lt;f1&gt;減小/擴大列印輸出&lt;/f1&gt;」，&lt;f2&gt;輸入一個&lt;/f2&gt;跟原始大小比較的縮放係數百分比；再來可以試試&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;「使列印範圍符合寬度/高度」&lt;/f6&gt;或是&lt;f7&gt;「使列印範圍符合多頁」&lt;/f7&gt;等選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Below: Lining figures.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171227T145848Z" creationid="Franklin Weng" creationdate="20171225T135252Z">
@@ -6545,6 +6553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unfortunately, &lt;/f0&gt;this practice would limit you to no more than half a dozen columns, which is often impractical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142532Z" creationid="Franklin Weng" creationdate="20180216T142532Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;這樣實際上的限制可能讓你印不了幾個欄位，通常不太實用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Unless extra spacing is provided, t&lt;/f0&gt;he &lt;f1&gt;list items are displaced&lt;/f1&gt; w&lt;f2&gt;hen the numbering enters two digits.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135022Z" creationid="Jeff Huang" creationdate="20180204T135022Z">
@@ -7599,6 +7615,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T040251Z" creationid="Jeff Huang" creationdate="20180116T033401Z">
         <seg>&lt;f1&gt;當然，也有些時候&lt;/f1&gt;遵循一個原則就夠用了，可以忽略其他原則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Sometimes, you can hide &lt;/f1&gt;some columns or &lt;f2&gt;print only selected columns, but not always.&lt;/f2&gt; &lt;f3&gt;In many cases, page styles are the only alternatives.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142636Z" creationid="Franklin Weng" creationdate="20180216T142636Z">
+        <seg>&lt;f1&gt;有的時候，你可以選擇隱藏&lt;/f1&gt;一些欄位，或是&lt;f2&gt;只列印選擇的欄位。但這個方法也不是每次都適用。&lt;/f2&gt;&lt;f3&gt;很多狀況下，還是要靠頁面樣式來調整。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16591,6 +16615,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, allowing for &lt;f0&gt;margins of&lt;/f0&gt; 2.5 centimeters on &lt;f1&gt;portrait-oriented, &lt;/f1&gt;letter-sized paper, columns should have a combined width of no more than about 17 centimeters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142402Z" creationid="Franklin Weng" creationdate="20180216T142402Z">
+        <seg>例如，在縱向、Letter 大小的紙張，&lt;f0&gt;邊界&lt;/f0&gt; 2.5 公分時&lt;f1&gt;&lt;/f1&gt;欄寬總和通常就不要超過 17 公分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you are building an organizational chart, you might have a style called &lt;f0&gt;Position Boxes &lt;/f0&gt;to indicate each job.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050021Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
@@ -18473,6 +18505,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the &lt;f1&gt;Sheet&lt;/f1&gt; tab has options that deserve a closer look.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142731Z" creationid="Franklin Weng" creationdate="20180216T142731Z">
+        <seg>不過，在「&lt;f1&gt;工作表&lt;/f1&gt;」標籤頁還是有一些值得一看的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the four operations necessary for every image are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131712Z" creationid="zerng07" creationdate="20180205T131648Z">
@@ -18589,6 +18629,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T065553Z" creationid="zerng07" creationdate="20180125T065537Z">
         <seg>不過，太多種縮排會讓設計變得很雜亂，所以縮排的數量應該盡可能降到最低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, translating a spreadsheet from online to hard copy is frequently an onerous task, full of false starts as you try different solutions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142142Z" creationid="Franklin Weng" creationdate="20180216T141857Z">
+        <seg>然而，把試算表從線上轉印到紙上，通常會是一個很繁重的工作。在嘗試各種不同的解決方案時會有很多問題浮現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21701,6 +21749,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may even be your only point.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142852Z" creationid="Franklin Weng" creationdate="20180216T142852Z">
+        <seg>它甚至可能是你唯一的救星。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may use an italic or script font.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104632Z" creationid="Jeff Huang" creationdate="20180124T134524Z">
@@ -23254,6 +23310,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the options for spreadsheet pages are similar to the page styles for text documents &lt;f0&gt;(see Chapter 8)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142709Z" creationid="Franklin Weng" creationdate="20180216T142709Z">
+        <seg>大部份試算表頁面樣式的選項都跟文字文件差不多（&lt;f0&gt;請參考第八章&lt;/f0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the time, however, what is obvious to you after you have planned and written is much less obvious to readers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133950Z" creationid="zerng07" creationdate="20180209T133939Z">
@@ -24425,6 +24489,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One way to make printing easier is to keep careful track of column widths to make sure that they fit comfortably on a page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142217Z" creationid="Franklin Weng" creationdate="20180216T142217Z">
+        <seg>一個讓列印比較容易的方法，是隨時留意欄寬，確保在列印時不會超過。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One way to regain perspective is to get a second opinion from someone who is interested in your topic and willing to take the time to read thoughtfully and respond honestly.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T045301Z" creationid="Jeff Huang" creationdate="20171111T030615Z">
@@ -24435,8 +24507,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Online, the dimensions of a spreadsheet have few restrictions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141432Z" creationid="Franklin Weng" creationdate="20180216T141432Z">
-        <seg>Online, the dimensions of a spreadsheet have few restrictions.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141939Z" creationid="Franklin Weng" creationdate="20180216T141432Z">
+        <seg>在線上閱讀時，試算表的大小不會有什麼限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26024,6 +26096,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T124501Z" creationid="Franklin Weng" creationdate="20180120T124501Z">
         <seg>儲存範本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scaling spreadsheets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142800Z" creationid="Franklin Weng" creationdate="20180216T142800Z">
+        <seg>調整試算表的比例</seg>
       </tuv>
     </tu>
     <tu>
@@ -28842,6 +28922,22 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab has options for printing to hard copy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142456Z" creationid="Franklin Weng" creationdate="20180216T142456Z">
+        <seg>在「格式 &gt; 頁面」中的「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁裡有一些列印時可以用的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab includes options for fitting a spreadsheet on a printed page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142921Z" creationid="Franklin Weng" creationdate="20180216T142921Z">
+        <seg>在「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中包含了將試算表塞進一張紙上的選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window always opens with the style for the current cursor position highlighted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074313Z" creationid="zerng07" creationdate="20171225T073730Z">
@@ -30776,6 +30872,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083347Z" creationid="Jeff Huang" creationdate="20180131T083347Z">
         <seg>相同的清單樣式可以用於多個段落樣式，&lt;f0&gt;避免設計工作重覆。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The scaling options on the &lt;f0&gt;Sheet&lt;/f0&gt; tab should be your starting point with page styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142839Z" creationid="Franklin Weng" creationdate="20180216T142839Z">
+        <seg>你可以優先看看在「工作表」標籤頁中的「顯示比例」選項。</seg>
       </tuv>
     </tu>
     <tu>
