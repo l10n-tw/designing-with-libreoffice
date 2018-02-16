@@ -2103,8 +2103,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113045Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
-        <seg>儲存格保護除了可以避免儲存格內容被修改，也可以讓 Calc 在列印或執行其他操作時跳過該儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153704Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;儲存格保護除了可以避免儲存格內容被修改，也可以讓 Calc 在列印或執行其他操作時跳過該儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4576,8 +4576,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;thers argue that &lt;f1&gt;such things distract&lt;/f1&gt; from the contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144921Z" creationid="Franklin Weng" creationdate="20180216T144852Z">
-        <seg>另一派的使用者則認為&lt;f1&gt;這些東西會讓內容不明顯&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153742Z" creationid="Franklin Weng" creationdate="20180216T144852Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;另一派的使用者則認為&lt;f1&gt;這些東西會讓內容不明顯&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6418,8 +6418,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To help cope with such considerations,&lt;/f0&gt; Calc page styles have many of the same option&lt;f1&gt;s&lt;/f1&gt; as Writer documents, giving you the versatility you need for printing well-formatted sheets.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141249Z" creationid="Franklin Weng" creationdate="20180216T141249Z">
-        <seg>&lt;f0&gt;為了這些考量，&lt;/f0&gt;Calc 的頁面樣式有許多跟 Writer 相同的選項，讓你有足夠的功能來正確地印出工作表。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153722Z" creationid="Franklin Weng" creationdate="20180216T141249Z">
+        <seg>&lt;f0&gt;為了這些考量，&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;Calc 的頁面樣式有許多跟 Writer 相同的選項，讓你有足夠的功能來正確地印出工作表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10735,8 +10735,8 @@
       <tuv lang="EN">
         <seg>Alphabetical characters are assumed to be text, &lt;f0&gt;aligned to the left, &lt;/f0&gt;and numbers are assumed to be ordinary number&lt;f1&gt;s, aligned to the right for convenience when reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113103Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
-        <seg>英文或拉丁文等字母預設為文字型態，置左對齊，而數字則預設為... 數字，會靠右對齊以方便閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153654Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
+        <seg>英文或拉丁文等字母預設為文字型態，&lt;f0&gt;置左對齊&lt;/f0&gt;，而數字則預設為... 數字，&lt;f1&gt;會靠右對齊以方便閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30330,8 +30330,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The formula is typically one that view&lt;f1&gt;er&lt;/f1&gt;s of the sheet wish to find easily.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130858Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
-        <seg>「公式」這種型態通常是讓查看此工作表的人可以快速尋找。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153713Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
+        <seg>「公式」這種型態通常是讓查看此工作表的人可以快速尋找。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31183,8 +31183,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The scaling options on the &lt;f0&gt;Sheet&lt;/f0&gt; tab should be your starting point with page styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142839Z" creationid="Franklin Weng" creationdate="20180216T142839Z">
-        <seg>你可以優先看看在「工作表」標籤頁中的「顯示比例」選項。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153730Z" creationid="Franklin Weng" creationdate="20180216T142839Z">
+        <seg>你可以優先看看在「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「顯示比例」選項。</seg>
       </tuv>
     </tu>
     <tu>
