@@ -1,0 +1,4 @@
+# Version Tracking Ignore Rules for Git VCS
+# https://git-scm.com/docs/gitignore
+## OpenOffice/LibreOffice Lock Files
+.~lock.*
