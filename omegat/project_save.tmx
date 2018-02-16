@@ -1082,16 +1082,17 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;All Cells &gt; Color scale (3 entries)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Like a color scale for two entries, except that a third target value is added, often a midpoint using the value &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Percent&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T133132Z" creationid="Franklin Weng" creationdate="20180216T133132Z">
-        <seg>選擇「&lt;f0&gt;&lt;f1&gt;色階（3 個條目）&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：跟 2 個條目很像，就是加上第三個目標值。通常第三個值是用&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;百分比&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來標示最高與最低中間的值。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134814Z" creationid="Franklin Weng" creationdate="20180216T133132Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「所有儲存格 &gt; 色階（3 個條目）」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：跟 2 個條目很像，就是加上第三個目標值。通常第三個值是用&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;百分比&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來標示最高與最低中間的值。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Review requested</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;All Cells &gt; Data Bar:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; A gradient that creates a graph-like representation, typically showing how far above or below a cell value is of a designated norm.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134211Z" creationid="Franklin Weng" creationdate="20180216T134211Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「條件式格式設定 &gt; 資料條」：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;建立一種類似圖形呈現的漸層，通常用來顯示目標儲存格的值比指定的 A gradient that creates a graph-like representation, typically showing how far above or below a cell value is of a designated norm.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134852Z" creationid="Franklin Weng" creationdate="20180216T134211Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「所有儲存格 &gt; 資料條」：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;建立一種類似圖形呈現的漸層，通常用來顯示目標儲存格的值跟指定的常態離多遠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1545,12 +1546,19 @@
       </tuv>
     </tu>
     <tu>
-      <note>傷腦筋，這個不在「條件」的區塊中。這樣寫法在 review 時可能需要重新調整。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;All Cells &gt; Color Scale (2 entries)&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132348Z" creationid="Franklin Weng" creationdate="20180216T131344Z">
-        <seg>&lt;f0&gt;另外在「條件式格式設定」下選擇「色階」，你可以在一般條件中選擇「所有儲存格」，然後選擇「色階（2 個條目）」&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134626Z" creationid="Franklin Weng" creationdate="20180216T131344Z">
+        <seg>&lt;f0&gt;一般條件中選擇「所有儲存格」，第二個下拉式選單可以選擇「色階（2 個條目）」&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;All Cells &gt; Icon Set: &lt;/f0&gt;Adds a set of icons to summarize the contents of cells.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135043Z" creationid="Franklin Weng" creationdate="20180216T135043Z">
+        <seg>&lt;f0&gt;「所有儲存格 &gt; 圖示集」：&lt;/f0&gt;新增一個圖示集來對儲存的內容做總結。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3106,12 +3114,11 @@
       </tuv>
     </tu>
     <tu>
-      <note>這裡顯示作者使用的應該多了一層 Condition 選單。實際上 LibreOffice 並沒有。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format &gt; Conditional Formatting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; Condition &gt; Condition.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131922Z" creationid="Franklin Weng" creationdate="20180215T073745Z">
-        <seg>「&lt;f0&gt;格式 &gt; 格式化條件設定 &gt; 條件&lt;/f0&gt;」中的「&lt;f1&gt;&lt;f2&gt;條件&lt;/f2&gt;&lt;/f1&gt;」設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134514Z" creationid="Franklin Weng" creationdate="20180215T073745Z">
+        <seg>「&lt;f0&gt;格式 &gt; 格式化條件設定 &gt; 條件&lt;/f0&gt;」中的「&lt;f1&gt;&lt;f2&gt;條件&lt;/f2&gt;&lt;/f1&gt;」區塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,6 +4579,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T135910Z" creationid="Franklin Weng" creationdate="20171223T124035Z">
         <seg>&lt;f0&gt;範本開啟後，&lt;/f0&gt;你就可以像編輯其他文件一樣編輯範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Once you have set conditional formatting, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Manage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the sub-menu to see a summary and edit the selections.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135434Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
+        <seg>&lt;f0&gt;當你設定好格式化條件設定後，你可以從選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來看看摘要並編輯你的選擇。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9297,6 +9312,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A data bar in which high values are indicated by more blue,</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134933Z" creationid="Franklin Weng" creationdate="20180216T134933Z">
+        <seg>資料條的應用，越高的值，藍色的部份越多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A data range showing tourism expenditure, &lt;f0&gt;according to nationality, gender, and age, selected to create a pivot table.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144916Z" creationid="Franklin Weng" creationdate="20180209T144916Z">
@@ -10769,6 +10792,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T125220Z" creationid="Franklin Weng" creationdate="20180103T131123Z">
         <seg>有個例外是Liberation系列字型，它是設計來取代Times Roman、Helvetica以及Courier……等字型的，而非為了彼此互相搭配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An icon set annotates results.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135233Z" creationid="Franklin Weng" creationdate="20180216T135233Z">
+        <seg>一組用來表示結果的圖示集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13240,6 +13271,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061104Z" creationid="Franklin Weng" creationdate="20180211T061015Z">
         <seg>如果要更新資料，或修正錯誤之後，從選單中點按「&lt;f0&gt;資料 &gt; 樞紐分析表 &gt; 重新整理&lt;/f0&gt;」 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Manage&lt;/f0&gt; in the &lt;f1&gt;Conditional&lt;/f1&gt; sub-menu to add, edit, or remove conditional formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135549Z" creationid="Franklin Weng" creationdate="20180216T135549Z">
+        <seg>在「格式化條件設定」子選單中點按&lt;f0&gt;「管理」&lt;/f0&gt;來&lt;f1&gt;&lt;/f1&gt;新增、編輯或移除設定好的條件設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16351,6 +16390,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, traffic icon&lt;f1&gt;s&lt;/f1&gt; or &lt;f2&gt;emoticons&lt;/f2&gt; might designate if results were above, below, or equal to projections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135223Z" creationid="Franklin Weng" creationdate="20180216T135223Z">
+        <seg>例如，&lt;f1&gt;交通圖示&lt;/f1&gt;或&lt;f2&gt;表情圖示&lt;/f2&gt;可以用來表示結果為偏高、偏低或持平等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, two frames &lt;f1&gt;seldom&lt;/f1&gt; occur one after the other, so a &lt;f2&gt;Frame&lt;/f2&gt; style window omits the &lt;f3&gt;Next Style&lt;/f3&gt; category.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175012Z" creationid="zerng07" creationdate="20171226T080524Z">
@@ -17445,6 +17492,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212938Z" creationid="Franklin Weng" creationdate="20180206T212938Z">
         <seg>這張圖中的欄 B 與欄 C 被集合起了，&lt;f0&gt;這樣可以讓這兩欄同時隱藏或顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here, emoticons indicate that two results were neutral, and two results better than neutral.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135301Z" creationid="Franklin Weng" creationdate="20180216T135301Z">
+        <seg>這邊的表情圖示顯示有兩個結果是持平，兩個結果是比較理想的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18862,6 +18917,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063318Z" creationid="zerng07" creationdate="20180208T063318Z">
         <seg>如果另一個標題或其他元素的上下有足夠的額外間距，那麼這些元素可能就不再需要再加空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If conditional formatting does not work, check that &lt;f0&gt;&lt;f1&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140225Z" creationid="Franklin Weng" creationdate="20180216T140225Z">
+        <seg>如果格式化條件設定無法運作，到選單中的&lt;f0&gt;&lt;f1&gt;「資料 &gt; 計算 &gt; 自動計算」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;看看是否有勾選起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29679,12 +29742,11 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
-      <note>這幾段都需要特別留意 Review</note>
       <tuv lang="EN">
         <seg>The fields refer not to formulas, but to target values.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132602Z" creationid="Franklin Weng" creationdate="20180216T132602Z">
-        <seg>這個欄位指的不是公式或函式，而是目標值。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134738Z" creationid="Franklin Weng" creationdate="20180216T132602Z">
+        <seg>此時下方欄位這邊所輸入的「最小」跟「最大」欄位，不能是公式或函式，必須輸入目標值。</seg>
       </tuv>
     </tu>
     <tu>
