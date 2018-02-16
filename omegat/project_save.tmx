@@ -2922,6 +2922,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ormatting &lt;f1&gt;spreadsheets automatically&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145903Z" creationid="Franklin Weng" creationdate="20180216T145903Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;自動格式化試算表&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fi&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;les &gt; Properties &gt; General&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; lists the template upon which the document was originally based.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145616Z" creationid="Franklin Weng" creationdate="20171212T115904Z">
@@ -4262,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;any users – especially inexperienced ones – feel that a spreadsheet &lt;f1&gt;requires borders for each cell and the row and column headers, and that a spreadsheet simply isn’t a spreadsheet without one.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144854Z" creationid="Franklin Weng" creationdate="20180216T144840Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;許多使用者 – 特別是沒經驗的 – 會認為試算表&lt;f1&gt;一定要讓每個儲存格都有邊框跟欄標列號，沒有的話就不叫試算表了。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;oreover, if you plan to print to hard copy, you may want to pay more attention to typographical standards than &lt;f1&gt;you would &lt;/f1&gt;if a sheet is used entirely online.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140637Z" creationid="Franklin Weng" creationdate="20180216T140527Z">
@@ -4546,6 +4562,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093616Z" creationid="Franklin Weng" creationdate="20180211T093616Z">
         <seg>&lt;f0&gt;舊式數字&lt;/f0&gt;在文字中&lt;f1&gt;看起來比較優雅&lt;/f1&gt;，但是在&lt;f2&gt;試算表或表格&lt;/f2&gt;中看起來則變得很難閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;O&lt;/f0&gt;thers argue that &lt;f1&gt;such things distract&lt;/f1&gt; from the contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144921Z" creationid="Franklin Weng" creationdate="20180216T144852Z">
+        <seg>另一派的使用者則認為&lt;f1&gt;這些東西會讓內容不明顯&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6860,6 +6884,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;When you want to format only part of a sheet, you can use&lt;/f0&gt; &lt;f1&gt;Format &gt; Autoformat&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145953Z" creationid="Franklin Weng" creationdate="20180216T145918Z">
+        <seg>&lt;f0&gt;當你只要對工作表的某部份做格式設定時，你可以用&lt;/f0&gt;「&lt;f1&gt;格式 &gt; 自動格式樣式&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;When&lt;/f0&gt; documents have been added to a master document or pasted together, the number&lt;f1&gt;ing of the first numbered&lt;/f1&gt; list in each document &lt;f2&gt;may need to be&lt;/f2&gt; restart&lt;f3&gt;ed manually&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090832Z" creationid="Jeff Huang" creationdate="20171213T023454Z">
@@ -7122,6 +7154,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T033414Z" creationid="Jeff Huang" creationdate="20171111T024842Z">
         <seg>&lt;f0&gt;你對這份文件或許非常熟悉，熟悉到你無法察覺出文字是否能確實表達出你想要講的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Review request</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You may especially want spreadsheets to look like tables when you use&lt;/f0&gt; Calc to create a tutorial &lt;f1&gt;because, w&lt;/f1&gt;hen you already have a collection of pictures and charts on the sheet, the grid may do &lt;t2/&gt;nothing except add to the clutter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145748Z" creationid="Franklin Weng" creationdate="20180216T145414Z">
+        <seg>&lt;f0&gt;當你用 Calc 來做教學文件時&lt;/f0&gt;，可能會特別想要讓它看起來像表格，&lt;f1&gt;因為&lt;/f1&gt;當你在工作表中有一些圖片與圖表時，格線可能&lt;t2/&gt;只會讓它看起來更雜亂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8148,6 +8189,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;However, m&lt;/f2&gt;any of these pre-defined styles look dated, such as the 3D ones.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145919Z" creationid="Franklin Weng" creationdate="20180216T145919Z">
+        <seg>&lt;f2&gt;However, m&lt;/f2&gt;any of these pre-defined styles look dated, such as the 3D ones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;However, this practice can cause other pages in the document to change their style &lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt; not all the time, but often enough that the method is unreliable.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T084115Z" creationid="Jeff Huang" creationdate="20180124T093627Z">
@@ -8352,6 +8401,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112627Z" creationid="Franklin Weng" creationdate="20180211T112627Z">
         <seg>&lt;f2&gt;有的時候，背景色用來在資料集合中區分&lt;/f2&gt;&lt;f3&gt;計算與公式的結果&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Sometimes, too – for instance, when you import into Writer – you may want the cells to look like a table rather than a sheet.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145015Z" creationid="Franklin Weng" creationdate="20180216T145015Z">
+        <seg>&lt;f2&gt;有的時候也是啦 – 像是你要把試算表匯進 Writer 中時 – 你可能會希望這些儲存格看起來像個表格，而不是工作表。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8625,6 +8682,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142457Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
         <seg>&lt;f3&gt;或者可能你要重新整理你的主要範本目錄，在裡面新增子目錄等等。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Printing them is only a matter of &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;turning option&lt;/f5&gt;s&lt;f6&gt; on, but people have strong feelings about the choice.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144724Z" creationid="Franklin Weng" creationdate="20180216T144724Z">
+        <seg>&lt;f3&gt;列印這些東西只是&lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;打個勾&lt;/f5&gt;&lt;f6&gt;的事情，但是人們對這些選擇總有強烈的感受。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16366,6 +16431,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you are writing a how-to about using a spreadsheet, you may want to use snippets of spreadsheets that look like an online spreadsheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145148Z" creationid="Franklin Weng" creationdate="20180216T145148Z">
+        <seg>例如，如果你在寫一份使用試算表的說明文件，你可能會用試算表的某些看起來像在線上閱讀的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you create a &lt;t1/&gt;brochure on a single piece of paper, the inside pages (pages 2-3) are two connected frames.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T042258Z" creationid="zerng07" creationdate="20180213T025212Z">
@@ -17724,6 +17797,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101051Z" creationid="Franklin Weng" creationdate="20171212T101051Z">
         <seg>範本的運作方式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How you format printed spreadsheets may be a matter of personal preference or corporate style sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145054Z" creationid="Franklin Weng" creationdate="20180216T145054Z">
+        <seg>你怎麼對這些印出的試算表做格式設定可能是個人品味或是企業識別的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22603,6 +22684,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like printing in general, whether you print the grid &lt;f3&gt;or the header &lt;/f3&gt;may be an exercise in trial and error.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145845Z" creationid="Franklin Weng" creationdate="20180216T145845Z">
+        <seg>就像一般在列印時，是否列印格線&lt;f3&gt;與標頭&lt;/f3&gt;可能是個錯誤嘗試與修正的練習。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like shadows on text frames, 3D objects are easy to overdo.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T093007Z" creationid="Jeff Huang" creationdate="20180121T124945Z">
@@ -23703,6 +23792,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No firm conventions exist, except for one: once you have chosen the formatting, use it consistently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145227Z" creationid="Franklin Weng" creationdate="20180216T145227Z">
+        <seg>這沒有一定的慣例存在，除了這個：你一旦選擇了格式設定，就最好持續一貫地使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No firm rule exists, but if more than about &lt;f0&gt;one-third of&lt;/f0&gt; your points are listed as having a slide, you are probably still too close to a summary presentation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T163839Z" creationid="Franklin Weng" creationdate="20180109T131820Z">
@@ -24713,6 +24810,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Or perhaps you have a practical reason for certain choices.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145108Z" creationid="Franklin Weng" creationdate="20180216T145108Z">
+        <seg>或者你有實際上的理由做出這樣的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>Or, as I like to joke: the wrong way and the right way.</seg>
@@ -25506,6 +25611,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141428Z" creationid="Franklin Weng" creationdate="20180216T141428Z">
         <seg>列印工作表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing with &lt;f0&gt;(above) &lt;/f0&gt;and without &lt;f1&gt;(below) &lt;/f1&gt;cell borders and row and column headings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145424Z" creationid="Franklin Weng" creationdate="20180216T145412Z">
+        <seg>印（&lt;f0&gt;上方&lt;/f0&gt;）與不印（&lt;f1&gt;下方&lt;/f1&gt;）邊框與欄標列號的樣子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31273,6 +31386,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032422Z" creationid="zerng07" creationdate="20180213T032422Z">
         <seg>兩個外框分別放在不同的區段上，或是不同的頁首或頁尾中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two possible exceptions are &lt;f0&gt;Column and row headers&lt;/f0&gt; (the alphabetical identifiers for columns and numeri&lt;f1&gt;c&lt;/f1&gt;al ones for rows) and &lt;f2&gt;Grid &lt;/f2&gt;(the cell borders).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144629Z" creationid="Franklin Weng" creationdate="20180216T144629Z">
+        <seg>兩個可能的例外為「&lt;f0&gt;欄標列號&lt;/f0&gt;」（也就是定位儲存格用的欄的字母與列的數字）&lt;f1&gt;&lt;/f1&gt;還有「&lt;f2&gt;網格&lt;/f2&gt;」（儲存格的邊框）。</seg>
       </tuv>
     </tu>
     <tu>
