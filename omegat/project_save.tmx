@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Instead&lt;/f0&gt; use the &lt;f1&gt;Add&lt;/f1&gt; button to &lt;f2&gt;apply&lt;/f2&gt; your own formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T150143Z" creationid="Franklin Weng" creationdate="20180216T150143Z">
+        <seg>&lt;f0&gt;Instead&lt;/f0&gt; use the &lt;f1&gt;Add&lt;/f1&gt; button to &lt;f2&gt;apply&lt;/f2&gt; your own formatting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;It is &lt;/f0&gt;used so you can &lt;f1&gt;focus on&lt;/f1&gt; the result of formatting changes &lt;f2&gt;rather than the content.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T100048Z" creationid="Franklin Weng" creationdate="20180105T093247Z">
@@ -8191,8 +8199,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;However, m&lt;/f2&gt;any of these pre-defined styles look dated, such as the 3D ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145919Z" creationid="Franklin Weng" creationdate="20180216T145919Z">
-        <seg>&lt;f2&gt;However, m&lt;/f2&gt;any of these pre-defined styles look dated, such as the 3D ones.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T150028Z" creationid="Franklin Weng" creationdate="20180216T145919Z">
+        <seg>&lt;f2&gt;不過，&lt;/f2&gt;這些預先定義好的樣式有許多看起來都過時了，像是立體的那些。</seg>
       </tuv>
     </tu>
     <tu>
