@@ -2,3 +2,7 @@
 # https://git-scm.com/docs/gitignore
 ## OpenOffice/LibreOffice Lock Files
 .~lock.*
+
+## 目標譯文輸出目錄
+/target/*
+!/target/README.markdown
