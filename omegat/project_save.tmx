@@ -3830,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In addition, y&lt;/f0&gt;ou may need to worry about how the sheet will look &lt;f1&gt;when printed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140905Z" creationid="Franklin Weng" creationdate="20180216T140905Z">
+        <seg>&lt;f0&gt;還有，&lt;/f0&gt;你也必須特別留意工作表&lt;f1&gt;列印出來後的樣子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In addition, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace &gt; Other Options &gt; Search for Paragraph styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to locate where a style is used in a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T082528Z" creationid="zerng07" creationdate="20171225T082407Z">
@@ -4232,8 +4240,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;oreover, if you plan to print to hard copy, you may want to pay more attention to typographical standards than &lt;f1&gt;you would &lt;/f1&gt;if a sheet is used entirely online.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140527Z" creationid="Franklin Weng" creationdate="20180216T140527Z">
-        <seg>此外，如果你計畫要列印一個幾乎都在線上閱讀的試算表，你要更注意&lt;f0&gt;M&lt;/f0&gt;oreover, if you plan to print to hard copy, you may want to pay more attention to typographical standards than &lt;f1&gt;you would &lt;/f1&gt;if a sheet is used entirely online.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140637Z" creationid="Franklin Weng" creationdate="20180216T140527Z">
+        <seg>&lt;f0&gt;此外&lt;/f0&gt;，如果你計畫要列印一個幾乎都在線上閱讀的試算表，&lt;f1&gt;你要更注意&lt;/f1&gt;文字排印的標準。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,6 +6352,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To help cope with such considerations,&lt;/f0&gt; Calc page styles have many of the same option&lt;f1&gt;s&lt;/f1&gt; as Writer documents, giving you the versatility you need for printing well-formatted sheets.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141249Z" creationid="Franklin Weng" creationdate="20180216T141249Z">
+        <seg>&lt;f0&gt;為了這些考量，&lt;/f0&gt;Calc 的頁面樣式有許多跟 Writer 相同的選項，讓你有足夠的功能來正確地印出工作表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To open &lt;/f0&gt;a template &lt;f1&gt;for editing, select &lt;/f1&gt;&lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Manage&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;to open the Template Manager, &lt;/f8&gt;select a template, &lt;f9&gt;and click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Edit&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; on the tool bar above the templates&lt;/f12&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133021Z" creationid="Franklin Weng" creationdate="20171223T124017Z">
@@ -7980,6 +7996,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Borders, backgrounds, headers, and footers can all be designed with the same considerations as pages in a text document, although if the printed spreadsheet is meant for informal use, you might omit headers and footers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141354Z" creationid="Franklin Weng" creationdate="20180216T141354Z">
+        <seg>&lt;f2&gt;邊框、背景、頁首與頁尾等都跟文字文件中一樣。當然一般把試算表印出來通常都不是做為正式的用途，這種狀況下你可以考慮省略頁首跟頁尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Changing a parent style also changes its children.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T143452Z" creationid="zerng07" creationdate="20171225T143452Z">
@@ -8408,6 +8432,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063320Z" creationid="zerng07" creationdate="20180206T063320Z">
         <seg>&lt;f2&gt;改用&lt;/f2&gt;右鍵選單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Users tend to apply the standards of text documents to any printed page, and what is acceptable online may not be on paper.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140824Z" creationid="Franklin Weng" creationdate="20180216T140824Z">
+        <seg>&lt;f2&gt;因為使用者對任何印出來的文件都會用文字文件的排印標準來看待，然而線上閱讀可接受的標準可能在紙本上看就變得無法接受。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13644,6 +13676,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conversely, &lt;f0&gt;if you are printing in color, &lt;/f0&gt;a contrast that works well online may look distractingly garish on paper, &lt;f1&gt;because the color models for printers and monitors are different.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141130Z" creationid="Franklin Weng" creationdate="20180216T141130Z">
+        <seg>反之，&lt;f0&gt;如果你是用彩色列印，&lt;/f0&gt;在線上看起來 OK 的色彩，在紙上印出來可能會太過先豔，&lt;f1&gt;因為印表機上的色彩模型跟螢幕上用的是不一樣的。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converting text to a table requires markers to mark columns and rows, and is rarely worth the effort.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T135028Z" creationid="Jeff Huang" creationdate="20180211T135028Z">
@@ -16627,6 +16667,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T091319Z" creationid="zerng07" creationdate="20171226T091319Z">
         <seg>對許多人而言，&lt;f0&gt;&lt;f1&gt;樣式和格式&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;視窗是&lt;/f2&gt;套用樣式時最有效的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more detailed information, see “Planning page styles,” page 199.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141422Z" creationid="Franklin Weng" creationdate="20180216T141422Z">
+        <seg>這部份的詳情可以參考「規劃頁面樣式」，第 XXXX 頁。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23935,6 +23983,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often, colors that contrast well look too similar when reduced to black and white.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140949Z" creationid="Franklin Weng" creationdate="20180216T140949Z">
+        <seg>一般來說，原本設定好的色彩對比在改用黑白列印時就會不夠清楚。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often, however, creating your own styles is more convenient, even if you start by modifying a pre-defined style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T045503Z" creationid="Jeff Huang" creationdate="20171220T082659Z">
@@ -24373,6 +24429,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T045301Z" creationid="Jeff Huang" creationdate="20171111T030615Z">
         <seg>其中一個獲取新觀點的方法，是邀請其他對你的主題有興趣、且願意花時間仔細閱讀並誠實回應的人給予意見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Online, the dimensions of a spreadsheet have few restrictions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141432Z" creationid="Franklin Weng" creationdate="20180216T141432Z">
+        <seg>Online, the dimensions of a spreadsheet have few restrictions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25290,6 +25354,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085443Z" creationid="zerng07" creationdate="20180121T085356Z">
         <seg>把文件列印成紙本，或每隔一段時間就拉近或拉遠看看，這樣能用不同的觀點看文件。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Printing sheets</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T141428Z" creationid="Franklin Weng" creationdate="20180216T141428Z">
+        <seg>列印工作表</seg>
       </tuv>
     </tu>
     <tu>
