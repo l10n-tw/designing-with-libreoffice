@@ -815,6 +815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;It should be on by default.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140232Z" creationid="Franklin Weng" creationdate="20180216T140232Z">
+        <seg>&lt;/f2&gt;預設應該是會勾選。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;Make the colors as different as possible to make the &lt;f3&gt;sheet&lt;/f3&gt; &lt;f4&gt;readable at a glance.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T191508Z" creationid="Franklin Weng" creationdate="20180204T191508Z">
@@ -4222,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;oreover, if you plan to print to hard copy, you may want to pay more attention to typographical standards than &lt;f1&gt;you would &lt;/f1&gt;if a sheet is used entirely online.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140527Z" creationid="Franklin Weng" creationdate="20180216T140527Z">
+        <seg>此外，如果你計畫要列印一個幾乎都在線上閱讀的試算表，你要更注意&lt;f0&gt;M&lt;/f0&gt;oreover, if you plan to print to hard copy, you may want to pay more attention to typographical standards than &lt;f1&gt;you would &lt;/f1&gt;if a sheet is used entirely online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;ost of the time, you can also forget anything more than a single line between the header and the footer and the page’s main text frame – and even that line should be set to the thinnest setting possible, although you might choose to color it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132344Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
@@ -4739,6 +4755,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151053Z" creationid="Franklin Weng" creationdate="20180106T023713Z">
         <seg>&lt;f0&gt;頁面&lt;/f0&gt;色彩&lt;f1&gt;會受到許多變因的影響，包括設計師的眼睛、紙張本身、還有印表機內剩下的碳粉量等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Page s&lt;/f0&gt;tyles tend to be used less in spreadsheets than in text documents &lt;f1&gt;because spreadsheets are mostly online documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140322Z" creationid="Franklin Weng" creationdate="20180216T140322Z">
+        <seg>&lt;f0&gt;頁面樣式&lt;/f0&gt;在試算表中比較少用到，&lt;f1&gt;因為試算表比較常在線上閱讀</seg>
       </tuv>
     </tu>
     <tu>
@@ -23919,6 +23943,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often, spreadsheets are made with no thought of them conforming to any printed page size.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140355Z" creationid="Franklin Weng" creationdate="20180216T140355Z">
+        <seg>也因此，製作試算表時也比較不會考慮是否能符合列印頁面大小。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often, that means designing mainly with sans serifs and the occasional slab serif.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T145732Z" creationid="Franklin Weng" creationdate="20180103T121540Z">
@@ -33806,6 +33838,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093400Z" creationid="Franklin Weng" creationdate="20171223T093400Z">
         <seg>在範本中使用欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using page styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140237Z" creationid="Franklin Weng" creationdate="20180216T140237Z">
+        <seg>使用頁面樣式</seg>
       </tuv>
     </tu>
     <tu>
