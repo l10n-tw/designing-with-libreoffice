@@ -1050,8 +1050,8 @@
       <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Color Scale&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; and &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Data Bar&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; are shortcuts to options available under &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Condition&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073515Z" creationid="Franklin Weng" creationdate="20180213T124027Z">
-        <seg>&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;色階&lt;/f10&gt;&lt;/f9&gt;」&lt;f11&gt;與&lt;/f11&gt;「&lt;f12&gt;&lt;f13&gt;日期&lt;/f13&gt;&lt;/f12&gt;」&lt;f14&gt; 可以視為&lt;/f14&gt;「&lt;f15&gt;&lt;f16&gt;條件&lt;/f16&gt;&lt;/f15&gt;」設定行為的捷徑。&lt;f17&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134445Z" creationid="Franklin Weng" creationdate="20180213T124027Z">
+        <seg>&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;色階&lt;/f10&gt;&lt;/f9&gt;」&lt;f11&gt;與&lt;/f11&gt;「&lt;f12&gt;&lt;f13&gt;資料條&lt;/f13&gt;&lt;/f12&gt;」&lt;f14&gt; 除了在&lt;/f14&gt;「&lt;f15&gt;&lt;f16&gt;條件&lt;/f16&gt;&lt;/f15&gt;」中設定「所有儲存格」後可以選擇之外，在「條件式格式設定」下也有捷徑可以直接選取。&lt;f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1084,6 +1084,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T133132Z" creationid="Franklin Weng" creationdate="20180216T133132Z">
         <seg>選擇「&lt;f0&gt;&lt;f1&gt;色階（3 個條目）&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：跟 2 個條目很像，就是加上第三個目標值。通常第三個值是用&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;百分比&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來標示最高與最低中間的值。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;All Cells &gt; Data Bar:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; A gradient that creates a graph-like representation, typically showing how far above or below a cell value is of a designated norm.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134211Z" creationid="Franklin Weng" creationdate="20180216T134211Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「條件式格式設定 &gt; 資料條」：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;建立一種類似圖形呈現的漸層，通常用來顯示目標儲存格的值比指定的 A gradient that creates a graph-like representation, typically showing how far above or below a cell value is of a designated norm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10460,8 +10468,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>實際上並不是所有的都在「條件」中設定。「色階」與「日期」等從 4.0 版開始就都是在「條件」之外的。所以不確定這一段原文是否精確。
-我感覺作者用的應該多了一層「條件」選單。先依現有 6.x 版狀況翻譯</note>
       <tuv lang="EN">
         <seg>All types of conditional formatting can be configured from &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Condition&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
@@ -32248,12 +32254,11 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
-      <note>我感覺作者用的應該多了一層「條件」選單。先依現有 6.x 版狀況翻譯</note>
       <tuv lang="EN">
         <seg>To &lt;f0&gt;use&lt;/f0&gt; Calc’s conditional formatting, &lt;f1&gt;select the cells to work with, then click&lt;/f1&gt; &lt;f2&gt;Format &gt; Conditional Formatting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt; Condition&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and select an item from the sub-menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131830Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
-        <seg>在 Calc 中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定，&lt;f1&gt;先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定」，&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;然後從子選單中選擇其中一個項目。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134348Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
+        <seg>在 Calc 中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定，&lt;f1&gt;先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定 &gt; 條件」，&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;然後從「條件」區塊中的子選單中選擇其中一個項目來做設定。</seg>
       </tuv>
     </tu>
     <tu>
