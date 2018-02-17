@@ -2047,8 +2047,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;By contrast, i&lt;/f0&gt;f you keep &lt;f1&gt;To Paragraph,&lt;/f1&gt; the image will be positioned relative to the anchor’s paragraph, but &lt;f2&gt;can flip above the anchor sometimes.See&lt;/f2&gt; “&lt;rf3&gt;Using the Haugland workaround&lt;/rf3&gt;,” &lt;f4&gt;page &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;20&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T120149Z" creationid="zerng07" creationdate="20180206T114915Z">
-        <seg>&lt;f0&gt;相反的，如果&lt;/f0&gt;你維持使用「&lt;f1&gt;至段落&lt;/f1&gt;」，則該影像的位置會以錨定的段落作參考點成相對關係，但&lt;f2&gt;有時候會跑到錨定位置的上面去。請見&lt;/f2&gt;〈&lt;rf3&gt;使用霍格蘭變通方案&lt;/rf3&gt;〉，&lt;f4&gt;第&lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;XX&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120744Z" creationid="zerng07" creationdate="20180206T114915Z">
+        <seg>&lt;f0&gt;相較之下，如果&lt;/f0&gt;你維持使用「&lt;f1&gt;至段落&lt;/f1&gt;」，則該影像的位置會以錨定的段落作參考點成相對關係，但&lt;f2&gt;有時候會跑到錨定位置的上面去。請見&lt;/f2&gt;〈&lt;rf3&gt;使用霍格蘭變通方案&lt;/rf3&gt;〉，&lt;f4&gt;第&lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;25&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5882,8 +5882,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; options on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Type&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab are the equivalent of the horizontal and vertical &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Alignment&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; options on the right-click &lt;/f9&gt;&lt;t10/&gt;&lt;f11&gt;menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T092957Z" creationid="zerng07" creationdate="20180206T092957Z">
-        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;類別&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」選項&lt;/f3&gt;是右鍵選單中「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;對齊&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」選項的同等功能&lt;/f9&gt;&lt;f11&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T115848Z" creationid="zerng07" creationdate="20180206T092957Z">
+        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」選項&lt;/f3&gt;跟右鍵選單中「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;對齊&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」選項的功能是相同的&lt;/f9&gt;&lt;f11&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8266,8 +8266,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;However,&lt;/f2&gt; setting the anchor to &lt;f3&gt;As Character&lt;/f3&gt; seems the &lt;f4&gt;choice least likely to have objects shift spontaneously.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T114535Z" creationid="zerng07" creationdate="20180206T114535Z">
-        <seg>&lt;f2&gt;然而，&lt;/f2&gt;將錨定設定為「&lt;f3&gt;作為字元&lt;/f3&gt;」似乎才是&lt;f4&gt;比較不會讓物件出乎意料偏移的選擇。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120531Z" creationid="zerng07" creationdate="20180206T114535Z">
+        <seg>&lt;f2&gt;然而，&lt;/f2&gt;將錨定設定為「&lt;f3&gt;作為字元&lt;/f3&gt;」似乎才是&lt;f4&gt;比較不會讓物件離家出走的選擇。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12648,8 +12648,8 @@
       <tuv lang="EN">
         <seg>By contrast, &lt;f0&gt;in many cases, you should &lt;/f0&gt;use &lt;f1&gt;Entire Page &lt;/f1&gt;only if the document is intended for on-line use or your printer is capable of bleeds &lt;f2&gt;(that is, printing to the very edge of the page).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135324Z" creationid="zerng07" creationdate="20180206T094944Z">
-        <seg>此外，&lt;f0&gt;在許多案例中，你應該只有在文件目標為線上觀看，或者是你的印表機有出血功能時（代表可以列印到頁面的最外緣），&lt;/f0&gt;才使用「&lt;f1&gt;整個頁面&lt;/f1&gt;&lt;f2&gt;」的選項。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120142Z" creationid="zerng07" creationdate="20180206T094944Z">
+        <seg>相較之下，&lt;f0&gt;在許多狀況下，你應該只有在文件只用於線上觀看，或者是你的印表機有出血功能時（代表可以列印到頁面的最外緣），&lt;/f0&gt;才使用「&lt;f1&gt;整個頁面&lt;/f1&gt;&lt;f2&gt;」的選項。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21998,8 +21998,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It is included for compatibility with old OpenOffice.org documents, not for use today.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101129Z" creationid="zerng07" creationdate="20180206T101129Z">
-        <seg>這個選項是為了和舊版OpenOffice.org文件相容而存在，不適合現在人使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120245Z" creationid="zerng07" creationdate="20180206T101129Z">
+        <seg>這個選項是為了和舊版OpenOffice.org文件相容而存在，現在已經不適合使用了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31799,8 +31799,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The vertical options are &lt;f0&gt;Top&lt;/f0&gt;, &lt;f1&gt;Bottom&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;and&lt;/f3&gt; &lt;f4&gt;From Top&lt;/f4&gt; (which also includes a space above field called &lt;f5&gt;By&lt;/f5&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T095342Z" creationid="zerng07" creationdate="20180206T095342Z">
-        <seg>蹤向選項有「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;下方&lt;/f1&gt;」、「&lt;f2&gt;中&lt;/f2&gt;」，&lt;f3&gt;和「&lt;/f3&gt;&lt;f4&gt;自上&lt;/f4&gt;」（搭配一個設定上方空間的「&lt;f5&gt;距&lt;/f5&gt;」欄位）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120153Z" creationid="zerng07" creationdate="20180206T095342Z">
+        <seg>縱向選項有「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;下方&lt;/f1&gt;」、「&lt;f2&gt;中&lt;/f2&gt;」，&lt;f3&gt;和「&lt;/f3&gt;&lt;f4&gt;自上&lt;/f4&gt;」（搭配一個設定上方空間的「&lt;f5&gt;距&lt;/f5&gt;」欄位）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34894,8 +34894,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Usually, the most useful reference point will be &lt;f6&gt;Margin,&lt;/f6&gt; the least &lt;f7&gt;useful&lt;/f7&gt; &lt;f8&gt;Entire Page.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T100517Z" creationid="zerng07" creationdate="20180206T100338Z">
-        <seg>通常而言，最有用的參考點是「&lt;f6&gt;邊距&lt;/f6&gt;」，最無&lt;f7&gt;用&lt;/f7&gt;的是「&lt;f8&gt;整個頁面&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120223Z" creationid="zerng07" creationdate="20180206T100338Z">
+        <seg>通常而言，最有用的參考點是「&lt;f6&gt;邊距&lt;/f6&gt;」，最無&lt;f7&gt;用&lt;/f7&gt;的則是「&lt;f8&gt;整個頁面&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
