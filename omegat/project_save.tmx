@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T094319Z" creationid="zerng07" creationdate="20171229T132346Z">
-        <seg>&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115335Z" creationid="Ｖ字龍" creationdate="20180217T115335Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -746,14 +746,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131342Z" creationid="Franklin Weng" creationdate="20180211T131342Z">
         <seg>&lt;/f23&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f2&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T100612Z" creationid="Franklin Weng" creationdate="20171231T100612Z">
-        <seg>&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3456,7 +3448,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, all characters are positioned relative to the baseline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T100453Z" creationid="Ｖ字龍" creationdate="20180217T100453Z">
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T110911Z" creationid="Ｖ字龍" creationdate="20180217T100453Z">
         <seg>但是所有的字元都放置在相對於基線的位置。</seg>
       </tuv>
     </tu>
@@ -6226,7 +6218,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The superscript “2” on the left is higher than the ascenders or the question mark, and throws off the look of the line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T100750Z" creationid="Ｖ字龍" creationdate="20180217T100750Z">
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115346Z" creationid="Ｖ字龍" creationdate="20180217T100750Z">
         <seg>左側的上標「2」比ascenders或問號還要高，擺脫了行的整體外觀。</seg>
       </tuv>
     </tu>
@@ -8610,7 +8602,7 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;To many users, LibreOffice’s defaults are too small.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T101358Z" creationid="Ｖ字龍" creationdate="20180217T101358Z">
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115018Z" creationid="Ｖ字龍" creationdate="20180217T101358Z">
         <seg>&lt;f2&gt;對多數使用者來說LibreOffice的預設值都過小。</seg>
       </tuv>
     </tu>
@@ -11109,8 +11101,8 @@
       <tuv lang="EN">
         <seg>Another alternative for superscript characters is to adjust the vertical alignment of text on the same line (see “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Aligning different-sized text on one line&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;5&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;).&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T094143Z" creationid="Ｖ字龍" creationdate="20180217T094143Z">
-        <seg>另一個設定上標字元的替代方案是調整在同一直線上的文字的垂直對齊（參閱&lt;f4&gt;&lt;bf5&gt;在同一直線上對齊不同大小的文字&lt;bf5&gt;&lt;f4&gt;，第五頁）。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T113122Z" creationid="Ｖ字龍" creationdate="20180217T094143Z">
+        <seg>另一個設定上標字元的替代方案是調整在同一直線上的文字的垂直對齊（參閱&lt;f4&gt;&lt;bf5&gt;在同一直線上對齊不同大小的文字&lt;/bf5&gt;&lt;/f4&gt;，第&lt;f7&gt;&lt;bf8&gt;五&lt;/bf8&gt;&lt;/f7&gt;頁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12800,8 +12792,8 @@
       <tuv lang="EN">
         <seg>By contrast, the subscript “&lt;f0&gt;2”&lt;/f0&gt; on the right is as low as the bottom of the &lt;f1&gt;descender on the “y&lt;/f1&gt;,” which gives a more &lt;f2&gt;consistent&lt;/f2&gt; look to the line (Font: Lato).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T100940Z" creationid="Ｖ字龍" creationdate="20180217T100940Z">
-        <seg>相較於右側的下標「2」跟「y」的descender的底部一樣低，提供文字行更加&lt;f2&gt;一致的外觀（字型：Lato）。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T103512Z" creationid="Ｖ字龍" creationdate="20180217T100940Z">
+        <seg>相較於右側的下標「2」跟「y」的descender的底部一樣低，提供文字行更加&lt;f2&gt;一致&lt;/f2&gt;的外觀（字型：Lato）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23254,8 +23246,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Many are on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for character styles, although others are scattered throughout the character and paragraph style dialogs.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T091528Z" creationid="Ｖ字龍" creationdate="20180217T091528Z">
-        <seg>對字元樣式來說這些東西很多都在&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;分頁，而剩下的則分散在字元跟段落樣式對話窗之中。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T103429Z" creationid="Ｖ字龍" creationdate="20180217T091528Z">
+        <seg>對字元樣式來說這些東西很多都在&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;標籤頁，而剩下的則分散在字元跟段落樣式對話窗之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25711,8 +25703,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Positioning &lt;f0&gt;and&lt;/f0&gt; automating text</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180107T210457Z" creationid="Ｖ字龍" creationdate="20180107T210457Z">
-        <seg>調整文字位置&lt;f0&gt;與&lt;/f0&gt;自動化文字</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T103953Z" creationid="Ｖ字龍" creationdate="20180107T210457Z">
+        <seg>調整文字位置&lt;f0&gt;與&lt;/f0&gt;自動化文字格式設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -26551,6 +26543,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112938Z" creationid="zerng07" creationdate="20171219T112938Z">
         <seg>捲動到你想要使用的段落樣式位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sections are areas that &lt;f0&gt;have properties that are different from the main body of text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115544Z" creationid="Ｖ字龍" creationdate="20180217T115544Z">
+        <seg>Sections are areas that have properties that are different from the main body of text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27840,6 +27840,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So long as you have set at least one condition, you can add and delete conditio&lt;f0&gt;ns later.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115449Z" creationid="Ｖ字龍" creationdate="20180217T115449Z">
+        <seg>So long as you have set at least one condition, you can add and delete conditions later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some &lt;f0&gt;paragraph styles that begin with an indentation are unavoidable in a text document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004626Z" creationid="zerng07" creationdate="20180125T065449Z">
@@ -28591,7 +28599,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Superscript characters, &lt;f0&gt;such as mathematical components or footnote numbers, are usually positioned somewhere between the x-height and the height of the ascenders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T101121Z" creationid="Ｖ字龍" creationdate="20180217T101121Z">
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T105053Z" creationid="Ｖ字龍" creationdate="20180217T101121Z">
         <seg>例如數學組成元素或是註腳編號的上標字元通常都座落於 x-height 跟 ascender 的高度之間的某處。</seg>
       </tuv>
     </tu>
@@ -31997,6 +32005,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no reason, though, why you should not modify the intended design if you care to make the effort.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T105211Z" creationid="Ｖ字龍" creationdate="20180217T105211Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These additional styles greatly extend what LibreOffice &lt;f0&gt;can do&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T173506Z" creationid="zerng07" creationdate="20171223T173506Z">
@@ -32007,8 +32023,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These adjustments are relatively common, because, &lt;f0&gt;depending on the font, &lt;/f0&gt;LibreOffi&lt;f1&gt;c&lt;/f1&gt;e’s default superscript and subscript characters &lt;f2&gt;can sometimes be too &lt;/f2&gt;too small for easy reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T094558Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
-        <seg>這些調整是相對常見的，因為根據使用的字型而定，有時LibreOffice預設的上標與下標文字大小過小而不易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T113013Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
+        <seg>這些調整是相對常見的，因為&lt;f0&gt;根據選用的字型而定&lt;/f0&gt;，&lt;f2&gt;有時&lt;/f2&gt;LibreOffice預設的上標與下標文字大小過小而不易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32137,6 +32153,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161057Z" creationid="Franklin Weng" creationdate="20180107T020830Z">
         <seg>上述這些問題可以說明，為何當你告訴聽眾說，今天的演講不用投影片喔，幾乎保證能得到底下聽眾歡呼鼓掌的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These properties may be formatting, or content that is password-protected from editing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115547Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
+        <seg>These properties may be formatting, or content that is password-protected from editing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35134,8 +35158,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When adjusting both position and size, be prepared for &lt;f0&gt;several&lt;/f0&gt; trials and errors before getting the best results, with the &lt;f1&gt;adjustments&lt;/f1&gt; getting smaller as you move closer to the ideal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T101653Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
-        <seg>當同時調整位置跟大小時，做出在取得最佳結果前多次試誤的心理準備，持續縮小調整直到接近理想的效果。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T112743Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
+        <seg>當同時調整位置跟大小時，做出在取得最佳結果前&lt;f0&gt;多次&lt;/f0&gt;試誤的心理準備，持續縮小&lt;f1&gt;調整範圍&lt;/f1&gt;直到接近理想的效果。</seg>
       </tuv>
     </tu>
     <tu>
