@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If necessary, experiment with the exact settings first, making note&lt;f1&gt;s&lt;/f1&gt; of all the settings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063050Z" creationid="zerng07" creationdate="20180206T062947Z">
-        <seg>&lt;/f0&gt;如果有需要，先實驗出切確的設定數值，然後將所有的設定值記錄下來。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114808Z" creationid="zerng07" creationdate="20180206T062947Z">
+        <seg>&lt;/f0&gt;如果有需要，先實驗出確切的設定數值，然後將所有的設定值記錄下來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,8 +3802,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; possible, format the &lt;f1&gt;frame style&lt;/f1&gt;, not individual frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062807Z" creationid="zerng07" creationdate="20180206T062807Z">
-        <seg>&lt;f0&gt;如果&lt;/f0&gt;可以的話，對&lt;f1&gt;外框樣式&lt;/f1&gt;作格式設定，而不是各個外框個別手動設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114753Z" creationid="zerng07" creationdate="20180206T062807Z">
+        <seg>&lt;f0&gt;如果&lt;/f0&gt;可以的話，對&lt;f1&gt;外框樣式&lt;/f1&gt;作格式設定，而不是對每個外框個別做手動設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,8 +6378,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Throughout LibreOffice, frames&lt;/f0&gt; &lt;f1&gt;are usually less trouble if you follow these best practices:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034900Z" creationid="zerng07" creationdate="20180205T142424Z">
-        <seg>&lt;f0&gt;在LibreOffice的所有應用程式中，&lt;/f0&gt;&lt;f1&gt;只要你有遵循以下做法，通常不會遇到那麼多的外框問題：&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114728Z" creationid="zerng07" creationdate="20180205T142424Z">
+        <seg>&lt;f0&gt;在LibreOffice的所有應用程式中，&lt;/f0&gt;&lt;f1&gt;只要你遵循以下做法，通常就不會遇到那麼多的外框問題：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11406,8 +11406,8 @@
       <tuv lang="EN">
         <seg>As a final step in image editing, remov&lt;f0&gt;e&lt;/f0&gt; any unnecessary clutter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141755Z" creationid="zerng07" creationdate="20180205T141755Z">
-        <seg>影像編輯的最後一步，移除任何不必要的雜亂。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114643Z" creationid="zerng07" creationdate="20180205T141755Z">
+        <seg>影像編輯的最後一步，移除任何不必要的雜亂元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14331,8 +14331,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cropping is the reduction of the image to whatever is essential.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T133019Z" creationid="zerng07" creationdate="20180205T133019Z">
-        <seg>裁切是將影像化簡成只有必要部分。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114517Z" creationid="zerng07" creationdate="20180205T133019Z">
+        <seg>裁切是將影像化簡成只剩必要部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15741,8 +15741,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Experiment with image size, making it no larger than necessary for legibility.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142321Z" creationid="zerng07" creationdate="20180205T142321Z">
-        <seg>實驗一下影像的大小，讓影像不會比需要的尺寸還要大，但又看得看得清楚。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114715Z" creationid="zerng07" creationdate="20180205T142321Z">
+        <seg>實驗一下影像的大小，讓影像不會比需要的尺寸還要大，但又看得清楚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16823,8 +16823,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For hard copy, use a minimum of 300 &lt;f1&gt;dpi&lt;/f1&gt;, or 600 &lt;f2&gt;dpi&lt;/f2&gt; &lt;f3&gt;or higher &lt;/f3&gt;for quality printing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034529Z" creationid="zerng07" creationdate="20180205T132055Z">
-        <seg>對於紙本文件而言，最低至少300 &lt;f1&gt;dpi&lt;/f1&gt;，或600 &lt;f2&gt;dpi&lt;/f2&gt; &lt;f3&gt;，或甚至更高&lt;/f3&gt;以獲取高品質的印刷品。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114335Z" creationid="zerng07" creationdate="20180205T132055Z">
+        <seg>但對於紙本文件而言，最低則至少需要300 &lt;f1&gt;dpi&lt;/f1&gt;，600 &lt;f2&gt;dpi&lt;/f2&gt; &lt;f3&gt;，或甚至更高&lt;/f3&gt;，印刷的品質才夠高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19750,8 +19750,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are making original graphics, one solution is to make everything three &lt;t3/&gt;times the size you need, &lt;f4&gt;then reduce it so&lt;/f4&gt; that it is the right size at 3oo &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034654Z" creationid="zerng07" creationdate="20180205T132839Z">
-        <seg>如果你正在製作原創圖形，一種做法是先把任何物件都做成你需要的三倍大，&lt;f4&gt;讓它接著降低&lt;/f4&gt;到3oo &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;時能有適當的大小。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114452Z" creationid="zerng07" creationdate="20180205T132839Z">
+        <seg>如果你正在製作原創圖形，一種做法是先把任何物件都做成你需要的三倍大，&lt;f4&gt;讓它接著降低&lt;/f4&gt;到300 &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;時能有適當的大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26688,8 +26688,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Autosize&lt;/f0&gt; for &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; when first adding a frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085100Z" creationid="zerng07" creationdate="20180206T085100Z">
-        <seg>當剛加入外框之時，為「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」選取「&lt;f0&gt;自動調整大小&lt;/f0&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T115411Z" creationid="zerng07" creationdate="20180206T085100Z">
+        <seg>剛加入外框的時候，在「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」選取「&lt;f0&gt;自動調整大小&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32719,8 +32719,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This option may have no effect if you edit the frame dimensions later.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085240Z" creationid="zerng07" creationdate="20180206T085240Z">
-        <seg>如果你之後會編輯外框尺寸大小的話，這個選項就沒有什麼作用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T115422Z" creationid="zerng07" creationdate="20180206T085240Z">
+        <seg>但如果你之後會編輯外框尺寸大小的話，這個選項就沒有什麼作用。</seg>
       </tuv>
     </tu>
     <tu>
