@@ -400,8 +400,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If necessary, experiment with the exact settings first, making note&lt;f1&gt;s&lt;/f1&gt; of all the settings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063050Z" creationid="zerng07" creationdate="20180206T062947Z">
-        <seg>&lt;/f0&gt;如果有需要，先實驗出切確的設定數值，然後將所有的設定值記錄下來。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114808Z" creationid="zerng07" creationdate="20180206T062947Z">
+        <seg>&lt;/f0&gt;如果有需要，先實驗出確切的設定數值，然後將所有的設定值記錄下來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If you lack time, this is &lt;f1&gt;always &lt;/f1&gt;a low-maintenance tactic to use &lt;f2&gt;anyway, and is common in technical manuals.&lt;/f2&gt; While &lt;f3&gt;not always&lt;/f3&gt; ideal, it generally provides an adequate layout unless you are adding extremely small images, which tend to get lost in all the white space to their left and right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141911Z" creationid="zerng07" creationdate="20180130T141434Z">
-        <seg>&lt;/f0&gt;如果你時間不夠，這&lt;f1&gt;始終&lt;/f1&gt;都是種低維護成本的使用策略，&lt;f2&gt;在技術性手冊中也很常見。&lt;/f2&gt;它通常能給出適當的版面配置，但&lt;f3&gt;不見得都很&lt;/f3&gt;理想；像是你要加入非常小張的圖片，如果左邊或右邊全都是空白，那很有可能一不小心就消失不見。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T111338Z" creationid="zerng07" creationdate="20180130T141434Z">
+        <seg>&lt;/f0&gt;如果你時間不夠，這&lt;f1&gt;始終&lt;/f1&gt;都是種維護成本較低的使用策略，&lt;f2&gt;在技術性手冊中也很常見。&lt;/f2&gt;它通常能給出還算適當的版面配置，即使&lt;f3&gt;不見得都很&lt;/f3&gt;理想；除非你要加入的圖片非常小張，如果左邊或右邊全都是空白，那有可能一不小心就找不到了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1653,8 +1653,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Although the work-arounds may give you fewer formatting options, they do keep images where you put them.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135726Z" creationid="zerng07" creationdate="20180130T122320Z">
-        <seg>&lt;f0&gt;雖然變通方案給你的設定選項比較少一些，但確實可以把影像安在你要的位置上。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105635Z" creationid="zerng07" creationdate="20180130T122320Z">
+        <seg>&lt;f0&gt;雖然變通方案給你的設定選項比較少一些，但確實可以把影像安頓在你想要的位置上。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1959,8 +1959,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before you design, sketch out the alternatives for &lt;/f0&gt;positioning multiple &lt;f1&gt;images&lt;/f1&gt; on the &lt;f2&gt;same&lt;/f2&gt; page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034151Z" creationid="zerng07" creationdate="20180205T084449Z">
-        <seg>&lt;f0&gt;在你設計之前，先草圖畫出在&lt;f2&gt;同&lt;/f2&gt;一頁上&lt;/f0&gt;放置多張&lt;f1&gt;影像&lt;/f1&gt;的不同做法。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T112737Z" creationid="zerng07" creationdate="20180205T084449Z">
+        <seg>&lt;f0&gt;在你設計之前，先用草圖&lt;/f0&gt;畫出在&lt;f2&gt;同一頁&lt;/f2&gt;上放置&lt;f1&gt;多張影像&lt;/f1&gt;的不同做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,8 +3794,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If&lt;/f0&gt; possible, format the &lt;f1&gt;frame style&lt;/f1&gt;, not individual frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T062807Z" creationid="zerng07" creationdate="20180206T062807Z">
-        <seg>&lt;f0&gt;如果&lt;/f0&gt;可以的話，對&lt;f1&gt;外框樣式&lt;/f1&gt;作格式設定，而不是各個外框個別手動設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114753Z" creationid="zerng07" creationdate="20180206T062807Z">
+        <seg>&lt;f0&gt;如果&lt;/f0&gt;可以的話，對&lt;f1&gt;外框樣式&lt;/f1&gt;作格式設定，而不是對每個外框個別做手動設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,8 +4619,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;OLE:&lt;/f0&gt; &lt;f1&gt;The term is technically obsolete, but now refers to a document&lt;/f1&gt; nested within &lt;f2&gt;a document, including &lt;/f2&gt;charts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132655Z" creationid="zerng07" creationdate="20180130T132644Z">
-        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，也包括&lt;/f2&gt;圖表。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110236Z" creationid="zerng07" creationdate="20180130T132644Z">
+        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，包括&lt;/f2&gt;圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6370,8 +6370,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Throughout LibreOffice, frames&lt;/f0&gt; &lt;f1&gt;are usually less trouble if you follow these best practices:&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034900Z" creationid="zerng07" creationdate="20180205T142424Z">
-        <seg>&lt;f0&gt;在LibreOffice的所有應用程式中，&lt;/f0&gt;&lt;f1&gt;只要你有遵循以下做法，通常不會遇到那麼多的外框問題：&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114728Z" creationid="zerng07" creationdate="20180205T142424Z">
+        <seg>&lt;f0&gt;在LibreOffice的所有應用程式中，&lt;/f0&gt;&lt;f1&gt;只要你遵循以下做法，通常就不會遇到那麼多的外框問題：&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7680,8 +7680,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Often, you don’t need to understand them, because &lt;/f1&gt;Writer adds frames automatically to contain objects &lt;f2&gt;such as images&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124704Z" creationid="zerng07" creationdate="20180130T114347Z">
-        <seg>&lt;f1&gt;一般你不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框包住物件，&lt;f2&gt;比如說影像&lt;/f2&gt;就是。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T104335Z" creationid="zerng07" creationdate="20180130T114347Z">
+        <seg>&lt;f1&gt;一般來說，你也不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框包住&lt;f2&gt;像是影像&lt;/f2&gt;這樣的物件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7696,7 +7696,7 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating marginalia and sideheads&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;25&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132502Z" creationid="zerng07" creationdate="20180130T132502Z">
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110745Z" creationid="zerng07" creationdate="20180130T132502Z">
         <seg>&lt;f1&gt;請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;製作旁註與頁側標題&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;25&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
@@ -8426,8 +8426,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Often, they will be all you need anyway.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135924Z" creationid="zerng07" creationdate="20180130T131715Z">
-        <seg>&lt;f2&gt;一般而言，預先定義樣式幾乎能滿足你的所有需求。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110113Z" creationid="zerng07" creationdate="20180130T131715Z">
+        <seg>&lt;f2&gt;一般而言，預先定義樣式幾乎都能滿足你的所有需求。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11117,8 +11117,8 @@
       <tuv lang="EN">
         <seg>Another consideration is that LibreOffice’s editing tools are less versatile than many third party graphics editors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123600Z" creationid="zerng07" creationdate="20180205T123413Z">
-        <seg>另一個要考慮的是，LibreOffice的編輯工具比起許多第三方圖形編輯器而言還是功能太少。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T113634Z" creationid="zerng07" creationdate="20180205T123413Z">
+        <seg>另一個要考慮的是，LibreOffice的編輯工具比起許多第三方圖形編輯器而言，功能還是太陽春。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11149,8 +11149,8 @@
       <tuv lang="EN">
         <seg>Another reason for uncertainties surrounding frames is &lt;f0&gt;that keeping images where you place them can be difficult.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135659Z" creationid="zerng07" creationdate="20180130T115843Z">
-        <seg>另一個圍繞著外框，讓它難以捉摸的原因是，&lt;f0&gt;想要讓影像停留在你要擺的位置上有時候很困難。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105100Z" creationid="zerng07" creationdate="20180130T115843Z">
+        <seg>外框另一個難以捉摸的原因是，&lt;f0&gt;想要讓影像停留在你要擺的位置上有時候很困難。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11398,8 +11398,8 @@
       <tuv lang="EN">
         <seg>As a final step in image editing, remov&lt;f0&gt;e&lt;/f0&gt; any unnecessary clutter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141755Z" creationid="zerng07" creationdate="20180205T141755Z">
-        <seg>影像編輯的最後一步，移除任何不必要的雜亂。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114643Z" creationid="zerng07" creationdate="20180205T141755Z">
+        <seg>影像編輯的最後一步，移除任何不必要的雜亂元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11775,8 +11775,8 @@
       <tuv lang="EN">
         <seg>At the same time, almost as many find that Writer in particular is notorious for spontaneously switching images so they are move on the page for no apparent reason.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124813Z" creationid="zerng07" creationdate="20180130T120458Z">
-        <seg>但與此同時，幾乎也很多人發現Writer特別以影像由於不知名原因，在移動頁面時自動切換位置而惡名昭彰。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105526Z" creationid="zerng07" creationdate="20180130T120458Z">
+        <seg>但同時也有很多人發現Writer特別惡名昭彰的一點，就是他們在切換頁面編輯時，影像常常沒什麼理由地自動改變位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12071,8 +12071,8 @@
       <tuv lang="EN">
         <seg>Because of the problems that sometimes occur with &lt;f0&gt;f&lt;/f0&gt;rame styles, creating custom styles is best avoided.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131518Z" creationid="zerng07" creationdate="20180130T131518Z">
-        <seg>因為外框樣式偶爾會出問題，所以最好避免自行建立自訂樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105954Z" creationid="zerng07" creationdate="20180130T131518Z">
+        <seg>因為外框樣式偶爾會出問題，所以最好避免自行建立自訂樣式。&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14323,8 +14323,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cropping is the reduction of the image to whatever is essential.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T133019Z" creationid="zerng07" creationdate="20180205T133019Z">
-        <seg>裁切是將影像化簡成只有必要部分。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114517Z" creationid="zerng07" creationdate="20180205T133019Z">
+        <seg>裁切是將影像化簡成只剩必要部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15733,8 +15733,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Experiment with image size, making it no larger than necessary for legibility.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142321Z" creationid="zerng07" creationdate="20180205T142321Z">
-        <seg>實驗一下影像的大小，讓影像不會比需要的尺寸還要大，但又看得看得清楚。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114715Z" creationid="zerng07" creationdate="20180205T142321Z">
+        <seg>實驗一下影像的大小，讓影像不會比需要的尺寸還要大，但又看得清楚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16815,8 +16815,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For hard copy, use a minimum of 300 &lt;f1&gt;dpi&lt;/f1&gt;, or 600 &lt;f2&gt;dpi&lt;/f2&gt; &lt;f3&gt;or higher &lt;/f3&gt;for quality printing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034529Z" creationid="zerng07" creationdate="20180205T132055Z">
-        <seg>對於紙本文件而言，最低至少300 &lt;f1&gt;dpi&lt;/f1&gt;，或600 &lt;f2&gt;dpi&lt;/f2&gt; &lt;f3&gt;，或甚至更高&lt;/f3&gt;以獲取高品質的印刷品。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114335Z" creationid="zerng07" creationdate="20180205T132055Z">
+        <seg>但對於紙本文件而言，最低則至少需要300 &lt;f1&gt;dpi&lt;/f1&gt;，600 &lt;f2&gt;dpi&lt;/f2&gt; &lt;f3&gt;，或甚至更高&lt;/f3&gt;，印刷的品質才夠高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17055,8 +17055,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For this reason, this chapter includes both how things are supposed to work (and should work for you, with any luck), and the precautions and work-arounds you may need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033845Z" creationid="zerng07" creationdate="20180130T121758Z">
-        <seg>基於此因，本章內容會像你解釋這部分是怎麼運作的（如果幸運的話，應該也能幫到你），以及你可能需要的預防措施和變通方案。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105623Z" creationid="zerng07" creationdate="20180130T121758Z">
+        <seg>因此，本章的內容會向你解釋這部分是怎麼運作的（如果幸運的話，應該也能幫到你），以及你可能需要的預防措施和變通方案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17247,8 +17247,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Frame styles are the least understood type of style in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T103014Z" creationid="zerng07" creationdate="20180130T103014Z">
-        <seg>外框樣式是&lt;f0&gt;LibreOffice&lt;/f0&gt;中最少人理解的樣式類型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T033207Z" creationid="zerng07" creationdate="20180130T103014Z">
+        <seg>外框（Frame）樣式是&lt;f0&gt;LibreOffice&lt;/f0&gt;中最少人理解的樣式類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18362,8 +18362,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, given the potential instability of frames, the tools on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Crop&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs are just extra things that might go wrong.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123158Z" creationid="zerng07" creationdate="20180205T123158Z">
-        <seg>不過，由於外框有潛在的不穩定性，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;裁切&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁中的修改可能提高出錯的機率。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T113150Z" creationid="zerng07" creationdate="20180205T123158Z">
+        <seg>不過，由於外框有潛在的不穩定性，用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;影像&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;裁切&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁中的選項來修改可能會提高出錯的機率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19694,8 +19694,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are having trouble positioning something, the first thing you should do is check whether you are editing the image instead of the frame, or the frame instead of the image.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131414Z" creationid="zerng07" creationdate="20180130T131414Z">
-        <seg>如果你在擺放某個物件時遇到麻煩，第一件事應該要檢查你是不是在編輯影像本身而不是外框，還是在編輯外框而不是影像。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105939Z" creationid="zerng07" creationdate="20180130T131414Z">
+        <seg>如果你在擺放某個物件時遇到麻煩，第一件事應該要檢查你是在編輯影像本身而不是外框，還是在編輯外框而不是影像本身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19710,8 +19710,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are having trouble with graphics &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;staying in place, avoid these tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123248Z" creationid="zerng07" creationdate="20180205T123248Z">
-        <seg>如果你在處理圖形時遇到定位上的麻煩，&lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;記得避開這些標籤頁不要動。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T113215Z" creationid="zerng07" creationdate="20180205T123248Z">
+        <seg>如果你在處理圖形時遇到定位上的麻煩，&lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;那就避開這些標籤頁不要動。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19742,8 +19742,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are making original graphics, one solution is to make everything three &lt;t3/&gt;times the size you need, &lt;f4&gt;then reduce it so&lt;/f4&gt; that it is the right size at 3oo &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034654Z" creationid="zerng07" creationdate="20180205T132839Z">
-        <seg>如果你正在製作原創圖形，一種做法是先把任何物件都做成你需要的三倍大，&lt;f4&gt;讓它接著降低&lt;/f4&gt;到3oo &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;時能有適當的大小。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114452Z" creationid="zerng07" creationdate="20180205T132839Z">
+        <seg>如果你正在製作原創圖形，一種做法是先把任何物件都做成你需要的三倍大，&lt;f4&gt;讓它接著降低&lt;/f4&gt;到300 &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;時能有適當的大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21189,8 +21189,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many ways, frame styles are as much for Writer’s automatic formatting as they are for users.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033550Z" creationid="zerng07" creationdate="20180130T115322Z">
-        <seg>從許多層面來說，外框樣式之於Writer的自動格式設定，好比外框之於使用者一樣。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T104837Z" creationid="zerng07" creationdate="20180130T115322Z">
+        <seg>從許多層面來說，外框樣式跟Writer的自動格式設定差不多，使用者都不太需要費心去管它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21573,8 +21573,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In this case, you may want a separate page style &lt;f1&gt;whose use automatically creates a new page.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140712Z" creationid="zerng07" creationdate="20180130T140712Z">
-        <seg>這種做法下，你可能會想要有個獨立的頁面樣式，&lt;f1&gt;使用時會自動建立新一頁。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T111013Z" creationid="zerng07" creationdate="20180130T140712Z">
+        <seg>這種做法下，你可能會想要有個獨立的頁面樣式，&lt;f1&gt;使用時會自動建立新的一頁。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21774,8 +21774,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, stick with editing the pre-defined &lt;f1&gt;f&lt;/f1&gt;rame styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135909Z" creationid="zerng07" creationdate="20180130T131636Z">
-        <seg>相反的，就固定編輯預先定義的外框樣式吧。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110104Z" creationid="zerng07" creationdate="20180130T131636Z">
+        <seg>最好只對預先定義的外框樣式動手即可。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22636,8 +22636,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice currently prefers the word “images,” but you sometimes find &lt;f0&gt;the terms “graphics&lt;/f0&gt;” &lt;f1&gt;and “picture”&lt;/f1&gt; used instead.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T122634Z" creationid="zerng07" creationdate="20180130T122634Z">
-        <seg>LibreOffice目前偏好使用「影像」這個詞語，你也有時候會看到「圖形」或是用「圖片」的地方，但都是一樣的。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105706Z" creationid="zerng07" creationdate="20180130T122634Z">
+        <seg>LibreOffice目前偏好使用「影像」這個詞語，你也有時候會看到「&lt;f0&gt;圖形&lt;/f0&gt;」或是用「&lt;f1&gt;圖片&lt;/f1&gt;」的地方，但都是一樣的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23687,8 +23687,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Most of the time, they are so completely in the background that users have a hard time distinguishing frames from the images and other objects they enclose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T115616Z" creationid="zerng07" creationdate="20180130T115432Z">
-        <seg>大多數的時候，它們主要都在背景，所以使用者幾乎不能從外框和它所包住的影像或其他物件間中分辨出來。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105028Z" creationid="zerng07" creationdate="20180130T115432Z">
+        <seg>大多數的時候，它們都完全隱藏在背景，所以使用者很難看出外框和它所包住的影像等物件的分隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26607,7 +26607,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating watermarks&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;26&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135518Z" creationid="zerng07" creationdate="20180130T135503Z">
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110735Z" creationid="zerng07" creationdate="20180130T135503Z">
         <seg>請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;製作水印&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;26&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
@@ -26688,8 +26688,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Autosize&lt;/f0&gt; for &lt;f1&gt;Width&lt;/f1&gt; and &lt;f2&gt;Height&lt;/f2&gt; when first adding a frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085100Z" creationid="zerng07" creationdate="20180206T085100Z">
-        <seg>當剛加入外框之時，為「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」選取「&lt;f0&gt;自動調整大小&lt;/f0&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T115411Z" creationid="zerng07" creationdate="20180206T085100Z">
+        <seg>剛加入外框的時候，在「&lt;f1&gt;寬度&lt;/f1&gt;」和「&lt;f2&gt;高度&lt;/f2&gt;」選取「&lt;f0&gt;自動調整大小&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32743,8 +32743,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This option may have no effect if you edit the frame dimensions later.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085240Z" creationid="zerng07" creationdate="20180206T085240Z">
-        <seg>如果你之後會編輯外框尺寸大小的話，這個選項就沒有什麼作用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T115422Z" creationid="zerng07" creationdate="20180206T085240Z">
+        <seg>但如果你之後會編輯外框尺寸大小的話，這個選項就沒有什麼作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35174,8 +35174,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When an object is added to Writer, it &lt;f0&gt;is &lt;/f0&gt;automatically enclosed in a frame of a pre-determined type.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124424Z" creationid="zerng07" creationdate="20180130T124424Z">
-        <seg>每當你新加一個物件到Writer內時，物件會自動被預先定義的外框包住。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105757Z" creationid="zerng07" creationdate="20180130T124424Z">
+        <seg>每當你新加一個物件到Writer內時，物件&lt;f0&gt;會&lt;/f0&gt;自動被預先定義的外框包住。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36529,8 +36529,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can edit the frame by modifying the frame style it uses, &lt;f0&gt;but you should avoid &lt;/f0&gt;manual override&lt;f1&gt;s whenever possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071826Z" creationid="zerng07" creationdate="20180130T130909Z">
-        <seg>你可以修改外框樣式來編輯外框，而且應該盡可能避免&lt;f0&gt;手動凌駕&lt;/f0&gt;樣式的格式設定。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105852Z" creationid="zerng07" creationdate="20180130T130909Z">
+        <seg>你可以修改外框樣式來編輯外框，但是應該盡可能避免&lt;f0&gt;手動凌駕&lt;/f0&gt;樣式的格式設定。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
