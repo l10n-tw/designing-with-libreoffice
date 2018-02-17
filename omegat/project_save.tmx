@@ -7688,8 +7688,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Often, you don’t need to understand them, because &lt;/f1&gt;Writer adds frames automatically to contain objects &lt;f2&gt;such as images&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T124704Z" creationid="zerng07" creationdate="20180130T114347Z">
-        <seg>&lt;f1&gt;一般你不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框包住物件，&lt;f2&gt;比如說影像&lt;/f2&gt;就是。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T104335Z" creationid="zerng07" creationdate="20180130T114347Z">
+        <seg>&lt;f1&gt;一般來說，你也不需要瞭解它，因為&lt;/f1&gt;Writer會自動加外框包住&lt;f2&gt;像是影像&lt;/f2&gt;這樣的物件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17255,8 +17255,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Frame styles are the least understood type of style in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T103014Z" creationid="zerng07" creationdate="20180130T103014Z">
-        <seg>外框樣式是&lt;f0&gt;LibreOffice&lt;/f0&gt;中最少人理解的樣式類型。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T033207Z" creationid="zerng07" creationdate="20180130T103014Z">
+        <seg>外框（Frame）樣式是&lt;f0&gt;LibreOffice&lt;/f0&gt;中最少人理解的樣式類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21197,8 +21197,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many ways, frame styles are as much for Writer’s automatic formatting as they are for users.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033550Z" creationid="zerng07" creationdate="20180130T115322Z">
-        <seg>從許多層面來說，外框樣式之於Writer的自動格式設定，好比外框之於使用者一樣。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T104837Z" creationid="zerng07" creationdate="20180130T115322Z">
+        <seg>從許多層面來說，外框樣式跟Writer的自動格式設定差不多，使用者都不太需要費心去管它。</seg>
       </tuv>
     </tu>
     <tu>
