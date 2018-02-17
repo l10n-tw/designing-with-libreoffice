@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T122156Z" creationid="Franklin Weng" creationdate="20180217T122156Z">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;If you are unsure whether a document is still associated with a template, make a minor change in the template and see if the document updates the next time that you open LibreOffice.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142351Z" creationid="Franklin Weng" creationdate="20171223T133239Z">
@@ -1789,8 +1797,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;As a general rule, t&lt;/f0&gt;he minimal white space around a frame should be &lt;f1&gt;half&lt;/f1&gt; the line height in the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011329Z" creationid="zerng07" creationdate="20180208T011329Z">
-        <seg>&lt;f0&gt;作為通則，&lt;/f0&gt;外框周圍的最少空白間距，應該是內文字行高的&lt;f1&gt;一半&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T122305Z" creationid="zerng07" creationdate="20180208T011329Z">
+        <seg>&lt;f0&gt;一般通則來說，&lt;/f0&gt;外框周圍的最小空白間距，應該至少要內文字行高的&lt;f1&gt;一半&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17063,8 +17071,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For this reason, you need to decide exactly how images and other objects fit into the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011726Z" creationid="zerng07" creationdate="20180208T011603Z">
-        <seg>基於此因，你需要決定影像與其他物件究竟要如何和文字搭配。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T122335Z" creationid="zerng07" creationdate="20180208T011603Z">
+        <seg>因此，你需要決定影像與其他物件究竟要如何和文字搭配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32631,8 +32639,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This is a favorite strategy in technical manuals, because it requires minimal time positioning.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120338Z" creationid="zerng07" creationdate="20180206T120338Z">
-        <seg>這是技術手冊中最受重用的環繞方式，幾乎不花多少時間在定位上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T122113Z" creationid="zerng07" creationdate="20180206T120338Z">
+        <seg>這是技術手冊中最受重用的環繞方式，幾乎不用花多少時間在定位上。</seg>
       </tuv>
     </tu>
     <tu>
