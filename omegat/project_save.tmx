@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T135638Z" creationid="Franklin Weng" creationdate="20180217T135638Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;If you are unsure whether a document is still associated with a template, make a minor change in the template and see if the document updates the next time that you open LibreOffice.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142351Z" creationid="Franklin Weng" creationdate="20171223T133239Z">
@@ -19330,8 +19338,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If a work-around is necessary, try using a table, adding a two-column row whenever you want a side-head, and using the &lt;f0&gt;From Left&lt;/f0&gt; alignment in the second row to separate the text from the side-head.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T155822Z" creationid="zerng07" creationdate="20180211T154558Z">
-        <seg>如果真有必要用到變通方案，嘗試使用表格達成，在你想要放頁側標題的地方放個雙欄的一列表格（左欄放頁側標題，右欄放正文）。然後下方第二個放正文的表格則修改「&lt;f0&gt;從左&lt;/f0&gt;」對齊設定，讓它退到正文的位置去，和側邊標題的留白區塊分開來。（看不大懂，但感覺上是這個意思。）</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140000Z" creationid="zerng07" creationdate="20180211T154558Z">
+        <seg>如果真有必要用到變通方案，嘗試使用表格達成，在你想要放頁側標題的地方放個雙欄的列（左欄放頁側標題，右欄放正文），然後在第二列用「&lt;f0&gt;從左&lt;/f0&gt;」對齊設定，讓它退到正文的位置去，和側邊標題的留白區塊分開來。（看不大懂，但感覺上是這個意思。Franklin:改寫）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20342,8 +20350,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you think working with frame styles or images is needlessly complex – you are right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032657Z" creationid="zerng07" creationdate="20180213T032657Z">
-        <seg>如果你覺得處理外框樣式或影像沒有必要那麼複雜——你說對了。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140208Z" creationid="zerng07" creationdate="20180213T032657Z">
+        <seg>如果你覺得處理外框樣式或影像沒有必要那麼複雜——那你就說對了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28088,11 +28096,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 好啦你可以改回來 XDD</note>
       <tuv lang="EN">
         <seg>Sometimes a modern watermark is a logo or a graphic relevant to the text, while at other times it is a short text that gives the status of the text – for instance, “Draft” or “Confidential – Your Eyes Only.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T042021Z" creationid="zerng07" creationdate="20180213T021209Z">
-        <seg>現代做法中，有時候會用水印表示和文字相關的標誌或圖片；而也有時候是指出文件狀態的簡短文字，例如：「草稿」，或「機密—僅可閱讀」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140111Z" creationid="zerng07" creationdate="20180213T021209Z">
+        <seg>現代做法中，有時候會用水印表示和文字相關的標誌或圖片；而也有時候是指出文件狀態的簡短文字，例如：「校稿用*」，或「機密—請勿外傳」。（*請參閱早餐店的笑話）</seg>
       </tuv>
     </tu>
     <tu>
