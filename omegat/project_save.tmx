@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If you lack time, this is &lt;f1&gt;always &lt;/f1&gt;a low-maintenance tactic to use &lt;f2&gt;anyway, and is common in technical manuals.&lt;/f2&gt; While &lt;f3&gt;not always&lt;/f3&gt; ideal, it generally provides an adequate layout unless you are adding extremely small images, which tend to get lost in all the white space to their left and right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T141911Z" creationid="zerng07" creationdate="20180130T141434Z">
-        <seg>&lt;/f0&gt;如果你時間不夠，這&lt;f1&gt;始終&lt;/f1&gt;都是種低維護成本的使用策略，&lt;f2&gt;在技術性手冊中也很常見。&lt;/f2&gt;它通常能給出適當的版面配置，但&lt;f3&gt;不見得都很&lt;/f3&gt;理想；像是你要加入非常小張的圖片，如果左邊或右邊全都是空白，那很有可能一不小心就消失不見。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T111338Z" creationid="zerng07" creationdate="20180130T141434Z">
+        <seg>&lt;/f0&gt;如果你時間不夠，這&lt;f1&gt;始終&lt;/f1&gt;都是種維護成本較低的使用策略，&lt;f2&gt;在技術性手冊中也很常見。&lt;/f2&gt;它通常能給出還算適當的版面配置，即使&lt;f3&gt;不見得都很&lt;/f3&gt;理想；除非你要加入的圖片非常小張，如果左邊或右邊全都是空白，那有可能一不小心就找不到了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1967,8 +1967,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before you design, sketch out the alternatives for &lt;/f0&gt;positioning multiple &lt;f1&gt;images&lt;/f1&gt; on the &lt;f2&gt;same&lt;/f2&gt; page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034151Z" creationid="zerng07" creationdate="20180205T084449Z">
-        <seg>&lt;f0&gt;在你設計之前，先草圖畫出在&lt;f2&gt;同&lt;/f2&gt;一頁上&lt;/f0&gt;放置多張&lt;f1&gt;影像&lt;/f1&gt;的不同做法。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T111637Z" creationid="zerng07" creationdate="20180205T084449Z">
+        <seg>&lt;f0&gt;在你設計之前，先用草圖&lt;/f0&gt;畫出在&lt;f1&gt;同一頁&lt;/f1&gt;上放置&lt;f2&gt;多張影像&lt;/f2&gt;的不同做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4627,8 +4627,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;OLE:&lt;/f0&gt; &lt;f1&gt;The term is technically obsolete, but now refers to a document&lt;/f1&gt; nested within &lt;f2&gt;a document, including &lt;/f2&gt;charts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132655Z" creationid="zerng07" creationdate="20180130T132644Z">
-        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，也包括&lt;/f2&gt;圖表。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110236Z" creationid="zerng07" creationdate="20180130T132644Z">
+        <seg>&lt;f0&gt;OLE&lt;/f0&gt;&lt;f1&gt;：這個詞彙從技術上來說已經棄用，但是現在用來指稱文件內的&lt;/f1&gt;巢狀文件&lt;f2&gt;，包括&lt;/f2&gt;圖表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7704,7 +7704,7 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating marginalia and sideheads&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;25&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T132502Z" creationid="zerng07" creationdate="20180130T132502Z">
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110745Z" creationid="zerng07" creationdate="20180130T132502Z">
         <seg>&lt;f1&gt;請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;製作旁註與頁側標題&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;25&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
@@ -21581,8 +21581,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In this case, you may want a separate page style &lt;f1&gt;whose use automatically creates a new page.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140712Z" creationid="zerng07" creationdate="20180130T140712Z">
-        <seg>這種做法下，你可能會想要有個獨立的頁面樣式，&lt;f1&gt;使用時會自動建立新一頁。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T111013Z" creationid="zerng07" creationdate="20180130T140712Z">
+        <seg>這種做法下，你可能會想要有個獨立的頁面樣式，&lt;f1&gt;使用時會自動建立新的一頁。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26607,7 +26607,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Creating watermarks&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;26&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T135518Z" creationid="zerng07" creationdate="20180130T135503Z">
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T110735Z" creationid="zerng07" creationdate="20180130T135503Z">
         <seg>請見〈&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;製作水印&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;〉，第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;26&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;頁。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
