@@ -7260,8 +7260,8 @@
       <tuv lang="EN">
         <seg>&lt;f12&gt;Avoid using them if you cannot explain what purpose they serve.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053631Z" creationid="zerng07" creationdate="20180210T053631Z">
-        <seg>&lt;f12&gt;如果你無法解釋出你之所以這麼做的原因，那麼請避免使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133601Z" creationid="zerng07" creationdate="20180210T053631Z">
+        <seg>&lt;f12&gt;如果你無法解釋你之所以這麼做的原因，那麼請避免使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7487,8 +7487,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;If anything, a smaller font for captions removes much of the convenience of adding the image in the first place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094023Z" creationid="zerng07" creationdate="20180210T090849Z">
-        <seg>&lt;f1&gt;真要說的話，讓圖表標示的字小一點移除了起初加入影像的大多數便利性？？？？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T134244Z" creationid="zerng07" creationdate="20180210T090849Z">
+        <seg>&lt;f1&gt;真要說的話，圖表標示的字變小反而會讓先加影像的便利性消失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8642,8 +8642,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Writer adds an automatic name, such as &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Frame15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, but a more descriptive name is useful if you use the Navigator to jump around in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T145648Z" creationid="zerng07" creationdate="20180208T145648Z">
-        <seg>&lt;f2&gt;Writer會自動生成名稱，例如：「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;外框15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」，但如果你採用更便於理解的描述性名稱的話，在使用「助手」瀏覽文件時會很好用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133050Z" creationid="zerng07" creationdate="20180208T145648Z">
+        <seg>&lt;f2&gt;Writer會自動生成名稱，例如：「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;外框15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」。但如果你採用更便於理解的描述性名稱的話，在使用「助手」瀏覽文件時會很好用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9157,8 +9157,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;P&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;rotect&lt;/f8&gt;&lt;/f7&gt; does not &lt;f9&gt;help&lt;/f9&gt; a&lt;f10&gt;n&lt;/f10&gt; image stay in place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115429Z" creationid="zerng07" creationdate="20180209T115429Z">
-        <seg>「&lt;f7&gt;&lt;f8&gt;保護&lt;/f8&gt;&lt;/f7&gt;」無法&lt;f9&gt;協助&lt;/f9&gt;讓影像定在某個位置上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133136Z" creationid="zerng07" creationdate="20180209T115429Z">
+        <seg>但要留意，「&lt;f7&gt;&lt;f8&gt;保護&lt;/f8&gt;&lt;/f7&gt;」並沒有辦法&lt;f9&gt;協助&lt;/f9&gt;讓影像定在某個位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9462,8 +9462,8 @@
       <tuv lang="EN">
         <seg>A carefully selected background color might prevent a&lt;f0&gt;n&lt;/f0&gt; image blending into the page background, but a border or extra space is &lt;f1&gt;often&lt;/f1&gt; an easier solution.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T040536Z" creationid="zerng07" creationdate="20180208T083256Z">
-        <seg>仔細挑選背景色彩可以防止影像混入頁面背景顏色中，但加邊框或額外空白間距&lt;f1&gt;一般&lt;/f1&gt;是更輕鬆的做法。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133003Z" creationid="zerng07" creationdate="20180208T083256Z">
+        <seg>仔細挑選背景色彩可以防止影像混入頁面背景顏色中，但加邊框或額外空白間距&lt;f1&gt;通常&lt;/f1&gt;是更輕鬆的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17496,8 +17496,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Generally, the worst that can happen is that readers skip over what seems irrelevant to them, without blaming the writer in any way.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T040546Z" creationid="zerng07" creationdate="20180209T134131Z">
-        <seg>通常，最糟不過是讀者跳過一些他們覺得無關緊要的部分，這一點也怪不到作者頭上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133424Z" creationid="zerng07" creationdate="20180209T134131Z">
+        <seg>通常，最糟的狀況不過就是讀者們會跳過一些他們覺得無關緊要的部分，而這一點也怪不到作者頭上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24528,16 +24528,16 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Often, you can do without either one.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053704Z" creationid="zerng07" creationdate="20180210T053704Z">
-        <seg>一般而言沒有必要。&lt;/f12&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133614Z" creationid="zerng07" creationdate="20180210T053704Z">
+        <seg>一般來說是沒有必要的。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Often, you can ignore these settings: &lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T141300Z" creationid="zerng07" creationdate="20180208T141300Z">
-        <seg>一般你可以忽略這些設定：&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133026Z" creationid="zerng07" creationdate="20180208T141300Z">
+        <seg>一般來說，你可以忽略這些設定：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32847,8 +32847,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This rule means making images &lt;f0&gt;8&lt;/f0&gt; points narrower than normal, and setting the tables used to be indented 16 points&lt;f1&gt; From Left&lt;/f1&gt; in the &lt;f2&gt;Table&lt;/f2&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T065344Z" creationid="zerng07" creationdate="20180208T065344Z">
-        <seg>這個規則代表影像要比平常還要窄&lt;f0&gt;8&lt;/f0&gt;個點，以及將表格的「&lt;f2&gt;表格&lt;/f2&gt;」表格標籤頁中「&lt;f1&gt;從左&lt;/f1&gt;」對齊設定得比以往還要內縮16點。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T132757Z" creationid="zerng07" creationdate="20180208T065344Z">
+        <seg>這個規則代表影像要比平常還要窄&lt;f0&gt;8&lt;/f0&gt;個點，以及將表格的「&lt;f2&gt;表格屬性&lt;/f2&gt;」中的「表格」標籤頁中，「&lt;f1&gt;從左&lt;/f1&gt;」對齊要設定得比以往還要內縮16點。</seg>
       </tuv>
     </tu>
     <tu>
