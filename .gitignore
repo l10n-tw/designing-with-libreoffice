@@ -6,3 +6,8 @@
 ## 目標譯文輸出目錄
 /target/*
 !/target/README.markdown
+
+## 翻譯備份
+## 我們已經用 Git 版本控制了，所以沒必要留備份
+/omegat/project_save.tmx.*.bak
+/omegat/project_save.tmx.bak
