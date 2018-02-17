@@ -11,3 +11,6 @@
 ## 我們已經用 Git 版本控制了，所以沒必要留備份
 /omegat/project_save.tmx.*.bak
 /omegat/project_save.tmx.bak
+
+## 自動產生的專案統計數字
+/omegat/project_stats.txt
