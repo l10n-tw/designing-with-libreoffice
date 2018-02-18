@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115335Z" creationid="Ｖ字龍" creationdate="20180217T115335Z">
-        <seg></seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140925Z" creationid="Ｖ字龍" creationdate="20180217T115335Z">
+        <seg>&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T122156Z" creationid="Franklin Weng" creationdate="20180217T122156Z">
         <seg>&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T135638Z" creationid="Franklin Weng" creationdate="20180217T135638Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1959,8 +1967,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Before inserting, unselect&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Heading&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;and&lt;/f3&gt;&lt;f4&gt; Border &lt;/f4&gt;&lt;f5&gt;and select&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Don't split table over pages.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T131605Z" creationid="zerng07" creationdate="20180210T130542Z">
-        <seg>&lt;f0&gt;在插入之前，取消選項中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後選取「&lt;/f5&gt;&lt;f8&gt;表格不要跨頁切分&lt;/f8&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T135118Z" creationid="zerng07" creationdate="20180210T130542Z">
+        <seg>&lt;f0&gt;然後在插入之前，取消「選項」中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;f5&gt;」，然後選取「&lt;/f5&gt;&lt;f8&gt;表格不要跨頁切分&lt;/f8&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7268,8 +7276,8 @@
       <tuv lang="EN">
         <seg>&lt;f12&gt;Avoid using them if you cannot explain what purpose they serve.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053631Z" creationid="zerng07" creationdate="20180210T053631Z">
-        <seg>&lt;f12&gt;如果你無法解釋出你之所以這麼做的原因，那麼請避免使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133601Z" creationid="zerng07" creationdate="20180210T053631Z">
+        <seg>&lt;f12&gt;如果你無法解釋你之所以這麼做的原因，那麼請避免使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7495,8 +7503,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;If anything, a smaller font for captions removes much of the convenience of adding the image in the first place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094023Z" creationid="zerng07" creationdate="20180210T090849Z">
-        <seg>&lt;f1&gt;真要說的話，讓圖表標示的字小一點移除了起初加入影像的大多數便利性？？？？</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T134506Z" creationid="zerng07" creationdate="20180210T090849Z">
+        <seg>&lt;f1&gt;真要說的話，用把圖表標示的字變小的方式來省空間，結果反而會讓先放影像來定位的便利性消失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,8 +8658,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Writer adds an automatic name, such as &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Frame15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, but a more descriptive name is useful if you use the Navigator to jump around in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T145648Z" creationid="zerng07" creationdate="20180208T145648Z">
-        <seg>&lt;f2&gt;Writer會自動生成名稱，例如：「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;外框15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」，但如果你採用更便於理解的描述性名稱的話，在使用「助手」瀏覽文件時會很好用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133050Z" creationid="zerng07" creationdate="20180208T145648Z">
+        <seg>&lt;f2&gt;Writer會自動生成名稱，例如：「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;外框15&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」。但如果你採用更便於理解的描述性名稱的話，在使用「助手」瀏覽文件時會很好用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9165,8 +9173,8 @@
       <tuv lang="EN">
         <seg>&lt;f6&gt;P&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;rotect&lt;/f8&gt;&lt;/f7&gt; does not &lt;f9&gt;help&lt;/f9&gt; a&lt;f10&gt;n&lt;/f10&gt; image stay in place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T115429Z" creationid="zerng07" creationdate="20180209T115429Z">
-        <seg>「&lt;f7&gt;&lt;f8&gt;保護&lt;/f8&gt;&lt;/f7&gt;」無法&lt;f9&gt;協助&lt;/f9&gt;讓影像定在某個位置上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133136Z" creationid="zerng07" creationdate="20180209T115429Z">
+        <seg>但要留意，「&lt;f7&gt;&lt;f8&gt;保護&lt;/f8&gt;&lt;/f7&gt;」並沒有辦法&lt;f9&gt;協助&lt;/f9&gt;讓影像定在某個位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,8 +9478,8 @@
       <tuv lang="EN">
         <seg>A carefully selected background color might prevent a&lt;f0&gt;n&lt;/f0&gt; image blending into the page background, but a border or extra space is &lt;f1&gt;often&lt;/f1&gt; an easier solution.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T040536Z" creationid="zerng07" creationdate="20180208T083256Z">
-        <seg>仔細挑選背景色彩可以防止影像混入頁面背景顏色中，但加邊框或額外空白間距&lt;f1&gt;一般&lt;/f1&gt;是更輕鬆的做法。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133003Z" creationid="zerng07" creationdate="20180208T083256Z">
+        <seg>仔細挑選背景色彩可以防止影像混入頁面背景顏色中，但加邊框或額外空白間距&lt;f1&gt;通常&lt;/f1&gt;是更輕鬆的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10890,8 +10898,8 @@
       <tuv lang="EN">
         <seg>Although no one has suggested a reason for these different experiences, they may be &lt;f0&gt;due&lt;/f0&gt; to the different work habits of users, or to the operating system or LibreOffice version being used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T113321Z" creationid="zerng07" creationdate="20180210T113321Z">
-        <seg>沒有人知曉這些體驗的差異原因，有可能是因為使用者作業時的習慣不同，或是LibreOffice版本不同所導致。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T134547Z" creationid="zerng07" creationdate="20180210T113321Z">
+        <seg>沒有人知道這些體驗的差異原因，有可能是因為使用者作業時的習慣不同，或是LibreOffice版本不同所導致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17520,8 +17528,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Generally, the worst that can happen is that readers skip over what seems irrelevant to them, without blaming the writer in any way.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T040546Z" creationid="zerng07" creationdate="20180209T134131Z">
-        <seg>通常，最糟不過是讀者跳過一些他們覺得無關緊要的部分，這一點也怪不到作者頭上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133424Z" creationid="zerng07" creationdate="20180209T134131Z">
+        <seg>通常，最糟的狀況不過就是讀者們會跳過一些他們覺得無關緊要的部分，而這一點也怪不到作者頭上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19354,8 +19362,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If a work-around is necessary, try using a table, adding a two-column row whenever you want a side-head, and using the &lt;f0&gt;From Left&lt;/f0&gt; alignment in the second row to separate the text from the side-head.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T155822Z" creationid="zerng07" creationdate="20180211T154558Z">
-        <seg>如果真有必要用到變通方案，嘗試使用表格達成，在你想要放頁側標題的地方放個雙欄的一列表格（左欄放頁側標題，右欄放正文）。然後下方第二個放正文的表格則修改「&lt;f0&gt;從左&lt;/f0&gt;」對齊設定，讓它退到正文的位置去，和側邊標題的留白區塊分開來。（看不大懂，但感覺上是這個意思。）</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140000Z" creationid="zerng07" creationdate="20180211T154558Z">
+        <seg>如果真有必要用到變通方案，嘗試使用表格達成，在你想要放頁側標題的地方放個雙欄的列（左欄放頁側標題，右欄放正文），然後在第二列用「&lt;f0&gt;從左&lt;/f0&gt;」對齊設定，讓它退到正文的位置去，和側邊標題的留白區塊分開來。（看不大懂，但感覺上是這個意思。Franklin:改寫）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20366,8 +20374,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you think working with frame styles or images is needlessly complex – you are right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032657Z" creationid="zerng07" creationdate="20180213T032657Z">
-        <seg>如果你覺得處理外框樣式或影像沒有必要那麼複雜——你說對了。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140208Z" creationid="zerng07" creationdate="20180213T032657Z">
+        <seg>如果你覺得處理外框樣式或影像沒有必要那麼複雜——那你就說對了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20513,8 +20521,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to save space, use a narrow or condensed font style for captions.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T090943Z" creationid="zerng07" creationdate="20180210T090943Z">
-        <seg>如果你想要節省空間，可以改用窄體或壓縮體的字型樣式。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T134305Z" creationid="zerng07" creationdate="20180210T090943Z">
+        <seg>所以如果你想要節省空間，可以改用窄體或壓縮體的字型樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,8 +20602,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Images may be less than the complete page width when a dialog window is smaller than usual &lt;f0&gt;or is cropped.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T064326Z" creationid="zerng07" creationdate="20180208T064326Z">
-        <seg>當對話視窗（應該是外框？）比平常小，或是經過裁切的話，影像可能會小於頁面的完整寬度。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T132536Z" creationid="zerng07" creationdate="20180208T064326Z">
+        <seg>當擷取下來的對話視窗圖比平常小，或是經過裁切的話，影像可能會小於頁面的完整寬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21645,8 +21653,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In this way, you only have to move the table, and can forget about the image.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134052Z" creationid="zerng07" creationdate="20180210T134052Z">
-        <seg>如此一來，只要移動表格就行，你可以把影像忘了。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T135459Z" creationid="zerng07" creationdate="20180210T134052Z">
+        <seg>如此一來，只要移動表格就行，不用擔心影像的位置了。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24560,16 +24568,16 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Often, you can do without either one.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T053704Z" creationid="zerng07" creationdate="20180210T053704Z">
-        <seg>一般而言沒有必要。&lt;/f12&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133614Z" creationid="zerng07" creationdate="20180210T053704Z">
+        <seg>一般來說是沒有必要的。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Often, you can ignore these settings: &lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T141300Z" creationid="zerng07" creationdate="20180208T141300Z">
-        <seg>一般你可以忽略這些設定：&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T133026Z" creationid="zerng07" creationdate="20180208T141300Z">
+        <seg>一般來說，你可以忽略這些設定：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26813,8 +26821,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Table &gt; Insert Table,&lt;/f0&gt; and make a table with &lt;f1&gt;these characteristics: &lt;/f1&gt;1 column and 2 rows &lt;f2&gt;(or 1 column and 1 row if you are not using captions).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T041339Z" creationid="zerng07" creationdate="20180210T125816Z">
-        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，然後依此在「更多選項」&lt;f1&gt;中設定：&lt;/f1&gt;1欄2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140435Z" creationid="zerng07" creationdate="20180210T125816Z">
+        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，&lt;f1&gt;設定成&lt;/f1&gt;1欄2列&lt;f2&gt;（或者你不需要圖表標示的話，就1欄1列）。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28120,11 +28128,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 好啦你可以改回來 XDD</note>
       <tuv lang="EN">
         <seg>Sometimes a modern watermark is a logo or a graphic relevant to the text, while at other times it is a short text that gives the status of the text – for instance, “Draft” or “Confidential – Your Eyes Only.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T042021Z" creationid="zerng07" creationdate="20180213T021209Z">
-        <seg>現代做法中，有時候會用水印表示和文字相關的標誌或圖片；而也有時候是指出文件狀態的簡短文字，例如：「草稿」，或「機密—僅可閱讀」。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140111Z" creationid="zerng07" creationdate="20180213T021209Z">
+        <seg>現代做法中，有時候會用水印表示和文字相關的標誌或圖片；而也有時候是指出文件狀態的簡短文字，例如：「校稿用*」，或「機密—請勿外傳」。（*請參閱早餐店的笑話）</seg>
       </tuv>
     </tu>
     <tu>
@@ -32895,8 +32904,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This rule means making images &lt;f0&gt;8&lt;/f0&gt; points narrower than normal, and setting the tables used to be indented 16 points&lt;f1&gt; From Left&lt;/f1&gt; in the &lt;f2&gt;Table&lt;/f2&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T065344Z" creationid="zerng07" creationdate="20180208T065344Z">
-        <seg>這個規則代表影像要比平常還要窄&lt;f0&gt;8&lt;/f0&gt;個點，以及將表格的「&lt;f2&gt;表格&lt;/f2&gt;」表格標籤頁中「&lt;f1&gt;從左&lt;/f1&gt;」對齊設定得比以往還要內縮16點。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T132757Z" creationid="zerng07" creationdate="20180208T065344Z">
+        <seg>這個規則代表影像要比平常還要窄&lt;f0&gt;8&lt;/f0&gt;個點，以及將表格的「&lt;f2&gt;表格屬性&lt;/f2&gt;」中的「表格」標籤頁中，「&lt;f1&gt;從左&lt;/f1&gt;」對齊要設定得比以往還要內縮16點。</seg>
       </tuv>
     </tu>
     <tu>
