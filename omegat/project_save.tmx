@@ -4288,7 +4288,7 @@
       </tuv>
     </tu>
     <tu>
-      <note>誰說的？好像沒普遍看到這麼用耶。中文版可能要在地一點，改作時如果確定中文沒這樣講就要改掉。</note>
+      <note>誰說的？就算英文好像也沒普遍看到這麼用耶（拜 Google 大神驗證）。中文版可能要在地一點，改作時如果確定中文沒這樣講就要改掉。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Lists&lt;/f0&gt; and &lt;f1&gt;tables&lt;/f1&gt; are sometimes called structured prose.</seg>
       </tuv>
@@ -7884,8 +7884,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;This extra space is no problem online, but can add to the pages and therefore the expense of hard copy.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081540Z" creationid="Jeff Huang" creationdate="20180131T081540Z">
-        <seg>&lt;f1&gt;額外的空間對線上文件來說並沒有什麼問題，但對於紙本來說會增加印刷費用。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T113227Z" creationid="Jeff Huang" creationdate="20180131T081540Z">
+        <seg>&lt;f1&gt;額外的空間對線上文件來說不會有什麼問題，但對於紙本書來說卻會增加印刷費用。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12708,8 +12708,8 @@
       <tuv lang="EN">
         <seg>By contrast, Writer treats bulleted and numbered lists as a separate type of style, and tables as a sort of pseudo-style, &lt;f2&gt;or at least a gallery of saved formats.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T082831Z" creationid="Jeff Huang" creationdate="20180131T082831Z">
-        <seg>相較之下，Writer將項目符號清單與編號清單視為不同的樣式類型，而表格則是一種偽樣式，&lt;f2&gt;或至少是一個儲存格式的圖庫。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T113707Z" creationid="Jeff Huang" creationdate="20180131T082831Z">
+        <seg>相較之下，Writer將項目符號清單與編號清單視為獨立的樣式類型，至於表格則是一種偽樣式，&lt;f2&gt;或至少算是一種格式的儲存庫。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21294,8 +21294,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In most word processors, list options are included in paragraph styles, while table &lt;f0&gt;styles&lt;/f0&gt; are not &lt;f1&gt;provided &lt;/f1&gt;at all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081722Z" creationid="Jeff Huang" creationdate="20180131T081722Z">
-        <seg>在大多數的文字處理程式中，清單選項包含在段落樣式中，但完全不&lt;f1&gt;提供&lt;/f1&gt;表格&lt;f0&gt;樣式&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T113326Z" creationid="Jeff Huang" creationdate="20180131T081722Z">
+        <seg>在大多數的文書處理器中，清單項目包含在段落樣式下，但完全沒有&lt;f1&gt;提供&lt;/f1&gt;表格&lt;f0&gt;樣式&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31080,8 +31080,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The name &lt;f2&gt;contrasts them to the relative formlessness of body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081412Z" creationid="Jeff Huang" creationdate="20180131T081309Z">
-        <seg>這個名稱&lt;f2&gt;與相對來說較無固定結構的內文而言形成了對比。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T100216Z" creationid="Jeff Huang" creationdate="20180131T081309Z">
+        <seg>這個名稱&lt;f2&gt;與相對來說較無固定結構的內文而言形成對比。</seg>
       </tuv>
     </tu>
     <tu>
