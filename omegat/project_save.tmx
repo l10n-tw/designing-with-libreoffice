@@ -11386,8 +11386,8 @@
       <tuv lang="EN">
         <seg>Are used only when the order of the points is irrelevant.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T131400Z" creationid="Jeff Huang" creationdate="20180131T133037Z">
-        <seg>僅在每一點的內容順序無關緊要時才使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T131421Z" creationid="Jeff Huang" creationdate="20180131T133037Z">
+        <seg>僅在每一點的內容沒有順序關係時才使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29367,8 +29367,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;HTML&lt;/f0&gt; tag for bullet lists, &lt;f1&gt;&lt;ul&gt;&lt;/f1&gt; (unordered list), emphasizes this convention.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T133800Z" creationid="Jeff Huang" creationdate="20180131T133800Z">
-        <seg>&lt;f0&gt;HTML&lt;/f0&gt;的項目清單標籤，&lt;f1&gt;&lt;ul&gt;&lt;/f1&gt;（無序清單，unordered list），強調了此慣例。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T131708Z" creationid="Jeff Huang" creationdate="20180131T133800Z">
+        <seg>&lt;f0&gt;HTML&lt;/f0&gt;的項目清單標籤，&lt;f1&gt;&lt;ul&gt;&lt;/f1&gt;（無序清單，unordered list），很強調此慣例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37421,8 +37421,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You might want to arrange points for rhetorical effect, starting with one fairly important point and ending with your strongest point, but readers do not actually need to know one point before another.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T133606Z" creationid="Jeff Huang" creationdate="20180131T133606Z">
-        <seg>你可能會想要以比較誇張的效果來排列內容，從可能重要的內容開始，以最強烈的論述做結，但是讀者並不需要按順序吸收內容。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T131617Z" creationid="Jeff Huang" creationdate="20180131T133606Z">
+        <seg>你可能會想要以比較誇張的效果來排列內容，像是從相當重要的一點開始，最後以強而有力的論述做結尾，但讀者實際上不需要按照順序吸收這些內容。</seg>
       </tuv>
     </tu>
     <tu>
