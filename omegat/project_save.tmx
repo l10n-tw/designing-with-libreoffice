@@ -2457,8 +2457,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Consist of points that are all grammatical completions of the last sentence in the paragraph before them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024318Z" creationid="Jeff Huang" creationdate="20180201T024318Z">
-        <seg>&lt;f0&gt;包含了點的句子都會在段落的最後一句結束時完結其語意。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132242Z" creationid="Jeff Huang" creationdate="20180201T024318Z">
+        <seg>&lt;f0&gt;包含的各個子點項目，都能接續段落的最後一句話，使其完結語句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28708,8 +28708,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;/f0&gt;hat means that each point has a similar &lt;f1&gt;grammatical &lt;/f1&gt;structure to the other&lt;f2&gt;s&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024416Z" creationid="Jeff Huang" creationdate="20180201T024416Z">
-        <seg>&lt;/f0&gt;這代表了每個點都會有類似的&lt;f1&gt;文法&lt;/f1&gt;結構與其它東西。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132308Z" creationid="Jeff Huang" creationdate="20180201T024416Z">
+        <seg>&lt;/f0&gt;這代表了每一點都有類似的&lt;f1&gt;文法&lt;/f1&gt;結構。</seg>
       </tuv>
     </tu>
     <tu>
