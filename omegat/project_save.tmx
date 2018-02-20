@@ -4304,11 +4304,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>誰說的？好像沒普遍看到這麼用耶。中文版可能要在地一點，改作時如果確定中文沒這樣講就要改掉。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Lists&lt;/f0&gt; and &lt;f1&gt;tables&lt;/f1&gt; are sometimes called structured prose.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T081103Z" creationid="Jeff Huang" creationdate="20180131T081103Z">
-        <seg>&lt;f0&gt;清單&lt;/f0&gt;與&lt;f1&gt;表格&lt;/f1&gt;又稱為結構化的散文。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T095906Z" creationid="Jeff Huang" creationdate="20180131T081103Z">
+        <seg>&lt;f0&gt;清單&lt;/f0&gt;與&lt;f1&gt;表格&lt;/f1&gt;有時又被稱為結構化的散文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19026,8 +19027,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, without &lt;f0&gt;styles&lt;/f0&gt;, such features &lt;f1&gt;are so much more laborious that doing them manually is a waste of time, except in a few cases where they are unavoidable.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T095510Z" creationid="zerng07" creationdate="20180220T095453Z">
-        <seg>不過，如果沒了&lt;f0&gt;樣式&lt;/f0&gt;，這些功能手動做起來&lt;f1&gt;不僅更加吃力而且也浪費時間；請只有在少數沒有辦法避免的狀況下才這麼做。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T095759Z" creationid="zerng07" creationdate="20180220T095453Z">
+        <seg>不過，一旦沒了&lt;f0&gt;樣式&lt;/f0&gt;，這些功能手動做起來&lt;f1&gt;不僅更加吃力而且也浪費時間；請只有在少數沒有辦法避免的狀況下才這麼做。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
