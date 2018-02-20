@@ -11371,8 +11371,8 @@
       <tuv lang="EN">
         <seg>Are sometimes considered too informal to use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031506Z" creationid="Jeff Huang" creationdate="20180201T031506Z">
-        <seg>有時因被認為不夠正式而不能使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133843Z" creationid="Jeff Huang" creationdate="20180201T031506Z">
+        <seg>有時清單會被認為不夠正式而不能使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14911,7 +14911,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>漢語語法中，本身不會說甲、乙和丙這樣的語法，會直接說甲、乙、丙等。</note>
+      <note>漢語語法中，本身不會說甲、乙和丙這樣的語法，會直接說甲、乙、丙等。如果沒有列舉完，一般會說甲、乙、丙……等等。</note>
       <tuv lang="EN">
         <seg>Do not use an “and,” “or,” or any other word to introduce the last point in the list, even though that would be grammatically correct.</seg>
       </tuv>
