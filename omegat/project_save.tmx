@@ -350,14 +350,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T140925Z" creationid="Ｖ字龍" creationdate="20180217T115335Z">
-        <seg>&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;The Non-Designer’s Type Book&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Peachpit Press: Berkeley, 1998): A sequel to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;The&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Non-Designer’s Design Book,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; focusing on the details of typefaces and how to use them.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T151836Z" creationid="zerng07" creationdate="20171227T183929Z">
@@ -546,14 +538,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T171017Z" creationid="Franklin Weng" creationdate="20180120T125158Z">
         <seg>&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;除了設計有效的投影片以外，你也必須設計有效的表達方式。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f17&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180129T032644Z" creationid="Jeff Huang" creationdate="20180129T032644Z">
-        <seg>&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3102,8 +3086,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, the font effect &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sounds minor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T085302Z" creationid="Ｖ字龍" creationdate="20180217T075100Z">
-        <seg>例如&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;這個字型效果看起來可能微不足道。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095008Z" creationid="Ｖ字龍" creationdate="20180217T075100Z">
+        <seg>例如&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;這個字型效果看起來聽起來可能微不足道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,8 +3448,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, all characters are positioned relative to the baseline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T110911Z" creationid="Ｖ字龍" creationdate="20180217T100453Z">
-        <seg>但是所有的字元都放置在相對於基線的位置。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T101109Z" creationid="Ｖ字龍" creationdate="20180217T100453Z">
+        <seg>然而所有的字元都放置在相對於基線的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6239,11 +6223,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>上游的問題：是不是 ascenders of the question mark？</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The superscript “2” on the left is higher than the ascenders or the question mark, and throws off the look of the line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115346Z" creationid="Ｖ字龍" creationdate="20180217T100750Z">
-        <seg>左側的上標「2」比ascenders或問號還要高，擺脫了行的整體外觀。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T101622Z" creationid="Ｖ字龍" creationdate="20180217T100750Z">
+        <seg>左側的上標「2」的位置比上部們或問號還來得高，擺脫了行的整體外觀。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8370,8 +8355,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;It also detects whether a font family includes italics or bold weights, and decides the size and placement of footnote numbers.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T085050Z" creationid="Ｖ字龍" creationdate="20180217T085050Z">
-        <seg>&lt;f2&gt;另外它也偵測了一字型家族是否包含了斜體或粗體字重的字型，並決定註腳編號的大小與位置。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095238Z" creationid="Ｖ字龍" creationdate="20180217T085050Z">
+        <seg>另外它也偵測了一字型家族是否包含了斜體或粗體字重的字型，並決定註腳編號的大小與位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8623,11 +8608,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Workaround f2</note>
       <tuv lang="EN">
         <seg>&lt;f2&gt;To many users, LibreOffice’s defaults are too small.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115018Z" creationid="Ｖ字龍" creationdate="20180217T101358Z">
-        <seg>&lt;f2&gt;對多數使用者來說LibreOffice的預設值都過小。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104135Z" creationid="Ｖ字龍" creationdate="20180217T101358Z">
+        <seg>對多數使用者來說LibreOffice的預設大小都過小了。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10559,19 +10545,20 @@
       </tuv>
     </tu>
     <tu>
+      <note>無視f0-1</note>
       <tuv lang="EN">
         <seg>Aligning &lt;f0&gt;different&lt;/f0&gt;-sized text on &lt;f1&gt;one&lt;/f1&gt; line</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T122526Z" creationid="Ｖ字龍" creationdate="20180217T122526Z">
-        <seg>對齊&lt;f1&gt;一&lt;/f1&gt;直線上的&lt;f0&gt;不同&lt;/f0&gt;大小文字</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T105029Z" creationid="Ｖ字龍" creationdate="20180217T122526Z">
+        <seg>對齊一直線上的不同大小文字</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligning superscript characters with the top of ascenders and subscript characters with the bottom of descenders has the advantage of being symmetrical while giving you a visible target.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T121329Z" creationid="Ｖ字龍" creationdate="20180217T121329Z">
-        <seg>用ascender的頂點對齊上標文字以及用descender的底點對齊下標文字能夠在給你一個可見的目標(?)的同時擁有對稱(?)的好處。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104850Z" creationid="Ｖ字龍" creationdate="20180217T121329Z">
+        <seg>用上部的頂點對齊上標文字以及用下部的底點對齊下標文字能夠在給你一個清晰可辨的目標的同時擁有對稱的好處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12832,8 +12819,8 @@
       <tuv lang="EN">
         <seg>By contrast, the subscript “&lt;f0&gt;2”&lt;/f0&gt; on the right is as low as the bottom of the &lt;f1&gt;descender on the “y&lt;/f1&gt;,” which gives a more &lt;f2&gt;consistent&lt;/f2&gt; look to the line (Font: Lato).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T103512Z" creationid="Ｖ字龍" creationdate="20180217T100940Z">
-        <seg>相較於右側的下標「2」跟「y」的descender的底部一樣低，提供文字行更加&lt;f2&gt;一致&lt;/f2&gt;的外觀（字型：Lato）。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T102329Z" creationid="Ｖ字龍" creationdate="20180217T100940Z">
+        <seg>相較之下右側「2」的下標跟「y」的下部的底部一樣低，給予該行更加&lt;f2&gt;一致&lt;/f2&gt;的外觀（字型：Lato）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16659,6 +16646,18 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>* 無視：
+	* f6
+	* f8
+</note>
+      <tuv lang="EN">
+        <seg>For example, if you select &lt;/f6&gt;&lt;f7&gt;Bottom&lt;/f7&gt;&lt;f8&gt;, then the smaller characters are positioned at the bottom of the largest characters’ descenders (the lines below the base line).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T105939Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
+        <seg>舉例來說，當你選擇&lt;f7&gt;下緣&lt;/f7&gt;時，較小的字元被放置在最大的字元們的下部（在基線底下的字母線條）。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>For example, if you set the format to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Date,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; you could choose from such formats as &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;YYYY-MM-DD &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;or &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;DD-MM-YY.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
@@ -18975,6 +18974,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視f1</note>
       <tuv lang="EN">
         <seg>However, using this guide with a large x-height is likely to make the superscript characters too small.&lt;/f1&gt;</seg>
       </tuv>
@@ -21011,6 +21011,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In each case, the largest characters remain on the baseline, while other characters are raised or lowered in relation to them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180219T024006Z" creationid="Ｖ字龍" creationdate="20180219T024006Z">
+        <seg>在各種情境中，最大的字元仍維持在基線上，而其他的字元根據其大小比例被抬升或下移。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In each style type, especially paragraph and character styles, the pre-defined styles are well thought out, and might be all that you need.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083930Z" creationid="zerng07" creationdate="20171225T083833Z">
@@ -21947,11 +21955,19 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>* essay 中文維基百科是稱作「隨筆」
+* 無視：
+	* f6
+	* t7（分頁符號）
+	* f8
+	* f11
+	* f14
+* Workaround f17</note>
       <tuv lang="EN">
         <seg>It can be used with a brochure or poster than an essay, but its main use is probably to create superscript or subscript characters without the fuss of &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;using the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Position&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; tab (see “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Positioning superscript and subscript&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;,” page &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;3&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T125226Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
-        <seg>這適用於小冊子與海報而非論文，但它最主要的用途大概是建立上標或下標文字It can be used with a brochure or poster than an essay, but its main use is probably to create superscript or subscript characters without the fuss of &lt;t7/&gt;&lt;f8&gt;using the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Position&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; tab (see “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Positioning superscript and subscript&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;,” page &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;3&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T105653Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
+        <seg>這適用於小冊子與海報而非論文，但它最主要的用途大概是在免除使用&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;標籤頁建立上標或下標文字的困擾（參見「&lt;f12&gt;&lt;bf13&gt;調整上標與下標文字的位置&lt;/bf13&gt;&lt;/f12&gt;」，第&lt;f15&gt;&lt;bf16&gt;3&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22908,8 +22924,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like most word processors or layout software, LibreOffice does much of the housekeeping for design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T124606Z" creationid="Ｖ字龍" creationdate="20180217T083709Z">
-        <seg>就跟大多數的文書處理或排版軟體一樣，LibreOffice在文件設計中的「居家打理」方面下了很多功夫。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095126Z" creationid="Ｖ字龍" creationdate="20180217T083709Z">
+        <seg>就跟大多數的文書處理或排版軟體一樣，LibreOffice在大部分的文件設計細節的打理上下足了功夫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23310,8 +23326,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Many characters have what is called an x-height – the height of a letter x, but also of an m or r, as well as the bowl of a lower case b or p.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T095249Z" creationid="Ｖ字龍" creationdate="20180217T095249Z">
-        <seg>很多字元都有被稱為 x-height 的東西——x字母的高度，也涵蓋 m 或 r 的高度以及小寫 b 與 p 的中空結構的高度。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T100043Z" creationid="Ｖ字龍" creationdate="20180217T095249Z">
+        <seg>很多字元都有被稱為 x-height 的東西——x字母的高度，也涵蓋m或r的高度以及小寫b與p的中空結構的高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27706,8 +27722,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, subscript characters, such as those in chemical equations, usually sit between the baseline and the low point of descenders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T101219Z" creationid="Ｖ字龍" creationdate="20180217T101219Z">
-        <seg>同樣地，例如在化學式中的下標字元通常都座落於基線跟descender的最低點之間。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T103710Z" creationid="Ｖ字龍" creationdate="20180217T101219Z">
+        <seg>同樣地，像是那些化學式中的下標字元通常都座落於基線跟下部的最低點之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,6 +27756,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T094008Z" creationid="Franklin Weng" creationdate="20180211T094008Z">
         <seg>另外也可以用比一般來得厚的邊框，來標記總和或統計數字。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, with &lt;/f8&gt;&lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T110008Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
+        <seg>Similarly, with &lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27887,11 +27911,12 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>* Workaround f0</note>
       <tuv lang="EN">
         <seg>So long as you have set at least one condition, you can add and delete conditio&lt;f0&gt;ns later.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115449Z" creationid="Ｖ字龍" creationdate="20180217T115449Z">
-        <seg>So long as you have set at least one condition, you can add and delete conditions later.</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T110143Z" creationid="Ｖ字龍" creationdate="20180217T115449Z">
+        <seg>So long as you have set at least one condition, you can add and delete conditions later.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28368,8 +28393,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Still others like y have descenders, or lines that are lower than the baseline, while letters like k have ascenders, or lines that rise above the x-height.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T122057Z" creationid="Ｖ字龍" creationdate="20180217T100343Z">
-        <seg>有些像y的字母有descender，比基線還要來得低的線條，以及像k一樣有ascender，比 x-height 還要高的線條。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T100851Z" creationid="Ｖ字龍" creationdate="20180217T100343Z">
+        <seg>有些像是y的字母有descender，比基線還要來得低的線條，以及像k一樣有ascender，比 x-height 還要高的線條。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28648,8 +28673,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Superscript characters, &lt;f0&gt;such as mathematical components or footnote numbers, are usually positioned somewhere between the x-height and the height of the ascenders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T105053Z" creationid="Ｖ字龍" creationdate="20180217T101121Z">
-        <seg>例如數學組成元素或是註腳編號的上標字元通常都座落於 x-height 跟 ascender 的高度之間的某處。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T103553Z" creationid="Ｖ字龍" creationdate="20180217T101121Z">
+        <seg>像是數學指數或是註腳編號的上標字元通常都座落於 x-height 跟上部的高度之間的某處。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29417,6 +29442,7 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>無視f1</note>
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Position&lt;/f0&gt; tab &lt;f1&gt;for characters and paragraph styles i&lt;/f1&gt;s specifically for blocks of text.</seg>
       </tuv>
@@ -30455,11 +30481,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視f1、f2</note>
       <tuv lang="EN">
         <seg>The exact size &lt;f0&gt;will vary with the font’s white space,&lt;/f0&gt; but 40&lt;f1&gt;–&lt;/f1&gt;60% &lt;f2&gt;of the body text should be the usual range.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T101900Z" creationid="Ｖ字龍" creationdate="20180217T101900Z">
-        <seg>確切大小&lt;f0&gt;會因字型的空白大小而變&lt;/f0&gt;，但40&lt;f1&gt;-&lt;/f1&gt;60%的內文文字大小應是常見的範圍。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104553Z" creationid="Ｖ字龍" creationdate="20180217T101900Z">
+        <seg>確切大小&lt;f0&gt;會因字型的空白大小而變&lt;/f0&gt;，但40-60%的內文文字大小應是常見的範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31500,6 +31527,17 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>* 無視：
+	* f3
+	* f6</note>
+      <tuv lang="EN">
+        <seg>The setting can align font sizes by the &lt;f0&gt;Top&lt;/f0&gt;,&lt;f1&gt; Middle&lt;/f1&gt;, or &lt;f2&gt;Bottom&lt;/f2&gt; of the letters, &lt;f3&gt;or the default &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Base Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T105828Z" creationid="Ｖ字龍" creationdate="20180219T023303Z">
+        <seg>這個設定可以根據文字的&lt;f0&gt;上緣&lt;/f0&gt;、&lt;f1&gt;中線&lt;/f1&gt;或是&lt;f2&gt;下緣&lt;/f2&gt;對齊不同的字型大小文字，或是根據其預設值&lt;f4&gt;&lt;f5&gt;基線&lt;/f5&gt;&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The settings discussed in this chapter are the ones you are likely to use in every document.</seg>
       </tuv>
@@ -31567,8 +31605,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The size of superscript and subscript characters is a trade off between &lt;f0&gt;being&lt;/f0&gt; large and easily readable and &lt;f1&gt;being&lt;/f1&gt; uncluttered but harder to read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T122211Z" creationid="Ｖ字龍" creationdate="20180217T101331Z">
-        <seg>上標文字跟下標文字的大小決定是在「大而易讀」與「小而不雜亂但不易讀」之間作取捨。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104020Z" creationid="Ｖ字龍" creationdate="20180217T101331Z">
+        <seg>上標文字跟下標文字的大小決定是在「大而易讀」與「小而不雜亂但更不易讀」之間作取捨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31925,6 +31963,7 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視f0</note>
       <tuv lang="EN">
         <seg>Their lack of a common baseline means &lt;f0&gt;either an eye-disturbing clutter or a time-consuming positioning of &lt;/f0&gt;each numeral separately.</seg>
       </tuv>
@@ -32072,8 +32111,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>There is no reason, though, why you should not modify the intended design if you care to make the effort.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T105211Z" creationid="Ｖ字龍" creationdate="20180217T105211Z">
-        <seg></seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T101405Z" creationid="Ｖ字龍" creationdate="20180217T105211Z">
+        <seg>然而這並不意謂著當你願意去付出那個努力的前提下你仍不能修改這原定的設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32085,11 +32124,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視 f0、f1、f2</note>
       <tuv lang="EN">
         <seg>These adjustments are relatively common, because, &lt;f0&gt;depending on the font, &lt;/f0&gt;LibreOffi&lt;f1&gt;c&lt;/f1&gt;e’s default superscript and subscript characters &lt;f2&gt;can sometimes be too &lt;/f2&gt;too small for easy reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T113013Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
-        <seg>這些調整是相對常見的，因為&lt;f0&gt;根據選用的字型而定&lt;/f0&gt;，&lt;f2&gt;有時&lt;/f2&gt;LibreOffice預設的上標與下標文字大小過小而不易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095645Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
+        <seg>這些調整是相對常見的，因為根據選用的字型而定，有時LibreOffice預設的上標與下標文字大小過小而不易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32224,8 +32264,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These properties may be formatting, or content that is password-protected from editing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115547Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
-        <seg>These properties may be formatting, or content that is password-protected from editing.</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T110242Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
+        <seg>These properties may be formatting, or content that is password-protected from editing.&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33390,11 +33430,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視f3</note>
       <tuv lang="EN">
         <seg>To create formulas, open &lt;f2&gt;File &gt; New &gt; Formula&lt;/f2&gt; &lt;f3&gt;or use the Math application.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T121931Z" creationid="Ｖ字龍" creationdate="20180217T121931Z">
-        <seg>要建立科學公式請開啟&lt;f2&gt;檔案 &gt; 新增 &gt; 公式&lt;/f2&gt;&lt;f3&gt;或是使用Math應用軟體&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104941Z" creationid="Ｖ字龍" creationdate="20180217T121931Z">
+        <seg>要建立科學公式請開啟&lt;f2&gt;檔案 &gt; 新增 &gt; 公式&lt;/f2&gt;或是使用Math應用軟體。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33711,11 +33752,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視 f0、f1</note>
       <tuv lang="EN">
         <seg>To understand superscript and subscript &lt;f0&gt;characters&lt;/f0&gt;, you have to &lt;f1&gt;remember&lt;/f1&gt; that all letters sit on an imaginary baseline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T094744Z" creationid="Ｖ字龍" creationdate="20180217T094744Z">
-        <seg>要了解上標與下標&lt;f0&gt;字元&lt;/f0&gt;，你必須&lt;f1&gt;記得&lt;/f1&gt;所有字母接座落於一個想像出來的基線上。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095948Z" creationid="Ｖ字龍" creationdate="20180217T094744Z">
+        <seg>要了解上標與下標字元，你必須記得所有字母接座落於一個想像出來的基線上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34296,6 +34338,7 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視f1</note>
       <tuv lang="EN">
         <seg>Unless the x-height is exceptionally large, using it for &lt;f0&gt;the bottom of&lt;/f0&gt; superscript &lt;f1&gt;characters often makes for a consistent design.</seg>
       </tuv>
@@ -35228,11 +35271,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>無視f0、f1</note>
       <tuv lang="EN">
         <seg>When adjusting both position and size, be prepared for &lt;f0&gt;several&lt;/f0&gt; trials and errors before getting the best results, with the &lt;f1&gt;adjustments&lt;/f1&gt; getting smaller as you move closer to the ideal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T112743Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
-        <seg>當同時調整位置跟大小時，做出在取得最佳結果前&lt;f0&gt;多次&lt;/f0&gt;試誤的心理準備，持續縮小&lt;f1&gt;調整範圍&lt;/f1&gt;直到接近理想的效果。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104348Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
+        <seg>當同時調整位置跟大小時，你該具備在取得最佳結果前多次試誤的心理準備，持續縮小調整範圍直到接近你理想中的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36144,7 +36188,7 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Yet in one unimportant-looking toggle switch, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hide&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; provides an elegant solution for one of the most difficult tasks for professional documenters – maintaining multiple versions of the same document in a single file.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T124741Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095020Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
         <seg>但在一個看似不重要的開關底下，&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;提供了對於職業饌文人來說其中一個最困難的差事——在同一個檔案中維護同一份文件的多個版本——的一個優雅的解決方案。</seg>
       </tuv>
     </tu>
@@ -36216,8 +36260,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You &lt;f0&gt;will rarely use&lt;/f0&gt; these features all the time, &lt;f1&gt;nor all of them&lt;/f1&gt; &lt;f2&gt;at once.&lt;/f2&gt; &lt;f3&gt;However, &lt;/f3&gt;knowing what is available can help you to design your documents more intelligently and to work more &lt;f4&gt;efficiently&lt;/f4&gt; when you write.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T041214Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
-        <seg>你&lt;f0&gt;不會&lt;/f0&gt;無時不刻都在使用這些功能，&lt;f1&gt;也不會全部&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;都用上。&lt;f3&gt;但是&lt;/f3&gt;知道什麼功能是可用的可以幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T094907Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
+        <seg>你&lt;f0&gt;幾乎不會&lt;/f0&gt;無時不刻都在使用這些功能，&lt;f1&gt;也不會全部&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;都用上。&lt;f3&gt;但是&lt;/f3&gt;知道什麼功能是可用的可以幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
       </tuv>
     </tu>
     <tu>
