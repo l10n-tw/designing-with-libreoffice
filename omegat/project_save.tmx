@@ -7797,8 +7797,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;The extra indentations of r&lt;/f1&gt;aw &lt;f2&gt;&lt;f3&gt;HTML&lt;/f3&gt;&lt;/f2&gt; and &lt;f4&gt;Microsoft &lt;/f4&gt;Word are the exception&lt;f5&gt;s,&lt;/f5&gt; not the convention.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T025919Z" creationid="Jeff Huang" creationdate="20180201T025919Z">
-        <seg>&lt;f2&gt;原始&lt;/f2&gt;&lt;f3&gt;HTML&lt;/f3&gt;&lt;f1&gt;的額外縮排與&lt;f4&gt;Microsoft &lt;/f4&gt;Word是例外，並非慣例。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132911Z" creationid="Jeff Huang" creationdate="20180201T025919Z">
+        <seg>&lt;f1&gt;至於&lt;f2&gt;原始&lt;/f2&gt;&lt;f3&gt;HTML&lt;/f3&gt;&lt;f1&gt;的額外縮排，以及&lt;f4&gt;Microsoft &lt;/f4&gt;Word則是例外，它們並不遵循傳統排印慣例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19666,8 +19666,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If they are lists within lists, then the bullet has the same indent as the text in the top level list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T025604Z" creationid="Jeff Huang" creationdate="20180201T025604Z">
-        <seg>如果它們是清單下的清單，項目符號會與其頂級清單中的文字有相同的縮排。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132657Z" creationid="Jeff Huang" creationdate="20180201T025604Z">
+        <seg>如果它們是清單之下的清單，項目符號會與其最上層清單中的文字有相同的縮排距離。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28372,8 +28372,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Start with a bullet on the left margin, then indent &lt;f0&gt;for the text&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T025040Z" creationid="Jeff Huang" creationdate="20180201T025040Z">
-        <seg>從左邊距開始的項目符號，然後再讓&lt;f0&gt;文字&lt;/f0&gt;縮排。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132607Z" creationid="Jeff Huang" creationdate="20180201T025040Z">
+        <seg>從左邊距開始的項目符號，然後&lt;f0&gt;文字&lt;/f0&gt;部分縮排。</seg>
       </tuv>
     </tu>
     <tu>
