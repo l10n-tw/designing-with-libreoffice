@@ -2454,6 +2454,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>中文慣例也會這樣用嗎？待查。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Consist of points that are all grammatical completions of the last sentence in the paragraph before them.</seg>
       </tuv>
@@ -16767,8 +16768,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, they could be all nouns or participles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024932Z" creationid="Jeff Huang" creationdate="20180201T024932Z">
-        <seg>舉例來說，它們可以全部都是名詞或分詞。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132552Z" creationid="Jeff Huang" creationdate="20180201T024932Z">
+        <seg>例如，它們可以全部都是名詞或分詞片語。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21608,8 +21609,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In this bullet list, for instance, each point starts with a present tense verb.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024731Z" creationid="Jeff Huang" creationdate="20180201T024731Z">
-        <seg>舉例來說，在這個項目符號清單中，每個點都以現在式動詞開始。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132429Z" creationid="Jeff Huang" creationdate="20180201T024731Z">
+        <seg>舉例來說，在這個項目符號清單中，每個點都以現在式動詞開始。（這是英語文件狀況，記得要針對中文版確認慣例做法與改寫）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23545,8 +23546,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>May be sentence fragments, but should be consistent with each other.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T024813Z" creationid="Jeff Huang" creationdate="20180201T024813Z">
-        <seg>也許是句子的片段，但應該是前後一致的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132515Z" creationid="Jeff Huang" creationdate="20180201T024813Z">
+        <seg>也許是句子的片段，但應該與其他點能前後一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28708,8 +28709,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;/f0&gt;hat means that each point has a similar &lt;f1&gt;grammatical &lt;/f1&gt;structure to the other&lt;f2&gt;s&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132308Z" creationid="Jeff Huang" creationdate="20180201T024416Z">
-        <seg>&lt;/f0&gt;這代表了每一點都有類似的&lt;f1&gt;文法&lt;/f1&gt;結構。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132318Z" creationid="Jeff Huang" creationdate="20180201T024416Z">
+        <seg>&lt;/f0&gt;這代表每一點都會有相似的&lt;f1&gt;文法&lt;/f1&gt;結構。</seg>
       </tuv>
     </tu>
     <tu>
