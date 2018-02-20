@@ -6633,8 +6633,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding&lt;/f0&gt; numbered lists</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031542Z" creationid="Jeff Huang" creationdate="20180201T031542Z">
-        <seg>&lt;f0&gt;熟悉&lt;/f0&gt;編號清單</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133900Z" creationid="Jeff Huang" creationdate="20180201T031542Z">
+        <seg>&lt;f0&gt;認識&lt;/f0&gt;編號清單</seg>
       </tuv>
     </tu>
     <tu>
@@ -6900,8 +6900,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;When in doubt, avoid them.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031524Z" creationid="Jeff Huang" creationdate="20180201T031524Z">
-        <seg>&lt;f0&gt;如果沒辦法確定的話就不要用吧。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133856Z" creationid="Jeff Huang" creationdate="20180201T031524Z">
+        <seg>&lt;f0&gt;如果沒辦法確定的話，那就不要用。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16938,8 +16938,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, in a procedure in a technical manual, one step might be impossible – or even dangerous – without doing another one first.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032028Z" creationid="Jeff Huang" creationdate="20180201T032028Z">
-        <seg>舉例來說，在技術手冊裡的其中一個程序，如果隨意挪動執行步驟就會造成無法挽回的後果時。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134149Z" creationid="Jeff Huang" creationdate="20180201T032028Z">
+        <seg>舉例來說，在技術手冊裡的某個程序中，如果沒有先做好某個步驟就會無法執行，或甚至造成無法挽回的後果，所以順序非常重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35828,8 +35828,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>While people number lists all the time, the convention is that numbered lists &lt;f0&gt;should only be used&lt;/f0&gt; when the order of the information matters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031753Z" creationid="Jeff Huang" creationdate="20180201T031753Z">
-        <seg>雖然人們一直在將清單加上編號，但慣例是僅在資訊的順序很重要的時候&lt;f0&gt;才使用&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133946Z" creationid="Jeff Huang" creationdate="20180201T031753Z">
+        <seg>雖然人們一直在將清單加上編號，但慣例是只在資訊的順序很重要時&lt;f0&gt;才使用編號清單&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
