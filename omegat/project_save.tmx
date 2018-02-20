@@ -11339,8 +11339,8 @@
       <tuv lang="EN">
         <seg>Are generally no more than &lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt; &lt;f3&gt;items&lt;/f3&gt; long.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031026Z" creationid="Jeff Huang" creationdate="20180201T031026Z">
-        <seg>一般來說其長度不會超過&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;f3&gt;個項目&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133216Z" creationid="Jeff Huang" creationdate="20180201T031026Z">
+        <seg>一般來說長度不會超過&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;f3&gt;條項目&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13056,8 +13056,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Can start with either an upper or lower case letter, so long as the convention is consistent throughout the list and the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T030247Z" creationid="Jeff Huang" creationdate="20180201T030247Z">
-        <seg>可以用大寫或小寫字母開始，只要清單與整份文件保持一致就行了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132958Z" creationid="Jeff Huang" creationdate="20180201T030247Z">
+        <seg>可以用大寫或小寫字母開始，只要清單與整份文件中都維持一致就行了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15387,8 +15387,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>End each point with the same punctuation.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T030709Z" creationid="Jeff Huang" creationdate="20180201T030709Z">
-        <seg>用相同的標點符號來結束每個點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133009Z" creationid="Jeff Huang" creationdate="20180201T030709Z">
+        <seg>以相同的標點符號結束每一點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24148,8 +24148,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>No punctuation, commas, semi-colons, and periods are all &lt;f0&gt;valid&lt;/f0&gt; choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T030828Z" creationid="Jeff Huang" creationdate="20180201T030828Z">
-        <seg>沒有標點符號、逗號、分號與句號都是&lt;f0&gt;可行&lt;/f0&gt;的選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133057Z" creationid="Jeff Huang" creationdate="20180201T030828Z">
+        <seg>沒有標點符號，像逗號、分號、句號等，也都是&lt;f0&gt;可行&lt;/f0&gt;的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35190,8 +35190,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>What matters is the consistency &lt;f1&gt;of list items and of all lists within the document.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T030946Z" creationid="Jeff Huang" creationdate="20180201T030946Z">
-        <seg>重要是項目符號清單&lt;f1&gt;和文件中的所有清單必須一致。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133152Z" creationid="Jeff Huang" creationdate="20180201T030946Z">
+        <seg>重要的是項目符號清單本身，&lt;f1&gt;以及文件中的所有清單都必須一致。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
