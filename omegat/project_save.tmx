@@ -3691,8 +3691,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If the order is irrelevant, use bullet lists instead.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032957Z" creationid="Jeff Huang" creationdate="20180201T032957Z">
-        <seg>&lt;f0&gt;如果資訊的順序不重要，請用項目符號清單。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134328Z" creationid="Jeff Huang" creationdate="20180201T032957Z">
+        <seg>&lt;f0&gt;如果資訊之間的順序毫無關聯，請改用項目符號清單。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22929,8 +22929,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like bullet lists, they are used only for three items or more.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T033101Z" creationid="Jeff Huang" creationdate="20180201T033101Z">
-        <seg>如同項目符號清，它們僅用於三個或更多項目。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134405Z" creationid="Jeff Huang" creationdate="20180201T033101Z">
+        <seg>如同項目符號清單，僅用在有三點以上的條目時使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24349,8 +24349,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Numbered lists have fewer conventions tha&lt;f0&gt;n&lt;/f0&gt; bullet lists, but they do have a few:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032208Z" creationid="Jeff Huang" creationdate="20180201T032208Z">
-        <seg>編號清單的慣例較項目符號清單少，但其還是有一些慣例：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134256Z" creationid="Jeff Huang" creationdate="20180201T032208Z">
+        <seg>編號清單的慣例較項目符號清單少，但其還是有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32437,8 +32437,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>They are generally introduced in the body text by a summary of the overall task they describe that ends in a colon.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T033942Z" creationid="Jeff Huang" creationdate="20180201T033942Z">
-        <seg>它們通常在內文中以所要描述的工作的概覽出現，並以冒號結尾。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134751Z" creationid="Jeff Huang" creationdate="20180201T033942Z">
+        <seg>通常在前方內文中以工作事項的整體簡要描述作引導，語句以冒號結尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34082,8 +34082,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Two-step procedures stay in the body of the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T033636Z" creationid="Jeff Huang" creationdate="20180201T033636Z">
-        <seg>只有兩步驟的程序保留在內文中即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134418Z" creationid="Jeff Huang" creationdate="20180201T033636Z">
+        <seg>只有兩個步驟的程序直接寫在內文中即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36168,16 +36168,16 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Writer’s pre-defined bullet types.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T131418Z" creationid="Jeff Huang" creationdate="20180131T131418Z">
-        <seg>Writer的預定義項目符號類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134224Z" creationid="Jeff Huang" creationdate="20180131T131418Z">
+        <seg>Writer的預先定義項目符號類型。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writer’s pre-defined numbered lists.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T032047Z" creationid="Jeff Huang" creationdate="20180201T032047Z">
-        <seg>Writer的預定義編號清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134212Z" creationid="Jeff Huang" creationdate="20180201T032047Z">
+        <seg>Writer的預先定義編號清單。</seg>
       </tuv>
     </tu>
     <tu>
