@@ -12705,6 +12705,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>6.0 有表格樣式了呢！</note>
       <tuv lang="EN">
         <seg>By contrast, Writer treats bulleted and numbered lists as a separate type of style, and tables as a sort of pseudo-style, &lt;f2&gt;or at least a gallery of saved formats.&lt;/f2&gt;</seg>
       </tuv>
@@ -23110,8 +23111,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Lists have more formatting choices, which would be harder to offer if all the choices were squeezed into a single tab for paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083237Z" creationid="Jeff Huang" creationdate="20180131T083237Z">
-        <seg>清單有更多的格式選擇，如果所有選項都被壓縮到一個單獨的段落樣式標籤頁中，那就不會提供這麼多選項了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T123537Z" creationid="Jeff Huang" creationdate="20180131T083237Z">
+        <seg>清單有更多的格式設定選擇，所以如果想將所有選項都擠到單一個段落樣式標籤頁中，可是件很難辦到的事情。</seg>
       </tuv>
     </tu>
     <tu>
