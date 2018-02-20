@@ -15243,8 +15243,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Each step can have multiple paragraphs, most of them unnumbered, describing what happens when it is performed or the alternatives.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T034743Z" creationid="Jeff Huang" creationdate="20180201T034743Z">
-        <seg>每個步驟都可以有多個段落，其中大部份都是沒有編號的，描述了執行時的狀況或是其他選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134954Z" creationid="Jeff Huang" creationdate="20180201T034743Z">
+        <seg>每個步驟下還可以有多個段落，大部份都不用加編號，進一步描述執行時的狀況或是其他選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16365,8 +16365,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For &lt;t0/&gt;example, “To install the software update, &lt;f1&gt;follow these steps&lt;/f1&gt;:” &lt;f2&gt;or, simply “To install:”&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T034607Z" creationid="Jeff Huang" creationdate="20180201T034607Z">
-        <seg>舉例來說，「要安裝軟體更新，&lt;f1&gt;請遵照以下步驟&lt;/f1&gt;：」&lt;f2&gt;或簡單一點就是「安裝步驟：」&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134836Z" creationid="Jeff Huang" creationdate="20180201T034607Z">
+        <seg>舉例：「若要安裝軟體更新，&lt;f1&gt;請遵照下列步驟&lt;/f1&gt;：」，&lt;f2&gt;或簡單一點就是「安裝步驟：」。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31690,8 +31690,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The steps in a procedure should be less than a dozen (some suggest &lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;8, &lt;f2&gt;based on the maximum number of items the average human can easily remember&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T034955Z" creationid="Jeff Huang" creationdate="20180201T034955Z">
-        <seg>一個程序中的步驟應少於12個（一般建議是&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;8&lt;f2&gt;個，這是基於人類最容易記住的最大平均數量而訂&lt;/f2&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T135055Z" creationid="Jeff Huang" creationdate="20180201T034955Z">
+        <seg>一個程序中的步驟應少於12個（有些建議是&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;8&lt;f2&gt;個，這是一般人最容易記住的最大平均數目&lt;/f2&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
