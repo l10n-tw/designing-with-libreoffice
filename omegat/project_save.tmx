@@ -1301,8 +1301,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A &lt;/f0&gt;paragraph’s list style &lt;f1&gt;can be &lt;/f1&gt;changed with a single selection.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T083427Z" creationid="Jeff Huang" creationdate="20180131T083427Z">
-        <seg>段落的清單樣式&lt;f1&gt;可以&lt;/f1&gt;單段變更。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T124110Z" creationid="Jeff Huang" creationdate="20180131T083427Z">
+        <seg>段落下的清單樣式&lt;f1&gt;可以&lt;/f1&gt;單獨選取後變更。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28771,8 +28771,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Table styles are due to be added to Writer in the future, but for now tables are formatted in a mixture of manual and style-like editing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180131T084113Z" creationid="Jeff Huang" creationdate="20180131T084113Z">
-        <seg>表格樣式會在新版的Writer中加入，但目前表格只是手動與類樣式格式設定的混合體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T124012Z" creationid="Jeff Huang" creationdate="20180131T084113Z">
+        <seg>表格樣式會在新版的Writer中加入 (6.0 已加入)，在6.0版之前的表格只是手動與類樣式格式設定的混合體。</seg>
       </tuv>
     </tu>
     <tu>
