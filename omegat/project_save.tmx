@@ -11339,8 +11339,8 @@
       <tuv lang="EN">
         <seg>Are generally no more than &lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt; &lt;f3&gt;items&lt;/f3&gt; long.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133216Z" creationid="Jeff Huang" creationdate="20180201T031026Z">
-        <seg>一般來說長度不會超過&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;f3&gt;條項目&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133223Z" creationid="Jeff Huang" creationdate="20180201T031026Z">
+        <seg>一般來說清單長度不會超過&lt;f0&gt;6&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;8&lt;/f2&gt;&lt;f3&gt;條項目&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14911,11 +14911,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>漢語語法中，本身不會說甲、乙和丙這樣的語法，會直接說甲、乙、丙等。</note>
       <tuv lang="EN">
         <seg>Do not use an “and,” “or,” or any other word to introduce the last point in the list, even though that would be grammatically correct.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031342Z" creationid="Jeff Huang" creationdate="20180201T031342Z">
-        <seg>請不要在清單中的最後一點使用「和」、「或」，即便這在文法上並沒有問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133715Z" creationid="Jeff Huang" creationdate="20180201T031342Z">
+        <seg>如果是英文條目，請不要在清單中的最後一點使用「and」、「or」的字眼，而中文條目，則不要在最後一點使用「等」或「等等」的字眼，即便文法上這麼說並沒有錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23932,8 +23933,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Much longer, and the eas&lt;f4&gt;e&lt;/f4&gt; of reading is lost.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T031151Z" creationid="Jeff Huang" creationdate="20180201T031151Z">
-        <seg>如果清單太長就會造成閱讀不易。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133233Z" creationid="Jeff Huang" creationdate="20180201T031151Z">
+        <seg>如果清單太長會造成閱讀不易。</seg>
       </tuv>
     </tu>
     <tu>
