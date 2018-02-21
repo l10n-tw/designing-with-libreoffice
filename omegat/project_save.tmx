@@ -4212,6 +4212,19 @@
       </tuv>
     </tu>
     <tu>
+      <note>## 無視 ##
+f0
+
+## Workaround ##
+f1</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Left:&lt;/f0&gt; &lt;f1&gt;Reducing the space between characters improves the spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T141643Z" creationid="Ｖ字龍" creationdate="20180221T141643Z">
+        <seg>左：減少字元間的兼具以改善間距。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; The &lt;f1&gt;left side of the table aligns with the page’s left margin.</seg>
       </tuv>
@@ -4339,6 +4352,20 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144854Z" creationid="Franklin Weng" creationdate="20180216T144840Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;許多使用者 – 特別是沒經驗的 – 會認為試算表&lt;f1&gt;一定要讓每個儲存格都有邊框跟欄標列號，沒有的話就不叫試算表了。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>## 無視 ##
+* f0
+* f1
+
+## Workaround ##
+f2</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;iddle: &lt;f1&gt;C&lt;/f1&gt;reating your own ligature &lt;f2&gt;by moving characters together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T142541Z" creationid="Ｖ字龍" creationdate="20180221T142541Z">
+        <seg>中：藉由將字元移動在一起來創造自己的連字(ligature)。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13378,6 +13405,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T120857Z" creationid="zerng07" creationdate="20180205T120857Z">
         <seg>變更路徑取代影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing the spacing between characters using the &lt;f0&gt;Spacing&lt;/f0&gt; field on the &lt;f1&gt;Position&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T141435Z" creationid="Ｖ字龍" creationdate="20180221T141435Z">
+        <seg>使用&lt;f1&gt;位置&lt;/f1&gt;標籤頁中的&lt;f0&gt;間距&lt;/f0&gt;欄位以變更字元間的間距。</seg>
       </tuv>
     </tu>
     <tu>
