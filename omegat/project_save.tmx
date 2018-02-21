@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071254Z" creationid="Ｖ字龍" creationdate="20180221T071254Z">
+        <seg>&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;The Non-Designer’s Type Book&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Peachpit Press: Berkeley, 1998): A sequel to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;The&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Non-Designer’s Design Book,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; focusing on the details of typefaces and how to use them.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T151836Z" creationid="zerng07" creationdate="20171227T183929Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T171017Z" creationid="Franklin Weng" creationdate="20180120T125158Z">
         <seg>&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;除了設計有效的投影片以外，你也必須設計有效的表達方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071309Z" creationid="Ｖ字龍" creationdate="20180221T071309Z">
+        <seg>&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -795,6 +811,18 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155441Z" creationid="zerng07" creationdate="20171224T152955Z">
         <seg>&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;自動&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」檢視是您開啓新文件時的預設檢視畫面。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>* 無視：
+	* f2
+	* f4
+* 灰度之用法聽曾政嘉說要看第四章</note>
+      <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;These adjustments can help improve the page color of the body text.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T105832Z" creationid="Ｖ字龍" creationdate="20180221T104914Z">
+        <seg>&lt;t3/&gt;這些調整能幫助改善內文的灰度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5889,6 +5917,17 @@
       </tuv>
     </tu>
     <tu>
+      <note>* 無視：
+	* f0
+	* f3</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for character style includes settings for rotating text 90 (right angle to the baseline and above) and 270 degrees (right angle to the baseline and below).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T052715Z" creationid="Ｖ字龍" creationdate="20180221T052113Z">
+        <seg>字元樣式中的&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;標籤頁包含了用於旋轉文字90（將基線往順時針方向轉一個直角且文字方向朝上）與270度（將基線往順時針方向轉一個直角且文字方向朝下）的設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab sets up the spacing before bullets or numbers, and between the bullet or number and the text.</seg>
       </tuv>
@@ -6190,6 +6229,15 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080916Z" creationid="zerng07" creationdate="20180208T080916Z">
         <seg>&lt;f0&gt;結果通常看起來又擠又醜。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>無視 f0</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The rotation tools may be useful in brochure and ad designs, but they are very basic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T081608Z" creationid="Ｖ字龍" creationdate="20180221T081401Z">
+        <seg>旋轉工具在小冊子或是廣告設計上可能很實用，但它們的功能很簡陋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7373,6 +7421,20 @@
       </tuv>
     </tu>
     <tu>
+      <note>## 無視 ##
+* f1
+* f2
+* f3
+* f4
+</note>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Combinations&lt;/f1&gt; such as “Va,” “&lt;f2&gt;ll,”&lt;/f2&gt; &lt;f3&gt;and “&lt;/f3&gt;ff” &lt;f4&gt;can be improved in most fonts, and individual fonts may benefit from the adjustment of other combinations as well.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T111357Z" creationid="Ｖ字龍" creationdate="20180221T110652Z">
+        <seg>像是Va、ll、ff等字元組合在多數字型中的外觀皆可以被改進，而某些特定字型也有可能受惠於其他種字元組合的字距微調。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Create the list using the first style, then tick off an item by applying the second style to it.&lt;/f1&gt;</seg>
       </tuv>
@@ -7459,6 +7521,16 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T075752Z" creationid="Jeff Huang" creationdate="20180201T075752Z">
         <seg>&lt;f1&gt;不過，這些規則並沒有那麼死板。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>* 無視 f1、f4、f7
+* UI 翻譯：應改為「縮放字元寬度」較明確</note>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;However, you can adjust it using the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Scale width&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; field on the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Position&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T083301Z">
+        <seg>但是你可以使用&lt;f5&gt;&lt;f6&gt;位置&lt;/f6&gt;&lt;/f5&gt;標籤頁中的&lt;f2&gt;&lt;f3&gt;縮放（字元）寬度&lt;/f3&gt;&lt;/f2&gt;欄位來調整它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10074,6 +10146,17 @@
       </tuv>
     </tu>
     <tu>
+      <note>* 無視：
+	* f0
+	* f3</note>
+      <tuv lang="EN">
+        <seg>Above: &lt;f0&gt;Controls for rotating a character style on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071827Z" creationid="Ｖ字龍" creationdate="20180221T071827Z">
+        <seg>上圖：在&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;標籤頁中旋轉一個字元樣式的控制界面項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Above: Old style figures.</seg>
       </tuv>
@@ -10403,6 +10486,18 @@
       </tuv>
     </tu>
     <tu>
+      <note>* 無視：
+	* f0
+* 參考：
+	* https://en.wikipedia.org/wiki/Kerning</note>
+      <tuv lang="EN">
+        <seg>Adjusting &lt;f0&gt;character combinations (kerning)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T110135Z" creationid="Ｖ字龍" creationdate="20180221T110135Z">
+        <seg>調整字元組合的排印方位（字距微調(kerning)）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Adjusting &lt;f0&gt;column spacing&lt;/f0&gt;</seg>
       </tuv>
@@ -10424,6 +10519,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025912Z" creationid="Jeff Huang" creationdate="20180211T025912Z">
         <seg>調整&lt;f0&gt;表格間距&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adjusting font width</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T082039Z" creationid="Ｖ字龍" creationdate="20180221T082039Z">
+        <seg>調整字型寬度</seg>
       </tuv>
     </tu>
     <tu>
@@ -12265,6 +12368,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>上游應修正：右鍵選單應改為情境選單(context menu)</note>
+      <tuv lang="EN">
+        <seg>Below: Controls for rotating graphic text on a sample’s right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T072120Z" creationid="Ｖ字龍" creationdate="20180221T072120Z">
+        <seg>下圖：在一個樣本物件中的情境選單中的旋轉圖像文字的控制界面項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Below: E.B.</seg>
       </tuv>
@@ -13867,6 +13979,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110720Z" creationid="zerng07" creationdate="20171226T110525Z">
         <seg>因此，這個樣式清單充其量是個有限的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>省略 disordered</note>
+      <tuv lang="EN">
+        <seg>Consequently, you can do little to change the width of some fonts without producing a disordered mess.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T104314Z" creationid="Ｖ字龍" creationdate="20180221T104314Z">
+        <seg>因此你可以輕鬆變更某些字型的寬度而不造成一團亂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16235,6 +16356,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Maven Pro.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T095113Z" creationid="Ｖ字龍" creationdate="20180221T095113Z">
+        <seg>字型：Maven Pro。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Nobile.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171228T072328Z" creationid="Franklin Weng" creationdate="20171228T072328Z">
@@ -17401,6 +17530,26 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From top to bottom: 100%, 115%, and 85% character width.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T083548Z" creationid="Ｖ字龍" creationdate="20180221T083548Z">
+        <seg>從上至下：100%、115%與85%的字元寬度設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>* Workaround:
+	* f5
+* 上游應修正：
+	* 欄位內容無正確套用樣式</note>
+      <tuv lang="EN">
+        <seg>From top to bottom: The &lt;f0&gt;Text-to-text&lt;/f0&gt; field on the &lt;f1&gt;Alignment&lt;/f1&gt; tab set to &lt;f2&gt;Automatic &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(Base Line),&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Bottom, Middle, and Top.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T051850Z" creationid="Ｖ字龍" creationdate="20180221T051850Z">
+        <seg>從上至下：&lt;f1&gt;對齊&lt;/f1&gt;標籤頁中的&lt;f0&gt;文字對文字&lt;/f0&gt;欄位被設定為&lt;f2&gt;自動&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;（基線）&lt;/f4&gt;&lt;/f3&gt;、&lt;f2&gt;下緣&lt;/f2&gt;、&lt;f2&gt;中緣&lt;/f2&gt;與&lt;f2&gt;上緣&lt;/f2&gt;。&lt;f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Front matter such as copyright notices and acknowledgments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104144Z" creationid="Jeff Huang" creationdate="20180124T133343Z">
@@ -17712,6 +17861,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視f6</note>
+      <tuv lang="EN">
+        <seg>Graphic text is text created with the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Drawing&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; toolbar, and is treated as a drawing object rather than as text.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T081304Z" creationid="Ｖ字龍" creationdate="20180221T071913Z">
+        <seg>圖像文字是以&lt;f4&gt;&lt;f5&gt;繪圖&lt;/f5&gt;&lt;/f4&gt;工具列所建立的文字物件，其被當作一個繪圖物件而非一般文字處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Graphic&lt;f0&gt;s&lt;/f0&gt; editors can be a more &lt;f1&gt;versatile and &lt;/f1&gt;reliable way of preparing images than the tools that LibreOffice itself provides.</seg>
       </tuv>
@@ -17733,6 +17891,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T072657Z" creationid="Jeff Huang" creationdate="20171213T023745Z">
         <seg>圖片、表格、圖表、其他物件等，都應該要盡可能靠近它們所指涉的文字旁邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Greater increases or decreases tend to look clumsy with most fonts, &lt;f0&gt;especially at smaller sizes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T095101Z" creationid="Ｖ字龍" creationdate="20180221T094837Z">
+        <seg>大幅的增加或降低該數值對多數字型來說都會使其外觀變醜，&lt;f0&gt;特別是在較低的文字大小&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18683,6 +18849,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視 f1</note>
+      <tuv lang="EN">
+        <seg>However, mostly you can leave the setting on &lt;f0&gt;Automatic&lt;/f0&gt;, which defaults so that all different font sizes are aligned by the base line&lt;f1&gt;.&lt;/f1&gt; In other words, you can usually safely ignore the setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T051249Z" creationid="Ｖ字龍" creationdate="20180221T051249Z">
+        <seg>然而，大多數情況下你可以將設定保留在&lt;f0&gt;自動&lt;/f0&gt;，其預設會將所有不同字型大小的文字都對齊於基線上。換句話說你通常可以安全地無視這個設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>However, note that:</seg>
       </tuv>
@@ -19233,6 +19408,19 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T164359Z" creationid="Franklin Weng" creationdate="20180105T121057Z">
         <seg>不過，在選擇上盡量挑不必費心調整就能彼此搭配的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>* 無視：
+	* f0
+	* f2
+* 省略：
+	* less or more than the default 100%</note>
+      <tuv lang="EN">
+        <seg>However,&lt;f0&gt; most fonts can stand 1&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;15&lt;f2&gt;% adjustments less or more than the default 100% without deteriorating too badly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T110810Z" creationid="Ｖ字龍" creationdate="20180221T104910Z">
+        <seg>但大多數的字型在不過度劣化的前提下只能承受約1&lt;f1&gt;-&lt;/f1&gt;15%，少於或多於預設的100%的寬度調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21432,6 +21620,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In pre-digital typesetting, changing the width of a font would also include changing the design of many of the individual characters to keep the proportions in the shape of the letter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T105415Z" creationid="Ｖ字龍" creationdate="20180221T104050Z">
+        <seg>在前數位時代的文件排版學中，變更字型的寬度包含了變更多個個別字元的設計以維持字母的形狀比例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some LibreOffice versions, a conflicting next style and page layout may cause layout problems, so make the two fields consistent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102322Z" creationid="Jeff Huang" creationdate="20180124T130850Z">
@@ -22425,6 +22621,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T025502Z" creationid="Jeff Huang" creationdate="20180210T025502Z">
         <seg>維持表格間距一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>無視 f0</note>
+      <tuv lang="EN">
+        <seg>Kerning is the &lt;f0&gt;spacing between characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T111455Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
+        <seg>字距微調是指字元間的留白大小處理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25969,6 +26174,15 @@ Franklin: 猜測如上</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視 f0</note>
+      <tuv lang="EN">
+        <seg>Professional printers sometimes adjust kerning &lt;/f0&gt;to improve the appearance of awkward combinations of letters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T110555Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
+        <seg>專業的印表機有時候會調整字距以改善某些尷尬的字母組合的外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Proprietary</seg>
       </tuv>
@@ -27788,11 +28002,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <note>* 無視 f8
+* Workaround f10
+</note>
       <tuv lang="EN">
         <seg>Similarly, with &lt;/f8&gt;&lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T110008Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
-        <seg>Similarly, with &lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T050317Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
+        <seg>同樣地，在&lt;f9&gt;上緣&lt;/f9&gt;被選取時，較小的字元被放置在最大的字元們的上部（在x-height之上的字母線條）的上緣。&lt;f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31944,6 +32161,16 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>* 上游：語意不太對，應該用 decided/defined 取代 interpreted？或是將 interpreted by 換成 interpreted from？
+* 無視f0</note>
+      <tuv lang="EN">
+        <seg>The width of characters is interpreted by Li&lt;f0&gt;b&lt;/f0&gt;reOffice’s reading of each font’s file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T082836Z" creationid="Ｖ字龍" creationdate="20180221T082221Z">
+        <seg>字元的寬度是LibreOffice從各字型檔案中解讀出來的。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>The window for each style throughout LibreOffice is divided into tabs.</seg>
       </tuv>
@@ -32171,6 +32398,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These adjustments do not happen with most digital fonts, and &lt;f0&gt;rarely&lt;/f0&gt; to the same degree.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T104143Z" creationid="Ｖ字龍" creationdate="20180221T104143Z">
+        <seg>這些調整在大多數數位字型中並不會發生，而且&lt;f0&gt;很少&lt;/f0&gt;會到同樣的程度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These advanced uses may not work if frames are not staying in place.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T135920Z" creationid="zerng07" creationdate="20180210T135920Z">
@@ -32319,6 +32554,19 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122437Z" creationid="zerng07" creationdate="20171226T122437Z">
         <seg>這些規則適用於&lt;f0&gt;所有類型的&lt;/f0&gt;樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>* 無視：
+	* f3
+	* f5
+
+</note>
+      <tuv lang="EN">
+        <seg>These settings are &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;mostly useful in a table heading, but both interfere with readability and should not be used if any alternative exists.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071630Z" creationid="Ｖ字龍" creationdate="20180221T052728Z">
+        <seg>這些設定在&lt;t4/&gt;表格標題中最為實用，但都會干擾文件的易讀性故而不應在任何替代方案存在的情況下被使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32751,6 +32999,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090259Z" creationid="Jeff Huang" creationdate="20171123T070800Z">
         <seg>這個動作可以讓你知道定下精準標題的價值所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>無視 f7</note>
+      <tuv lang="EN">
+        <seg>This feature is especially useful when you have no condensed or expanded version in a font family.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T083504Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
+        <seg>這個功能當你在一個字型家族中沒有沒有濃縮或展開版本的字型時特別實用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37553,6 +37810,16 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T082529Z" creationid="Jeff Huang" creationdate="20171213T034132Z">
         <seg>如果每一頁的文字內容都正好斷在&lt;f0&gt;最後一行&lt;/f0&gt;，你可能非常幸運（或經歷過一番痛苦）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>* 無視f0、f3
+* 上游：右鍵選單→情境導向選單</note>
+      <tuv lang="EN">
+        <seg>You will have more precision than these settings offer if you use graphical text – text treated as a drawing object – and then right-click and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position and size &gt; Rotation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; instead.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T082019Z" creationid="Ｖ字龍" creationdate="20180221T081410Z">
+        <seg>如果你使用繪圖文字——被當作繪圖物件處理的文字——然後開啟情境導向選單選取&lt;f1&gt;&lt;f2&gt;位置與大小 &gt; 旋轉&lt;/f2&gt;&lt;/f1&gt;而不使用前述設定介面的話你將可以獲得更大的調整精確度。</seg>
       </tuv>
     </tu>
     <tu>
