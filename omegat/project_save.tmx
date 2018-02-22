@@ -10264,8 +10264,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Add extra space between the number and the list item using &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;Indent at &lt;/f1&gt;&lt;f2&gt;field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T020449Z" creationid="Jeff Huang" creationdate="20180205T020449Z">
-        <seg>使用&lt;f1&gt;縮排&lt;/f1&gt;&lt;f2&gt;欄位在編號與清單項目間增加額外的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152520Z" creationid="Jeff Huang" creationdate="20180205T020449Z">
+        <seg>利用「&lt;f1&gt;縮排&lt;/f1&gt;&lt;f2&gt;」欄位在編號與清單項目內容之間加入額外的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24281,8 +24281,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Never have a list with more than nine items.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135501Z" creationid="Jeff Huang" creationdate="20180204T135501Z">
-        <seg>絕對不要讓清單項目多於九個。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152250Z" creationid="Jeff Huang" creationdate="20180204T135501Z">
+        <seg>絕對不要讓清單項目超過九個。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26578,8 +26578,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Rewrite lists that have more, &lt;f0&gt;combining steps or dividing one list into two or more shorter ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135625Z" creationid="Jeff Huang" creationdate="20180204T135625Z">
-        <seg>重寫有太多項目的清單，&lt;f0&gt;結合步驟或將一個清單分割成兩個或更多個短清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152342Z" creationid="Jeff Huang" creationdate="20180204T135625Z">
+        <seg>重寫太多項目的清單，&lt;f0&gt;把一些步驟結合起來，或是將一份清單拆分成兩份或更多份短清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32948,8 +32948,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This arrangement may make your instructions the easiest to remember.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135900Z" creationid="Jeff Huang" creationdate="20180204T135900Z">
-        <seg>這種排列方式應該會讓你的說明最容易被記住。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152445Z" creationid="Jeff Huang" creationdate="20180204T135900Z">
+        <seg>這樣的安排應該能讓你的說明指示更容易記住。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
