@@ -4162,8 +4162,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;evels can be ordered using Arabic numerals, upper and lower case Roman numerals, &lt;f1&gt;and &lt;/f1&gt;upper and lower case letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092252Z" creationid="Jeff Huang" creationdate="20180201T074145Z">
-        <seg>不同的層級可以用阿拉伯數字、大小寫羅馬數字、大小寫字母等來排序。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135653Z" creationid="Jeff Huang" creationdate="20180201T074145Z">
+        <seg>不同的層級可以用阿拉伯數字、大小寫羅馬數字、大小寫英文字母等來排序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8683,8 +8683,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f2&gt;These characters are added automatically whenever the list style they are attached to is applied.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133642Z" creationid="Jeff Huang" creationdate="20180203T133642Z">
-        <seg>&lt;f2&gt;這些字元會在套用清單樣式時自動新增。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T140736Z" creationid="Jeff Huang" creationdate="20180203T133642Z">
+        <seg>&lt;f2&gt;這些字元會在套用清單樣式後自動加到編號中。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9063,8 +9063,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f4&gt;Instead, add your own styles and give them d&lt;/f4&gt;escriptive names like &lt;f5&gt;Arabic &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Numeral &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Blue &lt;/f8&gt;&lt;f9&gt;or &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Lower Case Indented&lt;/f11&gt;&lt;/f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T104030Z" creationid="Jeff Huang" creationdate="20180201T090414Z">
-        <seg>&lt;f4&gt;所以，請加入你自己的樣式並給它們&lt;/f4&gt;取個描述性名稱，例如：&lt;f5&gt;阿拉伯&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;數字&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;藍&lt;/f8&gt;&lt;f9&gt;，或是&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;小寫字母縮排&lt;/f11&gt;&lt;/f10&gt;之類。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135710Z" creationid="Jeff Huang" creationdate="20180201T090414Z">
+        <seg>&lt;f4&gt;所以，請加入你自己的樣式並給它們&lt;/f4&gt;取個描述性名稱，例如：&lt;f5&gt;阿拉伯&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;數字&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;藍&lt;/f8&gt;&lt;f9&gt;，或是&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;小寫英文字母縮排&lt;/f11&gt;&lt;/f10&gt;之類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10375,8 +10375,8 @@ f2</note>
       <tuv lang="EN">
         <seg>Adding characters before &lt;f0&gt;and&lt;/f0&gt; after numbers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133431Z" creationid="Jeff Huang" creationdate="20180203T133431Z">
-        <seg>新增字元到編號前&lt;f0&gt;與&lt;/f0&gt;後</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135738Z" creationid="Jeff Huang" creationdate="20180203T133431Z">
+        <seg>添加字元到編號之前&lt;f0&gt;和&lt;/f0&gt;編號之後</seg>
       </tuv>
     </tu>
     <tu>
@@ -11271,8 +11271,8 @@ f2</note>
       <tuv lang="EN">
         <seg>Another alternative is Arabic numbers followed by lower case letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092348Z" creationid="Jeff Huang" creationdate="20180201T075731Z">
-        <seg>另一種做法是先用阿拉伯數字，再用小寫字母。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135705Z" creationid="Jeff Huang" creationdate="20180201T075731Z">
+        <seg>另一種做法是先用阿拉伯數字，再用小寫英文字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13198,8 +13198,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Can start with either an upper or lower case letter, so long as the convention is consistent throughout the list and the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132958Z" creationid="Jeff Huang" creationdate="20180201T030247Z">
-        <seg>可以用大寫或小寫字母開始，只要清單與整份文件中都維持一致就行了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135649Z" creationid="Jeff Huang" creationdate="20180201T030247Z">
+        <seg>可以用大寫或小寫英文字母開始，只要清單與整份文件中都維持一致就行了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24613,8 +24613,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Numbered lists: &lt;f0&gt;O&lt;/f0&gt;rdered lists whose items start with a number, upper or lower case letters, or upper and lower case Roman numerals.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T124220Z" creationid="Jeff Huang" creationdate="20180131T091409Z">
-        <seg>編號清單：以數字、大小寫字母、大小寫羅馬數字等起頭的有序清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135645Z" creationid="Jeff Huang" creationdate="20180131T091409Z">
+        <seg>編號清單：以數字、大小寫英文字母、大小寫羅馬數字等起頭的有序清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34799,8 +34799,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Upper case Roman numerals are usually reserved for the top level, and upper case letters &lt;f0&gt;are used before lower case ones&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092326Z" creationid="Jeff Huang" creationdate="20180201T074336Z">
-        <seg>大寫的羅馬數字通常用於最高層級，而大寫字母&lt;f0&gt;則比小寫字母早使用。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135702Z" creationid="Jeff Huang" creationdate="20180201T074336Z">
+        <seg>大寫的羅馬數字通常用於最高層級，而大寫英文字母&lt;f0&gt;則比小寫英文字母早使用。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37183,8 +37183,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can set up to 40 characters before or after the actual number using the &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T133544Z" creationid="Jeff Huang" creationdate="20180203T133544Z">
-        <seg>你可以使用&lt;f0&gt;在這之前&lt;/f0&gt;與&lt;f1&gt;在這之後&lt;/f1&gt;欄位來設定最多40個字元到實際的編號前面或後面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135844Z" creationid="Jeff Huang" creationdate="20180203T133544Z">
+        <seg>你可以利用「&lt;f0&gt;在這之前&lt;/f0&gt;」與「&lt;f1&gt;在這之後&lt;/f1&gt;」欄位設定多達40個字元到真正編號部分的前面或後面。</seg>
       </tuv>
     </tu>
     <tu>
