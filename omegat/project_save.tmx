@@ -1513,8 +1513,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adjust the size of the numbers using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Options &gt; Character Style.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T020827Z" creationid="Jeff Huang" creationdate="20180205T020827Z">
-        <seg>使用&lt;f1&gt;&lt;f2&gt;「選項 &gt; 字元樣式」&lt;/f2&gt;&lt;/f1&gt;&lt;f0&gt;來調整編號大小。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152632Z" creationid="Jeff Huang" creationdate="20180205T020827Z">
+        <seg>使用「&lt;f1&gt;&lt;f2&gt;自訂 &gt; 字元樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f0&gt;」調整數字大小。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5436,8 +5436,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbering Alignment &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;to&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Right&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021245Z" creationid="Jeff Huang" creationdate="20180205T021245Z">
-        <seg>&lt;f0&gt;將&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;設定為&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;右&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152646Z" creationid="Jeff Huang" creationdate="20180205T021245Z">
+        <seg>&lt;f0&gt;將「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」設定為「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;右&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14547,8 +14547,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>D&lt;/f2&gt;o not add so much space that the association between numbers and list items is lost.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T020605Z" creationid="Jeff Huang" creationdate="20180205T020605Z">
-        <seg>&lt;/f2&gt;不要加入太多間距，這會讓編號與清單項目間的關聯遺失。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152603Z" creationid="Jeff Huang" creationdate="20180205T020605Z">
+        <seg>&lt;/f2&gt;間距不能太大，否則會失去編號與清單項目之間的關聯性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35447,8 +35447,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Watch that this change does not extend numbers into the left margin.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021340Z" creationid="Jeff Huang" creationdate="20180205T021340Z">
-        <seg>請注意，這個變動不會將編號延展到左邊距。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T153042Z" creationid="Jeff Huang" creationdate="20180205T021340Z">
+        <seg>注意設定時不要讓編號延伸到左邊距中。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
