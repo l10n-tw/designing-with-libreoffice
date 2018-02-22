@@ -6743,8 +6743,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Unless extra spacing is provided, t&lt;/f0&gt;he &lt;f1&gt;list items are displaced&lt;/f1&gt; w&lt;f2&gt;hen the numbering enters two digits.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135022Z" creationid="Jeff Huang" creationdate="20180204T135022Z">
-        <seg>&lt;f0&gt;除非有額外的間距，&lt;/f0&gt;&lt;f1&gt;否則當編號輸入兩位數字時&lt;/f1&gt;&lt;f2&gt;清單項目可能也會被取代。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152214Z" creationid="Jeff Huang" creationdate="20180204T135022Z">
+        <seg>&lt;f0&gt;除非有給額外間距，&lt;/f0&gt;&lt;f1&gt;否則只要編號變成兩位數字時&lt;/f1&gt;&lt;f2&gt;清單項目的位置就會改變。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37517,8 +37517,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You have several options to correct this problem:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T135341Z" creationid="Jeff Huang" creationdate="20180204T135341Z">
-        <seg>你有幾個選項來校正這個問題：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152239Z" creationid="Jeff Huang" creationdate="20180204T135341Z">
+        <seg>想要修正這個問題你有以下幾種選擇：</seg>
       </tuv>
     </tu>
     <tu>
