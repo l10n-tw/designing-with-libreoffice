@@ -1571,8 +1571,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Aligned at&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;:&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;S&lt;/f3&gt;ets where the numbers or bullets are &lt;f4&gt;on the line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134446Z" creationid="Jeff Huang" creationdate="20180203T131707Z">
-        <seg>&lt;f0&gt;對齊位置&lt;/f0&gt;：設定編號或項目符號在&lt;f4&gt;行中的位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134807Z" creationid="Jeff Huang" creationdate="20180203T131707Z">
+        <seg>&lt;f0&gt;對齊&lt;/f0&gt;：設定編號或項目符號在&lt;f4&gt;行中的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6507,8 +6507,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To create a numbered list, select a numbering style from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Number&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132555Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
-        <seg>&lt;f0&gt;要建立符號清單，從位於&lt;f4&gt;&lt;f5&gt;選項&lt;/f5&gt;&lt;/f4&gt;標籤頁中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位選取編號樣式。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135424Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
+        <seg>&lt;f0&gt;要建立符號清單，從「&lt;f4&gt;&lt;f5&gt;自訂&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;數字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位選取編號樣式。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17409,8 +17409,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Formatting ordered (numbered) lists</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132323Z" creationid="Jeff Huang" creationdate="20180203T132323Z">
-        <seg>對有序（編號）清單進行格式設定</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134943Z" creationid="Jeff Huang" creationdate="20180203T132323Z">
+        <seg>設定有序（編號）清單的格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -33345,8 +33345,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This setting should not be more than about two line-heights, or else the connection between the bullet or number and the text might be lost.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T132239Z" creationid="Jeff Huang" creationdate="20180203T132239Z">
-        <seg>這個設定不應該超過兩倍行高，否則項目符號與編號和文字的連接可能會消失。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134920Z" creationid="Jeff Huang" creationdate="20180203T132239Z">
+        <seg>這個設定不應該超過兩倍行高，否則可能會喪失項目符號或編號與文字之間的關聯性。</seg>
       </tuv>
     </tu>
     <tu>
