@@ -24609,8 +24609,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Numbered lists with two digits can displace list items, &lt;f0&gt;upsetting your carefully calculated designs by offsetting the text too much.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T134558Z" creationid="Jeff Huang" creationdate="20180204T134558Z">
-        <seg>兩位數字的清單編號可能會取代清單項目，&lt;f0&gt;因為文字會偏移太多而擾亂你精心計算過的設計。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152051Z" creationid="Jeff Huang" creationdate="20180204T134558Z">
+        <seg>兩位數字編號可能會讓清單項目內容易位，&lt;f0&gt;文字如果偏移太多會擾亂你精心計算過的設計。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36384,8 +36384,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Working with two-digit list numbers</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143641Z" creationid="Jeff Huang" creationdate="20180204T133035Z">
-        <seg>處理二位數字清單編號</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T145010Z" creationid="Jeff Huang" creationdate="20180204T133035Z">
+        <seg>處理二位數字編號清單</seg>
       </tuv>
     </tu>
     <tu>
