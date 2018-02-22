@@ -3142,8 +3142,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For most purposes, you probably have no reason to change these defaults.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143116Z" creationid="Jeff Huang" creationdate="20180204T035450Z">
-        <seg>&lt;f0&gt;對大多數用途來說，你大概不需要修改這個預設值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143525Z" creationid="Jeff Huang" creationdate="20180204T035450Z">
+        <seg>&lt;f0&gt;對絕大多數文件的用途來說，你大概不必修改這個預設值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13928,8 +13928,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Common modifications include making the numbers or bullets larger, giving them a corporate color, making them bold, or using a condensed version of a font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T040213Z" creationid="Jeff Huang" creationdate="20180204T040213Z">
-        <seg>常見的變動包含了讓編號或項目符號變得更大，讓讓它們的顏色類似或互補，讓它們變成粗體或是使用窄版字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143447Z" creationid="Jeff Huang" creationdate="20180204T040213Z">
+        <seg>常見的修改有：讓編號或項目符號變得更大、讓色彩改成企業識別色、改成粗體、使用窄體字型等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37611,8 +37611,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You may need to change the text indent if you use a larger font, especially for two or three digit numbers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T132500Z" creationid="Jeff Huang" creationdate="20180204T132500Z">
-        <seg>如果你使用了較大的字型，你可能需要變更文字縮排，特別是二或三位數的編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143616Z" creationid="Jeff Huang" creationdate="20180204T132500Z">
+        <seg>如果你用了更大的字型，你可能也要改變文字縮排，尤其是二位或三位數的數字編號。</seg>
       </tuv>
     </tu>
     <tu>
