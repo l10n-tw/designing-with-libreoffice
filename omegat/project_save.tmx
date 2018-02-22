@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Set the exact tab in the &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;at&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; field directly below the drop-down list.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131525Z" creationid="Jeff Huang" creationdate="20180203T131525Z">
-        <seg>&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;&lt;f14&gt;在&lt;/f14&gt;&lt;/f13&gt;下拉清單下的&lt;f15&gt;欄位中直接設定準確的落點。&lt;/f15&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134327Z" creationid="Jeff Huang" creationdate="20180203T131525Z">
+        <seg>&lt;/f11&gt;&lt;/f10&gt;在下拉選單下的「&lt;f13&gt;&lt;f14&gt;定位落點&lt;/f14&gt;&lt;/f13&gt;」&lt;f15&gt;欄位中直接設定準確的落點。&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4646,8 +4646,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Numbering followed &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;by:&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Sets the space between the number or bullet and the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130934Z" creationid="Jeff Huang" creationdate="20180203T130934Z">
-        <seg>&lt;f0&gt;編號後&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;接：&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;在編號或項目符號與文字間設定間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T133950Z" creationid="Jeff Huang" creationdate="20180203T130934Z">
+        <seg>&lt;f0&gt;編號後接：&lt;/f0&gt;&lt;f3&gt;設定編號或項目符號與文字之間的空白間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11035,8 +11035,8 @@ f2</note>
       <tuv lang="EN">
         <seg>Although the choices include &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;space&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;nothing,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; the choice that offers the most control is&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Tab Stop.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131226Z" creationid="Jeff Huang" creationdate="20180203T131226Z">
-        <seg>雖然選項包含了&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;空格&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;或&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;無，&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;但選項中提供最大的可自訂程度的是&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;定位落點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134115Z" creationid="Jeff Huang" creationdate="20180203T131226Z">
+        <seg>雖然選項還有「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;空格&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」或「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;無&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」，但其中最能給你控制權的是「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;定位落點」。</seg>
       </tuv>
     </tu>
     <tu>
