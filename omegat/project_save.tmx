@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If the value &lt;f1&gt;of the &lt;/f1&gt;&lt;f2&gt;Numbering Alignment&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;is 0, then choosing &lt;f4&gt;Center&lt;/f4&gt; or &lt;f5&gt;Right&lt;/f5&gt; can force the numbers into the left margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T133858Z" creationid="Jeff Huang" creationdate="20180203T130840Z">
-        <seg>&lt;/f0&gt;如果「&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;f1&gt;」的對齊值&lt;/f1&gt;為0的話，則選擇「&lt;f4&gt;置中&lt;/f4&gt;」或「&lt;f5&gt;右&lt;/f5&gt;」可以強迫數字進入左邊距中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T153108Z" creationid="Jeff Huang" creationdate="20180203T130840Z">
+        <seg>&lt;/f0&gt;如果「&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;f1&gt;」的對齊值&lt;/f1&gt;設為0的話，則選擇「&lt;f4&gt;置中&lt;/f4&gt;」或「&lt;f5&gt;右&lt;/f5&gt;」可以強迫數字進入左邊距中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35447,8 +35447,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Watch that this change does not extend numbers into the left margin.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T153042Z" creationid="Jeff Huang" creationdate="20180205T021340Z">
-        <seg>注意設定時不要讓編號延伸到左邊距中。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T153139Z" creationid="Jeff Huang" creationdate="20180205T021340Z">
+        <seg>注意修改對齊數值時不要讓編號延伸到左邊距中。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
