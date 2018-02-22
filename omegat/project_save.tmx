@@ -1567,6 +1567,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>等等，這從哪裡出現的？有這個新解釋代表和上面的「對齊」Aligned at 是不一樣的東西，但我沒看到這一欄啊。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Aligned at&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;:&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;S&lt;/f3&gt;ets where the numbers or bullets are &lt;f4&gt;on the line.</seg>
       </tuv>
@@ -4097,8 +4098,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Indent at:&lt;/f0&gt; &lt;f1&gt;S&lt;/f1&gt;ets &lt;f2&gt;the start of&lt;/f2&gt; &lt;f3&gt;the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131856Z" creationid="Jeff Huang" creationdate="20180203T131856Z">
-        <seg>&lt;f0&gt;縮排：&lt;/f0&gt;設定文字&lt;f2&gt;的起始點&lt;/f2&gt;。&lt;f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134727Z" creationid="Jeff Huang" creationdate="20180203T131856Z">
+        <seg>&lt;f0&gt;縮排：&lt;/f0&gt;設定文字&lt;f2&gt;開始的起點&lt;/f2&gt;。&lt;f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21472,8 +21473,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many cases, this setting is 0 points – that is, against the left margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T131740Z" creationid="Jeff Huang" creationdate="20180203T131740Z">
-        <seg>在大多數的情況下，這個設定是0點，也就是左邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134625Z" creationid="Jeff Huang" creationdate="20180203T131740Z">
+        <seg>在大多數的情況下設定為0點，也就是左邊距。</seg>
       </tuv>
     </tu>
     <tu>
