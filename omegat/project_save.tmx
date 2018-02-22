@@ -4159,8 +4159,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;L&lt;/f0&gt;evels can be ordered using Arabic numerals, upper and lower case Roman numerals, &lt;f1&gt;and &lt;/f1&gt;upper and lower case letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T142923Z" creationid="Jeff Huang" creationdate="20180201T074145Z">
-        <seg>不同的層級可以使用阿拉伯數字、大寫與小寫的羅馬數字、大小寫字母等來排序。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092252Z" creationid="Jeff Huang" creationdate="20180201T074145Z">
+        <seg>不同的層級可以用阿拉伯數字、大小寫羅馬數字、大小寫字母等來排序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7546,8 +7546,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;However, these rules are not fixed.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T075752Z" creationid="Jeff Huang" creationdate="20180201T075752Z">
-        <seg>&lt;f1&gt;不過，這些規則並沒有那麼死板。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092443Z" creationid="Jeff Huang" creationdate="20180201T075752Z">
+        <seg>&lt;f1&gt;不過，這些規則並沒有那麼一板一眼。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11268,8 +11268,8 @@ f2</note>
       <tuv lang="EN">
         <seg>Another alternative is Arabic numbers followed by lower case letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T075731Z" creationid="Jeff Huang" creationdate="20180201T075731Z">
-        <seg>另一種選擇是阿拉伯數字後面跟著小寫字母。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092348Z" creationid="Jeff Huang" creationdate="20180201T075731Z">
+        <seg>另一種做法是先用阿拉伯數字，再用小寫字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21705,8 +21705,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In technical manuals, you used to see multiple levels in a heading (for instance, I.A.2 or 1.1.1).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T080103Z" creationid="Jeff Huang" creationdate="20180201T080103Z">
-        <seg>在技術手冊中，你可能會在標題中看到多個層級（如I.A.2或1.1.1）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092506Z" creationid="Jeff Huang" creationdate="20180201T080103Z">
+        <seg>在技術手冊中，你可能會在標題中看到使用多個層級的做法（如I.A.2或1.1.1之類）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34791,8 +34791,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Upper case Roman numerals are usually reserved for the top level, and upper case letters &lt;f0&gt;are used before lower case ones&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180201T074336Z" creationid="Jeff Huang" creationdate="20180201T074336Z">
-        <seg>大寫的羅馬數字通常用於最高層級，而大寫字母&lt;f0&gt;則在小寫字母前使用。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092326Z" creationid="Jeff Huang" creationdate="20180201T074336Z">
+        <seg>大寫的羅馬數字通常用於最高層級，而大寫字母&lt;f0&gt;則比小寫字母早使用。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35281,8 +35281,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Usually, a different number&lt;f0&gt;ing system&lt;/f0&gt; is used for each level &lt;f1&gt;to help distinguish them&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T142902Z" creationid="Jeff Huang" creationdate="20180201T074026Z">
-        <seg>一般來說，每個層級都會使用不同的&lt;f0&gt;編號系統&lt;/f0&gt;&lt;f1&gt;以協助分辨&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T092228Z" creationid="Jeff Huang" creationdate="20180201T074026Z">
+        <seg>一般來說，每個層級都會用不同的&lt;f0&gt;編號系統&lt;/f0&gt;&lt;f1&gt;協助分辨&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
