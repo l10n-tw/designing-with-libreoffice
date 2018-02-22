@@ -19041,11 +19041,11 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>看不懂？WTF… 推測如下：
-因為是要在清單中接個沒有編號的段落嘛，所以縮排同上面的有編號清單樣式，但是這個條目段落的前面不必有編號或項目符號，以這種方式「繼續」下去。
-但如果真的想要在這條段落的前面放個什麼東西（例如文字或任何有的沒有）的話，可以利用「在這之前」的欄位寫進去。
+      <note>一開始看也不是很懂。WTF… 推測如下：
+因為是要在清單中接個沒有編號的段落嘛，所以縮排同上面的有編號清單樣式，但是這個條目段落的前面不必有編號或項目符號。
+但因為現在在討論命名方式，然後這個預先定義樣式名稱剛好叫作「清單繼續」，就暗示說可以利用「在這之前」的欄位把「（繼續）」這些文字寫進去，讓所作的樣式設定真的和樣式名稱有了關聯。
 
-英文表達成這樣看不懂啦，所以中文版還是改寫成中文人看得懂的語句比較好。</note>
+看到後面有講「在這之前」的解說時才看懂…</note>
       <tuv lang="EN">
         <seg>However, the &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;name suggests using it with &lt;/f4&gt;a list style with the &lt;f5&gt;Numbering&lt;/f5&gt; &lt;f6&gt;field &lt;/f6&gt;set to &lt;f7&gt;None&lt;/f7&gt; on the &lt;f8&gt;Options&lt;/f8&gt; tab, and &lt;f9&gt;(continued)&lt;/f9&gt; or the equivalent in the &lt;f10&gt;Before&lt;/f10&gt; field.</seg>
       </tuv>
