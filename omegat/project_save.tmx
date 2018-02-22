@@ -7588,12 +7588,14 @@ f2</note>
       </tuv>
     </tu>
     <tu>
-      <note>可以請作者說中文嗎？還有如果是要反諷的話，可以寫明白一點嗎？T-T 這個到底是在講什麼東西啦！</note>
+      <note>可以請作者說中文嗎？還有如果是要反諷的話，可以寫明白一點嗎？T-T 這個到底是在講什麼東西啦！
+Frank版：真要說的話，用把圖表標示的字變小的方式來省空間，結果反而會讓先放影像來定位的便利性消失。
+Zerngjia: 但作者建議影像最後放比較不會跑版，所以 the convenience of adding the image in the first place 應該不是指「先放影像的便利性」，應該是「起初」、「一開始」就犧牲掉了使用者加影像時的方便性，綁手綁腳的感覺。</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;If anything, a smaller font for captions removes much of the convenience of adding the image in the first place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T134506Z" creationid="zerng07" creationdate="20180210T090849Z">
-        <seg>&lt;f1&gt;真要說的話，用把圖表標示的字變小的方式來省空間，結果反而會讓先放影像來定位的便利性消失。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T144715Z" creationid="zerng07" creationdate="20180210T090849Z">
+        <seg>&lt;f1&gt;真要說的話，把圖表標示的字變小來節省空間的想法，一開始就大幅犧牲增添影像時的便利性，變得礙手礙腳。</seg>
       </tuv>
     </tu>
     <tu>
