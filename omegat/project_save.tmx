@@ -23898,11 +23898,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>蛤？</note>
       <tuv lang="EN">
         <seg>More elaborately, you might set a paragraph style to start at the top of the page, then attach to it a list style with text so that the paragraph style will automatically add text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134658Z" creationid="Jeff Huang" creationdate="20180203T134658Z">
-        <seg>更準確地說，你可以設定一個從頁面頂部開始的段落樣式，然後附上一個帶有文字的段落樣式，這樣段落樣式就會自動新增文字了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T142332Z" creationid="Jeff Huang" creationdate="20180203T134658Z">
+        <seg>有個很精巧的用法，你可以設定一個從頁面頂端開始的段落樣式，然後讓它附上帶有文字的清單樣式，如此一來這個段落樣式就能自動新增文字了。</seg>
       </tuv>
     </tu>
     <tu>
