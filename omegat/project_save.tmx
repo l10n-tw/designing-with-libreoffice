@@ -3142,8 +3142,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For most purposes, you probably have no reason to change these defaults.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T035450Z" creationid="Jeff Huang" creationdate="20180204T035450Z">
-        <seg>&lt;f0&gt;對於大多數用途來說，你應該不需要變更這些預設值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143116Z" creationid="Jeff Huang" creationdate="20180204T035450Z">
+        <seg>&lt;f0&gt;對大多數用途來說，你大概不需要修改這個預設值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12997,8 +12997,8 @@ f2</note>
       <tuv lang="EN">
         <seg>By default, &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Character Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field for &lt;/f3&gt;numbered lists &lt;f4&gt;is set to the&lt;/f4&gt; &lt;f5&gt;Numbering Symbol&lt;/f5&gt; character style, &lt;f6&gt;and for bulleted lists to the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Bullets&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; character style.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T035352Z" creationid="Jeff Huang" creationdate="20180204T035352Z">
-        <seg>預設情況下，編號清單的&lt;f1&gt;&lt;f2&gt;字元樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f4&gt;被設定為&lt;/f4&gt;&lt;f5&gt;編號符號&lt;/f5&gt;字元樣式，&lt;f6&gt;與項目符號供&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;項目符號&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;字元樣式使用。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143053Z" creationid="Jeff Huang" creationdate="20180204T035352Z">
+        <seg>預設情況下，編號清單的「&lt;f1&gt;&lt;f2&gt;字元樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位&lt;/f3&gt;&lt;f4&gt;設定為「&lt;/f4&gt;&lt;f5&gt;編號字元&lt;/f5&gt;」字元樣式，&lt;f6&gt;而項目符號清單則為「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;項目符號&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」字元樣式。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34648,8 +34648,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Unless modified, these&lt;/f0&gt; character style&lt;f1&gt;s&lt;/f1&gt; use the same font and font size as the &lt;f2&gt;Default &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Style&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; c&lt;/f5&gt;haracter style, and appl&lt;f6&gt;y&lt;/f6&gt; to both the number and any text in the &lt;f7&gt;Before&lt;/f7&gt; or &lt;f8&gt;After&lt;/f8&gt; fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T035854Z" creationid="Jeff Huang" creationdate="20180204T035854Z">
-        <seg>除非經過修改，否則這些&lt;/f0&gt;字元樣式會使用與&lt;f2&gt;預設&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;樣式&lt;/f4&gt;&lt;/f3&gt;字元樣式相同的字型與大小，並同時套用到編號與任何在&lt;f7&gt;在這之前&lt;/f7&gt;或&lt;f8&gt;在這之後&lt;/f8&gt;欄位中的文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T143251Z" creationid="Jeff Huang" creationdate="20180204T035854Z">
+        <seg>除非經過修改，否則這些&lt;/f0&gt;字元樣式會使用與「&lt;f2&gt;預設&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;樣式&lt;/f4&gt;&lt;/f3&gt;」字元樣式相同的字型與大小，並同時套用到數字以及「&lt;f7&gt;在這之前&lt;/f7&gt;」或「&lt;f8&gt;在這之後&lt;/f8&gt;」欄位中的文字上。</seg>
       </tuv>
     </tu>
     <tu>
