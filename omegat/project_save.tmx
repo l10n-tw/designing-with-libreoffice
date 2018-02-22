@@ -4638,8 +4638,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Numbering Alignment:&lt;/f0&gt; How the bullet or number is aligned.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T130059Z" creationid="Jeff Huang" creationdate="20180203T130059Z">
-        <seg>&lt;f0&gt;編號對齊：&lt;/f0&gt;項目符號或編號要如何對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T133030Z" creationid="Jeff Huang" creationdate="20180203T130059Z">
+        <seg>&lt;f0&gt;編號對齊：&lt;/f0&gt;項目符號或編號的對齊方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18728,8 +18728,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, if you use any &lt;f2&gt;Numbering Alignment&lt;/f2&gt; except&lt;f3&gt; Left,&lt;/f3&gt; numbers set this field to another value.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T125914Z" creationid="Jeff Huang" creationdate="20180203T125914Z">
-        <seg>不過，如果你使用任何除了&lt;f3&gt;左邊&lt;/f3&gt;以外的&lt;f2&gt;編號對齊方式&lt;/f2&gt;，此欄的數字就要設定成其他值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132756Z" creationid="Jeff Huang" creationdate="20180203T125914Z">
+        <seg>不過，如果你的「&lt;f2&gt;編號對齊&lt;/f2&gt;」用了「&lt;f3&gt;左&lt;/f3&gt;」以外的任何方式，此欄的數字就要改成其他值。</seg>
       </tuv>
     </tu>
     <tu>
