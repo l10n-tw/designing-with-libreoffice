@@ -6872,8 +6872,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; the &lt;f1&gt;Before, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;After,&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and/or&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Show sublevels &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;fields&lt;/f7&gt; mean&lt;f8&gt;s&lt;/f8&gt; that the &lt;f9&gt;settings on the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Position&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; tab need to be adjusted so there is enough space between the number and the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180204T034404Z" creationid="Jeff Huang" creationdate="20180204T034404Z">
-        <seg>&lt;f0&gt;使用&lt;/f0&gt;&lt;f1&gt;在這之前、&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;在這之後&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;與／或&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;顯示子層級&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;欄位&lt;/f7&gt;代表了&lt;f9&gt;位於&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;位置&lt;/f11&gt;&lt;/f10&gt;標籤頁上的設定需要被調整以讓數字與文字間有足夠的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T142815Z" creationid="Jeff Huang" creationdate="20180204T034404Z">
+        <seg>&lt;f0&gt;若要使用「&lt;/f0&gt;&lt;f1&gt;在這之前&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;」、「在這之後&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」與或「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;顯示子層級&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」欄位，&lt;/f7&gt;則需要調整「&lt;f10&gt;&lt;f11&gt;位置&lt;/f11&gt;&lt;/f10&gt;」標籤頁中的設定以便讓數字與文字之間有足夠的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16789,8 +16789,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you decided to show three sublevels, the first use of the third sublevel would be numbered 1.1.1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T134953Z" creationid="Jeff Huang" creationdate="20180203T134953Z">
-        <seg>舉例來說，如果你決定要顯示三個子層級，第三個子層級的第一個被使用的編號就會是1.1.1。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T142535Z" creationid="Jeff Huang" creationdate="20180203T134953Z">
+        <seg>舉例來說，如果你決定要顯示三層子層級，則第三個子層級的第一個編號會是1.1.1。</seg>
       </tuv>
     </tu>
     <tu>
