@@ -8778,8 +8778,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f2&gt;You can go to the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Hidden&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; view and unhide them later if you decide you need them after all.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133701Z" creationid="Jeff Huang" creationdate="20180202T133701Z">
-        <seg>&lt;f2&gt;你可以在稍後到&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;已隱藏&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來檢視並將它們取消隱藏，不過這是在你確定還是需要它們的情況下。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114540Z" creationid="Jeff Huang" creationdate="20180202T133701Z">
+        <seg>&lt;f2&gt;如果你最後決定還是需要用到的話，可以再到「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;隱藏樣式&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」的檢視畫面中取消隱藏。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17819,8 +17819,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Give related styles similar names and you can locate the ones you need more quickly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133836Z" creationid="Jeff Huang" creationdate="20180202T133836Z">
-        <seg>給相關的樣式類似的名稱，然後你就可以在你需要它們的時候更快地找到。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114638Z" creationid="Jeff Huang" creationdate="20180202T133836Z">
+        <seg>為相關的樣式取類似的名稱，這樣就可以在你需要的時候更快找到它們。</seg>
       </tuv>
     </tu>
     <tu>
