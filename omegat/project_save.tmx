@@ -3533,8 +3533,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, the most effective approach is to create a paragraph style that is attached to the list style.&lt;/f0&gt; Go to &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Numbering &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;tyle&lt;/f5&gt; field on the &lt;f6&gt;Outline &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&amp;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Numbering&lt;/f9&gt; tab for the paragraph style, and select the list style from the drop-down list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134713Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
-        <seg>&lt;f0&gt;不過最有效的方式是建立附加到清單樣式的段落樣式。&lt;/f0&gt;到位於段落樣式裡的&lt;f6&gt;大綱&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;與&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;編號&lt;/f9&gt;標籤頁中的&lt;f2&gt;編號&lt;/f2&gt;&lt;f5&gt;樣式&lt;/f5&gt;欄位，然後從下拉式清單中選取清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T115715Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
+        <seg>&lt;f0&gt;不過，最有效率的方法是直接建立個附帶清單樣式的段落樣式。&lt;/f0&gt;請前往段落樣式的「&lt;f6&gt;大綱&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;與&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;編號&lt;/f9&gt;」標籤頁，在「&lt;f2&gt;編號&lt;/f2&gt;&lt;f5&gt;樣式&lt;/f5&gt;」欄位的下拉選單中選取所要的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19037,7 +19037,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>我看不懂… WTF</note>
+      <note>我看不出這到底在講哪邊的標籤頁，是從哪裡打開？WTF… （翻譯為我的猜測。）</note>
       <tuv lang="EN">
         <seg>However, the &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;name suggests using it with &lt;/f4&gt;a list style with the &lt;f5&gt;Numbering&lt;/f5&gt; &lt;f6&gt;field &lt;/f6&gt;set to &lt;f7&gt;None&lt;/f7&gt; on the &lt;f8&gt;Options&lt;/f8&gt; tab, and &lt;f9&gt;(continued)&lt;/f9&gt; or the equivalent in the &lt;f10&gt;Before&lt;/f10&gt; field.</seg>
       </tuv>
@@ -36799,8 +36799,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can apply &lt;f0&gt;a &lt;/f0&gt;list style just as you would &lt;f1&gt;any other style&lt;/f1&gt;, placing the cursor in a paragraph, and then selecting the list style from the &lt;f2&gt;Styles and Formatting&lt;/f2&gt; window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134123Z" creationid="Jeff Huang" creationdate="20180202T134123Z">
-        <seg>你可以像套用&lt;f1&gt;任何的其他樣式&lt;/f1&gt;一樣地套用清單樣式，只要將游標置於段落中，然後從&lt;f2&gt;樣式與格式&lt;/f2&gt;視窗中選取清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114903Z" creationid="Jeff Huang" creationdate="20180202T134123Z">
+        <seg>套用清單樣式的方法和&lt;f1&gt;其他任何樣式&lt;/f1&gt;一樣，只要將游標放到該段落中，然後從「&lt;f2&gt;樣式與格式&lt;/f2&gt;」視窗中選取清單樣式即可。</seg>
       </tuv>
     </tu>
     <tu>
