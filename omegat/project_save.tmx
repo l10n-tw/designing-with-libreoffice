@@ -18246,8 +18246,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;to avoid complications,&lt;/f0&gt; make all the changes on the &lt;f1&gt;Position&lt;/f1&gt; tab &lt;f2&gt;for the list style&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T034218Z" creationid="Jeff Huang" creationdate="20180203T034218Z">
-        <seg>不過，&lt;f0&gt;為了避免太過複雜，&lt;/f0&gt;請在&lt;f1&gt;位置&lt;/f1&gt;標籤頁上對&lt;f2&gt;清單樣式&lt;/f2&gt;進行所有變更。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T130708Z" creationid="Jeff Huang" creationdate="20180203T034218Z">
+        <seg>不過，&lt;f0&gt;為了避免情況變得太複雜，&lt;/f0&gt;請在「&lt;f1&gt;位置&lt;/f1&gt;」標籤頁上直接做出&lt;f2&gt;清單樣式&lt;/f2&gt;的所有調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24499,8 +24499,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Not only is that the logical place to look for changes on the list style, but adjusting the paragraph settings usually involves negative entries for the &lt;f3&gt;First Line&lt;/f3&gt; field, &lt;f4&gt;which can complicate editing immensely.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T034715Z" creationid="Jeff Huang" creationdate="20180203T034715Z">
-        <seg>不僅是尋找清單樣式上變化的合理位置，而且調整段落設定通常會涉及到&lt;f3&gt;第一行&lt;/f3&gt;欄位中的否定項目，&lt;f4&gt;這會使編輯變得非常複雜。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T131134Z" creationid="Jeff Huang" creationdate="20180203T034715Z">
+        <seg>這也是查看清單樣式修改時的合理位置；此外，如果想調整段落設定的話，通常還會涉及「&lt;f3&gt;第一行&lt;/f3&gt;」欄位的負值調整，&lt;f4&gt;反而使編輯變得十分複雜。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
