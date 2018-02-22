@@ -3724,11 +3724,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>蛤？指「完全空白行」會被自動刪除的意思嗎？</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If the paragraph has no other content than the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Before&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, you&lt;/f3&gt; need to &lt;f4&gt;type&lt;/f4&gt; a space before you press the &lt;f5&gt;Enter&lt;/f5&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114239Z" creationid="Jeff Huang" creationdate="20180202T133316Z">
-        <seg>&lt;f0&gt;如果該段落沒有「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;在這之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位以外的內容，那你&lt;/f3&gt;需要在按下&lt;f5&gt;Enter&lt;/f5&gt;鍵前先&lt;f4&gt;輸入&lt;/f4&gt;空格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T121504Z" creationid="Jeff Huang" creationdate="20180202T133316Z">
+        <seg>&lt;f0&gt;如果該段落沒有「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;在這之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位以外的任何內容，那你&lt;/f3&gt;需要在按下&lt;f5&gt;Enter&lt;/f5&gt;鍵前先&lt;f4&gt;輸入&lt;/f4&gt;空格。</seg>
       </tuv>
     </tu>
     <tu>
