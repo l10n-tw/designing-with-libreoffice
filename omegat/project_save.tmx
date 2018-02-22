@@ -3533,8 +3533,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, the most effective approach is to create a paragraph style that is attached to the list style.&lt;/f0&gt; Go to &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Numbering &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;tyle&lt;/f5&gt; field on the &lt;f6&gt;Outline &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&amp;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Numbering&lt;/f9&gt; tab for the paragraph style, and select the list style from the drop-down list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T115715Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
-        <seg>&lt;f0&gt;不過，最有效率的方法是直接建立個附帶清單樣式的段落樣式。&lt;/f0&gt;請前往段落樣式的「&lt;f6&gt;大綱&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;與&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;編號&lt;/f9&gt;」標籤頁，在「&lt;f2&gt;編號&lt;/f2&gt;&lt;f5&gt;樣式&lt;/f5&gt;」欄位的下拉選單中選取所要的清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T115912Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
+        <seg>&lt;f0&gt;不過，最有效率的方法是直接建立個附帶清單樣式的段落樣式。&lt;/f0&gt;請前往段落樣式的「&lt;f6&gt;大綱與編號&lt;/f6&gt;」標籤頁，在「&lt;f2&gt;編號樣式&lt;/f2&gt;」欄位的下拉選單中選取所要的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27100,8 +27100,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Outline &amp; Numbering &gt; Numbering &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;tyle&lt;/f3&gt; to select from the drop-down list the list style to associate with a paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T135106Z" creationid="Jeff Huang" creationdate="20180202T135106Z">
-        <seg>選取&lt;f0&gt;「大綱與編號 &gt; 編號&lt;/f0&gt;&lt;f3&gt;樣式」&lt;/f3&gt;以從下拉式清單中選取要與段落樣式相關聯的清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T115827Z" creationid="Jeff Huang" creationdate="20180202T135106Z">
+        <seg>選取「&lt;f0&gt;大綱與編號 &gt; 編號樣式&lt;/f0&gt;」可從下拉選單中選取要與該段落樣式相關聯的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33114,8 +33114,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This method also has the advantage of requiring fewer mouse clicks &lt;f10&gt;to apply the style&lt;/f10&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T134804Z" creationid="Jeff Huang" creationdate="20180202T134804Z">
-        <seg>這個方法的優點是不需要點按太多次滑鼠&lt;f10&gt;來套用樣式&lt;/f10&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T115742Z" creationid="Jeff Huang" creationdate="20180202T134804Z">
+        <seg>這個方法的優點是不需要點按太多次滑鼠&lt;f10&gt;就能套用樣式&lt;/f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
