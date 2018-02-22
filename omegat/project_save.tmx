@@ -10937,8 +10937,8 @@ f2</note>
       <tuv lang="EN">
         <seg>Along with each basic paragraph style, LibreOffice also &lt;f0&gt;includes&lt;/f0&gt; list styles ending in &lt;f1&gt;Cont.&lt;/f1&gt; (Continue), &lt;f2&gt;End, &lt;/f2&gt;and &lt;f3&gt;Start.&lt;/f3&gt; &lt;f4&gt;You can use these styles to customize lists.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T033442Z" creationid="Jeff Huang" creationdate="20180202T033442Z">
-        <seg>除了每一種基本的段落樣式，LibreOffice也&lt;f0&gt;包含了&lt;/f0&gt;以&lt;f1&gt;Cont.&lt;/f1&gt;（繼續）、&lt;f2&gt;End、&lt;/f2&gt;與&lt;f3&gt;Start&lt;/f3&gt;結束的清單樣式。&lt;f4&gt;你可以使用這些樣式來自訂清單。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T111407Z" creationid="Jeff Huang" creationdate="20180202T033442Z">
+        <seg>除了各種基本的段落樣式，LibreOffice也&lt;f0&gt;有一些&lt;/f0&gt;以&lt;f1&gt;繼續&lt;/f1&gt;、&lt;f2&gt;結束、&lt;/f2&gt;與&lt;f3&gt;起始&lt;/f3&gt;結尾為名的清單樣式。&lt;f4&gt;你可以利用這些樣式自訂清單。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20642,8 +20642,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you use a character style to define the bullet or number, give it the same name, too.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T033025Z" creationid="Jeff Huang" creationdate="20180202T033025Z">
-        <seg>如果你使用字元樣式來定義項目符號或編號，請給予其相同的名稱。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T111227Z" creationid="Jeff Huang" creationdate="20180202T033025Z">
+        <seg>如果你是用字元樣式定義項目符號或編號的話，也請給予相同的名稱。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
