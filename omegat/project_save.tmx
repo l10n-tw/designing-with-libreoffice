@@ -6992,8 +6992,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you are defining a new list style, the important fields on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab are:&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180203T124931Z" creationid="Jeff Huang" creationdate="20180203T124931Z">
-        <seg>&lt;f0&gt;當你在定義新清單樣式時，在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中的重要欄位有：&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132324Z" creationid="Jeff Huang" creationdate="20180203T124931Z">
+        <seg>&lt;f0&gt;當你在定義新的清單樣式時，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中的重要欄位有：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16057,8 +16057,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fields on the &lt;f0&gt;Position&lt;/f0&gt; tab for list styles and what they refer to.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T131201Z" creationid="Jeff Huang" creationdate="20180203T035217Z">
-        <seg>清單樣式的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁欄位與其指涉的內容。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132224Z" creationid="Jeff Huang" creationdate="20180203T035217Z">
+        <seg>清單樣式的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁欄位與其指稱的意思。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21871,8 +21871,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In this case, the list is indented from the left margin, which often is not the case.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132214Z" creationid="Jeff Huang" creationdate="20180203T035803Z">
-        <seg>在這個情況下，清單從左邊距開始往內縮排，但情況通常並非如此。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132256Z" creationid="Jeff Huang" creationdate="20180203T035803Z">
+        <seg>在這個範例中，清單從左邊距開始往內縮排，但一般情況不見得如此。</seg>
       </tuv>
     </tu>
     <tu>
