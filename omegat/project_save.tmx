@@ -3727,8 +3727,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If the paragraph has no other content than the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Before&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field, you&lt;/f3&gt; need to &lt;f4&gt;type&lt;/f4&gt; a space before you press the &lt;f5&gt;Enter&lt;/f5&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133316Z" creationid="Jeff Huang" creationdate="20180202T133316Z">
-        <seg>&lt;f0&gt;如果段落沒有除了&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位以外的內容，那你就&lt;/f3&gt;需要在按下&lt;f5&gt;Enter&lt;/f5&gt;鍵前先&lt;f4&gt;輸入&lt;/f4&gt;空格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114239Z" creationid="Jeff Huang" creationdate="20180202T133316Z">
+        <seg>&lt;f0&gt;如果該段落沒有「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;在這之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位以外的內容，那你&lt;/f3&gt;需要在按下&lt;f5&gt;Enter&lt;/f5&gt;鍵前先&lt;f4&gt;輸入&lt;/f4&gt;空格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9252,8 +9252,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f6&gt;Otherwise, the paragraph disappears&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133352Z" creationid="Jeff Huang" creationdate="20180202T133352Z">
-        <seg>&lt;f6&gt;否則段落就會消失&lt;/f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114249Z" creationid="Jeff Huang" creationdate="20180202T133352Z">
+        <seg>&lt;f6&gt;否則這個段落會消失&lt;/f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20211,8 +20211,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you decide not to use these styles, you can right-click on each of them in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window and &lt;f1&gt;h&lt;/f1&gt;ide them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T133523Z" creationid="Jeff Huang" creationdate="20180202T133523Z">
-        <seg>如果你決定不要使用這些樣式，你可以在&lt;f0&gt;樣式與格式&lt;/f0&gt;視窗中對它們都點按右鍵並隱藏。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T114409Z" creationid="Jeff Huang" creationdate="20180202T133523Z">
+        <seg>如果你決定不要用這些樣式，你可以在「&lt;f0&gt;樣式和格式&lt;/f0&gt;」視窗中對它們點按右鍵並隱藏起來。</seg>
       </tuv>
     </tu>
     <tu>
