@@ -10937,8 +10937,8 @@ f2</note>
       <tuv lang="EN">
         <seg>Along with each basic paragraph style, LibreOffice also &lt;f0&gt;includes&lt;/f0&gt; list styles ending in &lt;f1&gt;Cont.&lt;/f1&gt; (Continue), &lt;f2&gt;End, &lt;/f2&gt;and &lt;f3&gt;Start.&lt;/f3&gt; &lt;f4&gt;You can use these styles to customize lists.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T111407Z" creationid="Jeff Huang" creationdate="20180202T033442Z">
-        <seg>除了各種基本的段落樣式，LibreOffice也&lt;f0&gt;有一些&lt;/f0&gt;以&lt;f1&gt;繼續&lt;/f1&gt;、&lt;f2&gt;結束、&lt;/f2&gt;與&lt;f3&gt;起始&lt;/f3&gt;結尾為名的清單樣式。&lt;f4&gt;你可以利用這些樣式自訂清單。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T111442Z" creationid="Jeff Huang" creationdate="20180202T033442Z">
+        <seg>除了各種基本的段落樣式，LibreOffice也&lt;f0&gt;有一些&lt;/f0&gt;以「&lt;f1&gt;繼續&lt;/f1&gt;」、「&lt;f2&gt;結束&lt;/f2&gt;」、「&lt;f3&gt;起始&lt;/f3&gt;」等結尾為名的清單樣式。&lt;f4&gt;你可以利用這些樣式自訂清單。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16665,8 +16665,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Start&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;list style might have extra space above it to separate the list from the body text, and the&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;End&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; list style &lt;/f7&gt;extra space below it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180202T033628Z" creationid="Jeff Huang" creationdate="20180202T033628Z">
-        <seg>舉例來說，&lt;f1&gt;&lt;f2&gt;Start&lt;/f2&gt;&lt;/f1&gt;清單樣式可能會在內文上有額外的空間以與清單分離，而&lt;f5&gt;&lt;f6&gt;End&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;清單樣式&lt;/f7&gt;則是在其下有額外的空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T111619Z" creationid="Jeff Huang" creationdate="20180202T033628Z">
+        <seg>舉例來說，「&lt;f1&gt;&lt;f2&gt;起始&lt;/f2&gt;&lt;/f1&gt;」清單樣式的上方可能會有額外空間以便隔開內文與清單，而「&lt;f5&gt;&lt;f6&gt;結束&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」清單樣式&lt;/f7&gt;則是在下方會有額外空間。</seg>
       </tuv>
     </tu>
     <tu>
