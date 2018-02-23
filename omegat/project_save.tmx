@@ -2021,8 +2021,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Border:&lt;/f0&gt; Adds a &lt;f1&gt;default &lt;/f1&gt;border around all cells and table edges consisting of a solid line, black in color and .05 points thick.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122354Z" creationid="Jeff Huang" creationdate="20180210T135718Z">
-        <seg>&lt;f0&gt;邊框&lt;/f0&gt;：在所有儲存格週邊與表格邊緣加入&lt;f1&gt;預設&lt;/f1&gt;邊框，其由黑色的0.05點厚實線組成。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122613Z" creationid="Jeff Huang" creationdate="20180210T135718Z">
+        <seg>&lt;f0&gt;邊框&lt;/f0&gt;：在所有儲存格外圍與表格邊緣，加上厚0.05點的黑色實線&lt;f1&gt;預設&lt;/f1&gt;邊框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,8 +3358,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Heading: &lt;/f0&gt;&lt;f1&gt;Defines one or more rows as &lt;/f1&gt;a &lt;f2&gt;Table Heading&lt;/f2&gt; row at the top of the table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121937Z" creationid="Jeff Huang" creationdate="20180210T035150Z">
-        <seg>&lt;f0&gt;標題：&lt;/f0&gt;&lt;f1&gt;將表格頂端的一列或更多列定義為「&lt;/f1&gt;&lt;f2&gt;表格標題&lt;/f2&gt;」列。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122359Z" creationid="Jeff Huang" creationdate="20180210T035150Z">
+        <seg>&lt;f0&gt;標題&lt;/f0&gt;&lt;f1&gt;：將表格頂端的一列或更多列定義為「&lt;/f1&gt;&lt;f2&gt;表格標題&lt;/f2&gt;」列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,8 +8766,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;You can adjust this setting on a table’s &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Border&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T135840Z" creationid="Jeff Huang" creationdate="20180210T135840Z">
-        <seg>&lt;f2&gt;你可以在&lt;/f2&gt;表格的&lt;f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;標籤頁中調整此設定。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122647Z" creationid="Jeff Huang" creationdate="20180210T135840Z">
+        <seg>&lt;f2&gt;你之後可以在&lt;/f2&gt;表格的「&lt;f3&gt;&lt;f4&gt;邊框&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁中調整此設定。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25325,8 +25325,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Optionally, click the &lt;f0&gt;AutoFormat&lt;/f0&gt; button to choose an already-defined format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T140016Z" creationid="Jeff Huang" creationdate="20180210T140016Z">
-        <seg>或是點按&lt;f0&gt;自動格式&lt;/f0&gt;按鈕來選擇已定義好的格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122743Z" creationid="Jeff Huang" creationdate="20180210T140016Z">
+        <seg>或者，亦可點按視窗中的「&lt;f0&gt;自動格式&lt;/f0&gt;」按鈕選擇已經定義好的格式。</seg>
       </tuv>
     </tu>
     <tu>
