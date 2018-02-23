@@ -3358,8 +3358,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Heading: &lt;/f0&gt;&lt;f1&gt;Defines one or more rows as &lt;/f1&gt;a &lt;f2&gt;Table Heading&lt;/f2&gt; row at the top of the table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T035150Z" creationid="Jeff Huang" creationdate="20180210T035150Z">
-        <seg>&lt;f0&gt;標題：&lt;/f0&gt;&lt;f1&gt;定義位於表格頂端的一欄或更多欄為&lt;/f1&gt;&lt;f2&gt;表格標題&lt;/f2&gt;欄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121937Z" creationid="Jeff Huang" creationdate="20180210T035150Z">
+        <seg>&lt;f0&gt;標題：&lt;/f0&gt;&lt;f1&gt;將表格頂端的一列或更多列定義為「&lt;/f1&gt;&lt;f2&gt;表格標題&lt;/f2&gt;」列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25077,8 +25077,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Once &lt;f3&gt;&lt;f4&gt;H&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;eading&lt;/f5&gt; is selected, you also have the option of &lt;f6&gt;Repeat &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;h&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;eading &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;r&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;ows on new pages&lt;/f12&gt;, &lt;f13&gt;and of selecting the number of heading rows in the fields below.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T035546Z" creationid="Jeff Huang" creationdate="20180210T035546Z">
-        <seg>選定&lt;f5&gt;標題&lt;/f5&gt;後，你可以選擇在&lt;f12&gt;新頁面上&lt;/f12&gt;&lt;f6&gt;重覆&lt;/f6&gt;&lt;f9&gt;標題&lt;/f9&gt;欄，&lt;f13&gt;並在下面的欄位中選取標題欄的數量。&lt;/f13&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122111Z" creationid="Jeff Huang" creationdate="20180210T035546Z">
+        <seg>選定「&lt;f5&gt;標題&lt;/f5&gt;」後，你可以選擇「&lt;f6&gt;新頁重覆標題列&lt;/f6&gt;&lt;f13&gt;」，並在下方欄位中選取標題列的數目。&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27207,8 +27207,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select from the common options lis&lt;f0&gt;t&lt;/f0&gt;ed:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T035038Z" creationid="Jeff Huang" creationdate="20180210T035038Z">
-        <seg>從列出的常用選項中進擇：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121848Z" creationid="Jeff Huang" creationdate="20180210T035038Z">
+        <seg>從列出的常用選項中選擇：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29678,8 +29678,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Insert Table&lt;/f0&gt; dialog window includes the most commonly used table options, so you do not have to format after the table is inserted.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T035011Z" creationid="Jeff Huang" creationdate="20180210T035011Z">
-        <seg>&lt;f0&gt;插入表格&lt;/f0&gt;對話框中包含了大多數常用的表格選項，讓你不必在插入表格後再進行格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121833Z" creationid="Jeff Huang" creationdate="20180210T035011Z">
+        <seg>「&lt;f0&gt;插入表格&lt;/f0&gt;」對話視窗中有大多數常用的表格選項，所以你就不必在插入表格後再做格式設定。</seg>
       </tuv>
     </tu>
     <tu>
