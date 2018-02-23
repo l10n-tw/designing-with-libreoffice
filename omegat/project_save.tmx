@@ -11598,8 +11598,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>As an alternative to Auto&lt;f0&gt;F&lt;/f0&gt;ormats, in some versions of LibreOffice you can save a table in &lt;f1&gt;Edit &gt; Autotext.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T134348Z" creationid="Jeff Huang" creationdate="20180212T134348Z">
-        <seg>作為自動格式的替代方案，在特定版本的LibreOffice，你可以將表格儲存於&lt;f1&gt;「編輯 &gt; 自動圖文集」&lt;/f1&gt;中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T153542Z" creationid="Jeff Huang" creationdate="20180212T134348Z">
+        <seg>作為自動格式的替代方案，在某些版本的LibreOffice，你可以改將表格儲存在「&lt;f1&gt;編輯 &gt; 自動圖文集&lt;/f1&gt;」中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21466,8 +21466,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many ways, Writer’&lt;f0&gt;s&lt;/f0&gt; tables are simpler versions of frames.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180213T131453Z" creationid="Jeff Huang" creationdate="20180213T131453Z">
-        <seg>在許多種意義上，Writer的表格都是簡化版的外框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T153717Z" creationid="Jeff Huang" creationdate="20180213T131453Z">
+        <seg>從許多層面看來，Writer的表格都可算是簡化版的外框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31175,8 +31175,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The major differences are that &lt;f1&gt;you cannot wrap text around tables&lt;/f1&gt;, and text cannot flow from cell to cell like it can from frame to frame.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180213T132101Z" creationid="Jeff Huang" creationdate="20180213T132101Z">
-        <seg>其主要的不同是&lt;f1&gt;你不能在表格旁邊圍繞文字&lt;/f1&gt;，而文字也不能像外框一樣從一個外框跑到另一個外框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T153748Z" creationid="Jeff Huang" creationdate="20180213T132101Z">
+        <seg>主要的不同點是&lt;f1&gt;你不能在表格周圍環繞文字&lt;/f1&gt;，而且文字也不能像外框一樣從一個外框流到另一個外框去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36886,8 +36886,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can delete &lt;f0&gt;any AutoFormats one at a time, including &lt;/f0&gt;pre-defined AutoFormats&lt;f1&gt;.&lt;/f1&gt; &lt;f2&gt;Deleted &lt;/f2&gt;AutoFormats&lt;f3&gt; &lt;/f3&gt;are deleted not just from the current document, but from Writer &lt;f4&gt;and all documents.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180213T131016Z" creationid="Jeff Huang" creationdate="20180213T131016Z">
-        <seg>你可以一次刪除&lt;f0&gt;任意一個自動格式，包含&lt;/f0&gt;預定義的自動格式。&lt;f2&gt;被刪除的&lt;/f2&gt;自動格式並不只是從目前的文件中刪除，也從Writer&lt;f4&gt;與所有文件中刪除。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T153631Z" creationid="Jeff Huang" creationdate="20180213T131016Z">
+        <seg>你可以一次刪除&lt;f0&gt;一個任意的自動格式，包含&lt;/f0&gt;程式中預先定義的自動格式。&lt;f2&gt;刪除的&lt;/f2&gt;自動格式不只是從目前的文件中刪除而已，也會從Writer&lt;f4&gt;和所有文件中刪除。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
