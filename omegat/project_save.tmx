@@ -18700,8 +18700,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, if you do use &lt;f0&gt;more than one&lt;/f0&gt; bullet list s&lt;f1&gt;tyle&lt;/f1&gt;, &lt;f2&gt;make sure their designs are compatible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090404Z" creationid="Jeff Huang" creationdate="20180205T090404Z">
-        <seg>不過，如果你使用了&lt;f0&gt;超過一個的&lt;/f0&gt;項目符號清單&lt;f1&gt;樣式&lt;/f1&gt;，&lt;f2&gt;請確保它們的設計互相不衝突。。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T022113Z" creationid="Jeff Huang" creationdate="20180205T090404Z">
+        <seg>不過，如果你用了&lt;f0&gt;一個以上&lt;/f0&gt;的項目符號清單&lt;f1&gt;樣式&lt;/f1&gt;，&lt;f2&gt;請確保它們的設計彼此協調。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20808,8 +20808,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If your design includes nested bullets – that is, bullet lists within bullet lists – you might want to create an additional &lt;f0&gt;list style&lt;/f0&gt; with a name like &lt;f1&gt;Bullets2.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090254Z" creationid="Jeff Huang" creationdate="20180205T090254Z">
-        <seg>如果你的設計包含了巢狀的項目符號（也就是說，你的項目符號底下還有另一層項目符號），你可能會想要建立另外的&lt;f0&gt;清單樣式&lt;/f0&gt;名稱，如&lt;f1&gt;項目符號2。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T022040Z" creationid="Jeff Huang" creationdate="20180205T090254Z">
+        <seg>如果你的設計中有巢狀項目符號——也就是說，你的項目符號底下還有另一層項目符號——你可能會想要另外建立一個&lt;f0&gt;清單樣式&lt;/f0&gt;，取名為「&lt;f1&gt;項目符號2&lt;/f1&gt;」之類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21380,8 +21380,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In fact, indenting the nested bullets and nothing more is enough to distinguish them from the top level bullets.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090518Z" creationid="Jeff Huang" creationdate="20180205T090518Z">
-        <seg>事實上，巢狀項目符號的縮排只不過是將其與最上層的項目符號分開而已。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T022148Z" creationid="Jeff Huang" creationdate="20180205T090518Z">
+        <seg>實際上，巢狀項目符號的縮排只不過是要讓它和上層的項目符號有所區隔而已。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
