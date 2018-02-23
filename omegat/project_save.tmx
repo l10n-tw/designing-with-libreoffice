@@ -3083,8 +3083,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For convenience, t&lt;/f0&gt;he &lt;f1&gt;boundaries&lt;/f1&gt; of the borderless table in the middle are shown within Writer, but do not print.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T031205Z" creationid="Jeff Huang" creationdate="20180210T031205Z">
-        <seg>&lt;f0&gt;為了方便起見，&lt;/f0&gt;Writer中會顯示無邊框表格的&lt;f1&gt;邊界&lt;/f1&gt;，但在列印中並非如此。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T082821Z" creationid="Jeff Huang" creationdate="20180210T031205Z">
+        <seg>&lt;f0&gt;為了方便起見，&lt;/f0&gt;即使是無邊框的表格&lt;f1&gt;邊界Writer依然會將之顯現&lt;/f1&gt;，但不會真的列印出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8976,8 +8976,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;They may go out of fashion, but they will always remain functional.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T082633Z" creationid="Jeff Huang" creationdate="20180210T030938Z">
-        <seg>&lt;f3&gt;簡潔的設計也許會過時，但這種設計依舊能維持物件的實用性。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T082640Z" creationid="Jeff Huang" creationdate="20180210T030938Z">
+        <seg>&lt;f3&gt;簡潔的設計也許會過時，但這類設計依舊能維持物件的實用性。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23126,8 +23126,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice usually offers a choice of tables with different backgrounds for row headings and ordinary &lt;t0/&gt;&lt;f1&gt;row&lt;/f1&gt;s.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T031907Z" creationid="Jeff Huang" creationdate="20180210T031907Z">
-        <seg>LibreOffice通常會為標題欄與一般&lt;f1&gt;欄位&lt;/f1&gt;提供不同的背景選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T083236Z" creationid="Jeff Huang" creationdate="20180210T031907Z">
+        <seg>LibreOffice通常會為標題列與一般&lt;f1&gt;列&lt;/f1&gt;提供不同的背景選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34030,8 +34030,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To see how a borderless table looks when printed, &lt;f0&gt;view it from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Print Preview&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T031355Z" creationid="Jeff Huang" creationdate="20180210T031355Z">
-        <seg>要觀看列印時無邊框表格的外觀，&lt;f0&gt;請從&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「檔案 &gt; 列印預覽」&lt;/f2&gt;&lt;/f1&gt;中檢視。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T082902Z" creationid="Jeff Huang" creationdate="20180210T031355Z">
+        <seg>若想要觀看列印時無邊框表格的外觀，&lt;f0&gt;請從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔案 &gt; 列印預覽&lt;/f2&gt;&lt;/f1&gt;」中檢視。</seg>
       </tuv>
     </tu>
     <tu>
