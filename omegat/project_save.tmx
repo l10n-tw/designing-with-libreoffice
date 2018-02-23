@@ -8102,8 +8102,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;Y&lt;/f1&gt;ou can also align it to the &lt;f2&gt;c&lt;/f2&gt;enter or the &lt;f3&gt;b&lt;/f3&gt;ottom, &lt;f4&gt;although in practice there is rarely a reason for doing so.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034446Z" creationid="Jeff Huang" creationdate="20180211T034446Z">
-        <seg>你可以讓其置中或與底部對齊，&lt;f4&gt;但實務上很少有這麼做的理由。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125847Z" creationid="Jeff Huang" creationdate="20180211T034446Z">
+        <seg>你可以改為置中對齊，或是對齊儲存格的下方，&lt;f4&gt;但實務上很少有這麼做的理由。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13032,8 +13032,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By default, content is aligned to the top of cells on the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034330Z" creationid="Jeff Huang" creationdate="20180211T034330Z">
-        <seg>預設情況下，內容會與&lt;f0&gt;排文和分頁&lt;/f0&gt;標籤頁上的頂部儲存格對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125812Z" creationid="Jeff Huang" creationdate="20180211T034330Z">
+        <seg>預設情況下，表格內容在「&lt;f0&gt;排文和分頁&lt;/f0&gt;」標籤頁中的對齊設定為儲存格的上方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33622,8 +33622,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To adjust the &lt;f0&gt;vertical&lt;/f0&gt; spacing before and after tables, right-click on any part of the table and select &lt;f1&gt;Table &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Properties&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Table &gt; Spacing &gt; Above &lt;/f4&gt;and &lt;f5&gt;Below&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034158Z" creationid="Jeff Huang" creationdate="20180211T034158Z">
-        <seg>要調整表格之前與之後的&lt;f0&gt;垂直&lt;/f0&gt;間距，在表格的任意元件上點按右鍵並選取「&lt;f1&gt;表格&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;屬性&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; 表格 &gt; 間距 &gt; 以上&lt;/f4&gt;與&lt;f5&gt;以下&lt;/f5&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125656Z" creationid="Jeff Huang" creationdate="20180211T034158Z">
+        <seg>若要調整表格之前與之後的&lt;f0&gt;垂直&lt;/f0&gt;間距，則在表格的任意部分上點按右鍵，並調整「&lt;f1&gt;表格&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;屬性&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; 表格 &gt; 間隔 &gt; 以上&lt;/f4&gt;與&lt;f5&gt;以下&lt;/f5&gt;」的對應數值。</seg>
       </tuv>
     </tu>
     <tu>
