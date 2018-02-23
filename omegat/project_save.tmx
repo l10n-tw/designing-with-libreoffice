@@ -20781,11 +20781,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>E531 打勾符號的方框沒有陰影，所以應該用 E67C 沒有陰影的方框才對。（這邊都是字型的 Unicode 私用區，所以無關任何字元符號定義）</note>
       <tuv lang="EN">
         <seg>If you want to use the list on the computer, create two &lt;f0&gt;list &lt;/f0&gt;styles, one that uses the character U+2752, and one that uses the character U+E531 (a box with a check mark).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T023317Z" creationid="Jeff Huang" creationdate="20180205T091714Z">
-        <seg>如果你想要在電腦上使用這份清單，請建立兩個&lt;f0&gt;清單&lt;/f0&gt;樣式，一個用U+2752字元，另一個用U+E531字元（帶有打勾符號的方框）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T024146Z" creationid="Jeff Huang" creationdate="20180205T091714Z">
+        <seg>如果你想要在電腦上使用這份清單，請建立兩個&lt;f0&gt;清單&lt;/f0&gt;樣式，一個用U+E57C字元，另一個用U+E531字元（帶有打勾符號的方框）</seg>
       </tuv>
     </tu>
     <tu>
