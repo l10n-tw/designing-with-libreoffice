@@ -18647,8 +18647,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, if a table needs a caption, &lt;f0&gt;or you want to refer to the table by a number, right-click and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Caption&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T094512Z" creationid="Jeff Huang" creationdate="20180212T094512Z">
-        <seg>不過，如果表格需要標題，&lt;f0&gt;或是你需要以數字引用表格，請點按右鍵並選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;標題&lt;/f2&gt;&lt;/f1&gt;。&lt;f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143932Z" creationid="Jeff Huang" creationdate="20180212T094512Z">
+        <seg>不過，如果表格需要有圖表標示說明，&lt;f0&gt;或是你需要以數字編號引用表格的話，請點按右鍵並從右鍵選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;圖表標示&lt;/f2&gt;&lt;/f1&gt;。&lt;f3&gt;（經試驗，點按右鍵不會出現這個選項啊，可能被拿掉了？在第九章講外框的部分有提到外框有相關選項）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19848,8 +19848,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If the sentence which introduces a table is clear enough, a caption may be redundant.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T094555Z" creationid="Jeff Huang" creationdate="20180212T093542Z">
-        <seg>（備註）如果表格簡介夠清楚，標題看起來可能就會比較多餘。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143603Z" creationid="Jeff Huang" creationdate="20180212T093542Z">
+        <seg>如果前方引導表格出現的語句已經夠清楚了，那麼再加圖表標示或許看起來就多此一舉。</seg>
       </tuv>
     </tu>
     <tu>
