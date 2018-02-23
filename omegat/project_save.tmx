@@ -2246,8 +2246,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Center:&lt;/f0&gt; The table aligns with the center of the line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032919Z" creationid="Jeff Huang" creationdate="20180211T032919Z">
-        <seg>&lt;f0&gt;置中：&lt;/f0&gt;表格會對齊一行的中央。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125133Z" creationid="Jeff Huang" creationdate="20180211T032919Z">
+        <seg>&lt;f0&gt;置中：&lt;/f0&gt;表格會對齊行的中央。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,8 +3238,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From Left: &lt;/f0&gt;The table shifts by the amount in the &lt;f1&gt;Spacing &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Left&lt;/f3&gt;&lt;/f2&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124934Z" creationid="Jeff Huang" creationdate="20180211T032532Z">
-        <seg>&lt;f0&gt;從左：&lt;/f0&gt;表格會按「&lt;f1&gt;間距 &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;向左&lt;/f3&gt;&lt;/f2&gt;」欄位中設定的數字偏移。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125101Z" creationid="Jeff Huang" creationdate="20180211T032532Z">
+        <seg>&lt;f0&gt;從左：&lt;/f0&gt;表格會按「&lt;f1&gt;間隔 &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;向左&lt;/f3&gt;&lt;/f2&gt;」欄位中設定的數字偏移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4415,8 +4415,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Manual:&lt;/f0&gt; Use the &lt;f1&gt;Spacing&lt;/f1&gt; fields to adjust the table on its left and right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033107Z" creationid="Jeff Huang" creationdate="20180211T033107Z">
-        <seg>&lt;f0&gt;手動：&lt;/f0&gt;使用&lt;f1&gt;間距&lt;/f1&gt;欄位來調整表格的左右對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125233Z" creationid="Jeff Huang" creationdate="20180211T033107Z">
+        <seg>&lt;f0&gt;手動：&lt;/f0&gt;利用「&lt;f1&gt;間隔&lt;/f1&gt;」欄位調整表格左右側的對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5176,8 +5176,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right:&lt;/f0&gt; &lt;f1&gt;The &lt;/f1&gt;right side of the table aligns with the page’s right margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032824Z" creationid="Jeff Huang" creationdate="20180211T032824Z">
-        <seg>&lt;f0&gt;右方：&lt;/f0&gt;表格右邊對齊頁面的右邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125036Z" creationid="Jeff Huang" creationdate="20180211T032824Z">
+        <seg>&lt;f0&gt;右方：&lt;/f0&gt;表格右側對齊頁面的右邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19887,8 +19887,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If the table’&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;w&lt;/f2&gt;idth equals the full length of the line, this setting &lt;f3&gt;has&lt;/f3&gt; no visible effect.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033019Z" creationid="Jeff Huang" creationdate="20180211T033019Z">
-        <seg>如果表格的寬度等於整行寬度，那麼這個設定就不會有可見的效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125155Z" creationid="Jeff Huang" creationdate="20180211T033019Z">
+        <seg>如果表格的寬度等於整行寬度，那麼這個設定就看不出有什麼效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33205,8 +33205,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This option may shift the table into the right margin, where part of it may be unprintable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032654Z" creationid="Jeff Huang" creationdate="20180211T032654Z">
-        <seg>此選項可能會將表格偏移至右邊距，其中部份區域可能會無法列印。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125029Z" creationid="Jeff Huang" creationdate="20180211T032654Z">
+        <seg>此選項可能會讓表格偏移至右邊距中，部份區域可能因此印不出來，要特別注意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37276,8 +37276,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can use &lt;f2&gt;Spacing &gt; Left&lt;/f2&gt; &lt;f3&gt;to indent the left&lt;/f3&gt; side of the &lt;f4&gt;table&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032840Z" creationid="Jeff Huang" creationdate="20180211T032840Z">
-        <seg>你可以使用&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「間距 &gt; 向左」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;來讓表格左邊縮排。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125115Z" creationid="Jeff Huang" creationdate="20180211T032840Z">
+        <seg>你可以使用「&lt;f2&gt;&lt;f3&gt;間隔 &gt; 向左&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」來讓表格往左側縮排。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
