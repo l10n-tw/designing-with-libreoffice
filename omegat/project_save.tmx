@@ -1659,8 +1659,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Alternatively, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table Properties &gt; Columns&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu and balancing the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Column Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130110Z" creationid="Jeff Huang" creationdate="20180211T035304Z">
-        <seg>&lt;f0&gt;或者，你可以從右鍵選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格屬性 &gt; 欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，然後取捨一下「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;欄寬&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位的數字。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130348Z" creationid="Jeff Huang" creationdate="20180211T035304Z">
+        <seg>&lt;f0&gt;或者，從右鍵選單中選取「大小 &gt; 欄寬」重新分配既有欄的水平寬度；抑或是從右鍵選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格屬性 &gt; 欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，然後取捨一下「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;欄寬&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位的數字。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5024,8 +5024,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Positioning a table in hard copy can be difficult, because you frequently get uneven page breaks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T125755Z" creationid="Jeff Huang" creationdate="20180211T125755Z">
-        <seg>&lt;f0&gt;在紙本上定位表格可能比較困難，因為常常會有不均勻的分頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130518Z" creationid="Jeff Huang" creationdate="20180211T125755Z">
+        <seg>&lt;f0&gt;在紙本作業中要定下表格位置可能比較困難，因為常常會有分頁不均勻的問題。</seg>
       </tuv>
     </tu>
     <tu>
