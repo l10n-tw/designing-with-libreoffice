@@ -10353,8 +10353,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adding a table</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034218Z" creationid="Jeff Huang" creationdate="20180210T034218Z">
-        <seg>新增表格</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121602Z" creationid="Jeff Huang" creationdate="20180210T034218Z">
+        <seg>加入表格</seg>
       </tuv>
     </tu>
     <tu>
@@ -15502,8 +15502,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Either name the table so you can find it in the Navigator, or else accept the default name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034507Z" creationid="Jeff Huang" creationdate="20180210T034507Z">
-        <seg>請為表格命名以便你可以在助手中找到它，或是使用預設名稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121719Z" creationid="Jeff Huang" creationdate="20180210T034507Z">
+        <seg>請為表格命名以便在「助手」中查找，或是直接用預設名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27140,8 +27140,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Table &gt; Insert Table&lt;/f0&gt; or &lt;f1&gt;p&lt;/f1&gt;ress &lt;f2&gt;Ctrl+ F12.&lt;/f2&gt; The &lt;f3&gt;Insert Table&lt;/f3&gt; &lt;f4&gt;dialog &lt;/f4&gt;window opens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034347Z" creationid="Jeff Huang" creationdate="20180210T034347Z">
-        <seg>選取&lt;f0&gt;「表格 &gt; 插入表格」&lt;/f0&gt;或按下&lt;f2&gt;Ctrl+ F12。&lt;/f2&gt;然後就會開啟&lt;f3&gt;插入表格&lt;/f3&gt;&lt;f4&gt;對話框&lt;/f4&gt;視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121649Z" creationid="Jeff Huang" creationdate="20180210T034347Z">
+        <seg>選取「&lt;f0&gt;表格 &gt; 插入表格&lt;/f0&gt;」，或按下&lt;f2&gt;Ctrl+ F12，&lt;/f2&gt;就會開啟「&lt;f3&gt;插入表格&lt;/f3&gt;&lt;f4&gt;」對話&lt;/f4&gt;視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27190,8 +27190,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select all the cells in the table, and select &lt;f0&gt;Table &gt; Spacing &gt; Below.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T110303Z" creationid="Jeff Huang" creationdate="20180210T034133Z">
-        <seg>選取表格中的所有儲存格，然後點按右鍵選單的「表格屬性」，從視窗中選取「&lt;f0&gt;表格 &gt; 間隔 &gt; 向下」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121559Z" creationid="Jeff Huang" creationdate="20180210T034133Z">
+        <seg>選取表格中的所有儲存格，然後點按右鍵選單的「表格屬性」，從視窗中設定「&lt;f0&gt;表格 &gt; 間隔 &gt; 向下」的數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30558,8 +30558,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The default name is &lt;f0&gt;Table&lt;/f0&gt;, followed by a number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034550Z" creationid="Jeff Huang" creationdate="20180210T034550Z">
-        <seg>預設的名稱即為&lt;f0&gt;表格&lt;/f0&gt;，後面再加編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121734Z" creationid="Jeff Huang" creationdate="20180210T034550Z">
+        <seg>預設名稱即為「&lt;f0&gt;表格&lt;/f0&gt;」，後面再接編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31426,8 +31426,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The number indicates &lt;f1&gt;the &lt;/f1&gt;order in which the table was added, not the table's order from the start of the file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034723Z" creationid="Jeff Huang" creationdate="20180210T034723Z">
-        <seg>數字代表了表格加入的順序，而非表格從檔案開始算起的編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121755Z" creationid="Jeff Huang" creationdate="20180210T034723Z">
+        <seg>數字代表了表格的加入順序，而非表格從文件開頭算起的編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33748,8 +33748,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To create a new table:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T034227Z" creationid="Jeff Huang" creationdate="20180210T034227Z">
-        <seg>建立新表格：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121610Z" creationid="Jeff Huang" creationdate="20180210T034227Z">
+        <seg>製作新表格的步驟：</seg>
       </tuv>
     </tu>
     <tu>
