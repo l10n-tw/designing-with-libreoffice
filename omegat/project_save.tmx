@@ -5977,8 +5977,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Select&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button opens a file manager to select the picture.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T061744Z" creationid="Jeff Huang" creationdate="20180208T061744Z">
-        <seg>&lt;f1&gt;&lt;f2&gt;選取&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;按鈕會開啟用來選取圖片的檔案管理員。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030008Z" creationid="Jeff Huang" creationdate="20180208T061744Z">
+        <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;選擇&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕會開啟選取圖片用的檔案管理員。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10653,8 +10653,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>After you choose &lt;f0&gt;Graphics&lt;/f0&gt; or &lt;f1&gt;Linked &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;g&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;raphics,&lt;/f4&gt; the window lists a set of fields for editing the bullet:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T061429Z" creationid="Jeff Huang" creationdate="20180208T061429Z">
-        <seg>在你選取了&lt;f0&gt;圖案&lt;/f0&gt;或&lt;f1&gt;連結&lt;/f1&gt;&lt;f4&gt;圖案，&lt;/f4&gt;視窗會列出一組用於編輯項目符號的欄位：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T025937Z" creationid="Jeff Huang" creationdate="20180208T061429Z">
+        <seg>在你選取了「&lt;f0&gt;圖形&lt;/f0&gt;」或「&lt;f1&gt;連結的&lt;/f1&gt;&lt;f4&gt;圖形」後，&lt;/f4&gt;視窗會多列出一組編輯項目符號用的欄位：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26419,8 +26419,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Remember that too large a height require&lt;f0&gt;s&lt;/f0&gt; changing the paragraph &lt;f1&gt;&lt;f2&gt;L&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ine spacing &lt;/f3&gt;setting to &lt;f4&gt;At Least &lt;/f4&gt;&lt;f5&gt;so that the letters are not cut off at the top.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T062444Z" creationid="Jeff Huang" creationdate="20180208T062444Z">
-        <seg>請注意高度過大，那就需要把&lt;f3&gt;行距&lt;/f3&gt;設定為&lt;f4&gt;最小&lt;/f4&gt;&lt;f5&gt;以避免字元被截斷。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030121Z" creationid="Jeff Huang" creationdate="20180208T062444Z">
+        <seg>請注意高度如果太大，就需要把段落的「&lt;f3&gt;行距&lt;/f3&gt;」設定成「&lt;f4&gt;至少&lt;/f4&gt;&lt;f5&gt;」以避免字元上方被截斷。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29890,8 +29890,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Width&lt;/f0&gt; and &lt;f1&gt;Height&lt;/f1&gt; fields &lt;f2&gt;set the size at which the picture displays.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T061947Z" creationid="Jeff Huang" creationdate="20180208T061947Z">
-        <seg>&lt;f0&gt;寬度&lt;/f0&gt;與&lt;f1&gt;高度&lt;/f1&gt;欄位&lt;f2&gt;可以設定圖片顯示的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030026Z" creationid="Jeff Huang" creationdate="20180208T061947Z">
+        <seg>「&lt;f0&gt;寬度&lt;/f0&gt;」與「&lt;f1&gt;高度&lt;/f1&gt;」欄位&lt;f2&gt;可以設定圖片的顯示大小。</seg>
       </tuv>
     </tu>
     <tu>
