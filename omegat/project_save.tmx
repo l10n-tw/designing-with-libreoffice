@@ -3795,8 +3795,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you need a more complex spreadsheet, create one as a separate file, then embed it using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Object &gt; OLE Object.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T093437Z" creationid="Jeff Huang" creationdate="20180212T093437Z">
-        <seg>&lt;f0&gt;如果你需要更複雜的試算表，請先單獨建立試算表檔案，然後再使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 物件 &gt; OLE物件」&lt;/f2&gt;&lt;/f1&gt;嵌入。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143434Z" creationid="Jeff Huang" creationdate="20180212T093437Z">
+        <seg>&lt;f0&gt;如果你需要更複雜的試算表，請先單獨建立試算表檔案，然後再用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 物件 &gt; OLE物件&lt;/f2&gt;&lt;/f1&gt;」嵌入這份試算表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19548,8 +19548,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Identifies input specifically as numbers and right aligns it.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T142915Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
-        <seg>將輸入內容指定識別為數字，並向右對齊。&lt;/f4&gt;（按下去看不出效果耶…怎麼讓它作用？？如果沒作用就改寫。）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143353Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
+        <seg>將輸入內容指定識別為數字，並向右對齊。&lt;/f4&gt;（按下去預設沒有效果…要先啟用下面對齊講的「對齊」和「數字格式識別」這兩個選項才有用。記得改寫）</seg>
       </tuv>
     </tu>
     <tu>
