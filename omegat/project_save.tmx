@@ -7468,8 +7468,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Create the list using the first style, then tick off an item by applying the second style to it.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091809Z" creationid="Jeff Huang" creationdate="20180205T091809Z">
-        <seg>&lt;f1&gt;使用第一種樣式來建立清單，然後再套用第二種樣式來勾選項目。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T023354Z" creationid="Jeff Huang" creationdate="20180205T091809Z">
+        <seg>&lt;f1&gt;先用第一個樣式建立好清單，然後再套用第二個樣式勾選項目。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20784,8 +20784,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to use the list on the computer, create two &lt;f0&gt;list &lt;/f0&gt;styles, one that uses the character U+2752, and one that uses the character U+E531 (a box with a check mark).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091714Z" creationid="Jeff Huang" creationdate="20180205T091714Z">
-        <seg>如果你想要使用在電腦上的清單，請建立兩個&lt;f0&gt;清單&lt;/f0&gt;樣式，其中一個使用U+2752字元，另一個則使用U+E531字元（帶有勾選符號的方框）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T023317Z" creationid="Jeff Huang" creationdate="20180205T091714Z">
+        <seg>如果你想要在電腦上使用這份清單，請建立兩個&lt;f0&gt;清單&lt;/f0&gt;樣式，一個用U+2752字元，另一個用U+E531字元（帶有打勾符號的方框）</seg>
       </tuv>
     </tu>
     <tu>
