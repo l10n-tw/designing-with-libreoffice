@@ -22365,8 +22365,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It is not a tool for re-starting the numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021737Z" creationid="Jeff Huang" creationdate="20180205T021737Z">
-        <seg>這並不是重新開始編號的工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020031Z" creationid="Jeff Huang" creationdate="20180205T021737Z">
+        <seg>這不是用來重新開始編號的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25792,8 +25792,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>People occasionally ask for numbered lists that count down from the starting number, instead of up – presumably for Top 10 lists &lt;f0&gt;and other countdowns&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022452Z" creationid="Jeff Huang" creationdate="20180205T022452Z">
-        <seg>人們偶爾會需要編號清單從起始數字開始倒數，也許是前十名的清單&lt;f0&gt;或是其他倒數&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020313Z" creationid="Jeff Huang" creationdate="20180205T022452Z">
+        <seg>人們偶爾需要讓編號清單從起始數字開始倒數，像是前十名的清單，&lt;f0&gt;或是其他倒數等&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26554,8 +26554,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Reversing &lt;f0&gt;n&lt;/f0&gt;umber &lt;f1&gt;o&lt;/f1&gt;rder</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022131Z" creationid="Jeff Huang" creationdate="20180205T022131Z">
-        <seg>讓編號順序反過來</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020231Z" creationid="Jeff Huang" creationdate="20180205T022131Z">
+        <seg>倒數編號順序</seg>
       </tuv>
     </tu>
     <tu>
@@ -34008,8 +34008,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To restart the numbering in a list, right-click on a paragraph &lt;f0&gt;with a list&lt;/f0&gt; and select &lt;f1&gt;Restart Numbering&lt;/f1&gt; from the menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021949Z" creationid="Jeff Huang" creationdate="20180205T021949Z">
-        <seg>要重新開始清單中的編號，在&lt;f0&gt;有清單&lt;/f0&gt;的段落上按右鍵並從選單中選取&lt;f1&gt;重新開始編號&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020211Z" creationid="Jeff Huang" creationdate="20180205T021949Z">
+        <seg>如果要重新開始清單中的編號，在段落中的&lt;f0&gt;清單&lt;/f0&gt;位置按下滑鼠右鍵，並從選單中選取「&lt;f1&gt;重新開始編號&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
