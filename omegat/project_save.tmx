@@ -1102,8 +1102,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Alignment&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can usually be ignored, but can help with the spacing between the bullet and the text.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030358Z" creationid="Jeff Huang" creationdate="20180208T064106Z">
-        <seg>「&lt;f0&gt;&lt;f1&gt;對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」通常可以忽略，但可以協助讓項目符號與項目文字的間距更好閱讀。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030437Z" creationid="Jeff Huang" creationdate="20180208T064106Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」通常可以忽略，但可以協助處理項目符號與項目文字的間隔關係。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,8 +3310,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Graphic bullets are especially useful for&lt;/f0&gt; reoccurring graphics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064415Z" creationid="Jeff Huang" creationdate="20180208T064415Z">
-        <seg>&lt;f0&gt;圖形項目符號對於&lt;/f0&gt;重覆出現的圖形來說特別有用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030636Z" creationid="Jeff Huang" creationdate="20180208T064415Z">
+        <seg>如果想要讓圖形重覆出現，那麼&lt;f0&gt;圖形項目符號&lt;/f0&gt;的做法就特別好用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15814,8 +15814,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Example: &lt;f0&gt;Repeating graphics using lists&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064332Z" creationid="Jeff Huang" creationdate="20180208T064332Z">
-        <seg>範例：&lt;f0&gt;使用清單重覆圖形&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030551Z" creationid="Jeff Huang" creationdate="20180208T064332Z">
+        <seg>範例：&lt;f0&gt;使用清單來重覆圖形&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16875,8 +16875,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, in a technical document, you could use a graphic to mark a note, caution, or warning, &lt;f1&gt;as this book does.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064610Z" creationid="Jeff Huang" creationdate="20180208T064610Z">
-        <seg>舉例來說，在技術文件中你可以使用圖形來標記評註或警告，&lt;f1&gt;就跟這本書的用法一樣。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030739Z" creationid="Jeff Huang" creationdate="20180208T064610Z">
+        <seg>舉例來說，在技術文件中你可以用圖形來標記備註、注意或警告等提示，&lt;f1&gt;類似本書的做法。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30855,8 +30855,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The fields for using a picture as a bullet appear after you have selected &lt;f0&gt;Options &gt; Number &gt; Graphics &lt;/f0&gt;or &lt;f1&gt;Linked Graphics.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064250Z" creationid="Jeff Huang" creationdate="20180208T064250Z">
-        <seg>選取&lt;f0&gt;「選項 &gt; 編號 &gt; 圖案」&lt;/f0&gt;或&lt;f1&gt;連結圖案&lt;/f1&gt;後就會出現將圖片用於項目符號的欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030530Z" creationid="Jeff Huang" creationdate="20180208T064250Z">
+        <seg>選取「&lt;f0&gt;自訂 &gt; 編號 &gt; 圖形&lt;/f0&gt;」或「&lt;f1&gt;連結的圖形&lt;/f1&gt;」後，就會出現拿圖片作為項目符號的相關欄位。</seg>
       </tuv>
     </tu>
     <tu>
