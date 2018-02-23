@@ -1659,8 +1659,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Alternatively, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table Properties &gt; Columns&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the right-click menu and balancing the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Column Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T035304Z" creationid="Jeff Huang" creationdate="20180211T035304Z">
-        <seg>&lt;f0&gt;或是從右鍵選單中選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「表格屬性 &gt; 欄」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;然後平衡&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;欄寬&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130110Z" creationid="Jeff Huang" creationdate="20180211T035304Z">
+        <seg>&lt;f0&gt;或者，你可以從右鍵選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格屬性 &gt; 欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，然後取捨一下「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;欄寬&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位的數字。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7253,16 +7253,16 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can redistribute horizontal space among the existing columns by u&lt;/f0&gt;sing the cursor to drag at cell borders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034758Z" creationid="Jeff Huang" creationdate="20180211T034758Z">
-        <seg>&lt;f0&gt;你可以使用滑鼠游標在在既有欄位的邊框上拖曳以重新分配其水平間距。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125928Z" creationid="Jeff Huang" creationdate="20180211T034758Z">
+        <seg>&lt;f0&gt;你可以用滑鼠在既有欄的邊框上拖曳以重新分配欄的水平間距。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can redistribute vertical space between the existing rows by u&lt;/f0&gt;sing the cursor to drag at cell borders &lt;f1&gt;or selecting&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;Row &gt; Height&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; from the right-click menu.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T125623Z" creationid="Jeff Huang" creationdate="20180211T125623Z">
-        <seg>&lt;f0&gt;你可以使用滑鼠游標拖曳儲存格邊框&lt;/f0&gt;&lt;f1&gt;或是從右鍵選單中選取&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;「列 &gt; 高度」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;來重新分配既有的列的垂直高度。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130252Z" creationid="Jeff Huang" creationdate="20180211T125623Z">
+        <seg>&lt;f0&gt;你可以用滑鼠拖曳儲存格邊框，&lt;/f0&gt;&lt;f1&gt;或是從右鍵選單中選取「&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;大小 &gt; 列高&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」重新分配既有列的垂直高度。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8006,8 +8006,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;This method may seem inexact, but with both vertical and horizontal rulers in the editing window, it can actually be as exact as any choice.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T034927Z" creationid="Jeff Huang" creationdate="20180211T034927Z">
-        <seg>&lt;f1&gt;這個方法看起來似乎不太精確，但因為編輯視窗中有垂直與水平尺規，實際上它可以和任何選擇一樣精確。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130021Z" creationid="Jeff Huang" creationdate="20180211T034927Z">
+        <seg>&lt;f1&gt;這個方法看起來似乎不太精確，但因為編輯視窗中有垂直與水平尺規，實際上它可以和數字設定一樣精確。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10574,8 +10574,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adjusting row spacing</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T125136Z" creationid="Jeff Huang" creationdate="20180211T125136Z">
-        <seg>調整列距</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130122Z" creationid="Jeff Huang" creationdate="20180211T125136Z">
+        <seg>調整列間距</seg>
       </tuv>
     </tu>
     <tu>
