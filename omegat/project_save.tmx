@@ -13313,8 +13313,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Change the &lt;f0&gt;&lt;f1&gt;Paragraph&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; style and its associated&lt;/f2&gt; &lt;f3&gt;&lt;f4&gt;List&lt;/f4&gt;&lt;/f3&gt; style as each task is completed or &lt;f5&gt;marked as undone.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092326Z" creationid="Jeff Huang" creationdate="20180205T092326Z">
-        <seg>當每個工作完成或&lt;f5&gt;被標記為未完成時&lt;/f5&gt;，變更&lt;f0&gt;&lt;f1&gt;段落&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式與其關聯的&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;清單&lt;/f4&gt;&lt;/f3&gt;樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T024504Z" creationid="Jeff Huang" creationdate="20180205T092326Z">
+        <seg>當工作事項完成後，或是&lt;f5&gt;標記為未完成&lt;/f5&gt;時，就修改&lt;f0&gt;&lt;f1&gt;段落&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式與其關聯的&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;清單&lt;/f4&gt;&lt;/f3&gt;樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35023,8 +35023,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;images&lt;/f0&gt; as bullets</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092345Z" creationid="Jeff Huang" creationdate="20180205T092345Z">
-        <seg>使用&lt;f0&gt;圖片&lt;/f0&gt;做為項目符號</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T024518Z" creationid="Jeff Huang" creationdate="20180205T092345Z">
+        <seg>用&lt;f0&gt;影像&lt;/f0&gt;作項目符號</seg>
       </tuv>
     </tu>
     <tu>
@@ -35055,8 +35055,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Using an image instead of a standard bullet is a convenient way to add some originality to your document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092521Z" creationid="Jeff Huang" creationdate="20180205T092521Z">
-        <seg>使用圖片而非標準的項目符號是一個既方便又能增加你的文件的原創程度的方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T024645Z" creationid="Jeff Huang" creationdate="20180205T092521Z">
+        <seg>想為你的文件增添點原創性的簡便方法，就是用影像取代標準的項目符號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36337,8 +36337,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>With three list styles, you can create both manual and computer-based checklists.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092059Z" creationid="Jeff Huang" creationdate="20180205T092059Z">
-        <seg>有了這三種清單樣式，你就可以同時建立手寫與在電腦上使用的檢查表了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T024352Z" creationid="Jeff Huang" creationdate="20180205T092059Z">
+        <seg>有了這三種清單樣式，你就可以同時製作出紙本檢查表，以及在電腦上使用的檢查表了。</seg>
       </tuv>
     </tu>
     <tu>
