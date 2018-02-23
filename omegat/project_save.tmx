@@ -1514,8 +1514,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adjust the size of the numbers using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Options &gt; Character Style.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152632Z" creationid="Jeff Huang" creationdate="20180205T020827Z">
-        <seg>使用「&lt;f1&gt;&lt;f2&gt;自訂 &gt; 字元樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f0&gt;」調整數字大小。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161004Z" creationid="Jeff Huang" creationdate="20180205T020827Z">
+        <seg>&lt;f0&gt;使用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;自訂 &gt; 字元樣式&lt;/f2&gt;&lt;/f1&gt;」調整數字大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3819,8 +3819,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If your design gets muddled, restart by clicking the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Default &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;button on the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Position &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;tab or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Reset&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; button on the&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Options &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T125718Z" creationid="Jeff Huang" creationdate="20180203T032417Z">
-        <seg>&lt;f0&gt;如果你的設計太過混亂，請點按「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;位置&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁&lt;/f6&gt;中的「&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕，&lt;/f3&gt;或清單樣式視窗右下角的「&lt;f7&gt;&lt;f8&gt;重設&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕&lt;/f9&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161343Z" creationid="Jeff Huang" creationdate="20180203T032417Z">
+        <seg>&lt;f0&gt;如果你的設計太過混亂，請點按「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;位置&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁&lt;/f6&gt;中的「&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕，&lt;/f3&gt;或清單樣式視窗右下角的「&lt;f7&gt;&lt;f8&gt;重設&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕&lt;/f9&gt;&lt;f12&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,8 +6510,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To create a numbered list, select a numbering style from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Number&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T155222Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
-        <seg>&lt;f0&gt;要建立符號清單，從「&lt;f4&gt;&lt;f5&gt;自訂&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;數字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位&lt;/f3&gt;選取編號樣式。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161048Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
+        <seg>&lt;f0&gt;要建立符號清單，從「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;自訂&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;數字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位&lt;/f3&gt;選取編號樣式。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15056,8 +15056,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not use an “and,” “or,” or any other word to introduce the last point in the list, even though that would be grammatically correct.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133715Z" creationid="Jeff Huang" creationdate="20180201T031342Z">
-        <seg>如果是英文條目，請不要在清單中的最後一點使用「and」、「or」的字眼，而中文條目，則不要在最後一點使用「等」或「等等」的字眼，即便文法上這麼說並沒有錯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161455Z" creationid="Jeff Huang" creationdate="20180201T031342Z">
+        <seg>如果是英文條目，請不要在清單中的最後一點使用「and」、「or」的字眼；而中文條目，則不要在最後一點使用「等」或「等等」的字眼，即便文法上這麼說並沒有錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35546,8 +35546,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When a list style is linked to a paragraph style, editing the fields on the &lt;f0&gt;Position&lt;/f0&gt; tab in the list number dialog results in changes to the &lt;f1&gt;Indent &gt; Before &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;text&lt;/f3&gt;&lt;/f2&gt; and &lt;f4&gt;Indent &gt; First &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;l&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ine&lt;/f7&gt; settings &lt;f8&gt;o&lt;/f8&gt;n the &lt;f9&gt;Indents &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&amp;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Spacing&lt;/f12&gt; tab for the paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T130418Z" creationid="Jeff Huang" creationdate="20180203T033829Z">
-        <seg>當清單樣式連結到段落樣式時，如果修改清單樣式對話視窗中的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁欄位，會導致段落樣式的「&lt;f9&gt;縮排&lt;/f9&gt;和&lt;f12&gt;間距&lt;/f12&gt;」標籤頁中的「&lt;f1&gt;縮排 &gt; 文字之前&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;」&lt;/f3&gt;&lt;/f2&gt;與「&lt;f4&gt;縮排 &gt; 第一行&lt;/f4&gt;」設定一併變更。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161317Z" creationid="Jeff Huang" creationdate="20180203T033829Z">
+        <seg>當清單樣式連結到段落樣式時，如果修改清單樣式對話視窗中的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁欄位，會導致段落樣式的「&lt;f1&gt;縮排和間距&lt;/f1&gt;」標籤頁中的「&lt;f4&gt;縮排 &gt; 文字之前&lt;/f4&gt;」與「&lt;f9&gt;縮排 &gt; 第一行&lt;/f9&gt;」設定一併變更。</seg>
       </tuv>
     </tu>
     <tu>
