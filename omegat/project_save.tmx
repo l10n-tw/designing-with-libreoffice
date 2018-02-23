@@ -2101,8 +2101,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;By default, tables occupy the entire width of a line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T030227Z" creationid="Jeff Huang" creationdate="20180211T030227Z">
-        <seg>&lt;f0&gt;表格預設會佔據一行的完整寬度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123852Z" creationid="Jeff Huang" creationdate="20180211T030227Z">
+        <seg>&lt;f0&gt;表格預設會佔據整整一行的寬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,8 +9209,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f5&gt;Using the menu is generally easier.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025854Z" creationid="Jeff Huang" creationdate="20180211T025854Z">
-        <seg>&lt;f5&gt;使用選單一般來說較容易。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123813Z" creationid="Jeff Huang" creationdate="20180211T025854Z">
+        <seg>&lt;f5&gt;使用選單的做法一般來說比較容易。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,8 +17003,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, you might want a table heading to straddle more than one column.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123611Z" creationid="Jeff Huang" creationdate="20180211T025332Z">
-        <seg>舉例來說，你可能會想讓標題跨越多欄。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123624Z" creationid="Jeff Huang" creationdate="20180211T025332Z">
+        <seg>舉例來說，你可能會想讓標題跨越多欄之類。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20326,8 +20326,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you ever need to know the exact space between margins, you can right-click on &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table Properties&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and read the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field on the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Table &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;tab to get the information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T030705Z" creationid="Jeff Huang" creationdate="20180211T030705Z">
-        <seg>如果你需要知道邊距間的準確間距，你可以右鍵點按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格屬性&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;並在&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;表格&lt;/f8&gt;&lt;/f7&gt;標籤頁上讀取&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位&lt;/f6&gt;&lt;f9&gt;以取得資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124009Z" creationid="Jeff Huang" creationdate="20180211T030705Z">
+        <seg>如果你需要知道邊距之間的實際數值，可以在右鍵選單中點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格屬性&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，並在&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;表格&lt;/f8&gt;&lt;/f7&gt;標籤頁上讀取「&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位&lt;/f6&gt;&lt;f9&gt;取得相關資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33821,8 +33821,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To delete an entire table, &lt;f0&gt;place the mouse cursor anywhere in the table and either click&lt;/f0&gt; &lt;f1&gt;Table &gt; Delete &gt; Table &lt;/f1&gt;from the &lt;f2&gt;main &lt;/f2&gt;menu or select &lt;f3&gt;the table as well as&lt;/f3&gt; the space before and after the table and press the &lt;f4&gt;Delete&lt;/f4&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025826Z" creationid="Jeff Huang" creationdate="20180211T025826Z">
-        <seg>要刪除整份表格，&lt;f0&gt;將滑鼠游標置於表格中的任一處，然後從主選單中點按&lt;/f0&gt;&lt;f1&gt;「表格 &gt; 刪除 &gt; 表格」&lt;/f1&gt;或是選取&lt;f3&gt;表格與&lt;/f3&gt;表格前後的空間並按下&lt;f4&gt;Delete&lt;/f4&gt;鍵。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123803Z" creationid="Jeff Huang" creationdate="20180211T025826Z">
+        <seg>若要刪除整份表格，&lt;f0&gt;將滑鼠游標置於表格中的任一處，然後從主選單中點按&lt;/f0&gt;&lt;f1&gt;「表格 &gt; 刪除 &gt; 表格」，或右鍵選單中點按「刪除 &gt; 表格」，&lt;/f1&gt;抑或是拖曳選取&lt;f3&gt;表格與&lt;/f3&gt;表格前後的空白空間並按下&lt;f4&gt;Delete&lt;/f4&gt;鍵。</seg>
       </tuv>
     </tu>
     <tu>
