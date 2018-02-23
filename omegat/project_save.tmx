@@ -4632,8 +4632,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number recognition:&lt;/f0&gt; &lt;f1&gt;Selected from the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T091805Z" creationid="Jeff Huang" creationdate="20180212T091805Z">
-        <seg>&lt;f0&gt;數字識別：&lt;/f0&gt;&lt;f1&gt;從&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;表格&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;選單中選取。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T142619Z" creationid="Jeff Huang" creationdate="20180212T091805Z">
+        <seg>&lt;f0&gt;數字識別：&lt;/f0&gt;&lt;f1&gt;從主選單的「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;表格&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」選單中選取。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19548,8 +19548,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Identifies input specifically as numbers and right aligns it.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T091858Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
-        <seg>將輸入識別為數字並向右對齊。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T142915Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
+        <seg>將輸入內容指定識別為數字，並向右對齊。&lt;/f4&gt;（按下去看不出效果耶…怎麼讓它作用？？如果沒作用就改寫。）</seg>
       </tuv>
     </tu>
     <tu>
