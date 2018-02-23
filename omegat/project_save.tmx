@@ -28063,8 +28063,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since LibreOffice does not recognized reverse order lists, &lt;f0&gt;it will not automatically generate numbers.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T022756Z" creationid="Jeff Huang" creationdate="20180205T022756Z">
-        <seg>因為LibreOffice無法識別倒序清單，&lt;f0&gt;所以其無法自動生成編號。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020918Z" creationid="Jeff Huang" creationdate="20180205T022756Z">
+        <seg>LibreOffice無法辨識倒序清單，&lt;f0&gt;所以無法自動生成數字編號。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
