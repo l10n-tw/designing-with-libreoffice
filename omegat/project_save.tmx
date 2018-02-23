@@ -1094,8 +1094,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Alignment: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Available from &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table &gt; Input in Tables&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Alignment&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; places numbers in the lower right corner of a cell, as in a spreadsheet.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143246Z" creationid="Jeff Huang" creationdate="20180212T093031Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;對齊：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;可從「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 表格 &gt; 表格中輸入&lt;/f4&gt;&lt;/f3&gt;」使用，勾選「&lt;f6&gt;&lt;f7&gt;對齊&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」可將數字放在儲存格的右下角，就像試算表那樣。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T160348Z" creationid="Jeff Huang" creationdate="20180212T093031Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;對齊：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;可從「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 表格 &gt; 表格中輸入&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」使用，勾選「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;對齊&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」可將數字放在儲存格的右下角，就像試算表那樣。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37223,8 +37223,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can use &lt;f2&gt;Spacing &gt; Left&lt;/f2&gt; &lt;f3&gt;to indent the left&lt;/f3&gt; side of the &lt;f4&gt;table&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125115Z" creationid="Jeff Huang" creationdate="20180211T032840Z">
-        <seg>你可以使用「&lt;f2&gt;&lt;f3&gt;間隔 &gt; 向左&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」來讓表格往左側縮排。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T160521Z" creationid="Jeff Huang" creationdate="20180211T032840Z">
+        <seg>你可以使用「&lt;f2&gt;間隔 &gt; 向左&lt;/f2&gt;&lt;f3&gt;」來讓&lt;/f3&gt;&lt;f4&gt;表格&lt;/f4&gt;往左側縮排。</seg>
       </tuv>
     </tu>
     <tu>
