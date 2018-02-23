@@ -18910,8 +18910,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, notice that this field refers to the first time that the list style is used in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021712Z" creationid="Jeff Huang" creationdate="20180205T021712Z">
-        <seg>但是請注意，這個欄位是清單樣式第一次用在文件中時才會套用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020010Z" creationid="Jeff Huang" creationdate="20180205T021712Z">
+        <seg>但是請注意，這個欄位所指定的數字，只會在文件中第一次用到這個清單樣式時套用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29714,8 +29714,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Options&lt;/f0&gt; tab for a number&lt;f1&gt;ing&lt;/f1&gt; &lt;f2&gt;style&lt;/f2&gt; includes a &lt;f3&gt;Start at&lt;/f3&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T021620Z" creationid="Jeff Huang" creationdate="20180205T021620Z">
-        <seg>編號&lt;f2&gt;樣式&lt;/f2&gt;的&lt;f0&gt;選項&lt;/f0&gt;標籤頁包含了&lt;f3&gt;起始編號&lt;/f3&gt;欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T015539Z" creationid="Jeff Huang" creationdate="20180205T021620Z">
+        <seg>編號&lt;f2&gt;樣式&lt;/f2&gt;的「&lt;f0&gt;自訂&lt;/f0&gt;」標籤頁有個「&lt;f3&gt;開始於&lt;/f3&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
