@@ -2101,8 +2101,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;By default, tables occupy the entire width of a line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123852Z" creationid="Jeff Huang" creationdate="20180211T030227Z">
-        <seg>&lt;f0&gt;表格預設會佔據整整一行的寬度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124151Z" creationid="Jeff Huang" creationdate="20180211T030227Z">
+        <seg>&lt;f0&gt;表格預設會佔據完整一行的寬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4543,8 +4543,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most times, you will want to use the entire space between the horizontal margins.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T054357Z" creationid="Jeff Huang" creationdate="20180210T025559Z">
-        <seg>&lt;f0&gt;大多數情況下，你可能會想要在邊緣用水平的整個空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124105Z" creationid="Jeff Huang" creationdate="20180210T025559Z">
+        <seg>&lt;f0&gt;多數情況下，你可能會想用到邊距之間的整個水平寬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6496,11 +6496,12 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <note>可是我選取來之後，不能在對話視窗中調整「寬度」耶，是灰色的，不能調整… 如果真的不行的話，要修改對應內容。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To adjust a table’s overall width, select from the right-click menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table &gt; Table &gt; Width.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Alternatively, if you prefer, you can adjust the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Alignment&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; options.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T031015Z" creationid="Jeff Huang" creationdate="20180211T031015Z">
-        <seg>&lt;f0&gt;要調整整體表格的寬度，從右鍵選單中選取&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「表格 &gt; 表格 &gt; 寬度」。&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或著，如果你願意的話，也可以調整&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;對齊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;與&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;間距&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;選項。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124350Z" creationid="Jeff Huang" creationdate="20180211T031015Z">
+        <seg>&lt;f0&gt;若要調整表格的整體寬度，請從右鍵選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格 &gt; 表格 &gt; 寬度&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。或著，如果你願意的話，也可以調整「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;對齊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」與「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;間隔&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」選項。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9209,8 +9210,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f5&gt;Using the menu is generally easier.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123813Z" creationid="Jeff Huang" creationdate="20180211T025854Z">
-        <seg>&lt;f5&gt;使用選單的做法一般來說比較容易。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124145Z" creationid="Jeff Huang" creationdate="20180211T025854Z">
+        <seg>&lt;f5&gt;使用選單的做法一般而言比較簡單。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
