@@ -950,8 +950,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;However, it is available if it will be useful for captions if you prefer not to place captions in a frame.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134406Z" creationid="Jeff Huang" creationdate="20180211T134406Z">
-        <seg>&lt;/f4&gt;&lt;f6&gt;不過，如果你不想把標題放在框架中，這就相當有用。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141643Z" creationid="Jeff Huang" creationdate="20180211T134406Z">
+        <seg>&lt;/f4&gt;&lt;f6&gt;不過，如果你不希望把圖表標示說明放到外框中的話，這個選項就相當有用了。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Convert: Table &gt; Convert&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; in the main menu converts text to a table, or a table to text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134828Z" creationid="Jeff Huang" creationdate="20180211T134828Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;轉換：在主選單中的「表格 &gt; 轉換」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;可以將文字轉換為表格，或是將表格轉換為文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141859Z" creationid="Jeff Huang" creationdate="20180211T134828Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;轉換：主選單中的「表格 &gt; 轉換」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;選項，可以將「文字轉換為表格」，或是將「表格轉換為文字」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5153,8 +5153,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Repeat Heading:&lt;/f0&gt; &lt;f1&gt;Repeats the top row(s) of a table on each page if the table continues on another page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134512Z" creationid="Jeff Huang" creationdate="20180211T134512Z">
-        <seg>&lt;f0&gt;重覆標題：&lt;/f0&gt;&lt;f1&gt;如果表格內容在另一列的話，重覆表格的前幾列。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141715Z" creationid="Jeff Huang" creationdate="20180211T134512Z">
+        <seg>&lt;f0&gt;重覆標題：&lt;/f0&gt;&lt;f1&gt;如果表格內容延續到另一頁的話，就重覆表格的前幾列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14093,8 +14093,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Converting text to a table requires markers to mark columns and rows, and is rarely worth the effort.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T135028Z" creationid="Jeff Huang" creationdate="20180211T135028Z">
-        <seg>將文字轉換為表格需要先手動標記欄與列，是很不值得的努力。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141956Z" creationid="Jeff Huang" creationdate="20180211T135028Z">
+        <seg>如果要將文字轉換為表格的話，需要先手動標記好欄與列，但根本不值得你這麼做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26462,8 +26462,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Repeating multiple rows will usually only be needed when you have complicated headings that take up more than a single row.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134649Z" creationid="Jeff Huang" creationdate="20180211T134649Z">
-        <seg>大部份情況下，只有複雜的佔用多於一列的標題才需要重覆多列。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141741Z" creationid="Jeff Huang" creationdate="20180211T134649Z">
+        <seg>大部份情況下，只有佔用一列以上的複雜標題才需要重覆多列。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
