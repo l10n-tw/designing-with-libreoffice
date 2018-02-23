@@ -4565,11 +4565,12 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <note>目前會是第三個，排在預設樣式和學術研究兩者之後。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;N&lt;/f0&gt;ame the new AutoFormat&lt;f1&gt;.&lt;/f1&gt; Until you close the dialog window, the new AutoFormat displays at the top of the window’s list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T132600Z" creationid="Jeff Huang" creationdate="20180212T132600Z">
-        <seg>為新的自動格式命名。在關閉對話框前，新的自動格式會顯示在視窗清單的頂部。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T153151Z" creationid="Jeff Huang" creationdate="20180212T132600Z">
+        <seg>再來為新的自動格式命名。在關閉對話框前，新的自動格式會顯示在視窗清單中的前面。</seg>
       </tuv>
     </tu>
     <tu>
