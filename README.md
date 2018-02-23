@@ -29,7 +29,7 @@
 
 ## 翻譯階段
 * 已完成的有：
-第一章至第五章，第十二章至第十六章、附錄A至附錄D
+第一章至第五章，第九章、第十二章至第十六章、附錄A至附錄D
 
 括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十五章 (Franklin Weng)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
 
