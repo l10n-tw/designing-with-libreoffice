@@ -10331,8 +10331,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adding a caption &lt;f0&gt;to the table&lt;/f0&gt; adds a frame &lt;f1&gt;around&lt;/f1&gt; the table &lt;f2&gt;and the caption&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124153Z" creationid="Jeff Huang" creationdate="20180212T124153Z">
-        <seg>&lt;f0&gt;在表格中&lt;/f0&gt;新增標題會在表格&lt;f2&gt;與標題&lt;/f2&gt;&lt;f1&gt;週邊&lt;/f1&gt;加入框架。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151258Z" creationid="Jeff Huang" creationdate="20180212T124153Z">
+        <seg>&lt;f0&gt;在表格中&lt;/f0&gt;新增圖表標示的話，會自動在表格&lt;f2&gt;與圖表標示&lt;/f2&gt;&lt;f1&gt;的周圍&lt;/f1&gt;加入外框。</seg>
       </tuv>
     </tu>
     <tu>
