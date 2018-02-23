@@ -6105,8 +6105,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The default character style for bullets is &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Bullets&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T025209Z" creationid="Jeff Huang" creationdate="20180205T023145Z">
-        <seg>&lt;f0&gt;項目符號預設的字元樣式是&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「項目符號」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T021002Z" creationid="Jeff Huang" creationdate="20180205T023145Z">
+        <seg>&lt;f0&gt;項目符號的預設字元樣式是&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「項目符號」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19444,8 +19444,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you might want to change the symbol using the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Character&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023305Z" creationid="Jeff Huang" creationdate="20180205T023305Z">
-        <seg>不過，你可能會想要使用&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄來變更符號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T021228Z" creationid="Jeff Huang" creationdate="20180205T023305Z">
+        <seg>不過，你也可能想要使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位變更符號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22277,8 +22277,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It gives you a standard bullet for the Default style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T023218Z" creationid="Jeff Huang" creationdate="20180205T023218Z">
-        <seg>其為你提供了預設樣式的標準項目符號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T021204Z" creationid="Jeff Huang" creationdate="20180205T023218Z">
+        <seg>它提供「預設樣式」下的標準項目符號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28063,8 +28063,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since LibreOffice does not recognized reverse order lists, &lt;f0&gt;it will not automatically generate numbers.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020918Z" creationid="Jeff Huang" creationdate="20180205T022756Z">
-        <seg>LibreOffice無法辨識倒序清單，&lt;f0&gt;所以無法自動生成數字編號。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020943Z" creationid="Jeff Huang" creationdate="20180205T022756Z">
+        <seg>LibreOffice無法辨識倒序清單，&lt;f0&gt;所以無法自動生成倒數數字。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
