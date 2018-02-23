@@ -1,6 +1,6 @@
 # 《Designing with LibreOffice》正體中文翻譯
 ## 專案目標
-簡單說，就是把《[Designing with LibreOffice](http://designingwithlibreoffice.com/)》這本由 Bruce Byfield 所著作的書翻譯成中文版，並且針對 5.4 時下最新版本重製。等待完成後，再改版為 6.0 版。
+簡單說，就是把《[Designing with LibreOffice](http://designingwithlibreoffice.com/)》這本由 Bruce Byfield 所著作的書翻譯成中文版，並且針對 6.0 時下最新版本重製。等待完成後，再改版為 5.4 版。
 
 ## 實現方式
 * OmegaT 4.1.2_beta2 翻譯輔助工具 https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%204.1.2%20update%202/
@@ -29,15 +29,15 @@
 
 ## 翻譯階段
 * 已完成的有：
-第一章至第五章，第十二章至第十四章、第十六章、附錄A至附錄D
+第一章至第五章，第十二章至第十六章、附錄A至附錄D
 
-括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
+括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十五章 (Franklin Weng)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
 
 * 翻譯中的有：
-第六章（Mark Hung）、第七章 (Vdragon)、第十一章 (Cheng-Chia Tseng)、第十五章 (Franklin Weng)
+第六章（Mark Hung）、第七章 (Vdragon)、第十一章 (Cheng-Chia Tseng)
 
 * 校對中的有：
-第八章（未）、第九章 (未)、第十章 (Cheng-Chia Tseng)
+第八章（未）、第九章 (未)、第十章 (Cheng-Chia Tseng)、第十五章（未）
 
 * 未處理的有：
 
