@@ -1124,6 +1124,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>哭哭。T-T</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Allow table to split across pages and columns:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; A multi-page table tends to defeat the purpose of making information easily read.</seg>
       </tuv>
@@ -1627,8 +1628,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Allow row to split across pages and columns: &lt;/f0&gt;&lt;f1&gt;This option has the same trade-off as allowing the entire table to split, but to a lesser extent.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T131955Z" creationid="Jeff Huang" creationdate="20180211T131955Z">
-        <seg>&lt;f0&gt;允許列可跨頁與跨欄隔斷：&lt;/f0&gt;&lt;f1&gt;這個選項與允許整格表格分割有相同的折衷方式類似，但程度較輕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141323Z" creationid="Jeff Huang" creationdate="20180211T131955Z">
+        <seg>&lt;f0&gt;允許列可跨頁與跨欄隔斷：&lt;/f0&gt;&lt;f1&gt;這個選項和允許分割整份表格有同樣的取捨方式，只是程度較輕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18325,8 +18326,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, a table that does not split often makes for uneven page breaks.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T131637Z" creationid="Jeff Huang" creationdate="20180211T131637Z">
-        <seg>不過，表格不分割又會導致分頁不均勻。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141129Z" creationid="Jeff Huang" creationdate="20180211T131637Z">
+        <seg>不過，如果多頁表格不分割的話，又會導致分頁不均勻。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
