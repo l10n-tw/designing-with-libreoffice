@@ -13257,8 +13257,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cell borders, &lt;f0&gt;shading for alternate rows&lt;/f0&gt;, and other &lt;f1&gt;elaborate design &lt;/f1&gt;elements should be minimized.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033435Z" creationid="Jeff Huang" creationdate="20180210T033435Z">
-        <seg>儲存格邊框、&lt;f0&gt;著色&lt;/f0&gt;與其他&lt;f1&gt;精心設計的&lt;/f1&gt;元素應該儘量減少。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T085452Z" creationid="Jeff Huang" creationdate="20180210T033435Z">
+        <seg>儲存格邊框、&lt;f0&gt;著色&lt;/f0&gt;、其他&lt;f1&gt;精心設計的&lt;/f1&gt;元素等，都應該盡量減少使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26444,8 +26444,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Remember to use white space to help with the design, &lt;f0&gt;especially when setting the distance from a cell’s borders and its contents.&lt;/f0&gt; &lt;f1&gt;A cramped table defeats the purpose of using a table in the first place.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T033838Z" creationid="Jeff Huang" creationdate="20180210T033838Z">
-        <seg>請記得使用空白的地方來協助設計，&lt;f0&gt;尤其是在設定儲存格邊框與其內容間的距離時。&lt;/f0&gt;&lt;f1&gt;使用過於狹小的表格就失去了表格的原意了。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T105941Z" creationid="Jeff Huang" creationdate="20180210T033838Z">
+        <seg>請記得使用空白協助設計，&lt;f0&gt;尤其是儲存格邊框與其內容之間的距離設定。&lt;/f0&gt;&lt;f1&gt;過於狹窄的表格一開始就失去了表格的用意了。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
