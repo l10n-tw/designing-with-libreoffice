@@ -14715,8 +14715,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Depending on the purpose of the list, you can also create a third &lt;f0&gt;list &lt;/f0&gt;style that uses the character U+E532 (an X mark) to indicate items that were not completed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T092005Z" creationid="Jeff Huang" creationdate="20180205T092005Z">
-        <seg>根據清單的用途，你還可以建立第三種&lt;f0&gt;清單&lt;/f0&gt;樣式，其使用了U+E532字元（打叉的標記）來指示尚未完成的項目。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T024323Z" creationid="Jeff Huang" creationdate="20180205T092005Z">
+        <seg>根據清單的用途，你還可以建立第三個&lt;f0&gt;清單&lt;/f0&gt;樣式，使用U+E532字元（打叉記號的方框）指出表中尚未完成的項目。</seg>
       </tuv>
     </tu>
     <tu>
