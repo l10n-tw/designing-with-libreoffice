@@ -1102,8 +1102,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Alignment&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; can usually be ignored, but can help with the spacing between the bullet and the text.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T064106Z" creationid="Jeff Huang" creationdate="20180208T064106Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;通常可以被忽略，但可以協助項目符號與文字的間距更好辨認。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030358Z" creationid="Jeff Huang" creationdate="20180208T064106Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;對齊&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」通常可以忽略，但可以協助讓項目符號與項目文字的間距更好閱讀。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,8 +4138,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;r&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;atio&lt;/f3&gt;, &lt;f4&gt;&lt;f5&gt;w&lt;/f5&gt;&lt;/f4&gt;hen selected, &lt;f6&gt;ensures&lt;/f6&gt; that &lt;f7&gt;changing either &lt;/f7&gt;the &lt;f8&gt;&lt;f9&gt;Width&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; or &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Height&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field &lt;/f13&gt;change&lt;f14&gt;s the other&lt;/f14&gt; proportionally.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T063750Z" creationid="Jeff Huang" creationdate="20180208T063750Z">
-        <seg>&lt;f0&gt;保留&lt;/f0&gt;比例，當選定後，&lt;f6&gt;請確保&lt;/f6&gt;&lt;f7&gt;不論是在變更&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;寬度&lt;/f9&gt;&lt;/f8&gt;或&lt;f11&gt;&lt;f12&gt;高度&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;欄位&lt;/f13&gt;時按比例變更另一個。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030311Z" creationid="Jeff Huang" creationdate="20180208T063750Z">
+        <seg>選擇「&lt;f0&gt;保持&lt;/f0&gt;比例」&lt;f6&gt;可以確保&lt;/f6&gt;&lt;f7&gt;修改「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;寬度&lt;/f9&gt;&lt;/f8&gt;」或「&lt;f11&gt;&lt;f12&gt;高度&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;」任一欄位&lt;/f13&gt;時，都會按照比例一併變更另一欄。</seg>
       </tuv>
     </tu>
     <tu>
