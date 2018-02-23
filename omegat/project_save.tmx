@@ -7018,8 +7018,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you use&lt;/f0&gt; an unusual character &lt;f1&gt;style &lt;/f1&gt;for bullets, &lt;f2&gt;be sure to include the font used when you share a file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T085806Z" creationid="Jeff Huang" creationdate="20180205T085806Z">
-        <seg>&lt;f0&gt;當你在項目符號上使用&lt;/f0&gt;不尋常的字元&lt;f1&gt;樣式時&lt;/f1&gt;，&lt;f2&gt;請在分享檔案時也包含所使用的字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T021654Z" creationid="Jeff Huang" creationdate="20180205T085806Z">
+        <seg>&lt;f0&gt;如果你的項目符號有用到&lt;/f0&gt;不尋常的字元&lt;f1&gt;樣式&lt;/f1&gt;，&lt;f2&gt;記得在分享檔案時也要附上你所使用的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30831,11 +30831,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>嗯，因為項目符號不該歸類在「數字」底下。</note>
       <tuv lang="EN">
         <seg>The field name is deceptive: To set up a bullet list, select &lt;f0&gt;Options &gt; Number &gt; Bullet&lt;/f0&gt; in a list style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T090034Z" creationid="Jeff Huang" creationdate="20180205T090034Z">
-        <seg>欄位名稱有點誤導：要設定項目符號清單，請在清單樣式中選取&lt;f0&gt;「選項 &gt; 編號 &gt; 項目符號」&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T021907Z" creationid="Jeff Huang" creationdate="20180205T090034Z">
+        <seg>欄位名稱的部分有點誤導人：想設定項目符號清單，要在清單樣式中選取「&lt;f0&gt;自訂 &gt; 數字 &gt; 項目符號&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
