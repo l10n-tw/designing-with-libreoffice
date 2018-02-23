@@ -3238,8 +3238,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From Left: &lt;/f0&gt;The table shifts by the amount in the &lt;f1&gt;Spacing &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Left&lt;/f3&gt;&lt;/f2&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032532Z" creationid="Jeff Huang" creationdate="20180211T032532Z">
-        <seg>&lt;f0&gt;從左：&lt;/f0&gt;表格會按&lt;f1&gt;「間距 &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;向左」&lt;/f3&gt;&lt;/f2&gt;欄位中的數字偏移。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124934Z" creationid="Jeff Huang" creationdate="20180211T032532Z">
+        <seg>&lt;f0&gt;從左：&lt;/f0&gt;表格會按「&lt;f1&gt;間距 &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;向左&lt;/f3&gt;&lt;/f2&gt;」欄位中設定的數字偏移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4231,8 +4231,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; The &lt;f1&gt;left side of the table aligns with the page’s left margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032416Z" creationid="Jeff Huang" creationdate="20180211T031922Z">
-        <seg>&lt;f0&gt;左方：&lt;/f0&gt;&lt;f1&gt;表格左邊對齊頁面的左邊距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124824Z" creationid="Jeff Huang" creationdate="20180211T031922Z">
+        <seg>&lt;f0&gt;左方：&lt;/f0&gt;&lt;f1&gt;表格左側對齊頁面的左邊距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6496,7 +6496,7 @@ f2</note>
       </tuv>
     </tu>
     <tu>
-      <note>可是我選取來之後，不能在對話視窗中調整「寬度」耶，是灰色的，不能調整… 如果真的不行的話，要修改對應內容。</note>
+      <note>選取來之後，不能在對話視窗中調整「寬度」耶，是灰色的，不能調整… 這是因為「自動」對齊的關係，後面會解說。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To adjust a table’s overall width, select from the right-click menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Table &gt; Table &gt; Width.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Alternatively, if you prefer, you can adjust the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Alignment&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; options.&lt;/f9&gt;</seg>
       </tuv>
@@ -30286,8 +30286,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The available options depend on your choice of alignments:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T031801Z" creationid="Jeff Huang" creationdate="20180211T031801Z">
-        <seg>可用的選項取決於你在對齊欄的選擇：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124713Z" creationid="Jeff Huang" creationdate="20180211T031801Z">
+        <seg>可用的選項取決於你在「對齊」欄中的選擇：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37259,8 +37259,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can use &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Spacing &gt; Right&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; to indent the right side of the table.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T032539Z" creationid="Jeff Huang" creationdate="20180211T032022Z">
-        <seg>你可以使用&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「間距 &gt; 向右」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;來讓表格右邊縮排。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124855Z" creationid="Jeff Huang" creationdate="20180211T032022Z">
+        <seg>你可以調整「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;間隔 &gt; 向右&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」的設定讓表格往右側縮排。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
