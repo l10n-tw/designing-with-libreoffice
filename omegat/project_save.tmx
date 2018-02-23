@@ -1127,8 +1127,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Allow table to split across pages and columns:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; A multi-page table tends to defeat the purpose of making information easily read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T131545Z" creationid="Jeff Huang" creationdate="20180211T131545Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;允許跨頁和跨欄分割表格：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;一個多頁的表格往往讓資訊的易讀性付之闕如。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141018Z" creationid="Jeff Huang" creationdate="20180211T131545Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;允許跨頁和跨欄分割表格：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;多頁的表格往往會讓資訊的易讀性付之闕如。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1263,8 +1263,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Repeat Heading:&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Repeats the top row(s) of a table on each page if the table continues on another page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T140759Z" creationid="Jeff Huang" creationdate="20180211T130452Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;重覆標題：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;如果表格在另外一頁接續的話&lt;就重覆表格的頂端列。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T140834Z" creationid="Jeff Huang" creationdate="20180211T130452Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;重覆標題：&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;如果表格接續到另外一頁的話，就重覆表格的頂端列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26469,8 +26469,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Repeating multiple rows will usually only be needed when you have complicated headings that take up more than a single row.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T134637Z" creationid="Jeff Huang" creationdate="20180211T131213Z">
-        <seg>大部份情況下，只有複雜的佔用多於一列的標題才需要重覆多列。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T140936Z" creationid="Jeff Huang" creationdate="20180211T131213Z">
+        <seg>通常只有佔用一列以上的複雜標題才需要重覆多列。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35327,8 +35327,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Usually, you need only the first row when it serves as a table heading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T130654Z" creationid="Jeff Huang" creationdate="20180211T130654Z">
-        <seg>一般來說，你只需要第一列用來當作表格標題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T140855Z" creationid="Jeff Huang" creationdate="20180211T130654Z">
+        <seg>一般來說，你只需要用第一列作為表格標題。</seg>
       </tuv>
     </tu>
     <tu>
