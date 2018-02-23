@@ -4042,8 +4042,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Cell&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sub-menu, you can split a single selected cell, or merge two or more selected cells, altering the general table design for your specific purposes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025219Z" creationid="Jeff Huang" creationdate="20180211T025219Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;儲存格&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;子選單中，你可以分離選定的儲存格，或是合併兩個或更多個選定的儲存格，將通用的表格設計更換為根據你的特定用途所設計的表格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123542Z" creationid="Jeff Huang" creationdate="20180211T025219Z">
+        <seg>&lt;del&gt;&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;儲存格&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;子選單中，你可以分離選定的儲存格，或是合併兩個或更多個選定的儲存格，將通用的表格設計更換為根據你的特定用途所設計的表格。&lt;/del&gt;（5.4 以後已經沒有這個子選單囉）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15462,8 +15462,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Editing &lt;f0&gt;table parts&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123017Z" creationid="Jeff Huang" creationdate="20180211T024040Z">
-        <seg>編輯&lt;f0&gt;表格部件&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123414Z" creationid="Jeff Huang" creationdate="20180211T024040Z">
+        <seg>編輯&lt;f0&gt;表格部分&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,8 +17003,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, you might want a table heading to straddle more than one column.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T025332Z" creationid="Jeff Huang" creationdate="20180211T025332Z">
-        <seg>舉例來說，你可能會需要讓標題欄跨越多列。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123611Z" creationid="Jeff Huang" creationdate="20180211T025332Z">
+        <seg>舉例來說，你可能會想讓標題跨越多欄。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17558,8 +17558,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>From these sub-menus, you can &lt;f3&gt;s&lt;/f3&gt;elect, &lt;f4&gt;i&lt;/f4&gt;nsert, or &lt;f5&gt;d&lt;/f5&gt;elete parts of a table, as well as adjusting their width or height.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T024801Z" creationid="Jeff Huang" creationdate="20180211T024801Z">
-        <seg>從這些子選單中，你可以選取、插入或刪除表格的某些元件，也可以調整它們的寬度與高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123410Z" creationid="Jeff Huang" creationdate="20180211T024801Z">
+        <seg>從這些子選單中，你可以選取、插入或刪除表格的某些部分，也可以調整寬度與高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36018,8 +36018,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When you right-click in a table and select &lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Properties&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;from the right-click menu, &lt;/f3&gt;you &lt;f4&gt;can &lt;/f4&gt;edit all parts of the table that are currently selected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123056Z" creationid="Jeff Huang" creationdate="20180211T024245Z">
-        <seg>當你在表格上按右鍵，並&lt;f3&gt;從右鍵選單&lt;/f3&gt;選取「&lt;f0&gt;表格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;屬性&lt;/f2&gt;&lt;/f1&gt;」後，你就&lt;f4&gt;可以&lt;/f4&gt;編輯目前選定表格的所有部件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123419Z" creationid="Jeff Huang" creationdate="20180211T024245Z">
+        <seg>當你在表格上按右鍵，並&lt;f3&gt;從右鍵選單&lt;/f3&gt;選取「&lt;f0&gt;表格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;屬性&lt;/f2&gt;&lt;/f1&gt;」後，你就&lt;f4&gt;可以&lt;/f4&gt;編輯目前選定表格的所有部分。</seg>
       </tuv>
     </tu>
     <tu>
