@@ -4155,8 +4155,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Keep with next &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;paragraph&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;: &lt;/f3&gt;&lt;f4&gt;Since a table usually requires an introduction, this setting should only be needed occasionally.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T132301Z" creationid="Jeff Huang" creationdate="20180211T132301Z">
-        <seg>&lt;f0&gt;與下段同頁&lt;/f0&gt;：&lt;f4&gt;由於表格通常會需要簡介，所以這個設定用到的機會應該很少。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141607Z" creationid="Jeff Huang" creationdate="20180211T132301Z">
+        <seg>&lt;f0&gt;與下個段落同頁&lt;/f0&gt;：&lt;f4&gt;因為表格通常會先在前方內文引導後才出現，所以這個設定應該爾偶才會用到。</seg>
       </tuv>
     </tu>
     <tu>
