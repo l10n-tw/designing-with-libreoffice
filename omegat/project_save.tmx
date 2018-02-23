@@ -1885,8 +1885,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;AutoFormats&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;are the closest that Writer gets to table styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124707Z" creationid="Jeff Huang" creationdate="20180212T124707Z">
-        <seg>&lt;f0&gt;自動格式&lt;/f0&gt;&lt;f3&gt;在Writer上相當接近表格樣式了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151615Z" creationid="Jeff Huang" creationdate="20180212T124707Z">
+        <seg>&lt;f0&gt;自動格式&lt;/f0&gt;&lt;f3&gt;在Writer中相當接近表格樣式的概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10331,8 +10331,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adding a caption &lt;f0&gt;to the table&lt;/f0&gt; adds a frame &lt;f1&gt;around&lt;/f1&gt; the table &lt;f2&gt;and the caption&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151258Z" creationid="Jeff Huang" creationdate="20180212T124153Z">
-        <seg>&lt;f0&gt;在表格中&lt;/f0&gt;新增圖表標示的話，會自動在表格&lt;f2&gt;與圖表標示&lt;/f2&gt;&lt;f1&gt;的周圍&lt;/f1&gt;加入外框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151312Z" creationid="Jeff Huang" creationdate="20180212T124153Z">
+        <seg>&lt;f0&gt;對表格&lt;/f0&gt;加入圖表標示的話，會自動在表格&lt;f2&gt;與圖表標示&lt;/f2&gt;&lt;f1&gt;的周圍&lt;/f1&gt;加入外框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19969,8 +19969,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are having trouble with frames staying in place, add a row with no borders to the bottom of the table and place the caption there.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124324Z" creationid="Jeff Huang" creationdate="20180212T124324Z">
-        <seg>如果你在使用框架時遇到問題，請在表格底部新增一個沒有邊框的列，然後將標題置於其中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151507Z" creationid="Jeff Huang" creationdate="20180212T124324Z">
+        <seg>如果你在安放外框定位時遇到問題，可以改為在表格底部新增一列沒有邊框的列，然後把圖表標示寫在這一列中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28990,8 +28990,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Table &lt;f0&gt;AutoF&lt;/f0&gt;ormats are a partial substitute for styles, but the pre-defined formats include many o&lt;f1&gt;bsolete&lt;/f1&gt; designs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T124538Z" creationid="Jeff Huang" creationdate="20180212T124538Z">
-        <seg>表格的&lt;f0&gt;自動格式&lt;/f0&gt;是樣式的部份替代，但是預先定義好的格式包含了許多&lt;f1&gt;過時的&lt;/f1&gt;設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151557Z" creationid="Jeff Huang" creationdate="20180212T124538Z">
+        <seg>表格的「&lt;f0&gt;自動格式&lt;/f0&gt;」是樣式的部份替代品，但這些預先定義好的格式有許多是&lt;f1&gt;過時的&lt;/f1&gt;設計。</seg>
       </tuv>
     </tu>
     <tu>
