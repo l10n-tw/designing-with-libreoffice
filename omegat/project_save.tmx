@@ -6630,8 +6630,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Type the text to accompany the graphic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T065945Z" creationid="Jeff Huang" creationdate="20180208T065945Z">
-        <seg>&lt;f0&gt;輸入文字以陪伴圖案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T031516Z" creationid="Jeff Huang" creationdate="20180208T065945Z">
+        <seg>&lt;f0&gt;輸入伴隨圖形的文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11411,8 +11411,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Apply the &lt;f0&gt;paragraph &lt;/f0&gt;style &lt;f1&gt;as needed.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T065740Z" creationid="Jeff Huang" creationdate="20180208T065740Z">
-        <seg>根據&lt;f1&gt;所需&lt;/f1&gt;&gt;應用&lt;f0&gt;段落&lt;/f0&gt;樣式</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T031451Z" creationid="Jeff Huang" creationdate="20180208T065740Z">
+        <seg>視&lt;f1&gt;所需&lt;/f1&gt;套用相關&lt;f0&gt;段落&lt;/f0&gt;樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37748,8 +37748,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You must enter at least one character or a space, or else the graphic disappears when you press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key, leaving the indent but no bullet.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T070219Z" creationid="Jeff Huang" creationdate="20180208T070219Z">
-        <seg>你必須至少輸入一個字元或空格，否則當你按下&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵時，圖形就會消失，此時就會空有縮排卻無項目符號。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T031612Z" creationid="Jeff Huang" creationdate="20180208T070219Z">
+        <seg>你必須至少輸入一個字元或空格，否則當你按下&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Enter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵時圖形會消失，此刻就空有縮排卻無項目符號。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
