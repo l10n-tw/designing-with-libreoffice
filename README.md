@@ -37,7 +37,7 @@
 第六章（Mark Hung）、第七章 (Vdragon)、第十一章 (Cheng-Chia Tseng)
 
 * 校對中的有：
-第八章（未）、第九章 (未)、第十五章（Cheng-Chia Tseng）
+第八章（未）、第十章 (未)、第十五章（Cheng-Chia Tseng）
 
 * 未處理的有：
 
