@@ -3738,8 +3738,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;If the table is surrounded by text, p&lt;/f0&gt;lace a table closer to the paragraph above it than the one below it to show &lt;f1&gt;their relation.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033405Z" creationid="Jeff Huang" creationdate="20180211T033405Z">
-        <seg>&lt;f0&gt;如果表格被文字環繞的話，&lt;/f0&gt;將表格置於較靠近位於其上的段落（要比位於其下的段落更接近），這樣可以突顯&lt;f1&gt;它們之間的關係。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125401Z" creationid="Jeff Huang" creationdate="20180211T033405Z">
+        <seg>&lt;f0&gt;如果表格被文字包圍的話，&lt;/f0&gt;可以把表格放置到較為靠近上方的段落（要比下方的段落更加接近），這樣可以表現出&lt;f1&gt;它們之間有相關。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,8 +5532,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Similarly&lt;/f0&gt;, if the next paragraph style is a caption, &lt;f1&gt;position&lt;/f1&gt; the caption closer to the table than the next paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180211T033614Z" creationid="Jeff Huang" creationdate="20180211T033614Z">
-        <seg>&lt;f0&gt;同理&lt;/f0&gt;，如果下一個段落樣式是標題，則將標題&lt;f1&gt;置於&lt;/f1&gt;較靠近表格的地方（比下一個段落更接近）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125535Z" creationid="Jeff Huang" creationdate="20180211T033614Z">
+        <seg>&lt;f0&gt;同理&lt;/f0&gt;，如果下一個段落樣式是圖表標示說明，可讓圖表標示說明更加靠近表格（要比再下一個段落間距更短）。</seg>
       </tuv>
     </tu>
     <tu>
