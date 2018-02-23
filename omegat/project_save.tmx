@@ -11996,8 +11996,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Auto&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;ormat &lt;/f4&gt;does its best to apply the format despite differences.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T024146Z" creationid="Jeff Huang" creationdate="20180210T024146Z">
-        <seg>&lt;/f1&gt;儘管其仍有不同，&lt;f4&gt;自動格式&lt;/f4&gt;還是會盡其所能套用格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T035516Z" creationid="Jeff Huang" creationdate="20180210T024146Z">
+        <seg>&lt;/f1&gt;儘管其仍有不同，&lt;f4&gt;自動格式樣式&lt;/f4&gt;還是會盡其所能套用格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17201,11 +17201,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>現在改為「Auto Format Styles」了。</note>
       <tuv lang="EN">
         <seg>For now, the next best thing is to to use &lt;f0&gt;Table &gt; Auto&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;F&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ormat&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T034019Z" creationid="Jeff Huang" creationdate="20180208T082321Z">
-        <seg>目前為止，接下來要提的最棒功能是「&lt;f0&gt;表格 &gt; 自動格式樣式&lt;/f0&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T035556Z" creationid="Jeff Huang" creationdate="20180208T082321Z">
+        <seg>不過接下來要提一個很棒的功能，是「&lt;f0&gt;表格 &gt; 自動格式樣式&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37433,8 +37434,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You do not need to have the same number of rows and columns as in the table from which you made the Aut&lt;f0&gt;oF&lt;/f0&gt;ormat&lt;f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180210T023905Z" creationid="Jeff Huang" creationdate="20180210T023905Z">
-        <seg>你並不需要與你在&lt;f0&gt;自動格式&lt;/f0&gt;裡做出來的表格有相同的欄與列的數量。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T035510Z" creationid="Jeff Huang" creationdate="20180210T023905Z">
+        <seg>你並不需要與你在&lt;f0&gt;自動格式樣式&lt;/f0&gt;裡做出來的表格有相同的欄與列的數量。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
