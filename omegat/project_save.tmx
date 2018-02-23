@@ -2383,8 +2383,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the formatting options you want to store in the Auto&lt;f1&gt;F&lt;/f1&gt;ormat &lt;f2&gt;from the list at the bottom of the&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; AutoFormat &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;dialog window&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T152233Z" creationid="Jeff Huang" creationdate="20180212T132310Z">
-        <seg>&lt;f2&gt;在「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;自動格式&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」對話視窗&lt;/f5&gt;底部的清單中&lt;f0&gt;點按&lt;/f0&gt;你希望存到自動格式中的格式選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T152512Z" creationid="Jeff Huang" creationdate="20180212T132310Z">
+        <seg>&lt;f2&gt;從主選單選擇「表格 &gt; 自動格式樣式」打開「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;自動格式&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」對話視窗，&lt;/f5&gt;在底部的清單中&lt;f0&gt;勾選&lt;/f0&gt;你希望存到自動格式中的格式選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13771,8 +13771,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Add&lt;/f0&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T132330Z" creationid="Jeff Huang" creationdate="20180212T132330Z">
-        <seg>點按&lt;f0&gt;新增&lt;/f0&gt;按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T152242Z" creationid="Jeff Huang" creationdate="20180212T132330Z">
+        <seg>點按「&lt;f0&gt;加入&lt;/f0&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23515,8 +23515,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Manually format a table as you choose, then, with the cursor anywhere in the table:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T131933Z" creationid="Jeff Huang" creationdate="20180212T131933Z">
-        <seg>然後將滑鼠游標置於表格中任意一處，再按照你的選擇手動對表格進行格式設定：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T152409Z" creationid="Jeff Huang" creationdate="20180212T131933Z">
+        <seg>先按照你的想法手動對表格作格式設定，然後將滑鼠游標放到表格中任意一處：</seg>
       </tuv>
     </tu>
     <tu>
