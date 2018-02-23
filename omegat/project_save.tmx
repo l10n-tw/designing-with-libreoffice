@@ -6510,8 +6510,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To create a numbered list, select a numbering style from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Number&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T135424Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
-        <seg>&lt;f0&gt;要建立符號清單，從「&lt;f4&gt;&lt;f5&gt;自訂&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;數字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位選取編號樣式。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T155222Z" creationid="Jeff Huang" creationdate="20180203T132555Z">
+        <seg>&lt;f0&gt;要建立符號清單，從「&lt;f4&gt;&lt;f5&gt;自訂&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;數字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位&lt;/f3&gt;選取編號樣式。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6875,8 +6875,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; the &lt;f1&gt;Before, &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;After,&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; and/or&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; Show sublevels &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;fields&lt;/f7&gt; mean&lt;f8&gt;s&lt;/f8&gt; that the &lt;f9&gt;settings on the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Position&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; tab need to be adjusted so there is enough space between the number and the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T142815Z" creationid="Jeff Huang" creationdate="20180204T034404Z">
-        <seg>&lt;f0&gt;若要使用「&lt;/f0&gt;&lt;f1&gt;在這之前&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;」、「在這之後&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」與或「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;顯示子層級&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」欄位，&lt;/f7&gt;則需要調整「&lt;f10&gt;&lt;f11&gt;位置&lt;/f11&gt;&lt;/f10&gt;」標籤頁中的設定以便讓數字與文字之間有足夠的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T155637Z" creationid="Jeff Huang" creationdate="20180204T034404Z">
+        <seg>&lt;f0&gt;若要使用「&lt;/f0&gt;&lt;f1&gt;在這之前&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;」、「在這之後&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」與或「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;顯示子層級&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」欄位，&lt;/f7&gt;則需要調整「&lt;f10&gt;&lt;f11&gt;位置&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」標籤頁中的設定以便讓數字與文字之間有足夠的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10978,8 +10978,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Alternatively, you might put a parenthesis both before or after the number, or text such as &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Step # &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Before&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T141008Z" creationid="Jeff Huang" creationdate="20180203T134359Z">
-        <seg>又或者你也可以在數字前後都放括號，或是文字，例如在「&lt;f4&gt;&lt;f5&gt;在這之前&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位中寫入「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;步驟 #&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T155249Z" creationid="Jeff Huang" creationdate="20180203T134359Z">
+        <seg>又或者你也可以在數字前後都放括號，或是文字，例如在「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;在這之前&lt;/f5&gt;&lt;/f4&gt;」欄位中寫入「&lt;f1&gt;&lt;f2&gt;步驟 #&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
