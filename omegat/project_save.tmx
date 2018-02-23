@@ -20702,8 +20702,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want a checklist to be used with a pen, set up the list style in the usual way, using a character style that uses the OpenSymbol font that ships with LibreOffice, and assign the character &lt;f0&gt;U+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;E00B&lt;/f2&gt;&lt;/f1&gt; (a &lt;f3&gt;shaded&lt;/f3&gt; open box) as the bullet (that is two zeros, not lower case “o”s&lt;f4&gt;)&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180205T091300Z" creationid="Jeff Huang" creationdate="20180205T091300Z">
-        <seg>如果你想要一個可以用筆在上面塗塗寫寫的檢查表的話，請以一般的方式設定清單樣式，並套用使用內建於LibreOffice的OpenSymbol字型的字元樣式，然後將字元指定為&lt;f0&gt;U+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;E00B&lt;/f2&gt;&lt;/f1&gt;（這是帶&lt;f3&gt;陰影&lt;/f3&gt;的方框）並套用到項目符號上（其為兩個零而非小寫的「o」）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T022908Z" creationid="Jeff Huang" creationdate="20180205T091300Z">
+        <seg>如果你想要製作一份可以拿筆在上面做記號的檢查表，請先以一般做法設定好清單樣式，並使用LibreOffice內建的OpenSymbol字型作字元樣式，然後將字元符號指定為「&lt;f0&gt;U+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;E00B&lt;/f2&gt;&lt;/f1&gt;」（這是帶&lt;f3&gt;陰影&lt;/f3&gt;的方框，E和B中間是兩個數字零），並套用到項目符號。</seg>
       </tuv>
     </tu>
     <tu>
