@@ -413,11 +413,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 這邊應該是原文有誤。是 Aligned at 為 0 的話，把 Numbering Alignment 設為 Center 或 Right 會讓編號跑到左邊距中。</note>
       <tuv lang="EN">
         <seg>&lt;/f0&gt;If the value &lt;f1&gt;of the &lt;/f1&gt;&lt;f2&gt;Numbering Alignment&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;is 0, then choosing &lt;f4&gt;Center&lt;/f4&gt; or &lt;f5&gt;Right&lt;/f5&gt; can force the numbers into the left margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T153108Z" creationid="Jeff Huang" creationdate="20180203T130840Z">
-        <seg>&lt;/f0&gt;如果「&lt;f2&gt;編號對齊&lt;/f2&gt;&lt;f1&gt;」的對齊值&lt;/f1&gt;設為0的話，則選擇「&lt;f4&gt;置中&lt;/f4&gt;」或「&lt;f5&gt;右&lt;/f5&gt;」可以強迫數字進入左邊距中。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180224T041414Z" creationid="Jeff Huang" creationdate="20180203T130840Z">
+        <seg>&lt;/f0&gt;如果「&lt;f2&gt;對齊&lt;/f2&gt;&lt;f1&gt;」的值&lt;/f1&gt;設為0的話，在「編號對齊」選擇「&lt;f4&gt;置中&lt;/f4&gt;」或「&lt;f5&gt;右&lt;/f5&gt;」的話可以強迫數字進入左邊距中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21527,6 +21528,7 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>預設值為 0.64</note>
       <tuv lang="EN">
         <seg>In most cases, you can leave this field at &lt;f1&gt;0&lt;/f1&gt; (at the left margin).</seg>
       </tuv>
