@@ -20042,6 +20042,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, outlines are &lt;f0&gt;only the most basic use of outline numbering&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;More importantly, &lt;f4&gt;o&lt;/f4&gt;utline &lt;f5&gt;n&lt;/f5&gt;umbering also defines the paragraph styles used for each level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144408Z" creationid="zerng07" creationdate="20180224T144408Z">
+        <seg>不過，大綱&lt;f0&gt;僅是大綱編號的最基本用途&lt;/f0&gt;。更重要的，大綱編號也可用來定義段落樣式的各個層級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, page styles are the means of adding everyday features such as page numbers and headers and footers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T030211Z" creationid="Jeff Huang" creationdate="20180130T061618Z">
@@ -31546,6 +31554,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172904Z" creationid="zerng07" creationdate="20171225T153604Z">
         <seg>&lt;f0&gt;統籌概覽&lt;/f0&gt;標籤頁中&lt;f1&gt;通常包括&lt;/f1&gt;四個欄位：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Outline Numbering&lt;/f0&gt; dialog &lt;f1&gt;window&lt;/f1&gt; is used for more than just formatting outlines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144243Z" creationid="zerng07" creationdate="20180224T144243Z">
+        <seg>「&lt;f0&gt;大綱編號&lt;/f0&gt;」對話&lt;f1&gt;視窗&lt;/f1&gt;可不只能設定大綱格式。</seg>
       </tuv>
     </tu>
     <tu>
