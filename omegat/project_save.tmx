@@ -39136,6 +39136,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also change the default style for an outline level by editing the &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Paragraph Style&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; field in &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;Tools &gt; Outline Numbering.&lt;/f27&gt;&lt;/f26&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145618Z" creationid="zerng07" creationdate="20180224T145618Z">
+        <seg>你也可以在「&lt;/f22&gt;&lt;f26&gt;&lt;f27&gt;工具 &gt; 章節標號&lt;/f27&gt;&lt;/f26&gt;」中修改「&lt;f23&gt;&lt;f24&gt;段落樣式&lt;/f24&gt;&lt;/f23&gt;」欄位來變更預設樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also delete (but not add) frames.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T073951Z" creationid="Franklin Weng" creationdate="20180120T064910Z">
