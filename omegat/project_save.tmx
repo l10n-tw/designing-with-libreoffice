@@ -360,8 +360,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050438Z" creationid="MarkHung" creationdate="20180224T050438Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051425Z" creationid="MarkHung" creationdate="20180224T050438Z">
+        <seg>&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,8 +902,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050443Z" creationid="MarkHung" creationdate="20180224T050443Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051436Z" creationid="MarkHung" creationdate="20180224T051436Z">
+        <seg>&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -999,16 +999,16 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050356Z" creationid="MarkHung" creationdate="20180224T050356Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051246Z" creationid="MarkHung" creationdate="20180224T050356Z">
+        <seg>&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050454Z" creationid="MarkHung" creationdate="20180224T050454Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051120Z" creationid="MarkHung" creationdate="20180224T050454Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,8 +4030,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a shadow as part of the border, select its&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Position, Distance&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (from the border), and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035149Z" creationid="MarkHung" creationdate="20180224T035022Z">
-        <seg>如果你要邊框有陰影，選擇陰影樣式的位置、距離 (離內容的間距)及顏色。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051153Z" creationid="MarkHung" creationdate="20180224T035022Z">
+        <seg>如果你要邊框有陰影，選擇陰影樣式的&lt;f4&gt;&lt;f5&gt;位置、距離 (離內容的間距)及顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9389,8 +9389,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;In these cases, the same results can often be obtained with more options by choosing another method.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033706Z" creationid="MarkHung" creationdate="20180224T033706Z">
-        <seg>這種情形通常可以選用其他方式達到相同的結果。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050937Z" creationid="MarkHung" creationdate="20180224T033706Z">
+        <seg>&lt;f3&gt;這種情形通常可以選用其他方式達到相同的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20014,8 +20014,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, others &lt;f0&gt;you should consider carefully before using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034159Z" creationid="MarkHung" creationdate="20180224T033304Z">
-        <seg>至於使用其他影響較大的功能前應謹慎思考。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050911Z" creationid="MarkHung" creationdate="20180224T033304Z">
+        <seg>至於使用其他影響較大的功能前應 &lt;f0&gt;謹慎思考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20745,8 +20745,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If anyone knows such a use, I would be glad to hear.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034313Z" creationid="MarkHung" creationdate="20180224T033751Z">
-        <seg>如果有人知道用法，我願意瞭解。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051032Z" creationid="MarkHung" creationdate="20180224T033751Z">
+        <seg>&lt;f3&gt;如果有人知道用法，我願意瞭解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22727,8 +22727,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In most circumstances, choose the thinnest, plainest style possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034807Z" creationid="MarkHung" creationdate="20180224T034807Z">
-        <seg>在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051051Z" creationid="MarkHung" creationdate="20180224T034807Z">
+        <seg>&lt;f9&gt;在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
       </tuv>
     </tu>
     <tu>
