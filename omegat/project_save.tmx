@@ -358,14 +358,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f0&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071254Z" creationid="Ｖ字龍" creationdate="20180221T071254Z">
-        <seg>&lt;/f0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;The Non-Designer’s Type Book&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Peachpit Press: Berkeley, 1998): A sequel to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;The&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Non-Designer’s Design Book,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; focusing on the details of typefaces and how to use them.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T151836Z" creationid="zerng07" creationdate="20171227T183929Z">
@@ -587,14 +579,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142541Z" creationid="Jeff Huang" creationdate="20180127T135702Z">
         <seg>&lt;/f18&gt;然後&lt;f19&gt;點按「&lt;/f19&gt;&lt;f20&gt;插入&lt;/f20&gt;」按鈕。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130657Z" creationid="Franklin Weng" creationdate="20171223T130657Z">
-        <seg>&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,6 +828,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;As a result, they are tempted to &lt;f3&gt;corral it by putting borders around everything&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035406Z" creationid="MarkHung" creationdate="20180224T035406Z">
+        <seg>結果他們傾向用邊框包住所有的東西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;Font: Universalis &lt;f3&gt;ADF Std.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180105T135500Z" creationid="Franklin Weng" creationdate="20180105T135500Z">
@@ -880,14 +872,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T064135Z" creationid="Franklin Weng" creationdate="20180109T094116Z">
         <seg>&lt;/f2&gt;雖然有這些方法，不過還是有很多人在腦中對內容結構還沒有什麼想法時，就直接開始製作投影片了。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f3&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171215T140620Z" creationid="Franklin Weng" creationdate="20171215T140620Z">
-        <seg>&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -973,18 +957,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f5&gt;</seg>
+        <seg>&lt;/f4&gt;Borders&lt;f5&gt; that crowd the content only obscure.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131558Z" creationid="Franklin Weng" creationdate="20180126T131558Z">
-        <seg>&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040032Z" creationid="MarkHung" creationdate="20180224T040032Z">
+        <seg>和內容擠在一起的邊框只令人混淆。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
+        <seg>&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T052603Z" creationid="Franklin Weng" creationdate="20171223T121240Z">
-        <seg>&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131558Z" creationid="Franklin Weng" creationdate="20180126T131558Z">
+        <seg>&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1097,14 +1081,6 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134445Z" creationid="Franklin Weng" creationdate="20180213T124027Z">
         <seg>&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;色階&lt;/f10&gt;&lt;/f9&gt;」&lt;f11&gt;與&lt;/f11&gt;「&lt;f12&gt;&lt;f13&gt;資料條&lt;/f13&gt;&lt;/f12&gt;」&lt;f14&gt; 除了在&lt;/f14&gt;「&lt;f15&gt;&lt;f16&gt;條件&lt;/f16&gt;&lt;/f15&gt;」中設定「所有儲存格」後可以選擇之外，在「條件式格式設定」下也有捷徑可以直接選取。&lt;f17&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;/f9&gt;</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102344Z" creationid="Franklin Weng" creationdate="20171231T102344Z">
-        <seg>&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1341,6 +1317,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141228Z" creationid="Jeff Huang" creationdate="20180118T093549Z">
         <seg>&lt;f0&gt;&lt;f1&gt;「檢視&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;圖庫」&lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;（也可以在側邊欄中找到「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;圖庫&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」的按鈕）是個可以很方便儲存這些圖庫的地方。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;No matter how you add borders, minimize their width and be generous with the &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Spacing to Contents&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040021Z" creationid="MarkHung" creationdate="20180224T040021Z">
+        <seg>無論你如何加入邊框，將線條寬度設為最小並使用較寬裕的離內容的間距設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2037,6 +2021,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Besides&lt;/f0&gt;, &lt;f1&gt;possibly, they may &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;have more practical uses than they appear to do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033740Z" creationid="MarkHung" creationdate="20180224T033740Z">
+        <seg>此外，這類功能可能有比想像更實際的用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Border:&lt;/f0&gt; Adds a &lt;f1&gt;default &lt;/f1&gt;border around all cells and table edges consisting of a solid line, black in color and .05 points thick.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T122613Z" creationid="Jeff Huang" creationdate="20180210T135718Z">
@@ -2266,6 +2258,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125133Z" creationid="Jeff Huang" creationdate="20180211T032919Z">
         <seg>&lt;f0&gt;置中：&lt;/f0&gt;表格會對齊行的中央。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Centered:&lt;/f0&gt; Places the center of the text at the tab position, extending it on both the left and the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041032Z" creationid="MarkHung" creationdate="20180224T041032Z">
+        <seg>置中:將文字的中心對齊定位點，向左右延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,6 +2544,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create a transparency to add quickly (if approximately) another color without formally defining a color in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040655Z" creationid="MarkHung" creationdate="20180224T040655Z">
+        <seg>透過建立「透明」快速加入其他(近似的)顏色，而不用在工具 &gt; 選項 &gt; LibreOffice &gt; 顏色中定義顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create custom slides shows from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Custom Slide Show.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T101211Z" creationid="Franklin Weng" creationdate="20180120T123302Z">
@@ -2588,6 +2596,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180115T091837Z" creationid="Franklin Weng" creationdate="20180115T091837Z">
         <seg>設計背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;D&lt;/f0&gt;rop caps are more common in fiction than non-fiction, &lt;f1&gt;and in magazines than in an academic essay.&lt;/f1&gt; &lt;f2&gt;They create an informality that is more at home in a novel than in most types of non-fiction.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041954Z" creationid="MarkHung" creationdate="20180224T041954Z">
+        <seg>首字放大較於非小說，多用於小說，較於學術論文，多用於雜誌。 這種風格產生多用於家中小說而不用在非小說的不正式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2653,6 +2669,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061113Z" creationid="Franklin Weng" creationdate="20180211T061113Z">
         <seg>&lt;f0&gt;決定&lt;/f0&gt;樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Decimal: &lt;/f0&gt;Places the decimal at the tab position, &lt;f1&gt;and whole numbers and text to its left&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041048Z" creationid="MarkHung" creationdate="20180224T041048Z">
+        <seg>小數點: 將小數點對齊定位點，整數或文字的部分置於定位點左側。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2875,6 +2899,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Even if you minimize the use of tabs yourself, you cannot avoid LibreOffice’s built-in uses of them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041621Z" creationid="MarkHung" creationdate="20180224T041621Z">
+        <seg>即使你儘少使用定位點，你也無法避免LibreOffice內建的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Exact equivalents are rare because of fear of copyright restrictions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T100254Z" creationid="Jeff Huang" creationdate="20180115T065828Z">
@@ -3091,6 +3123,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For all backgrounds/areas, the basic rule is: combine&lt;/f0&gt; light-colored text with a dark background, and dark-colored text with a light background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040303Z" creationid="MarkHung" creationdate="20180224T040303Z">
+        <seg>對所有的背景/區域而言，基本規則是：結合淺色文字及深色背景，深色文字及淺色背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For convenience, enter the grading scale in column &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;I.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144958Z" creationid="Franklin Weng" creationdate="20180206T144812Z">
@@ -3246,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Frames or tables with invisible borders are often a more stable choice.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041649Z" creationid="MarkHung" creationdate="20180224T041649Z">
+        <seg>使用訊框或無邊框的表格通常是更穩定的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frankly, though, you have to wonder why.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T122836Z" creationid="zerng07" creationdate="20180123T121208Z">
@@ -3274,6 +3322,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075608Z" creationid="Jeff Huang" creationdate="20180108T125437Z">
         <seg>&lt;f0&gt;在繪圖樣式的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;文字動畫&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中，你可以設定出類似&lt;/f3&gt;HTML語法標籤中 &lt;f4&gt;&lt;f5&gt;Blink&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;和&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Marquee&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f12&gt;的效果，讓文字閃動，或是以各種方式在文字外框內捲動文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Transparency&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, you can:&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040551Z" creationid="MarkHung" creationdate="20180224T040551Z">
+        <seg>從「透明」頁籤，你可以：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,6 +3882,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you want a shadow as part of the border, select its&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Position, Distance&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (from the border), and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Color.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035149Z" creationid="MarkHung" creationdate="20180224T035022Z">
+        <seg>如果你要邊框有陰影，選擇陰影樣式的位置、距離 (離內容的間距)及顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a square instead of a rectangle, or a circle instead of an oval, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Shift&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key as you drag the primitive.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T142552Z" creationid="Jeff Huang" creationdate="20180118T095602Z">
@@ -4247,6 +4311,14 @@ f1</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Left:&lt;/f0&gt; Places the left edge of the text column at the tab position, extending the text to the right.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041008Z" creationid="MarkHung" creationdate="20180224T041008Z">
+        <seg>左：將文字的左邊對齊定位點，將文字向右延伸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; The &lt;f1&gt;left side of the table aligns with the page’s left margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124824Z" creationid="Jeff Huang" creationdate="20180211T031922Z">
@@ -4407,6 +4479,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;ost of the time, you have more options and more control if you use a frame instead, or perhaps apply the background to a page style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040455Z" creationid="MarkHung" creationdate="20180224T040455Z">
+        <seg>大多時候，使用訊框或套用頁面樣式的背景色提供更多選擇及控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;yth about styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
@@ -4435,6 +4515,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T125233Z" creationid="Jeff Huang" creationdate="20180211T033107Z">
         <seg>&lt;f0&gt;手動：&lt;/f0&gt;利用「&lt;f1&gt;間隔&lt;/f1&gt;」欄位調整表格左右側的對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Many b&lt;/f0&gt;eginning design&lt;f1&gt;er&lt;/f1&gt;s dislike empty space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035353Z" creationid="MarkHung" creationdate="20180224T035353Z">
+        <seg>許多設計初學者不喜歡空白。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4672,6 +4760,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;O&lt;/f0&gt;ften, &lt;f1&gt;however, borders&lt;/f1&gt; are just another bit of unnecessary clutter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035952Z" creationid="MarkHung" creationdate="20180224T035952Z">
+        <seg>然而，經常來說，邊框只是另一個多餘的贅物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;ld style figures &lt;f1&gt;look more polished in text, but are&lt;/f1&gt; harder to read than lining figures &lt;f2&gt;in a spreadsheet or table.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093616Z" creationid="Franklin Weng" creationdate="20180211T093616Z">
@@ -4704,10 +4800,26 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Occasionally, borders may appear when you have set none.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034959Z" creationid="MarkHung" creationdate="20180224T034959Z">
+        <seg>有時，邊框會在你設定為沒有邊框的時候出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Of all the tabs, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Organizer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is most important.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;It summarizes&lt;/f5&gt; the style and its relation to other styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T172806Z" creationid="zerng07" creationdate="20171225T153131Z">
         <seg>&lt;f0&gt;在所有的標籤頁中，&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;統籌概覽&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁是最重要的一個。&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;它統整摘要出&lt;/f5&gt;這個樣式與其他樣式之間的關係。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Of course, if you do find a use for some of the features I disparage&lt;/f0&gt;, ignore my cautions and do as you think best.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034413Z" creationid="MarkHung" creationdate="20180224T033757Z">
+        <seg>當然，如果你不認同我的建議，儘管忽略我的警告，採用你覺得最好的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4789,6 +4901,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080050Z" creationid="zerng07" creationdate="20180208T080050Z">
         <seg>&lt;f0&gt;僅外側：&lt;/f0&gt; 類似「&lt;f1&gt;輪廓&lt;/f1&gt;」，但是會忽略物件的空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Only use a shadow if you have a reason for doing so.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035259Z" creationid="MarkHung" creationdate="20180224T035259Z">
+        <seg>只在有理由使用時設定陰影。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5201,6 +5321,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right:&lt;/f0&gt; Places the right edge of the text at the tab, extending the text to the left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041020Z" creationid="MarkHung" creationdate="20180224T041020Z">
+        <seg>右：將文字的右邊對齊定位點，讓文字向左延伸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Robin Williams.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T072008Z" creationid="zerng07" creationdate="20171228T072008Z">
@@ -5461,6 +5589,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Spacing to contents&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on each side.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034840Z" creationid="MarkHung" creationdate="20180224T034829Z">
+        <seg>設定每邊離內容的邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Set the default measure to points in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General &gt; Settings &gt; Measurement Unit.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; You can reset the default unit to centimeters or inches when you are done, but points are the most commonly used unit of measurement for general typography.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085046Z" creationid="zerng07" creationdate="20180121T084953Z">
@@ -5481,6 +5617,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T022037Z" creationid="zerng07" creationdate="20180213T022037Z">
         <seg>&lt;f0&gt;將外框設定成&lt;/f0&gt;「&lt;f1&gt;水印&lt;/f1&gt;」外框樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the line’s &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Color&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034759Z" creationid="MarkHung" creationdate="20180224T034759Z">
+        <seg>設定線條樣式、寬度和顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,6 +5665,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180128T135756Z" creationid="Jeff Huang" creationdate="20180128T135756Z">
         <seg>&lt;f0&gt;設定&lt;/f0&gt;頁碼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Shadows can help separate a picture from the background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035158Z" creationid="MarkHung" creationdate="20180224T035158Z">
+        <seg>陰影有助於區分圖形與背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +6038,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tabs are sometimes used to create columns of text, but a table is usually a better option.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040920Z" creationid="MarkHung" creationdate="20180224T040920Z">
+        <seg>定位點有時被用來為文字分欄，但是通常使用表格是較好的選擇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Tactics to consider include:&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T140443Z" creationid="zerng07" creationdate="20180130T140443Z">
@@ -5939,6 +6099,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T034003Z" creationid="zerng07" creationdate="20180125T033910Z">
         <seg>&lt;f0&gt;「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行尾字元&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;行首字元&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位有時該調控一下以改善斷字處理效果，調整時只改其中一項，另一個就不要動。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; diagram sets all sides together, offering pre-defined arrangements at a single click.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034736Z" creationid="MarkHung" creationdate="20180224T034736Z">
+        <seg>預先設置集圖示可以單鍵選用預先設定好的線條安排，一次設定全部的邊框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6340,6 +6508,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The trouble with all the types of tabs is that &lt;/f0&gt;they can be an unstable way of positioning characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041538Z" creationid="MarkHung" creationdate="20180224T041350Z">
+        <seg>四種定位點都不是定位字元可靠的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The use of l&lt;/f0&gt;ists and tables &lt;f1&gt;is&lt;/f1&gt; no more than a few hundred years old.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T154210Z" creationid="Jeff Huang" creationdate="20180213T133941Z">
@@ -6360,6 +6536,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T182300Z" creationid="zerng07" creationdate="20170817T102744Z">
         <seg>&lt;f0&gt;這&lt;/f0&gt;套字型包括 Baskervald (Baskerville)、Gillius (Gill Sans)、和 Universalis (Univers)；還有原創&lt;t1/&gt;字型如 Mint Spirit，初心是專為 Linux Mint 散布版創作的非官方字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Transparency&lt;/f3&gt; tab originated in graphic styles, and was &lt;f4&gt;added&lt;/f4&gt; to &lt;f5&gt;p&lt;/f5&gt;aragraph styles in Writer in the 4.4 release.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040521Z" creationid="MarkHung" creationdate="20180224T040511Z">
+        <seg>「透明」頁籤源於圖形樣式，在Writer 4.4版中被加入至段落樣式設定中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7000,6 +7184,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T133856Z" creationid="Jeff Huang" creationdate="20180201T031524Z">
         <seg>&lt;f0&gt;如果沒辦法確定的話，那就不要用。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Synchronize&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; check box is selected, you can fill in values for the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Left&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Right&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; sides or the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Top&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Bottom&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; sides at the same time.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034849Z" creationid="MarkHung" creationdate="20180224T034849Z">
+        <seg>當同步勾選時，你可以同時填入左右邊或上下邊的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7652,6 +7844,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;In Draw and Impress, a similar feature is called &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Line.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034629Z" creationid="MarkHung" creationdate="20180224T034555Z">
+        <seg>在Draw和Impress中，類似的功能稱為「線條」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;In addition, the same list style can&lt;/f1&gt; be assigned to a paragraph style so that it is used whenever you choose the paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162916Z" creationid="zerng07" creationdate="20171227T162053Z">
@@ -7903,6 +8103,22 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;T&lt;/f1&gt;his chapter is about less common character and paragraph settings.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033940Z" creationid="MarkHung" creationdate="20180224T033227Z">
+        <seg>本章是關於字元及段落設定中較少用到的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;The &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Drop Caps&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab for a paragraph style &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;automates the process of creating a text frame and setting the text flow around it.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041946Z" creationid="MarkHung" creationdate="20180224T041946Z">
+        <seg>段落樣式的「首字放大」頁籤自動化建立字框並且設定文字流向環繞的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;The exact measurement&lt;/f1&gt; is displayed when you set the &lt;f2&gt;Line Spacing&lt;/f2&gt; field to &lt;f3&gt;Fixed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T171326Z" creationid="Franklin Weng" creationdate="20180105T134923Z">
@@ -7947,6 +8163,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T062425Z" creationid="Franklin Weng" creationdate="20171225T092351Z">
         <seg>&lt;f1&gt;字型家族有六種主要的概略分類：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;The smallest formatting change can sometimes throw them out of position.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041400Z" creationid="MarkHung" creationdate="20180224T041400Z">
+        <seg>有時最小的格式改變有時候會造成移位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +8960,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;To them, empty space is wasted space.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035357Z" creationid="MarkHung" creationdate="20180224T035357Z">
+        <seg>對他們來說，空白就是浪費空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Use the &lt;/f2&gt;right-click menu.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T063320Z" creationid="zerng07" creationdate="20180206T063320Z">
@@ -8801,6 +9033,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;You can set the decimal character according to the language locale.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041100Z" creationid="MarkHung" creationdate="20180224T041100Z">
+        <seg>你可以選取語言區域化設定設定小數點的使用的字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;You will probably want to select the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Keep ratio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; check box, to avoid distorting the image.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T115330Z" creationid="zerng07" creationdate="20180210T115330Z">
@@ -8825,6 +9065,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Dark text on a light background is easiest for many people to read, because that is the most commonly used.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040319Z" creationid="MarkHung" creationdate="20180224T040319Z">
+        <seg>淺色背景上的深色文字對許多人來說最容易閱讀，因為最常使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Having readers disagree with &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;the opinions you express can be a natural consequence of writing, but annoying readers with your design is simply a poor tactic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T080251Z" creationid="Jeff Huang" creationdate="20180108T135735Z">
@@ -8837,6 +9085,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065822Z" creationid="zerng07" creationdate="20180206T065822Z">
         <seg>&lt;f3&gt;如果你選取了這個選項&lt;/f3&gt;，你的文件每次載入影像時都會直接取用影像的原始檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;In these cases, the same results can often be obtained with more options by choosing another method.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033706Z" creationid="MarkHung" creationdate="20180224T033706Z">
+        <seg>這種情形通常可以選用其他方式達到相同的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9975,6 +10231,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A paragraph with a border and shadow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035248Z" creationid="MarkHung" creationdate="20180224T035248Z">
+        <seg>使用邊框和陰影的段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A pivot table is a rearrangement of an existing range of data to give new insight.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143130Z" creationid="Franklin Weng" creationdate="20180209T143130Z">
@@ -10206,6 +10470,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Above: &lt;f0&gt;Borders &gt; Space to Contents&lt;/f0&gt; set to &lt;f1&gt;0&lt;/f1&gt; points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034942Z" creationid="MarkHung" creationdate="20180224T034921Z">
+        <seg>上: 邊框 &gt; 離內容的邊距設為0點。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>* 無視：
 	* f0
 	* f3</note>
@@ -10391,6 +10663,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T094351Z" creationid="zerng07" creationdate="20180210T094035Z">
         <seg>自動加上圖表標示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding borders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034705Z" creationid="MarkHung" creationdate="20180224T034705Z">
+        <seg>加入邊框</seg>
       </tuv>
     </tu>
     <tu>
@@ -10740,6 +11020,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T040547Z" creationid="Jeff Huang" creationdate="20180116T033747Z">
         <seg>對齊：&lt;f0&gt;根據對齊表現元素之間是否有互相關聯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All LibreOffice’s applications include an identical &lt;f0&gt;Borders&lt;/f0&gt; tab on at least one of their styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034545Z" creationid="MarkHung" creationdate="20180224T034545Z">
+        <seg>所有LibreOffice模組在樣式設定都包含相同的「邊框」頁籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12126,6 +12414,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backgrounds or areas are available in paragraph styles, and are basically the same &lt;t0/&gt;feature as highlighting, except that highlighting is available only as a color, while a background or area can also be a gradient, hatching, or bitmap.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040205Z" creationid="MarkHung" creationdate="20180224T040205Z">
+        <seg>背景或區塊在段落樣式中，基本上與色彩標明是相同的功能，除了色彩標明僅允許顏色，而背景或區塊可以是漸層、樣式或位元圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barry Schwartz is one of the outstanding designers of free-licensed body text fonts.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T184841Z" creationid="zerng07" creationdate="20170817T104314Z">
@@ -12230,6 +12526,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful, too, not to use &lt;f0&gt;backgrounds with too many different colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040327Z" creationid="MarkHung" creationdate="20180224T040327Z">
+        <seg>同時小心，不要使用太多顏色的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be sure to leave a generous gap between the frame and the text.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152239Z" creationid="zerng07" creationdate="20180211T151913Z">
@@ -12306,6 +12610,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165421Z" creationid="zerng07" creationdate="20170822T160832Z">
         <seg>&lt;f0&gt;做記者之前&lt;/f0&gt;，我是技術文章創作者也是平面設計師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before creating drop caps, consider what other indicators of a new chapter you have in your design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042007Z" creationid="MarkHung" creationdate="20180224T042007Z">
+        <seg>在建立首字放大之前，考慮你的設計中其他起始新章節的指標。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12455,6 +12767,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below: Set to 5 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034937Z" creationid="MarkHung" creationdate="20180224T034937Z">
+        <seg>下：設定為5點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bembo</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071604Z" creationid="Jeff Huang" creationdate="20180115T071604Z">
@@ -12531,6 +12851,30 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093854Z" creationid="Franklin Weng" creationdate="20180211T093854Z">
         <seg>&lt;f0&gt;在試算表中的邊框可以幫忙在工作表裡的一大堆數字中標記出資料陣列所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Borders are the lines surrounding an object on all four sides.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034536Z" creationid="MarkHung" creationdate="20180224T034536Z">
+        <seg>邊框是圍繞物件四邊的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Borders in character styles can be used for answer blanks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035606Z" creationid="MarkHung" creationdate="20180224T035606Z">
+        <seg>字元樣式中的邊框可以作為答題填空用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Borders in paragraph styles can be use&lt;f0&gt;d to create side-bars.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035700Z" creationid="MarkHung" creationdate="20180224T035634Z">
+        <seg>段落樣式中的邊框可以用於建立側邊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13115,6 +13459,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By placing a border around a small side discussion when the rest of the text has none, you emphasize that it is not part of the normal text flow.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035835Z" creationid="MarkHung" creationdate="20180224T035632Z">
+        <seg>在未使用邊框的內文中，以邊框包圍小篇幅離題的內容，可以強調內容並非正常文字流的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By the time you finish designing and writing even a short document, you have probably lost perspective on it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085421Z" creationid="Jeff Huang" creationdate="20171111T024615Z">
@@ -13471,6 +13823,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T080530Z" creationid="zerng07" creationdate="20180121T080530Z">
         <seg>從第3章起，我們探索了段落設定&lt;f0&gt;和字元&lt;/f0&gt;設定的基本觀念，&lt;f1&gt;後續&lt;/f1&gt;也&lt;f2&gt;討論了字型，還有怎麼找出&lt;/f2&gt;理想行距的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;5&lt;/f0&gt; discusses settings that almost all documents use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033215Z" creationid="MarkHung" creationdate="20180224T033215Z">
+        <seg>第5章討論所有文檔幾乎都使用的設定。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -14233,6 +14594,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010243Z" creationid="zerng07" creationdate="20180125T134536Z">
         <seg>然後，依據下列設定製作「&lt;f0&gt;簽名&lt;/f0&gt;」樣式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a background gradient using degrees of transparency.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040711Z" creationid="MarkHung" creationdate="20180224T040711Z">
+        <seg>利用透明度建立漸層背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15335,6 +15704,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop cap&lt;f0&gt;ital&lt;/f0&gt;s are enlarged letters that mark the start of a new chapter or section.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041937Z" creationid="MarkHung" creationdate="20180224T041937Z">
+        <seg>首字放大(Drop capital)用於標示新章節或區段開始時放大的字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dummy text is text unrelated to the document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T124513Z" creationid="Franklin Weng" creationdate="20180105T093043Z">
@@ -15472,6 +15849,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit the transparency of a background/area to improve the contrast between the foreground and background.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040702Z" creationid="MarkHung" creationdate="20180224T040702Z">
+        <seg>編輯背景/區塊的透明度，以改善前景和背景之間的對比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editable parts of a chart.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T031142Z" creationid="Jeff Huang" creationdate="20180115T031142Z">
@@ -15580,6 +15965,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104230Z" creationid="Jeff Huang" creationdate="20180124T133728Z">
         <seg>學術作品中的尾註。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enough empty space &lt;f2&gt;may &lt;/f2&gt;achieve the same purpose as a border while looking less &lt;f3&gt;constricted.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040002Z" creationid="MarkHung" creationdate="20180224T040002Z">
+        <seg>充足的空間，也可以達到與邊框相同的效果，且看起來較不侷限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16409,6 +16802,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Liberation Serif.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035945Z" creationid="MarkHung" creationdate="20180224T035945Z">
+        <seg>字型：Liberation Serif。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Linden Hill, &lt;f0&gt;a modern free-license rendering of Frederick Goudy’s Deepdene.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T150354Z" creationid="Franklin Weng" creationdate="20180103T133852Z">
@@ -16661,6 +17062,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153325Z" creationid="Franklin Weng" creationdate="20180207T153325Z">
         <seg>為了效率，你最多可以把資料陣列分成三組來套用函式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;/f0&gt;LibreOffice uses tabs to position text in relation to bullets and numbers in list styles, and as an option in customizing tables of contents &lt;f1&gt;or in the use of a conditional style.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041631Z" creationid="MarkHung" creationdate="20180224T041631Z">
+        <seg>舉例來說，LibreOffice使用定位點定位文字相對於清單樣式中的項目符號及編號的位置，及作為設定目錄的選項或選擇性樣式的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17170,6 +17579,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114848Z" creationid="Jeff Huang" creationdate="20180125T130538Z">
         <seg>舉例來說，單張的小冊子通常是雙面列印，一面是第二頁和第三頁，而另一面是第一頁與第四頁，印出來再折一折。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, the decimal character is a period in most English locales.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041115Z" creationid="MarkHung" creationdate="20180224T041115Z">
+        <seg>例如，小數點字元在英文中是句點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17764,6 +18181,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generous spacing increases readability by avoiding a cramped look.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034843Z" creationid="MarkHung" creationdate="20180224T034843Z">
+        <seg>寬鬆的間距增加可讀性，避免難以辨識的外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Geometric fonts are marked by regular strokes and simple shapes, including circles for bowls.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T153118Z" creationid="Franklin Weng" creationdate="20180105T092440Z">
@@ -18141,6 +18566,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here, the controls to define a gradient are shown.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040816Z" creationid="MarkHung" creationdate="20180224T040816Z">
+        <seg>這裡顯示用來定義漸層的控制項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiding styles reduces the clutter in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031824Z" creationid="zerng07" creationdate="20171227T031824Z">
@@ -18153,6 +18586,22 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111222Z" creationid="zerng07" creationdate="20171219T111222Z">
         <seg>反白選取標題文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting and setting backgrounds</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040039Z" creationid="MarkHung" creationdate="20180224T040039Z">
+        <seg>色彩標明及設定背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlighting is available in character styles, and most useful for emphasizing passages in informal documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040156Z" creationid="MarkHung" creationdate="20180224T040156Z">
+        <seg>「色彩標明」可以在字元樣式中找到，在非正式文件中強調段落最有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18711,6 +19160,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you cannot explain the reason for using a shadow, you should not use one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035231Z" creationid="MarkHung" creationdate="20180224T035231Z">
+        <seg>然而如果無法解釋使用陰影的目的，應該不要使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you decide to edit styles, you have &lt;f0&gt;several&lt;/f0&gt; &lt;f1&gt;options&lt;/f1&gt; in Writer:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023019Z" creationid="zerng07" creationdate="20171227T023019Z">
@@ -18965,6 +19422,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T123736Z" creationid="Franklin Weng" creationdate="20180120T123736Z">
         <seg>However, other formats for switching slides &lt;f4&gt;make it&lt;/f4&gt; unnecessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, others &lt;f0&gt;you should consider carefully before using.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034159Z" creationid="MarkHung" creationdate="20180224T033304Z">
+        <seg>至於使用其他影響較大的功能前應謹慎思考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19580,6 +20045,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I was tempted to avoid talking about such features altogether, but the warnings are worth giving.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033729Z" creationid="MarkHung" creationdate="20180224T033729Z">
+        <seg>我很想避免討論這類功能，但警告值得一提。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&lt;/f0&gt;n particular, they can&lt;f1&gt; be used to create tip and warning signs in a technical manual or an informal text.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T025236Z" creationid="Jeff Huang" creationdate="20180205T093139Z">
@@ -19592,6 +20065,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143353Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
         <seg>將輸入內容指定識別為數字，並向右對齊。&lt;/f4&gt;（按下去預設沒有效果…要先啟用下面對齊講的「對齊」和「數字格式識別」這兩個選項才有用。記得改寫）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;f0&gt;not&lt;/f0&gt;, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f1&gt; to add it as a custom color, &lt;f2&gt;or make adjustments on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Transparency&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab (see “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Setting transparency&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;,” page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;).&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040240Z" creationid="MarkHung" creationdate="20180224T040240Z">
+        <seg>否則，到工具 &gt; 選項 &gt; LibreOffice &gt; 顏色 增加到自訂的顏色，，或者調整 「透明」頁籤 (見 “設定透明度，頁 1)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19648,6 +20129,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T063318Z" creationid="zerng07" creationdate="20180208T063318Z">
         <seg>如果另一個標題或其他元素的上下有足夠的額外間距，那麼這些元素可能就不再需要再加空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If anyone knows such a use, I would be glad to hear.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034313Z" creationid="MarkHung" creationdate="20180224T033751Z">
+        <seg>如果有人知道用法，我願意瞭解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19794,6 +20283,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131316Z" creationid="zerng07" creationdate="20180205T131316Z">
         <seg>如果有些影像過大無法以這個尺寸大小適當顯示，可以考慮為它們使用橫向的頁面樣式。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If that happens and you do not need borders, leave the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Line Arrangement&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; blank, and select&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Line &gt; Style &gt; None.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035141Z" creationid="MarkHung" creationdate="20180224T035006Z">
+        <seg>此時，如你不需要邊框，可將線條配置設定為空白，並選擇線條 &gt; 樣式 &gt; 無。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19989,6 +20486,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T102640Z" creationid="Franklin Weng" creationdate="20171212T100643Z">
         <seg>如果你之前用過很久的Office，你可能會對範本感到有些反感，因為在 Microsoft Word中修改範本、或你試著把幾個範本結合在一起時很容易搞壞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are choosing a color background, make sure that the color you want is among LibreOffice’s defined colors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040230Z" creationid="MarkHung" creationdate="20180224T040230Z">
+        <seg>如果你選擇使用有色背景，確認你想要的顏色是LibreOffice定義的顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20669,6 +21174,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T111227Z" creationid="Jeff Huang" creationdate="20180202T033025Z">
         <seg>如果你是用字元樣式定義項目符號或編號的話，也請給予相同的名稱。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use an automatic first line indent&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in many cases the only reasons to use tab stops are from habit or because LibreOffice uses them in an advanced feature such as tables of contents.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040927Z" creationid="MarkHung" creationdate="20180224T040927Z">
+        <seg>如果你使用自動的首行縮排,許多情形使用定位點唯一的原因是習慣，或LibreOffice本身使用這些功能，像是目錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21528,12 +22041,28 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>In most cases, this will be the most commonly used type, and often the only one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041014Z" creationid="MarkHung" creationdate="20180224T041014Z">
+        <seg>在多數的情形，這是最常使用的類型，經常也是唯一被使用的類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>預設值為 0.64</note>
       <tuv lang="EN">
         <seg>In most cases, you can leave this field at &lt;f1&gt;0&lt;/f1&gt; (at the left margin).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132647Z" creationid="Jeff Huang" creationdate="20180203T125140Z">
         <seg>大多數情況下，你可以直接將此欄位留著&lt;f1&gt;0&lt;/f1&gt;不改動（從左邊距算起）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most circumstances, choose the thinnest, plainest style possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034807Z" creationid="MarkHung" creationdate="20180224T034807Z">
+        <seg>在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21738,6 +22267,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In text documents and &lt;f0&gt;presentation &lt;/f0&gt;slides, the uses of borders are limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035500Z" creationid="MarkHung" creationdate="20180224T035500Z">
+        <seg>在文件和簡報投影片中，邊框的用途是有限的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Total&lt;/f0&gt; column for the student at the top of the list, add the function&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Input Range&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;).&lt;/f4&gt; In the sample, the function is &lt;f5&gt;=SUM(B5:E5).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145810Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
@@ -21758,6 +22295,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T140027Z" creationid="Franklin Weng" creationdate="20180106T044140Z">
         <seg>最後，我的結論是Raleway Thin並不適合我想呈現的用途上，所以我改用Raleway Regular。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the end, anything that makes the text more readable or easier to navigate &lt;f1&gt;or maintain &lt;/f1&gt;is legitimate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034519Z" creationid="MarkHung" creationdate="20180224T034519Z">
+        <seg>最終，能讓文字更可讀、更易瀏覽或更易維護的都是合理的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22082,6 +22627,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, create a &lt;f1&gt;First Line Indent &lt;/f1&gt;and check the &lt;f2&gt;Automatic&lt;/f2&gt; box on the &lt;f3&gt;Indents and Spacing&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041737Z" creationid="MarkHung" creationdate="20180224T041737Z">
+        <seg>設定「縮排與間距」中的「首行縮排」並勾選「自動」選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, delete the original image and then insert the replacement.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T072300Z" creationid="zerng07" creationdate="20180206T072300Z">
@@ -22151,6 +22704,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125230Z" creationid="Jeff Huang" creationdate="20180121T125230Z">
         <seg>請使用&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「插入 &gt; 表格」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, use a table with invisible borders and carefully adjusted column widths.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041756Z" creationid="MarkHung" creationdate="20180224T041756Z">
+        <seg>改用無邊框的表格並且小心地調整欄寬取代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23186,6 +23747,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like &lt;f0&gt;b&lt;/f0&gt;orders, &lt;f1&gt;b&lt;/f1&gt;ackgrounds have limited use in character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040433Z" creationid="MarkHung" creationdate="20180224T040433Z">
+        <seg>如同邊框，背景在字元及段落樣式中用處有限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like Linux desktops, free-&lt;f0&gt;licensed&lt;/f0&gt; fonts started as imitations of proprietary equivalents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T095912Z" creationid="Jeff Huang" creationdate="20180115T064856Z">
@@ -23262,6 +23831,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131530Z" creationid="Franklin Weng" creationdate="20180211T131452Z">
         <seg>就跟文字方向一樣，連字號與文字折行設定都被放在「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like the &lt;f0&gt;Borders&lt;/f0&gt; tab, the &lt;f1&gt;Background/&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Area&lt;/f3&gt;&lt;/f2&gt; tab is found throughout LibreOffice, &lt;f4&gt;sometimes allowing only color.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040148Z" creationid="MarkHung" creationdate="20180224T040056Z">
+        <seg>就像「邊框」頁籤，LibreOffice各個模組的對話框都有「背景/區塊」頁籤，有時僅允許顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23479,6 +24056,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122653Z" creationid="Franklin Weng" creationdate="20180206T122653Z">
         <seg>將「&lt;f5&gt;標題 1&lt;/f5&gt;」樣式的&lt;f6&gt;字型大小&lt;/f6&gt;與&lt;f7&gt;字型色彩&lt;/f7&gt;設定成跟「&lt;f8&gt;預設&lt;/f8&gt;」&lt;f9&gt;樣式&lt;/f9&gt;不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make the tab positions multiples of the &lt;f0&gt;line spacing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041745Z" creationid="MarkHung" creationdate="20180224T041745Z">
+        <seg>以行距的整數倍設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24014,6 +24599,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most foreground colors are lost on multi-colored backgrounds.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040349Z" creationid="MarkHung" creationdate="20180224T040349Z">
+        <seg>多數的前景色在多色的背景中遺失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most images can be enlarged by 50%, but few can be increased to 200% without becoming badly distorted unless they are very simple.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T132453Z" creationid="zerng07" creationdate="20180205T132453Z">
@@ -24211,6 +24804,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T134949Z" creationid="Franklin Weng" creationdate="20180206T134949Z">
         <seg>在 Planning 與 Packing 兩個區段的部份可以重覆使用，&lt;f0&gt;而行程的部份只需要修改日期就好。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Much of the time, the standard typewriter tab stops of half or one inch will be far &lt;f1&gt;more&lt;/f1&gt; than you need.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040913Z" creationid="MarkHung" creationdate="20180224T040913Z">
+        <seg>大多時候，標準打字機半吋或一吋的定位點已經遠超過你所需。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24835,6 +25436,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151707Z" creationid="Franklin Weng" creationdate="20180206T151707Z">
         <seg>通常它們對你目標的重要性不亞於函式本身。Often, they can be as important to your purposes as the functions themselves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, this type can be replaced by setting the general alignment of the line to &lt;f1&gt;Centered.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041038Z" creationid="MarkHung" creationdate="20180224T041038Z">
+        <seg>這種類型通常可以用更一般性的段落對齊設定「置中對齊」取代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25579,6 +26188,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, changes in features such as font or font size may force you to re-set them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041812Z" creationid="MarkHung" creationdate="20180224T041812Z">
+        <seg>否則，未來如字型或字型大小的改變可能迫使你重設設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, consider whether you need tabs or can substitute another solution.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041642Z" creationid="MarkHung" creationdate="20180224T041642Z">
+        <seg>否則，請考慮使用定位點的需求，或以其他方案取代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, its options are similar to those of a standard filter.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141903Z" creationid="Franklin Weng" creationdate="20180207T141903Z">
@@ -25634,6 +26259,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T102307Z" creationid="zerng07" creationdate="20171226T103410Z">
         <seg>不然可能會點到內文選單去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, you will have to set tabs separately for each paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041722Z" creationid="MarkHung" creationdate="20180224T041722Z">
+        <seg>否則，你須要分別在不同的段落樣式中設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27500,10 +28133,26 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the tab positions as late as possible in your designing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041806Z" creationid="MarkHung" creationdate="20180224T041806Z">
+        <seg>儘量推遲設計中的定位點設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the zoom to 100% so you can &lt;f0&gt;judge the page color.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085144Z" creationid="zerng07" creationdate="20180121T085144Z">
         <seg>將遠近調整係數設為100%，以利你&lt;f0&gt;判斷頁面色彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set them in the &lt;f0&gt;Default&lt;/f0&gt; paragraph styles, or at the very least, as high up the hierarchical tree as possible.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041717Z" creationid="MarkHung" creationdate="20180224T041717Z">
+        <seg>在預設段落樣式中設定定位點，或者至少在樣式階層樹中較高的位置設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27600,6 +28249,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T101133Z" creationid="zerng07" creationdate="20180206T101133Z">
         <seg>設定錨定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting borders</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034525Z" creationid="MarkHung" creationdate="20180224T034525Z">
+        <seg>邊框設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -27748,6 +28405,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting tab &lt;f0&gt;stops&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040821Z" creationid="MarkHung" creationdate="20180224T040821Z">
+        <seg>設定「定位點」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting text flow between frames</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025911Z" creationid="zerng07" creationdate="20180213T024938Z">
@@ -27820,10 +28485,26 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting transparency</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040500Z" creationid="MarkHung" creationdate="20180224T040500Z">
+        <seg>設定透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting up &lt;f0&gt;and&lt;/f0&gt; designing tables</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180208T070346Z" creationid="Jeff Huang" creationdate="20180208T070346Z">
         <seg>設定與設計表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up drop capitals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041923Z" creationid="MarkHung" creationdate="20180224T041923Z">
+        <seg>設定首字放大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27884,6 +28565,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several character styles, each with a different color background, might be useful &lt;f2&gt;for highlighting when you are taking notes, or for a brochure, but the majority of text-heavy documents use a plain white background.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040443Z" creationid="MarkHung" creationdate="20180224T040443Z">
+        <seg>使用幾種背景顏色不同的字元樣式，可能有助寫筆記或者在傳單中強調重點，但多數以文字為主的文件採用單純的白色背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shaded: Uses a background for alternate rows in place of borders.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T054109Z" creationid="Jeff Huang" creationdate="20180210T025240Z">
@@ -27904,6 +28593,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T073229Z" creationid="Jeff Huang" creationdate="20171229T040218Z">
         <seg>陰影容易過度使用，但可以&lt;f0&gt;做出&lt;/f0&gt;立體外觀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shadows were so over-used&lt;/f0&gt; in the mid-1990s that &lt;f1&gt;today they can look excessive and old-fashioned.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035242Z" creationid="MarkHung" creationdate="20180224T035242Z">
+        <seg>陰影在1990年中期太過度使用，以致於今日看起來顯得老式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27964,6 +28661,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similar&lt;f0&gt; Borders&lt;/f0&gt; tabs are found throughout LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034700Z" creationid="MarkHung" creationdate="20180224T034700Z">
+        <seg>LibreOffice各模組中都提供類似的「邊框」頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, &lt;f0&gt;when&lt;/f0&gt; &lt;f1&gt;I &lt;/f1&gt;realiz&lt;f2&gt;ed&lt;/f2&gt; th&lt;f3&gt;e template worked best&lt;/f3&gt; for short letters, I added a &lt;f4&gt;page&lt;/f4&gt; with a footer containing the page number for longer letters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T141102Z" creationid="zerng07" creationdate="20180125T140403Z">
@@ -27976,6 +28681,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T114626Z" creationid="Franklin Weng" creationdate="20180101T132916Z">
         <seg>同樣地，如果是要給年紀大的人們閱讀的小冊子，那麼使用的字型大小就要比一般更大一些，&lt;f0&gt;以便讓他們更容易看得清晰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, before you add a graphic background, prepare its dimensions and transparency in a graphics editor such as &lt;f0&gt;GIMP&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040247Z" creationid="MarkHung" creationdate="20180224T040247Z">
+        <seg>相似的，在你加入圖形背景之前，先在GIMP之類的圖形編輯軟體準備顏色的維度和透明度設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28257,6 +28970,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some are design elements that seemed reasonable &lt;f0&gt;decades ago&lt;/f0&gt; when Writer was first released, but have since become obsolete – and never were (to be polite) in the best typographical tradition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033641Z" creationid="MarkHung" creationdate="20180224T033641Z">
+        <seg>某些功能是Writer首次發行時(約二三十年前)合理的設計元素，現在不僅已經過時，而且從未成為最佳的排版慣例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some design elements to be adjusted using multiples of the magic number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T145421Z" creationid="Franklin Weng" creationdate="20180105T151023Z">
@@ -28309,6 +29030,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153320Z" creationid="Franklin Weng" creationdate="20180216T153320Z">
         <seg>有些是值得注意的慣例，因為它們會是其他人看你工作成果的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of these features just have limited or specialized use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034146Z" creationid="MarkHung" creationdate="20180224T033319Z">
+        <seg>某些功能只有有限或特定的功用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28446,6 +29175,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132216Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
         <seg>此外，還有些字族還會提供窄體 (Narrow) 或壓縮體 (Condensed) 的字型樣式，代表每個字符的&lt;f0&gt;寬度&lt;/f0&gt;比一般還要窄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes a frame may be a better choice because it has more options.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040010Z" creationid="MarkHung" creationdate="20180224T040010Z">
+        <seg>因為訊框有更多選項可以使用，有時是更好的選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28675,6 +29412,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111200Z" creationid="zerng07" creationdate="20171219T111200Z">
         <seg>步驟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still others &lt;f0&gt;are&lt;/f0&gt; obscure &lt;f1&gt;or&lt;/f1&gt; difficult &lt;f2&gt;to use&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033652Z" creationid="MarkHung" creationdate="20180224T033652Z">
+        <seg>還有一些功能隱晦或難以使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29063,6 +29808,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tabs are set positions on a line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040829Z" creationid="MarkHung" creationdate="20180224T040829Z">
+        <seg>定位點是一行文字中設定好的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tabs, borders, shadows, and other formatting other than the paragraph style will be stripped when you &lt;f0&gt;click&lt;/f0&gt; the OK button.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123557Z" creationid="Jeff Huang" creationdate="20180128T131251Z">
@@ -29211,6 +29964,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T163206Z" creationid="Jeff Huang" creationdate="20180118T130804Z">
         <seg>在圖形外的文字，仍舊是以先建立文字方塊的方式加入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text tools and traps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033616Z" creationid="MarkHung" creationdate="20180224T033616Z">
+        <seg>文字工具與陷阱</seg>
       </tuv>
     </tu>
     <tu>
@@ -29862,6 +30623,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab works with the &lt;f1&gt;Area&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040809Z" creationid="MarkHung" creationdate="20180224T040809Z">
+        <seg>使用「透明」頁籤與「區域」頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Type&lt;/f0&gt; tab &lt;f1&gt;includes various options for resizing, anchoring, and positioning images.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085421Z" creationid="zerng07" creationdate="20180206T085421Z">
@@ -30061,6 +30830,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144934Z" creationid="zerng07" creationdate="20171225T144934Z">
         <seg>預設樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Dos and Don’ts of using tab stops.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041917Z" creationid="MarkHung" creationdate="20180224T041917Z">
+        <seg>使用定位點時的做與不做的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30297,6 +31074,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic rule for backgrounds: text and background should contrast with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040257Z" creationid="MarkHung" creationdate="20180224T040257Z">
+        <seg>背景的基本規則：文字和背景之間應形成對比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic space above and below is easy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T011914Z" creationid="zerng07" creationdate="20180208T011631Z">
@@ -30494,6 +31279,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20171214T061152Z" creationid="Jeff Huang" creationdate="20171214T061152Z">
         <seg>交叉參照只能在主控文件中正確顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The days are long past when people used shadows simply because they could.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035307Z" creationid="MarkHung" creationdate="20180224T035307Z">
+        <seg>僅因為能夠呈現陰影就使用陰影的日子已經過去很久了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30804,6 +31597,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The exception are the highly decorated capitals found in illuminated manuscripts from the Middle Ages.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042001Z" creationid="MarkHung" creationdate="20180224T042001Z">
+        <seg>例外是中世紀彩繪古籍中高度裝飾的大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The extra white space increases readability &lt;f2&gt;and prevents crowding against the borders.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034949Z" creationid="MarkHung" creationdate="20180224T034949Z">
+        <seg>額外的空白增加可讀性並且避免擠向邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fact that LibreOffice defaults to embedding images suggests that its original programmers saw embedding as the easiest solution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T070059Z" creationid="zerng07" creationdate="20180206T070059Z">
@@ -30969,6 +31778,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062452Z" creationid="Jeff Huang" creationdate="20171229T021242Z">
         <seg>四類連接線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The four types of tab positions &lt;f0&gt;differ in where text appears in relation to the tab stop in the ruler.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041121Z" creationid="MarkHung" creationdate="20180224T041121Z">
+        <seg>四種定位點的差異在於文字相對於定位點在尺規上的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31279,6 +32096,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most &lt;f1&gt;obvious&lt;/f1&gt; &lt;f2&gt;uses &lt;/f2&gt;are to create a blank space to put an answer on a quiz, or to indicate a side bar in a newsletter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035506Z" creationid="MarkHung" creationdate="20180224T035506Z">
+        <seg>最明顯的用途是製作回答試題答案的空白或新聞報紙的側邊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most basic pattern is &lt;f0&gt;defined&lt;/f0&gt; for you: a &lt;f1&gt;l&lt;/f1&gt;eft &lt;f2&gt;p&lt;/f2&gt;age is followed by a &lt;f3&gt;r&lt;/f3&gt;ight &lt;f4&gt;p&lt;/f4&gt;age, and a &lt;f5&gt;r&lt;/f5&gt;ight &lt;f6&gt;p&lt;/f6&gt;age by a &lt;f7&gt;l&lt;/f7&gt;eft &lt;f8&gt;p&lt;/f8&gt;age&lt;f9&gt;.&lt;/f9&gt; If you use a &lt;f10&gt;First Page&lt;/f10&gt; &lt;f11&gt;style&lt;/f11&gt;, its &lt;f12&gt;Next &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;style&lt;/f14&gt;&lt;/f13&gt; &lt;f15&gt;f&lt;/f15&gt;ield &lt;f16&gt;defaults &lt;/f16&gt;to &lt;f17&gt;Left Page&lt;/f17&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142751Z" creationid="Jeff Huang" creationdate="20180124T124656Z">
@@ -31323,6 +32148,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143054Z" creationid="Jeff Huang" creationdate="20180129T082753Z">
         <seg>重新開始計算頁碼的狀況最常見於序言部分（西方排印做法中多以小寫羅馬數字編號），然後才進到其餘文字部份（通常以阿拉伯數字編號）的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common use of this type is to position a column of text against the right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041025Z" creationid="MarkHung" creationdate="20180224T041025Z">
+        <seg>這種類型最常見的用途是對齊右邊界定位欄項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31982,6 +32815,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tab adds transparency when a selection is made on the &lt;f0&gt;Background/Area&lt;/f0&gt; &lt;f1&gt;tab.&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0% &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;is no transparency, 100% complete transparency.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040646Z" creationid="MarkHung" creationdate="20180224T040530Z">
+        <seg>在背景/區塊 頁籤選用設定後，將加入「透明」頁籤 。0% 代表不透明，100%代表完全透明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab includes settings for the direction of scrolling, the number of repetitions, and other settings.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075635Z" creationid="Jeff Huang" creationdate="20180108T125951Z">
@@ -32126,6 +32967,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two are not necessarily the same.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040414Z" creationid="MarkHung" creationdate="20180224T040414Z">
+        <seg>兩種列印模式並不一定相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two frames are in different sections, &lt;f0&gt;or in&lt;/f0&gt; different headers or footers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032422Z" creationid="zerng07" creationdate="20180213T032422Z">
@@ -32146,6 +32995,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T142005Z" creationid="zerng07" creationdate="20171224T142005Z">
         <seg>Writer中的樣式類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The types of tabs are:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041002Z" creationid="MarkHung" creationdate="20180224T041002Z">
+        <seg>定位點的種類有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32389,6 +33246,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T165045Z" creationid="Franklin Weng" creationdate="20180126T133844Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;這個不同點可能有幾個原因：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is even a &lt;f0&gt;feature&lt;/f0&gt; or two that LibreOffice technically supports but implement&lt;f1&gt;s &lt;/f1&gt;so poorly that you will get more satisfying results if you use another piece of software instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033721Z" creationid="MarkHung" creationdate="20180224T033721Z">
+        <seg>甚至有一兩個功能是技術上來說LibreOffice支援但實作不佳，以致改用別的軟體會得到較滿意的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33076,6 +33941,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T122113Z" creationid="zerng07" creationdate="20180206T120338Z">
         <seg>這是技術手冊中最受重用的環繞方式，幾乎不用花多少時間在定位上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a temptation that they should &lt;f4&gt;almost always&lt;/f4&gt; avoid.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035451Z" creationid="MarkHung" creationdate="20180224T035451Z">
+        <seg>多數的情形應該避免這種做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34043,6 +34916,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To set up borders:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034718Z" creationid="MarkHung" creationdate="20180224T034718Z">
+        <seg>設定邊框的方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To split lines, click &lt;f2&gt;Modify &gt; Break.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T131250Z" creationid="Jeff Huang" creationdate="20180122T090154Z">
@@ -34193,6 +35074,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T151619Z" creationid="Franklin Weng" creationdate="20180106T044506Z">
         <seg>一旦你非常注重這些鋩角（臺語為mê-kak）以後，從此不會再願意將就。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too often, the result will be illegibility.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040341Z" creationid="MarkHung" creationdate="20180224T040341Z">
+        <seg>經常的結果是難讀的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34465,6 +35354,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T140116Z" creationid="Jeff Huang" creationdate="20180129T031939Z">
         <seg>像在這樣的編號系統下，第五章的第三頁就會有如下的頁碼：&lt;f1&gt;5&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under&lt;f0&gt; Line Arrangement,&lt;/f0&gt; use either the &lt;f1&gt;Default&lt;/f1&gt; or &lt;f2&gt;User-defined&lt;/f2&gt; diagrams to &lt;f3&gt;choose&lt;/f3&gt; on which sides you want a border.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034727Z" creationid="MarkHung" creationdate="20180224T034727Z">
+        <seg>在線條安排，使用預先設置集或使用者定義圖示選取繪製框線的邊界。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34848,6 +35745,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;them&lt;/f0&gt; to indicate the start of new paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041730Z" creationid="MarkHung" creationdate="20180224T041730Z">
+        <seg>用他們來代表新段落的開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;them&lt;/f0&gt; to position characters in a text frame, such as a header or footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041750Z" creationid="MarkHung" creationdate="20180224T041750Z">
+        <seg>用定位點定位文字框(如頁首或頁尾)中的字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f5&gt;All Styles &lt;/f5&gt;only when you are completely unable to find the style you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T153631Z" creationid="zerng07" creationdate="20171224T153631Z">
@@ -34872,10 +35785,26 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use fill characters &lt;f0&gt;in &lt;/f0&gt;the blank space&lt;f1&gt;s&lt;/f1&gt; between tab &lt;f2&gt;positions&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041819Z" creationid="MarkHung" creationdate="20180224T041819Z">
+        <seg>在定位點之間的空白使用填入字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use indentations, especially for the first line, instead of tabs.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075308Z" creationid="Jeff Huang" creationdate="20180104T080014Z">
         <seg>尤其是第一行，請用縮排功能不要用Tab鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use of tab&lt;f0&gt;s&lt;/f0&gt; can be greatly minimized.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040950Z" creationid="MarkHung" creationdate="20180224T040950Z">
+        <seg>可以大幅減少定位點的使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35064,6 +35993,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using backgrounds in character and paragraph styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040422Z" creationid="MarkHung" creationdate="20180224T040422Z">
+        <seg>在字元及段落樣式中使用背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using borders in character and paragraph styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035326Z" creationid="MarkHung" creationdate="20180224T035326Z">
+        <seg>在字元及段落樣式中使用邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using cropping or indicators</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T140639Z" creationid="zerng07" creationdate="20180205T132854Z">
@@ -35184,6 +36129,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using tabs effectively</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041614Z" creationid="MarkHung" creationdate="20180224T041614Z">
+        <seg>有效使用定位點</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using templates does &lt;f0&gt;mean planning ahead&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T101041Z" creationid="Franklin Weng" creationdate="20171212T101041Z">
@@ -35196,6 +36149,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180108T124311Z" creationid="Jeff Huang" creationdate="20180108T124311Z">
         <seg>使用文字動畫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Area&lt;/f0&gt; and &lt;f1&gt;Transparency&lt;/f1&gt; tabs, you can give a paragraph its own watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040214Z" creationid="MarkHung" creationdate="20180224T040214Z">
+        <seg>使用「區塊」及「透明」頁籤，可以讓段落有自己的浮水印。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35332,6 +36293,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T033100Z" creationid="Jeff Huang" creationdate="20180125T033100Z">
         <seg>不過，一般情況下，指標會更明顯：&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, tab stops should be multiples of the &lt;f0&gt;line-spacing&lt;/f0&gt;, and kept to the minimum necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040904Z" creationid="MarkHung" creationdate="20180224T040857Z">
+        <seg>通常，定位點應該是行距的整數倍，並且保留所需要最少部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35609,6 +36578,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>When adding backgrounds, consider whether you need to check the contrast for black and white as well as color printing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040359Z" creationid="MarkHung" creationdate="20180224T040359Z">
+        <seg>加入背景時，考慮是否需要檢查黑白及彩色列印的對比。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>無視f0、f1</note>
       <tuv lang="EN">
         <seg>When adjusting both position and size, be prepared for &lt;f0&gt;several&lt;/f0&gt; trials and errors before getting the best results, with the &lt;f1&gt;adjustments&lt;/f1&gt; getting smaller as you move closer to the ideal.</seg>
@@ -35846,6 +36823,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using tabs, do &lt;f0&gt;not&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041703Z" creationid="MarkHung" creationdate="20180224T041703Z">
+        <seg>使用定位點時，不要：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using tabs, do:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041656Z" creationid="MarkHung" creationdate="20180224T041656Z">
+        <seg>使用定位點時，這樣做：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you &lt;f0&gt;change one paragraph’s style, &lt;/f0&gt;you also &lt;f1&gt;change every other use of the style&lt;/f1&gt; in the same document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T113745Z" creationid="zerng07" creationdate="20171219T113745Z">
@@ -35907,6 +36900,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133803Z" creationid="zerng07" creationdate="20180209T133550Z">
         <seg>還有當你編寫圖表標示時，覺得文字好像太過於明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you do use tabs, make each a multiple of the line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040956Z" creationid="MarkHung" creationdate="20180224T040956Z">
+        <seg>使用定位點時，將定位點訂於行距的整數倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36135,6 +37136,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While typographic practice can advise, it should never be a set of conventions followed blindly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034500Z" creationid="MarkHung" creationdate="20180224T034500Z">
+        <seg>排版實務可以作為參考，卻不應該當成盲目遵循。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While you are designing, styles &lt;f0&gt;constantly &lt;/f0&gt;prove &lt;f1&gt;their worth&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T104326Z" creationid="zerng07" creationdate="20180213T104326Z">
@@ -36342,6 +37351,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T041111Z" creationid="Franklin Weng" creationdate="20180107T033248Z">
         <seg>經過處理，你可以減少這些問題的影響，但你還是得對這些問題小心翼翼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With&lt;/f3&gt; the &lt;f4&gt;User-defined &lt;/f4&gt;diagram, you can set each side separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034746Z" creationid="MarkHung" creationdate="20180224T034746Z">
+        <seg>使用使用者定義圖示，可以個別設定每邊的邊框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without a strong contrast, you&lt;f1&gt;r document&lt;/f1&gt; &lt;f2&gt;loses&lt;/f2&gt; readability.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040311Z" creationid="MarkHung" creationdate="20180224T040311Z">
+        <seg>缺乏強烈對比，你的文件失去可讀性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37616,6 +38641,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may need to choose a thicker line so it is detectable on low-end printers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034816Z" creationid="MarkHung" creationdate="20180224T034816Z">
+        <seg>你可能須要選取較粗的線條，以便較低階的印表機偵測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may need to experiment to get the results you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135448Z" creationid="Franklin Weng" creationdate="20180210T135448Z">
@@ -37702,6 +38735,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T091132Z" creationid="Franklin Weng" creationdate="20180114T134820Z">
         <seg>你可以&lt;/f2&gt;用Draw或其他像&lt;f6&gt;GIMP&lt;/f6&gt;之類的美術設計軟體做出想用的背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might find several of these features &lt;f2&gt;in a single&lt;/f2&gt; document, but rarely all.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033251Z" creationid="MarkHung" creationdate="20180224T033251Z">
+        <seg>一個單一文檔可能用到到好幾個這樣的功能，但很少全部都用到。</seg>
       </tuv>
     </tu>
     <tu>
