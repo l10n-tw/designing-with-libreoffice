@@ -989,6 +989,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;Notice that you cannot save an &lt;f6&gt;HTML&lt;/f6&gt; document &lt;f7&gt;using &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Templates &gt; Save As Template.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; If you try, you receive no error message, but nothing is saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045011Z" creationid="MarkHung" creationdate="20180224T045011Z">
+        <seg>注意你無法使用「範本 &gt; 另存為範本」儲存儲存HTML文件如果你嘗試，不會有錯誤訊息，也不會儲存任何檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;Usually, these can be set to zero, since headers and footers &lt;f6&gt;are rarely&lt;/f6&gt; indented more than the body text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124518Z" creationid="Jeff Huang" creationdate="20180127T023457Z">
@@ -2640,6 +2648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;D&lt;/f0&gt;isplays as an italic font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044657Z" creationid="MarkHung" creationdate="20180224T044657Z">
+        <seg>顯示斜體字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;D&lt;/f0&gt;rop caps are more common in fiction than non-fiction, &lt;f1&gt;and in magazines than in an academic essay.&lt;/f1&gt; &lt;f2&gt;They create an informality that is more at home in a novel than in most types of non-fiction.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041954Z" creationid="MarkHung" creationdate="20180224T041954Z">
@@ -3874,10 +3890,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If these instructions seem too complicated, avoid using Writer to generate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; output.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045054Z" creationid="MarkHung" creationdate="20180224T045054Z">
+        <seg>如果這些指令過於複雜，避免使用Writer產生HTML輸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you &lt;/f0&gt;take a screen shot of a menu, white out any irrelevant text &lt;f1&gt;and dialogs in the background.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T142011Z" creationid="zerng07" creationdate="20180205T142011Z">
         <seg>&lt;f0&gt;如果你&lt;/f0&gt;為某個選單擷取了螢幕快照，可將背景中無關的文字和對話視窗用白色區塊遮掉&lt;f1&gt;。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you are reading this book from beginning to end, at this point&lt;/f0&gt; all the features of character and paragraph styles that you &lt;f1&gt;might want&lt;/f1&gt; to use regularly have been &lt;f2&gt;covered&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045118Z" creationid="MarkHung" creationdate="20180224T045118Z">
+        <seg>如果你從頭到尾讀這本書，至此已涵蓋了你可能想用的所有字元和段落樣式的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +4194,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In other words, design as though you are using the plainest possible&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; HTML.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044957Z" creationid="MarkHung" creationdate="20180224T044957Z">
+        <seg>換句話說，彷彿你只使用最平實的 HTML一般地設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In other words, they are basic units&lt;/f0&gt; for format and content.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085619Z" creationid="Franklin Weng" creationdate="20180211T085619Z">
@@ -4395,6 +4435,14 @@ f1</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T030639Z" creationid="Jeff Huang" creationdate="20180115T030639Z">
         <seg>&lt;f0&gt;圖例：&lt;/f0&gt;描述特定色彩所代表的意義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; code is generally best avoided.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044829Z" creationid="MarkHung" creationdate="20180224T044829Z">
+        <seg>一般來說，最好避免LibreOffice的HTML代碼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5185,6 +5233,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Paragraph s&lt;/f0&gt;tyle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044415Z" creationid="MarkHung" creationdate="20180224T044415Z">
+        <seg>段落樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Parallel:&lt;/f0&gt; Text wraps &lt;f1&gt;equally &lt;/f1&gt;on all sides of the frame, &lt;f2&gt;starting on the left, then jumping across the image to the right.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120822Z" creationid="zerng07" creationdate="20180206T120054Z">
@@ -5573,6 +5629,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T142749Z" creationid="Jeff Huang" creationdate="20180122T092225Z">
         <seg>&lt;f0&gt;儲存：&lt;/f0&gt;將影像另存成一個檔案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save the document by selecting&lt;/f0&gt; &lt;f1&gt;File &gt; Save as &lt;/f1&gt;&lt;f2&gt;and selecting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;HTML Document Template (.ott)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; as the format or file type.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045004Z" creationid="MarkHung" creationdate="20180224T045004Z">
+        <seg>選擇 「檔案 &gt; 另存為」存檔並選擇「HTML文件範本(.ott)」作為「存檔類型」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6900,6 +6964,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042939Z" creationid="MarkHung" creationdate="20180224T042939Z">
         <seg>使用連結的段落樣式時，要切換到清單上的較低階層，輸入內容前按下Tab按鍵；要切換到較高階層，按下Shift+Tab。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To use&lt;/f0&gt; the template, navigate to the directory &lt;f1&gt;in which the template was saved.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045042Z" creationid="MarkHung" creationdate="20180224T045042Z">
+        <seg>要使用範本瀏覽保存範本的目錄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9766,8 +9838,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171212T095824Z" creationid="Franklin Weng" creationdate="20171212T095824Z">
-        <seg>&lt;t0&gt;0&lt;/t0&gt;.</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045143Z" creationid="Franklin Weng" creationdate="20171212T095824Z">
+        <seg>0</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,6 +9888,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180124T042056Z" creationid="Franklin Weng" creationdate="20180124T042056Z">
         <seg>&lt;t0&gt;30&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045149Z" creationid="MarkHung" creationdate="20180224T045149Z">
+        <seg>32</seg>
       </tuv>
     </tu>
     <tu>
@@ -11945,6 +12025,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T023520Z" creationid="zerng07" creationdate="20180122T023520Z">
         <seg>Apache OpenOffice也一樣容許以1/10&lt;f0&gt;點為單位輸入。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appears in the web browser in a monospaced font (such as Courier).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044544Z" creationid="MarkHung" creationdate="20180224T044544Z">
+        <seg>在瀏覽器中以等寬字形(如Courier)呈現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14084,6 +14172,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character &lt;f0&gt;s&lt;/f0&gt;tyle</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045255Z" creationid="MarkHung" creationdate="20180224T045255Z">
+        <seg>字元樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters before and after numbers in a list, created using the &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; fields, &lt;f2&gt;increase the versatility of list styles.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T142928Z" creationid="Jeff Huang" creationdate="20180204T034945Z">
@@ -14547,6 +14643,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044424Z" creationid="MarkHung" creationdate="20180224T044424Z">
+        <seg>註解</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Modified by Franklin</note>
       <tuv lang="EN">
         <seg>Common character styles are bold lettering for emphasis, italics for a book title, and underlining and a different color for a web link.</seg>
@@ -14746,6 +14850,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141956Z" creationid="Jeff Huang" creationdate="20180211T135028Z">
         <seg>如果要將文字轉換為表格的話，需要先手動標記好欄與列，但根本不值得你這麼做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts to the default paragraph tag.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044502Z" creationid="MarkHung" creationdate="20180224T044502Z">
+        <seg>轉換為預設段落標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15190,6 +15302,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize only by making changes to the pre-defined paragraph and character styles &lt;f0&gt;listed in the table above.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044928Z" creationid="MarkHung" creationdate="20180224T044915Z">
+        <seg>僅透過修改上面表格列出的預設的段落和字元樣式客制化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customized lines are stored in the /user/config directory of your personal configuration path.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T055456Z" creationid="Jeff Huang" creationdate="20171228T071909Z">
@@ -15318,10 +15438,26 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defaults to default font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044731Z" creationid="MarkHung" creationdate="20180224T044731Z">
+        <seg>使用預設字形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining cell content &lt;f0&gt;and&lt;/f0&gt; adding help</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160313Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
         <seg>定義儲存格內容&lt;f0&gt;並&lt;/f0&gt;加上說明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Definition</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044634Z" creationid="MarkHung" creationdate="20180224T044634Z">
+        <seg>定義</seg>
       </tuv>
     </tu>
     <tu>
@@ -15699,6 +15835,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T001610Z" creationid="zerng07" creationdate="20180121T092155Z">
         <seg>以多頁顯示的話，能&lt;f0&gt;呈現&lt;/f0&gt;出這份文件在印刷之後，或&lt;f1&gt;其他&lt;/f1&gt;在寬&lt;f2&gt;螢幕&lt;/f2&gt;上，以書本跨頁方式閱讀時的樣貌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays default font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044645Z" creationid="MarkHung" creationdate="20180224T044645Z">
+        <seg>顯示預設字形。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16221,6 +16365,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T123713Z" creationid="Franklin Weng" creationdate="20180103T125429Z">
         <seg>嵌入字型確實可以輕鬆解決分享檔案時收件者沒有所用字型的問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emphasis</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044655Z" creationid="MarkHung" creationdate="20180224T044655Z">
+        <seg>強調</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,6 +18862,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML &lt;f0&gt;t&lt;/f0&gt;ags</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044419Z" creationid="MarkHung" creationdate="20180224T044419Z">
+        <seg>HTML標籤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Handouts are generally copies of the slide show printed out to give to the audience.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T170514Z" creationid="Franklin Weng" creationdate="20180120T121852Z">
@@ -18778,6 +18938,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T080121Z" creationid="Jeff Huang" creationdate="20180126T131831Z">
         <seg>頁首與頁尾經常成對出現，但只用一種也很常見。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heading 1-6</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044431Z" creationid="MarkHung" creationdate="20180224T044431Z">
+        <seg>標題1-6</seg>
       </tuv>
     </tu>
     <tu>
@@ -18914,6 +19082,22 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T070644Z" creationid="zerng07" creationdate="20180125T070644Z">
         <seg>水平行距也可以協助提升易讀性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How &lt;f0&gt;Character&lt;/f0&gt; styles are mapped to &lt;f1&gt;HTML&lt;/f1&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044811Z" creationid="MarkHung" creationdate="20180224T044811Z">
+        <seg>字元樣式如何對應HTML標籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How &lt;f0&gt;P&lt;/f0&gt;aragraph styles are mapped to &lt;f1&gt;HTML&lt;/f1&gt; tags.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045306Z" creationid="MarkHung" creationdate="20180224T045306Z">
+        <seg>段落樣式如何對應至HTML標籤</seg>
       </tuv>
     </tu>
     <tu>
@@ -19239,6 +19423,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, before the topic of text styles is wrapped up, Chapter 6 discusses some advanced features – ones that are not strictly necessary to your design, but ones that can automate your design and make template design more efficient.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045131Z" creationid="MarkHung" creationdate="20180224T045131Z">
+        <seg>在結束文字樣式的主題之前，第6章討論一些進階的功能，這些功能在設計中並非絕對必要，但可以自動化你的設計並讓模板的設計更有效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, before you choose to use a slide show (assuming that you have a choice), you should ask yourself &lt;f0&gt;whether one is necessary.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161557Z" creationid="Franklin Weng" creationdate="20180107T061648Z">
@@ -19476,6 +19668,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T023019Z" creationid="zerng07" creationdate="20171227T023019Z">
         <seg>不過，如果你確定要編輯樣式，在Writer中你有&lt;f0&gt;許多&lt;/f0&gt; &lt;f1&gt;方法&lt;/f1&gt;可用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you do decide to use it,&lt;/f3&gt; &lt;f4&gt;follow these steps to minimize problems:&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044840Z" creationid="MarkHung" creationdate="20180224T044840Z">
+        <seg>然而，如果你決定使用這個功能， 遵循以下步驟減少問題：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21604,6 +21804,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want clean &lt;f0&gt;HTML&lt;/f0&gt; output, &lt;f1&gt;do one (or both) of the following: Manually remove unnecessary tags or run the file through a tool &lt;/f1&gt;such as &lt;f2&gt;HTML&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tidy&lt;f4&gt;.&lt;/f4&gt; In Linux, many major distributions have &lt;f5&gt;HTML&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;Tidy in their repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045027Z" creationid="MarkHung" creationdate="20180224T045027Z">
+        <seg>如果你想清理HTML輸出，依照下一個(或全部)步驟進行： 手動移除非必要的標籤，或透過像是HTML Tidy之類的工具移除標籤，許多主要的發行套件軟體庫都有HTML Tidy。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want clean code, avoid using additional styles, using any character or paragraph style that requires a style sheet, or using multiple page, frame, or list styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044950Z" creationid="MarkHung" creationdate="20180224T044950Z">
+        <seg>如果你想要乾淨的代碼，避免使用額外的樣式，使用需要樣式表的字元或段落樣式，或使用多個頁面、外框、或清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want the same options most of the time, you can set some of them in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123004Z" creationid="Jeff Huang" creationdate="20180211T023233Z">
@@ -22899,6 +23115,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indents the text &lt;f0&gt;on both margins.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044557Z" creationid="MarkHung" creationdate="20180224T044557Z">
+        <seg>在兩個邊界內縮文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Indicators call attention to elements that you want readers to find easily as they follow your discussion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034836Z" creationid="zerng07" creationdate="20180205T141303Z">
@@ -23032,6 +23256,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152805Z" creationid="Franklin Weng" creationdate="20171212T125500Z">
         <seg>它會將&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; 路徑 &gt; 範本&lt;/f2&gt;&lt;/f1&gt;」中所列出的範本目錄下所有的內容，都&lt;f3&gt;顯示在&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;範本管理員&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗中。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, save the file as an &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;HTML Document Template&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; in a directory specifically set aside for that purpose.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045019Z" creationid="MarkHung" creationdate="20180224T045019Z">
+        <seg>另外，將檔案於特別做為保存範本用目錄另存為HTML文件範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24356,6 +24588,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List Contents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044449Z" creationid="MarkHung" creationdate="20180224T044449Z">
+        <seg>清單內容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List Headings</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044519Z" creationid="MarkHung" creationdate="20180224T044519Z">
+        <seg>清單標題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lists are likely to make little use of &lt;f0&gt;functions&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121718Z" creationid="Franklin Weng" creationdate="20180206T121718Z">
@@ -24871,6 +25119,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minimizing HTML problems</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044817Z" creationid="MarkHung" creationdate="20180224T044817Z">
+        <seg>減少HTML的問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mint Spirit No2, &lt;f0&gt;Nunito&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T071550Z" creationid="Jeff Huang" creationdate="20180115T071550Z">
@@ -25229,6 +25485,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T083617Z" creationid="Franklin Weng" creationdate="20180120T071951Z">
         <seg>音訊或視訊（「&lt;f1&gt;插入 &gt; 音訊或視訊&lt;/f1&gt;」）：在某一張投影片中播放音訊或視訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving beyond practical text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045109Z" creationid="MarkHung" creationdate="20180224T045109Z">
+        <seg>超越實際的文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -25641,6 +25905,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice that &lt;f2&gt;the&lt;/f2&gt; &lt;f3&gt;All&lt;/f3&gt; and &lt;f4&gt;HTML&lt;/f4&gt; views are identical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044909Z" creationid="MarkHung" creationdate="20180224T044909Z">
+        <seg>注意所有及一般檢視是相同的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that only &lt;f0&gt;6&lt;/f0&gt; headings are available, while Writer has 10.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044444Z" creationid="MarkHung" creationdate="20180224T044444Z">
+        <seg>注意只有6個標題可以使用，而Writer有10個。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notice that these are multiples of the &lt;f5&gt;fi&lt;/f5&gt;xed line spacing of 1&lt;f6&gt;8 points&lt;/f6&gt; being used for Header and its subordinate style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T125458Z" creationid="zerng07" creationdate="20180125T125458Z">
@@ -26049,6 +26329,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On all operating platforms, there are many tools for writing web pages that are easier to use than Writer.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045102Z" creationid="MarkHung" creationdate="20180224T045102Z">
+        <seg>所有平台都有許多比Writer更容易使用的網頁工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On each of these custom styles, set &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page &gt; Layout Settings &gt; Format&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; to lower case Roman numerals.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143714Z" creationid="Jeff Huang" creationdate="20180129T084239Z">
@@ -26407,6 +26695,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T024407Z" creationid="zerng07" creationdate="20171227T024407Z">
         <seg>開啟&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗右上角的下拉選單，並選取「&lt;f1&gt;新增樣式&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the file in at least one major browser such as Chrome, Firefox, &lt;f0&gt;or&lt;/f0&gt; Internet Explorer to see whether any display problems exist.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045033Z" creationid="MarkHung" creationdate="20180224T045033Z">
+        <seg>在至少一個主流瀏覽器(如Chrome、Firefox，或者Internet Explorer)中開啟檔案，檢查是否有任何問題存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27264,6 +27560,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preformatted text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044532Z" creationid="MarkHung" creationdate="20180224T044532Z">
+        <seg>預先排好的文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preparing images</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T084458Z" creationid="zerng07" creationdate="20180205T084458Z">
@@ -27300,6 +27604,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T133029Z" creationid="Franklin Weng" creationdate="20180118T033326Z">
         <seg>簡報樣式中有一個「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁，那些想在投影片中使用兩端對齊的朋友可以利用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F11 &lt;/f0&gt;to open the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044855Z" creationid="MarkHung" creationdate="20180224T044855Z">
+        <seg>按下F11按鍵打開「樣式與格式」視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27473,6 +27785,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quotations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044549Z" creationid="MarkHung" creationdate="20180224T044549Z">
+        <seg>引言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&lt;/f1&gt;eplace it with the simplest &lt;f2&gt;possible &lt;/f2&gt;alternative.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T103810Z" creationid="Jeff Huang" creationdate="20180116T063115Z">
@@ -27558,6 +27878,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T171303Z" creationid="Franklin Weng" creationdate="20180120T125659Z">
         <seg>要提前抵達演講會場，先把簡報一切所需都先設置好。這樣可以降低你的焦慮感，不會太趕結果手忙腳亂、腦筋一片空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References style sheet.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044717Z" creationid="MarkHung" creationdate="20180224T044717Z">
+        <seg>參考樣式表</seg>
       </tuv>
     </tu>
     <tu>
@@ -28253,6 +28581,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; New &gt; HTML Document.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044849Z" creationid="MarkHung" creationdate="20180224T044849Z">
+        <seg>選擇「檔案 &gt; 新增 &gt; HTML文件」。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4.4 已經將「樣式和格式」從「格式」中獨立出來到「樣式」選單列項目中，所以這裡改為「樣式 &gt; 樣式和格式設定」。</note>
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &gt; Styles and Formatting&lt;/f0&gt; &lt;f1&gt;from the menu bar.&lt;/f1&gt;</seg>
@@ -28343,6 +28679,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T091638Z" creationid="Franklin Weng" creationdate="20180114T135619Z">
         <seg>接著選取「&lt;f0&gt;檢視 &gt; 投影片母片&lt;/f0&gt;」，就會進入投影片母片檢視畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;View &gt; Web Layout.&lt;/f0&gt; &lt;f1&gt;This selection displays the file as a web page instead of a printed page.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044939Z" creationid="MarkHung" creationdate="20180224T044908Z">
+        <seg>選擇「檢視 &gt; 網頁」。這個選擇將檔案以網頁而非待列印的頁面顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30377,6 +30721,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table Contents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044615Z" creationid="MarkHung" creationdate="20180224T044604Z">
+        <seg>目錄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table styles are due to be added to Writer in the future, but for now tables are formatted in a mixture of manual and style-like editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T124012Z" creationid="Jeff Huang" creationdate="20180131T084113Z">
@@ -31920,6 +32272,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114259Z" creationid="Franklin Weng" creationdate="20180211T114259Z">
         <seg>&lt;f0&gt;&lt;f1&gt;美式&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;英文&lt;/f2&gt;預設的日期格式為 &lt;f3&gt;MM/DD/YY。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default HTML tag for contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045247Z" creationid="MarkHung" creationdate="20180224T045247Z">
+        <seg>內容預設對應的HTML標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36710,6 +37070,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T085944Z" creationid="Franklin Weng" creationdate="20180114T133913Z">
         <seg>用這份範本做為其他主題更&lt;f1&gt;專門&lt;/f1&gt;的範本雛形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use with &lt;f0&gt;list &lt;/f0&gt;styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044513Z" creationid="MarkHung" creationdate="20180224T044513Z">
+        <seg>使用清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
