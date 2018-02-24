@@ -591,6 +591,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180224T050308Z" creationid="Franklin Weng" creationdate="20180224T050308Z">
+        <seg>&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;These settings are over-ridden by any formatting in the document itself.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T123134Z" creationid="zerng07" creationdate="20180125T042205Z">
@@ -1584,16 +1592,18 @@
       </tuv>
     </tu>
     <tu>
-      <note>vertical 垂直？？從左邊距開始算的話，是水平吧… 作者可能垂直和水平傻傻分不清楚。</note>
+      <note>vertical 垂直？？從左邊距開始算的話，是水平吧… 作者可能垂直和水平傻傻分不清楚。
+Franklin: 這一行其實應該由下面那一個 Aligned at 取代。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Aligned at:&lt;/f0&gt; The vertical position for numbers, measured from the left margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T132439Z" creationid="Jeff Huang" creationdate="20180203T125026Z">
-        <seg>&lt;f0&gt;對齊：&lt;/f0&gt;編號的水平位置，從左邊距開始計算。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180224T041747Z" creationid="Jeff Huang" creationdate="20180203T125026Z">
+        <seg>&lt;f0&gt;對齊：&lt;/f0&gt;編號的水平位置，從左邊距開始計算。（**Franklin: 這一行其實應該由下面那一個 Aligned at 取代。**）</seg>
       </tuv>
     </tu>
     <tu>
-      <note>等等，這從哪裡出現的？有這個新解釋代表和上面的「對齊」Aligned at 是不一樣的東西，但我沒看到這一欄啊。</note>
+      <note>等等，這從哪裡出現的？有這個新解釋代表和上面的「對齊」Aligned at 是不一樣的東西，但我沒看到這一欄啊。
+Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Aligned at&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;:&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;S&lt;/f3&gt;ets where the numbers or bullets are &lt;f4&gt;on the line.</seg>
       </tuv>
@@ -14582,8 +14592,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cluttered or over-designed tables work against that goal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T083348Z" creationid="Jeff Huang" creationdate="20180210T032552Z">
-        <seg>凌亂或過度設計的表格違背了這個目標。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180224T050029Z" creationid="Jeff Huang" creationdate="20180210T032552Z">
+        <seg>凌亂或過度設計的表格都代表違背了這個目標。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24189,8 +24199,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice does not have currently have styles for tables.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T162253Z" creationid="Jeff Huang" creationdate="20180208T081750Z">
-        <seg>LibreOffice目前還有沒有表格樣式。（5.4 已經有啦～但只是把自動格式樣式當作真正的樣式而已，所以到「樣式與格式」視窗中對相關的表格樣式按右鍵甚麼事也不能幹…）</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180224T045916Z" creationid="Jeff Huang" creationdate="20180208T081750Z">
+        <seg>LibreOffice 在 6.0 版以前還有沒有表格樣式。（5.4 已經有啦～但只是把自動格式樣式當作真正的樣式而已，所以到「樣式與格式」視窗中對相關的表格樣式按右鍵甚麼事也不能幹…）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25198,7 +25208,8 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>蛤？</note>
+      <note>蛤？
+Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>More elaborately, you might set a paragraph style to start at the top of the page, then attach to it a list style with text so that the paragraph style will automatically add text.</seg>
       </tuv>
