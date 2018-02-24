@@ -13835,8 +13835,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By default, each &lt;f0&gt;o&lt;/f0&gt;utline &lt;f1&gt;l&lt;/f1&gt;evel is assigned a &lt;f2&gt;h&lt;/f2&gt;eading paragraph style, with&lt;f3&gt; He&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ding 1&lt;/f6&gt; assigned to outline &lt;f7&gt;&lt;f8&gt;L&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;evel 1, &lt;/f9&gt;and so on &lt;f10&gt;with each heading style corresponding to the same outline level.&lt;/f10&gt; &lt;t11/&gt;However, &lt;f12&gt;what most users never notice is that &lt;/f12&gt;you &lt;f13&gt;can &lt;/f13&gt;assign &lt;f14&gt;any other&lt;/f14&gt; paragraph style to an&lt;f15&gt;y&lt;/f15&gt; outline level,&lt;f16&gt; by using the &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Outline level &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;field on the &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Outline &amp; Numbering&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; tab for a paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144803Z" creationid="zerng07" creationdate="20180224T144803Z">
-        <seg>預設情況下，各大綱層級會對應到各個標題段落樣式，像是「&lt;f3&gt; 標題&lt;/f3&gt;&lt;f6&gt; 1&lt;/f6&gt;指派給「&lt;f9&gt;層級 1&lt;/f9&gt;」……依此類推，&lt;f10&gt;各標題樣式對應到同等的大綱層級。&lt;/f10&gt; &lt;t11/&gt;However, &lt;f12&gt;what most users never notice is that &lt;/f12&gt;you &lt;f13&gt;can &lt;/f13&gt;assign &lt;f14&gt;any other&lt;/f14&gt; paragraph style to an&lt;f15&gt;y&lt;/f15&gt; outline level,&lt;f16&gt; by using the &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Outline level &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;field on the &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Outline &amp; Numbering&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; tab for a paragraph style.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145417Z" creationid="zerng07" creationdate="20180224T144803Z">
+        <seg>預設情況下，各大綱層級會對應到各個標題段落樣式，像是「&lt;f3&gt; 標題&lt;/f3&gt;&lt;f6&gt; 1&lt;/f6&gt;指派給「&lt;f9&gt;層級 1&lt;/f9&gt;」……依此類推，&lt;f10&gt;各標題樣式對應到同等的大綱層級。&lt;/f10&gt; &lt;t11/&gt;然而，&lt;f12&gt;大多數使用者都未曾注意過，其實&lt;/f12&gt;你&lt;f13&gt;可以&lt;/f13&gt;將&lt;f14&gt;任何其他&lt;/f14&gt;段落樣式指派給任意的大綱層級，&lt;f16&gt;只要在任一段落樣式「&lt;/f16&gt;&lt;f20&gt;&lt;f21&gt;大綱與編號&lt;/f21&gt;&lt;/f20&gt;」標籤頁中的「&lt;f17&gt;&lt;f18&gt;大綱層級&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;」欄位做設定即可&lt;/f19&gt;&lt;f22&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34740,8 +34740,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These styles are picked up by other Writer tools to simplify your work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144446Z" creationid="zerng07" creationdate="20180224T144446Z">
-        <seg>這些樣式可由其他Writer工具取用，因此能簡化你的工作。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144947Z" creationid="zerng07" creationdate="20180224T144446Z">
+        <seg>這些樣式可由其他Writer工具取用而得以簡化你的工作。</seg>
       </tuv>
     </tu>
     <tu>
