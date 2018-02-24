@@ -21586,6 +21586,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have noticed &lt;f0&gt;Tools &gt; Outline Numbering,&lt;/f0&gt; you may have assumed that it is a manual method of creating outlines.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144137Z" creationid="zerng07" creationdate="20180224T144137Z">
+        <seg>如果你曾注意過「&lt;f0&gt;工具 &gt; 大綱編號&lt;/f0&gt;」（5.4 和 6.0 沒有這個功能喔），可能會以為它是拿來手動製作大綱用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have only a few horizontal indents, this style may be usable with multiple lists.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043710Z" creationid="MarkHung" creationdate="20180224T043710Z">
@@ -30070,8 +30078,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some of these tools do not rely heavily on styles (if at all), but you &lt;f0&gt;may &lt;/f0&gt;need to be aware of &lt;f1&gt;their quirks &lt;/f1&gt;as you design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T101516Z" creationid="zerng07" creationdate="20180224T101516Z">
-        <seg>這些工具中有的一點也不依靠樣式，但你在設計時&lt;f0&gt;也該&lt;/f0&gt;注意&lt;f1&gt;那些奇技淫巧 &lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T102524Z" creationid="zerng07" creationdate="20180224T101516Z">
+        <seg>這些工具中有的一點也不依靠樣式，但你在設計時&lt;f0&gt;還是該&lt;/f0&gt;注意&lt;f1&gt;那些奇技淫巧 &lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
