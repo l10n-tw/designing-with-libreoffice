@@ -20052,8 +20052,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, outlines are &lt;f0&gt;only the most basic use of outline numbering&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;More importantly, &lt;f4&gt;o&lt;/f4&gt;utline &lt;f5&gt;n&lt;/f5&gt;umbering also defines the paragraph styles used for each level.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144408Z" creationid="zerng07" creationdate="20180224T144408Z">
-        <seg>不過，大綱&lt;f0&gt;僅是大綱編號的最基本用途&lt;/f0&gt;。更重要的，大綱編號也可用來定義段落樣式的各個層級。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144928Z" creationid="zerng07" creationdate="20180224T144408Z">
+        <seg>不過，標號&lt;f0&gt;僅是章節標號的最基本用途&lt;/f0&gt;。更重要的，章節標號可用來定義段落樣式的各個層級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21604,8 +21604,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you have noticed &lt;f0&gt;Tools &gt; Outline Numbering,&lt;/f0&gt; you may have assumed that it is a manual method of creating outlines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144137Z" creationid="zerng07" creationdate="20180224T144137Z">
-        <seg>如果你曾注意過「&lt;f0&gt;工具 &gt; 大綱編號&lt;/f0&gt;」（5.4 和 6.0 沒有這個功能喔），可能會以為它是拿來手動製作大綱用的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144834Z" creationid="zerng07" creationdate="20180224T144137Z">
+        <seg>如果你曾注意過「&lt;f0&gt;工具 &gt; 章節標號&lt;/f0&gt;」（5.4 和 6.0 稱為「章節標號」喔），可能會以為它是拿來標示章節號碼用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31568,8 +31568,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Outline Numbering&lt;/f0&gt; dialog &lt;f1&gt;window&lt;/f1&gt; is used for more than just formatting outlines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144243Z" creationid="zerng07" creationdate="20180224T144243Z">
-        <seg>「&lt;f0&gt;大綱編號&lt;/f0&gt;」對話&lt;f1&gt;視窗&lt;/f1&gt;可不只能設定大綱格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144855Z" creationid="zerng07" creationdate="20180224T144243Z">
+        <seg>「&lt;f0&gt;章節標號&lt;/f0&gt;」對話&lt;f1&gt;視窗&lt;/f1&gt;可不只能標示章節號碼。</seg>
       </tuv>
     </tu>
     <tu>
