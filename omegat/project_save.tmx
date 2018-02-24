@@ -703,6 +703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;The&lt;f2&gt; settings for this tool resemble the choices on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Options&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab of a list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151056Z" creationid="zerng07" creationdate="20180224T151056Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;此工具中的設定選項類似清單樣式中的「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;自訂&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;Then select&lt;f2&gt; Group &lt;/f2&gt;from the &lt;f3&gt;Modify &lt;/f3&gt;menu or the right-click menu from one of the shapes.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105208Z" creationid="Jeff Huang" creationdate="20180121T133508Z">
@@ -3757,6 +3765,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T115912Z" creationid="Jeff Huang" creationdate="20180202T134713Z">
         <seg>&lt;f0&gt;不過，最有效率的方法是直接建立個附帶清單樣式的段落樣式。&lt;/f0&gt;請前往段落樣式的「&lt;f6&gt;大綱與編號&lt;/f6&gt;」標籤頁，在「&lt;f2&gt;編號樣式&lt;/f2&gt;」欄位的下拉選單中選取所要的清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;However, the most obvious method is to use &lt;/f0&gt;&lt;f1&gt;Tools &gt; Outline Numbering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151004Z" creationid="zerng07" creationdate="20180224T151004Z">
+        <seg>&lt;f0&gt;不過，最顯而易見的做法是直接用「&lt;/f0&gt;&lt;f1&gt;工具 &gt; 章節標號」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32924,6 +32940,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T121509Z" creationid="Franklin Weng" creationdate="20180116T092404Z">
         <seg>頁尾的部份可以在Impress的「&lt;f0&gt;投影片母片&lt;/f0&gt;」檢視畫面中修改，&lt;f1&gt;預設提供了擺放基本資訊的三個外框區塊。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting can be customized separately for each outline level, or for all levels at once.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151227Z" creationid="zerng07" creationdate="20180224T151227Z">
+        <seg>各個大綱層級可以個別自訂格式設定，也可以全部層級一次設定。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
