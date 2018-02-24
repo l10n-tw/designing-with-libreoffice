@@ -5210,6 +5210,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Outlining in&lt;/f0&gt; the Navigator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151304Z" creationid="zerng07" creationdate="20180224T151304Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;助手中概略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Outlining&lt;/f0&gt; slide shows</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T063638Z" creationid="Franklin Weng" creationdate="20180109T092658Z">
@@ -7053,6 +7061,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074547Z" creationid="zerng07" creationdate="20171224T083920Z">
         <seg>要&lt;f0&gt;開啓&lt;/f0&gt;&lt;f1&gt;樣式&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;和&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;格式 &lt;/f4&gt;視窗，&lt;f5&gt;有以下這些做法：&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To open the Navigator, select&lt;/f0&gt; &lt;f1&gt;View &gt; Navigator&lt;/f1&gt;, &lt;f2&gt;or &lt;/f2&gt;press the &lt;f3&gt;F5&lt;/f3&gt; key, &lt;f4&gt;or select the Navigator in the sidebar.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151642Z" creationid="zerng07" creationdate="20180224T151642Z">
+        <seg>&lt;f0&gt;若要開啟「助手」，請選取「&lt;/f0&gt; &lt;f1&gt;檢視 &gt; 助手&lt;/f1&gt;」，&lt;f2&gt;或&lt;/f2&gt;按下&lt;f3&gt;F5&lt;/f3&gt;鍵，&lt;f4&gt;或是從側邊欄中選取「助手」。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20223,6 +20239,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the longer the document, the more useful it becomes &lt;f0&gt;as you edit and revise&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151434Z" creationid="zerng07" creationdate="20180224T151434Z">
+        <seg>不過，只要文件越長，助手就越有用&lt;f0&gt;，方便你編輯並修訂內容。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the most basic page styles for any purpose are the &lt;f0&gt;Left Page,&lt;/f0&gt; &lt;f1&gt;Right Page, &lt;/f1&gt;&lt;f2&gt;and&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; First Page&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt; They are the ones that will be models for most of the other page styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T105352Z" creationid="Jeff Huang" creationdate="20180124T135811Z">
@@ -28700,6 +28724,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;rf0&gt;Error: Reference source not found&lt;/rf0&gt;,” page &lt;rf1&gt;Error: Reference source not found&lt;/rf1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151253Z" creationid="zerng07" creationdate="20180224T151253Z">
+        <seg>請見〈&lt;rf0&gt;Error: Reference source not found&lt;/rf0&gt;〉，第&lt;rf1&gt;Error: Reference source not found&lt;/rf1&gt;頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>又是參照錯誤......不想翻</note>
       <tuv lang="EN">
         <seg>See “&lt;rf1&gt;Error: Reference source not found&lt;/rf1&gt;,” &lt;f2&gt;page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;Error: Reference source not found&lt;/rf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
@@ -32048,6 +32080,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070235Z" creationid="Jeff Huang" creationdate="20171123T080926Z">
         <seg>&lt;f0&gt;如果你的文件採用標題或是有描述性名稱的物件，那麼助手將是調整文件結構的理想工具。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Navigator is one of the most under-used features of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151345Z" creationid="zerng07" creationdate="20180224T151336Z">
+        <seg>「助手」(Navigator) 是LibreOffice中最沒人注意到的功能。</seg>
       </tuv>
     </tu>
     <tu>
