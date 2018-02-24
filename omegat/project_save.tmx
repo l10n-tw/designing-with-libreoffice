@@ -1135,8 +1135,24 @@
       <tuv lang="EN">
         <seg>&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050449Z" creationid="MarkHung" creationdate="20180224T050449Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052222Z" creationid="MarkHung" creationdate="20180224T050449Z">
+        <seg>&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;dfn&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051540Z" creationid="MarkHung" creationdate="20180224T051540Z">
+        <seg>&lt;dfn&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;em&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051533Z" creationid="MarkHung" creationdate="20180224T051533Z">
+        <seg>&lt;em&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1185,8 +1201,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Contents &gt; Text&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is permanently grayed-out on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Drop Caps&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042434Z" creationid="MarkHung" creationdate="20180224T042434Z">
-        <seg>「內容 &gt; 文字」在「首字放大」頁籤中永久灰去。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053202Z" creationid="MarkHung" creationdate="20180224T042434Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「內容 &gt; 文字」&lt;/f1&gt;&lt;/f0&gt;在&lt;f3&gt;&lt;f4&gt;「首字放大」&lt;/f4&gt;頁籤&lt;/f3&gt;中&lt;f2&gt;永久灰去&lt;/f2&gt;。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,8 +2137,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Besides&lt;/f0&gt;, &lt;f1&gt;possibly, they may &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;have more practical uses than they appear to do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033740Z" creationid="MarkHung" creationdate="20180224T033740Z">
-        <seg>此外，這類功能可能有比想像更實際的用途。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052611Z" creationid="MarkHung" creationdate="20180224T033740Z">
+        <seg>此外，這類功能可能有比想像更實際的用途。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,8 +4046,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a shadow as part of the border, select its&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Position, Distance&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (from the border), and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051153Z" creationid="MarkHung" creationdate="20180224T035022Z">
-        <seg>如果你要邊框有陰影，選擇陰影樣式的&lt;f4&gt;&lt;f5&gt;位置、距離 (離內容的間距)及顏色。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052919Z" creationid="MarkHung" creationdate="20180224T035022Z">
+        <seg>&lt;f0&gt;如果你要邊框有陰影&lt;/f0&gt;，選擇陰影樣式的&lt;f1&gt;&lt;f2&gt;位置、距離&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (離內容的間距)及&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5841,8 +5857,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the line’s &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Color&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034759Z" creationid="MarkHung" creationdate="20180224T034759Z">
-        <seg>設定線條樣式、寬度和顏色。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052806Z" creationid="MarkHung" creationdate="20180224T034759Z">
+        <seg>&lt;f0&gt;設定線條&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;、&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;和&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;顏色。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7028,8 +7044,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To use&lt;/f0&gt; the template, navigate to the directory &lt;f1&gt;in which the template was saved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045042Z" creationid="MarkHung" creationdate="20180224T045042Z">
-        <seg>要使用範本瀏覽保存範本的目錄。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053908Z" creationid="MarkHung" creationdate="20180224T045042Z">
+        <seg>要使用範本瀏覽保存範本的目錄。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8467,8 +8483,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;The smallest formatting change can sometimes throw them out of position.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041400Z" creationid="MarkHung" creationdate="20180224T041400Z">
-        <seg>有時最小的格式改變有時候會造成移位。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053716Z" creationid="MarkHung" creationdate="20180224T041400Z">
+        <seg>&lt;f1&gt;有時最小的格式改變有時候會造成移位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9389,8 +9405,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;In these cases, the same results can often be obtained with more options by choosing another method.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050937Z" creationid="MarkHung" creationdate="20180224T033706Z">
-        <seg>&lt;f3&gt;這種情形通常可以選用其他方式達到相同的結果。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052526Z" creationid="MarkHung" creationdate="20180224T033706Z">
+        <seg>這種情形通常可以選用其他方式達到相同的結果。&lt;f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9455,14 +9471,6 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175004Z" creationid="zerng07" creationdate="20171224T043559Z">
         <seg>&lt;f3&gt;等同手動以右鍵點按一個外框操作。&lt;/f3&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f3&gt;See “&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;rf8&gt;Error: Reference source not found&lt;/rf8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
-      </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050148Z" creationid="MarkHung" creationdate="20180224T050148Z">
-        <seg>請參考OOOO，頁OO。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,6 +9890,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164113Z" creationid="zerng07" creationdate="20171226T164048Z">
         <seg>&lt;f7&gt;你可以從&lt;/f7&gt;「&lt;f8&gt;&lt;f9&gt;工具 &gt; 自訂 &gt; 功能 &gt; 樣式&lt;/f9&gt;&lt;/f8&gt;」裡設定其他樣式的快捷鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;samp&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051551Z" creationid="MarkHung" creationdate="20180224T051551Z">
+        <seg>&lt;samp&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14231,8 +14247,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;5&lt;/f0&gt; discusses settings that almost all documents use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033215Z" creationid="MarkHung" creationdate="20180224T033215Z">
-        <seg>第5章討論所有文檔幾乎都使用的設定。
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052358Z" creationid="MarkHung" creationdate="20180224T033215Z">
+        <seg>第 &lt;f0&gt;5&lt;/f0&gt;章討論所有文檔幾乎都使用的設定。
 </seg>
       </tuv>
     </tu>
@@ -20014,8 +20030,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, others &lt;f0&gt;you should consider carefully before using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050911Z" creationid="MarkHung" creationdate="20180224T033304Z">
-        <seg>至於使用其他影響較大的功能前應 &lt;f0&gt;謹慎思考。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052443Z" creationid="MarkHung" creationdate="20180224T033304Z">
+        <seg>至於使用其他影響較大的功能前應&lt;f0&gt;謹慎思考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20745,8 +20761,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If anyone knows such a use, I would be glad to hear.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051032Z" creationid="MarkHung" creationdate="20180224T033751Z">
-        <seg>&lt;f3&gt;如果有人知道用法，我願意瞭解。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052142Z" creationid="MarkHung" creationdate="20180224T033751Z">
+        <seg>如果有人知道用法，我願意瞭解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22727,8 +22743,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In most circumstances, choose the thinnest, plainest style possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051051Z" creationid="MarkHung" creationdate="20180224T034807Z">
-        <seg>&lt;f9&gt;在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052207Z" creationid="MarkHung" creationdate="20180224T034807Z">
+        <seg>在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29976,8 +29992,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some are design elements that seemed reasonable &lt;f0&gt;decades ago&lt;/f0&gt; when Writer was first released, but have since become obsolete – and never were (to be polite) in the best typographical tradition.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033641Z" creationid="MarkHung" creationdate="20180224T033641Z">
-        <seg>某些功能是Writer首次發行時(約二三十年前)合理的設計元素，現在不僅已經過時，而且從未成為最佳的排版慣例。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052511Z" creationid="MarkHung" creationdate="20180224T033641Z">
+        <seg>某些功能是Writer首次發行時(&lt;f0&gt;約二三十年前&lt;/f0&gt;)合理的設計元素，現在不僅已經過時，而且從未成為最佳的排版慣例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33246,8 +33262,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The most common way to add support for additional languages is to select them from the drop-down list at &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Writing Aids &gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; U&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;ser-defined dictionaries &gt; New.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043852Z" creationid="MarkHung" creationdate="20180224T043852Z">
-        <seg>增加支援語言最常見的方式，是從「工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增」，自下拉選單中選擇額外的語言。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053842Z" creationid="MarkHung" creationdate="20180224T043852Z">
+        <seg>增加支援語言最常見的方式，是從「工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增」，自下拉選單中選擇額外的語言。&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40041,8 +40057,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You might find several of these features &lt;f2&gt;in a single&lt;/f2&gt; document, but rarely all.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T033251Z" creationid="MarkHung" creationdate="20180224T033251Z">
-        <seg>一個單一文檔可能用到到好幾個這樣的功能，但很少全部都用到。</seg>
+      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052430Z" creationid="MarkHung" creationdate="20180224T033251Z">
+        <seg>一個&lt;f2&gt;單一文檔&lt;/f2&gt;可能用到到好幾個這樣的功能，但很少全部都用到。</seg>
       </tuv>
     </tu>
     <tu>
