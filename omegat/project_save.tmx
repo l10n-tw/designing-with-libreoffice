@@ -8159,6 +8159,14 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;However, this method is so cumbersome and slow that it should be avoided if at all possible.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161329Z" creationid="zerng07" creationdate="20180225T161329Z">
+        <seg>&lt;f1&gt;不過，這個方法又笨又慢，應該盡一切努力避免。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>* 無視 f1、f4、f7
 * UI 翻譯：應改為「縮放字元寬度」較明確</note>
       <tuv lang="EN">
@@ -8522,8 +8530,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;The alternative is to set references, either manually or as bookmarks.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160355Z" creationid="zerng07" creationdate="20180225T160146Z">
-        <seg>&lt;f1&gt;替代方案是看要手動設定參照，還是設定成書籤。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161225Z" creationid="zerng07" creationdate="20180225T160146Z">
+        <seg>&lt;f1&gt;替代方案是看你要手動設定參照，還是要設定成書籤。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27383,6 +27391,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, consider &lt;f2&gt;Numbered Paragraphs &lt;/f2&gt;or &lt;f3&gt;Bookmarks.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161104Z" creationid="zerng07" creationdate="20180225T161104Z">
+        <seg>否則的話，可以考慮用「&lt;f2&gt;編號的段落&lt;/f2&gt;」或「&lt;f3&gt;書籤&lt;/f3&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, consider whether you need tabs or can substitute another solution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041642Z" creationid="MarkHung" creationdate="20180224T041642Z">
@@ -38339,6 +38355,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104348Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
         <seg>當同時調整位置跟大小時，你該具備在取得最佳結果前多次試誤的心理準備，持續縮小調整範圍直到接近你理想中的結果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When all else fails, you can use&lt;f0&gt; Set Reference&lt;/f0&gt; to manually create a source.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161209Z" creationid="zerng07" creationdate="20180225T161209Z">
+        <seg>如果上述類型都做不出來的話，你可以用「&lt;f0&gt;設定參照&lt;/f0&gt;」手動建立參考來源。</seg>
       </tuv>
     </tu>
     <tu>
