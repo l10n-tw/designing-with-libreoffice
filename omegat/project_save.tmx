@@ -9667,6 +9667,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;You can also manually update by clicking &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Update &gt; Fields.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153215Z" creationid="zerng07" creationdate="20180225T153215Z">
+        <seg>&lt;f3&gt;你也可以點按「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 更新 &gt; 欄位」手動更新。&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;And having spent the time to set up styles, you would prefer not to do the same work all over again for your next document, so templates also become an important part of your work flow.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170817T165848Z" creationid="zerng07" creationdate="20170817T155039Z">
@@ -35993,6 +36001,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T061145Z" creationid="Jeff Huang" creationdate="20171229T014913Z">
         <seg>若要新增連接線，在左方繪圖工具列中點選「&lt;f0&gt;連接線&lt;/f0&gt;」按鈕（由上往下第九個圖示）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a cross-reference, you need two elements: the &lt;f0&gt;Selection&lt;/f0&gt; or source, and the &lt;f1&gt;Reference&lt;/f1&gt; or target.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153345Z" creationid="zerng07" creationdate="20180225T153345Z">
+        <seg>若要加入交叉參照，你需要兩個元素：「&lt;f0&gt;選取位置&lt;/f0&gt;」或來源，以及「&lt;f1&gt;參照位置&lt;/f1&gt;」或目標。</seg>
       </tuv>
     </tu>
     <tu>
