@@ -9790,8 +9790,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f5&gt;For example, the heading “The Human Body” might have sub-headings below it of “The Heart” and “The Lungs.” This structuring strengthens the internal logic of a document, and helps readers find sections when they scan.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T075810Z" creationid="zerng07" creationdate="20180225T075810Z">
-        <seg>&lt;f5&gt;舉例而言，「人體」標題下可能會有「心」和「肺」等。這樣的架構可以強化文件的內部邏輯，並幫助讀者在瀏覽中找到所要的章節區段。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T075819Z" creationid="zerng07" creationdate="20180225T075810Z">
+        <seg>&lt;f5&gt;舉例而言，「人體」標題下可能會有「心」和「肺」等。這樣子的架構可以強化文件的內部邏輯，並幫助讀者在瀏覽中找到所要的章節區段。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30902,6 +30902,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115823Z" creationid="Franklin Weng" creationdate="20171223T092130Z">
         <seg>要將這類資訊儲存到Impress中特別容易，&lt;f1&gt;每一種資訊&lt;/f1&gt;都可以放在一張投影片中，可以輕鬆刪除或重新排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such relationships are essential to the structure of a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T081041Z" creationid="zerng07" creationdate="20180225T081041Z">
+        <seg>依此設計的結構關係對文件很重要。</seg>
       </tuv>
     </tu>
     <tu>
