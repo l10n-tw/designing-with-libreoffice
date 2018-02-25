@@ -8056,6 +8056,14 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Click the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; button to insert the cross-reference into your document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161636Z" creationid="zerng07" creationdate="20180225T161636Z">
+        <seg>&lt;f1&gt;點按「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;插入&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」按鈕將交叉參照插入文件之中。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>## 無視 ##
 * f1
 * f2
@@ -8162,8 +8170,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;However, this method is so cumbersome and slow that it should be avoided if at all possible.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161329Z" creationid="zerng07" creationdate="20180225T161329Z">
-        <seg>&lt;f1&gt;不過，這個方法又笨又慢，應該盡一切努力避免。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161342Z" creationid="zerng07" creationdate="20180225T161329Z">
+        <seg>&lt;f1&gt;不過，這個方法又笨又慢，你應該盡一切努力避免。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14592,6 +14600,22 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042225Z" creationid="MarkHung" creationdate="20180224T042225Z">
         <seg>選擇首字放大的字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the format for the reference from the&lt;f0&gt; Insert reference to&lt;/f0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161555Z" creationid="zerng07" creationdate="20180225T161555Z">
+        <seg>接著從「&lt;f0&gt; 插入參照至&lt;/f0&gt;」窗格中選擇參照格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the source from the &lt;f0&gt;Selection&lt;/f0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161644Z" creationid="zerng07" creationdate="20180225T161438Z">
+        <seg>從「&lt;f0&gt;選取&lt;/f0&gt;」窗格中選取參考來源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38361,8 +38385,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When all else fails, you can use&lt;f0&gt; Set Reference&lt;/f0&gt; to manually create a source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161209Z" creationid="zerng07" creationdate="20180225T161209Z">
-        <seg>如果上述類型都做不出來的話，你可以用「&lt;f0&gt;設定參照&lt;/f0&gt;」手動建立參考來源。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161458Z" creationid="zerng07" creationdate="20180225T161209Z">
+        <seg>如果上述類型都做不出來的話，你可以用「&lt;f0&gt;設定參照&lt;/f0&gt;」手動建立來源。</seg>
       </tuv>
     </tu>
     <tu>
