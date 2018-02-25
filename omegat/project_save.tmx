@@ -991,8 +991,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;f5&gt;One choice is to give all pictures the same name as their original files.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T070654Z" creationid="zerng07" creationdate="20180225T070654Z">
-        <seg>&lt;/f4&gt;&lt;f5&gt;其中一種做法是讓所有的圖片名稱和其原始檔名相同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T071340Z" creationid="zerng07" creationdate="20180225T070654Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;有一種做法是讓所有的圖片名稱和其原始檔名相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32128,6 +32128,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T070235Z" creationid="Jeff Huang" creationdate="20171123T080926Z">
         <seg>&lt;f0&gt;如果你的文件採用標題或是有描述性名稱的物件，那麼助手將是調整文件結構的理想工具。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Navigator becomes a more powerful outlining tool if you set &lt;f0&gt;an&lt;/f0&gt; &lt;f1&gt;O&lt;/f1&gt;utline &lt;f2&gt;L&lt;/f2&gt;evel to show the &lt;f3&gt;Text Body&lt;/f3&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T071558Z" creationid="zerng07" creationdate="20180225T071558Z">
+        <seg>如果你將一個「大綱層級」設定成顯示「內文」段落樣式的話，「助手」就會變成很有力的大綱草擬工具。</seg>
       </tuv>
     </tu>
     <tu>
