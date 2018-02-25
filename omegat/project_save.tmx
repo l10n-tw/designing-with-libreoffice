@@ -11042,6 +11042,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Add headings as you write, then follow these steps when you add cross-references:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160504Z" creationid="zerng07" creationdate="20180225T160504Z">
+        <seg>在你寫作時依需求加入標題，要加入交叉參照時接著遵循以下步驟：&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>不懂「加入影像和其他物件」導致「它們能和文字的開頭對齊」的因果關係在哪裡？so that？？？</note>
       <tuv lang="EN">
         <seg>Add images and other objects so that they align with the start of the text.</seg>
@@ -27722,6 +27730,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor in the position for the first cross-reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160523Z" creationid="zerng07" creationdate="20180225T160523Z">
+        <seg>將游標放置在第一個交叉參照的位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor in the position for the page number.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T142125Z" creationid="Jeff Huang" creationdate="20180129T034033Z">
@@ -29220,6 +29236,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T141756Z" creationid="Franklin Weng" creationdate="20171223T132650Z">
         <seg>在&lt;f1&gt;載入樣式&lt;/f1&gt;視窗的&lt;f0&gt;底部&lt;/f0&gt;勾選要匯入的樣式類型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Insert &gt; Cross Reference&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; The &lt;f3&gt;Fields&lt;/f3&gt; dialog &lt;f4&gt;window&lt;/f4&gt; opens on the &lt;f5&gt;Cross-Reference&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;s&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160725Z" creationid="zerng07" creationdate="20180225T160725Z">
+        <seg>選取「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;插入 &gt; 交叉參照&lt;/f1&gt;&lt;f2&gt;」。&lt;/f2&gt;程式會開啟「&lt;f3&gt;欄位&lt;/f3&gt;」對話&lt;f4&gt;視窗&lt;/f4&gt;，並切到「&lt;f5&gt;交叉參照&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
