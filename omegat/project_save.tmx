@@ -4339,6 +4339,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the Navigator&lt;/f0&gt;, “chapter” refers to the part of the document between one heading and the next.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T145737Z" creationid="zerng07" creationdate="20180225T145737Z">
+        <seg>&lt;f0&gt;在助手中&lt;/f0&gt;所謂的「章節」代表文件的部分內容，由一個標題開始到下個標題之間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the digital age, this measurement &lt;/f0&gt;has been standardized as one-seventy-second of an inch &lt;f1&gt;or 2.5 centimeters&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T081320Z" creationid="Franklin Weng" creationdate="20171231T132106Z">
@@ -23426,12 +23434,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>但 6.0.1 和之前版本沒有把 chapter 譯出來，所以一樣是「升級」和「降級」。已經修正最新版翻譯為「提升章節」和「下降章節」（該功能是上下挪移內容，跟階層的升級降級無關）。</note>
+      <note>但 6.0.1 和之前版本沒有把 chapter 譯出來，所以一樣是「升級」和「降級」。已經修正未來翻譯為「提升章節」和「降低章節」（該功能是上下挪移內容，跟階層的升級降級無關）。</note>
       <tuv lang="EN">
         <seg>Instead of cutting and pasting, you can &lt;f0&gt;click either &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Promote Chapter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Demote Chapter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;the buttons on the top right of the tool bar, to move a heading and the text beneath it to a new place in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T121222Z" creationid="zerng07" creationdate="20180225T120204Z">
-        <seg>和四處奔走剪下貼上的過去說再見吧，你可以點按助手視窗內工具列右上角的「&lt;f1&gt;&lt;f2&gt;提升章節&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」或「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;下降章節&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」按鈕，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;可將標題和標題下的文字移動到文件中的新地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T121409Z" creationid="zerng07" creationdate="20180225T120204Z">
+        <seg>和四處奔走剪下貼上的過去說再見吧，你可以點按助手視窗內工具列右上角的「&lt;f1&gt;&lt;f2&gt;提升章節&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」或「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;降低章節&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」按鈕，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;可將標題和標題下的文字移動到文件中的新地方。</seg>
       </tuv>
     </tu>
     <tu>
