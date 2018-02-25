@@ -31621,6 +31621,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Fields&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; dialog window remains open.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161753Z" creationid="zerng07" creationdate="20180225T161753Z">
+        <seg>插入後「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;欄位&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」對話視窗會依然保持開啟，不會關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Page&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Layout &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;setting&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;offers four choices:&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T143748Z" creationid="Jeff Huang" creationdate="20180125T133315Z">
@@ -38385,8 +38393,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When all else fails, you can use&lt;f0&gt; Set Reference&lt;/f0&gt; to manually create a source.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161458Z" creationid="zerng07" creationdate="20180225T161209Z">
-        <seg>如果上述類型都做不出來的話，你可以用「&lt;f0&gt;設定參照&lt;/f0&gt;」手動建立來源。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T161651Z" creationid="zerng07" creationdate="20180225T161209Z">
+        <seg>如果上述類型都做不出來的話，你可以用「&lt;f0&gt;設定參照&lt;/f0&gt;」手動建立參考來源。</seg>
       </tuv>
     </tu>
     <tu>
