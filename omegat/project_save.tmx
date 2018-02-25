@@ -14724,6 +14724,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking a list item in &lt;f3&gt;the&lt;/f3&gt; Navigator jumps to it in the editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T070058Z" creationid="zerng07" creationdate="20180225T070058Z">
+        <seg>點按「助手」中列出的項目就會跳到編輯視窗中的對應位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cluttered or over-designed tables work against that goal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180224T050029Z" creationid="Jeff Huang" creationdate="20180210T032552Z">
@@ -20380,6 +20388,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T035526Z" creationid="zerng07" creationdate="20180208T011720Z">
         <seg>不過，如果下有空白的標題下方，再插一個上有空白的影像會發生什麼事？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, what may be less apparent is that the &lt;f0&gt;h&lt;/f0&gt;eadings listed in the Navigator can help to restructure a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T070234Z" creationid="zerng07" creationdate="20180225T070234Z">
+        <seg>雖然看不大出來，但「助手」中列出的標題也能協助你調整文件架構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26638,8 +26654,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>On the simplest level, the Navigator lists &lt;f0&gt;all &lt;/f0&gt;of a document’s objects, including outline levels – &lt;f1&gt;h&lt;/f1&gt;eadings by default, other &lt;f2&gt;p&lt;/f2&gt;aragraph styles as well if you edit outline levels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T065912Z" creationid="zerng07" creationdate="20180225T065912Z">
-        <seg>從最簡單的層面來看，「助手」列出&lt;f0&gt;文件中的所有&lt;/f0&gt;物件，其中包括大綱層級——預設採用標題，如果有編輯過大綱層級的話，也可以是其他段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T065919Z" creationid="zerng07" creationdate="20180225T065912Z">
+        <seg>從最簡單的層面來看，「助手」列出&lt;f0&gt;文件中的所有&lt;/f0&gt;物件，其中包括大綱層級——預設採用標題，如果你有編輯過大綱層級的話，也可以是其他段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
