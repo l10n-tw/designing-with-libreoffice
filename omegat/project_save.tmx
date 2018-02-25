@@ -11577,6 +11577,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All subordinate &lt;f0&gt;h&lt;/f0&gt;eadings and any other paragraph styles &lt;f1&gt;under&lt;/f1&gt;neath the &lt;f2&gt;selected heading wil&lt;/f2&gt;l also move, &lt;f3&gt;keeping the same position in relation to each other, but changing their group position in the document.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150254Z" creationid="zerng07" creationdate="20180225T150254Z">
+        <seg>所選標題下的所有從屬標題及其他任何段落樣式，也都會跟著移動，&lt;f3&gt;彼此之間的關係仍舊維持， 但這部分內容在文件中的位置則改變了。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All such items can go into an all-purpose template that can be the starting point for others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042533Z" creationid="Franklin Weng" creationdate="20171213T124149Z">
@@ -40838,6 +40846,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180122T032748Z" creationid="zerng07" creationdate="20180122T032748Z">
         <seg>後來在西方這個「Leading」就演變成指稱一整個行距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Promoting” moves the chapter closer to the start of the document, “demoting” &lt;f1&gt;moves it closer &lt;/f1&gt;to the end.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T145838Z" creationid="zerng07" creationdate="20180225T145838Z">
+        <seg>「提升」會讓章節更靠近文件的開頭，而「降低」&lt;f1&gt;會讓章節更靠近&lt;/f1&gt;結尾。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
