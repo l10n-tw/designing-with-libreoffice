@@ -32173,6 +32173,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;selections&lt;/f2&gt; are chosen either from the contents of outline &lt;f3&gt;l&lt;/f3&gt;evels&lt;f4&gt; &lt;/f4&gt;or from bookmarks &lt;f5&gt;or markers added manually.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153606Z" creationid="zerng07" creationdate="20180225T153552Z">
+        <seg>「&lt;f2&gt;選取處&lt;/f2&gt;」可取自大綱層級構成的目錄，或是書籤&lt;f5&gt;，抑或是手動加入的標記。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;style inherited from&lt;/f3&gt; is the current style’s parent – the style from which the current style inherits characteristics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T144326Z" creationid="zerng07" creationdate="20171225T144326Z">
@@ -36007,8 +36015,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To add a cross-reference, you need two elements: the &lt;f0&gt;Selection&lt;/f0&gt; or source, and the &lt;f1&gt;Reference&lt;/f1&gt; or target.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153345Z" creationid="zerng07" creationdate="20180225T153345Z">
-        <seg>若要加入交叉參照，你需要兩個元素：「&lt;f0&gt;選取位置&lt;/f0&gt;」或來源，以及「&lt;f1&gt;參照位置&lt;/f1&gt;」或目標。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153600Z" creationid="zerng07" creationdate="20180225T153345Z">
+        <seg>若要加入交叉參照，你需要兩個元素：「&lt;f0&gt;選取處&lt;/f0&gt;」或來源，以及「&lt;f1&gt;參照處&lt;/f1&gt;」或目標。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37986,6 +37994,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T140855Z" creationid="Jeff Huang" creationdate="20180211T130654Z">
         <seg>一般來說，你只需要用第一列作為表格標題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, you should add cross-references as your document is being finished.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153652Z" creationid="zerng07" creationdate="20180225T153652Z">
+        <seg>一般而言，你應該在文件接近完成階段後再加入交叉參照。</seg>
       </tuv>
     </tu>
     <tu>
