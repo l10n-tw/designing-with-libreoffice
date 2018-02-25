@@ -25102,6 +25102,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual cross-references &lt;f0&gt;would be&lt;/f0&gt; difficult to maintain &lt;f1&gt;–&lt;/f1&gt; especially their page references—so LibreOffice keeps them automatically updated as you add and delete material &lt;f2&gt;and close and open documents&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153137Z" creationid="zerng07" creationdate="20180225T151004Z">
+        <seg>手動交叉參照很難維護&lt;f1&gt;——&lt;/f1&gt;尤其是參考頁數——所以LibreOffice能在你加入內容、刪除內容，&lt;f2&gt;以及關閉文件、打開文件時自動更新。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual formatting &lt;f0&gt;(also called direct formatting)&lt;/f0&gt; is how most people design a document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T180830Z" creationid="zerng07" creationdate="20170824T160945Z">
