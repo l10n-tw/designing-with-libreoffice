@@ -8522,8 +8522,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;The alternative is to set references, either manually or as bookmarks.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160146Z" creationid="zerng07" creationdate="20180225T160146Z">
-        <seg>&lt;f1&gt;替代方案是設定參照點，看是要手動參照還是設為書籤。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160355Z" creationid="zerng07" creationdate="20180225T160146Z">
+        <seg>&lt;f1&gt;替代方案是看要手動設定參照，還是設定成書籤。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15530,6 +15530,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114517Z" creationid="zerng07" creationdate="20180205T133019Z">
         <seg>裁切是將影像化簡成只剩必要部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-referenc&lt;f0&gt;ing&lt;/f0&gt; &lt;f1&gt;within one document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160212Z" creationid="zerng07" creationdate="20180225T160212Z">
+        <seg>&lt;f1&gt;在文件中&lt;/f1&gt;交叉參照</seg>
       </tuv>
     </tu>
     <tu>
@@ -27430,6 +27438,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041722Z" creationid="MarkHung" creationdate="20180224T041722Z">
         <seg>否則，你須要分別在不同的段落樣式中設定定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outline levels &lt;f0&gt;provide automatic markers to use with cross-references.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160244Z" creationid="zerng07" creationdate="20180225T160244Z">
+        <seg>大綱層級&lt;f0&gt;提供交叉參照可利用的自動標記。</seg>
       </tuv>
     </tu>
     <tu>
