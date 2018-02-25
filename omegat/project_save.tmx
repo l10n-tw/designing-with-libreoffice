@@ -30166,8 +30166,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>So will any &lt;f2&gt;outline &lt;/f2&gt;levels subordinate to it, &lt;f3&gt;so that promoting a &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; outline level to &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Heading 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; also promotes all &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Heading 3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; outline levels between it and the next &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Heading 2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T115916Z" creationid="zerng07" creationdate="20180225T115916Z">
-        <seg>從屬的任何&lt;f2&gt;大綱&lt;/f2&gt;層級也會一併作用，&lt;f3&gt;例如將「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;標題 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」大綱層級升級成「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;標題 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」之後，所有列於其下的「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;標題 3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」大綱層級（但不會影響到下個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;標題 2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;/f15&gt;大綱層級）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T120116Z" creationid="zerng07" creationdate="20180225T115916Z">
+        <seg>其下的任何從屬&lt;f2&gt;大綱&lt;/f2&gt;層級也會一併作用，&lt;f3&gt;例如將一個「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;標題 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」大綱層級升級成「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;標題 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」之後，所有列在它下面的「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;標題 3&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」大綱層級也會跟著升級，但不會影響另一個&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;標題 2&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;/f15&gt;大綱層級。</seg>
       </tuv>
     </tu>
     <tu>
