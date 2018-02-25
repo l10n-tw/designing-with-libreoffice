@@ -989,6 +989,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;f5&gt;One choice is to give all pictures the same name as their original files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T070654Z" creationid="zerng07" creationdate="20180225T070654Z">
+        <seg>&lt;/f4&gt;&lt;f5&gt;其中一種做法是讓所有的圖片名稱和其原始檔名相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;However, it is available if it will be useful for captions if you prefer not to place captions in a frame.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T141643Z" creationid="Jeff Huang" creationdate="20180211T134406Z">
@@ -31280,6 +31288,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T041436Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
         <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它能對某一個矩形做格式設定，也可以對&lt;f5&gt;不同大小的某種相同形狀&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That way, finding the files becomes easier.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T071333Z" creationid="zerng07" creationdate="20180225T071333Z">
+        <seg>這樣你就比較容易找到你要的檔案。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
