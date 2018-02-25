@@ -6400,6 +6400,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;That way, you avoid breaking links and having to re-create them as you move passages around or rename files.&lt;/f0&gt; Also, you can keep the cross-reference dialog window open and do all cross-references &lt;f1&gt;in one effort.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T154912Z" creationid="zerng07" creationdate="20180225T154912Z">
+        <seg>&lt;f0&gt;那樣的話，你可以避免連結被破壞、在文字段落移動後或為檔案改名後還得重建連結之類的問題。&lt;/f0&gt;而且，你還可以開著交叉參照對話視窗不關，然後&lt;f1&gt;一口氣&lt;/f1&gt;把交叉參照做完所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for graphic text is roughly equivalent to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Background&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in some other types of styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072740Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
