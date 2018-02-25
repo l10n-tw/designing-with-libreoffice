@@ -23426,6 +23426,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>但 6.0.1 和之前版本沒有把 chapter 譯出來，所以一樣是「升級」和「降級」。已經修正最新版翻譯為「提升章節」和「下降章節」（該功能是上下挪移內容，跟階層的升級降級無關）。</note>
+      <tuv lang="EN">
+        <seg>Instead of cutting and pasting, you can &lt;f0&gt;click either &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Promote Chapter&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Demote Chapter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;the buttons on the top right of the tool bar, to move a heading and the text beneath it to a new place in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T121222Z" creationid="zerng07" creationdate="20180225T120204Z">
+        <seg>和四處奔走剪下貼上的過去說再見吧，你可以點按助手視窗內工具列右上角的「&lt;f1&gt;&lt;f2&gt;提升章節&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」或「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;下降章節&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」按鈕，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;可將標題和標題下的文字移動到文件中的新地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Instead of giving yourself one more worry, accept the default Left alignment &lt;f0&gt;for content&lt;/f0&gt;.</seg>
       </tuv>
@@ -29889,8 +29898,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, as you work, you may find that part of the contents belongs somewhere else in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T082156Z" creationid="zerng07" creationdate="20180225T082156Z">
-        <seg>同理，當你作業一段時間後，可能會覺得某部分的內容應該挪到文件中的其他位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T120133Z" creationid="zerng07" creationdate="20180225T082156Z">
+        <seg>當你作業一段時間後，可能會覺得某部分的內容應該挪到文件中的其他位置。</seg>
       </tuv>
     </tu>
     <tu>
