@@ -9790,8 +9790,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f5&gt;For example, the heading “The Human Body” might have sub-headings below it of “The Heart” and “The Lungs.” This structuring strengthens the internal logic of a document, and helps readers find sections when they scan.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T075819Z" creationid="zerng07" creationdate="20180225T075810Z">
-        <seg>&lt;f5&gt;舉例而言，「人體」標題下可能會有「心」和「肺」等。這樣子的架構可以強化文件的內部邏輯，並幫助讀者在瀏覽中找到所要的章節區段。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T081415Z" creationid="zerng07" creationdate="20180225T075810Z">
+        <seg>&lt;f5&gt;舉例而言，「人體」標題下可能會有「心」和「肺」等。這樣子的架構可以強化文件的內部邏輯，並幫助讀者在瀏覽時找到所要的章節區段。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21886,6 +21886,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T134931Z" creationid="Franklin Weng" creationdate="20180106T042814Z">
         <seg>如果你真的要用很黑的字型，試著用&lt;f0&gt;「位置」標籤頁下的「縮放寬度」&lt;/f0&gt;來改變字的寬度，或是&lt;f1&gt;「間距」&lt;/f1&gt;來改變字的間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you see a &lt;f0&gt;h&lt;/f0&gt;eading that should be &lt;f1&gt;raised&lt;/f1&gt; or &lt;f2&gt;lowered&lt;/f2&gt; in the hierarchy, highlight it and then click either &lt;f3&gt;Promote Level&lt;/f3&gt; or &lt;f4&gt;Demote Level&lt;/f4&gt;, the buttons on the bottom right of the &lt;f5&gt;tool&lt;/f5&gt; bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T081645Z" creationid="zerng07" creationdate="20180225T081645Z">
+        <seg>如果你認為有個標題的階層應該&lt;f1&gt;提升&lt;/f1&gt;或&lt;f2&gt;降低&lt;/f2&gt;，先將它反白選取，接著點按助手視窗內&lt;f5&gt;工具&lt;/f5&gt;列右下角的「&lt;f3&gt;升級&lt;/f3&gt;」或「&lt;f4&gt;降級&lt;/f4&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
