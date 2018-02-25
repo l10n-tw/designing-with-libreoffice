@@ -14235,6 +14235,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing outline level&lt;f0&gt;s&lt;/f0&gt; using the Navigator</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T071630Z" creationid="zerng07" creationdate="20180225T071621Z">
+        <seg>使用「助手」更改大綱層級</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing templates</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T124645Z" creationid="Franklin Weng" creationdate="20171223T124645Z">
@@ -19122,6 +19130,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T120534Z" creationid="Franklin Weng" creationdate="20180101T111537Z">
         <seg>標題樣式預設用百分比來測量，是因為通常各層級樣式的大小都是連動的，方便一起決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headings &lt;f0&gt;should be&lt;/f0&gt; hierarchical, so that the topic &lt;f1&gt;in a&lt;/f1&gt; &lt;f2&gt;Heading 3&lt;/f2&gt; paragraph style is &lt;f3&gt;contained by&lt;/f3&gt; the&lt;f4&gt; Heading 2&lt;/f4&gt; paragraph style directly above it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T072107Z" creationid="zerng07" creationdate="20180225T072107Z">
+        <seg>標題&lt;f0&gt;應該&lt;/f0&gt;以階層管理，如此「&lt;f4&gt;標題 2&lt;/f4&gt;」段落樣式才會包含「&lt;f2&gt;標題 3&lt;/f2&gt;」段落樣式，並且列在標題3之上。</seg>
       </tuv>
     </tu>
     <tu>
