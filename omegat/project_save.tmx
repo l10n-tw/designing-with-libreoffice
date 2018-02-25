@@ -30986,6 +30986,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tables, frames, and other objects are most useful for navigation if you give them descriptive names rather than accepting defaults like &lt;f0&gt;Table&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;6&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;or &lt;f4&gt;Image12.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T070608Z" creationid="zerng07" creationdate="20180225T070608Z">
+        <seg>如果你之前有為表格、外框，還有其他物件取個描述性說明稱呼的話（不是直接採用「&lt;f0&gt;表格&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;6&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;或「&lt;f4&gt;影像12」這類預設名稱），那會是很好用的定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tabs are set positions on a line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040829Z" creationid="MarkHung" creationdate="20180224T040829Z">
