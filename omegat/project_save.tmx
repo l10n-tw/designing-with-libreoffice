@@ -9788,6 +9788,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;For example, the heading “The Human Body” might have sub-headings below it of “The Heart” and “The Lungs.” This structuring strengthens the internal logic of a document, and helps readers find sections when they scan.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T075810Z" creationid="zerng07" creationdate="20180225T075810Z">
+        <seg>&lt;f5&gt;舉例而言，「人體」標題下可能會有「心」和「肺」等。這樣的架構可以強化文件的內部邏輯，並幫助讀者在瀏覽中找到所要的章節區段。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;However, the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Properties&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; window continues to list the template, even though it is irrelevant.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150120Z" creationid="Franklin Weng" creationdate="20171212T120143Z">
@@ -19136,8 +19144,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Headings &lt;f0&gt;should be&lt;/f0&gt; hierarchical, so that the topic &lt;f1&gt;in a&lt;/f1&gt; &lt;f2&gt;Heading 3&lt;/f2&gt; paragraph style is &lt;f3&gt;contained by&lt;/f3&gt; the&lt;f4&gt; Heading 2&lt;/f4&gt; paragraph style directly above it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T072107Z" creationid="zerng07" creationdate="20180225T072107Z">
-        <seg>標題&lt;f0&gt;應該&lt;/f0&gt;以階層管理，如此「&lt;f4&gt;標題 2&lt;/f4&gt;」段落樣式才會包含「&lt;f2&gt;標題 3&lt;/f2&gt;」段落樣式，並且列在標題3之上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T072118Z" creationid="zerng07" creationdate="20180225T072107Z">
+        <seg>標題&lt;f0&gt;應該&lt;/f0&gt;以階層管理，如此「&lt;f4&gt;標題 2&lt;/f4&gt;」段落樣式才會包含「&lt;f2&gt;標題 3&lt;/f2&gt;」段落樣式，並列在標題3上頭。</seg>
       </tuv>
     </tu>
     <tu>
