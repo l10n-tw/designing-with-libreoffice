@@ -6402,8 +6402,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;That way, you avoid breaking links and having to re-create them as you move passages around or rename files.&lt;/f0&gt; Also, you can keep the cross-reference dialog window open and do all cross-references &lt;f1&gt;in one effort.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T154912Z" creationid="zerng07" creationdate="20180225T154912Z">
-        <seg>&lt;f0&gt;那樣的話，你可以避免連結被破壞、在文字段落移動後或為檔案改名後還得重建連結之類的問題。&lt;/f0&gt;而且，你還可以開著交叉參照對話視窗不關，然後&lt;f1&gt;一口氣&lt;/f1&gt;把交叉參照做完所有。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T154924Z" creationid="zerng07" creationdate="20180225T154912Z">
+        <seg>&lt;f0&gt;那樣的話，你可以避免連結被破壞、在文字段落移動後或為檔案改名後還得重建連結之類的問題。&lt;/f0&gt;而且，你還可以開著交叉參照對話視窗不關，然後&lt;f1&gt;一口氣&lt;/f1&gt;把交叉參照做完。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21918,6 +21918,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T101753Z" creationid="Franklin Weng" creationdate="20180115T090441Z">
         <seg>如果你打算把投影片以灰階列印出來，那就要檢查一下你的投影片在黑白狀態下看起來如何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you plan to use cross-references for tables, images, and other elements, give each &lt;f0&gt;element&lt;/f0&gt; a caption, then assign the &lt;f1&gt;Caption&lt;/f1&gt; paragraph style to an outline level.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160020Z" creationid="zerng07" creationdate="20180225T160020Z">
+        <seg>如果你計劃為表格、影像、其他元素等製作交叉參照，那麼先替各個&lt;f0&gt;元素&lt;/f0&gt;放置標示說明，接著把&lt;f1&gt;圖表標示&lt;/f1&gt;段落樣式指派給一個大綱層級。</seg>
       </tuv>
     </tu>
     <tu>
