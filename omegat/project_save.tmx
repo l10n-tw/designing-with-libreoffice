@@ -4283,6 +4283,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In online documents, they are links for easy navigation to the reference.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150931Z" creationid="zerng07" creationdate="20180225T150910Z">
+        <seg>&lt;f0&gt;線上文件常用連結方便讀者瀏覽參考內容。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In other circumstances, you might omit the bibliography, but, if you do, be ready to provide your sources for those who ask for them.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T084954Z" creationid="Franklin Weng" creationdate="20180114T055856Z">
@@ -15494,6 +15502,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-references are updatable fields that refer to another part of a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150825Z" creationid="zerng07" creationdate="20180225T150819Z">
+        <seg>交叉參照是引用其他文件部分的可更新欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currency and other symbols are added automatically, &lt;f7&gt;depending on the format.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113950Z" creationid="Franklin Weng" creationdate="20180211T113950Z">
@@ -20026,8 +20042,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, it is more effective than copying and pasting, because it provides a visual image of your actions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150519Z" creationid="zerng07" creationdate="20180225T150353Z">
-        <seg>而且，它比複製貼上還更有效率，因為你依此方法操作時在助手中還看得到示意效果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150742Z" creationid="zerng07" creationdate="20180225T150353Z">
+        <seg>它比複製貼上還更有效率，因為你在助手中操作時還看得到示意效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24066,8 +24082,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Just as importantly, if you are interrupted, with the Navigator there is no danger of losing content because you have forgot&lt;f0&gt;ten&lt;/f0&gt; about it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150723Z" creationid="zerng07" creationdate="20180225T150723Z">
-        <seg>而且，就算你被什麼事情干擾了，也不會因為忘記貼上而失去先前辛苦得來的心血。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150752Z" creationid="zerng07" creationdate="20180225T150723Z">
+        <seg>而且，就算你中途被什麼事情干擾了，也不會因為忘記貼上而失去先前辛苦得來的心血。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37608,6 +37624,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T140639Z" creationid="zerng07" creationdate="20180205T132854Z">
         <seg>使用裁切或指示記號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using cross-references</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150756Z" creationid="zerng07" creationdate="20180225T150756Z">
+        <seg>使用交叉參照</seg>
       </tuv>
     </tu>
     <tu>
