@@ -1569,6 +1569,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Above/Below&lt;/f0&gt; are informal, &lt;f1&gt;and should be avoided in academic or legal documents&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T031221Z" creationid="zerng07" creationdate="20180226T031221Z">
+        <seg>&lt;f0&gt;前面或後面&lt;/f0&gt;的說法比較不正式，&lt;f1&gt;在學術文件或法律文件中應該避免&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Acceptable color may also depend to a degree on culture, era, and the principles of different design schools.&lt;/f0&gt; &lt;f1&gt;However, certain contexts are more likely to need adjustments in line spacing than others.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140206Z" creationid="Franklin Weng" creationdate="20180105T144405Z">
@@ -12961,8 +12969,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Avoid using them unless the document is nearly completed, &lt;f2&gt;in case you move passages around and change their relationship.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T031119Z" creationid="zerng07" creationdate="20180226T031119Z">
-        <seg>除非文件已幾近完成，Avoid using them unless the document is nearly completed, &lt;f2&gt;in case you move passages around and change their relationship.&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T031617Z" creationid="zerng07" creationdate="20180226T031119Z">
+        <seg>此外，除非文件已幾近完成，不然你也該避免上述用語；畢竟&lt;f2&gt;你還有可能移動文字段落位置而改變前後關係。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
