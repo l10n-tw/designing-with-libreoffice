@@ -989,6 +989,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;For instance, you could have one Auto&lt;f5&gt;T&lt;/f5&gt;ext entry or Custom field for “See Chapter “ and another for “, page “ (&lt;f6&gt;n&lt;/f6&gt;otice the spaces at the end of both&lt;f7&gt;)&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035034Z" creationid="zerng07" creationdate="20180226T035034Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;例如，你可以用「自動圖文集」條目，或「自訂」欄位寫下「參見第」、「章，第」、「頁」等字句 。至於英文的話，可以寫“See Chapter “ 和“, page “（注意這兩者的結尾都有一個空格&lt;f7&gt;）&lt;/f7&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;f5&gt;One choice is to give all pictures the same name as their original files.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T071340Z" creationid="zerng07" creationdate="20180225T070654Z">
@@ -32840,8 +32848,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The complete reference &lt;f0&gt;may &lt;/f0&gt;require something like, “See Chapter 6, page &lt;f1&gt;79&lt;/f1&gt;.” &lt;f2&gt;Alternatively, you might want to mention the heading.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T033033Z" creationid="zerng07" creationdate="20180226T033033Z">
-        <seg>完整的參照字句&lt;f0&gt;可以&lt;/f0&gt;考慮這樣寫：「參見第6章，第&lt;f1&gt;79&lt;/f1&gt;頁」。 &lt;f2&gt;或者，你也可以提及參照位置的標題。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T034632Z" creationid="zerng07" creationdate="20180226T033033Z">
+        <seg>完整的參照字句&lt;f0&gt;可以&lt;/f0&gt;考慮這樣寫：「參見第6章，第&lt;f1&gt;79&lt;/f1&gt;頁」。 &lt;f2&gt;或者，你也可以提及參考位置的標題。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
