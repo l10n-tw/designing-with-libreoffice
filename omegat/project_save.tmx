@@ -5828,8 +5828,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Adding cross-references between sub-documents&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;36&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035555Z" creationid="zerng07" creationdate="20180226T035555Z">
-        <seg>&lt;f0&gt;請見〈&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Adding cross-references between sub-documents&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;36&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035715Z" creationid="zerng07" creationdate="20180226T035555Z">
+        <seg>&lt;f0&gt;請見〈&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;加入子文件之間的交叉參照&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;36&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15622,10 +15622,18 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-referenc&lt;f0&gt;ing&lt;/f0&gt; &lt;f1&gt;to another file&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035750Z" creationid="zerng07" creationdate="20180226T035750Z">
+        <seg>交叉參照&lt;f1&gt;另一份檔案&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cross-referenc&lt;f0&gt;ing&lt;/f0&gt; &lt;f1&gt;within one document&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T160212Z" creationid="zerng07" creationdate="20180225T160212Z">
-        <seg>&lt;f1&gt;在文件中&lt;/f1&gt;交叉參照</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035731Z" creationid="zerng07" creationdate="20180225T160212Z">
+        <seg>&lt;f1&gt;在文件中&lt;/f1&gt;交叉參</seg>
       </tuv>
     </tu>
     <tu>
