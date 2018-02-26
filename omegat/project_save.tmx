@@ -991,8 +991,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;For instance, you could have one Auto&lt;f5&gt;T&lt;/f5&gt;ext entry or Custom field for “See Chapter “ and another for “, page “ (&lt;f6&gt;n&lt;/f6&gt;otice the spaces at the end of both&lt;f7&gt;)&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035351Z" creationid="zerng07" creationdate="20180226T035034Z">
-        <seg>&lt;/f4&gt;&lt;/f3&gt;例如，你可以用「自動圖文集」條目，或「自訂欄位」變數寫下「參見第」、「章，第」、「頁」等字句 。至於英文的話，可以寫“See Chapter “ 和“, page “（注意這兩者的結尾都有一個空格&lt;f7&gt;）&lt;/f7&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035628Z" creationid="zerng07" creationdate="20180226T035034Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;例如，你可以用「自動圖文集」條目，或「自訂欄位」變數寫下「參見第」、「章，第」、「頁」等字句 。至於英文的話，可以寫「See Chapter 」和「, page 」（注意這兩者的結尾都有一個空格&lt;f7&gt;）&lt;/f7&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,6 +2573,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T120627Z" creationid="zerng07" creationdate="20171226T105442Z">
         <seg>&lt;f0&gt;點按&lt;/f0&gt;清單最底部的「&lt;f1&gt;&lt;f2&gt;更多樣式...&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;連結，會開啟&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;樣式和格式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;視窗或側邊欄。至於從各樣式自身的下拉選單中選取&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;編輯樣式&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;，則會開啟該樣式的對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Close the dialog window when done.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035433Z" creationid="zerng07" creationdate="20180226T035433Z">
+        <seg>&lt;f0&gt;完成後關閉對話視窗。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5814,6 +5822,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083134Z" creationid="zerng07" creationdate="20171225T083027Z">
         <seg>&lt;f0&gt;搜尋&lt;/f0&gt;&lt;f3&gt;段落樣式&lt;/f3&gt;是我們在編輯格式設定和文稿結構時很重要的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;See “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Adding cross-references between sub-documents&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;36&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035555Z" creationid="zerng07" creationdate="20180226T035555Z">
+        <seg>&lt;f0&gt;請見〈&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Adding cross-references between sub-documents&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;36&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15618,6 +15634,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T150825Z" creationid="zerng07" creationdate="20180225T150819Z">
         <seg>交叉參照是引用其他文件部分的可更新欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-references work differently in master documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035513Z" creationid="zerng07" creationdate="20180226T035513Z">
+        <seg>交叉參照在主控文件中的作業方式不大相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28472,6 +28496,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T125303Z" creationid="Jeff Huang" creationdate="20180128T135357Z">
         <seg>根據&lt;f0&gt;需求&lt;/f0&gt;重覆上述步驟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat for all the other cross-references.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T035409Z" creationid="zerng07" creationdate="20180226T035409Z">
+        <seg>為其他所有交叉參照都重複上述步驟。</seg>
       </tuv>
     </tu>
     <tu>
