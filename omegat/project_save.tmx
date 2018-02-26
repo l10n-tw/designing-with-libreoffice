@@ -32838,6 +32838,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The complete reference &lt;f0&gt;may &lt;/f0&gt;require something like, “See Chapter 6, page &lt;f1&gt;79&lt;/f1&gt;.” &lt;f2&gt;Alternatively, you might want to mention the heading.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T033033Z" creationid="zerng07" creationdate="20180226T033033Z">
+        <seg>完整的參照字句&lt;f0&gt;可以&lt;/f0&gt;考慮這樣寫：「參見第6章，第&lt;f1&gt;79&lt;/f1&gt;頁」。 &lt;f2&gt;或者，你也可以提及參照位置的標題。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents for headers and footers generally include &lt;f0&gt;static information such as the document name, chapter name, and writer’s name.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T135029Z" creationid="Jeff Huang" creationdate="20180127T123829Z">
