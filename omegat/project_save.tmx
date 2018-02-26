@@ -18287,6 +18287,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the structure you are using includes the chapter and page number, the cross-reference dialog inserts only the actual chapter and page number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T032210Z" creationid="zerng07" creationdate="20180226T032210Z">
+        <seg>例如，如果你正在使用的文件結構有編排章次和頁數，那麼交叉參照對話視窗就能插入實際的章號和頁數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you are building an organizational chart, you might have a style called &lt;f0&gt;Position Boxes &lt;/f0&gt;to indicate each job.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T050021Z" creationid="Jeff Huang" creationdate="20171220T083506Z">
