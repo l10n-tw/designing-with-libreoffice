@@ -38007,8 +38007,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;outline levels&lt;/f0&gt; in &lt;f1&gt;tables and indexes&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145152Z" creationid="zerng07" creationdate="20180227T145152Z">
-        <seg>使用&lt;f1&gt;表格與索引&lt;/f1&gt;中的&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145336Z" creationid="zerng07" creationdate="20180227T145152Z">
+        <seg>使用&lt;f1&gt;目錄和索引&lt;/f1&gt;中的&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41367,6 +41367,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180122T101746Z">
         <seg>“&lt;bf0&gt;Error: Reference source not found&lt;/bf0&gt;,”&lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Error: Reference source not found&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“&lt;f0&gt;I&lt;/f0&gt;ndexe&lt;f1&gt;s and Tables”&lt;/f1&gt; &lt;f2&gt;is&lt;/f2&gt; the term LibreOffice uses to describe fields that are generated from the contents of a document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145750Z" creationid="zerng07" creationdate="20180227T145321Z">
+        <seg>「目錄和索引」&lt;f2&gt;是&lt;/f2&gt;LibreOffice中用來描述根據文件內容生成新內容的欄位功能用語。</seg>
       </tuv>
     </tu>
     <tu>
