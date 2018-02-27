@@ -27213,6 +27213,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Navigator by selecting&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;View&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; Navigator&lt;/f3&gt;&lt;f4&gt;, &lt;/f4&gt;or pressing the&lt;f5&gt; F5&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;key, &lt;f7&gt;or selecting it in the sidebar&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T142248Z" creationid="zerng07" creationdate="20180227T142248Z">
+        <seg>選取「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檢視&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &gt; 助手&lt;/f3&gt;&lt;f4&gt;」，&lt;/f4&gt;或按下&lt;f5&gt;F5&lt;/f5&gt;鍵，&lt;f7&gt;抑或是選取側邊欄中的助手&lt;/f7&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Template Manager.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112609Z" creationid="Franklin Weng" creationdate="20171223T042741Z">
@@ -27249,6 +27257,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111446Z" creationid="zerng07" creationdate="20171219T111446Z">
         <seg>打開工具列的字型大小列表，捲動，接著選取指定的&lt;f0&gt;字型大小&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the target document for the cross-reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T142031Z" creationid="zerng07" creationdate="20180227T142031Z">
+        <seg>開啟交叉參照的目標文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29380,6 +29396,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112624Z" creationid="Franklin Weng" creationdate="20171223T042754Z">
         <seg>選取你要取代使用的預設範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the source document (the document which you are referencing) from the drop-down list at the bottom of the Navigator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T142457Z" creationid="zerng07" creationdate="20180227T142457Z">
+        <seg>選取來源文件（the document which you are referencing) from the drop-down list at the bottom of the Navigator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34582,6 +34606,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075635Z" creationid="Jeff Huang" creationdate="20180108T125951Z">
         <seg>該標籤頁中包含了捲動方向、重複次數和其他設定。&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target document is the one which &lt;f0&gt;contains&lt;/f0&gt; the cross-reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T142133Z" creationid="zerng07" creationdate="20180227T142133Z">
+        <seg>所謂目標文件，就是&lt;f0&gt;含有&lt;/f0&gt;想參考內容的交叉參照文件。</seg>
       </tuv>
     </tu>
     <tu>
