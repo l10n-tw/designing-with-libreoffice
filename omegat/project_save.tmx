@@ -6893,6 +6893,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The text displayed for a hyperlink is not&lt;/f0&gt; automatically updated &lt;f1&gt;in the target document &lt;/f1&gt;when the &lt;f2&gt;source document&lt;/f2&gt; changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145040Z" creationid="zerng07" creationdate="20180227T145040Z">
+        <seg>&lt;f0&gt;目標文件中的超連結顯示文字無法&lt;/f0&gt;隨著&lt;f2&gt;來源文件&lt;/f2&gt;的變動而自動更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The trouble with all the types of tabs is that &lt;/f0&gt;they can be an unstable way of positioning characters.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041538Z" creationid="MarkHung" creationdate="20180224T041350Z">
@@ -9767,6 +9775,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T080435Z" creationid="Jeff Huang" creationdate="20180126T132541Z">
         <seg>&lt;f3&gt;一般來說，每個頁首或頁尾最多只能放三則資訊。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Use &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Update&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to update manually.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145102Z" creationid="zerng07" creationdate="20180227T145102Z">
+        <seg>&lt;f3&gt;必須手動使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 更新&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37985,6 +38001,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T025348Z" creationid="Jeff Huang" creationdate="20180205T092345Z">
         <seg>用&lt;f0&gt;圖形&lt;/f0&gt;作項目符號</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;f0&gt;outline levels&lt;/f0&gt; in &lt;f1&gt;tables and indexes&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145152Z" creationid="zerng07" creationdate="20180227T145152Z">
+        <seg>使用&lt;f1&gt;表格與索引&lt;/f1&gt;中的&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
