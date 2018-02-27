@@ -20864,6 +20864,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can create all sorts of indexes and tables, such as:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150738Z" creationid="zerng07" creationdate="20180227T150738Z">
+        <seg>不過，你還可以製作各種其他的索引與表格，例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can customize styles from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;within Draw.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133052Z" creationid="Jeff Huang" creationdate="20180122T093947Z">
@@ -33950,8 +33958,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The most common &lt;f0&gt;are&lt;/f0&gt; a table of contents &lt;f1&gt;(TOC),&lt;/f1&gt; &lt;f2&gt;which is created from outline levels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150356Z" creationid="zerng07" creationdate="20180227T150356Z">
-        <seg>最常見的是目錄&lt;f1&gt;（英文簡稱為 TOC，g4）),&lt;/f1&gt; &lt;f2&gt;which is created from outline levels.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150501Z" creationid="zerng07" creationdate="20180227T150356Z">
+        <seg>最常用於目錄&lt;f1&gt;（英文簡稱為 TOC，是 Table of Contents 的縮寫），&lt;/f1&gt;&lt;f2&gt;一般會根據文件的大綱層級製作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38023,8 +38031,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;outline levels&lt;/f0&gt; in &lt;f1&gt;tables and indexes&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145818Z" creationid="zerng07" creationdate="20180227T145152Z">
-        <seg>使用&lt;f1&gt;目錄與索引&lt;/f1&gt;中的&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150532Z" creationid="zerng07" creationdate="20180227T145152Z">
+        <seg>利用&lt;f0&gt;大綱層級&lt;/f0&gt;的&lt;f1&gt;目錄與索引&lt;/f1&gt;中</seg>
       </tuv>
     </tu>
     <tu>
@@ -41301,6 +41309,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T113806Z" creationid="Jeff Huang" creationdate="20180122T033512Z">
         <seg>a) 一個粗線條且中央有透明區塊的圓圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and tables of illustrations and tables, which are created from captions.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150632Z" creationid="zerng07" creationdate="20180227T150632Z">
+        <seg>而插圖和表格的統整列表，則根據圖表標示製作而成。</seg>
       </tuv>
     </tu>
     <tu>
