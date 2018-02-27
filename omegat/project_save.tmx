@@ -4450,6 +4450,7 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <note>UI 中確實有這個字串條目（代表應該有按鈕），但我找不到它在哪裡… Orz</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Insert Index/Table&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;includes tools for extensive customization of tables of contents and similar tables.&lt;/f2&gt;</seg>
       </tuv>
@@ -16624,6 +16625,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each &lt;f0&gt;kind of&lt;/f0&gt; table ha&lt;f1&gt;s&lt;/f1&gt; its own list of customized features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T151741Z" creationid="zerng07" creationdate="20180227T151741Z">
+        <seg>各式表格有各自不同的自訂功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each cell of a different &lt;f0&gt;c&lt;/f0&gt;ategory on the &lt;f1&gt;Numbers&lt;/f1&gt; tab for cell styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084136Z" creationid="Franklin Weng" creationdate="20180211T070730Z">
@@ -20603,6 +20612,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T105352Z" creationid="Jeff Huang" creationdate="20180124T135811Z">
         <seg>不過，適合任意用途的最基本頁面樣式有「&lt;f0&gt;左頁&lt;/f0&gt;」、「&lt;f1&gt;右頁&lt;/f1&gt;」、「&lt;f3&gt;&lt;f4&gt;第一頁&lt;/f4&gt;&lt;/f3&gt;」等。它們能當作大多數其他頁面樣式的模型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the procedure for building &lt;f2&gt;most&lt;/f2&gt; of them is &lt;f3&gt;similar&lt;/f3&gt; &lt;f4&gt;to the one for creating a table of contents:&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T151903Z" creationid="zerng07" creationdate="20180227T151903Z">
+        <seg>不過，&lt;f2&gt;大多數&lt;/f2&gt;表格的製作步驟都和&lt;f4&gt;目錄&lt;/f4&gt;&lt;f3&gt;類似&lt;/f3&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38079,8 +38096,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;outline levels&lt;/f0&gt; in &lt;f1&gt;tables and indexes&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150532Z" creationid="zerng07" creationdate="20180227T145152Z">
-        <seg>利用&lt;f0&gt;大綱層級&lt;/f0&gt;的&lt;f1&gt;目錄與索引&lt;/f1&gt;中</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T151647Z" creationid="zerng07" creationdate="20180227T145152Z">
+        <seg>在&lt;f1&gt;目錄與索引&lt;/f1&gt;中使用&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
