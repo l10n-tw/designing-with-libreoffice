@@ -11188,6 +11188,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a cross-reference to another document is a different process from adding a cross-reference within a single document, even if both the source and the target document are in the same master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T141504Z" creationid="zerng07" creationdate="20180227T141504Z">
+        <seg>加入其他文件檔的交叉參照，和在單一份文件內部加入交叉參照的步驟不同，即便來源文件和目標文件都在同一份主控文件中也是一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a table</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121602Z" creationid="Jeff Huang" creationdate="20180210T034218Z">
