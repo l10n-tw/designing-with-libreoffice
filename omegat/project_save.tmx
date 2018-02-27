@@ -22308,6 +22308,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the hyperlink to resemble regular text, edit the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Internet Link&lt;/f1&gt; and &lt;f2&gt;Visited Internet Link &lt;/f2&gt;character styles &lt;f3&gt;to remove the colors and underlining.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144519Z" creationid="zerng07" creationdate="20180227T144512Z">
+        <seg>如果你希望讓超連結看起來像一般文字內容一樣，請編輯「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;網際網路連結&lt;/f1&gt;」和「&lt;f2&gt;訪問過的網際網路連結&lt;/f2&gt;」字元樣式&lt;f3&gt;來除去顏色和底線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want the same options most of the time, you can set some of them in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T123004Z" creationid="Jeff Huang" creationdate="20180211T023233Z">
@@ -35672,6 +35680,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T140418Z" creationid="Franklin Weng" creationdate="20180207T140418Z">
         <seg>最上方這個儲存格可以是標題，或者也可以用一個空白的儲存格，讓控制篩選條件的按鈕更明顯。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This change will affect all hyperlinks, not just cross-references.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144549Z" creationid="zerng07" creationdate="20180227T144549Z">
+        <seg>這個改動會影響所有的超連結，不只是交叉參照的部分而已。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
