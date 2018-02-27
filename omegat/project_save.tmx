@@ -16416,6 +16416,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the heading you are referencing into the target document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T143816Z" creationid="zerng07" creationdate="20180227T143816Z">
+        <seg>將你打算參照的標題拖曳到目標文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dragging on a handle changes the shape of the primitive.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T081203Z" creationid="Jeff Huang" creationdate="20180120T125638Z">
@@ -29578,8 +29586,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the &lt;f0&gt;Drag Mode&lt;/f0&gt; tool to&lt;f1&gt; Insert As Hyperlink.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T143503Z" creationid="zerng07" creationdate="20180227T143503Z">
-        <seg>將「&lt;f0&gt;拖曳模式&lt;/f0&gt;」工具設為「&lt;f1&gt;插入為超連結&lt;/f1&gt;」。（What???在哪？？？？）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T143728Z" creationid="zerng07" creationdate="20180227T143503Z">
+        <seg>確認助手視窗內第一層工具列的「&lt;f0&gt;拖曳模式&lt;/f0&gt;」工具有設定成「&lt;f1&gt;插入為超連結&lt;/f1&gt;」（有的話會是鎖鏈圖示）。</seg>
       </tuv>
     </tu>
     <tu>
