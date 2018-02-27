@@ -10614,6 +10614,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A hyperlink to the heading is placed in the target document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144044Z" creationid="zerng07" creationdate="20180227T144044Z">
+        <seg>助手就會將標題的超連結放到目標文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A l&lt;f0&gt;ine of text greater than about 80 characters.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140518Z" creationid="Franklin Weng" creationdate="20180105T144717Z">
@@ -27268,11 +27276,12 @@ Franklin：蛤？</note>
       </tuv>
     </tu>
     <tu>
+      <note>沒先開啟來源文件的話，助手視窗底部就沒得選。</note>
       <tuv lang="EN">
         <seg>Open the target document for the cross-reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T142739Z" creationid="zerng07" creationdate="20180227T142031Z">
-        <seg>開啟要寫入交叉參照的目標文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144004Z" creationid="zerng07" creationdate="20180227T142031Z">
+        <seg>先開啟要參考的來源文件，接著開啟正在寫入交叉參照的目標文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33629,6 +33638,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T093417Z" creationid="zerng07" creationdate="20180206T093417Z">
         <seg>橫向選項有「&lt;f0&gt;左&lt;/f0&gt;」、「&lt;f1&gt;右&lt;/f1&gt;」、「&lt;f2&gt;中&lt;/f2&gt;」，&lt;f3&gt;和「&lt;/f3&gt;&lt;f4&gt;自左&lt;/f4&gt;」（&lt;f5&gt;搭配&lt;/f5&gt;「&lt;f6&gt;距&lt;/f6&gt;」欄位使用）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The hyperlink is active and can be used &lt;f0&gt;online&lt;/f0&gt; to jump to the source document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144224Z" creationid="zerng07" creationdate="20180227T144224Z">
+        <seg>這個超連結就會產生作用，如果輸出為&lt;f0&gt;線上&lt;/f0&gt;文件後點按就會跳到來源文件。</seg>
       </tuv>
     </tu>
     <tu>
