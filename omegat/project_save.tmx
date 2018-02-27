@@ -7053,6 +7053,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To &lt;/f0&gt;add a hyperlink &lt;f1&gt;using styles&lt;/f1&gt;, follow &lt;f2&gt;this&lt;/f2&gt; procedure:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T141957Z" creationid="zerng07" creationdate="20180227T141957Z">
+        <seg>&lt;f0&gt;若要&lt;/f0&gt;使用樣式加入超連結的話，請遵照&lt;f2&gt;下列&lt;/f2&gt;步驟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To add a fill, go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &gt; Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, and select the tab for the type of fill you want to add.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072936Z" creationid="Jeff Huang" creationdate="20171229T035252Z">
@@ -23014,6 +23022,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142347Z" creationid="Jeff Huang" creationdate="20180124T085032Z">
         <seg>事實上，這些處理器通常對頁面外觀應該要長怎樣完全沒概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, using &lt;f2&gt;Set Reference&lt;/f2&gt; to create a manual reference is sufficiently confusing that I recommend avoiding it altogether.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T141913Z" creationid="zerng07" creationdate="20180227T141913Z">
+        <seg>實際上，使用「&lt;f2&gt;設定參照&lt;/f2&gt;」建立手動參照的做法常令人搞不清楚狀況，我個人建議應該全部避免。</seg>
       </tuv>
     </tu>
     <tu>
