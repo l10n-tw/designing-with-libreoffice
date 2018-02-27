@@ -1601,6 +1601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Add it&lt;/f0&gt; manually, or by dragging and dropping the title of the source document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144853Z" creationid="zerng07" creationdate="20180227T144853Z">
+        <seg>手動&lt;f0&gt;加入&lt;/f0&gt;，或是將來源文件的題名拖放過來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Adding an&lt;/f0&gt; AutoFilter&lt;f1&gt; &lt;/f1&gt;requires a cell at the top of a &lt;f2&gt;range&lt;/f2&gt; of cells, where it adds a &lt;f3&gt;permanent&lt;/f3&gt; drop-down &lt;f4&gt;list for filtering.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T140257Z" creationid="Franklin Weng" creationdate="20180206T213702Z">
@@ -4455,6 +4463,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135616Z" creationid="Franklin Weng" creationdate="20180129T135616Z">
         <seg>&lt;f0&gt;裡面可能會包含&lt;/f0&gt;每個事項要完成的時間，&lt;f1&gt;或是&lt;/f1&gt;專案階段、每個工作的負責人、工作相依性等等專案計畫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;It&lt;/f0&gt; must be added and updated manually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144742Z" creationid="zerng07" creationdate="20180227T144742Z">
+        <seg>它必須手動加入並手動更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21189,6 +21205,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, add:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144607Z" creationid="zerng07" creationdate="20180227T144607Z">
+        <seg>如果必要的話，請添寫：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, click the&lt;f0&gt; Source and Destination&lt;/f0&gt; arrow to make any modifications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135639Z" creationid="Franklin Weng" creationdate="20180210T135539Z">
@@ -32365,6 +32389,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;introductory&lt;/f0&gt; text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144634Z" creationid="zerng07" creationdate="20180227T144634Z">
+        <seg>參照的&lt;f0&gt;引導&lt;/f0&gt;文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;main&lt;/f0&gt; difference is that the window for frames includes a &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;olumn&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T081408Z" creationid="zerng07" creationdate="20180206T081408Z">
@@ -33220,6 +33252,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T114310Z" creationid="zerng07" creationdate="20171219T114238Z">
         <seg>文件很短（1-2頁），&lt;f0&gt;而且你沒有可利用的範本。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144750Z" creationid="zerng07" creationdate="20180227T144750Z">
+        <seg>文件名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34186,6 +34226,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134904Z" creationid="Jeff Huang" creationdate="20180127T035123Z">
         <seg>至於頁碼，或許可以大一點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The page number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144718Z" creationid="zerng07" creationdate="20180227T144718Z">
+        <seg>頁數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40023,6 +40071,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T130224Z" creationid="Franklin Weng" creationdate="20180118T023912Z">
         <seg>你可以在修改樣式的視窗中，用「&lt;f0&gt;項目符號&lt;/f0&gt;」、「&lt;f1&gt;編號&lt;/f1&gt;」、「&lt;f2&gt;影像&lt;/f2&gt;」和「&lt;f3&gt;自訂&lt;/f3&gt;」等標籤頁來自訂你要的效果。但就跟在&lt;f4&gt;Writer&lt;/f4&gt;中我們給的清單樣式建議一樣，請盡量避免使用復古的「&lt;f5&gt;影像&lt;/f5&gt;」樣式歷史遺蹟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define fields &lt;f1&gt;or AutoText&lt;/f1&gt; to avoid having to type it&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144715Z" creationid="zerng07" creationdate="20180227T144715Z">
+        <seg>你可以定義欄位變數&lt;f1&gt;或自動圖文集&lt;/f1&gt;來省下重複輸入的麻煩。</seg>
       </tuv>
     </tu>
     <tu>
