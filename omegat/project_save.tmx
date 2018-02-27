@@ -2730,6 +2730,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Creating a t&lt;/f0&gt;able &lt;f1&gt;of contents&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150948Z" creationid="zerng07" creationdate="20180227T150948Z">
+        <seg>&lt;f0&gt;製作&lt;/f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Crop Image:&lt;/f0&gt; Display only part of the image, or resize the image display.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132404Z" creationid="Jeff Huang" creationdate="20180122T091928Z">
@@ -11889,6 +11897,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alphabetical Index: A list of keywords and their appearances in the text &lt;f0&gt;–&lt;/f0&gt; &lt;f1&gt;in other words, a regular index.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150751Z" creationid="zerng07" creationdate="20180227T150751Z">
+        <seg>英文字母順序索引：A list of keywords and their appearances in the text &lt;f0&gt;–&lt;/f0&gt; &lt;f1&gt;in other words, a regular index.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alphabetical characters are assumed to be text, &lt;f0&gt;aligned to the left, &lt;/f0&gt;and numbers are assumed to be ordinary number&lt;f1&gt;s, aligned to the right for convenience when reading.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153654Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
@@ -13476,6 +13492,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131345Z" creationid="zerng07" creationdate="20180125T131336Z">
         <seg>甚至，你或許將來有天想要修改也不一定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bibliograph&lt;f0&gt;y&lt;/f0&gt;: A list of reference materials used in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150903Z" creationid="zerng07" creationdate="20180227T150903Z">
+        <seg>參考文獻：A list of reference materials used in the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31468,6 +31492,30 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table of Illustrations: A list of images, generated from caption categories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150805Z" creationid="zerng07" creationdate="20180227T150758Z">
+        <seg>插圖表：A list of images, generated from caption categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of Objects: A list of other elements, such as charts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150816Z" creationid="zerng07" creationdate="20180227T150816Z">
+        <seg>物件表：A list of other elements, such as charts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table of Tables: A list of tables, generated from caption categories.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150810Z" creationid="zerng07" creationdate="20180227T150810Z">
+        <seg>表格表：A list of tables, generated from caption categories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table styles are due to be added to Writer in the future, but for now tables are formatted in a mixture of manual and style-like editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T124012Z" creationid="Jeff Huang" creationdate="20180131T084113Z">
@@ -39946,6 +39994,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add user-defined index marks to create other tables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150934Z" creationid="zerng07" creationdate="20180227T150934Z">
+        <seg>你也可以加入使用者定義的索引標記來製作其他表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also change the default style for an outline level by editing the &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Paragraph Style&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt; field in &lt;/f25&gt;&lt;f26&gt;&lt;f27&gt;Tools &gt; Outline Numbering.&lt;/f27&gt;&lt;/f26&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145618Z" creationid="zerng07" creationdate="20180224T145618Z">
@@ -41315,8 +41371,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>and tables of illustrations and tables, which are created from captions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150632Z" creationid="zerng07" creationdate="20180227T150632Z">
-        <seg>而插圖和表格的統整列表，則根據圖表標示製作而成。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150832Z" creationid="zerng07" creationdate="20180227T150632Z">
+        <seg>而插圖和表格的統整表，則根據圖表標示製作而成。</seg>
       </tuv>
     </tu>
     <tu>
