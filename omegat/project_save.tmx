@@ -27841,6 +27841,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, spacing can become erratic.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134032Z" creationid="zerng07" creationdate="20180302T134032Z">
+        <seg>否則，間距可能就會飄忽不定難以預料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, the result &lt;f4&gt;could&lt;/f4&gt; be stylistic chaos.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
@@ -40670,8 +40678,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can reliably use only one &lt;f0&gt;t&lt;/f0&gt;ab in the &lt;f1&gt;Entry&lt;/f1&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T133740Z" creationid="zerng07" creationdate="20180302T133740Z">
-        <seg>你可以在&lt;f1&gt;條目&lt;/f1&gt;欄位中可靠地使用一個製表跳格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134102Z" creationid="zerng07" creationdate="20180302T133740Z">
+        <seg>直接在&lt;f1&gt;條目&lt;/f1&gt;欄位中用一個製表跳格 (Tab) 就好會比較可靠。</seg>
       </tuv>
     </tu>
     <tu>
