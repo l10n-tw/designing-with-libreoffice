@@ -9553,6 +9553,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The &lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;larger page number helps to keep the association between the text entries and page numbers.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143602Z" creationid="zerng07" creationdate="20180302T143602Z">
+        <seg>&lt;f4&gt;較大字的頁碼可以幫助文字條目和頁碼之間維持關聯性。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The default style replaces a deleted one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T032852Z" creationid="zerng07" creationdate="20171227T032704Z">
@@ -29855,6 +29863,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111843Z" creationid="zerng07" creationdate="20171219T111843Z">
         <seg>選取「&lt;f0&gt;格式 &gt; 段落 &gt; 縮排和間距&lt;/f0&gt;」，編輯「&lt;f1&gt;段落之上&lt;/f1&gt;」欄位，並按下「&lt;f2&gt;確定&lt;/f2&gt;」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;# &lt;/f0&gt;(Page no.) block and give its character style a larger font size and/or a color to make it stand out &lt;f1&gt;more&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143525Z" creationid="zerng07" creationdate="20180302T143525Z">
+        <seg>選取「&lt;f0&gt;#&lt;/f0&gt;」（頁碼）方塊，賦予它大字的字元樣式和或顏色，來讓它&lt;f1&gt;更&lt;/f1&gt;突出一些。</seg>
       </tuv>
     </tu>
     <tu>
