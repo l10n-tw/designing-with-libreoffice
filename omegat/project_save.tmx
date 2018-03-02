@@ -4524,6 +4524,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Keep the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LS&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Link Start) at the beginning of the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Entry&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field, and the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LE&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; (Link End) at the end of the field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T084841Z" creationid="zerng07" creationdate="20180302T084841Z">
+        <seg>&lt;f0&gt;讓&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LS&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;（連結開始，Link Start））維持在&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條目&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;欄位的開頭處，&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LE&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;（連結結束，Link End）維持在欄位的結尾處。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Keep this default arrangement, and &lt;/f0&gt;you should only have to think about setting page styles when you do something unusual, such as adding a &lt;f1&gt;l&lt;/f1&gt;andscape page to an otherwise &lt;f2&gt;p&lt;/f2&gt;ortrait-oriented document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142806Z" creationid="Jeff Huang" creationdate="20180124T131438Z">
