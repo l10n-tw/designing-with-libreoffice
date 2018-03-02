@@ -9249,6 +9249,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;For instance:&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143045Z" creationid="zerng07" creationdate="20180302T143045Z">
+        <seg>&lt;f2&gt;舉例：&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;However, &lt;/f2&gt;you might &lt;t3/&gt;want to &lt;f4&gt;create&lt;/f4&gt; &lt;f5&gt;Header Center &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Left&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;and &lt;f9&gt;Header Center &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Right&lt;/f11&gt;&lt;/f10&gt; as well.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134321Z" creationid="Jeff Huang" creationdate="20180127T034318Z">
@@ -19045,8 +19053,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fortunately, while LibreOffice defaults to this design, you can &lt;f0&gt;work with&lt;/f0&gt; the building blocks &lt;f1&gt;and paragraph styles&lt;/f1&gt; to create a more functional design in any number of ways.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T142711Z" creationid="zerng07" creationdate="20180302T142711Z">
-        <seg>幸運的是，雖然LibreOffice預設使用那種設計，你還是可以&lt;f0&gt;調整&lt;/f0&gt;建構方塊&lt;f1&gt;和段落樣式&lt;/f1&gt;來製作出從各方面來說都更有功用的設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T142721Z" creationid="zerng07" creationdate="20180302T142711Z">
+        <seg>幸運的是，雖然LibreOffice預設使用那種設計，你還是可以&lt;f0&gt;調整&lt;/f0&gt;建構方塊&lt;f1&gt;和段落樣式&lt;/f1&gt;，製作出各方面來說都更有功用的設計。</seg>
       </tuv>
     </tu>
     <tu>
