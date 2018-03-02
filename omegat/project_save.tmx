@@ -1417,8 +1417,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;TOC&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;s in LibreOffice &lt;/f2&gt;default to a format that has become standard in many word processors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135401Z" creationid="zerng07" creationdate="20180302T135401Z">
-        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;外觀是許多文書處理器的標準格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135408Z" creationid="zerng07" creationdate="20180302T135401Z">
+        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;外觀是許多文書處理器的標準樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23123,6 +23123,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In between are fill characters, usually a period.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135636Z" creationid="zerng07" creationdate="20180302T135636Z">
+        <seg>兩者之間以字元填滿，一般是半形句點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In between the starting color and the ending color are a number of intermediate colors, or increments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T135642Z" creationid="Jeff Huang" creationdate="20180122T124040Z">
@@ -23848,6 +23856,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014859Z" creationid="zerng07" creationdate="20180123T014659Z">
         <seg>以這為例，行距設定為15點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this style, each entry consists of text and a page number placed by a tab on the right margin.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135539Z" creationid="zerng07" creationdate="20180302T135539Z">
+        <seg>在這個樣式中，各個條目都是由文字，以及放在右側的頁碼構成。</seg>
       </tuv>
     </tu>
     <tu>
