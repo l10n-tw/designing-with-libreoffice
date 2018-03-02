@@ -3640,6 +3640,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables &gt; Columns &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;and set the table to use two columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145821Z" creationid="zerng07" creationdate="20180302T145821Z">
+        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄和索引 &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，將列表設定為使用兩欄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Graphic bullets are especially useful for&lt;/f0&gt; reoccurring graphics.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030636Z" creationid="Jeff Huang" creationdate="20180208T064415Z">
@@ -12423,6 +12431,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T143453Z" creationid="Jeff Huang" creationdate="20180129T031545Z">
         <seg>偏移最常使用的時機，就是當文件有許多&lt;f0&gt;未編號頁面，或是有使用不同編號系統的頁面&lt;/f0&gt;的情況，如前置內容&lt;f1&gt;、序文或引言等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An underscore &lt;f0&gt;leads the eye across the page, but still tends to separate the text entries from the page numbers.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145718Z" creationid="zerng07" creationdate="20180302T145718Z">
+        <seg>底線&lt;f0&gt;可以引導眼睛在頁面間移動，但看起來仍有種把文字條目和頁碼分開的感覺。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
