@@ -12383,6 +12383,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any selection you make does not add styles to the outline levels.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073700Z" creationid="zerng07" creationdate="20180302T073700Z">
+        <seg>所有選項都不會對大綱層級加入樣式。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything less risks cluttering the column with hyphens, single-word lines, and/or vast stretches of white space.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004911Z" creationid="zerng07" creationdate="20180125T075237Z">
@@ -31289,6 +31297,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145919Z" creationid="zerng07" creationdate="20180213T043345Z">
         <seg>樣式功能和長篇文章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles already assigned to outline levels cannot be given different outline levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073737Z" creationid="zerng07" creationdate="20180302T073737Z">
+        <seg>已經指派給大綱層級的樣式就不能再給其他大綱層級使用。</seg>
       </tuv>
     </tu>
     <tu>
