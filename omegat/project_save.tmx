@@ -10582,6 +10582,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;two-&lt;/f0&gt;column &lt;f1&gt;t&lt;/f1&gt;able of &lt;f2&gt;c&lt;/f2&gt;ontents lessens the &lt;f3&gt;space&lt;/f3&gt; between text entries and page numbers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T150102Z" creationid="zerng07" creationdate="20180302T150102Z">
+        <seg>兩欄式目錄可減少文字條目和頁碼之間的&lt;f3&gt;空間&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f1&gt;page&lt;/f1&gt; style might list everything about how a page is designed, from the width of its margins to its orientation and the background color.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T145231Z" creationid="zerng07" creationdate="20170903T144903Z">
@@ -36832,6 +36840,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123155Z" creationid="zerng07" creationdate="20180210T123155Z">
         <seg>這個解決方案類似在網頁上用表格作版面配置的方法。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This solution shortens the distance between the text entry and the page &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;number, but may be impractical if any entry text is more than a few words long and spills over onto another line.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145947Z" creationid="zerng07" creationdate="20180302T145947Z">
+        <seg>這個解決辦法可以縮短文字條目和頁碼之間的距離，&lt;f5&gt;但如果有任何條目的字不只一些，會跨到下一行去的話就可能不切實際。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
