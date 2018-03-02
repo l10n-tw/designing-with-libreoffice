@@ -23878,8 +23878,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In this style, each entry consists of text and a page number placed by a tab on the right margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135539Z" creationid="zerng07" creationdate="20180302T135539Z">
-        <seg>在這個樣式中，各個條目都是由文字，以及放在右側的頁碼構成。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140309Z" creationid="zerng07" creationdate="20180302T135539Z">
+        <seg>在這個樣式中，各個條目都是由文字，以及放在最右側的頁碼構成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24334,6 +24334,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also clumsy.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140421Z" creationid="zerng07" creationdate="20180302T140412Z">
+        <seg>而且還很蠢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is as &lt;f0&gt;though&lt;/f0&gt; we have learned enough about cars to go downhill in them and coast &lt;f1&gt;across level ground&lt;/f1&gt;, but never learned about the ignition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T165423Z" creationid="zerng07" creationdate="20170817T151207Z">
@@ -24522,8 +24530,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Its need for crutch-like leader dots between the text entry and the page number is enough to prove it a crippled design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140017Z" creationid="zerng07" creationdate="20180302T135215Z">
-        <seg>在文字條目與頁數之間被過度依賴的前導點足以證明這是個智障設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140337Z" creationid="zerng07" creationdate="20180302T135215Z">
+        <seg>在文字條目與頁數之間大量使用的前導點足以證明這是個智障設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31367,8 +31375,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Starting the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOC&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; entry at the left margin and placing the page number against the right margin disassociates them, and the leader dots are needed to try to reconnect them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140251Z" creationid="zerng07" creationdate="20180302T140014Z">
-        <seg>把&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;條目放在最左邊，然後頁碼放在最右邊的做法，就是要打破兩者之間的關聯，所以頁碼前面才要加一堆點來把兩者連結起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140457Z" creationid="zerng07" creationdate="20180302T140014Z">
+        <seg>把&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;條目放在最左邊，然後頁碼放在最右邊的做法，就是要打破兩者之間的關聯，所以頁碼前面還要加一堆點再把兩者連結起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34820,6 +34828,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T012020Z" creationid="zerng07" creationdate="20180208T012003Z">
         <seg>結果就是空白太多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is ugly.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140407Z" creationid="zerng07" creationdate="20180302T140407Z">
+        <seg>結果就是醜。</seg>
       </tuv>
     </tu>
     <tu>
