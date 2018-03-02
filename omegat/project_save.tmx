@@ -36831,6 +36831,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To avoid difficulties, leave the &lt;f4&gt;Before text &lt;/f4&gt;field set to &lt;f5&gt;0.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T132939Z" creationid="zerng07" creationdate="20180302T132939Z">
+        <seg>如果要避免麻煩，就把「&lt;f4&gt;文字之前&lt;/f4&gt;」欄位設為&lt;f5&gt;0。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To avoid such problems, make your template names as specific as possible.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171213T133013Z" creationid="Franklin Weng" creationdate="20171213T133013Z">
@@ -40656,6 +40664,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T150908Z" creationid="zerng07" creationdate="20180224T150908Z">
         <seg>你可以用附有清單樣式的標題段落樣式草擬大綱，或是用附有大綱清單樣式的單一段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can reliably use only one &lt;f0&gt;t&lt;/f0&gt;ab in the &lt;f1&gt;Entry&lt;/f1&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T133740Z" creationid="zerng07" creationdate="20180302T133740Z">
+        <seg>你可以在&lt;f1&gt;條目&lt;/f1&gt;欄位中可靠地使用一個製表跳格。</seg>
       </tuv>
     </tu>
     <tu>
