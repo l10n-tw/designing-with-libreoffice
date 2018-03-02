@@ -623,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;s2/&gt;&lt;f3&gt;You can also modify indexes and tables by customizng their paragraph styles.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125440Z" creationid="zerng07" creationdate="20180302T125440Z">
+        <seg>&lt;/f1&gt;&lt;s2/&gt;&lt;f3&gt;你也可以藉由自訂索引或列表的段落樣式來修改它們。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;All measurements are in points&lt;f2&gt; and can be used for setting other sizes and spacing&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T150626Z" creationid="Franklin Weng" creationdate="20180106T023349Z">
@@ -35032,6 +35040,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T025641Z" creationid="zerng07" creationdate="20180213T025641Z">
         <seg>這個工具列&lt;f3&gt;只會&lt;/f3&gt;你選取外框的時候才會出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tools consist of a &lt;f0&gt;&lt;f1&gt;Structure&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;field in which you can arrange building blocks such as &lt;f3&gt;Page Number&lt;/f3&gt; and &lt;f4&gt;Chapter Number&lt;/f4&gt;, characters, and spaces to create a standard entry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125648Z" creationid="zerng07" creationdate="20180302T125648Z">
+        <seg>這些工具有個「&lt;f0&gt;&lt;f1&gt;結構&lt;/f1&gt;&lt;/f0&gt;」欄位讓你安排建構方塊的位置，其中有「&lt;f3&gt;頁碼&lt;/f3&gt;」、「&lt;f4&gt;章節號&lt;/f4&gt;」，還有字元、空格等項目讓你製作標準條目。</seg>
       </tuv>
     </tu>
     <tu>
