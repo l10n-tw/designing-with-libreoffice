@@ -2554,8 +2554,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Tab) block.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T144159Z" creationid="zerng07" creationdate="20180302T144159Z">
-        <seg>&lt;f0&gt;點按建構方塊前面的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;製表跳格&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;(Tab) 方塊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145009Z" creationid="zerng07" creationdate="20180302T144159Z">
+        <seg>&lt;f0&gt;點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」(Tab，製表落點) 方塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17655,8 +17655,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fields for the fill character and tab stop position appear below the list of unused building blocks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T144657Z" creationid="zerng07" creationdate="20180302T144657Z">
-        <seg>接著會出現填入字元用的欄位，下方未使用建構區塊列表中還會出現個「製表落點」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145119Z" creationid="zerng07" creationdate="20180302T144657Z">
+        <seg>未使用建構方塊清單下方會出現「填入字元」和「製表落點位置」欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29147,8 +29147,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Replace the fill character with an underscore, and at least your eye is guided continuously across the page, which is an improvement on leader dots.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T144914Z" creationid="zerng07" creationdate="20180302T144914Z">
-        <seg>用底線 _ 取代填入字元，with an underscore, and at least your eye is guided continuously across the page, which is an improvement on leader dots.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145307Z" creationid="zerng07" creationdate="20180302T144914Z">
+        <seg>請用底線「_」取代原先的填入字元，至少它可以引導你的眼睛在頁面間移動，是前導點的改善版本。</seg>
       </tuv>
     </tu>
     <tu>
