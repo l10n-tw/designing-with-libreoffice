@@ -3538,8 +3538,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;o to&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Index/Tables &gt; Type&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;and select &lt;f7&gt;the type of table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073301Z" creationid="zerng07" creationdate="20180302T073301Z">
-        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f5&gt;」，並選取&lt;f7&gt;目錄的類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073334Z" creationid="zerng07" creationdate="20180302T073301Z">
+        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f5&gt;」，並選取&lt;f7&gt;表格的類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5743,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144103Z" creationid="Franklin Weng" creationdate="20180209T144103Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;選擇試算表中某個資料範圍，&lt;f1&gt;包括它的標題。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;elect&lt;f1&gt; Index/Tables &gt; Additional Styles &lt;/f1&gt;to &lt;f2&gt;add&lt;/f2&gt; &lt;f3&gt;additional &lt;/f3&gt;paragraph styles to &lt;f4&gt;the table of contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073531Z" creationid="zerng07" creationdate="20180302T073531Z">
+        <seg>選取「&lt;f1&gt;製作來源 &gt; 其他樣式&lt;/f1&gt;」來為目錄加入&lt;f3&gt;額外的&lt;/f3&gt;段落樣式&lt;f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20389,6 +20397,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091340Z" creationid="Jeff Huang" creationdate="20180113T131404Z">
         <seg>不過，大多數的圖表只需要一組數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, many of the advanced options may be unnecessary.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073422Z" creationid="zerng07" creationdate="20180302T073422Z">
+        <seg>不過，有許多進階選項可能不大必要。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41334,6 +41350,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161704Z" creationid="Franklin Weng" creationdate="20180107T061848Z">
         <seg>你的目的是希望傳達資訊不受中斷，&lt;f0&gt;無關有講者或沒講者。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your selection determines both the default title and some of the advanced options.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073401Z" creationid="zerng07" creationdate="20180302T073401Z">
+        <seg>你的選擇會決定預設的題名和一些進階選項。</seg>
       </tuv>
     </tu>
     <tu>
