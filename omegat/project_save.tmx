@@ -1414,6 +1414,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TOC&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;s in LibreOffice &lt;/f2&gt;default to a format that has become standard in many word processors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135401Z" creationid="zerng07" creationdate="20180302T135401Z">
+        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;外觀是許多文書處理器的標準格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現有版本改寫</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tool &gt; Filters &gt; Advanced Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;reads filters from the spreadsheet.</seg>
