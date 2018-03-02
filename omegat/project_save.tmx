@@ -6282,8 +6282,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Structuring&lt;/f0&gt; &lt;f1&gt;table &lt;/f1&gt;entries &lt;f2&gt;with&lt;/f2&gt; building blocks</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T122115Z" creationid="zerng07" creationdate="20180302T122115Z">
-        <seg>&lt;f0&gt;以建構方塊製作&lt;/f0&gt;&lt;f1&gt;表格&lt;/f1&gt;條目結構</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125059Z" creationid="zerng07" creationdate="20180302T122115Z">
+        <seg>&lt;f0&gt;以建構方塊製作&lt;/f0&gt;&lt;f1&gt;列表&lt;/f1&gt;條目結構</seg>
       </tuv>
     </tu>
     <tu>
@@ -35677,6 +35677,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These tools are located at &lt;f1&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables &gt; Entries.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125348Z" creationid="zerng07" creationdate="20180302T125348Z">
+        <seg>這些工具位在「&lt;f1&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 條目」中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These two links make the entire entry a hyperlink to the text, that you can use in an online document or when editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085005Z" creationid="zerng07" creationdate="20180302T085005Z">
@@ -37884,6 +37892,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlike most word processors, LibreOffice provides the tools for customizing each entry for a &lt;f0&gt;TOC&lt;/f0&gt; or similar table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125246Z" creationid="zerng07" creationdate="20180302T125246Z">
+        <seg>與大多數文書處理器不同，LibreOffice有提供自訂目錄 (&lt;f0&gt;TOC&lt;/f0&gt;) 或類似列表用的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unlike styles, AutoFormats cannot be edited, except for being renamed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151738Z" creationid="Jeff Huang" creationdate="20180212T124850Z">
@@ -38042,6 +38058,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184257Z" creationid="Franklin Weng" creationdate="20180204T184257Z">
         <seg>用邊框、背景色或空白儲存格來將，&lt;f0&gt;資料陣列&lt;/f0&gt;&lt;f1&gt;區隔開來。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use building blocks to customize tables of contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125152Z" creationid="zerng07" creationdate="20180302T125152Z">
+        <seg>使用建構方塊自訂目錄。</seg>
       </tuv>
     </tu>
     <tu>
