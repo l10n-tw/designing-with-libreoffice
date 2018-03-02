@@ -16217,6 +16217,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete the &lt;f0&gt;Tab&lt;/f0&gt; block and manually add spaces between the &lt;f1&gt;E &lt;/f1&gt;(Entry text) and &lt;f2&gt;#&lt;/f2&gt; (Page no.) blocks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T153142Z" creationid="zerng07" creationdate="20180302T153142Z">
+        <seg>點選「&lt;f0&gt;T&lt;/f0&gt;」區塊後按Delete鍵將之刪除，並手動在「&lt;f1&gt;E &lt;/f1&gt;」（Entry text，條目文字）和「&lt;f2&gt;#&lt;/f2&gt;」（Page no.，頁碼）區塊之間輸入空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete the marks and the student names, and you can save the spreadsheet as a template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151529Z" creationid="Franklin Weng" creationdate="20180206T151529Z">
