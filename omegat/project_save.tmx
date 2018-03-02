@@ -3889,6 +3889,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, to anyone with design knowledge, the result is a failed design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135939Z" creationid="zerng07" creationdate="20180302T135939Z">
+        <seg>&lt;f0&gt;不過，任何有設計常識的人都知道這是個失敗設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, we do know that, b&lt;/f0&gt;y the mid-&lt;f1&gt;t&lt;/f1&gt;wentieth century, bulleted lists became popular in technical documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T131214Z" creationid="Jeff Huang" creationdate="20180131T131641Z">
@@ -4151,6 +4159,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T115104Z" creationid="Jeff Huang" creationdate="20180125T131538Z">
         <seg>&lt;f0&gt;如果你的讀者可能來自於世界各地&lt;/f0&gt;，這就是你可以使用的範本，一種設計讓兩種紙張大小&lt;f2&gt;都能列印。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you have regularly generated &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOCs&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; using word processors, you might not see anything wrong with the default &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;TOC&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; design in Writer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135740Z" creationid="zerng07" creationdate="20180302T135740Z">
+        <seg>&lt;f0&gt;如果你常用文書處理器製作&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的話，你可能看不出Writer中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目錄&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;設計有什麼錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28616,6 +28632,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T135132Z" creationid="Jeff Huang" creationdate="20180118T032749Z">
         <seg>上面這樣做，大概是想要用不同字型區分不同類型的資訊，但是表現出來的效果不是很明顯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Probably, you have seen the design too many times to be bothered by it.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135834Z" creationid="zerng07" creationdate="20180302T135834Z">
+        <seg>大概是因為太常見到這樣的設計而感受不到其中的問題。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
