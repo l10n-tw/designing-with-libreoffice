@@ -2512,6 +2512,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button to add the table.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085154Z" creationid="zerng07" creationdate="20180302T085154Z">
+        <seg>&lt;f0&gt;點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;確定&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕加入表格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;Image&lt;/f2&gt;&lt;/f1&gt; from the right-click &lt;f3&gt;menu and go to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Type&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T114912Z" creationid="zerng07" creationdate="20180210T114912Z">
@@ -3032,6 +3040,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030133Z" creationid="zerng07" creationdate="20171227T030124Z">
         <seg>&lt;f0&gt;從工具列中編輯樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit the paragraph styles for each table entry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085244Z" creationid="zerng07" creationdate="20180302T085244Z">
+        <seg>&lt;f0&gt;為各個表格條目編輯段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34495,6 +34511,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The preview pane on the left shows what your design will look like on the page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085137Z" creationid="zerng07" creationdate="20180302T085137Z">
+        <seg>左側的預覽窗格會顯示在頁面上你的設計看起來如何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The proper formatting of contents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141532Z" creationid="Franklin Weng" creationdate="20180209T141532Z">
@@ -40480,6 +40504,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155832Z" creationid="zerng07" creationdate="20171226T135318Z">
         <seg>你可以從&lt;f1&gt;格式化&lt;/f1&gt;&lt;f2&gt;工具列&lt;/f2&gt;的段落樣式下拉式選單中的第一項「&lt;f0&gt;清除格式&lt;/f0&gt;」移除掉絕大多數的格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can right-click the table to edit or update it later.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085226Z" creationid="zerng07" creationdate="20180302T085226Z">
+        <seg>你之後可以對表格點按右鍵編輯或更新。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
