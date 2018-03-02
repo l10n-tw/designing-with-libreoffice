@@ -22543,6 +22543,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your &lt;f0&gt;table&lt;/f0&gt; entries are single words or phrases &lt;f1&gt;of a few words, you might be able to save space by setting 2–4 columns on the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Columns&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T084409Z" creationid="zerng07" creationdate="20180302T084409Z">
+        <seg>如果你的&lt;f0&gt;表格&lt;/f0&gt;條目都只有幾個字而已，&lt;f1&gt;或許可以在「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;多欄&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」標籤頁中設定成2至4欄節省空間。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your design includes nested bullets – that is, bullet lists within bullet lists – you might want to create an additional &lt;f0&gt;list style&lt;/f0&gt; with a name like &lt;f1&gt;Bullets2.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T022040Z" creationid="Jeff Huang" creationdate="20180205T090254Z">
