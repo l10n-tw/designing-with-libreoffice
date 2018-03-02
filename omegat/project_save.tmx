@@ -6416,6 +6416,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he spacing of all tabs is added to the &lt;f1&gt;Before text &lt;/f1&gt;indentation on the &lt;f2&gt;Indents and Spacing&lt;/f2&gt; tab for each entry’s paragraph style (&lt;f3&gt;Contents 1-10&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T132912Z" creationid="zerng07" creationdate="20180302T132912Z">
+        <seg>所有製表跳格 (Tab) 的間隔空間都會加到各條目段落樣式（&lt;f3&gt;目錄 1-10&lt;/f3&gt;）「&lt;f2&gt;縮排和間距&lt;/f2&gt;」標籤頁中的「&lt;f1&gt;文字之前&lt;/f1&gt;」縮排上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he types of styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T172930Z" creationid="zerng07" creationdate="20171223T172930Z">
