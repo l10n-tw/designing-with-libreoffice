@@ -3554,8 +3554,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;o to&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Index/Tables &gt; Type&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;and select &lt;f7&gt;the type of table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073334Z" creationid="zerng07" creationdate="20180302T073301Z">
-        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f5&gt;」，並選取&lt;f7&gt;表格的類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T124151Z" creationid="zerng07" creationdate="20180302T073301Z">
+        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f5&gt;」，並選取&lt;f7&gt;列表的類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4004,8 +4004,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If necessary, customize&lt;/f0&gt; &lt;f1&gt;a page style for the table, and add it to the document.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T065622Z" creationid="zerng07" creationdate="20180302T065611Z">
-        <seg>&lt;f0&gt;如果有需要，&lt;/f0&gt;&lt;f1&gt;為表格自訂個頁面樣式，並加到文件中。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T122613Z" creationid="zerng07" creationdate="20180302T065611Z">
+        <seg>&lt;f0&gt;如果有需要，&lt;/f0&gt;&lt;f1&gt;為列表自訂個頁面樣式，並加到文件中。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16699,8 +16699,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Each &lt;f0&gt;kind of&lt;/f0&gt; table ha&lt;f1&gt;s&lt;/f1&gt; its own list of customized features.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T151741Z" creationid="zerng07" creationdate="20180227T151741Z">
-        <seg>各式表格有各自不同的自訂功能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T122604Z" creationid="zerng07" creationdate="20180227T151741Z">
+        <seg>各式列表有各自不同的自訂功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20698,8 +20698,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, the procedure for building &lt;f2&gt;most&lt;/f2&gt; of them is &lt;f3&gt;similar&lt;/f3&gt; &lt;f4&gt;to the one for creating a table of contents:&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T151903Z" creationid="zerng07" creationdate="20180227T151903Z">
-        <seg>不過，&lt;f2&gt;大多數&lt;/f2&gt;表格的製作步驟都和&lt;f4&gt;目錄&lt;/f4&gt;&lt;f3&gt;類似&lt;/f3&gt;：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T122608Z" creationid="zerng07" creationdate="20180227T151903Z">
+        <seg>不過，&lt;f2&gt;大多數&lt;/f2&gt;列表的製作步驟都和&lt;f4&gt;目錄&lt;/f4&gt;&lt;f3&gt;類似&lt;/f3&gt;：</seg>
       </tuv>
     </tu>
     <tu>
