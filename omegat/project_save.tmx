@@ -16753,6 +16753,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each outline level can be customized separately, or together by pressing the &lt;f0&gt;All&lt;/f0&gt; button &lt;f1&gt;on the&lt;/f1&gt; right side of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130434Z" creationid="zerng07" creationdate="20180302T130427Z">
+        <seg>各個大綱層級都可以分別自訂，或是直接按視窗右側的「&lt;f0&gt;全部&lt;/f0&gt;」按鈕一起設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each principle helps to guide readers through the document, but their use remains contextual.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T040053Z" creationid="Jeff Huang" creationdate="20180116T033057Z">
@@ -21496,6 +21504,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;t2/&gt;levels have common elements, format them together, then edit each level separately &lt;f3&gt;for unique features.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130529Z" creationid="zerng07" creationdate="20180302T130529Z">
+        <seg>如果層級間都有相同的元素，那麼就先一起做好格式設定，接著再個別修改&lt;f3&gt;獨特的部分。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the button is grayed out, you cannot use &lt;f0&gt;Fill Format&lt;/f0&gt; with the style category selected.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115210Z" creationid="zerng07" creationdate="20171226T115210Z">
@@ -22966,6 +22982,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143626Z" creationid="Franklin Weng" creationdate="20180206T143626Z">
         <seg>然後建立&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;總計、標題 1、標題 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 與 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;數值&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;這幾種樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, formatting choices for the building block appear in the window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130338Z" creationid="zerng07" creationdate="20180302T130338Z">
+        <seg>還有，建構方塊相關的格式設定選項會出現在視窗中。</seg>
       </tuv>
     </tu>
     <tu>
