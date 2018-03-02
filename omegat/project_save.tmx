@@ -5675,6 +5675,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;R&lt;/f0&gt;educ&lt;f1&gt;e &lt;/f1&gt;the space between the entry text and the page number &lt;f2&gt;using the paragraph style.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143120Z" creationid="zerng07" creationdate="20180302T143120Z">
+        <seg>使用段落樣式&lt;f2&gt;減少條目文字與頁碼之間的空格。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T125704Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
@@ -14013,6 +14021,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041000Z" creationid="zerng07" creationdate="20171212T040200Z">
         <seg>但是和一般的書籤不同，你不需要額外動手定義標題書籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But watch for entries that spill over on to another line, &lt;f0&gt;spoiling the symmetry of the design for no reason.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143342Z" creationid="zerng07" creationdate="20180302T143342Z">
+        <seg>但要注意條目是否會因此溢出到下一行去，&lt;f0&gt;冷不防壞了你設計的對稱性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24849,6 +24865,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T065607Z" creationid="zerng07" creationdate="20180208T065607Z">
         <seg>大張影像或大份表格會獨立放在頁面上，前面由一個會強制分新頁的標題引導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Larger fonts and no leader dots improves the design.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143200Z" creationid="zerng07" creationdate="20180302T143142Z">
+        <seg>採用更大的字型、不用前導點都能改善設計。</seg>
       </tuv>
     </tu>
     <tu>
