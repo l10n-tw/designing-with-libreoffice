@@ -2552,6 +2552,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;T&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (Tab) block.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T144159Z" creationid="zerng07" creationdate="20180302T144159Z">
+        <seg>&lt;f0&gt;點按建構方塊前面的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;製表跳格&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;(Tab) 方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button to add the table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T124939Z" creationid="zerng07" creationdate="20180302T085154Z">
@@ -17640,6 +17648,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T140319Z" creationid="Jeff Huang" creationdate="20180127T125859Z">
         <seg>可用於頁首與頁尾的欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>原先因為 Tab stop 用語要和微軟辦公類似而全部改為定位落點，但這裡是製表用的 Tab 本意，同步將此處字串改譯為「製表落點」。</note>
+      <tuv lang="EN">
+        <seg>Fields for the fill character and tab stop position appear below the list of unused building blocks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T144657Z" creationid="zerng07" creationdate="20180302T144657Z">
+        <seg>接著會出現填入字元用的欄位，下方未使用建構區塊列表中還會出現個「製表落點」。</seg>
       </tuv>
     </tu>
     <tu>
