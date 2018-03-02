@@ -35645,6 +35645,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These styles consist of a heading paragraph style (for instance, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Contents Heading &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;for a table of contents), and styles for each outline level of table entry (such as &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Contents 1-10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for Index/Tables).&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085824Z" creationid="zerng07" creationdate="20180302T085824Z">
+        <seg>這些樣式是由一個標題段落樣式（例：「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄標題&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」是目錄的標題樣式），和表格條目的各大綱層級樣式（例：「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目錄 1-10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」是目錄的條目樣式）構成。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These two links make the entire entry a hyperlink to the text, that you can use in an online document or when editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T085005Z" creationid="zerng07" creationdate="20180302T085005Z">
