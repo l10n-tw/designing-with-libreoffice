@@ -5851,6 +5851,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;S&lt;/f0&gt;ince periods are used to indicate a stop, not a continuation, &lt;f1&gt;the periods do not lead the eye across the page&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T141127Z" creationid="zerng07" creationdate="20180302T141127Z">
+        <seg>因為句點的本意是指示語義完結用的，不是繼續，&lt;f1&gt;放一堆英文句點根本無法引導人眼在頁面中移動&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;ince then, I have used &lt;f1&gt;that&lt;/f1&gt; all-purpose template for hundreds of documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T101711Z" creationid="Franklin Weng" creationdate="20171212T100944Z">
@@ -31433,8 +31441,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Starting the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOC&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; entry at the left margin and placing the page number against the right margin disassociates them, and the leader dots are needed to try to reconnect them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140457Z" creationid="zerng07" creationdate="20180302T140014Z">
-        <seg>把&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;條目放在最左邊，然後頁碼放在最右邊的做法，就是要打破兩者之間的關聯，所以頁碼前面還要加一堆點再把兩者連結起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140516Z" creationid="zerng07" creationdate="20180302T140014Z">
+        <seg>把&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;條目放在最左邊，然後頁碼放在最右邊的做法，就是要打破兩者之間的關聯，所以頁碼前面還得加一堆點再把兩者連結起來。</seg>
       </tuv>
     </tu>
     <tu>
