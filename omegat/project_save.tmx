@@ -20043,6 +20043,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, &lt;f4&gt;to work without the problem of long entries taking up two lines, it requires short text entries, or perhaps a landscape oriented page with columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T150343Z" creationid="zerng07" creationdate="20180302T150343Z">
+        <seg>不過，&lt;f4&gt;它的要求是文字條目必須簡短，才不會有長條目佔用兩行以上而產生問題，或者是考慮改成橫向的多欄頁面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, &lt;f6&gt;the alignment options&lt;/f6&gt; also include &lt;f7&gt;Filled&lt;/f7&gt;, which repeats contents so that the entire cell is filled, and &lt;f8&gt;Distributed&lt;/f8&gt;, a close relative of &lt;f9&gt;Justified&lt;/f9&gt; that distributes contents evenly across the cell.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122102Z" creationid="Franklin Weng" creationdate="20180211T121920Z">
