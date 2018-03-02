@@ -4173,8 +4173,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you have regularly generated &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOCs&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; using word processors, you might not see anything wrong with the default &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;TOC&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; design in Writer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135740Z" creationid="zerng07" creationdate="20180302T135740Z">
-        <seg>&lt;f0&gt;如果你常用文書處理器製作&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的話，你可能看不出Writer中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目錄&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;設計有什麼錯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143657Z" creationid="zerng07" creationdate="20180302T135740Z">
+        <seg>&lt;f0&gt;如果你常用文書處理器製作&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的話，可能看不出Writer中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目錄&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;設計有什麼錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24034,6 +24034,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141713Z" creationid="zerng07" creationdate="20180205T141704Z">
         <seg>加上了陰影後，你就有了自然邊緣而不需多加處理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increasing the size of the page number helps some, but &lt;f0&gt;the basic problem remains: T&lt;/f0&gt;he distance from some page entries still make&lt;f1&gt;s&lt;/f1&gt; the &lt;f2&gt;t&lt;/f2&gt;able of &lt;f3&gt;c&lt;/f3&gt;ontents harder to read than necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143955Z" creationid="zerng07" creationdate="20180302T143955Z">
+        <seg>加大頁碼的文字大小會有一些幫助，但還是有個&lt;f0&gt;很基本的問題：&lt;/f0&gt;頁碼和條目之間的距離依然讓目錄難閱讀。</seg>
       </tuv>
     </tu>
     <tu>
