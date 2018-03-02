@@ -1893,6 +1893,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;An outline is typically a way of planning a document that readers never see, so often whether the pre-defined format is exactly what you prefer won’t matter.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135720Z" creationid="Franklin Weng" creationdate="20180302T135720Z">
+        <seg>&lt;f0&gt;大綱是在規劃文件時常用的方法。因為這不是給讀者看的，所以預先定義的格式設定是不是你想要的樣子，其實一點也不重要。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Anchor it &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;To paragraph.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T041750Z" creationid="zerng07" creationdate="20180211T152348Z">
@@ -5251,6 +5259,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Organizer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of the paragraph style, set the style to use itself as the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Next style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140636Z" creationid="Franklin Weng" creationdate="20180302T140636Z">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Organizer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of the paragraph style, set the style to use itself as the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Next style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Wrap&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, s&lt;/f3&gt;elect&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Settings&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Through &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;and&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt; Options &gt; In Background.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T033343Z" creationid="zerng07" creationdate="20180213T022222Z">
@@ -6006,6 +6022,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select or make&lt;/f0&gt; a paragraph style for outlining.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140358Z" creationid="Franklin Weng" creationdate="20180302T140325Z">
+        <seg>為大綱&lt;f0&gt;選擇或建立&lt;/f0&gt;一個段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;AutoUpdate&lt;/f1&gt; &lt;f2&gt;check box&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;on the &lt;/f5&gt;&lt;f6&gt;Organizer&lt;/f6&gt; tab of &lt;f7&gt;a&lt;/f7&gt; style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025925Z" creationid="zerng07" creationdate="20171227T025925Z">
@@ -6514,8 +6538,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o use the paragraph &lt;f1&gt;style&lt;/f1&gt;, press&lt;f2&gt; Enter + Tab&lt;/f2&gt; to add a sub-level &lt;f3&gt;paragraph&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043407Z" creationid="MarkHung" creationdate="20180224T043407Z">
-        <seg>要使用段落樣式，按下Enter及Tab，增加次階的段落。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135216Z" creationid="MarkHung" creationdate="20180224T043407Z">
+        <seg>要使用段落樣式，按下 Enter + Tab，增加次階的段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9433,6 +9457,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Presumably, this restriction prevents confusion between a single paragraph style outline and the registered outline levels&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140536Z" creationid="Franklin Weng" creationdate="20180302T140536Z">
+        <seg>&lt;f2&gt;想當然爾，這個限制是為了避免你將單一段落樣式的大綱與預先定義好的大綱階層混在一起。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Previously,&lt;/f2&gt; a point was actually slightly less, &lt;f3&gt;but points remain defiantly non-metric and a sign of typographic expertise.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T170026Z" creationid="Franklin Weng" creationdate="20171231T132934Z">
@@ -9791,6 +9823,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175004Z" creationid="zerng07" creationdate="20171224T043559Z">
         <seg>&lt;f3&gt;等同手動以右鍵點按一個外框操作。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;See “&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;rf8&gt;Error: Reference source not found&lt;/rf8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135136Z" creationid="Franklin Weng" creationdate="20180302T135136Z">
+        <seg>&lt;f3&gt;請參考「&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;」，第 &lt;/f6&gt;&lt;f7&gt;&lt;rf8&gt;Error: Reference source not found&lt;/rf8&gt;&lt;/f7&gt;&lt;f9&gt;頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15558,6 +15598,16 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>依 6.0 版改寫（Outline &amp; Numbering）
+這一段不是很確定在講什麼</note>
+      <tuv lang="EN">
+        <seg>Create a list style &lt;f0&gt;and associate it with one of the pre-defined formats on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140312Z" creationid="Franklin Weng" creationdate="20180302T140312Z">
+        <seg>建立一個清單樣式&lt;f0&gt;並在「大綱與編號」標籤頁中將它與一個預先定義好的格式設定關聯起來。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Create a new line, and &lt;f0&gt;click&lt;/f0&gt; &lt;f1&gt;Insert &gt; Image&lt;/f1&gt; to add the image.</seg>
       </tuv>
@@ -15763,6 +15813,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T093727Z" creationid="zerng07" creationdate="20180211T093727Z">
         <seg>製作旁註和頁側標題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating outlines with a single paragraph style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135734Z" creationid="Franklin Weng" creationdate="20180302T135734Z">
+        <seg>用單一段落樣式來建立大綱Creating outlines with a single paragraph style</seg>
       </tuv>
     </tu>
     <tu>
@@ -26398,8 +26456,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Much of the time, the standard typewriter tab stops of half or one inch will be far &lt;f1&gt;more&lt;/f1&gt; than you need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040913Z" creationid="MarkHung" creationdate="20180224T040913Z">
-        <seg>大多時候，標準打字機半吋或一吋的定位點已經遠超過你所需。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134638Z" creationid="MarkHung" creationdate="20180224T040913Z">
+        <seg>大多時候，標準打字機半吋或一吋的定位點就已經夠用了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31855,8 +31913,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Tabs are set positions on a line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040829Z" creationid="MarkHung" creationdate="20180224T040829Z">
-        <seg>定位點是一行文字中設定好的位置。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134751Z" creationid="MarkHung" creationdate="20180224T040829Z">
+        <seg>定位點是用來設定一行中的位置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -34662,11 +34720,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>Franklin：「定位點開始的地方就叫做定位點或定位點。」
+我還是換句話說好了。
+</note>
       <tuv lang="EN">
         <seg>The place where a tab begins is called the tab position or tab stop.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134612Z" creationid="Franklin Weng" creationdate="20180302T134612Z">
-        <seg>The place where a tab begins is called the tab position or tab stop.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134912Z" creationid="Franklin Weng" creationdate="20180302T134612Z">
+        <seg>也就是要開始打字的地方。英文稱為 Tab Position 或 Tab Stop。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34683,6 +34744,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T113621Z" creationid="zerng07" creationdate="20180121T113621Z">
         <seg>預先定義的字元樣式和段落樣式應該已涵蓋你絕大多數所需，但你也可以根據需要再加入其他樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pre-defined formatting for outlines in the list styles window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135532Z" creationid="Franklin Weng" creationdate="20180302T135532Z">
+        <seg>清單樣式視窗中預先定義好的大綱格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35096,6 +35165,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104641Z" creationid="zerng07" creationdate="20171226T104641Z">
         <seg>&lt;f0&gt;格式化&lt;/f0&gt;工具列中的樣式清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sub-level &lt;f4&gt;paragraph &lt;/f4&gt;automatically uses the numbering pattern of the list style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135249Z" creationid="Franklin Weng" creationdate="20180302T135156Z">
+        <seg>次階&lt;f4&gt;段落&lt;/f4&gt;會自動使用清單樣式中的編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37297,6 +37374,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To raise the level of a &lt;f5&gt;paragraph &lt;/f5&gt;style, press &lt;f6&gt;Enter + Tab + Shift.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135511Z" creationid="Franklin Weng" creationdate="20180302T135511Z">
+        <seg>按下 Enter + Tab + Shift 可以提升段落的階層樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To record macros &lt;f0&gt;in LibreOffice&lt;/f0&gt;, you first need to select &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced &gt; Enable Macro Recording (Limited)&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;The menu item&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Record Macro&lt;/f6&gt; is then listed under&lt;f7&gt; Tools &gt; Macro&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;s&lt;/f9&gt;&lt;/f8&gt; without any need to re-start LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T174200Z" creationid="zerng07" creationdate="20171226T174200Z">
@@ -37357,6 +37442,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145351Z" creationid="Jeff Huang" creationdate="20180127T134156Z">
         <seg>設定自動帶入頁首或頁尾的步驟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up a single paragraph &lt;f0&gt;style&lt;/f0&gt; &lt;f1&gt;for &lt;/f1&gt;outlin&lt;f2&gt;ing&lt;/f2&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135757Z" creationid="Franklin Weng" creationdate="20180302T135757Z">
+        <seg>用單一段落樣式來建立大綱的做法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41097,6 +41190,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T121529Z" creationid="Ｖ字龍" creationdate="20180217T121529Z">
         <seg>你不能在其中使用小數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot use the &lt;f1&gt;Heading 1-10 &lt;/f1&gt;styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140419Z" creationid="Franklin Weng" creationdate="20180302T140419Z">
+        <seg>你不能使用&lt;f1&gt;標題 1-10 &lt;/f1&gt;樣式。</seg>
       </tuv>
     </tu>
     <tu>
