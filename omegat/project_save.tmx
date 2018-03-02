@@ -13192,6 +13192,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avoiding the default TOC &lt;f0&gt;design&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134345Z" creationid="zerng07" creationdate="20180302T134335Z">
+        <seg>避免預設的目錄&lt;f0&gt;設計&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avoiding widows &lt;f0&gt;and&lt;/f0&gt; orphans</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T035022Z" creationid="zerng07" creationdate="20180123T034559Z">
@@ -25600,6 +25608,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual spaces are inelegant, but &lt;f0&gt;can sometimes be a workaround to the one-tab limit.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134319Z" creationid="zerng07" creationdate="20180302T134312Z">
+        <seg>手動加空格的做法有點不優雅，但&lt;f0&gt;有時候是單一製表跳格限制的變通方案。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually format a table as you choose, then, with the cursor anywhere in the table:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T152409Z" creationid="Jeff Huang" creationdate="20180212T131933Z">
@@ -34931,6 +34947,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The standard word-processor design for a Table of Contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134403Z" creationid="zerng07" creationdate="20180302T134403Z">
+        <seg>目錄的文書處理器標準設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The start of a new paragraph.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004410Z" creationid="zerng07" creationdate="20180125T063933Z">
@@ -40263,6 +40287,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142749Z" creationid="Franklin Weng" creationdate="20171223T133702Z">
         <seg>你可以在範本路徑中新增其他目錄，用半形分號分隔即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add manual spaces and text as well as building blocks to an entry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134158Z" creationid="zerng07" creationdate="20180302T134134Z">
+        <seg>你可以在條目中加入手動空格、文字、建構方塊等。</seg>
       </tuv>
     </tu>
     <tu>
