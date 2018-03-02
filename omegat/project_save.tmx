@@ -31303,8 +31303,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Styles already assigned to outline levels cannot be given different outline levels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073737Z" creationid="zerng07" creationdate="20180302T073737Z">
-        <seg>已經指派給大綱層級的樣式就不能再給其他大綱層級使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073746Z" creationid="zerng07" creationdate="20180302T073737Z">
+        <seg>已經指派過給大綱層級的樣式就不能再給其他大綱層級使用。</seg>
       </tuv>
     </tu>
     <tu>
