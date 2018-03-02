@@ -13488,6 +13488,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below the field are the unused building blocks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125720Z" creationid="zerng07" creationdate="20180302T125720Z">
+        <seg>欄位下方是未使用到的建構方塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below the image in the top row, apply the &lt;f0&gt;Image Spacer&lt;/f0&gt; paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134205Z" creationid="zerng07" creationdate="20180210T134205Z">
@@ -30570,6 +30578,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Similarly, when you delete a block from the field, it reappears in the unused list &lt;f0&gt;below the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Structure&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130012Z" creationid="zerng07" creationdate="20180302T130012Z">
+        <seg>一樣，當你從欄位中刪除一個方塊之後，它會在&lt;f1&gt;&lt;f2&gt;結構&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;欄位&lt;/f3&gt;&lt;f0&gt;下方&lt;/f0&gt;的未使用清單中再次出現。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>* 無視 f8
 * Workaround f10
 </note>
@@ -39216,6 +39232,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T093521Z" creationid="Franklin Weng" creationdate="20180120T121028Z">
         <seg>在你上臺&lt;f0&gt;簡報時&lt;/f0&gt;，把滑鼠移到差不多第一行開頭的地方，點按&lt;f1&gt;一下&lt;/f1&gt;滑鼠就出現一行，製造出文字自動出現的神奇效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you add a block to the field, it &lt;f0&gt;may become grayed out and unselectable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125828Z" creationid="zerng07" creationdate="20180302T125828Z">
+        <seg>當你將一個方塊加到欄位中時，它&lt;f0&gt;會轉為灰色並呈現無法選取的狀態。</seg>
       </tuv>
     </tu>
     <tu>
