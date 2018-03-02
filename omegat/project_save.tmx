@@ -9795,6 +9795,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;However, two ragged margins looks cluttered.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T155912Z" creationid="zerng07" creationdate="20180302T155912Z">
+        <seg>&lt;f3&gt;不過，有兩個不整齊的邊看起來很亂。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;If you select this option&lt;/f3&gt;, your document will &lt;f4&gt;use&lt;/f4&gt; the image’s original file each time it loads.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065822Z" creationid="zerng07" creationdate="20180206T065822Z">
@@ -27709,6 +27717,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T041308Z" creationid="Jeff Huang" creationdate="20180126T033540Z">
         <seg>較流行的理論認為理想的邊距設定要基於黃金比例，一組首次由歐幾里德 (Euclid) 完整描述的比例，&lt;f2&gt;據說&lt;/f2&gt;&lt;f3&gt;人&lt;/f3&gt;眼自然而然就會喜歡看見符合這個比例的東西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One way to avoid ragged right looking cluttered is to format the Contents paragraph styles so that all entries have the same margin on the left.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160103Z" creationid="zerng07" creationdate="20180302T160103Z">
+        <seg>其中一個避免讓右邊不整齊看起來雜亂方法是調整「目錄」段落樣式的格式設定，讓所有條目的左邊有相同的邊。</seg>
       </tuv>
     </tu>
     <tu>
