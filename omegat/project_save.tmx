@@ -3913,6 +3913,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;However, this solution hides the hierarchal structure of the headings.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160222Z" creationid="zerng07" creationdate="20180302T160222Z">
+        <seg>&lt;f0&gt;不過，這個解法會隱藏標題的階層結構。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, to anyone with design knowledge, the result is a failed design.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135939Z" creationid="zerng07" creationdate="20180302T135939Z">
@@ -9797,8 +9805,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;However, two ragged margins looks cluttered.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T155912Z" creationid="zerng07" creationdate="20180302T155912Z">
-        <seg>&lt;f3&gt;不過，有兩個不整齊的邊看起來很亂。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160115Z" creationid="zerng07" creationdate="20180302T155912Z">
+        <seg>&lt;f3&gt;不過，左右兩邊都不整齊的話看起來很亂。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27723,8 +27731,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>One way to avoid ragged right looking cluttered is to format the Contents paragraph styles so that all entries have the same margin on the left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160103Z" creationid="zerng07" creationdate="20180302T160103Z">
-        <seg>其中一個避免讓右邊不整齊看起來雜亂方法是調整「目錄」段落樣式的格式設定，讓所有條目的左邊有相同的邊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160145Z" creationid="zerng07" creationdate="20180302T160103Z">
+        <seg>避免讓右邊不整齊看起來雜亂的方法之一，是調整「目錄」段落樣式的格式設定，讓所有條目的左邊對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29277,6 +29285,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042749Z" creationid="MarkHung" creationdate="20180224T042749Z">
         <seg>從頭開始編號段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reverse the order of the text entries and the page numbers, with a tab or a couple of manual spaces between them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160355Z" creationid="zerng07" creationdate="20180302T160355Z">
+        <seg>所以，可以反轉文字條目和頁碼的順序，並在兩者中間放一個製表跳格 (Tab) 或一些手動空白。</seg>
       </tuv>
     </tu>
     <tu>
