@@ -12806,6 +12806,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>As you design, remember:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130540Z" creationid="zerng07" creationdate="20180302T130540Z">
+        <seg>在你設計時，請記得：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>5.4稱為貼附線 snap line，6.0稱為貼附導線 snap guide。但是，這裡描述的貼附線功能在 5.4 和 6.0 都被「網格」取代了。</note>
       <tuv lang="EN">
         <seg>As you drag an object, it appears in snap lines so that you can position it more exactly in relation to other objects.&lt;/f0&gt;</seg>
@@ -38178,6 +38186,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042237Z" creationid="MarkHung" creationdate="20180224T042237Z">
         <seg>使用首字放大字元樣式來定義字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;LS&lt;/f0&gt; (Link Start) at the beginning of the &lt;f1&gt;Entry&lt;/f1&gt; field and the &lt;f2&gt;LE&lt;/f2&gt; (Link End&lt;f3&gt;)&lt;/f3&gt; at the end of the field to make the entire entry a hyperlink.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130731Z" creationid="zerng07" creationdate="20180302T130731Z">
+        <seg>讓&lt;f0&gt;LS&lt;/f0&gt;（連結開始，Link Start）放在&lt;f1&gt;條目&lt;/f1&gt;欄位的開頭處，還有&lt;f2&gt;LE&lt;/f2&gt;（連結結束，Link End&lt;f3&gt;）&lt;/f3&gt;放在欄位的結尾處，才能確保整個條目是個超連結。</seg>
       </tuv>
     </tu>
     <tu>
