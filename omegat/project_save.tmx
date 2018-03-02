@@ -10709,6 +10709,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>A design that does not disassociate the text entries and the page number in the first place is far more efficient, and &lt;f2&gt;simpler&lt;/f2&gt; as well.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T141927Z" creationid="zerng07" creationdate="20180302T141927Z">
+        <seg>不會拆散文字條目與頁碼間關聯性的設計，從一開始就更有效率、更為輕鬆。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>我在 LibreOffice 5.4.4, GNOME on Wayland 環境試不出來。</note>
       <tuv lang="EN">
         <seg>A dialog window opens so that you can give the new style a title.&lt;/f3&gt;</seg>
