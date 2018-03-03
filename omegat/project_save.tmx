@@ -2995,11 +2995,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <note>Disable 關閉的應該是「工具 &gt; 自動校正 &gt; 在輸入之時」</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Disable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; AutoCorrect Options&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in a multi-language document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032558Z" creationid="Franklin Weng" creationdate="20180303T032558Z">
-        <seg>&lt;f0&gt;在多語系的文件中關閉&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 自動校正選項&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T072121Z" creationid="Franklin Weng" creationdate="20180303T032558Z">
+        <seg>&lt;f0&gt;在多語系的文件中關閉&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 自動校正 &gt; 在輸入之時&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6148,6 +6149,15 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T105213Z" creationid="Jeff Huang" creationdate="20180116T070541Z">
         <seg>&lt;f0&gt;將姓名與公司這兩項和其他聯絡資訊分開沒有什麼意義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>不確定這一段在講什麼</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Set &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;URL&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;s or snippets of code to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;none i&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;n the&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Language field &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;to spare yourself extra queries while spell checking.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T081729Z" creationid="Franklin Weng" creationdate="20180303T081729Z">
+        <seg>在「工具 &gt; 語言」中將「選取」、「段落」與「所有文字」的拼字檢查都設成「無（不檢查拼字）」以避免無謂的拼字檢查動作。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22427,6 +22437,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T103707Z" creationid="Jeff Huang" creationdate="20180116T062919Z">
         <seg>如果你沒有使用某個設計&lt;f0&gt;元素&lt;/f0&gt;的理由，請&lt;f1&gt;將之刪除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you don’t use Autocorrect, uncheck the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Enable word completion&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Collect words&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; boxes at &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Tools &gt; AutoCorrect Options &gt; Word completion&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T072254Z" creationid="Franklin Weng" creationdate="20180303T071829Z">
+        <seg>如果不使用自動校正，在「工具 &gt; 自動校正選項 &gt; 自動補完單字」中將「啟用字詞補完」跟「蒐集字詞」兩個選項也都關掉。&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
