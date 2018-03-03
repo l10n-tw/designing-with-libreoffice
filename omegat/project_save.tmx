@@ -5493,6 +5493,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Other outline levels cannot display the chapter number, even if you add the building block to its structure on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Entries&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132738Z" creationid="zerng07" creationdate="20180303T132738Z">
+        <seg>&lt;f0&gt;即便你有將建構方塊加到「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;條目&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁的結構中，其他大綱層級仍無法顯示章節號。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Other paragraphs have a number of lines that do not fit Writer’s settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T130549Z" creationid="Franklin Weng" creationdate="20180126T130520Z">
