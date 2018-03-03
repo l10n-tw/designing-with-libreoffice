@@ -14458,6 +14458,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, outline level&lt;f0&gt;s&lt;/f0&gt; are mapped to the &lt;f1&gt;Heading 1-10&lt;/f1&gt; paragraph styles.&lt;f2&gt; Outline &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;L&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;evel 1 &lt;/f5&gt;is mapped to &lt;f6&gt;Heading 1&lt;/f6&gt;, &lt;f7&gt;and&lt;/f7&gt; so on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030749Z" creationid="Franklin Weng" creationdate="20180303T030749Z">
+        <seg>預設行為中，大綱層級會與標題 1-10 的段落樣式相對應。大綱層級 1 就對應到標題 1，依此類推。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, paragraphs run from the left margin to the right margin – or, &lt;f0&gt;at least&lt;/f0&gt;, to a &lt;f1&gt;region&lt;/f1&gt; just before the &lt;f2&gt;right &lt;/f2&gt;margin that LibreOffice must reach before starting a new line, &lt;f3&gt;with or without hyphenation.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T004349Z" creationid="zerng07" creationdate="20180125T063536Z">
