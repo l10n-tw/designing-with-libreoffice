@@ -8130,6 +8130,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can &lt;f1&gt;also &lt;/f1&gt;add a special character or dingbat between the text and page number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T125624Z" creationid="zerng07" creationdate="20180303T125624Z">
+        <seg>你也可以在文字和頁碼之間放特殊字元或雜錦圖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou can have a character and a paragraph style applying to the same selection, but not two different character &lt;f1&gt;styles &lt;/f1&gt;or two different paragraph styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T031720Z" creationid="zerng07" creationdate="20171219T031720Z">
