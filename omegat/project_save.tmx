@@ -34956,6 +34956,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main difference is that it is built from tags of individual words or phrases, rather than from paragraph styles, which would not provide &lt;f0&gt;the type of information that an index requires.&lt;/f0&gt; These tags display in the document as fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135013Z" creationid="zerng07" creationdate="20180303T135013Z">
+        <seg>主要的差異在於索引是由個別單字或字彙的標籤構成， 而不是段落樣式；段落樣式不會提供&lt;f0&gt;索引所要的資訊類型。&lt;/f0&gt;這些標籤在文件中是以欄位變數的形式顯現。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main disadvantage of marginalia is that each one must be added manually.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T144722Z" creationid="zerng07" creationdate="20180211T144722Z">
