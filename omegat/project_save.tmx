@@ -4662,6 +4662,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Instead, you can automate the creation of index entries by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Apply to all similar texts&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to add other occurrences of an entry in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135804Z" creationid="zerng07" creationdate="20180303T135522Z">
+        <seg>&lt;f0&gt;所以，你可以選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;套用至所有相似文字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」來自動製作索引條目，將條目文字在文件中的其他出現處也一併加進去。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Instead&lt;/f0&gt; use the &lt;f1&gt;Add&lt;/f1&gt; button to &lt;f2&gt;apply&lt;/f2&gt; your own formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152416Z" creationid="Franklin Weng" creationdate="20180216T150143Z">
@@ -7186,8 +7194,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The simplest way to add an entry is by selecting words or phrases and marking them with&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert &gt; Indexes and Tables &gt; Index Entry.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; However, it is laborious and time-consuming.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135450Z" creationid="zerng07" creationdate="20180303T135450Z">
-        <seg>&lt;f0&gt;加入條目的最簡單方法是：選取單字或字彙後用&lt;/f0&gt;「&lt;f2&gt;&lt;f3&gt;插入 &gt; 目錄與索引 &gt; 索引條目&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」做標記。不過，這很費功而且耗時。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135526Z" creationid="zerng07" creationdate="20180303T135450Z">
+        <seg>&lt;f0&gt;加入條目的最簡單方法是，選取單字或字彙後用&lt;/f0&gt;「&lt;f2&gt;&lt;f3&gt;插入 &gt; 目錄與索引 &gt; 索引條目&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」做標記。不過，這既費功又耗時。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
