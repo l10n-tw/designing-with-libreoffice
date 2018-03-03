@@ -1633,6 +1633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;dding a &lt;f1&gt;chapter numbe&lt;/f1&gt;r</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T125714Z" creationid="zerng07" creationdate="20180303T125714Z">
+        <seg>加入&lt;f1&gt;章節號&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;nchor the image in the header &lt;f1&gt;or footer&lt;/f1&gt;, but place &lt;f2&gt;the image&lt;/f2&gt; outside the header &lt;f3&gt;or footer,&lt;/f3&gt; &lt;f4&gt;setting the anchor to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;As Paragraph&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;As Character.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; You can then position the image anywhere on the page, and it will be repeated each time the page style is used.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032101Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
