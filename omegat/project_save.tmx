@@ -503,6 +503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;The standard format for a block quotation &lt;f1&gt;is&lt;/f1&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082350Z" creationid="Franklin Weng" creationdate="20180303T082350Z">
+        <seg>&lt;/f0&gt;引文區塊的標準格式設定為：&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Two line &lt;f1&gt;heights&lt;/f1&gt; will often be ideal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121542Z" creationid="Jeff Huang" creationdate="20180210T034211Z">
@@ -3009,6 +3017,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185447Z" creationid="Franklin Weng" creationdate="20180204T185447Z">
         <seg>&lt;f0&gt;不要&lt;/f0&gt;太糾結於&lt;f1&gt;抽象的美學。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Do not use&lt;/f0&gt; quotation marks, unless someone is &lt;f1&gt;quoted directly or speaking&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082433Z" creationid="Franklin Weng" creationdate="20180303T082433Z">
+        <seg>&lt;f0&gt;不要用&lt;/f0&gt;引號，除非直接指明某人或是引文為他所說的話。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7516,6 +7532,14 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Typically, the paragraph style for a block quote is the child of the body text style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082328Z" creationid="Franklin Weng" creationdate="20180303T082328Z">
+        <seg>&lt;f0&gt;通常，引文區塊的段落樣式會是從本文樣式衍生出來的子樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>這章的垃圾標籤怎麼這麼多啊啊啊啊啊！</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Typically,&lt;/f0&gt; you will want at least two lines’ spacing &lt;f1&gt;as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Space to text&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;,&lt;/f4&gt; and at least one line between the &lt;f5&gt;&lt;f6&gt;S&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;eparator &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;line&lt;/f9&gt;&lt;/f8&gt; and the &lt;f10&gt;&lt;f11&gt;Spacing to&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; footnote &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;contents&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;.&lt;/f15&gt;</seg>
@@ -7682,6 +7706,22 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160648Z" creationid="Jeff Huang" creationdate="20180129T131758Z">
         <seg>&lt;f0&gt;只有在間距太緊單靠空格會不好閱讀時，才使用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;分隔線&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use a&lt;/f0&gt;n equal indentation on the left and right side&lt;f1&gt;s&lt;/f1&gt; of the paragraph, &lt;f2&gt;based on the line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082626Z" creationid="Franklin Weng" creationdate="20180303T082626Z">
+        <seg>在段落的左右側&lt;f0&gt;使用&lt;/f0&gt;相同的縮排大小，&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;這個縮排大小要根據行間距而定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use t&lt;/f0&gt;he same font and font size as for the body text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082502Z" creationid="Franklin Weng" creationdate="20180303T082502Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;跟本文相同的字型與字型大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12021,6 +12061,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All forms of academic quotation have a special format for long quotations – that is, quotations that fill more than three lines or are longer than about 100 words.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082035Z" creationid="Franklin Weng" creationdate="20180303T082016Z">
+        <seg>所有學術論文的長引文（超過三行、一百個字的引文）都會需要一種特殊的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All gradients are defined by the colors they begin with &lt;f0&gt;(From)&lt;/f0&gt; and end with &lt;f1&gt;(To)&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;G&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;radients can also have&lt;/f5&gt; a border, at which the current color partially fades, as well as an angle.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141346Z" creationid="Jeff Huang" creationdate="20180122T134436Z">
@@ -15968,6 +16016,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180212T125838Z" creationid="Jeff Huang" creationdate="20180212T125838Z">
         <seg>建立自動格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a block quote style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T081853Z" creationid="Franklin Weng" creationdate="20180303T081853Z">
+        <seg>建立引文區塊樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -25997,6 +26053,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Making the font size smaller &lt;f1&gt;only makes the block harder to read.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082528Z" creationid="Franklin Weng" creationdate="20180303T082528Z">
+        <seg>把字變小&lt;f1&gt;只會讓區塊中的文字更難閱讀。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Making the text smaller than the body text only reduces the usefulness of headers and footers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134936Z" creationid="Jeff Huang" creationdate="20180127T035649Z">
@@ -29147,6 +29211,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quotations that meet this criteria are presented in a block so that they are easier to read.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082053Z" creationid="Franklin Weng" creationdate="20180303T082028Z">
+        <seg>達到此條件的引文會放在一個區塊中以方便閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&lt;/f1&gt;eplace it with the simplest &lt;f2&gt;possible &lt;/f2&gt;alternative.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T103810Z" creationid="Jeff Huang" creationdate="20180116T063115Z">
@@ -29175,6 +29247,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151458Z" creationid="Franklin Weng" creationdate="20171212T121339Z">
         <seg>重新接回樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Readers may &lt;f0&gt;wonder if the emphasis is misplaced &lt;/f0&gt;if a block quot&lt;f1&gt;ation&lt;/f1&gt; is not especially relevant.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082301Z" creationid="Franklin Weng" creationdate="20180303T082301Z">
+        <seg>如果特別放在區塊中的引文並沒有特別重要或與本文相關，讀者可能會懷疑是不是劃錯重點了。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33569,6 +33649,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T101512Z" creationid="Franklin Weng" creationdate="20180105T115806Z">
         <seg>&lt;f0&gt;Lorem Ipsum&lt;/f0&gt;文章背後的假想為，除非你會讀拉丁文，否則你無法理解文章的內容，如此便可更專注於格式設定上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The assumption is that a long quote would not be used unless it was important.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082135Z" creationid="Franklin Weng" creationdate="20180303T082135Z">
+        <seg>這樣的做法是假設會引用參考的引文一定是很重要的。</seg>
       </tuv>
     </tu>
     <tu>
