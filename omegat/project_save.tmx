@@ -10817,6 +10817,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents that adds the chapter number as a prefix.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132841Z" creationid="zerng07" creationdate="20180303T132841Z">
+        <seg>將章節號加到條目之前的目錄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;two-&lt;/f0&gt;column &lt;f1&gt;t&lt;/f1&gt;able of &lt;f2&gt;c&lt;/f2&gt;ontents lessens the &lt;f3&gt;space&lt;/f3&gt; between text entries and page numbers.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T150102Z" creationid="zerng07" creationdate="20180302T150102Z">
@@ -13118,6 +13126,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T153542Z" creationid="Jeff Huang" creationdate="20180212T134348Z">
         <seg>作為自動格式的替代方案，在某些版本的LibreOffice，你可以改將表格儲存在「&lt;f1&gt;編輯 &gt; 自動圖文集&lt;/f1&gt;」中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As an alternative, ignore the building blocks and attach a list style to the &lt;f0&gt;Contents 1&lt;/f0&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132952Z" creationid="zerng07" creationdate="20180303T132952Z">
+        <seg>至於替代做法，請直接忽略建構方塊，並將清單樣式附加到「&lt;f0&gt;目錄 1&lt;/f0&gt;」段落樣式中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34903,6 +34919,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110208Z" creationid="zerng07" creationdate="20171226T110208Z">
         <seg>這個樣式清單的優勢在於提供各種段落樣式的預覽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>中文會是「第X章」，但就不能這樣用了，所以維持原文）</note>
+      <tuv lang="EN">
+        <seg>The list style could also be used to add the word “Chapter” before the number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T133233Z" creationid="zerng07" creationdate="20180303T133233Z">
+        <seg>你也可以利用清單樣式在數字前加入「Chapter」之類的文字。（</seg>
       </tuv>
     </tu>
     <tu>
