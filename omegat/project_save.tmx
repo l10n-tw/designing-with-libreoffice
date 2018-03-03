@@ -7184,6 +7184,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The simplest way to add an entry is by selecting words or phrases and marking them with&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert &gt; Indexes and Tables &gt; Index Entry.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; However, it is laborious and time-consuming.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135450Z" creationid="zerng07" creationdate="20180303T135450Z">
+        <seg>&lt;f0&gt;加入條目的最簡單方法是：選取單字或字彙後用&lt;/f0&gt;「&lt;f2&gt;&lt;f3&gt;插入 &gt; 目錄與索引 &gt; 索引條目&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」做標記。不過，這很費功而且耗時。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The space should be a multiple of the line-spacing.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T083511Z" creationid="zerng07" creationdate="20180205T083511Z">
