@@ -1680,6 +1680,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>「增強的語言設定」有實際用處嗎？</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Adjust the settings for East Asian or Bi-Directional Languages at &lt;/f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Languages &gt; Enhanced language support&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032212Z" creationid="Franklin Weng" creationdate="20180303T032212Z">
+        <seg>&lt;f0&gt;東亞地區或是一些雙向書寫的語言，可以調整&lt;/f0&gt;「&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 語言 &gt; 增強的語言設定」。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adjust the size of the numbers using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Options &gt; Character Style.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
@@ -4046,6 +4055,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T153552Z" creationid="Franklin Weng" creationdate="20180106T041157Z">
         <seg>字型大小與間距一次只增加一點點就好，然後用不同的組合去做&lt;f2&gt;系統性測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;nstall a font for &lt;f1&gt;a&lt;/f1&gt; language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031810Z" creationid="Franklin Weng" creationdate="20180303T031810Z">
+        <seg>為這個語言安裝字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8088,6 +8105,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can change these mappings, or add another paragraph style to an outline level in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline level&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Outline &amp; Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030849Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
+        <seg>&lt;f0&gt;你可以改變這些對應，或是新增另一個段落樣式到「大綱與編號 &gt; 大綱層級」欄位中的某一個層級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can delete custom or imported templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133141Z" creationid="Franklin Weng" creationdate="20171223T124131Z">
@@ -9117,6 +9142,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T123415Z" creationid="Jeff Huang" creationdate="20180128T130346Z">
         <seg>位置轉&lt;f2&gt;90 度&lt;/f2&gt;的文字會由下面開始往上顯示，而位置轉&lt;f3&gt;270 度&lt;/f3&gt;的則是從上面開始&lt;f4&gt;往下&lt;/f4&gt;顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;A &lt;/f2&gt;Greek &lt;f3&gt;style&lt;/f3&gt; is of limited use if your installation of LibreOffice has no Greek font installed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031851Z" creationid="Franklin Weng" creationdate="20180303T031851Z">
+        <seg>一個希臘語言的樣式如果 LibreOffice 中沒有安裝希臘字型，那這樣式的作用就很有限了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12487,6 +12520,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T104752Z" creationid="Franklin Weng" creationdate="20180105T130729Z">
         <seg>字型選擇上的另一個重要觀點是&lt;f0&gt;內文字型的色彩。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An international English keyboard &lt;f0&gt;is&lt;/f0&gt; adequate for most Western European languages.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031602Z" creationid="Franklin Weng" creationdate="20180303T030915Z">
+        <seg>大部份西歐國家以及台灣，使用通用國際英文鍵盤就可以了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30027,6 +30068,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a system keyboard layout for the language.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030919Z" creationid="Franklin Weng" creationdate="20180303T030913Z">
+        <seg>為這個語言選擇一個系統鍵盤配置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select all the cells in the table, and select &lt;f0&gt;Table &gt; Spacing &gt; Below.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121559Z" creationid="Jeff Huang" creationdate="20180210T034133Z">
@@ -40354,6 +40403,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040311Z" creationid="MarkHung" creationdate="20180224T040311Z">
         <seg>缺乏強烈對比，你的文件失去可讀性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without a suitable keyboard layout, you have to &lt;f1&gt;rely on &lt;/f1&gt;&lt;f2&gt;Insert &gt; Special character&lt;/f2&gt; &lt;f3&gt;for accents and umlauts.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031757Z" creationid="Franklin Weng" creationdate="20180303T031757Z">
+        <seg>如果沒有適當的鍵盤配置，有一些重音或變音字母就得用「插入 &gt; 特殊字元」來輸入了。</seg>
       </tuv>
     </tu>
     <tu>
