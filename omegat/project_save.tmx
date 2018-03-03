@@ -24290,6 +24290,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same circumstances in a master document, each top outline level &lt;f1&gt;continues&lt;/f1&gt; the numbering from the previous &lt;f2&gt;heading at the same outline level.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132536Z" creationid="zerng07" creationdate="20180303T132536Z">
+        <seg>而同樣情況下的主控文件中，各個最上層大綱層級則會從&lt;f2&gt;相同大綱層級的上個標題&lt;f1&gt;繼續&lt;/f1&gt;編號。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the same way, headings let you generate a &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents &lt;f2&gt;with a minimum of settings&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040611Z" creationid="zerng07" creationdate="20171212T040604Z">
