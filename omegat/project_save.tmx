@@ -33974,6 +33974,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The building block draws its information from the top outline level (usually, the &lt;f0&gt;Heading 1&lt;/f0&gt; paragraph style) if the outline level or the paragraph style includes numbering.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132149Z" creationid="zerng07" creationdate="20180303T132149Z">
+        <seg>如果大綱層級或段落樣式有標編號的話，建構方塊會根據最上層大綱層級寫入資訊（一般是&lt;f0&gt;標題 1&lt;/f0&gt;段落樣式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The bullets on the &lt;f0&gt;Image&lt;/f0&gt; tab are too old-fashioned to use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T120512Z" creationid="Jeff Huang" creationdate="20180203T030551Z">
@@ -33986,6 +33994,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213026Z" creationid="Franklin Weng" creationdate="20180206T213026Z">
         <seg>&lt;/f0&gt;控制展開或隱藏的地方在標籤上方的&lt;f1&gt;左側&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chapter number building block can only be used in the top level entry in the table of contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T131710Z" creationid="zerng07" creationdate="20180303T131629Z">
+        <seg>章節號的建構方塊僅可用在目錄的最上層條目。</seg>
       </tuv>
     </tu>
     <tu>
