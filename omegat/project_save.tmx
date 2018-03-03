@@ -5419,6 +5419,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Levels &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;de&lt;/f3&gt;fault&lt;f4&gt; &lt;/f4&gt;to Heading paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T021432Z" creationid="Franklin Weng" creationdate="20180303T021347Z">
+        <seg>將&lt;f0&gt;大綱&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;層級&lt;/f2&gt;&lt;/f1&gt;設定成標題段落樣式的預設值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Outline Level&lt;/f0&gt; is set to &lt;f1&gt;Body Text.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043650Z" creationid="MarkHung" creationdate="20180224T043650Z">
@@ -10253,6 +10261,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;Y&lt;/f5&gt;ou can add other paragraph s&lt;f6&gt;tyles&lt;/f6&gt; &lt;f7&gt;using&lt;/f7&gt; the &lt;f8&gt;Outline Level &lt;/f8&gt;field on their &lt;f9&gt;Outline &amp; Numbering&lt;/f9&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T021624Z" creationid="Franklin Weng" creationdate="20180303T021624Z">
+        <seg>你可以在「大綱與編號」標籤頁的「大綱層級」中新增其他段落樣式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f5&gt;You will especially appreciate the convenience of tables if your document is likely to last several years and through several versions of LibreOffice.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T122828Z" creationid="Jeff Huang" creationdate="20180126T135923Z">
@@ -11497,6 +11513,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T124549Z" creationid="zerng07" creationdate="20180209T124549Z">
         <seg>加入&lt;f0&gt;圖表標示&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding &lt;f0&gt;paragraph styles to &lt;/f0&gt;outline levels</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T021357Z" creationid="Franklin Weng" creationdate="20180303T021110Z">
+        <seg>將&lt;f0&gt;段落樣式新增到&lt;/f0&gt;大綱層級中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18374,6 +18398,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;o&lt;/f1&gt;utline &lt;f2&gt;l&lt;/f2&gt;evels &lt;t3/&gt;determine which paragraph styles are displayed by default in the Navigator &lt;f4&gt;under &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Headings&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;,&lt;/f7&gt; and in a table of contents &lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030347Z" creationid="Franklin Weng" creationdate="20180303T030347Z">
+        <seg>例如，大綱層級會決定哪一個段落樣式預設顯示在「助手」視窗中的「標題」之下，以及在目錄之中。&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;page numbers will be more noticeable if placed by the outer margin of each page.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090640Z" creationid="Jeff Huang" creationdate="20171212T035607Z">
@@ -23911,6 +23943,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the drop-down list for the &lt;f0&gt;&lt;f1&gt;Outline Level &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;field on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Outline &amp; Numbering&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;tab, all paragraph styles not assigned to an outline level are &lt;f6&gt;identified&lt;/f6&gt; as &lt;f7&gt;Body Text.&lt;/f7&gt; This designation &lt;f8&gt;has nothing to do with&lt;/f8&gt; the &lt;f9&gt;Text Body&lt;/f9&gt; &lt;f10&gt;paragraph style.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T021847Z" creationid="Franklin Weng" creationdate="20180303T021847Z">
+        <seg>在「大綱與編號」標籤頁中，「大綱層級」欄位的下拉式選單裡，所有未被指定給某一個大綱層級的段落樣式都會被認定為「內文」。這個指定跟「內文」段落樣式無關。&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the end, I concluded that I was using Raleway Thin for a purpose that it was simply not intended for, and switched to Raleway’s Regular weight instead.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T140027Z" creationid="Franklin Weng" creationdate="20180106T044140Z">
@@ -28235,6 +28275,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041722Z" creationid="MarkHung" creationdate="20180224T041722Z">
         <seg>否則，你須要分別在不同的段落樣式中設定定位點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Outline &lt;f0&gt;levels are&lt;/f0&gt; a concept used throughout LibreOffice to automate advanced features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T022005Z" creationid="Franklin Weng" creationdate="20180303T022005Z">
+        <seg>大綱層級是一種在 LibreOffice 中自動化進階功能的一種概念。</seg>
       </tuv>
     </tu>
     <tu>
