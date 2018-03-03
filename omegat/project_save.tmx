@@ -20462,6 +20462,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, although the building blocks on the &lt;f4&gt;Entry&lt;/f4&gt; tab include a chapter number, your ability to add chapter numbers in a table of contents is limited.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T131620Z" creationid="zerng07" creationdate="20180303T131620Z">
+        <seg>雖然「&lt;f4&gt;條目&lt;/f4&gt;」標籤頁中的建構方塊有「E#」章節號，不過在目錄添入章節號的功能還是有限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, another practical reason for choosing template names carefully is that, if you copy a file to another computer, you &lt;f0&gt;might &lt;/f0&gt;have a naming conflict.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T083522Z" creationid="Franklin Weng" creationdate="20171213T132848Z">
@@ -23476,6 +23484,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T123554Z" creationid="Jeff Huang" creationdate="20180126T131226Z">
         <seg>在Writer中，頁首頁尾的空間和邊距是分開算的，不會放到邊距的空間內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Writer, you can add chapter numbers to page numbers in the body of a document (see “&lt;rf0&gt;Error: Reference source not found&lt;/rf0&gt;,” &lt;f1&gt;page &lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T125857Z" creationid="zerng07" creationdate="20180303T125857Z">
+        <seg>在Writer裡，你可以在文件內文中把章節號加到頁碼上（請見〈&lt;rf0&gt;Error: Reference source not found&lt;/rf0&gt;〉，&lt;f1&gt;第&lt;/f1&gt;&lt;f2&gt;&lt;rf3&gt;Error: Reference source not found&lt;/rf3&gt;頁&lt;/f2&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
