@@ -2795,6 +2795,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create multiple styles with similar names in a multi-language document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032303Z" creationid="Franklin Weng" creationdate="20180303T032303Z">
+        <seg>&lt;f0&gt;在一個多語系文件中，建立名稱相似但套用在不同語言的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Creating a t&lt;/f0&gt;able &lt;f1&gt;of contents&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150948Z" creationid="zerng07" creationdate="20180227T150948Z">
@@ -2984,6 +2992,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T033240Z" creationid="Jeff Huang" creationdate="20180116T032215Z">
         <seg>&lt;f0&gt;圖表與配置圖的設計，與文字頁面或試算表相比來說限制較少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Disable &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; AutoCorrect Options&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in a multi-language document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032558Z" creationid="Franklin Weng" creationdate="20180303T032558Z">
+        <seg>&lt;f0&gt;在多語系的文件中關閉&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;工具 &gt; 自動校正選項&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18783,6 +18799,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T052144Z" creationid="Jeff Huang" creationdate="20171221T082137Z">
         <seg>舉例來說，在大多數的Writer樣式裡，你可能不大需要邊框或背景，但在Draw之中，這樣的特性&lt;f0&gt;（如「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」與「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;區塊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」）&lt;/f6&gt;就變成了重點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you might have paragraph styles called &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body – English&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Text Body – French&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032505Z" creationid="Franklin Weng" creationdate="20180303T032505Z">
+        <seg>例如，你可以設定名為「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內文 – 英語&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」及「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;內文 – 法語&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;的段落樣式。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
