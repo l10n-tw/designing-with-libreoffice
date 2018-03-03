@@ -5228,6 +5228,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;No matter how you prepare them, i&lt;/f0&gt;ndexes can have a main entry, and up to two sub-entry levels.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T140112Z" creationid="zerng07" creationdate="20180303T140112Z">
+        <seg>&lt;f0&gt;不管你想怎樣準備這些索引條目，&lt;/f0&gt;索引只能有一個主條目，並且頂多往下兩層子條目層級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;No one has time to design a document every time they sit down to write.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160039Z" creationid="Franklin Weng" creationdate="20171212T100214Z">
@@ -8440,6 +8448,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041351Z" creationid="zerng07" creationdate="20170824T173811Z">
         <seg>&lt;f1&gt;然後一個接一個。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Any more sub-entries would generally be overly-complicated for writers to maintain and readers to follow.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T140233Z" creationid="zerng07" creationdate="20180303T140233Z">
+        <seg>&lt;f1&gt;如果要再更詳細的子條目層級的話，通常太過複雜，對編寫者來說太難維護，對讀者來說太難查閱。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
