@@ -12342,6 +12342,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All necessary information, including the &lt;f0&gt;&lt;f1&gt;Identifier&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;field should be entered before &lt;f3&gt;any &lt;/f3&gt;citation is created.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T093039Z" creationid="zerng07" creationdate="20180304T093039Z">
+        <seg>所有必要All necessary information, including the &lt;f0&gt;&lt;f1&gt;Identifier&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;field should be entered before &lt;f3&gt;any &lt;/f3&gt;citation is created.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All objects inserted to a Writer document are contained by a frame.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175002Z" creationid="zerng07" creationdate="20171223T180040Z">
@@ -19073,8 +19081,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, in the &lt;f0&gt;APA&lt;/f0&gt; style, &lt;f1&gt;a citation to&lt;/f1&gt; this book would &lt;f2&gt;use “Byfield” in the text and follow the information cited with &lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T093032Z" creationid="zerng07" creationdate="20180304T093032Z">
-        <seg>舉例，如&lt;f0&gt;APA&lt;/f0&gt;引用方式，&lt;f1&gt;如果要引用&lt;/f1&gt;此書的話，&lt;f2&gt;文字會用用作者姓氏「Byfield」，再接著&lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;) 的年份資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T093318Z" creationid="zerng07" creationdate="20180304T093032Z">
+        <seg>舉例，根據&lt;f0&gt;APA&lt;/f0&gt;引用方式（American Psychological Association，美國心理學會；這是社會科學書目最廣泛使用的引用規則），&lt;f1&gt;如果要引用&lt;/f1&gt;此書的話，&lt;f2&gt;文字會先寫作者姓氏「Byfield」，後接&lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;) 的年份資訊。</seg>
       </tuv>
     </tu>
     <tu>
