@@ -6339,6 +6339,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Type&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Bibliography&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; o&lt;/f6&gt;n the &lt;f7&gt;Index/Table&lt;/f7&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T124322Z" creationid="zerng07" creationdate="20180304T124322Z">
+        <seg>&lt;f0&gt;將「&lt;/f0&gt;&lt;f7&gt;目錄、索引或參考文獻&lt;/f7&gt;」視窗中的「&lt;f1&gt;&lt;f2&gt;類型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位設為「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;參考文獻&lt;/f5&gt;&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Set the default measure to points in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General &gt; Settings &gt; Measurement Unit.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; You can reset the default unit to centimeters or inches when you are done, but points are the most commonly used unit of measurement for general typography.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T085046Z" creationid="zerng07" creationdate="20180121T084953Z">
@@ -13633,6 +13641,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T102156Z" creationid="Franklin Weng" creationdate="20180105T120405Z">
         <seg>至少，你要看到幾行文字的呈現畫面；或是在頁面設計時，通常得看到一整頁文字才能更準確判斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At a minimum, you will need to:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T123950Z" creationid="zerng07" creationdate="20180304T123950Z">
+        <seg>至少，你需要：</seg>
       </tuv>
     </tu>
     <tu>
