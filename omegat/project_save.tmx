@@ -1563,8 +1563,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A more systematic way to create an index is to use a concordance file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T051745Z" creationid="zerng07" creationdate="20180304T051745Z">
-        <seg>&lt;f0&gt;製作索引有個更系統性的做法，就是採用語匯索引檔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062826Z" creationid="zerng07" creationdate="20180304T051745Z">
+        <seg>&lt;f0&gt;製作英文索引有個更系統性的做法，就是採用語匯索引檔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1963,6 +1963,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162146Z" creationid="zerng07" creationdate="20171227T184049Z">
         <seg>《&lt;f0&gt;論字體排印學&lt;/f0&gt;》(An Essay on Typography) (David R. Godine: Boston, 1998)：當代設計形塑者之一的理論思想。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;An alternate listing under&lt;/f0&gt; “ara” &lt;f1&gt;(the scientific name).&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063033Z" creationid="zerng07" creationdate="20180304T063033Z">
+        <seg>&lt;f0&gt;替代條列於&lt;/f0&gt;「ara」 &lt;f1&gt;（科學名稱）之下。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18879,6 +18887,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T140326Z" creationid="Franklin Weng" creationdate="20180210T140326Z">
         <seg>例如，預設開啟新的樞紐分析表時，會新開一個工作表，叫做 &lt;f1&gt;$'樞紐分析表_工作表1_1'.$A$1&lt;/f1&gt;&lt;f2&gt;（其中「工作表」會是你所選取資料來源的工作表名稱），並把樞紐分析表放在新工作表的第一個儲存格。&lt;/f2&gt;不過，你也可以把目的地取一個較有意義的名稱，或是把樞紐分析表放在跟資料來源同樣的工作表內。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, entering:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062845Z" creationid="zerng07" creationdate="20180304T062845Z">
+        <seg>例如，輸入：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41082,6 +41098,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T145010Z" creationid="Jeff Huang" creationdate="20180204T133035Z">
         <seg>處理二位數字編號清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Would produce an entry for “macaw” with</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062940Z" creationid="zerng07" creationdate="20180304T062940Z">
+        <seg>會產生這樣的「macaw」條目：</seg>
       </tuv>
     </tu>
     <tu>
