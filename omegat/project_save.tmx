@@ -1969,8 +1969,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;An alternate listing under&lt;/f0&gt; “ara” &lt;f1&gt;(the scientific name).&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063033Z" creationid="zerng07" creationdate="20180304T063033Z">
-        <seg>&lt;f0&gt;替代條列於&lt;/f0&gt;「ara」 &lt;f1&gt;（科學名稱）之下。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063136Z" creationid="zerng07" creationdate="20180304T063033Z">
+        <seg>&lt;f0&gt;替代條列於&lt;/f0&gt;「ara」 &lt;f1&gt;（屬名）之下。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11247,6 +11247,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122131Z" creationid="Franklin Weng" creationdate="20180206T122131Z">
         <seg>計畫旅遊的一份試算表清單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A listing under “macaw.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063428Z" creationid="zerng07" creationdate="20180304T063216Z">
+        <seg>條列在「macaw」（金剛鸚鵡）之下。</seg>
       </tuv>
     </tu>
     <tu>
