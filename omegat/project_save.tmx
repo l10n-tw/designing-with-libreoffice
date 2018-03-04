@@ -14127,8 +14127,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Before adding citations, you need &lt;f0&gt;the correct information&lt;/f0&gt; for the citation &lt;f1&gt;style&lt;/f1&gt; you are using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T133127Z" creationid="zerng07" creationdate="20180304T133127Z">
-        <seg>在插入引用之前，你需要&lt;f0&gt;先瞭解採用的引用方式之正確資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T135230Z" creationid="zerng07" creationdate="20180304T133127Z">
+        <seg>在插入引用之前，你需要&lt;f0&gt;先瞭解採用的引用方式之正確規則。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27272,6 +27272,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T141627Z" creationid="zerng07" creationdate="20171212T141627Z">
         <seg>樣式的大多數層面設定都可以微調、或開或關，或是在你需要用到之前先行忽略也都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most citations styles developed in different fields of academic study.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T135336Z" creationid="zerng07" creationdate="20180304T135336Z">
+        <seg>不同學術研究領域發展出的引用規則大多不同。</seg>
       </tuv>
     </tu>
     <tu>
