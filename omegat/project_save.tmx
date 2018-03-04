@@ -30254,8 +30254,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Search term; Alternative entry;1st key;2nd key;Match case; Word only</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T055056Z" creationid="zerng07" creationdate="20180304T055031Z">
-        <seg>搜尋用詞語; 替代條目;第一關鍵字;第二關鍵字;區分大小寫;完整比對字詞</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062735Z" creationid="zerng07" creationdate="20180304T055031Z">
+        <seg>搜尋用詞語; 替代條目;第一關鍵字;第二關鍵字;區分大小寫;比對整個單字</seg>
       </tuv>
     </tu>
     <tu>
@@ -31519,6 +31519,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T160953Z" creationid="zerng07" creationdate="20171227T160953Z">
         <seg>相同的，字元樣式包含&lt;f5&gt;強調&lt;/f5&gt;和&lt;f6&gt;網際網路連結&lt;/f6&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, entering 1 in the last field sets the index to only include instances where the entry is a whole word, and not part of a larger one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062706Z" creationid="zerng07" creationdate="20180304T062706Z">
+        <seg>同樣的，如果你想要比對的是整個單字，而不是一個單字中的局部幾個英文字的話，在最後一個欄位寫下1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41540,6 +41548,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T032933Z" creationid="Jeff Huang" creationdate="20180116T031856Z">
         <seg>你也可以匯入由另一個應用程式製作的圖形，然後進行一些簡單的配置調整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also just leave the last two fields blank, as you can with any of the others.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062823Z" creationid="zerng07" creationdate="20180304T062823Z">
+        <seg>和其他欄位一樣，你也可以略過最後兩個欄位不填。</seg>
       </tuv>
     </tu>
     <tu>
