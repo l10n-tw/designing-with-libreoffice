@@ -1690,6 +1690,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;APA&lt;/f0&gt; (American Psychological Association): &lt;f1&gt;Ps&lt;/f1&gt;ychology, education, and other social sciences.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145009Z" creationid="zerng07" creationdate="20180304T145009Z">
+        <seg>&lt;f0&gt;APA&lt;/f0&gt;（American Psychological Association，美國心理協會）： &lt;f1&gt;Ps&lt;/f1&gt;ychology, education, and other social sciences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Above/Below&lt;/f0&gt; are informal, &lt;f1&gt;and should be avoided in academic or legal documents&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T031221Z" creationid="zerng07" creationdate="20180226T031221Z">
@@ -7402,6 +7410,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;There are&lt;/f0&gt; five main &lt;f1&gt;styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144744Z" creationid="zerng07" creationdate="20180304T144744Z">
+        <seg>&lt;f0&gt;有&lt;/f0&gt;五種主要的&lt;f1&gt;格式規則&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;These precautions seem to work &lt;/f0&gt;more reliably in Writer than in Calc, Draw, or Impress.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T035033Z" creationid="zerng07" creationdate="20180206T065253Z">
@@ -10918,6 +10934,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T125652Z" creationid="Franklin Weng" creationdate="20171225T100831Z">
         <seg>因為等寬字和打字機之間有相當大的關聯，現在等寬字型已經沒那麼流行，通常只在展現程式碼或在電影上的字幕時使用。這個字族也簡稱為 Mono（非正式說法）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t2/&gt;Otherwise, use the format for your field of study:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144946Z" creationid="zerng07" creationdate="20180304T144946Z">
+        <seg>&lt;t2/&gt;不然，就用你研讀領域中常見的格式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22819,6 +22843,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are taking a class or writing for a journal, ask your teacher or editor which format they prefer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144927Z" creationid="zerng07" creationdate="20180304T144927Z">
+        <seg>如果你課程要用，或是要寫期刊文章，可以問問老師或刊物編者要用什麼格式規則。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unable to find a suitable background, you &lt;f0&gt;can&lt;/f0&gt; design your own, or modify an existing one in a graphics &lt;f1&gt;editor.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T165222Z" creationid="Franklin Weng" creationdate="20180115T091958Z">
@@ -27278,8 +27310,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Most citations styles developed in different fields of academic study.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T135336Z" creationid="zerng07" creationdate="20180304T135336Z">
-        <seg>不同學術研究領域發展出的引用規則大多不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144707Z" creationid="zerng07" creationdate="20180304T135336Z">
+        <seg>不同學術研究領域發展出的引用格式大多不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37365,8 +37397,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>They are a matter of convention, since they all give similar information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144701Z" creationid="zerng07" creationdate="20180304T144701Z">
-        <seg>這些格式規則大多都是慣例，因為其實要求的資訊都差不多。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144718Z" creationid="zerng07" creationdate="20180304T144701Z">
+        <seg>這些格式規則大多都只是慣例，因為要求的資訊其實都差不多。</seg>
       </tuv>
     </tu>
     <tu>
