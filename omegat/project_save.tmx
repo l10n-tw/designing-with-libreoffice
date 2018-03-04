@@ -6341,7 +6341,7 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Type&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Bibliography&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; o&lt;/f6&gt;n the &lt;f7&gt;Index/Table&lt;/f7&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T124322Z" creationid="zerng07" creationdate="20180304T124322Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T124523Z" creationid="zerng07" creationdate="20180304T124322Z">
         <seg>&lt;f0&gt;將「&lt;/f0&gt;&lt;f7&gt;目錄、索引或參考文獻&lt;/f7&gt;」視窗中的「&lt;f1&gt;&lt;f2&gt;類型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位設為「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;參考文獻&lt;/f5&gt;&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
@@ -10686,6 +10686,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164113Z" creationid="zerng07" creationdate="20171226T164048Z">
         <seg>&lt;f7&gt;你可以從&lt;/f7&gt;「&lt;f8&gt;&lt;f9&gt;工具 &gt; 自訂 &gt; 功能 &gt; 樣式&lt;/f9&gt;&lt;/f8&gt;」裡設定其他樣式的快捷鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f8&gt;The &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Type&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; refers to the kind of source, such as a periodical or a web page.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T124607Z" creationid="zerng07" creationdate="20180304T124424Z">
+        <seg>「條目」標籤頁中的「&lt;f9&gt;&lt;f10&gt;類型&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;」指的是資料來源的類型，通常是期刊或網頁等。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
