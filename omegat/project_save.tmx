@@ -1553,6 +1553,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A standard index is called an &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alphabetical Index&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Type&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field in the&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Insert Index/Table &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T035150Z" creationid="zerng07" creationdate="20180304T035037Z">
+        <seg>&lt;f0&gt;標準的索引在「&lt;/f0&gt;&lt;f7&gt;&lt;f8&gt;目錄、索引或參考文獻&lt;/f8&gt;&lt;/f7&gt;」對話視窗的「&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位中稱為「&lt;/f6&gt;&lt;f1&gt;&lt;f2&gt;字母順序索引&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，&lt;/f3&gt;&lt;f9&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A title page is often centered, and in a larger font size than the body text.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104328Z" creationid="Jeff Huang" creationdate="20180124T134053Z">
@@ -12071,8 +12079,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>After all the entries are created, open the &lt;f0&gt;Insert Index/Table&lt;/f0&gt; dialog window to generate the index.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T034444Z" creationid="zerng07" creationdate="20180304T034048Z">
-        <seg>在所有條目建立完成後，開啟「&lt;f0&gt;插入索引/表格&lt;/f0&gt;」 對話視窗生成索引。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T035049Z" creationid="zerng07" creationdate="20180304T034048Z">
+        <seg>在所有條目建立完成後，開啟「&lt;f0&gt;目錄、索引或參考文獻&lt;/f0&gt;」 對話視窗生成索引。</seg>
       </tuv>
     </tu>
     <tu>
