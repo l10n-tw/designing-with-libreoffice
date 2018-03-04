@@ -12614,11 +12614,12 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
+      <note>經查，因為 alphabetical delimiter 同樣支援中文的「筆畫」、「部首」、「注音」順序，如「筆畫順序索引」會寫「1. 畫」「2. 畫」… 等，所以將「字母分隔符」改譯為「順序分隔標題」。</note>
       <tuv lang="EN">
         <seg>An &lt;f0&gt;a&lt;/f0&gt;lphabetical &lt;f1&gt;i&lt;/f1&gt;ndex will have an index separator style for the alphabetical delimiters at the start of each section.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T041932Z" creationid="zerng07" creationdate="20180302T121834Z">
-        <seg>順序索引會有個「索引分隔符」樣式給每一字母區段起始處的界定符使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T043526Z" creationid="zerng07" creationdate="20180302T121834Z">
+        <seg>順序索引會有個「順序分隔標題」樣式，可作為每一順序區段起始處的界定標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23231,8 +23232,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to &lt;f0&gt;add headings with letters of the alphabet,&lt;/f0&gt; select &lt;f1&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Index/Tables &gt; Entries &gt; Alphabetical Delimiter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T043358Z" creationid="zerng07" creationdate="20180304T043358Z">
-        <seg>如果你想要&lt;f0&gt;製作有字母標題的英文字母順序索引，&lt;/f0&gt;請選取「&lt;f1&gt;插入 &gt; 目錄與索引&lt;/f1&gt;&lt;f4&gt; &gt; 目錄、索引或參考文獻 &gt; 條目 &gt; 字母分隔符」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T043536Z" creationid="zerng07" creationdate="20180304T043358Z">
+        <seg>如果你想要&lt;f0&gt;製作有字母標題的英文字母順序索引，&lt;/f0&gt;請選取「&lt;f1&gt;插入 &gt; 目錄與索引&lt;/f1&gt;&lt;f4&gt; &gt; 目錄、索引或參考文獻 &gt; 條目 &gt; 順序分隔標題」。</seg>
       </tuv>
     </tu>
     <tu>
