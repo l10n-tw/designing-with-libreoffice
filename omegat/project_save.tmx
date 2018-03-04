@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;A concordance is a file that lists words to add to the index.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T051844Z" creationid="zerng07" creationdate="20180304T051844Z">
+        <seg>&lt;/f0&gt;語匯索引是一份列出要加到索引中的詞語檔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;B&lt;f1&gt;eing included in the outline styles means that a paragraph using that style is listed in the &lt;/f1&gt;Navigator, and used automatically in features like tables of contents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042638Z" creationid="MarkHung" creationdate="20180224T042638Z">
@@ -1549,6 +1557,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T151959Z" creationid="Franklin Weng" creationdate="20171212T124812Z">
         <seg>&lt;f0&gt;比較可靠的解決方案&lt;/f0&gt;&lt;f1&gt;通常是&lt;/f1&gt;把檔案內容複製後，貼到另一份用原始範本製作的空白文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A more systematic way to create an index is to use a concordance file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T051745Z" creationid="zerng07" creationdate="20180304T051745Z">
+        <seg>&lt;f0&gt;製作索引有個更系統性的做法，就是採用語匯索引檔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16234,6 +16250,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T094637Z" creationid="Jeff Huang" creationdate="20180115T031445Z">
         <seg>製作圖表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a concordance</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T051627Z" creationid="zerng07" creationdate="20180304T051627Z">
+        <seg>製作語匯索引</seg>
       </tuv>
     </tu>
     <tu>
