@@ -4656,8 +4656,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Insert Index/Table&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;includes tools for extensive customization of tables of contents and similar tables.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T122254Z" creationid="zerng07" creationdate="20180227T145811Z">
-        <seg>「&lt;f0&gt;插入目錄與索引&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;」含有製作目錄與類似表格的大量自訂工具。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T034252Z" creationid="zerng07" creationdate="20180227T145811Z">
+        <seg>「&lt;f0&gt;插入索引/表格&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;」含有製作目錄與類似表格的大量自訂工具。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12064,6 +12064,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180116T065750Z" creationid="Jeff Huang" creationdate="20180116T065750Z">
         <seg>後</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After all the entries are created, open the &lt;f0&gt;Insert Index/Table&lt;/f0&gt; dialog window to generate the index.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T034158Z" creationid="zerng07" creationdate="20180304T034048Z">
+        <seg>在所有條目建立之後，開啟「&lt;f0&gt;插入目錄與索引&lt;/f0&gt;」 dialog window to generate the index.</seg>
       </tuv>
     </tu>
     <tu>
