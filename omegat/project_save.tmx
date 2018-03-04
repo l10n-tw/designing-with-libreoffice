@@ -31991,6 +31991,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, you need to have the correct information for each bibliography entry.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T135221Z" creationid="zerng07" creationdate="20180304T135221Z">
+        <seg>同理，你也需要有各個參考文獻條目的正確資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since LibreOffice does not recognized reverse order lists, &lt;f0&gt;it will not automatically generate numbers.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T020943Z" creationid="Jeff Huang" creationdate="20180205T022756Z">
