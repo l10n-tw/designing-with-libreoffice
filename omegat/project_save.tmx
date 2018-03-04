@@ -24447,8 +24447,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In practice, however, any single entry in the bibliography needs only about half a dozen fields filled in, &lt;f0&gt;no matter what citation format you use.&lt;/f0&gt; &lt;f1&gt;What differs is the fields needed for each type of source material and the order of the fields in each citation style.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T092501Z" creationid="zerng07" creationdate="20180304T092501Z">
-        <seg>不過在實務上，&lt;f0&gt;無論你採用的是什麼引用方式&lt;/f0&gt;，參考文獻中的任一條目都只需填入約六個欄位左右。&lt;f1&gt;差異在於各內容來源的類型，以及各種引用方式的欄位順序。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T112555Z" creationid="zerng07" creationdate="20180304T092501Z">
+        <seg>不過在實務上，&lt;f0&gt;無論你採用的是什麼引用方式&lt;/f0&gt;，參考文獻中的任一條目都只需填入約六個欄位左右。&lt;f1&gt;差異在於各來源資料的類型，以及各種引用方式的欄位順序。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31801,8 +31801,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Since formatting entries can be tedious, consider creating a template with citations for each type of source material .</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T112535Z" creationid="zerng07" creationdate="20180304T112535Z">
-        <seg>由於設定條目格式有點惱人，你可以考慮做個適合各種來源素材的引用範本Since formatting entries can be tedious, consider creating a template with citations for each type of source material .</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T112644Z" creationid="zerng07" creationdate="20180304T112535Z">
+        <seg>由於設定條目的格式有點惱人，你可以考慮做個適合各種來源資料類型的引用範本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34356,6 +34356,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T045906Z" creationid="Jeff Huang" creationdate="20171220T082809Z">
         <seg>&lt;f0&gt;起步&lt;/f0&gt;的最佳方式就是&lt;f1&gt;先把圖表分解為其基本元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The bibliograph&lt;f0&gt;y&lt;/f0&gt; database is &lt;f1&gt;the source for citations in the text, no matter what citation style you use.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T112832Z" creationid="zerng07" creationdate="20180304T112832Z">
+        <seg>無論採用怎樣的引用方式，你應該用參考文獻資料庫作為&lt;f1&gt;文字的引用來源。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
