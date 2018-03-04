@@ -5678,6 +5678,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;P&lt;/f0&gt;reparing &lt;f1&gt;bibliographic formats&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T133023Z" creationid="zerng07" creationdate="20180304T133023Z">
+        <seg>準備&lt;f1&gt;參考文獻條列格式&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;P&lt;/f0&gt;reparing images &lt;f1&gt;in graphics editors&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T123653Z" creationid="zerng07" creationdate="20180205T123653Z">
@@ -12121,6 +12129,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjust the &lt;f0&gt;Bibliograph&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;y&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T132920Z" creationid="zerng07" creationdate="20180304T132920Z">
+        <seg>調整「&lt;f0&gt;參考文獻&lt;/f0&gt;」段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adjust the presentation styles as needed.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T094719Z" creationid="Franklin Weng" creationdate="20180114T141053Z">
@@ -14105,6 +14121,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T165421Z" creationid="zerng07" creationdate="20170822T160832Z">
         <seg>&lt;f0&gt;做記者之前&lt;/f0&gt;，我是技術文章創作者也是平面設計師。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before adding citations, you need &lt;f0&gt;the correct information&lt;/f0&gt; for the citation &lt;f1&gt;style&lt;/f1&gt; you are using.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T133127Z" creationid="zerng07" creationdate="20180304T133127Z">
+        <seg>在插入引用之前，你需要&lt;f0&gt;先瞭解採用的引用方式之正確資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16274,6 +16298,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115019Z" creationid="Jeff Huang" creationdate="20180122T035900Z">
         <seg>選取&lt;f1&gt;&lt;f2&gt;「修改 &gt; 形狀&lt;/f2&gt;&lt;/f1&gt; &gt;&lt;f4&gt;&lt;f5&gt; 減去&lt;/f5&gt;&lt;/f4&gt;」來從重疊的物件建立新形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a structure for each type of source material used in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T132856Z" creationid="zerng07" creationdate="20180304T132856Z">
+        <seg>為文件中用到的各來源資料類型建立條目結構。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31902,8 +31934,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, the &lt;f0&gt;Structure&lt;/f0&gt; field begins by default with the &lt;f1&gt;Short Name&lt;/f1&gt; for each item, which is not needed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T132732Z" creationid="zerng07" creationdate="20180304T132732Z">
-        <seg>同樣的，「&lt;f0&gt;結構&lt;/f0&gt;」欄位 field begins by default with the &lt;f1&gt;Short Name&lt;/f1&gt; for each item, which is not needed.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T132826Z" creationid="zerng07" creationdate="20180304T132732Z">
+        <seg>同樣的，「&lt;f0&gt;結構&lt;/f0&gt;」欄位預設以「&lt;f1&gt;短名&lt;/f1&gt;」為各條目起頭，但實際上根本用不到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40314,6 +40346,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T120223Z" creationid="zerng07" creationdate="20180206T100338Z">
         <seg>通常而言，最有用的參考點是「&lt;f6&gt;邊距&lt;/f6&gt;」，最無&lt;f7&gt;用&lt;/f7&gt;的則是「&lt;f8&gt;整個頁面&lt;/f8&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usually, they will be similar to the &lt;f4&gt;Text Body &lt;/f4&gt;styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T133006Z" creationid="zerng07" creationdate="20180304T133006Z">
+        <seg>一般而言，參考文獻的段落樣式和「&lt;f4&gt;內文&lt;/f4&gt;」樣式類似。</seg>
       </tuv>
     </tu>
     <tu>
