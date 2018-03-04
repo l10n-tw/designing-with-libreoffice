@@ -4925,6 +4925,14 @@ f1</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Like tables of contents and indexes, b&lt;/f0&gt;ibliographies &lt;f1&gt;are generated with the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Index/Table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T090435Z" creationid="zerng07" creationdate="20180304T090435Z">
+        <seg>&lt;f0&gt;類似目錄和索引，&lt;/f0&gt;參考文獻&lt;f1&gt;也是從「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;目錄、索引或參考文獻&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」對話視窗中製作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Line:&lt;/f0&gt; &lt;f1&gt;A graph of data points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180113T132532Z" creationid="Jeff Huang" creationdate="20180113T132532Z">
