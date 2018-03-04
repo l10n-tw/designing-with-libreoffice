@@ -24717,6 +24717,22 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inclusion of instances in which the term is a &lt;f0&gt;whole word or part of a longer word.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T064301Z" creationid="zerng07" creationdate="20180304T064301Z">
+        <seg>條列項目可以是&lt;f0&gt;完整單字，抑或是一個長單字的部分文字。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inclusion of instances that start with a lower or upper case letter &lt;f0&gt;(both “macaw” and “Macaw”).&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T064209Z" creationid="zerng07" creationdate="20180304T064209Z">
+        <seg>條列項目包含不同的大小寫&lt;f0&gt;（「macaw」和「Macaw」兼收）。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Increasing the size of the page number helps some, but &lt;f0&gt;the basic problem remains: T&lt;/f0&gt;he distance from some page entries still make&lt;f1&gt;s&lt;/f1&gt; the &lt;f2&gt;t&lt;/f2&gt;able of &lt;f3&gt;c&lt;/f3&gt;ontents harder to read than necessary.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143955Z" creationid="zerng07" creationdate="20180302T143955Z">
@@ -27473,6 +27489,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T064251Z" creationid="zerng07" creationdate="20180125T064251Z">
         <seg>這時就不需要放引號，因為縮排足以&lt;f2&gt;表達&lt;/f2&gt;出這是一段引文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No second key &lt;f0&gt;(notice the two semi-colons).&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T064058Z" creationid="zerng07" creationdate="20180304T064058Z">
+        <seg>沒有用到第二關鍵字&lt;f0&gt;（注意有兩個分號）。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40774,6 +40798,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T025944Z" creationid="zerng07" creationdate="20180125T025944Z">
         <seg>到底要不要做&lt;f2&gt;斷字處理&lt;/f2&gt;是你設計英語文件時最重大的設計決定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether creating a concordance is faster than adding entries manually is debatable since the tasks are so different.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T064426Z" creationid="zerng07" creationdate="20180304T064426Z">
+        <seg>由於每個人的作業領域不同，所以很難論定採用語匯索引檔是否會比手動加條目還有效率。</seg>
       </tuv>
     </tu>
     <tu>
