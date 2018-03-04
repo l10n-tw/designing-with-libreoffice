@@ -1552,12 +1552,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>Alphabetical index 舊翻譯為「排序的字詞索引」，甚怪，已在未來新版修正為「字母順序索引」（經查，alphabetical index 之前已有另外兩處翻譯為「字母順序索引」，只有此處是「排序的字詞索引」，全部統一）。</note>
+      <note>Alphabetical index 舊翻譯為「排序的字詞索引」，甚怪。經查，alphabetical index 之前已有另外兩處翻譯為「字母順序索引」，只有此處是「排序的字詞索引」。而在「目錄、索引或參考文獻」對話視窗的「alphabetical index」類型，可以對「中文」以「筆畫」、「部首」、「注音」等方式排序，因此已在未來新版統一改譯為「順序索引」。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;A standard index is called an &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alphabetical Index&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Type&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field in the&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Insert Index/Table &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T035150Z" creationid="zerng07" creationdate="20180304T035037Z">
-        <seg>&lt;f0&gt;標準的索引在「&lt;/f0&gt;&lt;f7&gt;&lt;f8&gt;目錄、索引或參考文獻&lt;/f8&gt;&lt;/f7&gt;」對話視窗的「&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位中稱為「&lt;/f6&gt;&lt;f1&gt;&lt;f2&gt;字母順序索引&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，&lt;/f3&gt;&lt;f9&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T042437Z" creationid="zerng07" creationdate="20180304T035037Z">
+        <seg>&lt;f0&gt;標準的索引在「&lt;/f0&gt;&lt;f7&gt;&lt;f8&gt;目錄、索引或參考文獻&lt;/f8&gt;&lt;/f7&gt;」對話視窗的「&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位中稱為「&lt;/f6&gt;&lt;f1&gt;&lt;f2&gt;順序索引&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，&lt;/f3&gt;&lt;f9&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12617,8 +12617,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An &lt;f0&gt;a&lt;/f0&gt;lphabetical &lt;f1&gt;i&lt;/f1&gt;ndex will have an index separator style for the alphabetical delimiters at the start of each section.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T121834Z" creationid="zerng07" creationdate="20180302T121834Z">
-        <seg>英文字母順序索引會有個「索引分隔符」樣式給每一字母區段起始處的界定符使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T041932Z" creationid="zerng07" creationdate="20180302T121834Z">
+        <seg>順序索引會有個「索引分隔符」樣式給每一字母區段起始處的界定符使用。</seg>
       </tuv>
     </tu>
     <tu>
