@@ -6925,6 +6925,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style uses footnotes or endnotes instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T152624Z" creationid="zerng07" creationdate="20180304T152624Z">
+        <seg>&lt;f0&gt;至於&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;規則格式則採用註腳或尾註方式寫下引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for graphic text is roughly equivalent to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Background&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in some other types of styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T072740Z" creationid="Jeff Huang" creationdate="20171229T035025Z">
