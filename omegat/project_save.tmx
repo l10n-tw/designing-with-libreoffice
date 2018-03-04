@@ -5814,6 +5814,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Position the cursor in the text and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Bibliography Entry.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Use the drop-down list in the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Short Name Field &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;to chose the citation from the ones you have prepared in the bibliography database, then click the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Insert&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114705Z" creationid="zerng07" creationdate="20180304T114705Z">
+        <seg>&lt;f0&gt;將游標放到內文中，並點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 參考文獻條目&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;短名&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位從準備好的參考文獻資料庫中，選出你想引用的資料，接著按下「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;插入&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Positioning a table in hard copy can be difficult, because you frequently get uneven page breaks.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T130518Z" creationid="Jeff Huang" creationdate="20180211T125755Z">
@@ -7525,8 +7533,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To complicate matters even more,&lt;/f0&gt; the sample entries for both the &lt;f1&gt;Identifer&lt;/f1&gt; column and the &lt;f2&gt;Short Name &lt;/f2&gt;field are meaningless, &lt;f3&gt;although they have been in OpenOffice.org and LibreOffice for over a decade.&lt;/f3&gt; Replace them with the proper format for the citation style you are using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113522Z" creationid="zerng07" creationdate="20180304T113522Z">
-        <seg>&lt;f0&gt;而讓人更摸不著頭緒的是，其實&lt;/f0&gt;&lt;f1&gt;Identifer&lt;/f1&gt;這欄和「&lt;f2&gt;短名&lt;/f2&gt;」欄位的範例條目都沒有意義，&lt;f3&gt;即便它們在OpenOffice.org和LibreOffice中已經存在超過十年多了。&lt;/f3&gt;請將之替換成你所採取引用方式的適當格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114345Z" creationid="zerng07" creationdate="20180304T113522Z">
+        <seg>&lt;f0&gt;而讓人更摸不著頭緒的是，其實&lt;/f0&gt;&lt;f1&gt;Identifer&lt;/f1&gt;這欄和「&lt;f2&gt;短名&lt;/f2&gt;」欄位中的範例條目都沒有意義，&lt;f3&gt;即便它們在OpenOffice.org和LibreOffice中已經存在超過十年多了。&lt;/f3&gt;請將之替換成你所採引用方式的對應格式。</seg>
       </tuv>
     </tu>
     <tu>
