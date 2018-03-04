@@ -1969,8 +1969,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;An alternate listing under&lt;/f0&gt; “ara” &lt;f1&gt;(the scientific name).&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063136Z" creationid="zerng07" creationdate="20180304T063033Z">
-        <seg>&lt;f0&gt;替代條列於&lt;/f0&gt;「ara」 &lt;f1&gt;（屬名）之下。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063655Z" creationid="zerng07" creationdate="20180304T063033Z">
+        <seg>&lt;f0&gt;替代條列在&lt;/f0&gt;「ara」 &lt;f1&gt;（金剛鸚鵡屬）之下。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11251,9 +11251,17 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A listing of “Parrots, Macaw.”</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063636Z" creationid="zerng07" creationdate="20180304T063636Z">
+        <seg>條文「Parrots, Macaw」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A listing under “macaw.”</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063428Z" creationid="zerng07" creationdate="20180304T063216Z">
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T063657Z" creationid="zerng07" creationdate="20180304T063216Z">
         <seg>條列在「macaw」（金剛鸚鵡）之下。</seg>
       </tuv>
     </tu>
