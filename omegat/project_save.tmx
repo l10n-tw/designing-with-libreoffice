@@ -1692,8 +1692,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;APA&lt;/f0&gt; (American Psychological Association): &lt;f1&gt;Ps&lt;/f1&gt;ychology, education, and other social sciences.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145009Z" creationid="zerng07" creationdate="20180304T145009Z">
-        <seg>&lt;f0&gt;APA&lt;/f0&gt;（American Psychological Association，美國心理協會）： &lt;f1&gt;Ps&lt;/f1&gt;ychology, education, and other social sciences.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145133Z" creationid="zerng07" creationdate="20180304T145009Z">
+        <seg>&lt;f0&gt;APA&lt;/f0&gt;（American Psychological Association，美國心理協會）： 心理學、教育、其他社會科學領域等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5072,6 +5072,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T063553Z" creationid="zerng07" creationdate="20171212T062542Z">
         <seg>對樣式的迷思</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;MLA&lt;/f0&gt; (Modern Languages Association): &lt;f1&gt;L&lt;/f1&gt;iterature, art, and humanities.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145211Z" creationid="zerng07" creationdate="20180304T145127Z">
+        <seg>&lt;f0&gt;MLA&lt;/f0&gt;（Modern Languages Association，現代語言協會）：文學、藝術、人文學科等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10940,8 +10948,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;t2/&gt;Otherwise, use the format for your field of study:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T144946Z" creationid="zerng07" creationdate="20180304T144946Z">
-        <seg>&lt;t2/&gt;不然，就用你研讀領域中常見的格式：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145336Z" creationid="zerng07" creationdate="20180304T144946Z">
+        <seg>&lt;t2/&gt;不然，就用你研讀領域中的常用格式。下列為常見的西方參考文獻格式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15594,6 +15602,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chicago: History and specific publications.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145229Z" creationid="zerng07" creationdate="20180304T145229Z">
+        <seg>Chicago：歷史與特定出版物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choices are:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135117Z" creationid="Franklin Weng" creationdate="20180210T135117Z">
@@ -19265,8 +19281,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, in the &lt;f0&gt;APA&lt;/f0&gt; style, &lt;f1&gt;a citation to&lt;/f1&gt; this book would &lt;f2&gt;use “Byfield” in the text and follow the information cited with &lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T093318Z" creationid="zerng07" creationdate="20180304T093032Z">
-        <seg>舉例，根據&lt;f0&gt;APA&lt;/f0&gt;引用方式（American Psychological Association，美國心理學會；這是社會科學書目最廣泛使用的引用規則），&lt;f1&gt;如果要引用&lt;/f1&gt;此書的話，&lt;f2&gt;文字會先寫作者姓氏「Byfield」，後接&lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;) 的年份資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145033Z" creationid="zerng07" creationdate="20180304T093032Z">
+        <seg>舉例，根據&lt;f0&gt;APA&lt;/f0&gt;引用方式（這是社會科學書目最廣泛使用的引用規則），&lt;f1&gt;如果要引用&lt;/f1&gt;此書的話，&lt;f2&gt;文字會先寫作者姓氏「Byfield」，後接&lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;) 的年份資訊。</seg>
       </tuv>
     </tu>
     <tu>
