@@ -6660,6 +6660,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he last two fields are structured somewhat differently.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062412Z" creationid="zerng07" creationdate="20180304T062412Z">
+        <seg>最後兩個欄位的結構有點不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he only character styles likely to be needed with this template are those for &lt;f1&gt;Emphasis&lt;/f1&gt; (italics) and &lt;f2&gt;Strong Emphasis&lt;/f2&gt; (Bold).</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T101246Z" creationid="zerng07" creationdate="20180125T100443Z">
@@ -23281,6 +23289,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044950Z" creationid="MarkHung" creationdate="20180224T044950Z">
         <seg>如果你想要乾淨的代碼，避免使用額外的樣式，使用需要樣式表的字元或段落樣式，或使用多個頁面、外框、或清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want only entries that have the same upper or lower case letters as your entries, enter 1 in the second to last field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062522Z" creationid="zerng07" creationdate="20180304T062522Z">
+        <seg>如果你只希望相同大小寫的字詞做條目的話，在倒數第二個欄位寫下1。</seg>
       </tuv>
     </tu>
     <tu>
