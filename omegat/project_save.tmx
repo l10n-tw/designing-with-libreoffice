@@ -4660,12 +4660,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
-      <note>UI 中確實有這個字串條目（代表應該有按鈕），但我找不到它在哪裡… Orz</note>
+      <note>選項改名稱了。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Insert Index/Table&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;includes tools for extensive customization of tables of contents and similar tables.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T034252Z" creationid="zerng07" creationdate="20180227T145811Z">
-        <seg>「&lt;f0&gt;插入索引/表格&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;」含有製作目錄與類似表格的大量自訂工具。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T035337Z" creationid="zerng07" creationdate="20180227T145811Z">
+        <seg>「&lt;f0&gt;目錄、索引或參考文獻&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;」中提供製作目錄與類似表格的多選項自訂工具。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12075,7 +12075,6 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
-      <note>這是在哪裡？？？？</note>
       <tuv lang="EN">
         <seg>After all the entries are created, open the &lt;f0&gt;Insert Index/Table&lt;/f0&gt; dialog window to generate the index.</seg>
       </tuv>
