@@ -34586,6 +34586,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The disadvantage of a concordance is that it can produce an index that includes instances of common words that are irrelevant for your purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T065526Z" creationid="zerng07" creationdate="20180304T065526Z">
+        <seg>語匯索引的缺點是，它可能會做出個有條列許多項目，但多半和設想目的無關的常見單字索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The disadvantage of vertical headers and footers is that page styles do not automatically repeat them on every instance of a page style, the way th&lt;f0&gt;ey do&lt;/f0&gt; horizontal &lt;f1&gt;ones&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T145153Z" creationid="Jeff Huang" creationdate="20180128T040105Z">
