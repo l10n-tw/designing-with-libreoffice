@@ -19071,6 +19071,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the &lt;f0&gt;APA&lt;/f0&gt; style, &lt;f1&gt;a citation to&lt;/f1&gt; this book would &lt;f2&gt;use “Byfield” in the text and follow the information cited with &lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T093032Z" creationid="zerng07" creationdate="20180304T093032Z">
+        <seg>舉例，如&lt;f0&gt;APA&lt;/f0&gt;引用方式，&lt;f1&gt;如果要引用&lt;/f1&gt;此書的話，&lt;f2&gt;文字會用用作者姓氏「Byfield」，再接著&lt;/f2&gt;(201&lt;f3&gt;5&lt;/f3&gt;) 的年份資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the United Kingdom English locale, the correct spelling is “neighbo&lt;f0&gt;u&lt;/f0&gt;rs,” while in United States English, it is “neighbors.” &lt;f1&gt;A complete locale consists of separate dictionaries for spell-checking, hyphenation, and thesauruses.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043836Z" creationid="MarkHung" creationdate="20180224T043836Z">
@@ -20235,6 +20243,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212853Z" creationid="Franklin Weng" creationdate="20180206T212853Z">
         <seg>群組可以是巢狀式，也就是群組內還有群組。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>H&lt;f0&gt;owever, all citations use the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifier&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field (first on the left) to set the format for a citation in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T092615Z" creationid="zerng07" creationdate="20180304T092615Z">
+        <seg>&lt;f0&gt;然而，所有的引用都會用到「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifier&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位（左邊起第一個）設定文件中的引用格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24697,6 +24713,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T111013Z" creationid="zerng07" creationdate="20180130T140712Z">
         <seg>這種做法下，你可能會想要有個獨立的頁面樣式，&lt;f1&gt;使用時會自動建立新的一頁。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this column, you can add the citation in the correct form for the citation style.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T092740Z" creationid="zerng07" creationdate="20180304T092740Z">
+        <seg>在此欄中，你可以根據正確的引用方式格式加入引用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
