@@ -23227,6 +23227,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>經查，因為 alphabetical delimiter 同樣支援中文的「筆畫」、「部首」、「注音」順序，如「筆畫順序索引」會寫「1. 畫」「2. 畫」… 等，所以將「字母分隔符」改譯為「順序分隔標題」。</note>
+      <tuv lang="EN">
+        <seg>If you want to &lt;f0&gt;add headings with letters of the alphabet,&lt;/f0&gt; select &lt;f1&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Index/Tables &gt; Entries &gt; Alphabetical Delimiter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T043358Z" creationid="zerng07" creationdate="20180304T043358Z">
+        <seg>如果你想要&lt;f0&gt;製作有字母標題的英文字母順序索引，&lt;/f0&gt;請選取「&lt;f1&gt;插入 &gt; 目錄與索引&lt;/f1&gt;&lt;f4&gt; &gt; 目錄、索引或參考文獻 &gt; 條目 &gt; 字母分隔符」。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>依現狀改寫</note>
       <tuv lang="EN">
         <seg>If you want to create another master slide, click the&lt;f0&gt; New Master &lt;/f0&gt;icon in the floating window.</seg>
