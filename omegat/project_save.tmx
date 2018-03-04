@@ -31900,6 +31900,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, the &lt;f0&gt;Structure&lt;/f0&gt; field begins by default with the &lt;f1&gt;Short Name&lt;/f1&gt; for each item, which is not needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T132732Z" creationid="zerng07" creationdate="20180304T132732Z">
+        <seg>同樣的，「&lt;f0&gt;結構&lt;/f0&gt;」欄位 field begins by default with the &lt;f1&gt;Short Name&lt;/f1&gt; for each item, which is not needed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similarly, the &lt;f4&gt;Category&lt;/f4&gt; field is grayed out, because only one view is necessary for frames.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T175015Z" creationid="zerng07" creationdate="20171226T080715Z">
@@ -39766,8 +39774,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Position&lt;/f0&gt; field on the &lt;f1&gt;Entries&lt;/f1&gt; tab to structure each type of source used in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T124840Z" creationid="zerng07" creationdate="20180304T124840Z">
-        <seg>使用「&lt;f1&gt;條目&lt;/f1&gt;」標籤頁中的&lt;f0&gt;建構方塊&lt;/f0&gt;欄位調整文件中用到的各種來源類型的結構。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T132747Z" creationid="zerng07" creationdate="20180304T124840Z">
+        <seg>使用「&lt;f1&gt;條目&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;結構&lt;/f0&gt;」欄位調整文件中用到的各種來源類型的結構。</seg>
       </tuv>
     </tu>
     <tu>
