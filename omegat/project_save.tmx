@@ -22667,6 +22667,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose not to have an alternative entry, a first key or a second key, leave the field blank, so that one semi-colon immediately follows another.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062350Z" creationid="zerng07" creationdate="20180304T062350Z">
+        <seg>如果你選擇不要用替代條目、不要第一或第二關鍵字，那就略過欄位內容，讓半形分號緊接著另一個半形分號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you continue to have problems with frames &lt;f0&gt;and objects staying where you placed them&lt;/f0&gt;, try replacing them with tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T123006Z" creationid="zerng07" creationdate="20180210T123006Z">
