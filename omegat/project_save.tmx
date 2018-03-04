@@ -11857,6 +11857,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the format for citations in &lt;f0&gt;the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; column and the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Short Name&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114309Z" creationid="zerng07" creationdate="20180304T114309Z">
+        <seg>請在&lt;f1&gt;&lt;f2&gt;Identifer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;這欄和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;短名&lt;/f5&gt;&lt;/f4&gt;」欄位填入引用所需的對應格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the landscape page &lt;f0&gt;if it is not already in use.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T155728Z" creationid="Jeff Huang" creationdate="20180128T040447Z">
@@ -17761,6 +17769,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the correct information for each source you are using.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114035Z" creationid="zerng07" creationdate="20180304T114035Z">
+        <seg>請為你使用到的每則來源輸入正確資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the function for each statistic.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151051Z" creationid="Franklin Weng" creationdate="20180206T151051Z">
@@ -18943,6 +18959,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T162101Z" creationid="zerng07" creationdate="20171227T161926Z">
         <seg>舉例，一個清單樣式可能有個和它相關聯的字元樣式，讓它有彩色的項目符號或編號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a reference to a journal article requires different information from a reference to a book.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114206Z" creationid="zerng07" creationdate="20180304T114158Z">
+        <seg>例如，引用某個期刊文章，和引用某本書所需要提供的資訊不同。</seg>
       </tuv>
     </tu>
     <tu>
