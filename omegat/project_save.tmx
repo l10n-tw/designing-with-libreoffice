@@ -7702,6 +7702,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Today, all except the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style favor parenthetical citation, in which minimal information is presented in parentheses in the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T150411Z" creationid="zerng07" creationdate="20180304T150411Z">
+        <seg>&lt;f0&gt;今日，除了&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;規則格式以外，全都偏好用括號寫引用，在內文中以括號呈現最精簡的資訊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Too many&lt;/f0&gt; columns may result in poor hyphenation and problems with alignment.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155250Z" creationid="Jeff Huang" creationdate="20180129T095132Z">
@@ -15766,6 +15774,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072213Z" creationid="Jeff Huang" creationdate="20180115T072213Z">
         <seg>Cinzel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Citations within the text require entries in different fields in the bibliography database, and different presentations &lt;f0&gt;in the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145801Z" creationid="zerng07" creationdate="20180304T145801Z">
+        <seg>內文中的引用需要用到參考文獻資料庫中不同欄位的條目，或在文字中以不同方式呈現。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
