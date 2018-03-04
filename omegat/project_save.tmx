@@ -27405,6 +27405,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No space is entered between the semi-colon and a field’s contents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T055151Z" creationid="zerng07" creationdate="20180304T055151Z">
+        <seg>欄位內容和分號之間不能有空格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nobody has documented exactly what happened, but the name suggests that bulleted lists started being used after the invention of gun&lt;f0&gt;s loaded with balls.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T131122Z" creationid="Jeff Huang" creationdate="20180131T131348Z">
@@ -30206,8 +30214,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Search term; Alternative entry;1st key;2nd key;Match case; Word only</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T055031Z" creationid="zerng07" creationdate="20180304T055031Z">
-        <seg>搜尋用詞語; 替代條目;第一個關鍵字;第二個關鍵字;區分大小寫;完整比對字詞</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T055056Z" creationid="zerng07" creationdate="20180304T055031Z">
+        <seg>搜尋用詞語; 替代條目;第一關鍵字;第二關鍵字;區分大小寫;完整比對字詞</seg>
       </tuv>
     </tu>
     <tu>
