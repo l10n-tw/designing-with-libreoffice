@@ -2789,8 +2789,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Confusingly, t&lt;/f0&gt;he &lt;f1&gt;Identifer&lt;/f1&gt; column and the &lt;f2&gt;Short Name &lt;/f2&gt;field below the table are the same &lt;f3&gt;field&lt;/f3&gt;, and should have the same content.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113142Z" creationid="zerng07" creationdate="20180304T113142Z">
-        <seg>&lt;f0&gt;雖然常令人搞糊塗，但&lt;f1&gt;Identifer&lt;/f1&gt;這欄和表格下方的「&lt;f2&gt;短名&lt;/f2&gt;」欄位其實是相同&lt;f3&gt;欄位&lt;/f3&gt;，填入的內容應該一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113153Z" creationid="zerng07" creationdate="20180304T113142Z">
+        <seg>&lt;f0&gt;雖然常讓人糊塗，但&lt;f1&gt;Identifer&lt;/f1&gt;這欄和表格下方的「&lt;f2&gt;短名&lt;/f2&gt;」欄位其實是相同&lt;f3&gt;欄位&lt;/f3&gt;，填入的內容應該一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7519,6 +7519,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T124350Z" creationid="Jeff Huang" creationdate="20180211T031015Z">
         <seg>&lt;f0&gt;若要調整表格的整體寬度，請從右鍵選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;表格 &gt; 表格 &gt; 寬度&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。或著，如果你願意的話，也可以調整「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;對齊&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」與「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;間隔&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」選項。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To complicate matters even more,&lt;/f0&gt; the sample entries for both the &lt;f1&gt;Identifer&lt;/f1&gt; column and the &lt;f2&gt;Short Name &lt;/f2&gt;field are meaningless, &lt;f3&gt;although they have been in OpenOffice.org and LibreOffice for over a decade.&lt;/f3&gt; Replace them with the proper format for the citation style you are using.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113522Z" creationid="zerng07" creationdate="20180304T113522Z">
+        <seg>&lt;f0&gt;而讓人更摸不著頭緒的是，其實&lt;/f0&gt;&lt;f1&gt;Identifer&lt;/f1&gt;這欄和「&lt;f2&gt;短名&lt;/f2&gt;」欄位的範例條目都沒有意義，&lt;f3&gt;即便它們在OpenOffice.org和LibreOffice中已經存在超過十年多了。&lt;/f3&gt;請將之替換成你所採取引用方式的適當格式。</seg>
       </tuv>
     </tu>
     <tu>
