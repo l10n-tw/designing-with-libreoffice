@@ -7704,8 +7704,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Today, all except the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style favor parenthetical citation, in which minimal information is presented in parentheses in the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T150411Z" creationid="zerng07" creationdate="20180304T150411Z">
-        <seg>&lt;f0&gt;今日，除了&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;規則格式以外，全都偏好用括號寫引用，在內文中以括號呈現最精簡的資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T150500Z" creationid="zerng07" creationdate="20180304T150411Z">
+        <seg>&lt;f0&gt;今日，除了&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;規則格式以外，全都偏好用括號寫引用的做法，在內文中以括號呈現最精簡的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28455,8 +28455,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>On the &lt;f0&gt;&lt;f1&gt;Entries&lt;/f1&gt;&lt;/f0&gt; tab, you can define a character style so that book and journal titles are in italics or bold.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T131451Z" creationid="zerng07" creationdate="20180304T125452Z">
-        <seg>在「&lt;f0&gt;&lt;f1&gt;條目&lt;/f1&gt;&lt;/f0&gt;」標籤頁中，你可以定義字元樣式來讓英文書名或期刊名採用義大利體或粗體。至於中文的引用方式，多以「作者姓名《書名》，頁數」」或「作者姓名《書名》，出版社，出版年份，頁數」為例；而參考書目則以「《書名》（作者姓名，出版社）」、「作者姓名：《書名》（出版社，出版年份）」為例，一般不會改用其他字元樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T150858Z" creationid="zerng07" creationdate="20180304T125452Z">
+        <seg>在「&lt;f0&gt;&lt;f1&gt;條目&lt;/f1&gt;&lt;/f0&gt;」標籤頁中，你可以定義字元樣式來讓英文書名或期刊名採用義大利體或粗體。至於中文一般書籍的參考文獻，多以「作者姓名《書名》，出版社，出版年份」、「《書名》（作者姓名，出版社）」等為例，除了加書名號《》外，不會改用其他字元樣式。</seg>
       </tuv>
     </tu>
     <tu>
