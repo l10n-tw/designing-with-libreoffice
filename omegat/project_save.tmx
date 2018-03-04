@@ -7533,8 +7533,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To complicate matters even more,&lt;/f0&gt; the sample entries for both the &lt;f1&gt;Identifer&lt;/f1&gt; column and the &lt;f2&gt;Short Name &lt;/f2&gt;field are meaningless, &lt;f3&gt;although they have been in OpenOffice.org and LibreOffice for over a decade.&lt;/f3&gt; Replace them with the proper format for the citation style you are using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114345Z" creationid="zerng07" creationdate="20180304T113522Z">
-        <seg>&lt;f0&gt;而讓人更摸不著頭緒的是，其實&lt;/f0&gt;&lt;f1&gt;Identifer&lt;/f1&gt;這欄和「&lt;f2&gt;短名&lt;/f2&gt;」欄位中的範例條目都沒有意義，&lt;f3&gt;即便它們在OpenOffice.org和LibreOffice中已經存在超過十年多了。&lt;/f3&gt;請將之替換成你所採引用方式的對應格式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114739Z" creationid="zerng07" creationdate="20180304T113522Z">
+        <seg>&lt;f0&gt;而讓人更摸不著頭緒的是，&lt;/f0&gt;&lt;f1&gt;Identifer&lt;/f1&gt;這欄和「&lt;f2&gt;短名&lt;/f2&gt;」欄位中的範例條目其實都沒有實際意義，&lt;f3&gt;即便它們在OpenOffice.org和LibreOffice中已經存在超過十年多了。&lt;/f3&gt;請將之替換成你所採引用方式的對應格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33364,6 +33364,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T143748Z" creationid="Jeff Huang" creationdate="20180125T133315Z">
         <seg>&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;頁面&lt;/f7&gt;&lt;/f6&gt;的「&lt;f9&gt;&lt;f10&gt;版面配置設定&lt;/f10&gt;&lt;/f9&gt;&lt;f14&gt;」提供了四種選擇：&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Insert Bibliography Entry&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; dialog window remains open, so you can insert citations without having to re-open the dialog for each one.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T115040Z" creationid="zerng07" creationdate="20180304T115040Z">
+        <seg>「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;插入參考文獻項目&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」對話視窗會維持開啟，所以你可以繼續插入引用而不必一直重新打開對話視窗。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
