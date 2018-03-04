@@ -23310,6 +23310,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your &lt;f0&gt;e&lt;/f0&gt;ntries are short, you can save pages by &lt;f1&gt;clicking&lt;/f1&gt; &lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Index/Tables &gt; Columns&lt;/f5&gt;, and setting the index to use &lt;f6&gt;two&lt;/f6&gt; columns.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T042839Z" creationid="zerng07" creationdate="20180304T042839Z">
+        <seg>如果你的條目字數都很短，可以&lt;f1&gt;點按&lt;/f1&gt;「&lt;f2&gt;插入 &gt; 目錄與索引&lt;/f2&gt;&lt;f5&gt; &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f5&gt;」，並將索引設定成使用&lt;f6&gt;兩&lt;/f6&gt;欄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your &lt;f0&gt;table&lt;/f0&gt; entries are single words or phrases &lt;f1&gt;of a few words, you might be able to save space by setting 2–4 columns on the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Columns&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T124255Z" creationid="zerng07" creationdate="20180302T084409Z">
@@ -31561,6 +31569,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T093625Z" creationid="zerng07" creationdate="20180125T093625Z">
         <seg>因為這個字型只用在短行段落，所以就忽略第一行縮排、寡行孤行控制等元素，那些我們用不到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since this is a non-standard usage, you might modify the title to “Index.”&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T042622Z" creationid="zerng07" creationdate="20180304T042622Z">
+        <seg>因為這是非標準說法，因此你可能想將索引的標題改稱為「筆畫索引」、「部首索引」，或是單純的「索引」。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
