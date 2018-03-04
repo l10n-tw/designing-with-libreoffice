@@ -5790,6 +5790,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Place the cursor where you want the bibliography to appear in the text, and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T121619Z" creationid="zerng07" creationdate="20180304T121619Z">
+        <seg>&lt;f0&gt;將游標放到你想要在內文中插入參考文獻的位置，接著選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Placeholder&lt;/f0&gt; &lt;f1&gt;fields&lt;/f1&gt; in Writer for the opening of a letter.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T145913Z" creationid="Franklin Weng" creationdate="20171223T093302Z">
