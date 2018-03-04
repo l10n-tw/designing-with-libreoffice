@@ -17384,6 +17384,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each line &lt;f0&gt;has&lt;/f0&gt; a strict structure, consisting of seven fields, separated by a semi-colon:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T052002Z" creationid="zerng07" creationdate="20180304T052002Z">
+        <seg>每行結構都很嚴謹，必須有七個欄位，彼此間以半形分號隔開：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each of these alignments can be relative to various reference points.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T093444Z" creationid="zerng07" creationdate="20180206T093444Z">
@@ -25055,6 +25063,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a plain text file with one word or phrase defined on each line.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T051927Z" creationid="zerng07" creationdate="20180304T051927Z">
+        <seg>它是純文字檔，每一行定義一個單字或詞語。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is also clumsy.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140421Z" creationid="zerng07" creationdate="20180302T140412Z">
@@ -30184,6 +30200,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T112938Z" creationid="zerng07" creationdate="20171219T112938Z">
         <seg>捲動到你想要使用的段落樣式位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search term; Alternative entry;1st key;2nd key;Match case; Word only</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T055031Z" creationid="zerng07" creationdate="20180304T055031Z">
+        <seg>搜尋用詞語; 替代條目;第一個關鍵字;第二個關鍵字;區分大小寫;完整比對字詞</seg>
       </tuv>
     </tu>
     <tu>
