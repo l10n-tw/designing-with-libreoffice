@@ -2787,6 +2787,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Confusingly, t&lt;/f0&gt;he &lt;f1&gt;Identifer&lt;/f1&gt; column and the &lt;f2&gt;Short Name &lt;/f2&gt;field below the table are the same &lt;f3&gt;field&lt;/f3&gt;, and should have the same content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113142Z" creationid="zerng07" creationdate="20180304T113142Z">
+        <seg>&lt;f0&gt;雖然常令人搞糊塗，但&lt;f1&gt;Identifer&lt;/f1&gt;這欄和表格下方的「&lt;f2&gt;短名&lt;/f2&gt;」欄位其實是相同&lt;f3&gt;欄位&lt;/f3&gt;，填入的內容應該一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Connectors join shapes together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T060705Z" creationid="Jeff Huang" creationdate="20171229T013858Z">
