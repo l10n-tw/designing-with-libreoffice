@@ -13869,6 +13869,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author(s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084919Z" creationid="zerng07" creationdate="20180309T084919Z">
+        <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;F&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;ormat &lt;/f4&gt;does its best to apply the format despite differences.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T053837Z" creationid="Jeff Huang" creationdate="20180210T024146Z">
@@ -14442,6 +14450,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T094703Z" creationid="Franklin Weng" creationdate="20171225T132611Z">
         <seg>粗體 (Bold)：字型中每個字的主要線條有加粗的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Book</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084906Z" creationid="zerng07" creationdate="20180309T084906Z">
+        <seg>書籍</seg>
       </tuv>
     </tu>
     <tu>
@@ -19813,6 +19829,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161531Z" creationid="Franklin Weng" creationdate="20180107T031700Z">
         <seg>如果事前對以上問題有所準備，你還是能用投影片&lt;/f0&gt;作輔助強化你的演說，而不是&lt;f1&gt;讓投影片吞沒你的演講。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084903Z" creationid="zerng07" creationdate="20180309T084903Z">
+        <seg>格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -25769,6 +25793,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Journal</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084909Z" creationid="zerng07" creationdate="20180309T084909Z">
+        <seg>期刊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Judging fonts</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180101T130143Z" creationid="Franklin Weng" creationdate="20180101T130143Z">
@@ -28101,6 +28133,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number/series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085013Z" creationid="zerng07" creationdate="20180309T085013Z">
+        <seg>編號/系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Numbered lists have fewer conventions tha&lt;f0&gt;n&lt;/f0&gt; bullet lists, but they do have a few:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161600Z" creationid="Jeff Huang" creationdate="20180201T032208Z">
@@ -29421,6 +29461,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page(s)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085017Z" creationid="zerng07" creationdate="20180309T085017Z">
+        <seg>頁數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175109Z" creationid="zerng07" creationdate="20171223T175109Z">
@@ -30022,6 +30070,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Publisher</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084958Z" creationid="zerng07" creationdate="20180309T084958Z">
+        <seg>出版社</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Put&lt;f0&gt;ting&lt;/f0&gt; less space between headings and the passage they introduce &lt;f1&gt;helps the eye to associate them.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002332Z" creationid="zerng07" creationdate="20180123T013818Z">
@@ -30371,6 +30427,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042749Z" creationid="MarkHung" creationdate="20180224T042749Z">
         <seg>從頭開始編號段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retri&lt;f0&gt;e&lt;/f0&gt;ved from:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085252Z" creationid="zerng07" creationdate="20180309T085252Z">
+        <seg>引用來源：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40646,6 +40710,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Web page</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084916Z" creationid="zerng07" creationdate="20180309T084911Z">
+        <seg>網頁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is &lt;f0&gt;typography&lt;/f0&gt;?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162237Z" creationid="zerng07" creationdate="20170818T032703Z">
@@ -41843,6 +41915,22 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T112703Z" creationid="Franklin Weng" creationdate="20180101T130433Z">
         <seg>x字高 (x-height)：小寫字母「x」，以及16個&lt;f1&gt;其他&lt;/f1&gt;沒有上下延伸突出部分的小寫字母高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Year</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084921Z" creationid="zerng07" creationdate="20180309T084921Z">
+        <seg>年份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Year or [date]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085031Z" creationid="zerng07" creationdate="20180309T085031Z">
+        <seg>年份或 [日期]</seg>
       </tuv>
     </tu>
     <tu>
@@ -43536,6 +43624,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[City]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084956Z" creationid="zerng07" creationdate="20180309T084956Z">
+        <seg>[城市，可省略]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a) &lt;f0&gt;A&lt;/f0&gt; circle with a thick line and transparent area..</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T113806Z" creationid="Jeff Huang" creationdate="20180122T033512Z">
@@ -43604,6 +43700,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T141555Z" creationid="Jeff Huang" creationdate="20180122T135010Z">
         <seg>sog的檔案（StarOffice漸層，StarOffice Gradients縮寫）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>title</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085004Z" creationid="zerng07" creationdate="20180309T085004Z">
+        <seg>題名</seg>
       </tuv>
     </tu>
     <tu>
