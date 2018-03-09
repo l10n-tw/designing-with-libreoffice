@@ -17780,8 +17780,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not uses spaces to add another page, or you may run into difficulties.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140203Z" creationid="zerng07" creationdate="20180309T135703Z">
-        <seg>但不要利用空格新增其他頁面，否則你可能會遇到一些麻煩。（？？？）&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140312Z" creationid="zerng07" creationdate="20180309T135703Z">
+        <seg>但不要利用空格新增其他頁面，否則你可能會遇到一些麻煩。（？？？蛤，所以是可以加空白文字換到右頁去，但不可以弄出新一頁的空白頁的意思嗎？）&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36547,6 +36547,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The more content that is added &lt;t0/&gt;directly to the master document, the &lt;f1&gt;more likely it is likely to crash&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140409Z" creationid="zerng07" creationdate="20180309T140409Z">
+        <seg>一旦你直接在主控文件中加入&lt;t0/&gt;越多內容，就&lt;f1&gt;有越高的機會讓LibreOffice當掉。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The more manual changes you make, the more you are likely to require in the next editions of the document.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T091410Z" creationid="Jeff Huang" creationdate="20171214T055914Z">
@@ -40683,6 +40691,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040950Z" creationid="MarkHung" creationdate="20180224T040950Z">
         <seg>可以大幅減少定位點的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use page styles and/or manual page breaks to use different numbering for different parts of the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140603Z" creationid="zerng07" creationdate="20180309T140603Z">
+        <seg>利用頁面樣式，和或手動加分頁符的方式，來為主控文件的不同部分採用不同的編號。</seg>
       </tuv>
     </tu>
     <tu>
