@@ -5063,8 +5063,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice includes the tools you need for such tweaking.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T091328Z" creationid="Ｖ字龍" creationdate="20180217T091328Z">
-        <seg>LibreOffice包含無視了這類微調中你所需的工具</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T123538Z" creationid="Ｖ字龍" creationdate="20180217T091328Z">
+        <seg>&lt;f0&gt;LibreOffice包含了你做這些微調時所需的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13358,8 +13358,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Another alternative for superscript characters is to adjust the vertical alignment of text on the same line (see “&lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;Aligning different-sized text on one line&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;bf8&gt;5&lt;/bf8&gt;&lt;/f7&gt;&lt;f9&gt;).&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T113122Z" creationid="Ｖ字龍" creationdate="20180217T094143Z">
-        <seg>另一個設定上標字元的替代方案是調整在同一直線上的文字的垂直對齊（參閱&lt;f4&gt;&lt;bf5&gt;在同一直線上對齊不同大小的文字&lt;/bf5&gt;&lt;/f4&gt;，第&lt;f7&gt;&lt;bf8&gt;五&lt;/bf8&gt;&lt;/f7&gt;頁）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T124408Z" creationid="Ｖ字龍" creationdate="20180217T094143Z">
+        <seg>另一個設定上標字元的方法，是調整在同一直線上的文字的垂直對齊&lt;/f3&gt;（請參閱「&lt;f4&gt;&lt;bf5&gt;對齊一直線上的不同大小文字&lt;/bf5&gt;&lt;/f4&gt;」，第&lt;f7&gt;&lt;bf8&gt;XXXX&lt;/bf8&gt;&lt;/f7&gt;頁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21260,8 +21260,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;the software’s decisions are not always ideal, so at times you might want to tweak the spacing between characters or reposition footnote numbers.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T122301Z" creationid="Ｖ字龍" creationdate="20180217T085455Z">
-        <seg>但是，軟體做的選擇不一定總是理想的，所以有時候你會想要微調字元間的間隙或是更動註腳編號的位置。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T122405Z" creationid="Ｖ字龍" creationdate="20180217T085455Z">
+        <seg>但是，&lt;f0&gt;軟體做的選擇不一定總是理想的，所以有時候你會想要微調字元間的間隙或是更動註腳編號的位置。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27429,8 +27429,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Many are on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for character styles, although others are scattered throughout the character and paragraph style dialogs.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T103429Z" creationid="Ｖ字龍" creationdate="20180217T091528Z">
-        <seg>對字元樣式來說這些東西很多都在&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;標籤頁，而剩下的則分散在字元跟段落樣式對話窗之中。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T124045Z" creationid="Ｖ字龍" creationdate="20180217T091528Z">
+        <seg>對字元樣式來說，這些東西很多都在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁，而剩下的則分散在字元跟段落樣式對話窗之中。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27445,8 +27445,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Many characters have what is called an x-height – the height of a letter x, but also of an m or r, as well as the bowl of a lower case b or p.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T100043Z" creationid="Ｖ字龍" creationdate="20180217T095249Z">
-        <seg>很多字元都有被稱為 x-height 的東西——x字母的高度，也涵蓋m或r的高度以及小寫b與p的中空結構的高度。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T125533Z" creationid="Ｖ字龍" creationdate="20180217T095249Z">
+        <seg>很多字元都有所謂的 "x-height" — 也就是小寫 x 字母的高度，這個高度也是 m 或 r 等字母的高度，以及小寫 b 與 p 字母中所謂的高度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34690,8 +34690,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Position&lt;/f0&gt; tab of a character style gives you several advanced options for &lt;f1&gt;adjusting&lt;/f1&gt; superscript &lt;f2&gt;characters (above others on the same line)&lt;/f2&gt; and subscript characters &lt;f3&gt;(below others on the same line).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T093431Z" creationid="Ｖ字龍" creationdate="20180217T093431Z">
-        <seg>字元樣式的&lt;f0&gt;位置&lt;/f0&gt;分頁提供你用來&lt;f1&gt;調整&lt;/f1&gt;上標字元（比其他在同一直線上的字元還有在上面）以及下標字元（比其他在同一直線上的字元還要再下面）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T124301Z" creationid="Ｖ字龍" creationdate="20180217T093431Z">
+        <seg>字元樣式的&lt;f0&gt;位置&lt;/f0&gt;標籤頁中，有選項讓你用來&lt;f1&gt;調整&lt;/f1&gt;&lt;f2&gt;上標字元&lt;/f2&gt;（在其他在同一直線上的字元上面）以及&lt;f3&gt;下標字元（在其他在同一直線上的字元下面）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37883,8 +37883,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These adjustments are relatively common, because, &lt;f0&gt;depending on the font, &lt;/f0&gt;LibreOffi&lt;f1&gt;c&lt;/f1&gt;e’s default superscript and subscript characters &lt;f2&gt;can sometimes be too &lt;/f2&gt;too small for easy reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095645Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
-        <seg>這些調整是相對常見的，因為根據選用的字型而定，有時LibreOffice預設的上標與下標文字大小過小而不易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T124756Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
+        <seg>這些調整是相對常見的，因為&lt;f0&gt;根據所使用的字型&lt;/f0&gt;，有時LibreOffice預設的上標與下標文字大小會&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;太小而不易閱讀。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39725,8 +39725,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To understand superscript and subscript &lt;f0&gt;characters&lt;/f0&gt;, you have to &lt;f1&gt;remember&lt;/f1&gt; that all letters sit on an imaginary baseline.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095948Z" creationid="Ｖ字龍" creationdate="20180217T094744Z">
-        <seg>要了解上標與下標字元，你必須記得所有字母接座落於一個想像出來的基線上。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T124857Z" creationid="Ｖ字龍" creationdate="20180217T094744Z">
+        <seg>要了解上標與下標&lt;f0&gt;字元&lt;/f0&gt;，你必須&lt;f1&gt;記住&lt;/f1&gt;，所有字母都座落於一個想像出來的基線上。</seg>
       </tuv>
     </tu>
     <tu>
