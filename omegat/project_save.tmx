@@ -23316,6 +23316,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you change a sub-document’s name &lt;f0&gt;–&lt;/f0&gt; &lt;f1&gt;for instance,&lt;/f1&gt; &lt;f2&gt;to indicate a draft – you have to re-insert any cross-references to it.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T122536Z" creationid="zerng07" creationdate="20180309T122536Z">
+        <seg>如果你改動了子文件的名稱&lt;f0&gt;——&lt;/f0&gt;&lt;f1&gt;例如，&lt;/f1&gt;&lt;f2&gt;改名來指出這還是草稿——你必須重新插入任何參考它的交叉參照文字。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you change the position of points, their opening and closing sentences &lt;f0&gt;and transitions may need rewording.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T055113Z" creationid="Jeff Huang" creationdate="20171123T064423Z">
