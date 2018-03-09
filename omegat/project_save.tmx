@@ -41274,6 +41274,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When sub-documents are opened, they are reformatted according to the master document’s template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112332Z" creationid="zerng07" creationdate="20180309T112332Z">
+        <seg>當開啟子文件時，子文件會根據主控文件的範本做格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When such a paragraph style is in use, you change the &lt;/f0&gt;level and the numbering by pressing &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Tab&lt;/f2&gt; &lt;f3&gt;key &lt;/f3&gt;to descend a level, and &lt;f4&gt;Shift+Tab&lt;/f4&gt; to &lt;f5&gt;ascend a level&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T142737Z" creationid="Jeff Huang" creationdate="20180201T072725Z">
@@ -42862,6 +42870,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T150908Z" creationid="zerng07" creationdate="20180224T150908Z">
         <seg>你可以用附有清單樣式的標題段落樣式草擬大綱，或是用附有大綱清單樣式的單一段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can print from a master document, and edit text created in one, but all sub-documents must be opened separately to edit them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112521Z" creationid="zerng07" creationdate="20180309T112521Z">
+        <seg>你可以從主控文件列印，並編輯這一份檔案的文字，但所有的子文件都必須個別開啟才能編輯。</seg>
       </tuv>
     </tu>
     <tu>
