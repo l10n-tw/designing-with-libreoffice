@@ -7805,6 +7805,15 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <note>Toggle Master View 舊譯為切換母片檢視為錯誤翻譯，已修正為「切換主控檢視」，未來新版將收錄。</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To toggle the view, click &lt;/f0&gt;th&lt;f1&gt;e &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Toggle&lt;/f3&gt;&lt;/f2&gt; button in the upper left of the tool bar.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T121827Z" creationid="zerng07" creationdate="20180309T121827Z">
+        <seg>&lt;f0&gt;若要切換檢視畫面，請點按助手視窗中工具列左上角的「&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;切換主控文件檢視&lt;/f3&gt;&lt;/f2&gt;」按鈕。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To use&lt;/f0&gt; the template, navigate to the directory &lt;f1&gt;in which the template was saved.</seg>
       </tuv>
