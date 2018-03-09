@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;For this reason, &lt;f1&gt;in case of conflict, &lt;/f1&gt;use the information and order given here or online in preference to the defaults on the &lt;f2&gt;Entries&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084900Z" creationid="zerng07" creationdate="20180309T084547Z">
+        <seg>&lt;/f0&gt;基於此因，&lt;f1&gt;為了避免衝突，&lt;/f1&gt;請盡可能使用這裡提供的或線上的資訊，而不是「&lt;f2&gt;條目&lt;/f2&gt;」標籤頁中的預設值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;If necessary, experiment with the exact settings first, making note&lt;f1&gt;s&lt;/f1&gt; of all the settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114808Z" creationid="zerng07" creationdate="20180206T062947Z">
@@ -26408,8 +26416,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice’s bibliography database has not been updated for years.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084503Z" creationid="zerng07" creationdate="20180309T084503Z">
-        <seg>LibreOffice的參考文獻資料庫已經有數年沒有翻新過。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084613Z" creationid="zerng07" creationdate="20180309T084503Z">
+        <seg>LibreOffice的參考文獻資料庫多年來沒有翻新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27165,6 +27173,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132515Z" creationid="Jeff Huang" creationdate="20180201T024813Z">
         <seg>也許是句子的片段，但應該與其他點能前後一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meanwhile, citation styles have changed &lt;f0&gt;dramatically, many becoming simpler.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084635Z" creationid="zerng07" creationdate="20180309T084541Z">
+        <seg>前不久，引用樣式已大幅修改&lt;f0&gt;，多數變得更簡單。</seg>
       </tuv>
     </tu>
     <tu>
