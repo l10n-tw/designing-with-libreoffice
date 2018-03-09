@@ -1261,6 +1261,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;A&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;uthor(s)&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085409Z" creationid="zerng07" creationdate="20180309T085409Z">
+        <seg>&lt;f2&gt;作者&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Alignment: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Available from &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table &gt; Input in Tables&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Alignment&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; places numbers in the lower right corner of a cell, as in a spreadsheet.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T160348Z" creationid="Jeff Huang" creationdate="20180212T093031Z">
@@ -1734,6 +1742,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140206Z" creationid="Franklin Weng" creationdate="20180105T144405Z">
         <seg>&lt;f0&gt;可接受的色彩灰度某種程度上受到社會文化、時代，還有不同設計學校的原則……等影響。&lt;/f0&gt;&lt;f1&gt;不過，在某些情境下還是得對行距做些調整才行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Accessed: &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Year &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; [Date]&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085649Z" creationid="zerng07" creationdate="20180309T085649Z">
+        <seg>&lt;f0&gt;存取時間：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;年份&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; [日期]&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
