@@ -6932,6 +6932,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he sub-documents should &lt;f1&gt;all &lt;/f1&gt;use the same template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123949Z" creationid="zerng07" creationdate="20180309T123949Z">
+        <seg>子文件應該&lt;f1&gt;全部&lt;/f1&gt;都用同一份範本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he types of styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T172930Z" creationid="zerng07" creationdate="20171223T172930Z">
@@ -8140,6 +8148,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144634Z" creationid="Franklin Weng" creationdate="20180206T144634Z">
         <seg>&lt;f0&gt;用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;數值&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式來對標題下方那一列做格式設定，並且輸入每一項目的權重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use the same template to create the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124100Z" creationid="zerng07" creationdate="20180309T124100Z">
+        <seg>&lt;f0&gt;請使用相同的範本製作主控文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10340,6 +10356,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135216Z" creationid="Franklin Weng" creationdate="20180129T135216Z">
         <seg>&lt;f2&gt;你可以在「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;資料 &gt; 樞紐分析表 &gt; 建立」出現的視窗中，「來源與目的地 &gt; 目的地&lt;/f4&gt;&lt;/f3&gt;」改變梳紐分析表的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;You can create master documents from sub-documents with different templates, but you might have formatting problems.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124037Z" creationid="zerng07" creationdate="20180309T124037Z">
+        <seg>&lt;f2&gt;你可以拿不同範本的子文件做成主控文件，但你或許會遇到格式設定問題。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16095,6 +16119,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131817Z" creationid="zerng07" creationdate="20180205T131817Z">
         <seg>清理影像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>ㄝ，LibreOffice 目前有「主文件」和「主控文件」兩個翻譯，前者 11 條，後者遠超過 11 條，基於方便統一為「主控文件」，未來版本會看見修正的翻譯。</note>
+      <tuv lang="EN">
+        <seg>Click &lt;/f0&gt;&lt;f1&gt;File &gt; Send &gt; Create Master Document &lt;/f1&gt;and save&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124621Z" creationid="zerng07" creationdate="20180309T124621Z">
+        <seg>點按「&lt;/f0&gt;&lt;f1&gt;檔案 &gt; 傳送 &gt; 製作主控文件&lt;/f1&gt;」並儲存。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
