@@ -15868,8 +15868,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Citation&lt;f0&gt;s&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090202Z" creationid="zerng07" creationdate="20180309T090202Z">
-        <seg>引用數</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090510Z" creationid="zerng07" creationdate="20180309T090202Z">
+        <seg>引用方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -16888,8 +16888,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Datab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090156Z" creationid="zerng07" creationdate="20180309T090156Z">
-        <seg>資料庫</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090534Z" creationid="zerng07" creationdate="20180309T090156Z">
+        <seg>資料記錄</seg>
       </tuv>
     </tu>
     <tu>
@@ -27309,6 +27309,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161724Z" creationid="Franklin Weng" creationdate="20180107T062453Z">
         <seg>聽眾需要&lt;f0&gt;個別關注，或是討論很重要。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mention the author at the start of the sentence that includes the citation.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090705Z" creationid="zerng07" creationdate="20180309T090705Z">
+        <seg>在引用的句子開頭處先提及作者。</seg>
       </tuv>
     </tu>
     <tu>
