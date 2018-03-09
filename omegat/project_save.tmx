@@ -9893,6 +9893,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;In Navigator’s master document view, each text area is only labeled as &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Text,&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; so their use should be minimized to avoid confusion.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T115405Z" creationid="zerng07" creationdate="20180309T115405Z">
+        <seg>&lt;f2&gt;在「助手」的主控文件檢視中，各個文字區域僅用「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;文字&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」作為標籤，所以請盡可能減少使用以避免搞混。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;In the most recent versions of Writer, the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Insert&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; menu uses &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Media&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; as well.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T122804Z" creationid="zerng07" creationdate="20180130T122804Z">
@@ -9929,6 +9937,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T150340Z" creationid="Franklin Weng" creationdate="20180103T133824Z">
         <seg>&lt;f2&gt;就跟人文主義襯線體一樣，舊式字體在一般使用上也很受歡迎。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Like any text, they can be replaced by sub-documents.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T115152Z" creationid="zerng07" creationdate="20180309T115152Z">
+        <seg>&lt;f2&gt;和任何文字一樣，它們可以用子文件取代。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33858,6 +33874,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180111T124244Z" creationid="Jeff Huang" creationdate="20180111T124244Z">
         <seg>文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text: &lt;f0&gt;Areas between&lt;/f0&gt; sub-documents &lt;f1&gt;that are part of the master document&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T115255Z" creationid="zerng07" creationdate="20180309T115255Z">
+        <seg>文字：&lt;f0&gt;子文件與子文件之間的區塊&lt;/f0&gt;&lt;f1&gt;，屬於主控文件的一部分。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
