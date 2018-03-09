@@ -4350,6 +4350,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If possible, u&lt;/f0&gt;se the same template to create the master document and all its sub-documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T122819Z" creationid="zerng07" creationdate="20180309T122819Z">
+        <seg>&lt;f0&gt;如果可以，請&lt;/f0&gt;用同一份範本製作主控文件，和其所有子文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If possible, use a font used elsewhere in the document.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T075006Z" creationid="Jeff Huang" creationdate="20180104T075428Z">
@@ -8738,6 +8746,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032342Z" creationid="zerng07" creationdate="20180213T032342Z">
         <seg>&lt;f1&gt;一個外框僅能從另一個外框接收文字流，然後輸出文字流到再另一個外框。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;A sub-document with a different template may have formatting problems when you switch between using it by itself and using it as a sub-document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123013Z" creationid="zerng07" creationdate="20180309T122948Z">
+        <seg>&lt;f1&gt;如果子文件採用不同的範本，當你另外打開，爾後又在主控文件中開啟時可能會遇到格式設定上的問題。</seg>
       </tuv>
     </tu>
     <tu>
