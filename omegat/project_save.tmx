@@ -1690,6 +1690,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt; document &lt;f1&gt;(such as a book) has multiple authors.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T113140Z" creationid="zerng07" creationdate="20180309T113140Z">
+        <seg>一份文件&lt;f1&gt;（例如書籍）有多位作者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt; simple design is preferable to a complicated one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T162918Z" creationid="Jeff Huang" creationdate="20180116T060809Z">
@@ -5125,6 +5133,14 @@ f1</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;aterial &lt;f1&gt;is&lt;/f1&gt; used in different places.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T113036Z" creationid="zerng07" creationdate="20180309T113036Z">
+        <seg>內容會在不同地方重複使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>## 無視 ##
 * f0
 * f1
@@ -8469,8 +8485,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;our computer’s memory is limite&lt;f1&gt;d, so you are working with small documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112945Z" creationid="zerng07" creationdate="20180309T112945Z">
-        <seg>你電腦的記憶體有限，所以只能處理檔案小的文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112958Z" creationid="zerng07" creationdate="20180309T112945Z">
+        <seg>你的電腦記憶體有限，所以只能處理檔案小的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11190,6 +11206,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T145231Z" creationid="zerng07" creationdate="20170903T144903Z">
         <seg>至於「&lt;f1&gt;頁面&lt;/f1&gt;樣式」，一般會列出這本書所有相關的頁面設計樣式，像是頁面邊距、紙張方向採直向或橫向、或是背景色彩等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f2&gt;sub-document&lt;/f2&gt; can be &lt;f3&gt;included&lt;/f3&gt; in &lt;f4&gt;more than one&lt;/f4&gt; &lt;f5&gt;m&lt;/f5&gt;aster document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T113111Z" creationid="zerng07" creationdate="20180309T113111Z">
+        <seg>一份&lt;f2&gt;子文件&lt;/f2&gt;可以被多份主控文件&lt;f3&gt;收錄&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14001,6 +14025,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084919Z" creationid="zerng07" creationdate="20180309T084919Z">
         <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Authors can work on sub-documents (such as chapters) by themselves, then you use the master document for assembling the complete document.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T113300Z" creationid="zerng07" creationdate="20180309T113300Z">
+        <seg>不同作者可以各自處理子文件（例如不同章節），接著你可以用主控文件組合成完整文件。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
