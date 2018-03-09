@@ -7456,6 +7456,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The reason is that m&lt;/f0&gt;ost readers’ eyes fall on the right page first.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135600Z" creationid="zerng07" creationdate="20180309T135600Z">
+        <seg>&lt;f0&gt;原因是&lt;/f0&gt;大多習慣由左往右閱讀的讀者，眼球會先落在右頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The result is usually cramped and awkward-looking.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T080916Z" creationid="zerng07" creationdate="20180208T080916Z">
@@ -9087,6 +9095,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153051Z" creationid="Franklin Weng" creationdate="20180216T153051Z">
         <seg>&lt;f1&gt;如果你還是有問題，就考慮別加上其他的元素吧！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;If you want a page to be a right page, add a blank text in the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135648Z" creationid="zerng07" creationdate="20180309T135648Z">
+        <seg>&lt;f1&gt;如果你想要某一頁變成右頁，請在主控文件中加入一段空白文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35583,8 +35599,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The convention is to start each new part of a long document on a right, odd-numbered page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135330Z" creationid="zerng07" creationdate="20180309T135330Z">
-        <seg>慣例g4</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135438Z" creationid="zerng07" creationdate="20180309T135330Z">
+        <seg>慣例是在長篇文件的右頁，也就是奇數頁，開啟新的內容部分。</seg>
       </tuv>
     </tu>
     <tu>
