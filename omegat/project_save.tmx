@@ -7984,6 +7984,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;nless the master document and sub-documents share the same template, the sub-documents reformat each time you use the master document, &lt;f1&gt;increasing the chances of corruption.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T151939Z" creationid="zerng07" creationdate="20180309T151939Z">
+        <seg>除非主控文件和子文件共用同個範本，否則每次你在使用主控文件時子文件的格式都會重新調整，&lt;f1&gt;提高了檔案損毀的機會。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;U&lt;/f0&gt;se this chapter’s headings as a checklist so you cover all the basic formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T093444Z" creationid="zerng07" creationdate="20180121T093437Z">
@@ -35176,6 +35184,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151345Z" creationid="zerng07" creationdate="20180224T151336Z">
         <seg>「助手」(Navigator) 是LibreOffice中最沒人注意到的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Navigator is open when you finish saving the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T152025Z" creationid="zerng07" creationdate="20180309T152007Z">
+        <seg>當你儲存好主控文件之後，「助手」會開啟。</seg>
       </tuv>
     </tu>
     <tu>
