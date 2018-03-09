@@ -6,18 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;f0&gt;Author, Year&lt;/f0&gt;, pages)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090944Z" creationid="zerng07" creationdate="20180309T090916Z">
+        <seg>（&lt;f0&gt;作者，年份&lt;/f0&gt;，頁數）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;f0&gt;Author&lt;/f0&gt; pages)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090744Z" creationid="zerng07" creationdate="20180309T090744Z">
-        <seg>(&lt;f0&gt;作者&lt;/f0&gt; 頁數)</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090953Z" creationid="zerng07" creationdate="20180309T090744Z">
+        <seg>（&lt;f0&gt;作者&lt;/f0&gt; 頁數）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>(&lt;f0&gt;Year&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090218Z" creationid="zerng07" creationdate="20180309T090218Z">
-        <seg>(&lt;f0&gt;年份&lt;/f0&gt;)</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T091000Z" creationid="zerng07" creationdate="20180309T090218Z">
+        <seg>（&lt;f0&gt;年份&lt;/f0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3444,6 +3452,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T085239Z" creationid="Jeff Huang" creationdate="20180210T033124Z">
         <seg>表格字型應與內文的文字大小相同，雖然可能會改用不同的字型或字重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;F&lt;/f0&gt;ootnote or endnote</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T091014Z" creationid="zerng07" creationdate="20180309T091014Z">
+        <seg>註腳或尾註</seg>
       </tuv>
     </tu>
     <tu>
@@ -16710,6 +16726,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating footnotes and endnotes</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T091207Z" creationid="zerng07" creationdate="20180309T091207Z">
+        <seg>製作註腳或尾註</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating marginalia and sideheads</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T093727Z" creationid="zerng07" creationdate="20180211T093727Z">
@@ -19055,6 +19079,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084529Z" creationid="Franklin Weng" creationdate="20180303T084529Z">
         <seg>註腳字元</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Footnote or endnote.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T091022Z" creationid="zerng07" creationdate="20180309T091022Z">
+        <seg>註腳或尾註。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28621,6 +28653,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Older version uses footnotes or endnotes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090935Z" creationid="zerng07" creationdate="20180309T090935Z">
+        <seg>先前版本則採用註腳或尾註。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On a first page, you might even be able to position the image more or less the way you want it by extending the height of the header or footer.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T024953Z" creationid="Jeff Huang" creationdate="20180130T060201Z">
@@ -34933,6 +34973,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T112832Z" creationid="zerng07" creationdate="20180304T112832Z">
         <seg>無論採用怎樣的引用方式，你應該用參考文獻資料庫作為&lt;f1&gt;文字的引用來源。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The bibliography database fields need for in-text citations, and the citation formats.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T091131Z" creationid="zerng07" creationdate="20180309T091131Z">
+        <seg>內文引用所需記錄的參考文獻資料庫欄位，及其引用格式。</seg>
       </tuv>
     </tu>
     <tu>
