@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;f0&gt;Author&lt;/f0&gt; pages)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090744Z" creationid="zerng07" creationdate="20180309T090744Z">
+        <seg>(&lt;f0&gt;作者&lt;/f0&gt; 頁數)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;f0&gt;Year&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090218Z" creationid="zerng07" creationdate="20180309T090218Z">
@@ -12045,6 +12053,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180211T152112Z" creationid="zerng07" creationdate="20180211T152112Z">
         <seg>將正文放到文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add title if different sources are used by the same author.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090854Z" creationid="zerng07" creationdate="20180309T090854Z">
+        <seg>如果引用同位作者的不同著作來源時，則應補入著作題名。</seg>
       </tuv>
     </tu>
     <tu>
