@@ -26646,6 +26646,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like many advanced aspects of Writer, they work best with a consistent use of templates and styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T095924Z" creationid="zerng07" creationdate="20180309T095924Z">
+        <seg>與Writer的其他許多進階功能一樣，它們最好採用一致的範本和樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like many galleries in Writer, table AutoFormats include many styles that were popular in the mid-1990s, but have fallen out of fashion since.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T151822Z" creationid="Jeff Huang" creationdate="20180212T125225Z">
@@ -27325,6 +27333,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083600Z" creationid="Jeff Huang" creationdate="20171214T060243Z">
         <seg>主控文件與獨立的子文件的分頁位置可能不一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master documents&lt;f0&gt; &lt;/f0&gt;are &lt;f1&gt;meta-documents: documents made from a collection of Writer documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T095836Z" creationid="zerng07" creationdate="20180309T095836Z">
+        <seg>主控文件是&lt;f1&gt;種統理文件 (meta-document)：由一組Writer文件構成的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40528,6 +40544,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T093400Z" creationid="Franklin Weng" creationdate="20171223T093400Z">
         <seg>在範本中使用欄位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using master documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T095635Z" creationid="zerng07" creationdate="20180309T095635Z">
+        <seg>使用主控文件</seg>
       </tuv>
     </tu>
     <tu>
