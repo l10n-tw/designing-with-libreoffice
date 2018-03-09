@@ -39328,6 +39328,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use &lt;f0&gt;the bibliography database for footnotes and endnotes, set up the citation in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifier&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; column of the bibliography database.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T092539Z" creationid="zerng07" creationdate="20180309T092539Z">
+        <seg>若要拿&lt;f0&gt;參考文獻資料庫用在註腳和尾註上，必須設置參考文獻資料庫中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifier&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位作引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use bullets for repeated graphics:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030807Z" creationid="Jeff Huang" creationdate="20180208T064650Z">
