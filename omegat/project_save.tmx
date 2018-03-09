@@ -5934,6 +5934,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Place a master document and all of its sub-documents &lt;/f0&gt;in the same directory.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123156Z" creationid="zerng07" creationdate="20180309T123156Z">
+        <seg>&lt;f0&gt;在同一個目錄中放置主控文件與其所有子文件。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Place the cursor at the start of the first line.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T120246Z" creationid="Franklin Weng" creationdate="20180120T120246Z">
@@ -23260,6 +23268,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using a sub-document in more than one master document, ignore this advice and hope for the best.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123127Z" creationid="zerng07" creationdate="20180309T123127Z">
+        <seg>如果你在一份以上的主控文件中使用這篇子文件，請忽略這則建議並祈求蒼天保佑。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using any page size other than Letter, increase &lt;f0&gt;Spacing &gt; Below&lt;/f0&gt; to a multiple of 1&lt;f1&gt;8.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005842Z" creationid="zerng07" creationdate="20180125T125702Z">
@@ -29440,6 +29456,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T140216Z" creationid="Jeff Huang" creationdate="20180126T030225Z">
         <seg>因此，通常你可以忽略「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;頁面的版面配置&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ordinarily, you probably want each part of a master document to start on a separate page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123312Z" creationid="zerng07" creationdate="20180309T123312Z">
+        <seg>通常，你可能會希望主控文件中的各部分從不同頁面開始。</seg>
       </tuv>
     </tu>
     <tu>
