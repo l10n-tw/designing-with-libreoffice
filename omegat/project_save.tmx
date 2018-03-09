@@ -3677,8 +3677,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example,&lt;/f0&gt; &lt;f1&gt;without consulting users, Writer examines&lt;/f1&gt; font files to display characters properly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T091019Z" creationid="Ｖ字龍" creationdate="20180217T084835Z">
-        <seg>例如，在未諮詢使用者的狀況下Writer就已經掃描了字型檔案以妥善地在對的位置顯示字元。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T122026Z" creationid="Ｖ字龍" creationdate="20180217T084835Z">
+        <seg>&lt;f0&gt;例如，&lt;/f0&gt;&lt;f1&gt;在不需要使用者操新的狀況下，Writer自己就會掃描字型檔，&lt;/f1&gt;以便正確適當地顯示字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9928,8 +9928,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;It also detects whether a font family includes italics or bold weights, and decides the size and placement of footnote numbers.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095238Z" creationid="Ｖ字龍" creationdate="20180217T085050Z">
-        <seg>另外它也偵測了一字型家族是否包含了斜體或粗體字重的字型，並決定註腳編號的大小與位置。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T122221Z" creationid="Ｖ字龍" creationdate="20180217T085050Z">
+        <seg>&lt;f2&gt;另外它也會偵測一個字型家族中是否包含了義式斜體或粗體字重的字型，並決定註腳編號的大小與位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19398,8 +19398,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, a conditional style allows you to format the same style differently depending on its context, &lt;f0&gt;or set a paragraph style so that it always starts a new page.&lt;/f0&gt; Although &lt;f1&gt;casual users&lt;/f1&gt; may never be aware of such features, those who wri&lt;f2&gt;te as part of their work &lt;/f2&gt;will soon become well aware of the time these feature save.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T040421Z" creationid="Ｖ字龍" creationdate="20180217T035812Z">
-        <seg>舉例來說，條件式樣式能讓你根據內容的不同來對相同的樣式進行不同的格式設定，&lt;f0&gt;或是設定一個段落樣式來讓它永遠從一新頁面開始&lt;/f0&gt;。雖然&lt;f1&gt;一般的使用者&lt;/f1&gt;可能永遠都不會注意到這種功能，但對那些以文書處理作為職業的一部分的人會很快地充分察覺到這些功能可以節省的時間。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T120913Z" creationid="Ｖ字龍" creationdate="20180217T035812Z">
+        <seg>舉例來說，條件式樣式能讓你根據內容的不同來對相同的樣式進行不同的格式設定，&lt;f0&gt;或是設定一個段落樣式來讓它永遠從新的頁面開始&lt;/f0&gt;。雖然&lt;f1&gt;一般的使用者&lt;/f1&gt;可能永遠都不會注意到這種功能，但對那些以文書處理作為職業的一部分的人會很快地充分察覺到這些功能可以節省的時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21139,8 +21139,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;the software’s decisions are not always ideal, so at times you might want to tweak the spacing between characters or reposition footnote numbers.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T091218Z" creationid="Ｖ字龍" creationdate="20180217T085455Z">
-        <seg>但是，軟體的決策不一定總是理想的，所以有時候你會想要微調字元間的間隙或是更動註腳編號的位置。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T122301Z" creationid="Ｖ字龍" creationdate="20180217T085455Z">
+        <seg>但是，軟體做的選擇不一定總是理想的，所以有時候你會想要微調字元間的間隙或是更動註腳編號的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26793,8 +26793,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like most word processors or layout software, LibreOffice does much of the housekeeping for design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095126Z" creationid="Ｖ字龍" creationdate="20180217T083709Z">
-        <seg>就跟大多數的文書處理或排版軟體一樣，LibreOffice在大部分的文件設計細節的打理上下足了功夫。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121438Z" creationid="Ｖ字龍" creationdate="20180217T083709Z">
+        <seg>就跟大多數的文書處理或排版軟體一樣，LibreOffice在大部分的文件設計細節上下足了功夫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33931,8 +33931,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Th&lt;f0&gt;is chapter concludes the ongoing discussion about character and paragraph styles by talking about &lt;/f0&gt;the&lt;f1&gt;ir&lt;/f1&gt; advanced features.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180107T211517Z" creationid="Ｖ字龍" creationdate="20180107T211517Z">
-        <seg>本章藉由介紹字元與段落樣式的一些進階特色來總結過去一直在討論的字元與段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T120826Z" creationid="Ｖ字龍" creationdate="20180107T211517Z">
+        <seg>&lt;f0&gt;本章藉由介紹字元與段落樣式的一些&lt;/f0&gt;&lt;f1&gt;進階特色&lt;/f1&gt;來總結過去一直在討論的字元與段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40117,8 +40117,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Unique to character styles, the &lt;f0&gt;Position&lt;/f0&gt; tab is the main spot for adjusting individual characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T084333Z" creationid="Ｖ字龍" creationdate="20180217T084333Z">
-        <seg>字元樣式獨有的&lt;f0&gt;位置&lt;/f0&gt;分頁標籤是用來調整個別字元位置的主要地方。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121631Z" creationid="Ｖ字龍" creationdate="20180217T084333Z">
+        <seg>字元樣式獨有的&lt;f0&gt;位置&lt;/f0&gt;標籤頁是用來調整個別字元位置的主要地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42444,8 +42444,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Yet in one unimportant-looking toggle switch, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hide&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; provides an elegant solution for one of the most difficult tasks for professional documenters – maintaining multiple versions of the same document in a single file.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T095020Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
-        <seg>但在一個看似不重要的開關底下，&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;提供了對於職業饌文人來說其中一個最困難的差事——在同一個檔案中維護同一份文件的多個版本——的一個優雅的解決方案。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121405Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
+        <seg>但在一個看似不重要的開關底下，「&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;」提供了一個優雅的解決方案，解決對於職業文書人員來說其中一個最困難的差事—在同一個檔案中維護同一份文件的多個版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42516,8 +42516,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You &lt;f0&gt;will rarely use&lt;/f0&gt; these features all the time, &lt;f1&gt;nor all of them&lt;/f1&gt; &lt;f2&gt;at once.&lt;/f2&gt; &lt;f3&gt;However, &lt;/f3&gt;knowing what is available can help you to design your documents more intelligently and to work more &lt;f4&gt;efficiently&lt;/f4&gt; when you write.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T094907Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
-        <seg>你&lt;f0&gt;幾乎不會&lt;/f0&gt;無時不刻都在使用這些功能，&lt;f1&gt;也不會全部&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;都用上。&lt;f3&gt;但是&lt;/f3&gt;知道什麼功能是可用的可以幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121009Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
+        <seg>你大部份時間都&lt;f0&gt;幾乎不會&lt;/f0&gt;使用這些功能，&lt;f1&gt;也不會全部&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;都用上。&lt;f3&gt;但是&lt;/f3&gt;知道什麼功能是可用的，可以幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
       </tuv>
     </tu>
     <tu>
