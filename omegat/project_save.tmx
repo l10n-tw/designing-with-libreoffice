@@ -43397,6 +43397,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can set this format up automatically using the &lt;f0&gt;Breaks&lt;/f0&gt; section on the &lt;f1&gt;Text Flow&lt;/f1&gt; tab &lt;f2&gt;of paragraph styles &lt;/f2&gt;to start a new page after &lt;f3&gt;the paragraph style that begins all the sub-documents, such as &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Heading 1..</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135208Z" creationid="zerng07" creationdate="20180309T135208Z">
+        <seg>你可以利用&lt;f2&gt;段落樣式&lt;/f2&gt;的「&lt;f1&gt;排文和分頁&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;隔斷符&lt;/f0&gt;」區段，讓所有子文件的開啟段落樣式&lt;f3&gt;換新頁，例如：「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;標題 1」樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can set up multiple page sheet printing through&lt;f1&gt; File &gt; Print&lt;/f1&gt;, or else by &lt;f2&gt;using&lt;/f2&gt; text frames &lt;f3&gt;instead of pages.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114359Z" creationid="Jeff Huang" creationdate="20180125T125635Z">
