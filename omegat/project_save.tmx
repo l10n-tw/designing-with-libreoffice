@@ -10061,6 +10061,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Sub-documents help multiple authors to work on the same master document at the same time.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T115012Z" creationid="zerng07" creationdate="20180309T115012Z">
+        <seg>&lt;f2&gt;子文件能協助多位作者同時處理同一份主控文件。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;T&lt;/f2&gt;he &lt;f3&gt;SIL&lt;/f3&gt; Font License &lt;f4&gt;is the most widely used license for free fonts, and responsible for much of the spread of free fonts.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T183814Z" creationid="zerng07" creationdate="20170822T183814Z">
@@ -25357,6 +25365,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Indexes and tables &lt;f0&gt;of objects&lt;/f0&gt; &lt;f1&gt;i&lt;/f1&gt;nserted into text areas of the master document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T115132Z" creationid="zerng07" creationdate="20180309T115132Z">
+        <seg>插入主控文件文字區域中的物件目錄和索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Indicators call attention to elements that you want readers to find easily as they follow your discussion.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T034836Z" creationid="zerng07" creationdate="20180205T141303Z">
@@ -33450,6 +33466,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061321Z" creationid="Franklin Weng" creationdate="20180211T061321Z">
         <seg>&lt;f0&gt;小計&lt;/f0&gt;與&lt;f1&gt;總和&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub-documents: Small&lt;f0&gt;er&lt;/f0&gt;, individual files.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T114802Z" creationid="zerng07" creationdate="20180309T114802Z">
+        <seg>子文件：較短小的、個別的檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42838,6 +42862,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T105623Z" creationid="Jeff Huang" creationdate="20180122T024702Z">
         <seg>你可以從&lt;f1&gt;&lt;f2&gt;「修改」&lt;/f2&gt;&lt;/f1&gt;選單或右鍵選單中，選取「進入群組」來編輯群組中的個別形狀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit one by selecting it in the Navigator, and selecting &lt;f1&gt;Edit&lt;/f1&gt; from the right-click menu.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T114857Z" creationid="zerng07" creationdate="20180309T114857Z">
+        <seg>你可以在「助手」中選取其中一份，接著在右鍵選單中選取「&lt;f1&gt;編輯&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
