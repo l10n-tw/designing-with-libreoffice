@@ -19785,6 +19785,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, one common format is use lower case roman numerals for front matter such as copyright pages and tables of contents, and Arabic numbers for the main text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140758Z" creationid="zerng07" creationdate="20180309T140758Z">
+        <seg>舉例：常見的西方排印慣例中，前置內容部分，像是著作權頁、目錄等的頁碼格式會用小寫羅馬數字，而正文部分則會用阿拉伯數字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, paragraph styles &lt;f2&gt;Heading 5&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;–&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;10&lt;/f5&gt; are far more headings than anyone can manage.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T131212Z" creationid="Franklin Weng" creationdate="20180126T131212Z">
@@ -28948,6 +28956,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T141815Z" creationid="Jeff Huang" creationdate="20180118T034953Z">
         <seg>但一般情況下，&lt;f0&gt;你需要的不只是&lt;/f0&gt;初形圖而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often, too, numbering is restarted with the main text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140847Z" creationid="zerng07" creationdate="20180309T140847Z">
+        <seg>當然，通常正文開始時也會重新計算頁數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40697,8 +40713,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Use page styles and/or manual page breaks to use different numbering for different parts of the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140603Z" creationid="zerng07" creationdate="20180309T140603Z">
-        <seg>利用頁面樣式，和或手動加分頁符的方式，來為主控文件的不同部分採用不同的編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140805Z" creationid="zerng07" creationdate="20180309T140603Z">
+        <seg>利用頁面樣式，和或手動加分頁符的方式，來為主控文件的不同部分採用不同的編號系統。</seg>
       </tuv>
     </tu>
     <tu>
