@@ -1521,6 +1521,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Year &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;or&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; [Date]&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085354Z" creationid="zerng07" creationdate="20180309T085354Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;年份&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;或&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; [日期]&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;s1/&gt;No matter how you add borders, minimize their width and be generous with the &lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Spacing to Contents&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040021Z" creationid="MarkHung" creationdate="20180224T040021Z">
@@ -28133,6 +28141,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number/Series</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085319Z" creationid="zerng07" creationdate="20180309T085319Z">
+        <seg>編號/系列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number/series</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085013Z" creationid="zerng07" creationdate="20180309T085013Z">
@@ -43620,6 +43636,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T042321Z" creationid="Franklin Weng" creationdate="20180107T062700Z">
         <seg>你的主題屬於技術性質。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[&lt;f0&gt;&lt;f1&gt;W&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ebpage&lt;/f2&gt;]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085308Z" creationid="zerng07" creationdate="20180309T085308Z">
+        <seg>[&lt;f2&gt;網頁&lt;/f2&gt;]</seg>
       </tuv>
     </tu>
     <tu>
