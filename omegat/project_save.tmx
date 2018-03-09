@@ -27449,6 +27449,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master documents have a special view in the Navigator.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T120932Z" creationid="zerng07" creationdate="20180309T120932Z">
+        <seg>主控文件在助手中有特殊的檢視畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Master documents&lt;f0&gt; &lt;/f0&gt;are &lt;f1&gt;meta-documents: documents made from a collection of Writer documents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T095836Z" creationid="zerng07" creationdate="20180309T095836Z">
@@ -29688,8 +29696,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Outlining in the Navigator&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145724Z" creationid="zerng07" creationdate="20180224T145724Z">
-        <seg>在「助手」中概略？？。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T121037Z" creationid="zerng07" creationdate="20180224T145724Z">
+        <seg>在「助手」中擬定大綱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43857,8 +43865,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You view the structure of a master document through a specialized version of the Navigator that you can toggle on and off on the tool bar’s left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112059Z" creationid="zerng07" creationdate="20180309T112049Z">
-        <seg>你可以利用特殊版本「助手」檢視主控文件的結構，這個助手能在工具列的左方切換開關？？？未經驗證</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T121208Z" creationid="zerng07" creationdate="20180309T112049Z">
+        <seg>你可以利用特殊版本「助手」檢視主控文件的結構，這個助手可以在工具列的左方開啟或關閉。</seg>
       </tuv>
     </tu>
     <tu>
