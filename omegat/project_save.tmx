@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;f0&gt;Year&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090218Z" creationid="zerng07" creationdate="20180309T090218Z">
+        <seg>(&lt;f0&gt;年份&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Adjusting &lt;f0&gt;Scale width&lt;/f0&gt; and &lt;f1&gt;Spacing&lt;/f1&gt; on the &lt;f2&gt;Position&lt;/f2&gt; &lt;f3&gt;t&lt;/f3&gt;ab may help as well.&lt;f4&gt;)&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T155806Z" creationid="Franklin Weng" creationdate="20180105T144612Z">
@@ -3283,6 +3291,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030133Z" creationid="zerng07" creationdate="20171227T030124Z">
         <seg>&lt;f0&gt;從工具列中編輯樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifier&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Short Name&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;(which are different names for the same field) &lt;f7&gt;using the format indicated in the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090119Z" creationid="zerng07" creationdate="20180309T090119Z">
+        <seg>&lt;f0&gt;以下方表格中指示的格式編輯「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Identifier&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;短名&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;」（同個欄位，但不同名稱）&lt;f7&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15850,10 +15866,18 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Citation&lt;f0&gt;s&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090202Z" creationid="zerng07" creationdate="20180309T090202Z">
+        <seg>引用數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Citations in the text need to be prepared beforehand.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090001Z" creationid="zerng07" creationdate="20180309T090001Z">
-        <seg>內文中的引用資料需要事先準備。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090012Z" creationid="zerng07" creationdate="20180309T090001Z">
+        <seg>內文中的引用需要事先準備資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16858,6 +16882,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T152603Z" creationid="Jeff Huang" creationdate="20180205T020605Z">
         <seg>&lt;/f2&gt;間距不能太大，否則會失去編號與清單項目之間的關聯性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Datab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090156Z" creationid="zerng07" creationdate="20180309T090156Z">
+        <seg>資料庫</seg>
       </tuv>
     </tu>
     <tu>
@@ -18493,6 +18525,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084259Z" creationid="zerng07" creationdate="20180309T084259Z">
         <seg>欄位由上往下依出現順序排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fields are listed from the top in the order in which they should appear:&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090149Z" creationid="zerng07" creationdate="20180309T090149Z">
+        <seg>欄位依應出現的順序由上往下排列：&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29114,6 +29154,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090207Z" creationid="zerng07" creationdate="20180309T090207Z">
+        <seg>其他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other advantages of styles?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174244Z" creationid="zerng07" creationdate="20170930T174244Z">
@@ -29951,8 +29999,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Preparing citations</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085925Z" creationid="zerng07" creationdate="20180309T085925Z">
-        <seg>準備引用</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090006Z" creationid="zerng07" creationdate="20180309T085925Z">
+        <seg>準備引用資料</seg>
       </tuv>
     </tu>
     <tu>
