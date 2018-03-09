@@ -9101,8 +9101,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;If you want a page to be a right page, add a blank text in the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135901Z" creationid="zerng07" creationdate="20180309T135648Z">
-        <seg>&lt;f1&gt;如果你想要某一頁變成右頁，請在主控文件中加入一份空白文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140139Z" creationid="zerng07" creationdate="20180309T135648Z">
+        <seg>&lt;f1&gt;如果你想要某一頁變成右頁，請在主控文件中加入一段空白文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13958,6 +13958,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aside from tables and indexes and page breaks, minimize the content that is added to the master document directly, rather than to sub-documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140054Z" creationid="zerng07" creationdate="20180309T140054Z">
+        <seg>除了目錄和表格還有分頁符之外，盡可能減少直接加到主控文件中的文字內容；如果要加的話，應該在子文件中修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ask yourself: Is your &lt;f0&gt;discussion&lt;/f0&gt; complete?</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171224T062750Z" creationid="Jeff Huang" creationdate="20171111T130420Z">
@@ -17772,8 +17780,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not uses spaces to add another page, or you may run into difficulties.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T135953Z" creationid="zerng07" creationdate="20180309T135703Z">
-        <seg>不要手動加空格到其他頁中，否則你可能會遇到一些麻煩。（等等，所以上一行說 add a blank text，難道是加空白檔案而不是空格嗎？）&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140203Z" creationid="zerng07" creationdate="20180309T135703Z">
+        <seg>但不要利用空格新增其他頁面，否則你可能會遇到一些麻煩。（？？？）&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
