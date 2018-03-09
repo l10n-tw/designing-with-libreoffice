@@ -7490,6 +7490,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The&lt;/f0&gt; reformatting applies only within the &lt;f1&gt;m&lt;/f1&gt;aster document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112844Z" creationid="zerng07" creationdate="20180309T112751Z">
+        <seg>重新格式設定動作僅在主控文件之內作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt; selection includes Baskervald (Baskerville), Gillius (Gill Sans), and Universalis (Univers), as well as original &lt;t1/&gt;fonts such as Mint Spirit, which was originally designed as the unofficial font for the Linux Mint distribution.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T182300Z" creationid="zerng07" creationdate="20170817T102744Z">
@@ -8455,6 +8463,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T114303Z" creationid="Franklin Weng" creationdate="20180115T091832Z">
         <seg>匯入PowerPoint的背景應該不會遇到什麼問題——雖然&lt;f1&gt;LibreOffice儲存時&lt;/f1&gt;會詢問你是否要轉換成開放文件格式 (Open Document Format, ODF)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Y&lt;/f0&gt;our computer’s memory is limite&lt;f1&gt;d, so you are working with small documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112945Z" creationid="zerng07" creationdate="20180309T112945Z">
+        <seg>你電腦的記憶體有限，所以只能處理檔案小的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9817,6 +9833,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135615Z" creationid="zerng07" creationdate="20171226T123037Z">
         <seg>&lt;f2&gt;如果某些格式設定仍舊持續存在，或許得重新輸入內容。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;If the sub-documents use their own template, they format differently when opened separately.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112820Z" creationid="zerng07" creationdate="20180309T112820Z">
+        <seg>&lt;f2&gt;如果子文件有自己的範本，則個別開啟時會有不同的格式。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16272,6 +16296,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T085952Z" creationid="Jeff Huang" creationdate="20171111T133931Z">
         <seg>多想一些替代詞語，這樣常用字才不會過於引人注目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consider using &lt;f0&gt;m&lt;/f0&gt;aster documents when:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112907Z" creationid="zerng07" creationdate="20180309T112907Z">
+        <seg>在下列情況考慮使用主控文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41390,6 +41422,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030111Z" creationid="zerng07" creationdate="20171227T030111Z">
         <seg>只要這個方框有勾選，任何你對這個樣式所做的手動格式設定修改都會自動更新到樣式中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When to use &lt;f0&gt;m&lt;/f0&gt;aster documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112853Z" creationid="zerng07" creationdate="20180309T112853Z">
+        <seg>使用主控文件的時機</seg>
       </tuv>
     </tu>
     <tu>
