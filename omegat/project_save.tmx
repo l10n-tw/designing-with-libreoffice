@@ -3012,6 +3012,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Creating m&lt;/f0&gt;aster documents</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123731Z" creationid="zerng07" creationdate="20180309T123731Z">
+        <seg>&lt;f0&gt;製作&lt;/f0&gt;主控文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Crop Image:&lt;/f0&gt; Display only part of the image, or resize the image display.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132404Z" creationid="Jeff Huang" creationdate="20180122T091928Z">
@@ -4458,6 +4466,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T115104Z" creationid="Jeff Huang" creationdate="20180125T131538Z">
         <seg>&lt;f0&gt;如果你的讀者可能來自於世界各地&lt;/f0&gt;，這就是你可以使用的範本，一種設計讓兩種紙張大小&lt;f2&gt;都能列印。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you have difficulties, &lt;/f0&gt;assemble long file&lt;f1&gt;s&lt;/f1&gt; &lt;f2&gt;by copying and pasting&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123722Z" creationid="zerng07" creationdate="20180309T123722Z">
+        <seg>&lt;f0&gt;如果遇到困難的話，&lt;/f0&gt;請改用複製貼上的方法&lt;f2&gt;做成長篇檔案&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16727,6 +16743,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create the sub-documents as you can, even if they are blank.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123923Z" creationid="zerng07" creationdate="20180309T123923Z">
+        <seg>依你所能先做好子文件，即便空白亦可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create the text for the header or footer, &lt;f0&gt;using the appropriate paragraph style and&lt;/f0&gt; &lt;f1&gt;a&lt;/f1&gt;dding fields.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T160034Z" creationid="Jeff Huang" creationdate="20180128T040619Z">
@@ -16895,6 +16919,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating one in this order should minimize problems:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123854Z" creationid="zerng07" creationdate="20180309T123854Z">
+        <seg>如果以下列步驟製作主控文件應該可以減少問題：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating outlines with a single paragraph style</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135734Z" creationid="Franklin Weng" creationdate="20180302T135734Z">
@@ -17051,6 +17083,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113950Z" creationid="Franklin Weng" creationdate="20180211T113950Z">
         <seg>貨幣與其他符號會&lt;f7&gt;根據格式設定&lt;/f7&gt;而自動加入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently, master documents can have problems with page breaks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123638Z" creationid="zerng07" creationdate="20180309T123638Z">
+        <seg>目前，主控文件對於分頁符號可能會有些問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27518,6 +27558,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083743Z" creationid="Jeff Huang" creationdate="20180124T093043Z">
         <seg>主控文件會自動新增空白頁來讓每一章都能從右頁開始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master documents can &lt;f0&gt;be&lt;/f0&gt; fragile to work with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T123825Z" creationid="zerng07" creationdate="20180309T123825Z">
+        <seg>主控文件很脆弱以至於難以處理。</seg>
       </tuv>
     </tu>
     <tu>
