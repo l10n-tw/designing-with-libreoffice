@@ -7766,6 +7766,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To position a &lt;/f0&gt;footnote or endnote, &lt;f1&gt;click&lt;/f1&gt; &lt;f2&gt;Insert &gt; Footnote/Endnote.&lt;/f2&gt; After the number, complete the footnote or endnote by selecting the citation from the drop-down list for &lt;f3&gt;Insert &gt; Index&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;es&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and Tables &gt; Bibliograph&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;y&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; entry &gt; Short name.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T095630Z" creationid="zerng07" creationdate="20180309T095630Z">
+        <seg>&lt;f0&gt;如果要放置&lt;/f0&gt;註腳或尾註&lt;f1&gt;，請點按「&lt;/f1&gt; &lt;f2&gt;插入 &gt; 註腳與尾註 &gt; 註腳或尾註&lt;/f2&gt;」。在編號之後，從「&lt;f3&gt;插入 &gt; 目錄、索引或參考文獻 &gt; 參考文獻條目 &gt; 短名&lt;/f9&gt;」的下拉清單中選取引用文字，以便完成註腳或尾註。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To switch to a lower list level while using the associated paragraph style, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key before entering content; to switch to a higher list level, press &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042939Z" creationid="MarkHung" creationdate="20180224T042939Z">
@@ -35116,8 +35124,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The citation may be much longer than most parenthetical citations, but you can still use the column.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T093807Z" creationid="zerng07" creationdate="20180309T093807Z">
-        <seg>引用文字可以比大多數的括號式引用還長，但你依然可以使用Identifier欄位。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T093823Z" creationid="zerng07" creationdate="20180309T093807Z">
+        <seg>引用文字可以比大多數的括號式引用還長，但你還是可以用Identifier欄位。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
