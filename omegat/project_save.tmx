@@ -919,6 +919,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f2&gt;&lt;f3&gt;You can use a blank document, or a sub-document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124637Z" creationid="zerng07" creationdate="20180309T124637Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;你可以用空白文件，或是一份子文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>* 無視：
 	* f2
 	* f4
@@ -23973,6 +23981,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you use a sub-document, then it will be first in the master document, and will not be deletable.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124732Z" creationid="zerng07" creationdate="20180309T124732Z">
+        <seg>如果你用的是子文件，那麼它就會是主控文件中的第一項內容而無法刪除。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use an automatic first line indent&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in many cases the only reasons to use tab stops are from habit or because LibreOffice uses them in an advanced feature such as tables of contents.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040927Z" creationid="MarkHung" creationdate="20180224T040927Z">
@@ -27615,6 +27631,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T120932Z" creationid="zerng07" creationdate="20180309T120932Z">
         <seg>主控文件在助手中有特殊的檢視畫面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master documents&lt;f0&gt; &lt;/f0&gt;all have an .o&lt;f1&gt;d&lt;/f1&gt;m extension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124822Z" creationid="zerng07" creationdate="20180309T124822Z">
+        <seg>所有主控文件的副檔名都以 .odm 結尾。</seg>
       </tuv>
     </tu>
     <tu>
