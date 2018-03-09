@@ -40396,6 +40396,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unless &lt;f0&gt;your default template is the one that the master document uses, do not create a master document from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; New &gt; Master Document.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;You want to ensure that you are dealing only with the template you want.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T141727Z" creationid="zerng07" creationdate="20180309T141727Z">
+        <seg>除非&lt;f0&gt;你的預設範本就是主控文件使用的範本，否則不要從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔案 &gt; 新增 &gt; 主控文件&lt;/f2&gt;&lt;/f1&gt;&lt;f5&gt;」製作新的主控文件。你會希望能確保採用的是你打算要用的範本。&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unless a font is extremely small, the first line indent usually needs to be no more &lt;f0&gt;than&lt;/f0&gt; the line spacing, and you might even manage with half a line-space, depending on the font size.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T085650Z" creationid="zerng07" creationdate="20180125T084125Z">
