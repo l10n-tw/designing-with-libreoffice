@@ -1754,6 +1754,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Accessed:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Year &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;[Date]&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085822Z" creationid="zerng07" creationdate="20180309T085749Z">
+        <seg>&lt;f0&gt;存取時間：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;年份&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;或 &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;[日期]&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Add a paragraph style to the default outline styles.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042634Z" creationid="MarkHung" creationdate="20180224T042634Z">
@@ -2260,6 +2268,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042707Z" creationid="MarkHung" creationdate="20180224T042707Z">
         <seg>自動化清單</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Available at:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; URL&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085741Z" creationid="zerng07" creationdate="20180309T085741Z">
+        <seg>&lt;f0&gt;網頁位址：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; URL&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15834,6 +15850,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Citations in the text need to be prepared beforehand.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T090001Z" creationid="zerng07" creationdate="20180309T090001Z">
+        <seg>內文中的引用資料需要事先準備。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Citations within the text require entries in different fields in the bibliography database, and different presentations &lt;f0&gt;in the text.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145801Z" creationid="zerng07" creationdate="20180304T145801Z">
@@ -28173,6 +28197,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number/volume</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085854Z" creationid="zerng07" creationdate="20180309T085854Z">
+        <seg>編號/集數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Numbered lists have fewer conventions tha&lt;f0&gt;n&lt;/f0&gt; bullet lists, but they do have a few:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T161600Z" creationid="Jeff Huang" creationdate="20180201T032208Z">
@@ -29501,6 +29533,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page[s]</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085857Z" creationid="zerng07" creationdate="20180309T085857Z">
+        <seg>頁數</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175109Z" creationid="zerng07" creationdate="20171223T175109Z">
@@ -29905,6 +29945,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084431Z" creationid="MarkHung" creationdate="20180224T044532Z">
         <seg>預先編排好的文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparing citations</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085925Z" creationid="zerng07" creationdate="20180309T085925Z">
+        <seg>準備引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -43666,8 +43714,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>[City]</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084956Z" creationid="zerng07" creationdate="20180309T084956Z">
-        <seg>[城市，可省略]</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085910Z" creationid="zerng07" creationdate="20180309T084956Z">
+        <seg>[城市]</seg>
       </tuv>
     </tu>
     <tu>
