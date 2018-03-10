@@ -83,7 +83,7 @@ before_script: true
 #- ./prepare-building
 
 ### Put your build scripts here
-script: true
+script:
   - java -jar ~/build-cache/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
 
 ### You can remove files that are not useful for caching here
