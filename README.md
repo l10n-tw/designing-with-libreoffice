@@ -49,6 +49,9 @@
 ## 改作階段
 尚未進入此階段
 
+## 目前譯本下載
+移駕 https://l10n-tw.github.io/design-with-libreoffice 下載當前譯本
+
 ## 備註
 1. LibreOffice 會自動補中英之間的排版空間，所以翻譯 odt 檔時不必中英間補空格。
 2. 選單表示法為：「檔案 > 另存新檔」。
