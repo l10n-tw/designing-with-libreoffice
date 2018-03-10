@@ -1,0 +1,125 @@
+# Travis CI Configuration
+# https://docs.travis-ci.com
+# This file is in YAML data serialization language.
+# http://yaml.org/
+# This file is based on Configuration Templates for Travis CI
+# https://github.com/Lin-Buo-Ren/Configuration-Templates-for-Travis-CI
+---
+## Project-specific settings
+### Main programming language used in the project
+language: java # 偽
+
+### Git related settings
+git:
+  # You may limit the depth of history cloned by Travis CI if you don't do Git operations depend on it(default: 50)
+  # https://docs.travis-ci.com/user/customizing-the-build/#Git-Clone-Depth
+  depth: 3
+  # Whether or not to clone the submodules
+  # https://docs.travis-ci.com/user/customizing-the-build/#Git-Submodules
+  submodule: true
+  # Whether to download Git Large File Storage assets
+  # https://docs.travis-ci.com/user/customizing-the-build/#Git-LFS-Skip-Smudge
+  lfs_skip_smudge: false
+
+### Limit Git branches to be include in continuous integration, by default all branches with the .travis.yml file will be included
+### https://docs.travis-ci.com/user/customizing-the-build/#Building-Specific-Branches
+#branches:
+  # Black-listing approach
+  #except:
+    #- no-ci
+
+## Build Environment Specification
+### Whether to use faster container build(false) or flexible VM build(required)
+### NOTE: `sudo` is not available in container build!
+sudo: false
+
+### Selection of ubuntu release for build environment
+dist: trusty
+
+### Addons
+#addons:
+  # apt_packages addon allows container build to install limited software sources and packages in the following whitelists to the system using APT:
+  # https://github.com/travis-ci/apt-source-whitelist
+  # https://github.com/travis-ci/apt-package-whitelist
+  #apt:
+    # Software sources to be added
+    # https://github.com/travis-ci/apt-source-whitelist
+    #sources:
+    #- ubuntu-toolchain-r-test
+
+    # Software packages to be installed
+    #packages:
+    #- libpng12-dev
+
+  # Hostname can be customized via hosts addon
+  # https://docs.travis-ci.com/user/customizing-the-build/#Custom-Hostnames
+  #hosts: true
+  #- mysite.com
+
+### Services pre-installed in the CI environment to start up
+### https://docs.travis-ci.com/user/database-setup/#Starting-Services
+#services:
+#- mysql
+
+## Build Cycle Phases
+## NOTE: Enable each phases by removing the `true` command after it
+### Run commands before install phase
+before_install: true
+# Configure any third-party software sources(requires VM build environment)
+#- sudo add-apt-repository universe
+#- sudo add-apt-repository ppa:libreoffice/ppa
+
+# Update package cache if package installing is required(requires VM build environment)
+# https://docs.travis-ci.com/user/installing-dependencies/#Installing-Packages-from-a-custom-APT-repository
+#- sudo apt-get -qq update
+
+### Install/Setup any required dependencies used in continuous integration
+### https://docs.travis-ci.com/user/installing-dependencies/
+install: 
+# FIXME: Hardcoded download URL!
+# TODO: Proper latest release download URL parsing
+- wget https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0%20update%208/OmegaT_3.6.0_08_Without_JRE.zip
+- mkdir ~/軟體
+- mkdir ~/軟體/OmegaT_3.6.0_08_Without_JRE # 3.x's archive contents doesn't has single parent directory, so make it for them
+- unzip OmegaT_3.6.0_08_Without_JRE.zip -d ~/軟體/OmegaT_3.6.0_08_Without_JRE
+
+### Preparation before building?
+before_script: true
+#- ./prepare-building
+
+### Put your build scripts here
+script: true
+- java -jar ~/軟體/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
+
+### You can remove files that are not useful for caching here
+before_cache: true
+#- rm $HOME/.cabal/logs/build.log
+
+### Caches non-variating contents to speed up build
+cache:
+  directories:
+  - $HOME/.cabal
+
+### Commands if build phase fails
+after_failure: true
+
+### Commands if build phase successes
+after_success: true
+
+before_deploy: true
+
+### Software deployment phase
+### https://docs.travis-ci.com/user/deployment/
+#deploy:
+  #- provider: undefined
+     #on:
+       #branch: master
+       #tags: true
+  #- provider: undefined
+     #on:
+       #branch: master
+       #tags: true
+
+after_deploy: true
+
+after_script: true
