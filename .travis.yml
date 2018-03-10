@@ -101,19 +101,19 @@ after_failure: true
 ### Commands if build phase successes
 after_success: true
 
-before_deploy: true
+before_deploy:
+  - cp target/*.odt site
+  - cp README.md site
 
 ### Software deployment phase
 ### https://docs.travis-ci.com/user/deployment/
-#deploy:
-  #- provider: undefined
-     #on:
-       #branch: master
-       #tags: true
-  #- provider: undefined
-     #on:
-       #branch: master
-       #tags: true
+deploy:
+  - provider: pages
+    github_token: $GITHUB_ACCESS_TOKEN_HIDDEN
+    skip_cleanup: true
+    local_dir: "site"
+    on:
+      branch: master
 
 after_deploy: true
 
