@@ -37,19 +37,19 @@ sudo: false
 dist: trusty
 
 ### Addons
-#addons:
+addons:
   # apt_packages addon allows container build to install limited software sources and packages in the following whitelists to the system using APT:
   # https://github.com/travis-ci/apt-source-whitelist
   # https://github.com/travis-ci/apt-package-whitelist
-  #apt:
+  apt:
     # Software sources to be added
     # https://github.com/travis-ci/apt-source-whitelist
     #sources:
     #- ubuntu-toolchain-r-test
 
     # Software packages to be installed
-    #packages:
-    #- libpng12-dev
+    packages:
+      - realpath      # Merged to GNU Coreutils in Ubuntu 16.04
 
   # Hostname can be customized via hosts addon
   # https://docs.travis-ci.com/user/customizing-the-build/#Custom-Hostnames
