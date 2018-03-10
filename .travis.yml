@@ -93,7 +93,7 @@ before_cache: true
 ### Caches non-variating contents to speed up build
 cache:
   directories:
-    - $HOME/.cabal
+    - $HOME/build-cache
 
 ### Commands if build phase fails
 after_failure: true
