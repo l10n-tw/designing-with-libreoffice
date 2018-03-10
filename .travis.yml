@@ -76,12 +76,7 @@ before_install: true
 ### Install/Setup any required dependencies used in continuous integration
 ### https://docs.travis-ci.com/user/installing-dependencies/
 install: 
-# FIXME: Hardcoded download URL!
-# TODO: Proper latest release download URL parsing
-  - wget https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0%20update%208/OmegaT_3.6.0_08_Without_JRE.zip
-  - mkdir ~/軟體
-  - mkdir ~/軟體/OmegaT_3.6.0_08_Without_JRE # 3.x's archive contents doesn't has single parent directory, so make it for them
-  - unzip OmegaT_3.6.0_08_Without_JRE.zip -d ~/軟體/OmegaT_3.6.0_08_Without_JRE
+  - "./continuous-integration/Install Build Dependencies.bash"
 
 ### Preparation before building?
 before_script: true
@@ -89,7 +84,7 @@ before_script: true
 
 ### Put your build scripts here
 script: true
-  - java -jar ~/軟體/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
+  - java -jar ~/build-cache/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
 
 ### You can remove files that are not useful for caching here
 before_cache: true
