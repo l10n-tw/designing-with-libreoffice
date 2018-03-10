@@ -78,10 +78,10 @@ before_install: true
 install: 
 # FIXME: Hardcoded download URL!
 # TODO: Proper latest release download URL parsing
-- wget https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0%20update%208/OmegaT_3.6.0_08_Without_JRE.zip
-- mkdir ~/軟體
-- mkdir ~/軟體/OmegaT_3.6.0_08_Without_JRE # 3.x's archive contents doesn't has single parent directory, so make it for them
-- unzip OmegaT_3.6.0_08_Without_JRE.zip -d ~/軟體/OmegaT_3.6.0_08_Without_JRE
+  - wget https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0%20update%208/OmegaT_3.6.0_08_Without_JRE.zip
+  - mkdir ~/軟體
+  - mkdir ~/軟體/OmegaT_3.6.0_08_Without_JRE # 3.x's archive contents doesn't has single parent directory, so make it for them
+  - unzip OmegaT_3.6.0_08_Without_JRE.zip -d ~/軟體/OmegaT_3.6.0_08_Without_JRE
 
 ### Preparation before building?
 before_script: true
@@ -89,16 +89,16 @@ before_script: true
 
 ### Put your build scripts here
 script: true
-- java -jar ~/軟體/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
+  - java -jar ~/軟體/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
 
 ### You can remove files that are not useful for caching here
 before_cache: true
-#- rm $HOME/.cabal/logs/build.log
+  #- rm $HOME/.cabal/logs/build.log
 
 ### Caches non-variating contents to speed up build
 cache:
   directories:
-  - $HOME/.cabal
+    - $HOME/.cabal
 
 ### Commands if build phase fails
 after_failure: true
