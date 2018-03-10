@@ -97,6 +97,7 @@ trap_errexit(){
 
 trap_exit(){
 	rm\
+		--force\
 		"${omegat_release_archive_basename}.zip"
 
 	return 0
