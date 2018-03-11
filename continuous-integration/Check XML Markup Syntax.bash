@@ -87,7 +87,7 @@ init(){
 	pushd "${project_root_dir}/target" >/dev/null
 	original_ifs=$IFS
 	IFS=$(echo -en "\n\b")
-	for odt_file in $(find . -name '*.odt' -print); do
+	for odt_file in $(cat "${project_root_dir}/omegat/files_order.txt"); do
 		if ! check_odt_content_xml "${odt_file}"; then
 			overall_check_result='fail'
 		fi
