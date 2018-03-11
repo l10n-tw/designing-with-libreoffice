@@ -51,6 +51,7 @@ addons:
     packages:
       - realpath      # Merged to GNU Coreutils in Ubuntu 16.04
       - xmlstarlet
+      - libreoffice-writer
 
   # Hostname can be customized via hosts addon
   # https://docs.travis-ci.com/user/customizing-the-build/#Custom-Hostnames
@@ -81,12 +82,15 @@ install:
 
 ### Preparation before building?
 before_script: true
-#- ./prepare-building
+  - if test -n "${GITHUB_ACCESS_TOKEN_READONLY}"; then echo -e "machine github.com\n  login $GITHUB_ACCESS_TOKEN_READONLY" >> ~/.netrc; fi
+  - git lfs pull
+  - ./"continuous-integration/Install Fonts.bash"
 
 ### Put your build scripts here
 script:
   - java -jar ~/build-cache/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
   - ./"continuous-integration/Check XML Markup Syntax.bash"
+  - ./"continuous-integration/Build PDF Version.bash"
 
 ### You can remove files that are not useful for caching here
 before_cache: true
@@ -104,7 +108,7 @@ after_failure: true
 after_success: true
 
 before_deploy:
-  - cp target/*.odt site
+  - cp target/*.pdf site
   - cp --force README.md site/README.markdown
 
 ### Software deployment phase
