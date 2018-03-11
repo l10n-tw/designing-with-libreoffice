@@ -50,6 +50,7 @@ addons:
     # Software packages to be installed
     packages:
       - realpath      # Merged to GNU Coreutils in Ubuntu 16.04
+      - xmlstarlet
 
   # Hostname can be customized via hosts addon
   # https://docs.travis-ci.com/user/customizing-the-build/#Custom-Hostnames
