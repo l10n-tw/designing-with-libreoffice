@@ -78,6 +78,9 @@
 * [appendixd-free-font-equivalents-for-standard-fonts.odt](http://l10n.tw/designing-with-libreoffice/appendixd-free-font-equivalents-for-standard-fonts.odt)
 * [back-cover.odt](http://l10n.tw/designing-with-libreoffice/back-cover.odt)
 
+## 回報問題
+如果有任何問題請不吝至我們的[議題追蹤系統](https://github.com/l10n-tw/designing-with-libreoffice/issues)建檔回報
+
 ## 備註
 1. LibreOffice 會自動補中英之間的排版空間，所以翻譯 odt 檔時不必中英間補空格。
 2. 選單表示法為：「檔案 > 另存新檔」。
