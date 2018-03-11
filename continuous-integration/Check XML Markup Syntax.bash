@@ -117,9 +117,9 @@ check_odt_content_xml(){
 
 	unzip "${odt_file}" content.xml >/dev/null
 
+	# NOTE: COMPATIBILITY: --stop isn't available in Ubuntu 14.04(Trusty)
 	if ! xmlstarlet \
 			validate \
-			--stop \
 			--err \
 			content.xml; then
 		check_result=failed
