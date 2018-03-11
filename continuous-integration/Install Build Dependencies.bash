@@ -45,11 +45,11 @@ init(){
 		OMEGAT_RELEASE_ARCHIVE_DIRECT_DOWNLOADABLE_URL='https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0%20update%208/OmegaT_3.6.0_08_Without_JRE.zip'\
 		CACHE_BASE_DIRECTORY="${HOME}/build-cache"
 
-	declare -r omegat_release_archive_basename="$(
+	omegat_release_archive_basename="$(
 		basename\
 			--suffix=.zip\
 			"${OMEGAT_RELEASE_ARCHIVE_DIRECT_DOWNLOADABLE_URL}"
-	)"
+	)"; declare -r omegat_release_archive_basename
 	declare -r omegat_installation_prefix="${CACHE_BASE_DIRECTORY}/${omegat_release_archive_basename}"
 
 	# 如果 OmegaT 對應版本的快取存在就跳過
@@ -68,7 +68,7 @@ init(){
 		rm\
 			--recursive\
 			--force\
-			"${CACHE_BASE_DIRECTORY}/"*
+			"${CACHE_BASE_DIRECTORY:?}/"*
 	fi
 	
 	# FIXME: 3.x 不具獨立前綴目錄故自行建立之
