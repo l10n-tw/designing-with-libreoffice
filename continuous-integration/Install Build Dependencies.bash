@@ -52,21 +52,24 @@ init(){
 	)"
 	declare -r omegat_installation_prefix="${CACHE_BASE_DIRECTORY}/${omegat_release_archive_basename}"
 
-	# 如果 Travis CI 快取存在就跳過
+	# 如果 OmegaT 對應版本的快取存在就跳過
 	if test -d "${omegat_installation_prefix}"; then
+		printf --\
+			"%s\n"\
+			"INFO: Existing OmegaT installation detected, installation skipped."
 		exit 0
 	fi
 
-	# 建立快取目錄（如果沒有）
-	mkdir\
-		--parents\
-		"${CACHE_BASE_DIRECTORY}"
-
-	# 清空快取目錄中的舊版本安裝（如果有）
-	rm\
-		--recursive\
-		--force\
-		"${CACHE_BASE_DIRECTORY}/"*
+	if test -d "${CACHE_BASE_DIRECTORY}"; then
+		mkdir\
+			"${CACHE_BASE_DIRECTORY}"
+	else
+		# 清空快取目錄中的 OmegaT 舊版本安裝（如果有）
+		rm\
+			--recursive\
+			--force\
+			"${CACHE_BASE_DIRECTORY}/"*
+	fi
 	
 	# FIXME: 3.x 不具獨立前綴目錄故自行建立之
 	mkdir "${omegat_installation_prefix}"
