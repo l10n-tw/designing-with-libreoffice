@@ -108,6 +108,10 @@ before_deploy:
 ### https://docs.travis-ci.com/user/deployment/
 deploy:
   - provider: pages
+    # Workaround for Github Pages deployment is broken with dpl 1.9.0 · Issue #9312 · travis-ci/travis-ci
+    edge:
+      branch: pages-ivar-set
+
     github_token: $GITHUB_ACCESS_TOKEN_HIDDEN
     skip_cleanup: true
     local_dir: "site"
