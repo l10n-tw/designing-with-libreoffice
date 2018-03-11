@@ -60,7 +60,7 @@ init(){
 		exit 0
 	fi
 
-	if test -d "${CACHE_BASE_DIRECTORY}"; then
+	if ! test -d "${CACHE_BASE_DIRECTORY}"; then
 		mkdir\
 			"${CACHE_BASE_DIRECTORY}"
 	else
