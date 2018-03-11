@@ -59,7 +59,7 @@
 * [chapter1-introduction.odt](http://l10n.tw/designing-with-libreoffice/chapter1-introduction.odt)
 * [chapter2-going-in-style.odt](http://l10n.tw/designing-with-libreoffice/chapter2-going-in-style.odt)
 * [chapter3-recycling-with-templates.odt](http://l10n.tw/designing-with-libreoffice/chapter3-recycling-with-templates.odt)
-* [chapter4-fonts-color-and-the-magic number.odt](http://l10n.tw/designing-with-libreoffice/chapter4-fonts-color-and-the-magic number.odt)
+* [chapter4-fonts-color-and-the-magic number.odt](http://l10n.tw/designing-with-libreoffice/chapter4-fonts-color-and-the-magic%20number.odt)
 * [chapter5-spacing-on-all-sides.odt](http://l10n.tw/designing-with-libreoffice/chapter5-spacing-on-all-sides.odt)
 * [chapter6-text-tools-and-traps.odt](http://l10n.tw/designing-with-libreoffice/chapter6-text-tools-and-traps.odt)
 * [chapter7-positioning-and-automating-text.odt](http://l10n.tw/designing-with-libreoffice/chapter7-positioning-and-automating-text.odt)
