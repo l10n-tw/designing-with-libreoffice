@@ -85,6 +85,7 @@ before_script: true
 ### Put your build scripts here
 script:
   - java -jar ~/build-cache/OmegaT_3.6.0_08_Without_JRE/OmegaT.jar . --mode=console-translate
+  - ./"continuous-integration/Check XML Markup Syntax.bash"
 
 ### You can remove files that are not useful for caching here
 before_cache: true
