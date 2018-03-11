@@ -81,7 +81,7 @@ install:
   - ./"continuous-integration/Install Build Dependencies.bash"
 
 ### Preparation before building?
-before_script: true
+before_script:
   - if test -n "${GITHUB_ACCESS_TOKEN_READONLY}"; then echo -e "machine github.com\n  login $GITHUB_ACCESS_TOKEN_READONLY" >> ~/.netrc; fi
   - git lfs pull
   - ./"continuous-integration/Install Fonts.bash"
