@@ -54,6 +54,8 @@
 尚未進入此階段
 
 ## 當前譯本下載
+[全文版](http://l10n.tw/designing-with-libreoffice/designing-with-libreoffice.pdf)
+
 * [front-cover](http://l10n.tw/designing-with-libreoffice/front-cover.pdf)
 * [title-page](http://l10n.tw/designing-with-libreoffice/title-page.pdf)
 * [dedication](http://l10n.tw/designing-with-libreoffice/dedication.pdf)

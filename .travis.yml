@@ -52,6 +52,8 @@ addons:
       - realpath      # Merged to GNU Coreutils in Ubuntu 16.04
       - xmlstarlet
       - libreoffice-writer
+      - poppler-utils
+      - parallel
 
   # Hostname can be customized via hosts addon
   # https://docs.travis-ci.com/user/customizing-the-build/#Custom-Hostnames

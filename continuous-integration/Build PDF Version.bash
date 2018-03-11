@@ -16,8 +16,12 @@ declare\
 for required_command in \
 	basename\
 	dirname\
+	parallel\
+	pdfunite\
 	realpath\
-	soffice; do
+	sed\
+	soffice\
+	xargs; do
 	if ! command -v "${required_command}" &>/dev/null; then
 		runtime_dependency_checking_result='fail'
 
@@ -27,8 +31,20 @@ for required_command in \
 			|realpath)
 				required_software='GNU Coreutils'
 			;;
+			parallel)
+				required_software='GNU Parallel'
+			;;
+			pdfunite)
+				required_software='Poppler'
+			;;
+			sed)
+				required_software='GNU Sed'
+			;;
 			soffice)
 				required_software='LibreOffice'
+			;;
+			xargs)
+				required_software='GNU Findutils'
 			;;
 			*)
 				required_software="${required_command}"
@@ -86,6 +102,12 @@ init(){
 	soffice --headless --convert-to pdf *.odt
 	popd >/dev/null
 
+	pushd "${project_root_dir}/target" >/dev/null
+	local full_pdf_file='designing-with-libreoffice.pdf'
+	cat "${project_root_dir}/omegat/files_order.txt"\
+		| sed --expression='s/\.odt/.pdf/'\
+		| parallel --no-notice -X --jobs 1 pdfunite {} "${full_pdf_file}"
+	popd >/dev/null
 	exit 0
 }; declare -fr init
 
