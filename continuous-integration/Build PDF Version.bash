@@ -83,7 +83,7 @@ init(){
 	)"; declare -r project_root_dir
 
 	pushd "${project_root_dir}/target" >/dev/null
-	soffice --convert-to pdf *.odt
+	soffice --headless --convert-to pdf *.odt
 	popd >/dev/null
 
 	exit 0
