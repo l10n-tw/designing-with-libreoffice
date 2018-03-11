@@ -45,7 +45,7 @@ init(){
 		OMEGAT_RELEASE_ARCHIVE_DIRECT_DOWNLOADABLE_URL='https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/OmegaT%203.6.0%20update%208/OmegaT_3.6.0_08_Without_JRE.zip'\
 		CACHE_BASE_DIRECTORY="${HOME}/build-cache"
 
-	omegat_release_archive_basename="$(
+	declare omegat_release_archive_basename="$(
 		basename\
 			--suffix=.zip\
 			"${OMEGAT_RELEASE_ARCHIVE_DIRECT_DOWNLOADABLE_URL}"
