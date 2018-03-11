@@ -49,8 +49,31 @@
 ## 改作階段
 尚未進入此階段
 
-## 目前譯本下載
-移駕 https://l10n-tw.github.io/design-with-libreoffice 下載當前譯本
+## 當前譯本下載
+* [front-cover.odt](http://l10n.tw/designing-with-libreoffice/front-cover.odt)
+* [title-page.odt](http://l10n.tw/designing-with-libreoffice/title-page.odt)
+* [dedication.odt](http://l10n.tw/designing-with-libreoffice/dedication.odt)
+* [chapter1-introduction.odt](http://l10n.tw/designing-with-libreoffice/chapter1-introduction.odt)
+* [chapter2-going-in-style.odt](http://l10n.tw/designing-with-libreoffice/chapter2-going-in-style.odt)
+* [chapter3-recycling-with-templates.odt](http://l10n.tw/designing-with-libreoffice/chapter3-recycling-with-templates.odt)
+* [chapter4-fonts-color-and-the-magic number.odt](http://l10n.tw/designing-with-libreoffice/chapter4-fonts-color-and-the-magic number.odt)
+* [chapter5-spacing-on-all-sides.odt](http://l10n.tw/designing-with-libreoffice/chapter5-spacing-on-all-sides.odt)
+* [chapter6-text-tools-and-traps.odt](http://l10n.tw/designing-with-libreoffice/chapter6-text-tools-and-traps.odt)
+* [chapter7-positioning-and-automating-text.odt](http://l10n.tw/designing-with-libreoffice/chapter7-positioning-and-automating-text.odt)
+* [chapter8-styling-the-page.odt](http://l10n.tw/designing-with-libreoffice/chapter8-styling-the-page.odt)
+* [chapter9-getting-in-the-frame.odt](http://l10n.tw/designing-with-libreoffice/chapter9-getting-in-the-frame.odt)
+* [chapter10-structured-prose-lists-and-tables.odt](http://l10n.tw/designing-with-libreoffice/chapter10-structured-prose-lists-and-tables.odt)
+* [chapter11-styled-features-and-long-documents.odt](http://l10n.tw/designing-with-libreoffice/chapter11-styled-features-and-long-documents.odt)
+* [chapter12-designing-and-delivering-slide-shows.odt](http://l10n.tw/designing-with-libreoffice/chapter12-designing-and-delivering-slide-shows.odt)
+* [chapter13-designing-drawing-content.odt](http://l10n.tw/designing-with-libreoffice/chapter13-designing-drawing-content.odt)
+* [chapter14-drawing-object-styles-and-charts.odt](http://l10n.tw/designing-with-libreoffice/chapter14-drawing-object-styles-and-charts.odt)
+* [chapter15-designing-spreadsheets.odt](http://l10n.tw/designing-with-libreoffice/chapter15-designing-spreadsheets.odt)
+* [chapter16-putting-it-all-together.odt](http://l10n.tw/designing-with-libreoffice/chapter16-putting-it-all-together.odt)
+* [appendixa-downloading-libreoffice.odt](http://l10n.tw/designing-with-libreoffice/appendixa-downloading-libreoffice.odt)
+* [appendixb-learning-more-about-typography.odt](http://l10n.tw/designing-with-libreoffice/appendixb-learning-more-about-typography.odt)
+* [appendixc-where-to-get-free-fonts.odt](http://l10n.tw/designing-with-libreoffice/appendixc-where-to-get-free-fonts.odt)
+* [appendixd-free-font-equivalents-for-standard-fonts.odt](http://l10n.tw/designing-with-libreoffice/appendixd-free-font-equivalents-for-standard-fonts.odt)
+* [back-cover.odt](http://l10n.tw/designing-with-libreoffice/back-cover.odt)
 
 ## 備註
 1. LibreOffice 會自動補中英之間的排版空間，所以翻譯 odt 檔時不必中英間補空格。

@@ -103,6 +103,7 @@ after_success: true
 
 before_deploy:
   - cp target/*.odt site
+  - cp --force README.md site/README.markdown
 
 ### Software deployment phase
 ### https://docs.travis-ci.com/user/deployment/

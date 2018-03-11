@@ -1,25 +1,4 @@
-# 當前譯本下載
-* [front-cover.odt](front-cover.odt)
-* [title-page.odt](title-page.odt)
-* [dedication.odt](dedication.odt)
-* [chapter1-introduction.odt](chapter1-introduction.odt)
-* [chapter2-going-in-style.odt](chapter2-going-in-style.odt)
-* [chapter3-recycling-with-templates.odt](chapter3-recycling-with-templates.odt)
-* [chapter4-fonts-color-and-the-magic number.odt](chapter4-fonts-color-and-the-magic number.odt)
-* [chapter5-spacing-on-all-sides.odt](chapter5-spacing-on-all-sides.odt)
-* [chapter6-text-tools-and-traps.odt](chapter6-text-tools-and-traps.odt)
-* [chapter7-positioning-and-automating-text.odt](chapter7-positioning-and-automating-text.odt)
-* [chapter8-styling-the-page.odt](chapter8-styling-the-page.odt)
-* [chapter9-getting-in-the-frame.odt](chapter9-getting-in-the-frame.odt)
-* [chapter10-structured-prose-lists-and-tables.odt](chapter10-structured-prose-lists-and-tables.odt)
-* [chapter11-styled-features-and-long-documents.odt](chapter11-styled-features-and-long-documents.odt)
-* [chapter12-designing-and-delivering-slide-shows.odt](chapter12-designing-and-delivering-slide-shows.odt)
-* [chapter13-designing-drawing-content.odt](chapter13-designing-drawing-content.odt)
-* [chapter14-drawing-object-styles-and-charts.odt](chapter14-drawing-object-styles-and-charts.odt)
-* [chapter15-designing-spreadsheets.odt](chapter15-designing-spreadsheets.odt)
-* [chapter16-putting-it-all-together.odt](chapter16-putting-it-all-together.odt)
-* [appendixa-downloading-libreoffice.odt](appendixa-downloading-libreoffice.odt)
-* [appendixb-learning-more-about-typography.odt](appendixb-learning-more-about-typography.odt)
-* [appendixc-where-to-get-free-fonts.odt](appendixc-where-to-get-free-fonts.odt)
-* [appendixd-free-font-equivalents-for-standard-fonts.odt](appendixd-free-font-equivalents-for-standard-fonts.odt)
-* [back-cover.odt](back-cover.odt)
+# 官方網站根目錄
+用來當作被佈署的官方網站的目錄，參閱 .travis.yml 以了解更多細節
+
+此頁面會被專案 README 給覆蓋。
