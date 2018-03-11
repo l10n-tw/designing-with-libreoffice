@@ -76,7 +76,7 @@ before_install: true
 ### Install/Setup any required dependencies used in continuous integration
 ### https://docs.travis-ci.com/user/installing-dependencies/
 install: 
-  - ./continuous-integration/"Install Build Dependencies.bash"
+  - ./"continuous-integration/Install Build Dependencies.bash"
 
 ### Preparation before building?
 before_script: true
