@@ -13,7 +13,7 @@ language: java # 偽
 git:
   # You may limit the depth of history cloned by Travis CI if you don't do Git operations depend on it(default: 50)
   # https://docs.travis-ci.com/user/customizing-the-build/#Git-Clone-Depth
-  depth: 3
+  depth: 1
   # Whether or not to clone the submodules
   # https://docs.travis-ci.com/user/customizing-the-build/#Git-Submodules
   submodule: true
