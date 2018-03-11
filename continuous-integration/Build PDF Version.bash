@@ -104,9 +104,10 @@ init(){
 
 	pushd "${project_root_dir}/target" >/dev/null
 	local full_pdf_file='designing-with-libreoffice.pdf'
+	# NOTE: COMPATIBILITY: parallel: --no-notice isn't available in Ubuntu 14.04(Trusty)
 	cat "${project_root_dir}/omegat/files_order.txt"\
 		| sed --expression='s/\.odt/.pdf/'\
-		| parallel --no-notice -X --jobs 1 pdfunite {} "${full_pdf_file}"
+		| parallel -X --jobs 1 pdfunite {} "${full_pdf_file}"
 	popd >/dev/null
 	exit 0
 }; declare -fr init
