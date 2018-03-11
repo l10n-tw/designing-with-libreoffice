@@ -1,7 +1,7 @@
-# Design with LibreOffice 目前譯本下載
-* [dedication.odt](dedication.odt)
+# 當前譯本下載
 * [front-cover.odt](front-cover.odt)
 * [title-page.odt](title-page.odt)
+* [dedication.odt](dedication.odt)
 * [chapter1-introduction.odt](chapter1-introduction.odt)
 * [chapter2-going-in-style.odt](chapter2-going-in-style.odt)
 * [chapter3-recycling-with-templates.odt](chapter3-recycling-with-templates.odt)
@@ -17,7 +17,7 @@
 * [chapter13-designing-drawing-content.odt](chapter13-designing-drawing-content.odt)
 * [chapter14-drawing-object-styles-and-charts.odt](chapter14-drawing-object-styles-and-charts.odt)
 * [chapter15-designing-spreadsheets.odt](chapter15-designing-spreadsheets.odt)
-* [chapter16-putting-it-all-together.odt](hapter16-putting-it-all-together.odt)
+* [chapter16-putting-it-all-together.odt](chapter16-putting-it-all-together.odt)
 * [appendixa-downloading-libreoffice.odt](appendixa-downloading-libreoffice.odt)
 * [appendixb-learning-more-about-typography.odt](appendixb-learning-more-about-typography.odt)
 * [appendixc-where-to-get-free-fonts.odt](appendixc-where-to-get-free-fonts.odt)
