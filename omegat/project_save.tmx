@@ -8636,11 +8636,17 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視：
+
+* f0
+* f3
+* f6
+</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can change these mappings, or add another paragraph style to an outline level in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline level&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Outline &amp; Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030849Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
-        <seg>&lt;f0&gt;你可以改變這些對應，或是新增另一個段落樣式到「大綱與編號 &gt; 大綱層級」欄位中的某一個層級。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T093007Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
+        <seg>你可以改變這些對應，或是新增另一個段落樣式到「&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt; &gt; &lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位中的某一個層級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10675,8 +10681,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;Use &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Update&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to update manually.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145102Z" creationid="zerng07" creationdate="20180227T145102Z">
-        <seg>&lt;f3&gt;必須手動使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 更新&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T092616Z" creationid="zerng07" creationdate="20180227T145102Z">
+        <seg>&lt;f3&gt;必須手動使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;工具 &gt; 更新&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
