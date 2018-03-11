@@ -857,8 +857,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050352Z" creationid="MarkHung" creationdate="20180224T050352Z">
-        <seg> </seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094017Z" creationid="MarkHung" creationdate="20180224T050352Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,8 +1521,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;TOC&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;s in LibreOffice &lt;/f2&gt;default to a format that has become standard in many word processors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T135408Z" creationid="zerng07" creationdate="20180302T135401Z">
-        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;外觀是許多文書處理器的標準樣式。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094204Z" creationid="zerng07" creationdate="20180302T135401Z">
+        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;外觀是許多文書處理器的標準樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2906,11 +2906,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視 f0</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Confusingly, t&lt;/f0&gt;he &lt;f1&gt;Identifer&lt;/f1&gt; column and the &lt;f2&gt;Short Name &lt;/f2&gt;field below the table are the same &lt;f3&gt;field&lt;/f3&gt;, and should have the same content.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113153Z" creationid="zerng07" creationdate="20180304T113142Z">
-        <seg>&lt;f0&gt;雖然常讓人糊塗，但&lt;f1&gt;Identifer&lt;/f1&gt;這欄和表格下方的「&lt;f2&gt;短名&lt;/f2&gt;」欄位其實是相同&lt;f3&gt;欄位&lt;/f3&gt;，填入的內容應該一樣。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094418Z" creationid="zerng07" creationdate="20180304T113142Z">
+        <seg>雖然常讓人糊塗，但&lt;f1&gt;Identifer&lt;/f1&gt;這欄和表格下方的「&lt;f2&gt;短名&lt;/f2&gt;」欄位其實是相同&lt;f3&gt;欄位&lt;/f3&gt;，填入的內容應該一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3906,11 +3907,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視f3</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables &gt; Columns &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;and set the table to use two columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145821Z" creationid="zerng07" creationdate="20180302T145821Z">
-        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄和索引 &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，將列表設定為使用兩欄。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094325Z" creationid="zerng07" creationdate="20180302T145821Z">
+        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄和索引 &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;」，將列表設定為使用兩欄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8571,11 +8573,12 @@ f2</note>
       </tuv>
     </tu>
     <tu>
+      <note>Workaround f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;our computer’s memory is limite&lt;f1&gt;d, so you are working with small documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T112958Z" creationid="zerng07" creationdate="20180309T112945Z">
-        <seg>你的電腦記憶體有限，所以只能處理檔案小的文件。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094847Z" creationid="zerng07" creationdate="20180309T112945Z">
+        <seg>你的電腦記憶體有限，所以只能處理檔案小的文件。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14518,8 +14521,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Before adding citations, you need &lt;f0&gt;the correct information&lt;/f0&gt; for the citation &lt;f1&gt;style&lt;/f1&gt; you are using.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T135230Z" creationid="zerng07" creationdate="20180304T133127Z">
-        <seg>在插入引用之前，你需要&lt;f0&gt;先瞭解採用的引用方式之正確規則。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094734Z" creationid="zerng07" creationdate="20180304T133127Z">
+        <seg>在插入引用之前，你需要先瞭解採用的引用&lt;f1&gt;方式&lt;/f1&gt;之&lt;f0&gt;正確規則&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15039,8 +15042,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>But watch for entries that spill over on to another line, &lt;f0&gt;spoiling the symmetry of the design for no reason.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143342Z" creationid="zerng07" creationdate="20180302T143342Z">
-        <seg>但要注意條目是否會因此溢出到下一行去，&lt;f0&gt;冷不防壞了你設計的對稱性。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094246Z" creationid="zerng07" creationdate="20180302T143342Z">
+        <seg>但要注意條目是否會因此溢出到下一行去，&lt;f0&gt;冷不防壞了你設計的對稱性。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21712,11 +21715,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>無視f3</note>
       <tuv lang="EN">
         <seg>However, footnotes and endnotes are still used for citations &lt;f0&gt;in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; format as well for personal preferences.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T091420Z" creationid="zerng07" creationdate="20180309T091420Z">
-        <seg>不過，註腳和尾註&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;格式，以及個人偏好中佔有一席之地。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094814Z" creationid="zerng07" creationdate="20180309T091420Z">
+        <seg>不過，註腳和尾註&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;格式，以及個人偏好中佔有一席之地。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24198,11 +24202,12 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>Workaround f1, f2</note>
       <tuv lang="EN">
         <seg>If you want to number paragraphs as lines in a poem, use &lt;f0&gt;Tools &gt; Line Number&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;ing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043746Z" creationid="MarkHung" creationdate="20180224T043746Z">
-        <seg>如果要像在詩作中編號段落內容，使用工具 &gt; 行編號。</seg>
+      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094541Z" creationid="MarkHung" creationdate="20180224T043746Z">
+        <seg>如果要像在詩作中編號段落內容，使用工具 &gt; 行編號。&lt;f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
