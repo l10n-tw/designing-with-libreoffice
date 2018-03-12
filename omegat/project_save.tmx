@@ -10603,8 +10603,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;Manual spaces are generally not a good way of laying out design elements, but in this one case, they do not create any problem beyond the need to keep count.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T153508Z" creationid="zerng07" creationdate="20180302T153508Z">
-        <seg>&lt;f3&gt;手動加空白一般不是設計元素版面配置的好做法，但這個狀況下，手動加空白不會造成任何問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081153Z" creationid="zerng07" creationdate="20180302T153508Z">
+        <seg>&lt;f3&gt;手動加空白一般不是設計元素版面配置的好做法；但這個狀況下，手動加空白不會造成任何問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11630,8 +11630,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A design that does not disassociate the text entries and the page number in the first place is far more efficient, and &lt;f2&gt;simpler&lt;/f2&gt; as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074352Z" creationid="zerng07" creationdate="20180302T141927Z">
-        <seg>不會拆散文字條目與頁碼間關聯性的設計，從一開始就更有效率、&lt;f2&gt;更為輕鬆&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080935Z" creationid="zerng07" creationdate="20180302T141927Z">
+        <seg>如果採用不會拆散文字條目與頁碼間關聯性的設計，打從一開始就能更有效率、&lt;f2&gt;更為輕鬆&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20542,8 +20542,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fortunately, while LibreOffice defaults to this design, you can &lt;f0&gt;work with&lt;/f0&gt; the building blocks &lt;f1&gt;and paragraph styles&lt;/f1&gt; to create a more functional design in any number of ways.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T142721Z" creationid="zerng07" creationdate="20180302T142711Z">
-        <seg>幸運的是，雖然LibreOffice預設使用那種設計，你還是可以&lt;f0&gt;調整&lt;/f0&gt;建構方塊&lt;f1&gt;和段落樣式&lt;/f1&gt;，製作出各方面來說都更有功用的設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080950Z" creationid="zerng07" creationdate="20180302T142711Z">
+        <seg>幸運的是，雖然LibreOffice預設使用那種設計，你還是可以&lt;f0&gt;調整&lt;/f0&gt;建構方塊&lt;f1&gt;和段落樣式&lt;/f1&gt;，製作出各方面來說都更有用的設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21485,8 +21485,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f4&gt;to work without the problem of long entries taking up two lines, it requires short text entries, or perhaps a landscape oriented page with columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T150343Z" creationid="zerng07" creationdate="20180302T150343Z">
-        <seg>不過，&lt;f4&gt;它的要求是文字條目必須簡短，才不會有長條目佔用兩行以上而產生問題，或者是考慮改成橫向的多欄頁面。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081135Z" creationid="zerng07" creationdate="20180302T150343Z">
+        <seg>不過，&lt;f4&gt;它的要求是文字條目必須簡短，才不會有長條目佔用兩行以上而產生問題；或者是可考慮改成橫向的多欄頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26627,8 +26627,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Larger fonts and no leader dots improves the design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143200Z" creationid="zerng07" creationdate="20180302T143142Z">
-        <seg>採用更大的字型、不用前導點都能改善設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081021Z" creationid="zerng07" creationdate="20180302T143142Z">
+        <seg>採用更大的字型、移除前導點等都能改善設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38547,8 +38547,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>They are inelegant, but work.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T153527Z" creationid="zerng07" creationdate="20180302T153527Z">
-        <seg>雖然不優雅，但有用。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081218Z" creationid="zerng07" creationdate="20180302T153527Z">
+        <seg>加空白雖然不優雅，但有用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
