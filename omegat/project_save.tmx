@@ -1844,8 +1844,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adding c&lt;/f0&gt;ross-references &lt;f1&gt;between two sub-documents in a &lt;/f1&gt;master documents &lt;f2&gt;is &lt;/f2&gt;similar to &lt;f3&gt;adding a cross-reference in another document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T070841Z" creationid="zerng07" creationdate="20180312T070812Z">
-        <seg>在主控文件內加入&lt;f1&gt;兩個子文件之間&lt;/f1&gt;交叉參照的做法類似於&lt;f3&gt;在其他份文件中加入交叉參照。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T083924Z" creationid="zerng07" creationdate="20180312T070812Z">
+        <seg>在主控文件內加入&lt;f1&gt;兩個子文件之間&lt;/f1&gt;交叉參照的做法，類似於&lt;f3&gt;在其他份文件中加入交叉參照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12292,8 +12292,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Add any tables of &lt;f0&gt;contents&lt;/f0&gt;, indexes, and bibliographies directly to the master document when all the sub-documents are complete.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T070603Z" creationid="zerng07" creationdate="20180312T070603Z">
-        <seg>在完成所有子文件後，直接將任一&lt;f0&gt;目錄&lt;/f0&gt;、索引、參考文獻加到主控文件中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T083920Z" creationid="zerng07" creationdate="20180312T070603Z">
+        <seg>在完成所有子文件後，將&lt;f0&gt;目錄&lt;/f0&gt;、索引、參考文獻任一項直接加到主控文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21709,8 +21709,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, because headings do not display, you must set references manually, in an awkward work-around:&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T070921Z" creationid="zerng07" creationdate="20180312T070921Z">
-        <seg>不過，由於標題不會顯示，所以你必須手動設定參照，變通方案為：&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T083936Z" creationid="zerng07" creationdate="20180312T070921Z">
+        <seg>不過，由於不會顯示標題，所以你必須手動設定參照，變通方案為：&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
