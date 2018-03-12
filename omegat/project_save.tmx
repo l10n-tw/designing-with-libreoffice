@@ -4072,8 +4072,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T160117Z" creationid="zerng07" creationdate="20171224T143053Z">
-        <seg>&lt;f0&gt;階層式&lt;/f0&gt;：顯示樣式彼此之間的關係（&lt;f1&gt;請見第&lt;/f1&gt;&lt;f5&gt;&lt;bf6&gt;？？&lt;/bf6&gt;&lt;/f5&gt;&lt;f4&gt;頁&lt;/f4&gt;〈&lt;f2&gt;&lt;bf3&gt;樣式的階層&lt;/bf3&gt;&lt;/f2&gt;〉）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091114Z" creationid="zerng07" creationdate="20171224T143053Z">
+        <seg>&lt;f0&gt;階層式&lt;/f0&gt;：顯示樣式彼此之間的關係（&lt;f1&gt;請見第&lt;/f1&gt;&lt;f5&gt;&lt;bf6&gt;15&lt;/bf6&gt;&lt;/f5&gt;&lt;f4&gt;頁&lt;/f4&gt;〈&lt;f2&gt;&lt;bf3&gt;樣式的階層&lt;/bf3&gt;&lt;/f2&gt;〉）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,8 +4618,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In Writer, y&lt;/f0&gt;ou can apply paragraph styles to a selection by opening the drop-down list of styles that is &lt;f1&gt;on&lt;/f1&gt; the left on the &lt;f2&gt;Formatting&lt;/f2&gt; tool bar (the default bottom tool bar).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T102734Z" creationid="zerng07" creationdate="20171226T102734Z">
-        <seg>&lt;f0&gt;在Writer裡，&lt;/f0&gt;你可以在&lt;f2&gt;「格式化」&lt;/f2&gt;工具列（預設雙工具列中的底層工具列）左方的下拉式清單中套用段落樣式到選取的內容上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091226Z" creationid="zerng07" creationdate="20171226T102734Z">
+        <seg>&lt;f0&gt;在Writer裡，&lt;/f0&gt;你可以在&lt;f2&gt;「格式設定」&lt;/f2&gt;工具列（預設雙工具列中的底層工具列）左方的下拉式清單中套用段落樣式到選取的內容上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8358,8 +8358,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using&lt;/f0&gt; the Formatting &lt;f1&gt;t&lt;/f1&gt;ool bar</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T092202Z" creationid="zerng07" creationdate="20171226T092202Z">
-        <seg>&lt;f0&gt;使用&lt;/f0&gt;格式化工具列</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091233Z" creationid="zerng07" creationdate="20171226T092202Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;格式設定工具列</seg>
       </tuv>
     </tu>
     <tu>
@@ -17876,8 +17876,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not rely on the font preview in the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar &lt;f1&gt;or the sidebar.&lt;/f1&gt; A single word is not enough to judge a font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T101943Z" creationid="Franklin Weng" creationdate="20180105T120321Z">
-        <seg>不要太依賴「&lt;f0&gt;格式化&lt;/f0&gt;」工具列或&lt;f1&gt;側邊欄&lt;/f1&gt;中的字型預覽。只看到幾個字還不夠評斷一個字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091210Z" creationid="Franklin Weng" creationdate="20180105T120321Z">
+        <seg>不要太依賴「&lt;f0&gt;格式設定&lt;/f0&gt;」工具列或&lt;f1&gt;側邊欄&lt;/f1&gt;中的字型預覽。只看到幾個字還不夠評斷一個字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37650,8 +37650,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The styles list in the &lt;f0&gt;Formatting&lt;/f0&gt; toolbar.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T104641Z" creationid="zerng07" creationdate="20171226T104641Z">
-        <seg>&lt;f0&gt;格式化&lt;/f0&gt;工具列中的樣式清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091221Z" creationid="zerng07" creationdate="20171226T104641Z">
+        <seg>&lt;f0&gt;格式設定&lt;/f0&gt;工具列中的樣式清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40561,8 +40561,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Undocking the S&lt;f0&gt;tyles and Formatting&lt;/f0&gt; &lt;f1&gt;w&lt;/f1&gt;indow</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T074605Z" creationid="zerng07" creationdate="20171224T092614Z">
-        <seg>解除&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗的停駐位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T090944Z" creationid="zerng07" creationdate="20171224T092614Z">
+        <seg>解除&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗的停駐位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -43682,8 +43682,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You can remove most of this formatting by selecting &lt;f0&gt;Clear formatting&lt;/f0&gt; from the top of the drop-down list of paragraph styles on the &lt;f1&gt;Formatting&lt;/f1&gt; &lt;f2&gt;tool bar&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T155832Z" creationid="zerng07" creationdate="20171226T135318Z">
-        <seg>你可以從&lt;f1&gt;格式化&lt;/f1&gt;&lt;f2&gt;工具列&lt;/f2&gt;的段落樣式下拉式選單中的第一項「&lt;f0&gt;清除格式&lt;/f0&gt;」移除掉絕大多數的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091215Z" creationid="zerng07" creationdate="20171226T135318Z">
+        <seg>你可以從&lt;f1&gt;格式設定&lt;/f1&gt;&lt;f2&gt;工具列&lt;/f2&gt;的段落樣式下拉式選單中的第一項「&lt;f0&gt;清除格式&lt;/f0&gt;」移除掉絕大多數的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
