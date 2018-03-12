@@ -8968,6 +8968,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Chapter&lt;/f1&gt; is the chapter number, &lt;f2&gt;Reference&lt;/f2&gt; the text of the reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072630Z" creationid="zerng07" creationdate="20180312T072630Z">
+        <seg>「&lt;f1&gt;章節&lt;/f1&gt;」表示章節號，「&lt;f2&gt;參照&lt;/f2&gt;」則是參照的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Choosing the page &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;color is always highly contextual, and small changes in formatting can sometimes have large effects.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T151850Z" creationid="Franklin Weng" creationdate="20180106T041047Z">
@@ -14571,6 +14579,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T161347Z" creationid="Franklin Weng" creationdate="20180107T031310Z">
         <seg>也因為這些問題，有些批評者甚至連簡報的演講方式都一併揚棄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because the &lt;f0&gt;target &lt;/f0&gt;sub-document cannot find the reference in the &lt;f1&gt;source&lt;/f1&gt; sub-document, &lt;f2&gt;the message &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Error: Reference Source not found&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; displays.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073022Z" creationid="zerng07" creationdate="20180312T073022Z">
+        <seg>由於&lt;f0&gt;目標&lt;/f0&gt;子文件找不到&lt;f1&gt;來源&lt;/f1&gt;子文件的參照，&lt;f2&gt;此時就會顯示「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Error: Reference Source not found&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」的訊息。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25414,6 +25430,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145810Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
         <seg>接著，以第一個學生為例，在 &lt;f0&gt;Total&lt;/f0&gt; 欄位（F5）中加入這個函式：&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;。比如說在這個範例中，就輸入 &lt;f5&gt;=SUM(B5:E5) 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;target document&lt;/f0&gt;, enter the lead text, then select the format followed by the &lt;f1&gt;Insert&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072913Z" creationid="zerng07" creationdate="20180312T072853Z">
+        <seg>在&lt;f0&gt;目標文件&lt;/f0&gt;中輸入前導文字，接著選取格式後「&lt;f1&gt;插入&lt;/f1&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
