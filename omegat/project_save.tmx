@@ -3692,8 +3692,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, a character style&lt;/f0&gt; might put characters into italics if they form the title of the book.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T092746Z" creationid="zerng07" creationdate="20170903T144756Z">
-        <seg>&lt;f0&gt;舉例而言，在英文書籍慣例中，如果要表達一本書的書名，一般&lt;/f0&gt;會改用義式斜體字（Italic），這屬於「字元樣式」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T090032Z" creationid="zerng07" creationdate="20170903T144756Z">
+        <seg>&lt;f0&gt;舉例而言，在英文書籍慣例中，如果要表達一本書的書名，一般&lt;/f0&gt;會改用義大利體（Italic），這屬於「字元樣式」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10025,8 +10025,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;I&lt;/f2&gt;nstead of adding all the characteristics every place where you format, you apply the style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T061633Z" creationid="zerng07" creationdate="20170903T152317Z">
-        <seg>反之，就是獨自在各個需要設定格式的地方，手動套用各自的屬性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T090120Z" creationid="zerng07" creationdate="20170903T152317Z">
+        <seg>反之，就是獨自在各個需要設定格式的地方，手動套用各自的特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42283,8 +42283,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When you format manually, whenever you want to change the default formatting, you select part of the document – for example, a paragraph or a page – and then apply the formatting using the tool bars or one of the menus.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T041328Z" creationid="zerng07" creationdate="20170824T161200Z">
-        <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字——例如：一個段落，或是一頁——然後使用工具列或選單套用格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T090035Z" creationid="zerng07" creationdate="20170824T161200Z">
+        <seg>如果你是手動設定格式，每當你想要修改預設的格式設定時，你會選取部分文字——例如：一個段落，或是一頁——然後用工具列或選單套用格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44083,8 +44083,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You don’t have to remember the details of the formatting, either – just the name of the style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170903T152649Z" creationid="zerng07" creationdate="20170903T152643Z">
-        <seg>你也不必記住格式設定的所有細節——唯一所需就是樣式名稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T090142Z" creationid="zerng07" creationdate="20170903T152643Z">
+        <seg>你再也不必記住格式設定的所有細節——唯一所需就是樣式名稱。</seg>
       </tuv>
     </tu>
     <tu>
