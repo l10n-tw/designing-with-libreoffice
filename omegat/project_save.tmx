@@ -5505,8 +5505,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;No one has time to design a document every time they sit down to write.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160039Z" creationid="Franklin Weng" creationdate="20171212T100214Z">
-        <seg>&lt;f0&gt;沒有人每次坐下來寫文件的時候，都有時間從頭重新設計整份文件一遍的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091935Z" creationid="Franklin Weng" creationdate="20171212T100214Z">
+        <seg>&lt;f0&gt;沒有人每次坐下來寫文件的時候，都有時間再從頭設計整份文件一遍的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11639,8 +11639,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A dialog window opens so that you can give the new style a title.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T025639Z" creationid="zerng07" creationdate="20171227T025530Z">
-        <seg>接著會開啟一個對話視窗讓請你幫新樣式命名。？？？&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091801Z" creationid="zerng07" creationdate="20171227T025530Z">
+        <seg>接著會開啟一個對話視窗讓請你幫新樣式命名。（？？？在 LibreOffice 5.4.4, GNOME on Wayland 環境試不出來）&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
