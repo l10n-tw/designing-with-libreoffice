@@ -5834,8 +5834,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Outlining in&lt;/f0&gt; the Navigator</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151304Z" creationid="zerng07" creationdate="20180224T151304Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;助手中概略</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075704Z" creationid="zerng07" creationdate="20180224T151304Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;助手中概略編修大綱</seg>
       </tuv>
     </tu>
     <tu>
@@ -14593,8 +14593,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Because the &lt;f0&gt;target &lt;/f0&gt;sub-document cannot find the reference in the &lt;f1&gt;source&lt;/f1&gt; sub-document, &lt;f2&gt;the message &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Error: Reference Source not found&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; displays.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073022Z" creationid="zerng07" creationdate="20180312T073022Z">
-        <seg>由於&lt;f0&gt;目標&lt;/f0&gt;子文件找不到&lt;f1&gt;來源&lt;/f1&gt;子文件的參照，&lt;f2&gt;此時就會顯示「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Error: Reference Source not found&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」的訊息。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075612Z" creationid="zerng07" creationdate="20180312T073022Z">
+        <seg>由於&lt;f0&gt;目標&lt;/f0&gt;子文件找不到&lt;f1&gt;來源&lt;/f1&gt;子文件的參照，&lt;f2&gt;此時就會顯示「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;錯誤：找不到參照來源&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」的訊息。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30141,8 +30141,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Outlining in the Navigator&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T121037Z" creationid="zerng07" creationdate="20180224T145724Z">
-        <seg>在「助手」中擬定大綱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075709Z" creationid="zerng07" creationdate="20180224T145724Z">
+        <seg>在「助手」中概略編修大綱。</seg>
       </tuv>
     </tu>
     <tu>
