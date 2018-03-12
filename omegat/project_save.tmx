@@ -2738,6 +2738,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose a&lt;/f0&gt; name &lt;f1&gt;that is&lt;/f1&gt; unique not only in the &lt;f2&gt;current &lt;/f2&gt;sub-document, but all &lt;f3&gt;other&lt;/f3&gt; sub-documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071741Z" creationid="zerng07" creationdate="20180312T071741Z">
+        <seg>為參照取名&lt;f1&gt;時&lt;/f1&gt;，必須是&lt;f2&gt;當下&lt;/f2&gt;子文件中的獨一無二名稱，也必須是所有&lt;f3&gt;其他&lt;/f3&gt;子文件中不重複的名稱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Choose&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;sl&lt;/f2&gt;&lt;f3&gt;ide show settings from&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Slide Show &gt; Slide Show Settings.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T160239Z" creationid="Franklin Weng" creationdate="20180107T130057Z">
@@ -7030,6 +7038,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;o view the reference, &lt;f1&gt;change to&lt;/f1&gt; the &lt;f2&gt;Navigator's &lt;/f2&gt;view of the master document &lt;f3&gt;and look&lt;/f3&gt; under &lt;f4&gt;References.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072027Z" creationid="zerng07" creationdate="20180312T072027Z">
+        <seg>若要檢視參照，&lt;f1&gt;請更改為&lt;/f1&gt;「&lt;f2&gt;助手&lt;/f2&gt;」的主控文件檢視畫面，&lt;f3&gt;並到&lt;/f3&gt;「&lt;f4&gt;參照&lt;/f4&gt;」下查看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;ypography may have worked out a general set of principles, but it remains an art more than a &lt;f1&gt;science&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162309Z" creationid="Franklin Weng" creationdate="20171224T072539Z">
@@ -10871,6 +10887,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T115704Z" creationid="zerng07" creationdate="20180206T115704Z">
         <seg>&lt;f4&gt;通常，較寬鬆的間距能改善頁面的外觀。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;You can also keep a separate note of each name in a spreadsheet.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071904Z" creationid="zerng07" creationdate="20180312T071904Z">
+        <seg>&lt;f4&gt;你也可以另外開一份試算表追蹤記錄名稱和值之間的關係。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36037,6 +36061,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T133510Z" creationid="Jeff Huang" creationdate="20180203T130538Z">
         <seg>虛線是&lt;f0&gt;本範例中的邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The easiest way to ensure uniqueness is to make the name and the value identical.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071816Z" creationid="zerng07" creationdate="20180312T071816Z">
+        <seg>最簡單的命名方式，就是讓名稱和參照的值一樣即可。</seg>
       </tuv>
     </tu>
     <tu>
