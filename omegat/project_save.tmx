@@ -23633,8 +23633,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you change a sub-document’s name &lt;f0&gt;–&lt;/f0&gt; &lt;f1&gt;for instance,&lt;/f1&gt; &lt;f2&gt;to indicate a draft – you have to re-insert any cross-references to it.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T122536Z" creationid="zerng07" creationdate="20180309T122536Z">
-        <seg>如果你改動了子文件的名稱&lt;f0&gt;——&lt;/f0&gt;&lt;f1&gt;例如，&lt;/f1&gt;&lt;f2&gt;改名來指出這還是草稿——你必須重新插入任何參考它的交叉參照文字。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T084208Z" creationid="zerng07" creationdate="20180309T122536Z">
+        <seg>如果你改動了子文件的名稱&lt;f0&gt;——&lt;/f0&gt;&lt;f1&gt;例如，&lt;/f1&gt;&lt;f2&gt;改名指出這份文件還是草稿——你必須重新插入任何參考它的交叉參照文字。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26400,8 +26400,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It’s that simple.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T122307Z" creationid="zerng07" creationdate="20180309T122307Z">
-        <seg>就這麼簡單。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T084230Z" creationid="zerng07" creationdate="20180309T122307Z">
+        <seg>就這麼明白。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31547,16 +31547,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Save the &lt;f0&gt;source &lt;/f0&gt;sub-document with the reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073707Z" creationid="zerng07" creationdate="20180312T072223Z">
-        <seg>儲存內含參照的&lt;f0&gt;來源&lt;/f0&gt;子文件</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T084052Z" creationid="zerng07" creationdate="20180312T072223Z">
+        <seg>儲存內含參照的&lt;f0&gt;來源&lt;/f0&gt;子文件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Save the &lt;f0&gt;target &lt;/f0&gt;sub-document with the cross-reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073634Z" creationid="zerng07" creationdate="20180312T073234Z">
-        <seg>儲存內含交叉參照的&lt;f0&gt;目標&lt;/f0&gt;子文件</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T084103Z" creationid="zerng07" creationdate="20180312T073234Z">
+        <seg>儲存內含交叉參照的&lt;f0&gt;目標&lt;/f0&gt;子文件。</seg>
       </tuv>
     </tu>
     <tu>
