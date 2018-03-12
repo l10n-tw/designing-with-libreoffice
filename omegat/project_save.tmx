@@ -5569,8 +5569,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;pen &lt;f1&gt;the target document and&lt;/f1&gt; select&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Insert &gt; Cross References &gt; Insert Reference.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072310Z" creationid="zerng07" creationdate="20180312T072310Z">
-        <seg>開啟&lt;f1&gt;目標文件並&lt;/f1&gt;選取「&lt;f3&gt;插入 &gt; 交叉參照 &gt; 插入參照&lt;/f3&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072315Z" creationid="zerng07" creationdate="20180312T072310Z">
+        <seg>開啟&lt;f1&gt;目標文件，&lt;/f1&gt;選取「&lt;f3&gt;插入 &gt; 交叉參照 &gt; 插入參照&lt;/f3&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,6 +8021,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T031516Z" creationid="Jeff Huang" creationdate="20180208T065945Z">
         <seg>&lt;f0&gt;輸入伴隨圖形的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; the reference’s &lt;f1&gt;name&lt;/f1&gt; &lt;f2&gt;in the target document.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072520Z" creationid="zerng07" creationdate="20180312T072520Z">
+        <seg>&lt;f0&gt;在目標文件中輸入&lt;/f0&gt;參照的&lt;f1&gt;名稱&lt;/f1&gt;&lt;f2&gt;。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14571,6 +14579,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T165847Z" creationid="zerng07" creationdate="20171224T142230Z">
         <seg>因為樣式清單非常長，視窗底部有個下拉式清單&lt;f0&gt;可以&lt;/f0&gt;&lt;f1&gt;篩選&lt;/f1&gt;檢視內容，讓你&lt;f2&gt;不用一直捲動視窗畫面&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because the reference is in another document, it is not listed in the &lt;f0&gt;Selection&lt;/f0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072451Z" creationid="zerng07" creationdate="20180312T072451Z">
+        <seg>因為參照的是另一份檔案，所以不會列在「&lt;f0&gt;選取&lt;/f0&gt;」窗格中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27373,6 +27389,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make a selection from the &lt;f0&gt;Insert reference to &lt;/f0&gt;pane.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072550Z" creationid="zerng07" creationdate="20180312T072550Z">
+        <seg>從「&lt;f0&gt;插入參照至&lt;/f0&gt;」窗格中做選取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make all of the background the same color as other pages, and position the graphic where you want it to appear.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T025343Z" creationid="Jeff Huang" creationdate="20180130T060546Z">
@@ -34684,6 +34708,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042201Z" creationid="MarkHung" creationdate="20180224T042201Z">
         <seg>「首字放大」頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Fields&lt;/f0&gt; &lt;f1&gt;dialog window&lt;/f1&gt; opens &lt;f2&gt;to&lt;/f2&gt; the &lt;f3&gt;&lt;f4&gt;Cross-r&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;eferences&lt;/f5&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072401Z" creationid="zerng07" creationdate="20180312T072401Z">
+        <seg>「&lt;f0&gt;欄位&lt;/f0&gt;&lt;f1&gt;」對話視窗會&lt;/f1&gt;開啟「&lt;f3&gt;&lt;f4&gt;交叉&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;參照&lt;/f5&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
