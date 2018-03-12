@@ -3894,8 +3894,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;o to&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Index/Tables &gt; Type&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;and select &lt;f7&gt;the type of table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T124151Z" creationid="zerng07" creationdate="20180302T073301Z">
-        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f5&gt;」，並選取&lt;f7&gt;列表的類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074109Z" creationid="zerng07" creationdate="20180302T073301Z">
+        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f2&gt;」，並選取&lt;f7&gt;列表的類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,8 +7798,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To &lt;/f0&gt;add a hyperlink &lt;f1&gt;using styles&lt;/f1&gt;, follow &lt;f2&gt;this&lt;/f2&gt; procedure:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T141957Z" creationid="zerng07" creationdate="20180227T141957Z">
-        <seg>&lt;f0&gt;若要&lt;/f0&gt;使用樣式加入超連結的話，請遵照&lt;f2&gt;下列&lt;/f2&gt;步驟：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074313Z" creationid="zerng07" creationdate="20180227T141957Z">
+        <seg>&lt;f0&gt;若要&lt;/f0&gt;&lt;f1&gt;使用樣式&lt;/f1&gt;加入超連結的話，請遵照&lt;f2&gt;下列&lt;/f2&gt;步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11630,8 +11630,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A design that does not disassociate the text entries and the page number in the first place is far more efficient, and &lt;f2&gt;simpler&lt;/f2&gt; as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T141927Z" creationid="zerng07" creationdate="20180302T141927Z">
-        <seg>不會拆散文字條目與頁碼間關聯性的設計，從一開始就更有效率、更為輕鬆。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074352Z" creationid="zerng07" creationdate="20180302T141927Z">
+        <seg>不會拆散文字條目與頁碼間關聯性的設計，從一開始就更有效率、&lt;f2&gt;更為輕鬆&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
