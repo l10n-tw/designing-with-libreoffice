@@ -15491,8 +15491,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By default, each &lt;f0&gt;o&lt;/f0&gt;utline &lt;f1&gt;l&lt;/f1&gt;evel is assigned a &lt;f2&gt;h&lt;/f2&gt;eading paragraph style, with&lt;f3&gt; He&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ding 1&lt;/f6&gt; assigned to outline &lt;f7&gt;&lt;f8&gt;L&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;evel 1, &lt;/f9&gt;and so on &lt;f10&gt;with each heading style corresponding to the same outline level.&lt;/f10&gt; &lt;t11/&gt;However, &lt;f12&gt;what most users never notice is that &lt;/f12&gt;you &lt;f13&gt;can &lt;/f13&gt;assign &lt;f14&gt;any other&lt;/f14&gt; paragraph style to an&lt;f15&gt;y&lt;/f15&gt; outline level,&lt;f16&gt; by using the &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Outline level &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;field on the &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Outline &amp; Numbering&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; tab for a paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145417Z" creationid="zerng07" creationdate="20180224T144803Z">
-        <seg>預設情況下，各大綱層級會對應到各個標題段落樣式，像是「&lt;f3&gt; 標題&lt;/f3&gt;&lt;f6&gt; 1&lt;/f6&gt;指派給「&lt;f9&gt;層級 1&lt;/f9&gt;」……依此類推，&lt;f10&gt;各標題樣式對應到同等的大綱層級。&lt;/f10&gt; &lt;t11/&gt;然而，&lt;f12&gt;大多數使用者都未曾注意過，其實&lt;/f12&gt;你&lt;f13&gt;可以&lt;/f13&gt;將&lt;f14&gt;任何其他&lt;/f14&gt;段落樣式指派給任意的大綱層級，&lt;f16&gt;只要在任一段落樣式「&lt;/f16&gt;&lt;f20&gt;&lt;f21&gt;大綱與編號&lt;/f21&gt;&lt;/f20&gt;」標籤頁中的「&lt;f17&gt;&lt;f18&gt;大綱層級&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;」欄位做設定即可&lt;/f19&gt;&lt;f22&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075554Z" creationid="zerng07" creationdate="20180224T144803Z">
+        <seg>預設情況下，各大綱層級會對應到各個標題段落樣式，像是「&lt;f3&gt; 標題&lt;/f3&gt;&lt;f6&gt; 1&lt;/f6&gt;」指派給「&lt;f9&gt;層級 1&lt;/f9&gt;」……依此類推。&lt;f10&gt;各標題樣式對應到同等的大綱層級。&lt;/f10&gt;然而，&lt;f12&gt;大多數使用者都未曾注意過，其實&lt;/f12&gt;你&lt;f13&gt;可以&lt;/f13&gt;將&lt;f14&gt;任何其他&lt;/f14&gt;段落樣式指派給任意的大綱層級，&lt;f16&gt;只要在任一段落樣式「&lt;/f16&gt;&lt;f20&gt;&lt;f21&gt;大綱與編號&lt;/f21&gt;&lt;/f20&gt;」標籤頁中的「&lt;f17&gt;&lt;f18&gt;大綱層級&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;」欄位做設定即可&lt;/f19&gt;&lt;f22&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22631,8 +22631,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, without &lt;f0&gt;styles&lt;/f0&gt;, such features &lt;f1&gt;are so much more laborious that doing them manually is a waste of time, except in a few cases where they are unavoidable.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T095759Z" creationid="zerng07" creationdate="20180220T095453Z">
-        <seg>不過，一旦沒了&lt;f0&gt;樣式&lt;/f0&gt;，這些功能手動做起來&lt;f1&gt;不僅更加吃力而且也浪費時間；請只有在少數沒有辦法避免的狀況下才這麼做。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075118Z" creationid="zerng07" creationdate="20180220T095453Z">
+        <seg>不過，一旦沒了&lt;f0&gt;樣式&lt;/f0&gt;，這些功能手動做起來&lt;f1&gt;不僅更加吃力，也更浪費時間；請只在少數沒有辦法避免的狀況下才這麼做。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33312,8 +33312,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some of these tools do not rely heavily on styles (if at all), but you &lt;f0&gt;may &lt;/f0&gt;need to be aware of &lt;f1&gt;their quirks &lt;/f1&gt;as you design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T102524Z" creationid="zerng07" creationdate="20180224T101516Z">
-        <seg>這些工具中有的一點也不依靠樣式，但你在設計時&lt;f0&gt;還是該&lt;/f0&gt;注意&lt;f1&gt;那些奇技淫巧 &lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075308Z" creationid="zerng07" creationdate="20180224T101516Z">
+        <seg>這些工具中有的一點也不依靠樣式，但你在設計時&lt;f0&gt;還是該&lt;/f0&gt;注意&lt;f1&gt;那些小技巧 &lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37326,8 +37326,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The rest is about the tools for designing long and academic documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T084052Z" creationid="zerng07" creationdate="20180224T083936Z">
-        <seg>剩下的部分則是講述適合長篇文章和學術文件用的設計工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075301Z" creationid="zerng07" creationdate="20180224T083936Z">
+        <seg>剩下的部分則是講述適合長篇文章，以及學術文件用的設計工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44374,8 +44374,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You might say that the chapter is mostly about the unexpected dividends that taking the time to use styles can pay you.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T094058Z" creationid="zerng07" creationdate="20180224T083926Z">
-        <seg>你可以說本章所提的內容，大部分在講花時間在樣式上可為你帶來的預期之外紅利。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075240Z" creationid="zerng07" creationdate="20180224T083926Z">
+        <seg>你可以這樣說，本章所提的內容，大部分講花時間在樣式上可為你帶來的預期之外紅利。</seg>
       </tuv>
     </tu>
     <tu>
