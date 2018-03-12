@@ -24642,8 +24642,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In LibreOffice releases before 4.4 and &lt;f0&gt;in &lt;/f0&gt;Apache OpenOffice, you can click the first icon on the left on the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar (the bot&lt;f2&gt;t&lt;/f2&gt;om default tool bar).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090636Z" creationid="zerng07" creationdate="20171224T092232Z">
-        <seg>在LibreOffice 4.4以前的發行版本，還有Apache OpenOffice中，你可以點按&lt;f1&gt;格式化&lt;/f1&gt;工具列中（底部的預設工具列）最左方的第一個圖示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091253Z" creationid="zerng07" creationdate="20171224T092232Z">
+        <seg>在LibreOffice 4.4以前的發行版本，還有Apache OpenOffice中，你可以點按&lt;f1&gt;格式設定&lt;/f1&gt;工具列中（底部的預設工具列）最左方的第一個圖示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31371,8 +31371,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Right-clicking anywhere in a document when &lt;f0&gt;Fill Format Mode&lt;/f0&gt; is turned on stops it from being applied.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171231T121247Z" creationid="zerng07" creationdate="20171226T121258Z">
-        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，對文件中的任意處點按滑鼠右鍵，則剛才套用的部份都會恢復成原來的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091550Z" creationid="zerng07" creationdate="20171226T121258Z">
+        <seg>當開啟&lt;f0&gt;填入格式模式&lt;/f0&gt;時，若對文件中的任意處點按滑鼠右鍵，則剛才套用的部份都會恢復成原來的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41962,8 +41962,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When closed, the list of paragraph styles on the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar always displays the current style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T090655Z" creationid="zerng07" creationdate="20171225T081834Z">
-        <seg>在&lt;f0&gt;格式化&lt;/f0&gt;工具列中的段落樣式區塊，會一直顯示目前的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091248Z" creationid="zerng07" creationdate="20171225T081834Z">
+        <seg>在&lt;f0&gt;格式設定&lt;/f0&gt;工具列中的段落樣式區塊，會一直顯示目前的段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44124,8 +44124,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You have several options for applying a style: the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window, the &lt;f1&gt;Formatting&lt;/f1&gt; tool bar,&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Fill Format&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;mode, &lt;t5/&gt;pasting &lt;f6&gt;from your system’s clipboard, and applying keyboard shortcuts.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T140033Z" creationid="zerng07" creationdate="20171226T090525Z">
-        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式化&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、&lt;f6&gt;從系統中的剪貼簿中貼上、套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091243Z" creationid="zerng07" creationdate="20171226T090525Z">
+        <seg>你有許多方法可以套用樣式：利用&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗、&lt;f1&gt;格式設定&lt;/f1&gt;工具列、&lt;f3&gt;填入格式&lt;/f3&gt;模式、&lt;f6&gt;從系統中的剪貼簿中貼上、套用鍵盤快捷鍵等做法。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
