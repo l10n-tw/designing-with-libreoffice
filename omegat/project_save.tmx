@@ -4546,8 +4546,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a shadow as part of the border, select its&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Position, Distance&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (from the border), and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Color.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052919Z" creationid="MarkHung" creationdate="20180224T035022Z">
-        <seg>&lt;f0&gt;如果你要邊框有陰影&lt;/f0&gt;，選擇陰影樣式的&lt;f1&gt;&lt;f2&gt;位置、距離&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; (離內容的間距)及&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T133057Z" creationid="MarkHung" creationdate="20180224T035022Z">
+        <seg>&lt;f0&gt;如果你想要讓邊框有陰影&lt;/f0&gt;，選擇「陰影樣式」的「&lt;f1&gt;&lt;f2&gt;位置」、「距離&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」（從邊框開始算）及「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;色彩」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6655,8 +6655,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Shadows can help separate a picture from the background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035158Z" creationid="MarkHung" creationdate="20180224T035158Z">
-        <seg>陰影有助於區分圖形與背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T133133Z" creationid="MarkHung" creationdate="20180224T035158Z">
+        <seg>&lt;f0&gt;陰影有助於區分圖形與背景。</seg>
       </tuv>
     </tu>
     <tu>
