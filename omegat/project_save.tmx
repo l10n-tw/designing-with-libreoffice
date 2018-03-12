@@ -3935,8 +3935,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables &gt; Columns &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;and set the table to use two columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094325Z" creationid="zerng07" creationdate="20180302T145821Z">
-        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄和索引 &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;」，將列表設定為使用兩欄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074429Z" creationid="zerng07" creationdate="20180302T145821Z">
+        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄和索引 &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，將列表設定為使用兩欄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7914,8 +7914,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To position a &lt;/f0&gt;footnote or endnote, &lt;f1&gt;click&lt;/f1&gt; &lt;f2&gt;Insert &gt; Footnote/Endnote.&lt;/f2&gt; After the number, complete the footnote or endnote by selecting the citation from the drop-down list for &lt;f3&gt;Insert &gt; Index&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;es&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and Tables &gt; Bibliograph&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;y&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; entry &gt; Short name.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T095630Z" creationid="zerng07" creationdate="20180309T095630Z">
-        <seg>&lt;f0&gt;如果要放置&lt;/f0&gt;註腳或尾註&lt;f1&gt;，請點按「&lt;/f1&gt; &lt;f2&gt;插入 &gt; 註腳與尾註 &gt; 註腳或尾註&lt;/f2&gt;」。在編號之後，從「&lt;f3&gt;插入 &gt; 目錄、索引或參考文獻 &gt; 參考文獻條目 &gt; 短名&lt;/f9&gt;」的下拉清單中選取引用文字，以便完成註腳或尾註。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074739Z" creationid="zerng07" creationdate="20180309T095630Z">
+        <seg>&lt;f0&gt;如果要放置&lt;/f0&gt;註腳或尾註&lt;f1&gt;，請點按「&lt;/f1&gt; &lt;f2&gt;插入 &gt; 註腳與尾註 &gt; 註腳或尾註&lt;/f2&gt;」。在編號之後，從「&lt;f3&gt;插入 &gt; 目錄、索引或參考文獻 &gt; 參考文獻條目 &gt; 短名&lt;/f3&gt;」的下拉清單中選取引用文字，以便完成註腳或尾註。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21855,8 +21855,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, footnotes and endnotes are still used for citations &lt;f0&gt;in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; format as well for personal preferences.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094814Z" creationid="zerng07" creationdate="20180309T091420Z">
-        <seg>不過，註腳和尾註&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;格式，以及個人偏好中佔有一席之地。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074624Z" creationid="zerng07" creationdate="20180309T091420Z">
+        <seg>不過，註腳和尾註&lt;f0&gt;在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;AMA&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;格式，以及個人偏好中佔有一席之地。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25532,8 +25532,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the same circumstances in a master document, each top outline level &lt;f1&gt;continues&lt;/f1&gt; the numbering from the previous &lt;f2&gt;heading at the same outline level.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132536Z" creationid="zerng07" creationdate="20180303T132536Z">
-        <seg>而同樣情況下的主控文件中，各個最上層大綱層級則會從&lt;f2&gt;相同大綱層級的上個標題&lt;f1&gt;繼續&lt;/f1&gt;編號。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074502Z" creationid="zerng07" creationdate="20180303T132536Z">
+        <seg>而同樣情況下的主控文件中，各個最上層大綱層級則會從相同大綱層級的上個標題&lt;f1&gt;繼續&lt;/f1&gt;&lt;f2&gt;編號。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39228,8 +39228,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This solution shortens the distance between the text entry and the page &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;number, but may be impractical if any entry text is more than a few words long and spills over onto another line.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T145947Z" creationid="zerng07" creationdate="20180302T145947Z">
-        <seg>這個解決辦法可以縮短文字條目和頁碼之間的距離，&lt;f5&gt;但如果有任何條目的字不只一些，會跨到下一行去的話就可能不切實際。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074448Z" creationid="zerng07" creationdate="20180302T145947Z">
+        <seg>這個解決辦法可以縮短文字條目和頁碼之間的距離，&lt;/f3&gt;&lt;f5&gt;但如果有任何條目的字不只一些，會跨到下一行去的話就可能不切實際。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
