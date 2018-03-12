@@ -4842,8 +4842,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the document, a&lt;/f0&gt;dd the words to &lt;f1&gt;introduce&lt;/f1&gt; the cross-reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T032028Z" creationid="zerng07" creationdate="20180226T032028Z">
-        <seg>&lt;f0&gt;在文件中&lt;/f0&gt;寫一些話&lt;f1&gt;引出&lt;/f1&gt;交叉參照。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080244Z" creationid="zerng07" creationdate="20180226T032028Z">
+        <seg>&lt;f0&gt;在文件中&lt;/f0&gt;寫一些話&lt;f1&gt;引導&lt;/f1&gt;交叉參照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20149,8 +20149,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, if the structure you are using includes the chapter and page number, the cross-reference dialog inserts only the actual chapter and page number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T032210Z" creationid="zerng07" creationdate="20180226T032210Z">
-        <seg>例如，如果你正在使用的文件結構有編排章次和頁數，那麼交叉參照對話視窗就能插入實際的章號和頁數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080316Z" creationid="zerng07" creationdate="20180226T032210Z">
+        <seg>舉例，假設你正在使用的文件結構有編排章次和頁數，那麼交叉參照對話視窗就能插入實際的章號和頁數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24307,8 +24307,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want the hyperlink to resemble regular text, edit the&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Internet Link&lt;/f1&gt; and &lt;f2&gt;Visited Internet Link &lt;/f2&gt;character styles &lt;f3&gt;to remove the colors and underlining.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T144519Z" creationid="zerng07" creationdate="20180227T144512Z">
-        <seg>如果你希望讓超連結看起來像一般文字內容一樣，請編輯「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;網際網路連結&lt;/f1&gt;」和「&lt;f2&gt;訪問過的網際網路連結&lt;/f2&gt;」字元樣式&lt;f3&gt;來除去顏色和底線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080651Z" creationid="zerng07" creationdate="20180227T144512Z">
+        <seg>如果你希望讓超連結看起來像一般文字內容一樣，請編輯「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;網際網路連結&lt;/f1&gt;」和「&lt;f2&gt;訪問過的網際網路連結&lt;/f2&gt;」字元樣式&lt;f3&gt;除去顏色和底線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25099,8 +25099,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In fact, using &lt;f2&gt;Set Reference&lt;/f2&gt; to create a manual reference is sufficiently confusing that I recommend avoiding it altogether.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T141913Z" creationid="zerng07" creationdate="20180227T141913Z">
-        <seg>實際上，使用「&lt;f2&gt;設定參照&lt;/f2&gt;」建立手動參照的做法常令人搞不清楚狀況，我個人建議應該全部避免。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080415Z" creationid="zerng07" creationdate="20180227T141913Z">
+        <seg>實際上，使用「&lt;f2&gt;設定參照&lt;/f2&gt;」建立手動參照的做法常令人搞不清楚狀況，我個人建議應該完全避免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35850,8 +35850,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The complete reference &lt;f0&gt;may &lt;/f0&gt;require something like, “See Chapter 6, page &lt;f1&gt;79&lt;/f1&gt;.” &lt;f2&gt;Alternatively, you might want to mention the heading.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180226T034632Z" creationid="zerng07" creationdate="20180226T033033Z">
-        <seg>完整的參照字句&lt;f0&gt;可以&lt;/f0&gt;考慮這樣寫：「參見第6章，第&lt;f1&gt;79&lt;/f1&gt;頁」。 &lt;f2&gt;或者，你也可以提及參考位置的標題。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080411Z" creationid="zerng07" creationdate="20180226T033033Z">
+        <seg>所以完整的參照字句&lt;f0&gt;可以&lt;/f0&gt;考慮這樣寫：「參見第6章，第&lt;f1&gt;79&lt;/f1&gt;頁」。 &lt;f2&gt;或者，你也可以提及參考位置的標題。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
