@@ -4070,6 +4070,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Highlight&lt;/f0&gt; the text for the reference&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;and&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;click&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;Insert &gt; Cross-Reference &gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Set Reference.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071220Z" creationid="zerng07" creationdate="20180312T071220Z">
+        <seg>&lt;f0&gt;反白選取&lt;/f0&gt;參照文字&lt;f1&gt;，&lt;/f1&gt;&lt;f2&gt;然後&lt;/f2&gt;&lt;f5&gt;點按「&lt;/f5&gt;&lt;f8&gt;插入 &gt; 交叉參照 &gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;設定參照」。&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;However, &lt;/f0&gt;for all of these solutions, you are limited to no more than about one-third reduction in size &lt;f1&gt;if you are interested in readability&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143402Z" creationid="Franklin Weng" creationdate="20180216T143254Z">
@@ -29572,6 +29580,14 @@ Franklin：蛤？</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Open the sub-document &lt;f0&gt;you plan to&lt;/f0&gt; reference &lt;f1&gt;(the source document)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T070949Z" creationid="zerng07" creationdate="20180312T070949Z">
+        <seg>開啟&lt;f0&gt;你打算參考&lt;/f0&gt;的子文件&lt;f1&gt;（來源文件）&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>沒先開啟來源文件的話，助手視窗底部就沒得選。</note>
       <tuv lang="EN">
         <seg>Open the target document for the cross-reference.</seg>
@@ -34604,6 +34620,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042201Z" creationid="MarkHung" creationdate="20180224T042201Z">
         <seg>「首字放大」頁籤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Fields&lt;/f0&gt; &lt;f1&gt;dialog window&lt;/f1&gt; opens &lt;f2&gt;to&lt;/f2&gt; the &lt;f3&gt;&lt;f4&gt;Cross&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;-&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;re&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;ferences&lt;/f8&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071325Z" creationid="zerng07" creationdate="20180312T071325Z">
+        <seg>「&lt;f0&gt;欄位&lt;/f0&gt;&lt;f1&gt;」對話視窗會&lt;/f1&gt;打開「&lt;f3&gt;&lt;f4&gt;交叉&lt;/f4&gt;&lt;/f3&gt;&lt;f8&gt;參照&lt;/f8&gt;」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43436,6 +43460,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T131445Z" creationid="zerng07" creationdate="20180205T131445Z">
         <seg>你可以對影像按右鍵&lt;f0&gt;選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;以外部工具編輯&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」來從其他應用程式開啟影像，或&lt;/f3&gt;是直接從&lt;f4&gt;圖形編輯器&lt;/f4&gt;開啟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can open it by itself, or from the &lt;f2&gt;m&lt;/f2&gt;aster document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071020Z" creationid="zerng07" creationdate="20180312T071020Z">
+        <seg>你可以直接打開該文件，或是從主控文件中開啟。</seg>
       </tuv>
     </tu>
     <tu>
