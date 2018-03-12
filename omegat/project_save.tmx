@@ -5567,6 +5567,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;O&lt;/f0&gt;pen &lt;f1&gt;the target document and&lt;/f1&gt; select&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Insert &gt; Cross References &gt; Insert Reference.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072310Z" creationid="zerng07" creationdate="20180312T072310Z">
+        <seg>開啟&lt;f1&gt;目標文件並&lt;/f1&gt;選取「&lt;f3&gt;插入 &gt; 交叉參照 &gt; 插入參照&lt;/f3&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;O&lt;/f0&gt;thers argue that &lt;f1&gt;such things distract&lt;/f1&gt; from the contents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153742Z" creationid="Franklin Weng" creationdate="20180216T144852Z">
@@ -7040,8 +7048,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o view the reference, &lt;f1&gt;change to&lt;/f1&gt; the &lt;f2&gt;Navigator's &lt;/f2&gt;view of the master document &lt;f3&gt;and look&lt;/f3&gt; under &lt;f4&gt;References.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072027Z" creationid="zerng07" creationdate="20180312T072027Z">
-        <seg>若要檢視參照，&lt;f1&gt;請更改為&lt;/f1&gt;「&lt;f2&gt;助手&lt;/f2&gt;」的主控文件檢視畫面，&lt;f3&gt;並到&lt;/f3&gt;「&lt;f4&gt;參照&lt;/f4&gt;」下查看。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072148Z" creationid="zerng07" creationdate="20180312T072027Z">
+        <seg>若要檢視參照，&lt;f1&gt;請更改&lt;/f1&gt;「&lt;f2&gt;助手&lt;/f2&gt;」的主控文件檢視畫面，&lt;f3&gt;前往&lt;/f3&gt;「&lt;f4&gt;參照&lt;/f4&gt;」下查看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31461,6 +31469,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105710Z" creationid="Franklin Weng" creationdate="20171218T125850Z">
         <seg>將檔案用「&lt;f0&gt;檔案 &gt; 範本 &gt; 另存為範本&lt;/f0&gt;」（或是「&lt;f1&gt;&lt;f2&gt;檔案 &gt; 另存為範本&lt;/f2&gt;&lt;/f1&gt;」、「&lt;f3&gt;檔案 &gt; 範本選單 &gt; 另存為範本&lt;/f3&gt;&lt;f4&gt;」，依LibreOffice版本而定）儲存。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the &lt;f0&gt;source &lt;/f0&gt;sub-document with the reference.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072223Z" creationid="zerng07" creationdate="20180312T072223Z">
+        <seg>隨參照儲存&lt;f0&gt;來源&lt;/f0&gt;子文件。</seg>
       </tuv>
     </tu>
     <tu>
