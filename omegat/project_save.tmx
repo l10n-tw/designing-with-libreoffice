@@ -6599,8 +6599,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the line’s &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Width&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Color&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052806Z" creationid="MarkHung" creationdate="20180224T034759Z">
-        <seg>&lt;f0&gt;設定線條&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;、&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;和&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;顏色。&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T131756Z" creationid="MarkHung" creationdate="20180224T034759Z">
+        <seg>&lt;f0&gt;設定線條的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;寬度&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」和「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;色彩&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25220,8 +25220,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In most circumstances, choose the thinnest, plainest style possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052207Z" creationid="MarkHung" creationdate="20180224T034807Z">
-        <seg>在多數情形，儘可能選擇最細、最簡單的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T131820Z" creationid="MarkHung" creationdate="20180224T034807Z">
+        <seg>大多數情況下，盡可能選擇最細、最簡單的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42726,8 +42726,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>With&lt;/f3&gt; the &lt;f4&gt;User-defined &lt;/f4&gt;diagram, you can set each side separately.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034746Z" creationid="MarkHung" creationdate="20180224T034746Z">
-        <seg>使用使用者定義圖示，可以個別設定每邊的邊框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T131712Z" creationid="MarkHung" creationdate="20180224T034746Z">
+        <seg>「&lt;f4&gt;使用者定義&lt;/f4&gt;」圖則可以個別設定邊框的每一邊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44244,8 +44244,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You may need to choose a thicker line so it is detectable on low-end printers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034816Z" creationid="MarkHung" creationdate="20180224T034816Z">
-        <seg>你可能須要選取較粗的線條，以便較低階的印表機偵測。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T131908Z" creationid="MarkHung" creationdate="20180224T034816Z">
+        <seg>如果你輸出文件的印表機比較低階，那你可能得選用較粗的線條否則看不見。</seg>
       </tuv>
     </tu>
     <tu>
