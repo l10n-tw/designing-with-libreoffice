@@ -24071,6 +24071,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you open the sub-document with the cross-reference from outside the &lt;f0&gt;master document&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt; the cross-reference fields &lt;f3&gt;show the error message&lt;/f3&gt; again.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073615Z" creationid="zerng07" creationdate="20180312T073615Z">
+        <seg>如果你在&lt;f0&gt;主控文件&lt;/f0&gt;之外開啟內含交叉參照的子文件的話，交叉欄位就會再次&lt;f3&gt;顯示錯誤訊息&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you plan to distribute your slides in grayscale, also check how your slides look in black and white.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T101753Z" creationid="Franklin Weng" creationdate="20180115T090441Z">
@@ -30251,6 +30259,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pagination problems due to the error message are also corrected.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073507Z" creationid="zerng07" creationdate="20180312T073453Z">
+        <seg>因為錯誤訊息長度較長而導致的分頁問題隨即修正。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171223T175109Z" creationid="zerng07" creationdate="20171223T175109Z">
@@ -31531,16 +31547,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Save the &lt;f0&gt;source &lt;/f0&gt;sub-document with the reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T072223Z" creationid="zerng07" creationdate="20180312T072223Z">
-        <seg>隨參照儲存&lt;f0&gt;來源&lt;/f0&gt;子文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073703Z" creationid="zerng07" creationdate="20180312T072223Z">
+        <seg>儲存內含參照的&lt;f0&gt;來源&lt;/f0&gt;子文件。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Save the &lt;f0&gt;target &lt;/f0&gt;sub-document with the cross-reference.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073234Z" creationid="zerng07" creationdate="20180312T073234Z">
-        <seg>隨交叉參照儲存&lt;f0&gt;目標&lt;/f0&gt;子文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T073634Z" creationid="zerng07" creationdate="20180312T073234Z">
+        <seg>儲存內含交叉參照的&lt;f0&gt;目標&lt;/f0&gt;子文件</seg>
       </tuv>
     </tu>
     <tu>
