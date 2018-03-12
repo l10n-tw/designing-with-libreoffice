@@ -5601,8 +5601,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Occasionally, borders may appear when you have set none.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034959Z" creationid="MarkHung" creationdate="20180224T034959Z">
-        <seg>有時，邊框會在你設定為沒有邊框的時候出現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T132751Z" creationid="MarkHung" creationdate="20180224T034959Z">
+        <seg>&lt;f0&gt;有時，邊框會在你設為沒有邊框的時候出現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12201,8 +12201,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Above: &lt;f0&gt;Borders &gt; Space to Contents&lt;/f0&gt; set to &lt;f1&gt;0&lt;/f1&gt; points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034942Z" creationid="MarkHung" creationdate="20180224T034921Z">
-        <seg>上: 邊框 &gt; 離內容的邊距設為0點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T132624Z" creationid="MarkHung" creationdate="20180224T034921Z">
+        <seg>上：「&lt;f0&gt;邊框 &gt; 留空&lt;/f0&gt;」設為0點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23214,8 +23214,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If that happens and you do not need borders, leave the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Line Arrangement&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; blank, and select&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Line &gt; Style &gt; None.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T035141Z" creationid="MarkHung" creationdate="20180224T035006Z">
-        <seg>此時，如你不需要邊框，可將線條配置設定為空白，並選擇線條 &gt; 樣式 &gt; 無。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T132844Z" creationid="MarkHung" creationdate="20180224T035006Z">
+        <seg>此時，如你不需要邊框，可將「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;線條安排」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;設定為空白，並選取「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;線條 &gt; 樣式 &gt; 無&lt;/f5&gt;&lt;/f4&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36252,8 +36252,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The extra white space increases readability &lt;f2&gt;and prevents crowding against the borders.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034949Z" creationid="MarkHung" creationdate="20180224T034949Z">
-        <seg>額外的空白增加可讀性並且避免擠向邊框。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T132724Z" creationid="MarkHung" creationdate="20180224T034949Z">
+        <seg>額外的空白可提高易讀性，&lt;f2&gt;並可避免邊框處看起來很擁擠。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
