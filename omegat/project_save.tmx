@@ -4216,8 +4216,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, this solution hides the hierarchal structure of the headings.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160222Z" creationid="zerng07" creationdate="20180302T160222Z">
-        <seg>&lt;f0&gt;不過，這個解法會隱藏標題的階層結構。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081306Z" creationid="zerng07" creationdate="20180302T160222Z">
+        <seg>&lt;f0&gt;不過，這個解法會隱去標題的階層結構。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4907,8 +4907,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Instead, you can automate the creation of index entries by selecting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Apply to all similar texts&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; to add other occurrences of an entry in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135842Z" creationid="zerng07" creationdate="20180303T135522Z">
-        <seg>&lt;f0&gt;所以，你可以選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;套用至所有相似文字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」自動製作索引條目，將條目文字在文件中的其他出現處也一併加進去。。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081459Z" creationid="zerng07" creationdate="20180303T135522Z">
+        <seg>&lt;f0&gt;所以，你可以選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;套用至所有相似文字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」自動製作索引條目，將條目文字在文件中的其他出現處也一併加進去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8913,8 +8913,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Any more sub-entries would generally be overly-complicated for writers to maintain and readers to follow.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T140233Z" creationid="zerng07" creationdate="20180303T140233Z">
-        <seg>&lt;f1&gt;如果要再更詳細的子條目層級的話，通常太過複雜，對編寫者來說太難維護，對讀者來說太難查閱。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081542Z" creationid="zerng07" creationdate="20180303T140233Z">
+        <seg>&lt;f1&gt;如果想要有更詳細的子條目層級的話，通常太過複雜，對編寫者來說太難維護，對讀者來說也太難查閱。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10603,8 +10603,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;Manual spaces are generally not a good way of laying out design elements, but in this one case, they do not create any problem beyond the need to keep count.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081153Z" creationid="zerng07" creationdate="20180302T153508Z">
-        <seg>&lt;f3&gt;手動加空白一般不是設計元素版面配置的好做法；但這個狀況下，手動加空白不會造成任何問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081240Z" creationid="zerng07" creationdate="20180302T153508Z">
+        <seg>&lt;f3&gt;手動加空白一般不是設計元素版面配置的好做法；但這個狀況下不會造成任何問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36712,8 +36712,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The list style could also be used to add the word “Chapter” before the number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T133233Z" creationid="zerng07" creationdate="20180303T133233Z">
-        <seg>你也可以利用清單樣式在數字前加入「Chapter」之類的文字。（</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081352Z" creationid="zerng07" creationdate="20180303T133233Z">
+        <seg>你也可以利用清單樣式在數字前加入「Chapter」之類的文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36728,8 +36728,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The main difference is that it is built from tags of individual words or phrases, rather than from paragraph styles, which would not provide &lt;f0&gt;the type of information that an index requires.&lt;/f0&gt; These tags display in the document as fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135013Z" creationid="zerng07" creationdate="20180303T135013Z">
-        <seg>主要的差異在於索引是由個別單字或字彙的標籤構成， 而不是段落樣式；段落樣式不會提供&lt;f0&gt;索引所要的資訊類型。&lt;/f0&gt;這些標籤在文件中是以欄位變數的形式顯現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081419Z" creationid="zerng07" creationdate="20180303T135013Z">
+        <seg>主要的差異在於索引是由個別單字或字彙的標籤構成， 而不是段落樣式；段落樣式無法提供&lt;f0&gt;索引所要的資訊類型。&lt;/f0&gt;這些標籤在文件中是以欄位變數的形式顯現。</seg>
       </tuv>
     </tu>
     <tu>
