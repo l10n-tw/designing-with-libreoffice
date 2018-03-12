@@ -8399,8 +8399,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Vertical spacing is set on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Indents and Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab in the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Spacing &gt; Above Paragraph&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Spacing &gt; Below Paragraph&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T085526Z" creationid="zerng07" creationdate="20180123T085431Z">
-        <seg>&lt;f1&gt;&lt;f2&gt;縮排和間距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;間距 &gt; 段落之上&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」和「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;間距 &gt; 段落之下&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」欄位可以設定垂直間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T093427Z" creationid="zerng07" creationdate="20180123T085431Z">
+        <seg>&lt;f1&gt;&lt;f2&gt;縮排和間距&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁中的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;間距 &gt; 段落之上&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」和「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;間距 &gt; 段落之下&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」欄位可以設定垂直間距。（這一節的內容作者重複了啦～他可能複製後不小心貼上… XDDD 要修改）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20077,8 +20077,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For extra fine-tuning, go through a document when it is complete, and hand-hyphenate by positioning the cursor between syllables and pressing &lt;f0&gt;Ctrl+ -&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180126T123316Z" creationid="zerng07" creationdate="20180125T043800Z">
-        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl 然後按 -&lt;/f0&gt;鍵手動加入連字號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T093544Z" creationid="zerng07" creationdate="20180125T043800Z">
+        <seg>如果要微調斷字位置，請在文件完成之後看過一遍，接著把游標放在想要斷字加連字號的地方，按下&lt;f0&gt;Ctrl 然後按 -&lt;/f0&gt;鍵手動加入連字號。（Ctrl 加 -，不知道這樣表示臺灣讀者看得懂沒有？要這邊直接解釋，還是前言要找個地方解說快捷鍵表示法？）</seg>
       </tuv>
     </tu>
     <tu>
