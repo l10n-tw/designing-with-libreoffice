@@ -10257,8 +10257,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;See “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Error: Reference source not found&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;,” page &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Error: Reference source not found&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084729Z" creationid="Franklin Weng" creationdate="20180303T084729Z">
-        <seg>&lt;f2&gt;請參考「&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Error: Reference source not found&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;」，第 &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Error: Reference source not found&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;頁。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T020234Z" creationid="Franklin Weng" creationdate="20180303T084729Z">
+        <seg>&lt;f2&gt;請參閱〈&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Error: Reference source not found&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;〉，第 &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Error: Reference source not found&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;頁。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23425,8 +23425,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you are choosing a color background, make sure that the color you want is among LibreOffice’s defined colors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040230Z" creationid="MarkHung" creationdate="20180224T040230Z">
-        <seg>如果你選擇使用有色背景，確認你想要的顏色是LibreOffice定義的顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T020338Z" creationid="MarkHung" creationdate="20180224T040230Z">
+        <seg>如果你想用有顏色的背景，請確認你要的顏色是不是LibreOffice定義好的顏色。</seg>
       </tuv>
     </tu>
     <tu>
