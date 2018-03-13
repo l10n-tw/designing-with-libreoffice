@@ -25885,8 +25885,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, create a &lt;f1&gt;First Line Indent &lt;/f1&gt;and check the &lt;f2&gt;Automatic&lt;/f2&gt; box on the &lt;f3&gt;Indents and Spacing&lt;/f3&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041737Z" creationid="MarkHung" creationdate="20180224T041737Z">
-        <seg>設定「縮排與間距」中的「首行縮排」並勾選「自動」選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142749Z" creationid="MarkHung" creationdate="20180224T041737Z">
+        <seg>反過來，你應該改為設定「&lt;f3&gt;縮排和間距&lt;/f3&gt;」標籤頁中的「&lt;f1&gt;第一行縮排&lt;/f1&gt;」，並勾選「&lt;f2&gt;自動&lt;/f2&gt;」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30093,8 +30093,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Otherwise, you will have to set tabs separately for each paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041722Z" creationid="MarkHung" creationdate="20180224T041722Z">
-        <seg>否則，你須要分別在不同的段落樣式中設定定位點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142554Z" creationid="MarkHung" creationdate="20180224T041722Z">
+        <seg>否則，你須要在不同的段落樣式中分別設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32331,8 +32331,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set them in the &lt;f0&gt;Default&lt;/f0&gt; paragraph styles, or at the very least, as high up the hierarchical tree as possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142446Z" creationid="MarkHung" creationdate="20180224T041717Z">
-        <seg>在&lt;f0&gt;預設&lt;/f0&gt;段落樣式中設定定位點，或者若必要的話，至少在樣式階層樹中的高層樣式中設定定位點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142544Z" creationid="MarkHung" creationdate="20180224T041717Z">
+        <seg>在&lt;f0&gt;預設&lt;/f0&gt;段落樣式中設定定位點；或者如果可以，至少是在段落樣式階層樹中的高層樣式中設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40901,8 +40901,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;them&lt;/f0&gt; to indicate the start of new paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041730Z" creationid="MarkHung" creationdate="20180224T041730Z">
-        <seg>用他們來代表新段落的開始。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142615Z" creationid="MarkHung" creationdate="20180224T041730Z">
+        <seg>用定位點表示開始新的段落。</seg>
       </tuv>
     </tu>
     <tu>
