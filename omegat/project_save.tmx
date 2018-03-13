@@ -5682,8 +5682,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the Drop Caps tab of the paragraph style, u&lt;/f0&gt;nder Settings, select Display drop caps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024202Z" creationid="MarkHung" creationdate="20180224T042256Z">
-        <seg>在段落樣式的「首字放大」標籤頁中，在「設定」選擇「顯示首字放大」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155802Z" creationid="MarkHung" creationdate="20180224T042256Z">
+        <seg>在段落樣式的「首字放大」標籤頁中，在「設定」下選擇「顯示首字放大」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16809,8 +16809,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create a &lt;f0&gt;Drop Caps&lt;/f0&gt; paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042242Z" creationid="MarkHung" creationdate="20180224T042242Z">
-        <seg>建立一個「首字放大」的段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155637Z" creationid="MarkHung" creationdate="20180224T042242Z">
+        <seg>建立一個「&lt;f0&gt;首字放大&lt;/f0&gt;」段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28163,8 +28163,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Most likely, it will be the child of &lt;f1&gt;Text Body&lt;/f1&gt;, differing only in having settings for &lt;f2&gt;Drop Caps.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042248Z" creationid="MarkHung" creationdate="20180224T042248Z">
-        <seg>最可能的是，它可以是內文的子樣式，只是設定了首字放大。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155736Z" creationid="MarkHung" creationdate="20180224T042248Z">
+        <seg>一般它可以是「&lt;f1&gt;內文&lt;/f1&gt;」的子代樣式，和內文樣式的差別只在於設定了「&lt;f2&gt;首字放大&lt;/f2&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31969,8 +31969,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select either&lt;f0&gt; Number of characters&lt;/f0&gt; or &lt;f1&gt;Whole word &lt;/f1&gt;&lt;f2&gt;to set the length of the drop cap&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;You can use up to 9 characters.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042335Z" creationid="MarkHung" creationdate="20180224T042335Z">
-        <seg>選擇「字元數」或「整個單字」設定放大的字數。你可以使用多至9個字元。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155954Z" creationid="MarkHung" creationdate="20180224T042335Z">
+        <seg>選擇「&lt;f0&gt;字元數&lt;/f0&gt;」或「&lt;f1&gt;整個單字&lt;/f1&gt;」設定放大的字數。你至多可以用到9個字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39149,8 +39149,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This selection enables others on the tab, as well as the &lt;f1&gt;preview&lt;/f1&gt; to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024207Z" creationid="MarkHung" creationdate="20180224T042319Z">
-        <seg>選擇將啟用其他此標籤頁中的功能，以及右側的預覽檢視。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155840Z" creationid="MarkHung" creationdate="20180224T042319Z">
+        <seg>這個選擇會啟用此標籤頁中的其他功能，還有右邊的&lt;f1&gt;預覽&lt;/f1&gt;檢視。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40442,8 +40442,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Under &lt;f0&gt;Character style, &lt;/f0&gt;select &lt;f1&gt;Drop Caps.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042325Z" creationid="MarkHung" creationdate="20180224T042325Z">
-        <seg>在字元樣式中，選擇首字放大。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155904Z" creationid="MarkHung" creationdate="20180224T042325Z">
+        <seg>在「&lt;f0&gt;字元樣式&lt;/f0&gt;」中，選擇「&lt;f1&gt;首字放大&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
