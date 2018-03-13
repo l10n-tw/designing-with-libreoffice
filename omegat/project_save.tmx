@@ -10651,8 +10651,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;See “&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;,” page &lt;/f6&gt;&lt;f7&gt;&lt;rf8&gt;Error: Reference source not found&lt;/rf8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135136Z" creationid="Franklin Weng" creationdate="20180302T135136Z">
-        <seg>&lt;f3&gt;請參考「&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;」，第 &lt;/f6&gt;&lt;f7&gt;&lt;rf8&gt;Error: Reference source not found&lt;/rf8&gt;&lt;/f7&gt;&lt;f9&gt;頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143317Z" creationid="Franklin Weng" creationdate="20180302T135136Z">
+        <seg>&lt;f3&gt;請參考〈&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;〉，第 &lt;/f6&gt;&lt;f7&gt;&lt;rf8&gt;Error: Reference source not found&lt;/rf8&gt;&lt;/f7&gt;&lt;f9&gt;頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30002,8 +30002,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Otherwise, changes in features such as font or font size may force you to re-set them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041812Z" creationid="MarkHung" creationdate="20180224T041812Z">
-        <seg>否則，未來如字型或字型大小的改變可能迫使你重設設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143219Z" creationid="MarkHung" creationdate="20180224T041812Z">
+        <seg>否則，未來如改字型或調整字型大小等，都可能迫使你重設設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32315,8 +32315,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the tab positions as late as possible in your designing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143127Z" creationid="MarkHung" creationdate="20180224T041806Z">
-        <seg>盡量推遲設計中的定位點安排，以免修改過程中文字跑來跑去。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143147Z" creationid="MarkHung" creationdate="20180224T041806Z">
+        <seg>盡量推遲設計中的定位點安排。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35313,8 +35313,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The Dos and Don’ts of using tab stops.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041917Z" creationid="MarkHung" creationdate="20180224T041917Z">
-        <seg>使用定位點時的做與不做的事。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143525Z" creationid="MarkHung" creationdate="20180224T041917Z">
+        <seg>使用定位點時該做與不該做的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40957,8 +40957,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Use fill characters &lt;f0&gt;in &lt;/f0&gt;the blank space&lt;f1&gt;s&lt;/f1&gt; between tab &lt;f2&gt;positions&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041819Z" creationid="MarkHung" creationdate="20180224T041819Z">
-        <seg>在定位點之間的空白使用填入字元。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143305Z" creationid="MarkHung" creationdate="20180224T041819Z">
+        <seg>在定位點之間的空白處使用填入字元。</seg>
       </tuv>
     </tu>
     <tu>
