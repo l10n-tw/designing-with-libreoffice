@@ -3435,8 +3435,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Even if you minimize the use of tabs yourself, you cannot avoid LibreOffice’s built-in uses of them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041621Z" creationid="MarkHung" creationdate="20180224T041621Z">
-        <seg>即使你儘少使用定位點，你也無法避免LibreOffice內建的使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T141559Z" creationid="MarkHung" creationdate="20180224T041621Z">
+        <seg>即使你盡可能少用定位點，也無法避免LibreOffice自身對定位點的使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19632,8 +19632,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, &lt;/f0&gt;LibreOffice uses tabs to position text in relation to bullets and numbers in list styles, and as an option in customizing tables of contents &lt;f1&gt;or in the use of a conditional style.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041631Z" creationid="MarkHung" creationdate="20180224T041631Z">
-        <seg>舉例來說，LibreOffice使用定位點定位文字相對於清單樣式中的項目符號及編號的位置，及作為設定目錄的選項或選擇性樣式的設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T141822Z" creationid="MarkHung" creationdate="20180224T041631Z">
+        <seg>舉例來說，LibreOffice使用定位點定下文字相對於清單樣式中項目符號及編號的位置，也作為設定目錄用的選項，或是用在條件式樣式設定之中。</seg>
       </tuv>
     </tu>
     <tu>
