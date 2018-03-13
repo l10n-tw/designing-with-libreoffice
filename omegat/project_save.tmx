@@ -32243,16 +32243,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the &lt;f0&gt;Space to text.&lt;/f0&gt; Unless the drop cap is extremely large, the magic number is probably too much, so try half of it &lt;f1&gt;first&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042411Z" creationid="MarkHung" creationdate="20180224T042411Z">
-        <seg>設定「距離文字間隔」。除非放大的首字非常的大，魔術數字可能太大了，首先嘗試將之減半。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T160456Z" creationid="MarkHung" creationdate="20180224T042411Z">
+        <seg>設定「&lt;f0&gt;距離文字間隔&lt;/f0&gt;」。除非放大的首字非常巨大，導致魔術數字可能太大了，此時&lt;f1&gt;先&lt;/f1&gt;嘗試將數值減半。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Set the &lt;f0&gt;height of your drop cap in terms of the number of lines.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T160336Z" creationid="MarkHung" creationdate="20180224T042404Z">
-        <seg>以行數設定首字放大的文字高度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T160347Z" creationid="MarkHung" creationdate="20180224T042404Z">
+        <seg>以行數設定首字放大的字符高度。</seg>
       </tuv>
     </tu>
     <tu>
