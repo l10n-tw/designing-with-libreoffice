@@ -24201,8 +24201,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you use an automatic first line indent&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in many cases the only reasons to use tab stops are from habit or because LibreOffice uses them in an advanced feature such as tables of contents.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T035432Z" creationid="MarkHung" creationdate="20180224T040927Z">
-        <seg>許多情形下用定位點唯一的原因是習慣使然，或者LibreOffice有些進階功能會用到 Tab 鍵製表，像是目錄這部分。但如果你有用自動首行縮排的話，</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142754Z" creationid="MarkHung" creationdate="20180224T040927Z">
+        <seg>許多情形下用定位點唯一的原因是習慣使然，或者LibreOffice有些進階功能會用到 Tab 鍵製表，像是目錄這部分。但如果你有用自動第一行縮排的話，</seg>
       </tuv>
     </tu>
     <tu>
@@ -24382,8 +24382,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to try it, ignore the &lt;f0&gt;Drop Caps &lt;/f0&gt;tab and create a &lt;f1&gt;First Line&lt;/f1&gt; style instead.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024212Z" creationid="MarkHung" creationdate="20180224T042353Z">
-        <seg>如果你想要嘗試，忽略「首字放大」標籤頁，另建一個首行樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142805Z" creationid="MarkHung" creationdate="20180224T042353Z">
+        <seg>如果你想要嘗試，忽略「首字放大」標籤頁，另建一個第一行樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25974,8 +25974,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, use a table with invisible borders and carefully adjusted column widths.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041756Z" creationid="MarkHung" creationdate="20180224T041756Z">
-        <seg>改用無邊框的表格並且小心地調整欄寬取代。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143026Z" creationid="MarkHung" creationdate="20180224T041756Z">
+        <seg>反之，你應該改用無邊框的表格，並且小心調整欄寬。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27495,8 +27495,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Make the tab positions multiples of the &lt;f0&gt;line spacing&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041745Z" creationid="MarkHung" creationdate="20180224T041745Z">
-        <seg>以行距的整數倍設定定位點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142835Z" creationid="MarkHung" creationdate="20180224T041745Z">
+        <seg>以&lt;f0&gt;行距&lt;/f0&gt;的整數倍設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32315,8 +32315,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set the tab positions as late as possible in your designing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041806Z" creationid="MarkHung" creationdate="20180224T041806Z">
-        <seg>儘量推遲設計中的定位點設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143127Z" creationid="MarkHung" creationdate="20180224T041806Z">
+        <seg>盡量推遲設計中的定位點安排，以免修改過程中文字跑來跑去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40909,8 +40909,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;them&lt;/f0&gt; to position characters in a text frame, such as a header or footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041750Z" creationid="MarkHung" creationdate="20180224T041750Z">
-        <seg>用定位點定位文字框(如頁首或頁尾)中的字元。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143005Z" creationid="MarkHung" creationdate="20180224T041750Z">
+        <seg>在文字外框（如頁首或頁尾）中用定位點定位字元。</seg>
       </tuv>
     </tu>
     <tu>
