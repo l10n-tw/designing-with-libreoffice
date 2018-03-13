@@ -3830,8 +3830,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Frames or tables with invisible borders are often a more stable choice.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041649Z" creationid="MarkHung" creationdate="20180224T041649Z">
-        <seg>使用訊框或無邊框的表格通常是更穩定的選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T141955Z" creationid="MarkHung" creationdate="20180224T041649Z">
+        <seg>&lt;f0&gt;改用外框或無邊框的表格通常是更安穩的做法。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30018,8 +30018,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Otherwise, consider whether you need tabs or can substitute another solution.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041642Z" creationid="MarkHung" creationdate="20180224T041642Z">
-        <seg>否則，請考慮使用定位點的需求，或以其他方案取代。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T141926Z" creationid="MarkHung" creationdate="20180224T041642Z">
+        <seg>除了上述功能以外，請仔細考慮你到底要不要用定位點，或者是否可以用其他方案取代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32331,8 +32331,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set them in the &lt;f0&gt;Default&lt;/f0&gt; paragraph styles, or at the very least, as high up the hierarchical tree as possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041717Z" creationid="MarkHung" creationdate="20180224T041717Z">
-        <seg>在預設段落樣式中設定定位點，或者至少在樣式階層樹中較高的位置設定定位點。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142446Z" creationid="MarkHung" creationdate="20180224T041717Z">
+        <seg>在&lt;f0&gt;預設&lt;/f0&gt;段落樣式中設定定位點，或者若必要的話，至少在樣式階層樹中的高層樣式中設定定位點。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42163,16 +42163,16 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When using tabs, do &lt;f0&gt;not&lt;/f0&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041703Z" creationid="MarkHung" creationdate="20180224T041703Z">
-        <seg>使用定位點時，不要：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142008Z" creationid="MarkHung" creationdate="20180224T041703Z">
+        <seg>使用定位點時，請&lt;f0&gt;不要&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>When using tabs, do:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041656Z" creationid="MarkHung" creationdate="20180224T041656Z">
-        <seg>使用定位點時，這樣做：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142001Z" creationid="MarkHung" creationdate="20180224T041656Z">
+        <seg>使用定位點時，請這樣做：</seg>
       </tuv>
     </tu>
     <tu>
