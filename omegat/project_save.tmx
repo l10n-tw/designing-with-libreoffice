@@ -2692,8 +2692,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Centered:&lt;/f0&gt; Places the center of the text at the tab position, extending it on both the left and the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041032Z" creationid="MarkHung" creationdate="20180224T041032Z">
-        <seg>置中:將文字的中心對齊定位點，向左右延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T135905Z" creationid="MarkHung" creationdate="20180224T041032Z">
+        <seg>置中：將一段文字的中心對齊定位點，輸入的文字向左右兩端延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5056,8 +5056,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; Places the left edge of the text column at the tab position, extending the text to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134745Z" creationid="MarkHung" creationdate="20180224T041008Z">
-        <seg>左：讓文字欄位的左邊對齊定位點，輸入的文字則由此向右延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134954Z" creationid="MarkHung" creationdate="20180224T041008Z">
+        <seg>左側：讓文字欄位的左邊對齊定位點，輸入的文字則由此向右延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6242,8 +6242,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right:&lt;/f0&gt; Places the right edge of the text at the tab, extending the text to the left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041020Z" creationid="MarkHung" creationdate="20180224T041020Z">
-        <seg>右：將文字的右邊對齊定位點，讓文字向左延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134950Z" creationid="MarkHung" creationdate="20180224T041020Z">
+        <seg>右側：讓文字的右邊對齊定位點，輸入的文字則由此向左延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25203,8 +25203,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In most cases, this will be the most commonly used type, and often the only one.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041014Z" creationid="MarkHung" creationdate="20180224T041014Z">
-        <seg>在多數的情形，這是最常使用的類型，經常也是唯一被使用的類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134834Z" creationid="MarkHung" creationdate="20180224T041014Z">
+        <seg>多數的情形下，這是最常用的類型，通常也是唯一一種有人在用的類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36888,8 +36888,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The most common use of this type is to position a column of text against the right margin.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041025Z" creationid="MarkHung" creationdate="20180224T041025Z">
-        <seg>這種類型最常見的用途是對齊右邊界定位欄項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134921Z" creationid="MarkHung" creationdate="20180224T041025Z">
+        <seg>這種類型最常見的用途是讓文字欄位對齊右邊距。</seg>
       </tuv>
     </tu>
     <tu>
