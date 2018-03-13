@@ -3667,8 +3667,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For all backgrounds/areas, the basic rule is: combine&lt;/f0&gt; light-colored text with a dark background, and dark-colored text with a light background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040303Z" creationid="MarkHung" creationdate="20180224T040303Z">
-        <seg>對所有的背景/區域而言，基本規則是：結合淺色文字及深色背景，深色文字及淺色背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T021409Z" creationid="MarkHung" creationdate="20180224T040303Z">
+        <seg>對於所有背景/區塊都適用的基本規則是：淺色文字配深色背景，深色文字配淺色背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32891,8 +32891,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, before you add a graphic background, prepare its dimensions and transparency in a graphics editor such as &lt;f0&gt;GIMP&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040247Z" creationid="MarkHung" creationdate="20180224T040247Z">
-        <seg>相似的，在你加入圖形背景之前，先在GIMP之類的圖形編輯軟體準備顏色的維度和透明度設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T021231Z" creationid="MarkHung" creationdate="20180224T040247Z">
+        <seg>同理，在你加入圖形背景之前，一樣要先在&lt;f0&gt;GIMP&lt;/f0&gt;之類的圖形編輯軟體中把圖片的長寬和透明度等設定準備好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35617,8 +35617,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The basic rule for backgrounds: text and background should contrast with each other.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040257Z" creationid="MarkHung" creationdate="20180224T040257Z">
-        <seg>背景的基本規則：文字和背景之間應形成對比。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T021300Z" creationid="MarkHung" creationdate="20180224T040257Z">
+        <seg>設定背景的基本規則：文字和背景之間應有明顯對比。</seg>
       </tuv>
     </tu>
     <tu>
