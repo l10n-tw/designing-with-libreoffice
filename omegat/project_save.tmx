@@ -56,8 +56,8 @@
       <tuv lang="EN">
         <seg>(See “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;.)&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134322Z" creationid="Franklin Weng" creationdate="20180302T134322Z">
-        <seg>（請參考「&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;」，第 &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034450Z" creationid="Franklin Weng" creationdate="20180302T134322Z">
+        <seg>（請參考〈&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第 &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。）&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,8 +1611,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A gradient makes a transition between two colors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134253Z" creationid="Franklin Weng" creationdate="20180302T134253Z">
-        <seg>&lt;f0&gt;所謂的漸層就是從一個顏色漸進轉換到另一個顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034428Z" creationid="Franklin Weng" creationdate="20180302T134253Z">
+        <seg>&lt;f0&gt;所謂的漸層，就是從一個顏色逐漸轉變成另一個顏色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16825,8 +16825,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create a background gradient using degrees of transparency.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040711Z" creationid="MarkHung" creationdate="20180224T040711Z">
-        <seg>利用透明度建立漸層背景。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034413Z" creationid="MarkHung" creationdate="20180224T040711Z">
+        <seg>利用透明度製作漸層背景。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18334,8 +18334,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Edit the transparency of a background/area to improve the contrast between the foreground and background.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040702Z" creationid="MarkHung" creationdate="20180224T040702Z">
-        <seg>編輯背景/區塊的透明度，以改善前景和背景之間的對比。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034401Z" creationid="MarkHung" creationdate="20180224T040702Z">
+        <seg>編輯背景/區塊的透明度可改善前景和背景之間的對比。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21284,8 +21284,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Here, the controls to define a gradient are shown.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040816Z" creationid="MarkHung" creationdate="20180224T040816Z">
-        <seg>這裡顯示用來定義漸層的控制項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034618Z" creationid="MarkHung" creationdate="20180224T040816Z">
+        <seg>這裡顯示的是定義漸層的控制項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32587,8 +32587,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting tab &lt;f0&gt;stops&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040821Z" creationid="MarkHung" creationdate="20180224T040821Z">
-        <seg>設定「定位點」</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034639Z" creationid="MarkHung" creationdate="20180224T040821Z">
+        <seg>設定定位點</seg>
       </tuv>
     </tu>
     <tu>
@@ -34174,8 +34174,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Tabs are set positions on a line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T134751Z" creationid="MarkHung" creationdate="20180224T040829Z">
-        <seg>定位點是用來設定一行中的位置，</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034659Z" creationid="MarkHung" creationdate="20180224T040829Z">
+        <seg>定位點用來設定一行中的位置，</seg>
       </tuv>
     </tu>
     <tu>
@@ -35086,8 +35086,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab works with the &lt;f1&gt;Area&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024143Z" creationid="MarkHung" creationdate="20180224T040809Z">
-        <seg>使用「透明」標籤頁與「區域」標籤頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034601Z" creationid="MarkHung" creationdate="20180224T040809Z">
+        <seg>「&lt;f0&gt;透明/透明度&lt;/f0&gt;」標籤頁可以配合「&lt;f1&gt;區塊&lt;/f1&gt;」標籤頁使用。</seg>
       </tuv>
     </tu>
     <tu>
