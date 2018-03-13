@@ -5056,8 +5056,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; Places the left edge of the text column at the tab position, extending the text to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041008Z" creationid="MarkHung" creationdate="20180224T041008Z">
-        <seg>左：將文字的左邊對齊定位點，將文字向右延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134745Z" creationid="MarkHung" creationdate="20180224T041008Z">
+        <seg>左：讓文字欄位的左邊對齊定位點，輸入的文字則由此向右延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7080,8 +7080,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Tabs are sometimes used to create columns of text, but a table is usually a better option.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T035732Z" creationid="MarkHung" creationdate="20180224T040920Z">
-        <seg>定位點有時被用作為文字欄位，但是一般改用表格會是更好的選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134557Z" creationid="MarkHung" creationdate="20180224T040920Z">
+        <seg>定位點有時被用作為文字欄位，但是改用表格會是更好的選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28388,8 +28388,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Much of the time, the standard typewriter tab stops of half or one inch will be far &lt;f1&gt;more&lt;/f1&gt; than you need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T035542Z" creationid="MarkHung" creationdate="20180224T040913Z">
-        <seg>大多時候，標準打字機的半吋或一吋寬製表用定位點其實已經&lt;f1&gt;夠&lt;/f1&gt;用了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134548Z" creationid="MarkHung" creationdate="20180224T040913Z">
+        <seg>大多時候，標準打字機的半吋或一吋寬製表用定位點其實已經很&lt;f1&gt;夠&lt;/f1&gt;用了。</seg>
       </tuv>
     </tu>
     <tu>
