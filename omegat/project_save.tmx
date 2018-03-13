@@ -7638,8 +7638,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Transparency&lt;/f3&gt; tab originated in graphic styles, and was &lt;f4&gt;added&lt;/f4&gt; to &lt;f5&gt;p&lt;/f5&gt;aragraph styles in Writer in the 4.4 release.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T033250Z" creationid="MarkHung" creationdate="20180224T040511Z">
-        <seg>「&lt;f3&gt;透明&lt;/f3&gt;」標籤頁源自於圖形樣式，是在Writer 4.4版中加至段落樣式中的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T033256Z" creationid="MarkHung" creationdate="20180224T040511Z">
+        <seg>「&lt;f3&gt;透明&lt;/f3&gt;」標籤頁源自於圖形樣式，是在Writer 4.4版中加到段落樣式中的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37671,11 +37671,12 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
+      <note>現在直接就有「透明」或「透明度」標籤頁了，不必先設定背景或區塊。</note>
       <tuv lang="EN">
         <seg>The tab adds transparency when a selection is made on the &lt;f0&gt;Background/Area&lt;/f0&gt; &lt;f1&gt;tab.&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0% &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;is no transparency, 100% complete transparency.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024125Z" creationid="MarkHung" creationdate="20180224T040530Z">
-        <seg>在背景/區塊 標籤頁選用設定後，將加入「透明」標籤頁 。0% 代表不透明，100%代表完全透明。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034034Z" creationid="MarkHung" creationdate="20180224T040530Z">
+        <seg>0% 代表不透明，100%代表完全透明。</seg>
       </tuv>
     </tu>
     <tu>
