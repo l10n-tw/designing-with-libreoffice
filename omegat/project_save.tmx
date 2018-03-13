@@ -2692,8 +2692,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Centered:&lt;/f0&gt; Places the center of the text at the tab position, extending it on both the left and the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T135905Z" creationid="MarkHung" creationdate="20180224T041032Z">
-        <seg>置中：將一段文字的中心對齊定位點，輸入的文字向左右兩端延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T140035Z" creationid="MarkHung" creationdate="20180224T041032Z">
+        <seg>&lt;f0&gt;置中：&lt;/f0&gt;將一段文字的中心對齊定位點，輸入的文字向左右兩端延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,8 +3176,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Decimal: &lt;/f0&gt;Places the decimal at the tab position, &lt;f1&gt;and whole numbers and text to its left&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041048Z" creationid="MarkHung" creationdate="20180224T041048Z">
-        <seg>小數點: 將小數點對齊定位點，整數或文字的部分置於定位點左側。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T140030Z" creationid="MarkHung" creationdate="20180224T041048Z">
+        <seg>&lt;f0&gt;小數點：&lt;/f0&gt;將小數點對齊定位點，整數或文字的部分置於定位點左側。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5056,8 +5056,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; Places the left edge of the text column at the tab position, extending the text to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134954Z" creationid="MarkHung" creationdate="20180224T041008Z">
-        <seg>左側：讓文字欄位的左邊對齊定位點，輸入的文字則由此向右延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T140049Z" creationid="MarkHung" creationdate="20180224T041008Z">
+        <seg>&lt;f0&gt;左側：&lt;/f0&gt;讓文字欄位的左邊對齊定位點，輸入的文字則由此向右延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6242,8 +6242,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right:&lt;/f0&gt; Places the right edge of the text at the tab, extending the text to the left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T134950Z" creationid="MarkHung" creationdate="20180224T041020Z">
-        <seg>右側：讓文字的右邊對齊定位點，輸入的文字則由此向左延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T140042Z" creationid="MarkHung" creationdate="20180224T041020Z">
+        <seg>&lt;f0&gt;右側：&lt;/f0&gt;讓文字的右邊對齊定位點，輸入的文字則由此向左延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29109,8 +29109,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Often, this type can be replaced by setting the general alignment of the line to &lt;f1&gt;Centered.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041038Z" creationid="MarkHung" creationdate="20180224T041038Z">
-        <seg>這種類型通常可以用更一般性的段落對齊設定「置中對齊」取代。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T140010Z" creationid="MarkHung" creationdate="20180224T041038Z">
+        <seg>這個類型通常可以用一般的「&lt;f1&gt;置中&lt;/f1&gt;」對齊取代。</seg>
       </tuv>
     </tu>
     <tu>
