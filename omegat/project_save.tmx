@@ -1345,8 +1345,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Contents &gt; Text&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is permanently grayed-out on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Drop Caps&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053202Z" creationid="MarkHung" creationdate="20180224T042434Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「內容 &gt; 文字」&lt;/f1&gt;&lt;/f0&gt;在&lt;f3&gt;&lt;f4&gt;「首字放大」&lt;/f4&gt;頁籤&lt;/f3&gt;中&lt;f2&gt;永久灰去&lt;/f2&gt;。&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024217Z" creationid="MarkHung" creationdate="20180224T042434Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「內容 &gt; 文字」&lt;/f1&gt;&lt;/f0&gt;在&lt;f3&gt;&lt;f4&gt;「首字放大」&lt;/f4&gt;標籤頁&lt;/f3&gt;中&lt;f2&gt;永久灰去&lt;/f2&gt;。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,8 +3870,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;From the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Transparency&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, you can:&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040551Z" creationid="MarkHung" creationdate="20180224T040551Z">
-        <seg>從「透明」頁籤，你可以：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024132Z" creationid="MarkHung" creationdate="20180224T040551Z">
+        <seg>從「透明」標籤頁，你可以：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5682,8 +5682,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the Drop Caps tab of the paragraph style, u&lt;/f0&gt;nder Settings, select Display drop caps.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042308Z" creationid="MarkHung" creationdate="20180224T042256Z">
-        <seg>在段落樣式的「首字放大」頁籤中，在「設定」選擇「顯示首字放大」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024202Z" creationid="MarkHung" creationdate="20180224T042256Z">
+        <seg>在段落樣式的「首字放大」標籤頁中，在「設定」選擇「顯示首字放大」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,8 +7638,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Transparency&lt;/f3&gt; tab originated in graphic styles, and was &lt;f4&gt;added&lt;/f4&gt; to &lt;f5&gt;p&lt;/f5&gt;aragraph styles in Writer in the 4.4 release.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024033Z" creationid="MarkHung" creationdate="20180224T040511Z">
-        <seg>「&lt;f3&gt;透明&lt;/f3&gt;」頁籤源於圖形樣式，在Writer 4.4版中被加入至段落樣式設定中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024110Z" creationid="MarkHung" creationdate="20180224T040511Z">
+        <seg>「&lt;f3&gt;透明&lt;/f3&gt;」標籤頁源於圖形樣式，在Writer 4.4版中被加入至段落樣式設定中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9198,8 +9198,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;If you want to, you can manually set up the different levels on the list style’s &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Options&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043252Z" creationid="MarkHung" creationdate="20180224T043252Z">
-        <seg>如果你想，你可以在「自訂」頁籤手動設定清單不同階層的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024302Z" creationid="MarkHung" creationdate="20180224T043252Z">
+        <seg>如果你想，你可以在「自訂」標籤頁手動設定清單不同階層的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9473,8 +9473,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;The &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Drop Caps&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab for a paragraph style &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;automates the process of creating a text frame and setting the text flow around it.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T041946Z" creationid="MarkHung" creationdate="20180224T041946Z">
-        <seg>段落樣式的「首字放大」頁籤自動化建立字框並且設定文字流向環繞的流程。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024150Z" creationid="MarkHung" creationdate="20180224T041946Z">
+        <seg>段落樣式的「首字放大」標籤頁自動化建立字框並且設定文字流向環繞的流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,8 +14105,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Associate a list style with a paragraph style in the &lt;f0&gt;Numbering &lt;/f0&gt;section on a paragraph style’s &lt;f1&gt;Outline &amp; Numbering&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042646Z" creationid="MarkHung" creationdate="20180224T042646Z">
-        <seg>在段落樣式「大綱與編號」頁籤中的「編號」區塊，連結清單樣式與段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024239Z" creationid="MarkHung" creationdate="20180224T042646Z">
+        <seg>在段落樣式「大綱與編號」標籤頁中的「編號」區塊，連結清單樣式與段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21621,8 +21621,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, as you might guess from the existence of the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering &lt;/f4&gt;tab, paragraph styles are essential to lists and outlining.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042530Z" creationid="MarkHung" creationdate="20180224T042530Z">
-        <seg>然而，如你可從「大綱及編號」頁籤的存在所猜測的，清單及大綱需要段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024223Z" creationid="MarkHung" creationdate="20180224T042530Z">
+        <seg>然而，如你可從「大綱及編號」標籤頁的存在所猜測的，清單及大綱需要段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22759,8 +22759,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can get much the same result by selecting a pre-defined pattern from the list style’s &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Outline&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab instead.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043300Z" creationid="MarkHung" creationdate="20180224T043300Z">
-        <seg>然而，你可以在清單樣式「大綱」頁籤選取預設好的範本，得到差不多的結果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024307Z" creationid="MarkHung" creationdate="20180224T043300Z">
+        <seg>然而，你可以在清單樣式「大綱」標籤頁選取預設好的範本，得到差不多的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24382,8 +24382,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to try it, ignore the &lt;f0&gt;Drop Caps &lt;/f0&gt;tab and create a &lt;f1&gt;First Line&lt;/f1&gt; style instead.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042353Z" creationid="MarkHung" creationdate="20180224T042353Z">
-        <seg>如果你想要嘗試，忽略「首字放大」頁籤，另建一個首行樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024212Z" creationid="MarkHung" creationdate="20180224T042353Z">
+        <seg>如果你想要嘗試，忽略「首字放大」標籤頁，另建一個首行樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32859,8 +32859,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similar&lt;f0&gt; Borders&lt;/f0&gt; tabs are found throughout LibreOffice.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T034700Z" creationid="MarkHung" creationdate="20180224T034700Z">
-        <seg>LibreOffice各模組中都提供類似的「邊框」頁籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024057Z" creationid="MarkHung" creationdate="20180224T034700Z">
+        <seg>LibreOffice各模組中都提供類似的「邊框」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33554,8 +33554,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Specifically, on the &lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&amp;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering &lt;/f3&gt;tab&lt;f4&gt;,&lt;/f4&gt; you can:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042538Z" creationid="MarkHung" creationdate="20180224T042538Z">
-        <seg>特別是，在「大綱及編號」頁籤,你可以：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024232Z" creationid="MarkHung" creationdate="20180224T042538Z">
+        <seg>特別是，在「大綱及編號」標籤頁,你可以：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34762,8 +34762,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Drop Caps&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042201Z" creationid="MarkHung" creationdate="20180224T042201Z">
-        <seg>「首字放大」頁籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024156Z" creationid="MarkHung" creationdate="20180224T042201Z">
+        <seg>「首字放大」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34989,8 +34989,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; field on the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering&lt;/f4&gt; tab is for line numbering, not paragraph numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042837Z" creationid="MarkHung" creationdate="20180224T042837Z">
-        <seg>「大綱及編號」頁籤中的「從這個段落重新開始」，是行號，不是段落清單編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024251Z" creationid="MarkHung" creationdate="20180224T042837Z">
+        <seg>「大綱及編號」標籤頁中的「從這個段落重新開始」，是行號，不是段落清單編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35086,8 +35086,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Transparency&lt;/f0&gt; tab works with the &lt;f1&gt;Area&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040809Z" creationid="MarkHung" creationdate="20180224T040809Z">
-        <seg>使用「透明」頁籤與「區域」頁籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024143Z" creationid="MarkHung" creationdate="20180224T040809Z">
+        <seg>使用「透明」標籤頁與「區域」標籤頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36244,8 +36244,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The exceptions are on the &lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&amp;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering&lt;/f3&gt; tab, on which:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043645Z" creationid="MarkHung" creationdate="20180224T043645Z">
-        <seg>除了「大綱及編號」頁籤以外：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024314Z" creationid="MarkHung" creationdate="20180224T043645Z">
+        <seg>除了「大綱及編號」標籤頁以外：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36349,8 +36349,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The first is to create a list style, and set up two or more list levels with different formatting choices on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042902Z" creationid="MarkHung" creationdate="20180224T042902Z">
-        <seg>首先建立一個清單樣式，並且在「位置」和「自訂」頁籤設定不同的格式設定，建立兩個甚至更多的階層。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024257Z" creationid="MarkHung" creationdate="20180224T042902Z">
+        <seg>首先建立一個清單樣式，並且在「位置」和「自訂」標籤頁設定不同的格式設定，建立兩個甚至更多的階層。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37674,8 +37674,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The tab adds transparency when a selection is made on the &lt;f0&gt;Background/Area&lt;/f0&gt; &lt;f1&gt;tab.&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0% &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;is no transparency, 100% complete transparency.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T040646Z" creationid="MarkHung" creationdate="20180224T040530Z">
-        <seg>在背景/區塊 頁籤選用設定後，將加入「透明」頁籤 。0% 代表不透明，100%代表完全透明。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024125Z" creationid="MarkHung" creationdate="20180224T040530Z">
+        <seg>在背景/區塊 標籤頁選用設定後，將加入「透明」標籤頁 。0% 代表不透明，100%代表完全透明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38053,8 +38053,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Then associate it with a paragraph style from the paragraph’s &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Outline &amp; Numbering &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;tab in the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Numbering style&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; field.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042731Z" creationid="MarkHung" creationdate="20180224T042731Z">
-        <seg>接著從「大綱及編號」頁籤編號樣式欄位將清單樣式與段落樣式連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024244Z" creationid="MarkHung" creationdate="20180224T042731Z">
+        <seg>接著從「大綱及編號」標籤頁編號樣式欄位將清單樣式與段落樣式連結。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39148,8 +39148,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>This selection enables others on the tab, as well as the &lt;f1&gt;preview&lt;/f1&gt; to the right.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042319Z" creationid="MarkHung" creationdate="20180224T042319Z">
-        <seg>選擇將啟用其他此頁籤中的功能，以及右側的預覽檢視。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024207Z" creationid="MarkHung" creationdate="20180224T042319Z">
+        <seg>選擇將啟用其他此標籤頁中的功能，以及右側的預覽檢視。</seg>
       </tuv>
     </tu>
     <tu>
