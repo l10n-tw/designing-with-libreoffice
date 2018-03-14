@@ -7192,12 +7192,13 @@ f2</note>
     <tu>
       <note>* 無視：
 	* f0
-	* f3</note>
+	* f3
+Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for character style includes settings for rotating text 90 (right angle to the baseline and above) and 270 degrees (right angle to the baseline and below).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T004422Z" creationid="Ｖ字龍" creationdate="20180221T052113Z">
-        <seg>字元樣式中的「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;」標籤頁中，包含了將文字旋轉 90 度（與基線及其上方成直角）與 270 度（與基線及其下方成直角）的設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T113642Z" creationid="Ｖ字龍" creationdate="20180221T052113Z">
+        <seg>字元樣式中的「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;」標籤頁中，包含了將文字旋轉 90 度（逆時針轉 90 度）與 270 度（順時針轉 90 度）的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12212,8 +12213,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Above: &lt;f0&gt;Controls for rotating a character style on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071827Z" creationid="Ｖ字龍" creationdate="20180221T071827Z">
-        <seg>上圖：在&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;標籤頁中旋轉一個字元樣式的控制界面項目。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T113948Z" creationid="Ｖ字龍" creationdate="20180221T071827Z">
+        <seg>上圖：在「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;」標籤頁中旋轉一個字元樣式的控制項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14786,8 +14787,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Below: Controls for rotating graphic text on a sample’s right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T072120Z" creationid="Ｖ字龍" creationdate="20180221T072120Z">
-        <seg>下圖：在一個樣本物件中的情境選單中的旋轉圖像文字的控制界面項目。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T115111Z" creationid="Ｖ字龍" creationdate="20180221T072120Z">
+        <seg>下圖：在物件的右鍵選單中，旋轉圖像文字的控制項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38380,8 +38381,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These settings are &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;mostly useful in a table heading, but both interfere with readability and should not be used if any alternative exists.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T071630Z" creationid="Ｖ字龍" creationdate="20180221T052728Z">
-        <seg>這些設定在&lt;t4/&gt;表格標題中最為實用，但都會干擾文件的易讀性故而不應在任何替代方案存在的情況下被使用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T113716Z" creationid="Ｖ字龍" creationdate="20180221T052728Z">
+        <seg>這些設定在&lt;t4/&gt;表格標題中最為實用，但都會干擾文件的易讀性，所以如果有其他方式，最好就不要這樣用。</seg>
       </tuv>
     </tu>
     <tu>
