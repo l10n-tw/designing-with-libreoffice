@@ -12818,8 +12818,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Aligning superscript characters with the top of ascenders and subscript characters with the bottom of descenders has the advantage of being symmetrical while giving you a visible target.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104850Z" creationid="Ｖ字龍" creationdate="20180217T121329Z">
-        <seg>用上部的頂點對齊上標文字以及用下部的底點對齊下標文字能夠在給你一個清晰可辨的目標的同時擁有對稱的好處。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001937Z" creationid="Ｖ字龍" creationdate="20180217T121329Z">
+        <seg>用上伸部的頂點來對齊上標文字，以及用下伸部的底點對齊下標文字，這樣能夠讓外觀清晰可辨，同時看起來對稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22559,8 +22559,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, using this guide with a large x-height is likely to make the superscript characters too small.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T102258Z" creationid="Ｖ字龍" creationdate="20180217T102258Z">
-        <seg>然而，用此指引搭配一個巨大x-height的字元通常會造成上標文字過小。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001746Z" creationid="Ｖ字龍" creationdate="20180217T102258Z">
+        <seg>但是，如果 x-height 真的很大，這樣做通常會造成上標文字過小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23020,8 +23020,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If a font’s characters use a lot of white space, so that they look small compared to fonts of the same size, &lt;f0&gt;increase&lt;/f0&gt; its size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T102050Z" creationid="Ｖ字龍" creationdate="20180217T102050Z">
-        <seg>如果一個字型的字元使用了大量的空白處以讓它們相對於同樣大小的字型看起來比較小的話，&lt;f0&gt;增加&lt;/f0&gt;它的大小。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001604Z" creationid="Ｖ字龍" creationdate="20180217T102050Z">
+        <seg>如果一個字型的字元使用了大量的空白，導致它們相對於同樣大小的其他字型看起來更小的話，那就試著&lt;f0&gt;增加&lt;/f0&gt;它的大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36212,8 +36212,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The exact size &lt;f0&gt;will vary with the font’s white space,&lt;/f0&gt; but 40&lt;f1&gt;–&lt;/f1&gt;60% &lt;f2&gt;of the body text should be the usual range.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104553Z" creationid="Ｖ字龍" creationdate="20180217T101900Z">
-        <seg>確切大小&lt;f0&gt;會因字型的空白大小而變&lt;/f0&gt;，但40-60%的內文文字大小應是常見的範圍。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001447Z" creationid="Ｖ字龍" creationdate="20180217T101900Z">
+        <seg>確切大小&lt;f0&gt;會因字型的空白大小而變&lt;/f0&gt;，但一般會用內文文字大小的 40-60% 左右。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36293,8 +36293,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The fields for lowering or raising superscript or subscript characters read all input as percentages, rounded to the nearest number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T121511Z" creationid="Ｖ字龍" creationdate="20180217T121511Z">
-        <seg>降低或是提高上標或下標文字的欄位採用百分比數值作為輸入，並四捨五入到最接近的整數。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002010Z" creationid="Ｖ字龍" creationdate="20180217T121511Z">
+        <seg>降低或是提高上標或下標文字的欄位，是用百分比數值作為輸入，並四捨五入到最接近的整數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38014,8 +38014,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Their lack of a common baseline means &lt;f0&gt;either an eye-disturbing clutter or a time-consuming positioning of &lt;/f0&gt;each numeral separately.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T121119Z" creationid="Ｖ字龍" creationdate="20180217T102702Z">
-        <seg>它們缺乏一個共通的基線，意味著會出現礙眼的高度落差或是分開調整各個數字的耗時過程。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001831Z" creationid="Ｖ字龍" creationdate="20180217T102702Z">
+        <seg>因為它們缺乏一個共通的基線，用舊風格字元會出現礙眼的高度落差，或是得花很多時間分別調整各個數字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39679,8 +39679,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To create formulas, open &lt;f2&gt;File &gt; New &gt; Formula&lt;/f2&gt; &lt;f3&gt;or use the Math application.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104941Z" creationid="Ｖ字龍" creationdate="20180217T121931Z">
-        <seg>要建立科學公式請開啟&lt;f2&gt;檔案 &gt; 新增 &gt; 公式&lt;/f2&gt;或是使用Math應用軟體。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002101Z" creationid="Ｖ字龍" creationdate="20180217T121931Z">
+        <seg>要建立科學公式請開啟&lt;f2&gt;檔案 &gt; 新增 &gt; 公式&lt;/f2&gt;或是使用 LibreOffice Math。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39727,8 +39727,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>To direct your experiments, consider these points:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T101728Z" creationid="Ｖ字龍" creationdate="20180217T101728Z">
-        <seg>考慮下列幾點以引導你的試驗方向：</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001338Z" creationid="Ｖ字龍" creationdate="20180217T101728Z">
+        <seg>你可以考慮下列幾點，來調整你的實驗：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40707,8 +40707,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Unless the x-height is exceptionally large, using it for &lt;f0&gt;the bottom of&lt;/f0&gt; superscript &lt;f1&gt;characters often makes for a consistent design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T102201Z" creationid="Ｖ字龍" creationdate="20180217T102201Z">
-        <seg>除非x-height意外的巨大，使用它作為&lt;f0&gt;底部的&lt;/f0&gt;上標字元往往會產生一致的外觀設計。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001706Z" creationid="Ｖ字龍" creationdate="20180217T102201Z">
+        <seg>除非x-height意外的巨大，不然用它作為上標字元的底部基線可以讓外觀較為一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41904,8 +41904,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>When adjusting both position and size, be prepared for &lt;f0&gt;several&lt;/f0&gt; trials and errors before getting the best results, with the &lt;f1&gt;adjustments&lt;/f1&gt; getting smaller as you move closer to the ideal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104348Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
-        <seg>當同時調整位置跟大小時，你該具備在取得最佳結果前多次試誤的心理準備，持續縮小調整範圍直到接近你理想中的結果。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001317Z" creationid="Ｖ字龍" creationdate="20180217T101653Z">
+        <seg>當同時調整位置跟大小時，你可能需要多次嘗試錯誤，持續縮小調整範圍直到接近你理想中的結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43964,8 +43964,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>You cannot use points in them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T121529Z" creationid="Ｖ字龍" creationdate="20180217T121529Z">
-        <seg>你不能在其中使用小數。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002028Z" creationid="Ｖ字龍" creationdate="20180217T121529Z">
+        <seg>你不能用小數。</seg>
       </tuv>
     </tu>
     <tu>
