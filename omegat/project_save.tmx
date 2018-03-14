@@ -7574,8 +7574,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The superscript “2” on the left is higher than the ascenders or the question mark, and throws off the look of the line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T101622Z" creationid="Ｖ字龍" creationdate="20180217T100750Z">
-        <seg>左側的上標「2」的位置比上部們或問號還來得高，擺脫了行的整體外觀。&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T000740Z" creationid="Ｖ字龍" creationdate="20180217T100750Z">
+        <seg>&lt;f0&gt;左側的上標「2」的位置比上伸部或問號還來得高，擺脫了行的整體外觀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,8 +10418,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;To many users, LibreOffice’s defaults are too small.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104135Z" creationid="Ｖ字龍" creationdate="20180217T101358Z">
-        <seg>對多數使用者來說LibreOffice的預設大小都過小了。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001121Z" creationid="Ｖ字龍" creationdate="20180217T101358Z">
+        <seg>對多數使用者來說，LibreOffice的預設大小都太小了。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15419,8 +15419,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By contrast, the subscript “&lt;f0&gt;2”&lt;/f0&gt; on the right is as low as the bottom of the &lt;f1&gt;descender on the “y&lt;/f1&gt;,” which gives a more &lt;f2&gt;consistent&lt;/f2&gt; look to the line (Font: Lato).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T102329Z" creationid="Ｖ字龍" creationdate="20180217T100940Z">
-        <seg>相較之下右側「2」的下標跟「y」的下部的底部一樣低，給予該行更加&lt;f2&gt;一致&lt;/f2&gt;的外觀（字型：Lato）。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T000837Z" creationid="Ｖ字龍" creationdate="20180217T100940Z">
+        <seg>相較之下右側「&lt;f0&gt;2&lt;/f0&gt;」的下標跟&lt;f1&gt;「y」的下伸部&lt;/f1&gt;的底部一樣低，給予該行更加&lt;f2&gt;一致&lt;/f2&gt;的外觀（字型：Lato）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32956,8 +32956,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, subscript characters, such as those in chemical equations, usually sit between the baseline and the low point of descenders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T103710Z" creationid="Ｖ字龍" creationdate="20180217T101219Z">
-        <seg>同樣地，像是那些化學式中的下標字元通常都座落於基線跟下部的最低點之間。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001025Z" creationid="Ｖ字龍" creationdate="20180217T101219Z">
+        <seg>同樣地，像是那些化學式中的下標字元，通常都座落於基線跟下伸部的最低點之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34030,8 +34030,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Superscript characters, &lt;f0&gt;such as mathematical components or footnote numbers, are usually positioned somewhere between the x-height and the height of the ascenders.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T103553Z" creationid="Ｖ字龍" creationdate="20180217T101121Z">
-        <seg>像是數學指數或是註腳編號的上標字元通常都座落於 x-height 跟上部的高度之間的某處。&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001004Z" creationid="Ｖ字龍" creationdate="20180217T101121Z">
+        <seg>&lt;f0&gt;像是數學符號或是註腳編號的上標字元，通常都座落於 x-height 跟上伸部的高度之間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37569,8 +37569,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The size of superscript and subscript characters is a trade off between &lt;f0&gt;being&lt;/f0&gt; large and easily readable and &lt;f1&gt;being&lt;/f1&gt; uncluttered but harder to read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T104020Z" creationid="Ｖ字龍" creationdate="20180217T101331Z">
-        <seg>上標文字跟下標文字的大小決定是在「大而易讀」與「小而不雜亂但更不易讀」之間作取捨。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001056Z" creationid="Ｖ字龍" creationdate="20180217T101331Z">
+        <seg>上標文字跟下標文字的大小決定是在「大而易讀」與「小、不雜亂但不易讀」之間作取捨。</seg>
       </tuv>
     </tu>
     <tu>
