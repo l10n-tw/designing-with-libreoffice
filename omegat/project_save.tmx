@@ -19941,8 +19941,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, in the United Kingdom English locale, the correct spelling is “neighbo&lt;f0&gt;u&lt;/f0&gt;rs,” while in United States English, it is “neighbors.” &lt;f1&gt;A complete locale consists of separate dictionaries for spell-checking, hyphenation, and thesauruses.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043836Z" creationid="MarkHung" creationdate="20180224T043836Z">
-        <seg>舉例來說，在英國英語區域設定中，鄰居正確的拼法是“neighbours,”而在美國英語中，是“neighbors.”完整的區域設定是由獨立的拼字、連字符及同義字字典所構成。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T142851Z" creationid="MarkHung" creationdate="20180224T043836Z">
+        <seg>舉例來說，在英國地區的英語中，鄰居這個單字的正確拼法是「neighbour」，而在美國地區的英語中則是「neighbors」，兩者不同。完整的地區語言支援會有各自的拼寫字典、斷字處理及同義詞典……等。</seg>
       </tuv>
     </tu>
     <tu>
