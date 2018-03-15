@@ -31248,8 +31248,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Restart the numbering in a list from the right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042826Z" creationid="MarkHung" creationdate="20180224T042826Z">
-        <seg>右鍵選單中的「重新開始編號」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120924Z" creationid="MarkHung" creationdate="20180224T042826Z">
+        <seg>在右鍵選單中「重新開始編號」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35014,8 +35014,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; field on the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering&lt;/f4&gt; tab is for line numbering, not paragraph numbering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024251Z" creationid="MarkHung" creationdate="20180224T042837Z">
-        <seg>「大綱及編號」標籤頁中的「從這個段落重新開始」，是行號，不是段落清單編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T121040Z" creationid="MarkHung" creationdate="20180224T042837Z">
+        <seg>「&lt;f1&gt;大綱與編號&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;從這個段落重新開始&lt;/f0&gt;」，指的是行號，而不是段落中清單的編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39962,8 +39962,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To restart the numbering in a&lt;f0&gt;ny&lt;/f0&gt; numbered list, select &lt;f1&gt;Restart &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;N&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;umbering&lt;/f4&gt; from a paragraph’s right-click menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042814Z" creationid="MarkHung" creationdate="20180224T042814Z">
-        <seg>要重新開始任一個清單的編號，從段落的右鍵選單中選擇「重新開始編號」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120900Z" creationid="MarkHung" creationdate="20180224T042814Z">
+        <seg>若要重新開始某個清單的編號，就從段落的右鍵選單中選擇「&lt;f1&gt;重新開始編號&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44070,8 +44070,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You do not need to create a separate list style for each numbered list in a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042755Z" creationid="MarkHung" creationdate="20180224T042755Z">
-        <seg>你不需要替每個文件中的編號清單建立獨立的清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120812Z" creationid="MarkHung" creationdate="20180224T042755Z">
+        <seg>你不需要替文件中的每個編號清單建立不同的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
