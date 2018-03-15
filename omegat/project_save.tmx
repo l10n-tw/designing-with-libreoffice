@@ -4488,6 +4488,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you choose to handle your own kerning, create character styles with adjusted spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135919Z" creationid="Franklin Weng" creationdate="20180315T135919Z">
+        <seg>&lt;f0&gt;如果你選擇自己處理字距，那你可以建立一個字元樣式並調整好你要的字距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you do not use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &lt;s3/&gt;&gt; Update &gt; Update All&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;, &lt;/f4&gt;Writer updates the image the next time the document opens.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T071609Z" creationid="zerng07" creationdate="20180206T071609Z">
@@ -16607,6 +16615,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consequently, if you greatly decrease or increase font size, the kerning may be off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135541Z" creationid="Franklin Weng" creationdate="20180315T135541Z">
+        <seg>所以，如果你大幅放大或縮小字型，那麼字距微調的功能可能就會關閉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consequently, the list is a limited tool at best.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T110720Z" creationid="zerng07" creationdate="20171226T110525Z">
@@ -25981,6 +25997,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, the spacing is intended for a standard size.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135455Z" creationid="Franklin Weng" creationdate="20180315T135455Z">
+        <seg>它的間距通常傾向使用一個標準的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180121T125230Z" creationid="Jeff Huang" creationdate="20180121T125230Z">
@@ -26603,8 +26627,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Kerning has &lt;f0&gt;always&lt;/f0&gt; been a concern in typography, but digital typography makes it more important than ever.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T103027Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
-        <seg>Kerning has &lt;f0&gt;always&lt;/f0&gt; been a concern in typography, but digital typography makes it more important than ever.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135327Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
+        <seg>字距微調&lt;f0&gt;一直&lt;/f0&gt;都是字體排印學中關注的重點之一，到了數位時代這一點變得更加重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28118,6 +28142,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130649Z" creationid="Franklin Weng" creationdate="20180211T130649Z">
         <seg>通常不要轉超過 &lt;f3&gt;45&lt;/f3&gt; &lt;f4&gt;度&lt;/f4&gt;，或甚至用「&lt;f5&gt;垂直堆疊&lt;/f5&gt;」，也就是垂直方向一個字元一個字元這樣顯示文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moreover, &lt;f0&gt;LibreOffice’s &lt;/f0&gt;general &lt;f1&gt;kerning tends to be very loose, and you can often improve on it if you are willing to make the effort and make small changes.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135840Z" creationid="Franklin Weng" creationdate="20180315T135840Z">
+        <seg>還有，&lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt;通用的字距微調原則通常很寬鬆，所以只要你願意花點心力，做出小小的改變，就可以改進它。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40795,6 +40827,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlike in manual type, digital &lt;f1&gt;fonts&lt;/f1&gt; usually do not have different spacing when the font size changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135433Z" creationid="Franklin Weng" creationdate="20180315T135433Z">
+        <seg>不像手動排版，數位的&lt;f1&gt;字型&lt;/f1&gt;通常在變更大小時不會跟著改變間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unlike most word processors, LibreOffice provides the tools for customizing each entry for a &lt;f0&gt;TOC&lt;/f0&gt; or similar table.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125246Z" creationid="zerng07" creationdate="20180302T125246Z">
@@ -41787,6 +41827,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T170213Z" creationid="zerng07" creationdate="20170817T183908Z">
         <seg>開放文件格式是什麼？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is intended for 12 points &lt;f0&gt;may&lt;/f0&gt; not work for 8 or &lt;f1&gt;4&lt;/f1&gt;8 points.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135620Z" creationid="Franklin Weng" creationdate="20180315T135620Z">
+        <seg>12 點字型適用的，在 8 點或 48 點&lt;f0&gt;未必&lt;/f0&gt;適用。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44249,6 +44297,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T134847Z" creationid="Franklin Weng" creationdate="20180206T134847Z">
         <seg>有可能你在每次旅遊都要調整一下這個計劃範本，但總比每次都從頭做起要好吧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may manage with only a single kerning character style for all your needs, but if you are really attentive to detail, you might decide on individual kerning character styles for different letter combinations – it all depends on your patience, the font you use, &lt;/f0&gt;and your perfectionism.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135924Z" creationid="Franklin Weng" creationdate="20180315T135924Z">
+        <seg>You may manage with only a single kerning character style for all your needs, but if you are really attentive to detail, you might decide on individual kerning character styles for different letter combinations – it all depends on your patience, the font you use, &lt;/f0&gt;and your perfectionism.</seg>
       </tuv>
     </tu>
     <tu>
