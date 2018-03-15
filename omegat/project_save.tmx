@@ -5674,8 +5674,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Organizer&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab of the paragraph style, set the style to use itself as the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Next style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T020243Z" creationid="Franklin Weng" creationdate="20180302T140636Z">
-        <seg>&lt;f0&gt;在段落樣式中的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;統籌概覽&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁內，將&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;下一個樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;也設定成它自己。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133838Z" creationid="Franklin Weng" creationdate="20180302T140636Z">
+        <seg>&lt;f0&gt;在段落樣式中的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;統籌概覽&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中，將&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;下一個樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;設定成它自己。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14114,8 +14114,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Assign the list style to the paragraph style &lt;f0&gt;using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbering&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the paragraph style’s&lt;/f3&gt; &lt;f4&gt;Outline &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&amp;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Numbering &lt;/f7&gt;tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T021105Z" creationid="Franklin Weng" creationdate="20180303T020311Z">
-        <seg>在此段落樣式的「大綱與編號」標籤頁中的「編號」欄位，指定此清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T134058Z" creationid="Franklin Weng" creationdate="20180303T020311Z">
+        <seg>在此段落樣式「&lt;f4&gt;大綱與編號&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;」欄位指定你要的清單樣式。</seg>
       </tuv>
     </tu>
     <tu>
