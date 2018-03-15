@@ -7939,8 +7939,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To switch to a lower list level while using the associated paragraph style, press the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; key before entering content; to switch to a higher list level, press &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042939Z" creationid="MarkHung" creationdate="20180224T042939Z">
-        <seg>使用連結的段落樣式時，要切換到清單上的較低階層，輸入內容前按下Tab按鍵；要切換到較高階層，按下Shift+Tab。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123730Z" creationid="MarkHung" creationdate="20180224T042939Z">
+        <seg>&lt;f0&gt;當你正在使用相連的段落樣式時，如果要切換到較下層的清單，請在輸入內容之前先按&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tab&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;鍵；如果要切到較上階，請按&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Shift+Tab&lt;/f5&gt;&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37270,8 +37270,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The preview pane can help you set up each list level, and the customized list style is associated with a paragraph style for use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042931Z" creationid="MarkHung" creationdate="20180224T042931Z">
-        <seg>預覽窗格可以幫助你設定每一個清單階層，自訂的清單樣式與段落樣式連結提供使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123518Z" creationid="MarkHung" creationdate="20180224T042931Z">
+        <seg>預覽窗格可以幫助你設置各個清單層級，此處自訂的清單樣式可連結至段落樣式供其使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43837,8 +43837,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can switch to the next level below by pressing the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tab&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; key, or to the one above by pressing &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Shift+Tab.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T122959Z" creationid="MarkHung" creationdate="20180224T042923Z">
-        <seg>&lt;/f6&gt;清單階層的好處是每一階層可以分別設定格式，而所有的階層仍然相連。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123341Z" creationid="MarkHung" creationdate="20180224T042923Z">
+        <seg>你可以按&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tab&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;鍵切換到下一個層級，或是按&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Shift+Tab&lt;/f11&gt;&lt;/f10&gt;鍵提提升到上一個層級。</seg>
       </tuv>
     </tu>
     <tu>
