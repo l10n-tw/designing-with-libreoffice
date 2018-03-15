@@ -1893,8 +1893,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adjust the settings for East Asian or Bi-Directional Languages at &lt;/f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Languages &gt; Enhanced language support&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032212Z" creationid="Franklin Weng" creationdate="20180303T032212Z">
-        <seg>&lt;f0&gt;東亞地區或是一些雙向書寫的語言，可以調整&lt;/f0&gt;「&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 語言 &gt; 增強的語言設定」。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144039Z" creationid="Franklin Weng" creationdate="20180303T032212Z">
+        <seg>&lt;f0&gt;至於東亞語言，或是一些雙向書寫的語言，你可以調整&lt;/f0&gt;「&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 語言 &gt; 增強的語言設定」。（？？？我們是要寫給臺灣人看，那這條似乎沒有必要？而且這裡只有一條「忽略系統輸入語言」。XDD）&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3039,8 +3039,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create multiple styles with similar names in a multi-language document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T032303Z" creationid="Franklin Weng" creationdate="20180303T032303Z">
-        <seg>&lt;f0&gt;在一個多語系文件中，建立名稱相似但套用在不同語言的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144105Z" creationid="Franklin Weng" creationdate="20180303T032303Z">
+        <seg>&lt;f0&gt;在一份多語文件中，可以建立名稱相似但套用到不同語言的樣式。</seg>
       </tuv>
     </tu>
     <tu>
