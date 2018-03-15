@@ -22680,8 +22680,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you &lt;f0&gt;have two options for adding support for more languages and locales.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043847Z" creationid="MarkHung" creationdate="20180224T043847Z">
-        <seg>然而，你有兩個選擇可以增加更多語言及區域設定的支援。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T142954Z" creationid="MarkHung" creationdate="20180224T043847Z">
+        <seg>不過，你有兩個方法可以加入更多語言及地區的支援。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27825,8 +27825,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Many users use only the default language determined by the version of LibreOffice that they downloaded.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043842Z" creationid="MarkHung" creationdate="20180224T043842Z">
-        <seg>許多使用者只使用所下載的LibreOffice提供的預設語言。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T142918Z" creationid="MarkHung" creationdate="20180224T043842Z">
+        <seg>許多使用者只使用下載的LibreOffice所提供的預設語言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36953,8 +36953,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The most common way to add support for additional languages is to select them from the drop-down list at &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Writing Aids &gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; U&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;ser-defined dictionaries &gt; New.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053842Z" creationid="MarkHung" creationdate="20180224T043852Z">
-        <seg>增加支援語言最常見的方式，是從「工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增」，自下拉選單中選擇額外的語言。&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143201Z" creationid="MarkHung" creationdate="20180224T043852Z">
+        <seg>最常見加入額外語言支援的方法，是從「&lt;f0&gt;&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增&lt;/f0&gt;&lt;/f1&gt;」，到下拉選單中選擇其他語言。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
