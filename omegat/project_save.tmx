@@ -1353,8 +1353,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Contents &gt; Text&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is permanently grayed-out on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Drop Caps&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024217Z" creationid="MarkHung" creationdate="20180224T042434Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「內容 &gt; 文字」&lt;/f1&gt;&lt;/f0&gt;在&lt;f3&gt;&lt;f4&gt;「首字放大」&lt;/f4&gt;標籤頁&lt;/f3&gt;中&lt;f2&gt;永久灰去&lt;/f2&gt;。&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T090249Z" creationid="MarkHung" creationdate="20180224T042434Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「內容 &gt; 文字」&lt;/f1&gt;&lt;/f0&gt;在&lt;f3&gt;&lt;f4&gt;「首字放大」&lt;/f4&gt;標籤頁&lt;/f3&gt;中&lt;f2&gt;永久轉灰不能調整&lt;/f2&gt;。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4192,8 +4192,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Whole word&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Number of Character&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; fields substitute adequately for it.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042450Z" creationid="MarkHung" creationdate="20180224T042450Z">
-        <seg>然而，「整個單字」和「字元數」兩個欄位應該足以取代這個功能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T101837Z" creationid="MarkHung" creationdate="20180224T042450Z">
+        <seg>不過，「&lt;f1&gt;&lt;f2&gt;整個單字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」和「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;字元數&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」這兩個欄位應該足以取代這個功能。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12066,8 +12066,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A selection of drop capitals.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042503Z" creationid="MarkHung" creationdate="20180224T042503Z">
-        <seg>首字放大選例</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T105502Z" creationid="MarkHung" creationdate="20180224T042503Z">
+        <seg>首字放大示例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12253,8 +12253,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>According to the online help, the field is supposed to give the text to use instead of a single letter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042440Z" creationid="MarkHung" creationdate="20180224T042430Z">
-        <seg>根據線上說明，這個欄位可設定使用的文字取代單一字元。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T090329Z" creationid="MarkHung" creationdate="20180224T042430Z">
+        <seg>根據線上說明，這個欄位應該可以用文字取代單一字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33474,8 +33474,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes a Narrow or Condensed version is available, in which the characters take up less &lt;f0&gt;width&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T132216Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
-        <seg>此外，還有些字族還會提供窄體 (Narrow) 或壓縮體 (Condensed) 的字型樣式，代表每個字符的&lt;f0&gt;寬度&lt;/f0&gt;比一般還要窄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T101710Z" creationid="Franklin Weng" creationdate="20171225T132040Z">
+        <seg>此外，還有些字族還會提供窄體 (Narrow 或 Condensed) 的字型樣式，代表每個字符的&lt;f0&gt;寬度&lt;/f0&gt;比一般還要窄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36630,8 +36630,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The last &lt;f0&gt;sample uses a character style to place the first line in italics.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042510Z" creationid="MarkHung" creationdate="20180224T042510Z">
-        <seg>最後的範例使用字元樣式將第一行設定為斜體。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T105542Z" creationid="MarkHung" creationdate="20180224T042510Z">
+        <seg>最後一個範例有用字元樣式將第一行設定為義大利體。</seg>
       </tuv>
     </tu>
     <tu>
