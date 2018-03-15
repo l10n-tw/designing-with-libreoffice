@@ -6864,8 +6864,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Style names like &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Bulleted&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Bulleted 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Nested&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; will help to remind you of the relation between the two paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043040Z" creationid="MarkHung" creationdate="20180224T043028Z">
-        <seg>像是「清單1」或「清單2」或「階層」可以協助你記住兩個不同段落樣式的關係。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124506Z" creationid="MarkHung" creationdate="20180224T043028Z">
+        <seg>&lt;f0&gt;你可以用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;清單1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」或「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;清單2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」或「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;多層次&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」之類的樣式名稱，能幫助你想起兩個不同段落樣式之間的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19617,8 +19617,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For convenience, use the same names for both the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Paragraph&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;List&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; styles, since they cannot be mixed up.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043049Z" creationid="MarkHung" creationdate="20180224T043049Z">
-        <seg>既然段落及清單樣式可能會混用，為了方便，可以使用相同的名稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124649Z" creationid="MarkHung" creationdate="20180224T043049Z">
+        <seg>為了方便，你可以直接用「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;段落&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」和「&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;清單&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;」這樣的樣式名稱，畢竟也很難搞混。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22056,8 +22056,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, in both cases, each nested list is typically indented more than the list level above it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043013Z" creationid="MarkHung" creationdate="20180224T043013Z">
-        <seg>然而，在兩種情況下，每個被包覆的清單通常都比上層的清單縮排更多。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124325Z" creationid="MarkHung" creationdate="20180224T043013Z">
+        <seg>然而，在兩種情況下，被包住的下層清單通常都會比上層清單縮排更多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28502,8 +28502,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Nested lists created using two separate list styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043055Z" creationid="MarkHung" creationdate="20180224T043055Z">
-        <seg>用兩種不同的清單樣式建立的階層式清單。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124706Z" creationid="MarkHung" creationdate="20180224T043055Z">
+        <seg>用兩種不同清單樣式建立的多層次清單。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40436,8 +40436,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Typically, too, each list level will use a different bullet style or numbering system.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043021Z" creationid="MarkHung" creationdate="20180224T043021Z">
-        <seg>通常每個清單階層會使用不同的項目符號或者編號系統。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124347Z" creationid="MarkHung" creationdate="20180224T043021Z">
+        <seg>一般而言，各個清單層級都會用不同的項目符號或編號系統。</seg>
       </tuv>
     </tu>
     <tu>
