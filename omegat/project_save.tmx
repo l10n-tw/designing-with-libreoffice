@@ -8737,8 +8737,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can change these mappings, or add another paragraph style to an outline level in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline level&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Outline &amp; Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T093007Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
-        <seg>你可以改變這些對應，或是新增另一個段落樣式到「&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt; &gt; &lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位中的某一個層級。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140421Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
+        <seg>&lt;f0&gt;你可以改變這些對應關係，或是利用「&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位將另一個段落樣式加到某一個大綱層級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15524,8 +15524,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By default, outline level&lt;f0&gt;s&lt;/f0&gt; are mapped to the &lt;f1&gt;Heading 1-10&lt;/f1&gt; paragraph styles.&lt;f2&gt; Outline &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;L&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;evel 1 &lt;/f5&gt;is mapped to &lt;f6&gt;Heading 1&lt;/f6&gt;, &lt;f7&gt;and&lt;/f7&gt; so on.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030749Z" creationid="Franklin Weng" creationdate="20180303T030749Z">
-        <seg>預設行為中，大綱層級會與標題 1-10 的段落樣式相對應。大綱層級 1 就對應到標題 1，依此類推。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140041Z" creationid="Franklin Weng" creationdate="20180303T030749Z">
+        <seg>預設行為中，各大綱層級與&lt;f1&gt;標題 1-10&lt;/f1&gt;段落樣式互相對應。&lt;f2&gt;例如大綱&lt;/f2&gt;&lt;f5&gt;層級1&lt;/f5&gt;就對應到&lt;f6&gt;標題1&lt;/f6&gt;，依此類推。</seg>
       </tuv>
     </tu>
     <tu>
