@@ -5834,8 +5834,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Outline Level&lt;/f0&gt; is set to &lt;f1&gt;Body Text.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043650Z" creationid="MarkHung" creationdate="20180224T043650Z">
-        <seg>大綱層級設定為本文。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T141353Z" creationid="MarkHung" creationdate="20180224T043650Z">
+        <seg>「&lt;f0&gt;大綱層級&lt;/f0&gt;」設定為「&lt;f1&gt;本文&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36301,8 +36301,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The exceptions are on the &lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&amp;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering&lt;/f3&gt; tab, on which:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024314Z" creationid="MarkHung" creationdate="20180224T043645Z">
-        <seg>除了「大綱及編號」標籤頁以外：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T141310Z" creationid="MarkHung" creationdate="20180224T043645Z">
+        <seg>「&lt;f0&gt;大綱與編號&lt;/f0&gt;」標籤頁中如果有下列設定則例外：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39712,8 +39712,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To create a style for such paragraphs, you can use the paragraph style with a list to create a linked paragraph that is mostly formatted identically.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043637Z" creationid="MarkHung" creationdate="20180224T043536Z">
-        <seg>要建立此種段落樣式，你可以用帶有清單的段落樣式建立相同格式的段落。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T141151Z" creationid="MarkHung" creationdate="20180224T043536Z">
+        <seg>如果要建立這種段落樣式，你可以用帶有清單的段落樣式建立格式幾乎完全相同的連結段落。</seg>
       </tuv>
     </tu>
     <tu>
