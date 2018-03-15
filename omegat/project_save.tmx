@@ -8737,8 +8737,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can change these mappings, or add another paragraph style to an outline level in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline level&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Outline &amp; Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140530Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
-        <seg>&lt;f0&gt;你可以改變這些對應關係，或是利用「&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位將另一個段落樣式加入某一個大綱層級。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144250Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
+        <seg>&lt;f0&gt;你可以改變這些對應關係，或是利用「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位將另一個段落樣式加入某一個大綱層級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19633,8 +19633,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For convenience, use the same names for both the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Paragraph&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;List&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; styles, since they cannot be mixed up.&lt;/f15&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124649Z" creationid="MarkHung" creationdate="20180224T043049Z">
-        <seg>為了方便，你可以直接用「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;段落&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」和「&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;清單&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;」這樣的樣式名稱，畢竟也很難搞混。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144413Z" creationid="MarkHung" creationdate="20180224T043049Z">
+        <seg>為了方便，你可以直接用「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;段落&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」和「&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;清單&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;」這樣的樣式名稱，畢竟也很難搞混。&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22792,8 +22792,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can get much the same result by selecting a pre-defined pattern from the list style’s &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Outline&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab instead.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T132836Z" creationid="MarkHung" creationdate="20180224T043300Z">
-        <seg>不過，你也可以在清單樣式的「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;大綱&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」標籤頁中選取預定好的樣式，兩者的成果其實差不多。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144318Z" creationid="MarkHung" creationdate="20180224T043300Z">
+        <seg>不過，你也可以在清單樣式的「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;大綱&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」標籤頁中選取預定好的樣式，兩者的成果其實差不多。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26990,8 +26990,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>LibreOffice has several ways to outline &lt;f0&gt;using paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T124746Z" creationid="MarkHung" creationdate="20180224T043110Z">
-        <seg>LibreOffice有幾種利用段落樣式製作大綱的方法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144354Z" creationid="MarkHung" creationdate="20180224T043110Z">
+        <seg>LibreOffice有幾種利用段落樣式製作大綱的方法。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
