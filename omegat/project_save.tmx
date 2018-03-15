@@ -6583,8 +6583,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Spacing to contents&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on each side.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T132402Z" creationid="MarkHung" creationdate="20180224T034829Z">
-        <seg>設定每一邊的「&lt;f1&gt;&lt;f2&gt;留空&lt;/f1&gt;&lt;/f2&gt;&lt;f3&gt;」間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T150204Z" creationid="MarkHung" creationdate="20180224T034829Z">
+        <seg>設定每一邊的「&lt;f1&gt;&lt;f2&gt;留空&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8801,8 +8801,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can update extensions with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Extension Manager &gt; new,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; which is an advantage when the dictionaries are still being developed and changing rapidly.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143502Z" creationid="MarkHung" creationdate="20180224T043911Z">
-        <seg>你可以用「&lt;f1&gt;&lt;f2&gt;工具 &gt; 擴充套件管理員 &gt; 新增&lt;/f1&gt;&lt;/f2&gt;」更新擴充套件，這方便你使用那些還在開發所以常有更動的字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T150255Z" creationid="MarkHung" creationdate="20180224T043911Z">
+        <seg>你可以用「&lt;f1&gt;&lt;f2&gt;工具 &gt; 擴充套件管理員 &gt; 新增&lt;/f2&gt;&lt;/f1&gt;」更新擴充套件，這方便你使用那些還在開發所以常有更動的字典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9498,8 +9498,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;The &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Drop Caps&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab for a paragraph style &lt;/f4&gt;&lt;t5/&gt;&lt;f6&gt;automates the process of creating a text frame and setting the text flow around it.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143928Z" creationid="MarkHung" creationdate="20180224T041946Z">
-        <seg>段落樣式的「&lt;f2&gt;&lt;f3&gt;首字放大&lt;/f2&gt;&lt;/f3&gt;」標籤頁可自動完成建立文字外框、設定文字流安排的瑣碎程序。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T150219Z" creationid="MarkHung" creationdate="20180224T041946Z">
+        <seg>段落樣式的「&lt;f2&gt;&lt;f3&gt;首字放大&lt;/f3&gt;&lt;/f2&gt;」標籤頁可自動完成建立文字外框、設定文字流安排的瑣碎程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23834,8 +23834,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you don’t use Autocorrect, uncheck the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Enable word completion&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Collect words&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; boxes at &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Tools &gt; AutoCorrect Options &gt; Word completion&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T144851Z" creationid="Franklin Weng" creationdate="20180303T071829Z">
-        <seg>如果不使用自動校正，在「&lt;/f3&gt;&lt;f10&gt;&lt;f11&gt;工具 &gt; 自動校正 &gt; 自動校正選項 &gt; 自動補完單字&lt;/f11&gt;&lt;/f10&gt;」中將「&lt;f4&gt;&lt;f5&gt;啟用字詞補完&lt;/f5&gt;&lt;/f4&gt;」跟「&lt;/f7&gt;&lt;f8&gt;蒐集字詞&lt;/f8&gt;&lt;/f7&gt;」兩個選項也都關掉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T150327Z" creationid="Franklin Weng" creationdate="20180303T071829Z">
+        <seg>如果不使用自動校正，在「&lt;/f3&gt;&lt;f10&gt;&lt;f11&gt;工具 &gt; 自動校正 &gt; 自動校正選項 &gt; 自動補完單字&lt;/f11&gt;&lt;/f10&gt;」中將「&lt;f4&gt;&lt;f5&gt;啟用字詞補完&lt;/f5&gt;&lt;/f4&gt;」跟「&lt;f7&gt;&lt;f8&gt;蒐集字詞&lt;/f8&gt;&lt;/f7&gt;」兩個選項也都關掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36953,8 +36953,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The most common way to add support for additional languages is to select them from the drop-down list at &lt;f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Writing Aids &gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; U&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;ser-defined dictionaries &gt; New.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143201Z" creationid="MarkHung" creationdate="20180224T043852Z">
-        <seg>最常見加入額外語言支援的方法，是從「&lt;f0&gt;&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增&lt;/f0&gt;&lt;/f1&gt;」，到下拉選單中選擇其他語言。&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T150242Z" creationid="MarkHung" creationdate="20180224T043852Z">
+        <seg>最常見加入額外語言支援的方法，是從「&lt;f0&gt;&lt;f1&gt;工具 &gt; 選項 &gt; 語言設定 &gt; 書寫輔助 &gt; 使用者自訂的字典 &gt; 新增&lt;/f1&gt;&lt;/f0&gt;」，到下拉選單中選擇其他語言。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
