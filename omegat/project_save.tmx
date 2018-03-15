@@ -2121,8 +2121,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;An outline is typically a way of planning a document that readers never see, so often whether the pre-defined format is exactly what you prefer won’t matter.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135720Z" creationid="Franklin Weng" creationdate="20180302T135720Z">
-        <seg>&lt;f0&gt;大綱是在規劃文件時常用的方法。因為這不是給讀者看的，所以預先定義的格式設定是不是你想要的樣子，其實一點也不重要。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133356Z" creationid="Franklin Weng" creationdate="20180302T135720Z">
+        <seg>&lt;f0&gt;大綱是規劃文件的常用做法。因為這不是給讀者看的，所以不管預先定義的格式設定是不是你要的樣子，其實一點也不重要。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7056,8 +7056,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o use the paragraph &lt;f1&gt;style&lt;/f1&gt;, press&lt;f2&gt; Enter + Tab&lt;/f2&gt; to add a sub-level &lt;f3&gt;paragraph&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133018Z" creationid="MarkHung" creationdate="20180224T043407Z">
-        <seg>如果要使用段落樣式的話，請按&lt;f2&gt;Enter + Tab&lt;/f2&gt;加入子階層段落。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133224Z" creationid="MarkHung" creationdate="20180224T043407Z">
+        <seg>如果要使用段落樣式的話，請按&lt;f2&gt;Enter + Tab&lt;/f2&gt;加入子階層段落。（有人試過有用嗎？）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39930,8 +39930,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To raise the level of a &lt;f5&gt;paragraph &lt;/f5&gt;style, press &lt;f6&gt;Enter + Tab + Shift.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133207Z" creationid="Franklin Weng" creationdate="20180302T135511Z">
-        <seg>按下&lt;f6&gt;Enter + Tab + Shift&lt;/f6&gt;可以提升&lt;f5&gt;段落&lt;/f5&gt;樣式的層級。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133221Z" creationid="Franklin Weng" creationdate="20180302T135511Z">
+        <seg>按下&lt;f6&gt;Enter + Tab + Shift&lt;/f6&gt;可以提升&lt;f5&gt;段落&lt;/f5&gt;樣式的層級。（有人試過有用嗎？）</seg>
       </tuv>
     </tu>
     <tu>
