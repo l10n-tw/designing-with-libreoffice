@@ -11906,8 +11906,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A nested list – a list within a list – is most common in an online text, where space is unimportant and structured text like lists and tables improve readability.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T122744Z" creationid="MarkHung" creationdate="20180224T042848Z">
-        <seg>階層清單（又稱巢狀清單，Nested list）——即清單中的清單，常見於線上文件。這類文件所需的空間不像紙本那麼斤斤計較，清單或表格這類結構化文字可以改善文字的易讀性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123133Z" creationid="MarkHung" creationdate="20180224T042848Z">
+        <seg>多層次清單 (Nested list，又稱巢狀清單)——即清單中的清單，常見於線上文件。這類文件所需的空間不像紙本那麼斤斤計較，清單或表格這類結構化文字可以改善文字的易讀性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28510,8 +28510,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Nesting lists</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042841Z" creationid="MarkHung" creationdate="20180224T042841Z">
-        <seg>階層清單</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123116Z" creationid="MarkHung" creationdate="20180224T042841Z">
+        <seg>多層次清單</seg>
       </tuv>
     </tu>
     <tu>
@@ -35522,8 +35522,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The advantage of list levels is that each level can be formatted separately, but all the levels remain connected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042915Z" creationid="MarkHung" creationdate="20180224T042915Z">
-        <seg>清單階層的好處是每一階層可以分別設定格式，而所有的階層仍然相連。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123223Z" creationid="MarkHung" creationdate="20180224T042915Z">
+        <seg>採用清單層級的好處是每一個階層都可以分別設定格式，而所有的階層之間仍然相連。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39874,8 +39874,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To nest a list, &lt;f0&gt;you have two choices.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T122752Z" creationid="MarkHung" creationdate="20180224T042857Z">
-        <seg>若要建立階層清單，你有兩種選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123141Z" creationid="MarkHung" creationdate="20180224T042857Z">
+        <seg>若要建立多層次清單，你有兩種選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43837,8 +43837,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can switch to the next level below by pressing the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tab&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; key, or to the one above by pressing &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Shift+Tab.&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042923Z" creationid="MarkHung" creationdate="20180224T042923Z">
-        <seg>清單階層的好處是每一階層可以分別設定格式，而所有的階層仍然相連。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T122959Z" creationid="MarkHung" creationdate="20180224T042923Z">
+        <seg>&lt;/f6&gt;清單階層的好處是每一階層可以分別設定格式，而所有的階層仍然相連。</seg>
       </tuv>
     </tu>
     <tu>
