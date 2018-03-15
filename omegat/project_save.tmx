@@ -4361,8 +4361,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;I&lt;/f0&gt;nstall a font for &lt;f1&gt;a&lt;/f1&gt; language.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031810Z" creationid="Franklin Weng" creationdate="20180303T031810Z">
-        <seg>為這個語言安裝字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143720Z" creationid="Franklin Weng" creationdate="20180303T031810Z">
+        <seg>為這個語言安裝合適的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9826,8 +9826,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;A &lt;/f2&gt;Greek &lt;f3&gt;style&lt;/f3&gt; is of limited use if your installation of LibreOffice has no Greek font installed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031851Z" creationid="Franklin Weng" creationdate="20180303T031851Z">
-        <seg>一個希臘語言的樣式如果 LibreOffice 中沒有安裝希臘字型，那這樣式的作用就很有限了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143900Z" creationid="Franklin Weng" creationdate="20180303T031851Z">
+        <seg>如果你的LibreOffice中沒有安裝希臘字型，那就算設定好希臘語樣式也沒什麼用處。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12534,8 +12534,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adding dictionary locales may be only the first step in using another language.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043925Z" creationid="MarkHung" creationdate="20180224T043925Z">
-        <seg>增加字典區域設定可能是使用其他語言的第一步。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143537Z" creationid="MarkHung" creationdate="20180224T043925Z">
+        <seg>為字典加入新的語言地區大略是使用其他語言的第一步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13461,8 +13461,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An international English keyboard &lt;f0&gt;is&lt;/f0&gt; adequate for most Western European languages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031602Z" creationid="Franklin Weng" creationdate="20180303T030915Z">
-        <seg>大部份西歐國家以及台灣，使用通用國際英文鍵盤就可以了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143630Z" creationid="Franklin Weng" creationdate="20180303T030915Z">
+        <seg>大部份的西歐語言只要用通用的國際英文鍵盤就可以了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32010,8 +32010,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select a system keyboard layout for the language.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030919Z" creationid="Franklin Weng" creationdate="20180303T030913Z">
-        <seg>為這個語言選擇一個系統鍵盤配置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143551Z" creationid="Franklin Weng" creationdate="20180303T030913Z">
+        <seg>為這個語言設一個系統鍵盤配置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32740,8 +32740,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting up &lt;f0&gt;other language features&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043916Z" creationid="MarkHung" creationdate="20180224T043916Z">
-        <seg>設定其他語言功能</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143507Z" creationid="MarkHung" creationdate="20180224T043916Z">
+        <seg>設置其他語言功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -42817,8 +42817,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Without a suitable keyboard layout, you have to &lt;f1&gt;rely on &lt;/f1&gt;&lt;f2&gt;Insert &gt; Special character&lt;/f2&gt; &lt;f3&gt;for accents and umlauts.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T031757Z" creationid="Franklin Weng" creationdate="20180303T031757Z">
-        <seg>如果沒有適當的鍵盤配置，有一些重音或變音字母就得用「插入 &gt; 特殊字元」來輸入了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143706Z" creationid="Franklin Weng" creationdate="20180303T031757Z">
+        <seg>如果沒有適當的鍵盤配置，有一些重音或變音字母可能就得靠「&lt;f2&gt;插入 &gt; 特殊字元&lt;/f2&gt;」來輸入了。</seg>
       </tuv>
     </tu>
     <tu>
