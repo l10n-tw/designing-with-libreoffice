@@ -2282,8 +2282,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Associate list styles with paragraph styles so that they can be applied automatically.&lt;/f0&gt; &lt;f1&gt;The same list style can be associated with multiple paragraph styles.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042554Z" creationid="MarkHung" creationdate="20180224T042554Z">
-        <seg>連結清單樣式與段落樣式，使樣式自動套用。 同一個清單樣式可以和多個段落樣式連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110251Z" creationid="MarkHung" creationdate="20180224T042554Z">
+        <seg>&lt;f0&gt;讓清單樣式和段落樣式連結，如此一來就能自動套用這些樣式。&lt;/f0&gt;&lt;f1&gt; 同一個清單樣式可以和多個段落樣式連結。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21638,8 +21638,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, as you might guess from the existence of the &lt;f1&gt;Outline &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&amp;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Numbering &lt;/f4&gt;tab, paragraph styles are essential to lists and outlining.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024223Z" creationid="MarkHung" creationdate="20180224T042530Z">
-        <seg>然而，如你可從「大綱及編號」標籤頁的存在所猜測的，清單及大綱需要段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110131Z" creationid="MarkHung" creationdate="20180224T042530Z">
+        <seg>然而，就如你看到「&lt;f1&gt;大綱及編號&lt;/f1&gt;」標籤頁後所能猜測到的，清單及大綱必須要有段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33579,8 +33579,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Specifically, on the &lt;f0&gt;Outline &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&amp;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Numbering &lt;/f3&gt;tab&lt;f4&gt;,&lt;/f4&gt; you can:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024232Z" creationid="MarkHung" creationdate="20180224T042538Z">
-        <seg>特別是，在「大綱及編號」標籤頁,你可以：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110150Z" creationid="MarkHung" creationdate="20180224T042538Z">
+        <seg>特別是，在「&lt;f0&gt;大綱及編號&lt;/f0&gt;」標籤頁你可以：</seg>
       </tuv>
     </tu>
     <tu>
