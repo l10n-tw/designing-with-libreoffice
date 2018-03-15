@@ -12642,8 +12642,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adjusting &lt;f0&gt;character combinations (kerning)&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T110135Z" creationid="Ｖ字龍" creationdate="20180221T110135Z">
-        <seg>調整字元組合的排印方位（字距微調(kerning)）</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101205Z" creationid="Ｖ字龍" creationdate="20180221T110135Z">
+        <seg>調整字元組合（字距微調）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16602,8 +16602,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Consequently, you can do little to change the width of some fonts without producing a disordered mess.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T104314Z" creationid="Ｖ字龍" creationdate="20180221T104314Z">
-        <seg>因此你可以輕鬆變更某些字型的寬度而不造成一團亂。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T100016Z" creationid="Ｖ字龍" creationdate="20180221T104314Z">
+        <seg>因此你可以輕鬆變更某些字型的寬度而不至於造成一團亂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21069,8 +21069,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Greater increases or decreases tend to look clumsy with most fonts, &lt;f0&gt;especially at smaller sizes&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T095101Z" creationid="Ｖ字龍" creationdate="20180221T094837Z">
-        <seg>大幅的增加或降低該數值對多數字型來說都會使其外觀變醜，&lt;f0&gt;特別是在較低的文字大小&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T095917Z" creationid="Ｖ字龍" creationdate="20180221T094837Z">
+        <seg>大幅的增加或降低該數值對多數字型來說都會使其外觀變醜，&lt;f0&gt;特別是在字型較小時&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22861,8 +22861,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However,&lt;f0&gt; most fonts can stand 1&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;15&lt;f2&gt;% adjustments less or more than the default 100% without deteriorating too badly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T110810Z" creationid="Ｖ字龍" creationdate="20180221T104910Z">
-        <seg>但大多數的字型在不過度劣化的前提下只能承受約1&lt;f1&gt;-&lt;/f1&gt;15%，少於或多於預設的100%的寬度調整。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T100139Z" creationid="Ｖ字龍" creationdate="20180221T104910Z">
+        <seg>但大多數的字型在不過度劣化的前提下，寬度只能調整約 1&lt;f1&gt;-&lt;/f1&gt;15% 上下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25381,8 +25381,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In pre-digital typesetting, changing the width of a font would also include changing the design of many of the individual characters to keep the proportions in the shape of the letter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T105415Z" creationid="Ｖ字龍" creationdate="20180221T104050Z">
-        <seg>在前數位時代的文件排版學中，變更字型的寬度包含了變更多個個別字元的設計以維持字母的形狀比例。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T095944Z" creationid="Ｖ字龍" creationdate="20180221T104050Z">
+        <seg>在前數位時代的文件排版學中，變更字型的寬度包含了變更多個個別字元的設計，以便維持字母的形狀比例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26588,8 +26588,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Kerning is the &lt;f0&gt;spacing between characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T111455Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
-        <seg>字距微調是指字元間的留白大小處理。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101501Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
+        <seg>字距微調（Kerning）是指字元間的留白大小處理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38890,12 +38890,13 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
     </tu>
     <tu>
-      <note>無視 f7</note>
+      <note>無視 f7
+Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>This feature is especially useful when you have no condensed or expanded version in a font family.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T153628Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
-        <seg>若是某個字型家族中，沒有濃縮或展開版本的字型時特別實用。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101044Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
+        <seg>若是某個字型家族中，沒有壓縮體（condensed）或擴展體（expanded）的字型時，這個功能就很實用了。</seg>
       </tuv>
     </tu>
     <tu>
