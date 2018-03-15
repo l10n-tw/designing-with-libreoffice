@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;B&lt;f1&gt;eing included in the outline styles means that a paragraph using that style is listed in the &lt;/f1&gt;Navigator, and used automatically in features like tables of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110557Z" creationid="MarkHung" creationdate="20180224T042638Z">
-        <seg>一旦被列入大綱樣式的話，則採用該樣式的段落會被列在「助手」當中，並且在目錄這一類功能中可以自動使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T111056Z" creationid="MarkHung" creationdate="20180224T042638Z">
+        <seg>一旦列入大綱樣式，則採用該樣式的段落會列在「助手」當中，並且在目錄這一類功能中可以自動使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1820,8 +1820,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Add a paragraph style to the default outline styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042634Z" creationid="MarkHung" creationdate="20180224T042634Z">
-        <seg>替預設大綱樣式加入段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T111020Z" creationid="MarkHung" creationdate="20180224T042634Z">
+        <seg>替段落樣式加到預設大綱樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,8 +2282,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Associate list styles with paragraph styles so that they can be applied automatically.&lt;/f0&gt; &lt;f1&gt;The same list style can be associated with multiple paragraph styles.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110251Z" creationid="MarkHung" creationdate="20180224T042554Z">
-        <seg>&lt;f0&gt;讓清單樣式和段落樣式連結，如此一來就能自動套用這些樣式。&lt;/f0&gt;&lt;f1&gt; 同一個清單樣式可以和多個段落樣式連結。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110922Z" creationid="MarkHung" creationdate="20180224T042554Z">
+        <seg>&lt;f0&gt;讓清單樣式和段落樣式連結起來，如此一來就能自動套用這些樣式。&lt;/f0&gt;&lt;f1&gt; 同一個清單樣式可以和多個段落樣式連結。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13485,8 +13485,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An unordered list is another name for a bullet list, and an ordered list is another name for a numbered list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042712Z" creationid="MarkHung" creationdate="20180224T042712Z">
-        <seg>無序清單是項目符號清單的另一個名字，有序清單則是編號清單的另一個名字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120322Z" creationid="MarkHung" creationdate="20180224T042712Z">
+        <seg>無序清單是項目符號清單的別名，有序清單則是編號清單的另一個稱呼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16810,8 +16810,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create &lt;f0&gt;an &lt;/f0&gt;outline using a single paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110816Z" creationid="MarkHung" creationdate="20180224T042630Z">
-        <seg>使用單一個段落樣式建立大綱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110934Z" creationid="MarkHung" creationdate="20180224T042630Z">
+        <seg>以單一段落樣式建立大綱。</seg>
       </tuv>
     </tu>
     <tu>
