@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;B&lt;f1&gt;eing included in the outline styles means that a paragraph using that style is listed in the &lt;/f1&gt;Navigator, and used automatically in features like tables of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042638Z" creationid="MarkHung" creationdate="20180224T042638Z">
-        <seg>被納入大綱樣式代表使用這個樣式的段落被列在「助手」中，並且在表格功能中自動使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110557Z" creationid="MarkHung" creationdate="20180224T042638Z">
+        <seg>一旦被列入大綱樣式的話，則採用該樣式的段落會被列在「助手」當中，並且在目錄這一類功能中可以自動使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16810,8 +16810,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create &lt;f0&gt;an &lt;/f0&gt;outline using a single paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042630Z" creationid="MarkHung" creationdate="20180224T042630Z">
-        <seg>使用一種段落樣式建立大綱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T110309Z" creationid="MarkHung" creationdate="20180224T042630Z">
+        <seg>使用單一段落樣式建立大綱。</seg>
       </tuv>
     </tu>
     <tu>
