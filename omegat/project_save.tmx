@@ -4690,8 +4690,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In addition&lt;/f0&gt;, the extension &lt;f1&gt;site&lt;/f1&gt; also has packages for se&lt;f2&gt;v&lt;/f2&gt;eral languages, including Ancient Greek, Finnish, and Basque.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043905Z" creationid="MarkHung" creationdate="20180224T043905Z">
-        <seg>此外，擴充套件網站也有一些語言設定的擴充套件，如古希臘語、芬蘭語和巴斯克語。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143352Z" creationid="MarkHung" creationdate="20180224T043905Z">
+        <seg>此外，擴充套件網站也有一些支援多個語言的擴充包，例如古希臘語、芬蘭語、巴斯克語等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8801,8 +8801,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can update extensions with &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Extension Manager &gt; new,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; which is an advantage when the dictionaries are still being developed and changing rapidly.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043911Z" creationid="MarkHung" creationdate="20180224T043911Z">
-        <seg>你可以用「工具 &gt;擴充套件管理員 &gt;新增」來更新擴充套件，有利使用那些還在開發改變快速的字典。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143502Z" creationid="MarkHung" creationdate="20180224T043911Z">
+        <seg>你可以用「&lt;f1&gt;&lt;f2&gt;工具 &gt; 擴充套件管理員 &gt; 新增&lt;/f1&gt;&lt;/f2&gt;」更新擴充套件，這方便你使用那些還在開發所以常有更動的字典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41135,8 +41135,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use the general language settings to load as many languages and locales as you want.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043859Z" creationid="MarkHung" creationdate="20180224T043859Z">
-        <seg>使用一般語言設定載入你要的語言和區域設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T143308Z" creationid="MarkHung" creationdate="20180224T043859Z">
+        <seg>一般你可以根據需求在語言設定中載入你要的語言和地區。</seg>
       </tuv>
     </tu>
     <tu>
