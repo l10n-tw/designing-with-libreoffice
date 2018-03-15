@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;Font: Maven Pro.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102259Z" creationid="Franklin Weng" creationdate="20180315T102259Z">
+        <seg>&lt;/f0&gt;字型：Maven Pro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;For this reason, &lt;f1&gt;in case of conflict, &lt;/f1&gt;use the information and order given here or online in preference to the defaults on the &lt;f2&gt;Entries&lt;/f2&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T084900Z" creationid="zerng07" creationdate="20180309T084547Z">
@@ -5048,8 +5056,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; &lt;f1&gt;Reducing the space between characters improves the spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T141643Z" creationid="Ｖ字龍" creationdate="20180221T141643Z">
-        <seg>左：減少字元間的兼具以改善間距。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102153Z" creationid="Ｖ字龍" creationdate="20180221T141643Z">
+        <seg>左：減少字元間的空間以改善間距。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5224,8 +5232,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;iddle: &lt;f1&gt;C&lt;/f1&gt;reating your own ligature &lt;f2&gt;by moving characters together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T142541Z" creationid="Ｖ字龍" creationdate="20180221T142541Z">
-        <seg>中：藉由將字元移動在一起來創造自己的連字(ligature)。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102211Z" creationid="Ｖ字龍" creationdate="20180221T142541Z">
+        <seg>中：藉由將字元移動在一起來創造自己的連字（ligature）。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6228,6 +6236,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T134010Z" creationid="zerng07" creationdate="20180210T134010Z">
         <seg>&lt;f0&gt;對影像點按右鍵，點選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;屬性 &gt; 環繞&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。將「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;上&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」、「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;下&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」間距設為 0，將影像放在表格的左上角。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right: Sometimes, kerning means increasing the space between characters for easier reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102252Z" creationid="Franklin Weng" creationdate="20180315T102252Z">
+        <seg>&lt;f0&gt;右：有的時候，會增加字元間的空間以便更容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9009,8 +9025,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Combinations&lt;/f1&gt; such as “Va,” “&lt;f2&gt;ll,”&lt;/f2&gt; &lt;f3&gt;and “&lt;/f3&gt;ff” &lt;f4&gt;can be improved in most fonts, and individual fonts may benefit from the adjustment of other combinations as well.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T111357Z" creationid="Ｖ字龍" creationdate="20180221T110652Z">
-        <seg>像是Va、ll、ff等字元組合在多數字型中的外觀皆可以被改進，而某些特定字型也有可能受惠於其他種字元組合的字距微調。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101621Z" creationid="Ｖ字龍" creationdate="20180221T110652Z">
+        <seg>像是Va、ll、ff等字元組合，在多數字型中的外觀皆可以被改進，而某些特定字型也有可能受惠於其他種字元組合的字距微調。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15902,8 +15918,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Changing the spacing between characters using the &lt;f0&gt;Spacing&lt;/f0&gt; field on the &lt;f1&gt;Position&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T141435Z" creationid="Ｖ字龍" creationdate="20180221T141435Z">
-        <seg>使用&lt;f1&gt;位置&lt;/f1&gt;標籤頁中的&lt;f0&gt;間距&lt;/f0&gt;欄位以變更字元間的間距。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101951Z" creationid="Ｖ字龍" creationdate="20180221T141435Z">
+        <seg>使用「&lt;f1&gt;位置&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;間距&lt;/f0&gt;」欄位以變更字元間的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,6 +26600,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Kerning has &lt;f0&gt;always&lt;/f0&gt; been a concern in typography, but digital typography makes it more important than ever.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T103027Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
+        <seg>Kerning has &lt;f0&gt;always&lt;/f0&gt; been a concern in typography, but digital typography makes it more important than ever.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>無視 f0</note>
       <tuv lang="EN">
         <seg>Kerning is the &lt;f0&gt;spacing between characters.</seg>
@@ -30855,8 +30879,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Professional printers sometimes adjust kerning &lt;/f0&gt;to improve the appearance of awkward combinations of letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T110555Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
-        <seg>專業的印表機有時候會調整字距以改善某些尷尬的字母組合的外觀。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101541Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
+        <seg>專業的印表機有時候會調整字距，以改善某些尷尬的字母組合的外觀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38895,8 +38919,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>This feature is especially useful when you have no condensed or expanded version in a font family.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101044Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
-        <seg>若是某個字型家族中，沒有壓縮體（condensed）或擴展體（expanded）的字型時，這個功能就很實用了。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101517Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
+        <seg>若是某個字型家族中，沒有窄體（condensed）或寬體（expanded）的字型時，這個功能就很實用了。</seg>
       </tuv>
     </tu>
     <tu>
