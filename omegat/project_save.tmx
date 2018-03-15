@@ -19689,8 +19689,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;o&lt;/f1&gt;utline &lt;f2&gt;l&lt;/f2&gt;evels &lt;t3/&gt;determine which paragraph styles are displayed by default in the Navigator &lt;f4&gt;under &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Headings&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;,&lt;/f7&gt; and in a table of contents &lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T030347Z" creationid="Franklin Weng" creationdate="20180303T030347Z">
-        <seg>例如，大綱層級會決定哪一個段落樣式預設顯示在「助手」視窗中的「標題」之下，以及在目錄之中。&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T135812Z" creationid="Franklin Weng" creationdate="20180303T030347Z">
+        <seg>例如，大綱層級決定了哪一個段落樣式會不會顯示在「助手」視窗中的「&lt;f5&gt;&lt;f6&gt;標題&lt;/f6&gt;&lt;/f5&gt;」之下，以及出現在目錄之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30126,8 +30126,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Outline &lt;f0&gt;levels are&lt;/f0&gt; a concept used throughout LibreOffice to automate advanced features.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T022005Z" creationid="Franklin Weng" creationdate="20180303T022005Z">
-        <seg>大綱層級是一種在 LibreOffice 中自動化進階功能的一種概念。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T135641Z" creationid="Franklin Weng" creationdate="20180303T022005Z">
+        <seg>大綱層級是LibreOffice中讓進階功能可以自動處理的一種概念。</seg>
       </tuv>
     </tu>
     <tu>
