@@ -7056,8 +7056,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o use the paragraph &lt;f1&gt;style&lt;/f1&gt;, press&lt;f2&gt; Enter + Tab&lt;/f2&gt; to add a sub-level &lt;f3&gt;paragraph&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135216Z" creationid="MarkHung" creationdate="20180224T043407Z">
-        <seg>要使用段落樣式，按下 Enter + Tab，增加次階的段落。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133018Z" creationid="MarkHung" creationdate="20180224T043407Z">
+        <seg>如果要使用段落樣式的話，請按&lt;f2&gt;Enter + Tab&lt;/f2&gt;加入子階層段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37683,8 +37683,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The sub-level &lt;f4&gt;paragraph &lt;/f4&gt;automatically uses the numbering pattern of the list style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135249Z" creationid="Franklin Weng" creationdate="20180302T135156Z">
-        <seg>次階&lt;f4&gt;段落&lt;/f4&gt;會自動使用清單樣式中的編號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133034Z" creationid="Franklin Weng" creationdate="20180302T135156Z">
+        <seg>子階層&lt;f4&gt;段落&lt;/f4&gt;會自動使用清單樣式的編號方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39930,8 +39930,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To raise the level of a &lt;f5&gt;paragraph &lt;/f5&gt;style, press &lt;f6&gt;Enter + Tab + Shift.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135511Z" creationid="Franklin Weng" creationdate="20180302T135511Z">
-        <seg>按下 Enter + Tab + Shift 可以提升段落的階層樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133207Z" creationid="Franklin Weng" creationdate="20180302T135511Z">
+        <seg>按下&lt;f6&gt;Enter + Tab + Shift&lt;/f6&gt;可以提升&lt;f5&gt;段落&lt;/f5&gt;樣式的層級。</seg>
       </tuv>
     </tu>
     <tu>
