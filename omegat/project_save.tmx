@@ -8737,8 +8737,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can change these mappings, or add another paragraph style to an outline level in the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline level&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Outline &amp; Numbering&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140421Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
-        <seg>&lt;f0&gt;你可以改變這些對應關係，或是利用「&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位將另一個段落樣式加到某一個大綱層級。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140530Z" creationid="Franklin Weng" creationdate="20180303T030849Z">
+        <seg>&lt;f0&gt;你可以改變這些對應關係，或是利用「&lt;f4&gt;&lt;f5&gt;大綱與編號&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;大綱層級&lt;/f2&gt;&lt;/f1&gt;」欄位將另一個段落樣式加入某一個大綱層級。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11054,8 +11054,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f5&gt;Y&lt;/f5&gt;ou can add other paragraph s&lt;f6&gt;tyles&lt;/f6&gt; &lt;f7&gt;using&lt;/f7&gt; the &lt;f8&gt;Outline Level &lt;/f8&gt;field on their &lt;f9&gt;Outline &amp; Numbering&lt;/f9&gt; tabs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T135207Z" creationid="Franklin Weng" creationdate="20180303T021624Z">
-        <seg>你可以藉由其他段落「&lt;f9&gt;大綱與編號&lt;/f9&gt;」標籤頁的「&lt;f8&gt;大綱層級&lt;/f8&gt;」欄位加入其他段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140526Z" creationid="Franklin Weng" creationdate="20180303T021624Z">
+        <seg>你可以藉由段落「&lt;f9&gt;大綱與編號&lt;/f9&gt;」標籤頁的「&lt;f8&gt;大綱層級&lt;/f8&gt;」欄位，替大綱層級加入其他段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25204,8 +25204,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many lists, each paragraph is a list item and is therefore numbered.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043551Z" creationid="MarkHung" creationdate="20180224T043551Z">
-        <seg>在許多清單中，每個段落都是一個項目，因此都有編號。&lt;分節 2391&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140712Z" creationid="MarkHung" creationdate="20180224T043551Z">
+        <seg>在許多清單中，每個段落都是一個清單項目，因此都帶有編號。&lt;分節 2391&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33200,8 +33200,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Skipping a paragraph in a list</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043519Z" creationid="MarkHung" creationdate="20180224T043519Z">
-        <seg>在清單中略過段落</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140702Z" creationid="MarkHung" creationdate="20180224T043519Z">
+        <seg>略過清單中的段落</seg>
       </tuv>
     </tu>
     <tu>
@@ -43412,8 +43412,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can assign more than one paragraph style to an outline level, but only &lt;f0&gt;one paragraph style displays in &lt;/f0&gt;&lt;f1&gt;Tool&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Outline Numbering.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T043511Z" creationid="MarkHung" creationdate="20180224T043511Z">
-        <seg>你可以為同一個大綱層級指定多個段落樣式，但只有一個段落樣式會顯示在「工具 &gt; 章節編號」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140649Z" creationid="MarkHung" creationdate="20180224T043511Z">
+        <seg>你可以為同一個大綱層級指派多個段落樣式，但在「&lt;f1&gt;工具 &gt; 章節標號&lt;/f1&gt;」中只能顯示一個段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
