@@ -6509,8 +6509,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select or make&lt;/f0&gt; a paragraph style for outlining.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140358Z" creationid="Franklin Weng" creationdate="20180302T140325Z">
-        <seg>為大綱&lt;f0&gt;選擇或建立&lt;/f0&gt;一個段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133556Z" creationid="Franklin Weng" creationdate="20180302T140325Z">
+        <seg>&lt;f0&gt;為大綱選擇或建立&lt;/f0&gt;一個段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10250,8 +10250,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;Presumably, this restriction prevents confusion between a single paragraph style outline and the registered outline levels&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140536Z" creationid="Franklin Weng" creationdate="20180302T140536Z">
-        <seg>&lt;f2&gt;想當然爾，這個限制是為了避免你將單一段落樣式的大綱與預先定義好的大綱階層混在一起。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133800Z" creationid="Franklin Weng" creationdate="20180302T140536Z">
+        <seg>&lt;f2&gt;想當然爾，這個限制是為了避免你將單一段落樣式的大綱，和其他設定好的大綱階層混在一起。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16860,8 +16860,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Create a list style &lt;f0&gt;and associate it with one of the pre-defined formats on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Outline&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T020418Z" creationid="Franklin Weng" creationdate="20180302T140312Z">
-        <seg>建立一個清單樣式&lt;f0&gt;並在「大綱與編號」標籤頁中的「大綱層級」選擇一個預先定義好的格式設定。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133546Z" creationid="Franklin Weng" creationdate="20180302T140312Z">
+        <seg>建立一個清單樣式，&lt;f0&gt;並在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;大綱&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中選擇一個預先定義好的格式設定。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17148,8 +17148,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Creating outlines with a single paragraph style</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135734Z" creationid="Franklin Weng" creationdate="20180302T135734Z">
-        <seg>用單一段落樣式來建立大綱Creating outlines with a single paragraph style</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133433Z" creationid="Franklin Weng" creationdate="20180302T135734Z">
+        <seg>用單一段落樣式製作大綱</seg>
       </tuv>
     </tu>
     <tu>
@@ -40002,8 +40002,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To set up a single paragraph &lt;f0&gt;style&lt;/f0&gt; &lt;f1&gt;for &lt;/f1&gt;outlin&lt;f2&gt;ing&lt;/f2&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T135757Z" creationid="Franklin Weng" creationdate="20180302T135757Z">
-        <seg>用單一段落樣式來建立大綱的做法：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133430Z" creationid="Franklin Weng" creationdate="20180302T135757Z">
+        <seg>用單一段落樣式製作大綱的設置步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43998,8 +43998,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You cannot use the &lt;f1&gt;Heading 1-10 &lt;/f1&gt;styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180302T140419Z" creationid="Franklin Weng" creationdate="20180302T140419Z">
-        <seg>你不能使用&lt;f1&gt;標題 1-10 &lt;/f1&gt;樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T133618Z" creationid="Franklin Weng" creationdate="20180302T140419Z">
+        <seg>你不可以用「&lt;f1&gt;標題 1-10 &lt;/f1&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
