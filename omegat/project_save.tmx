@@ -25485,8 +25485,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the drop-down list for the &lt;f0&gt;&lt;f1&gt;Outline Level &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;field on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Outline &amp; Numbering&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;tab, all paragraph styles not assigned to an outline level are &lt;f6&gt;identified&lt;/f6&gt; as &lt;f7&gt;Body Text.&lt;/f7&gt; This designation &lt;f8&gt;has nothing to do with&lt;/f8&gt; the &lt;f9&gt;Text Body&lt;/f9&gt; &lt;f10&gt;paragraph style.&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T021847Z" creationid="Franklin Weng" creationdate="20180303T021847Z">
-        <seg>在「大綱與編號」標籤頁中，「大綱層級」欄位的下拉式選單裡，所有未被指定給某一個大綱層級的段落樣式都會被認定為「內文」。這個指定跟「內文」段落樣式無關。&lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T135501Z" creationid="Franklin Weng" creationdate="20180303T021847Z">
+        <seg>在「&lt;f3&gt;&lt;f4&gt;大綱與編號&lt;/f4&gt;&lt;/f3&gt;」標籤頁中，「&lt;f0&gt;&lt;f1&gt;大綱層級&lt;/f1&gt;&lt;/f0&gt;」欄位的下拉式選單裡，所有未指派過大綱層級的段落樣式都會被&lt;f6&gt;認定&lt;/f6&gt;成「&lt;f7&gt;內文&lt;/f7&gt;」。這裡認定的內文跟「&lt;f9&gt;內文&lt;/f9&gt;」段落樣式沒有任何關係。</seg>
       </tuv>
     </tu>
     <tu>
