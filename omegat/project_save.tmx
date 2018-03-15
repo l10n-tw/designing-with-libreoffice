@@ -6623,8 +6623,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set up an ordered or unordered list in the dialog for list styles (see “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T042721Z" creationid="MarkHung" creationdate="20180224T042721Z">
-        <seg>在清單樣式對話框中，設定有序或無序清單</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120615Z" creationid="MarkHung" creationdate="20180224T042721Z">
+        <seg>先在清單樣式對話框中設好有序清單或無序清單（參見〈&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13485,8 +13485,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An unordered list is another name for a bullet list, and an ordered list is another name for a numbered list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120322Z" creationid="MarkHung" creationdate="20180224T042712Z">
-        <seg>無序清單是項目符號清單的別名，有序清單則是編號清單的另一個稱呼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120600Z" creationid="MarkHung" creationdate="20180224T042712Z">
+        <seg>無序清單是項目符號清單的別名，而有序清單則是編號清單的另一個稱呼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38079,8 +38079,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Then associate it with a paragraph style from the paragraph’s &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Outline &amp; Numbering &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;tab in the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Numbering style&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; field.&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T024244Z" creationid="MarkHung" creationdate="20180224T042731Z">
-        <seg>接著從「大綱及編號」標籤頁編號樣式欄位將清單樣式與段落樣式連結。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120729Z" creationid="MarkHung" creationdate="20180224T042731Z">
+        <seg>接著從段落樣式的「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;大綱與編號&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」標籤頁「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;編號樣式&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」欄位中，將清單樣式與該段落樣式連結。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
