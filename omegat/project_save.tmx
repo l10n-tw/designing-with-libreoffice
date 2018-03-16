@@ -5519,6 +5519,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;No matter what your interest, &lt;/f0&gt;you will want to select the &lt;f1&gt;&lt;f2&gt;P&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;air&lt;/f3&gt; kerning box &lt;f4&gt;beside the field&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T130004Z" creationid="Franklin Weng" creationdate="20180316T130004Z">
+        <seg>&lt;f0&gt;不論是什麼情況，&lt;/f0&gt;都要勾選「間距」旁邊的「字母對的字距微調」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;No one has time to design a document every time they sit down to write.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T113030Z" creationid="Franklin Weng" creationdate="20171212T100214Z">
@@ -22861,6 +22869,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 前面已經提過格式 &gt; 字元 &gt; 位置 &gt; 間距，這裡不贅述。</note>
+      <tuv lang="EN">
+        <seg>However, you may want to change the spacing, either to improve legibility or for a short string of characters in a more graphical document, such as a brochure, &lt;f0&gt;by adjusting the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Position&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T125416Z" creationid="Franklin Weng" creationdate="20180316T124956Z">
+        <seg>另外你也可能為了改善可讀性，或是在比較圖形化的文件，例如宣傳手冊上來調整間距。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>However, you might want to change the symbol using the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Character&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field.</seg>
       </tuv>
@@ -23524,6 +23541,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T114452Z" creationid="zerng07" creationdate="20180205T132839Z">
         <seg>如果你正在製作原創圖形，一種做法是先把任何物件都做成你需要的三倍大，&lt;f4&gt;讓它接著降低&lt;/f4&gt;到300 &lt;f5&gt;&lt;f6&gt;dpi&lt;/f6&gt;&lt;/f5&gt;時能有適當的大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are manually adjusting justified lines, you might also want to make micro changes here and there.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T125510Z" creationid="Franklin Weng" creationdate="20180316T125510Z">
+        <seg>如果你是手動一行一行調整，你可能也會想要這邊小改一下那邊也小改一下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44303,8 +44328,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You may manage with only a single kerning character style for all your needs, but if you are really attentive to detail, you might decide on individual kerning character styles for different letter combinations – it all depends on your patience, the font you use, &lt;/f0&gt;and your perfectionism.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135924Z" creationid="Franklin Weng" creationdate="20180315T135924Z">
-        <seg>You may manage with only a single kerning character style for all your needs, but if you are really attentive to detail, you might decide on individual kerning character styles for different letter combinations – it all depends on your patience, the font you use, &lt;/f0&gt;and your perfectionism.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T125006Z" creationid="Franklin Weng" creationdate="20180315T135924Z">
+        <seg>你可以只使用單一種字元樣式跟字距來套用在你所有的需求。但如果你真的很注重細節，你也可以讓不同字母組合使用個別的字元樣式—這完全取決於你的耐心，你使用的字型，&lt;/f0&gt;以及你的完美主義是不是在作祟。</seg>
       </tuv>
     </tu>
     <tu>
