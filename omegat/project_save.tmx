@@ -4458,8 +4458,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If these instructions seem too complicated, avoid using Writer to generate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; output.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045054Z" creationid="MarkHung" creationdate="20180224T045054Z">
-        <seg>如果這些指令過於複雜，避免使用Writer產生HTML輸出。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174727Z" creationid="MarkHung" creationdate="20180224T045054Z">
+        <seg>如果這些指示看起來過於複雜，那麼請避免使用Writer產出&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;輸出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24349,8 +24349,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want clean &lt;f0&gt;HTML&lt;/f0&gt; output, &lt;f1&gt;do one (or both) of the following: Manually remove unnecessary tags or run the file through a tool &lt;/f1&gt;such as &lt;f2&gt;HTML&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tidy&lt;f4&gt;.&lt;/f4&gt; In Linux, many major distributions have &lt;f5&gt;HTML&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;Tidy in their repositories.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174408Z" creationid="MarkHung" creationdate="20180224T045027Z">
-        <seg>如果你想清理&lt;f0&gt;HTML&lt;/f0&gt;輸出，請依照下一個（或全部）步驟進行： 手動移除非必要的標籤，或透過&lt;f2&gt;HTML&lt;/f2&gt; Tidy之類的工具移除標籤。許多主要的 GNU/Linux 散布版的軟體庫中都有提供&lt;f5&gt;HTML&lt;/f5&gt; Tidy。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174641Z" creationid="MarkHung" creationdate="20180224T045027Z">
+        <seg>如果你想清理&lt;f0&gt;HTML&lt;/f0&gt;輸出的話，請依照下列步驟之一（或全部）進行： 手動移除非必要的標籤，或透過&lt;f2&gt;HTML&lt;/f2&gt; Tidy之類的工具移除標籤。許多主要的 GNU/Linux 散布版的軟體庫中都有提供&lt;f5&gt;HTML&lt;/f5&gt; Tidy。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25984,8 +25984,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, save the file as an &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;HTML Document Template&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; in a directory specifically set aside for that purpose.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174032Z" creationid="MarkHung" creationdate="20180224T045019Z">
-        <seg>所以，如果你想要那麼做的話，你應該將該檔案存到專門為這個用途設置的的目錄中，以作為&lt;f11&gt;&lt;f12&gt;HTML文件範本&lt;/f12&gt;&lt;/f11&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174608Z" creationid="MarkHung" creationdate="20180224T045019Z">
+        <seg>所以，如果你想那麼做的話，應該要將該檔案存到專門為這個用途開設的目錄中，以作為&lt;f11&gt;&lt;f12&gt;HTML文件範本&lt;/f12&gt;&lt;/f11&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28438,8 +28438,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Moving beyond practical text</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045109Z" creationid="MarkHung" creationdate="20180224T045109Z">
-        <seg>超越實際的文字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174837Z" creationid="MarkHung" creationdate="20180224T045109Z">
+        <seg>跨越文字實務</seg>
       </tuv>
     </tu>
     <tu>
@@ -29351,8 +29351,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>On all operating platforms, there are many tools for writing web pages that are easier to use than Writer.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045102Z" creationid="MarkHung" creationdate="20180224T045102Z">
-        <seg>所有平台都有許多比Writer更容易使用的網頁工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174804Z" creationid="MarkHung" creationdate="20180224T045102Z">
+        <seg>所有作業平臺都有許多比Writer更容易使用的網頁撰寫工具。</seg>
       </tuv>
     </tu>
     <tu>
