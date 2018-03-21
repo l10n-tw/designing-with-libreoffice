@@ -13397,8 +13397,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An even greater limitation is that only a limited number of character and paragraph styles are converted directly into &lt;f0&gt;HTML&lt;/f0&gt; tags.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T083051Z" creationid="MarkHung" creationdate="20180224T044112Z">
-        <seg>更大的限制在於只有有限的字元及段落樣式被轉換為HTML標籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040151Z" creationid="MarkHung" creationdate="20180224T044112Z">
+        <seg>更大的限制在於，只有局部有限的字元樣式及段落樣式會直接轉換為&lt;f0&gt;HTML&lt;/f0&gt;標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30036,8 +30036,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Other styles, as well as fields, are converted to .css classes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044118Z" creationid="MarkHung" creationdate="20180224T044118Z">
-        <seg>其他樣式及欄位，都被轉換為css類別。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040218Z" creationid="MarkHung" creationdate="20180224T044118Z">
+        <seg>其他樣式，包括欄位，則會轉換為 .css 類別。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38417,8 +38417,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These peculiarities mean that &lt;f0&gt;HTML&lt;/f0&gt; files exported from LibreOffice preserve as much of the formatting as possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044132Z" creationid="MarkHung" creationdate="20180224T044132Z">
-        <seg>這些特點代表LibreOffice匯出的HTML檔案儘可能保留格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040406Z" creationid="MarkHung" creationdate="20180224T044132Z">
+        <seg>這些古怪點代表LibreOffice匯出的&lt;f0&gt;HTML&lt;/f0&gt;檔案儘可能保留格式設定。</seg>
       </tuv>
     </tu>
     <tu>
