@@ -4906,8 +4906,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Indicate n&lt;/f0&gt;ew paragraphs by either a first line indent or else an extra space between paragraphs.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082826Z" creationid="Franklin Weng" creationdate="20180303T082826Z">
-        <seg>&lt;f0&gt;引文中的新段落&lt;/f0&gt;可以用第一行縮排，或是在段跟段中間加上額外的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035214Z" creationid="Franklin Weng" creationdate="20180303T082826Z">
+        <seg>&lt;f0&gt;新的段落&lt;/f0&gt;可以用第一行縮排，或是在段落跟段落中間加入額外的間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7429,8 +7429,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The extra indentation is used instead of quotation marks.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082739Z" creationid="Franklin Weng" creationdate="20180303T082739Z">
-        <seg>&lt;f0&gt;額外的縮排用來取代引號。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035032Z" creationid="Franklin Weng" creationdate="20180303T082739Z">
+        <seg>&lt;f0&gt;額外的縮排空間目的是要取代引號。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36679,8 +36679,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The indicator is not necessarily the same as the one used in the rest of the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084632Z" creationid="Franklin Weng" creationdate="20180303T082845Z">
-        <seg>這種區隔段落的方式不必跟內文一樣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035207Z" creationid="Franklin Weng" creationdate="20180303T082845Z">
+        <seg>引文區塊中用來區隔段落的方式不必跟內文一樣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42971,8 +42971,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Writer includes a &lt;f0&gt;Quotations&lt;/f0&gt; paragraph style by default, although you might prefer a custom style with a name like &lt;f1&gt;Block Quotation&lt;/f1&gt; for greater clarity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T083016Z" creationid="Franklin Weng" creationdate="20180303T083016Z">
-        <seg>Writer 中預設有包含一個「&lt;f0&gt;引文&lt;/f0&gt;」段落樣式，當然你可能會比較想自己做一個樣式並命名為「&lt;f1&gt;引文區塊&lt;/f1&gt;」來做更清楚的區隔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035321Z" creationid="Franklin Weng" creationdate="20180303T083016Z">
+        <seg>Writer中預設有一個「&lt;f0&gt;引文&lt;/f0&gt;」段落樣式，當然你可能會比較想自己設一個樣式，並命名為「&lt;f1&gt;引文區塊&lt;/f1&gt;」之類以更清楚區隔出來。</seg>
       </tuv>
     </tu>
     <tu>
