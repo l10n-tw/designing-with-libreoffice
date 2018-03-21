@@ -8197,8 +8197,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Unfortunately,&lt;/f0&gt; they also mean that LibreOffice does not produce clean &lt;f1&gt;HTML&lt;/f1&gt; – that is, files with only &lt;f2&gt;HTML&lt;/f2&gt; tags that are easy to use in other applications.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T083148Z" creationid="MarkHung" creationdate="20180224T044147Z">
-        <seg>不幸的是，也代表著LibreOffice無法產生乾淨的HTML檔 – 也就是只包含HTML標籤，讓其他應用程式也方便使用的檔案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040425Z" creationid="MarkHung" creationdate="20180224T044147Z">
+        <seg>但不幸的是，這也代表LibreOffice無法產生乾淨的HTML檔 – 也就是只包含HTML標籤，讓其他應用程式也方便使用的檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38417,8 +38417,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These peculiarities mean that &lt;f0&gt;HTML&lt;/f0&gt; files exported from LibreOffice preserve as much of the formatting as possible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040406Z" creationid="MarkHung" creationdate="20180224T044132Z">
-        <seg>這些古怪點代表LibreOffice匯出的&lt;f0&gt;HTML&lt;/f0&gt;檔案儘可能保留格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040454Z" creationid="MarkHung" creationdate="20180224T044132Z">
+        <seg>這些古怪之處代表LibreOffice儘可能在匯出的&lt;f0&gt;HTML&lt;/f0&gt;檔案中保留格式設定。</seg>
       </tuv>
     </tu>
     <tu>
