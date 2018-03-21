@@ -1159,8 +1159,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;Notice that you cannot save an &lt;f6&gt;HTML&lt;/f6&gt; document &lt;f7&gt;using &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Templates &gt; Save As Template.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; If you try, you receive no error message, but nothing is saved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045011Z" creationid="MarkHung" creationdate="20180224T045011Z">
-        <seg>注意你無法使用「範本 &gt; 另存為範本」儲存儲存HTML文件如果你嘗試，不會有錯誤訊息，也不會儲存任何檔案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T173632Z" creationid="MarkHung" creationdate="20180224T045011Z">
+        <seg>注意，你不能用「&lt;f8&gt;&lt;f9&gt;範本 &gt; 另存為範本&lt;/f9&gt;&lt;/f8&gt;」儲存HTML文件。如果你嘗試的話，雖然不會有錯誤訊息，但其實沒有儲存任何檔案。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4794,8 +4794,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In other words, design as though you are using the plainest possible&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; HTML.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044957Z" creationid="MarkHung" creationdate="20180224T044957Z">
-        <seg>換句話說，彷彿你只使用最平實的 HTML一般地設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T173215Z" creationid="MarkHung" creationdate="20180224T044957Z">
+        <seg>換句話說，請只用最平實的方法設計&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6458,8 +6458,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save the document by selecting&lt;/f0&gt; &lt;f1&gt;File &gt; Save as &lt;/f1&gt;&lt;f2&gt;and selecting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;HTML Document Template (.ott)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; as the format or file type.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045004Z" creationid="MarkHung" creationdate="20180224T045004Z">
-        <seg>選擇 「檔案 &gt; 另存為」存檔並選擇「HTML文件範本(.ott)」作為「存檔類型」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T173459Z" creationid="MarkHung" creationdate="20180224T045004Z">
+        <seg>選擇 「&lt;f1&gt;檔案 &gt; 另存新檔&lt;/f1&gt;」存檔，並選擇「&lt;f3&gt;&lt;f4&gt;HTML文件範本 (.ott)&lt;/f4&gt;&lt;/f3&gt;」作為「存檔類型」。（？？？6.0中找不到這個選項，如果沒有就要改寫。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17348,8 +17348,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Customize only by making changes to the pre-defined paragraph and character styles &lt;f0&gt;listed in the table above.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044928Z" creationid="MarkHung" creationdate="20180224T044915Z">
-        <seg>僅透過修改上面表格列出的預設的段落和字元樣式客制化</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T173019Z" creationid="MarkHung" creationdate="20180224T044915Z">
+        <seg>你僅可修改上面表格中列出的預先定義段落樣式和字元樣式來客製。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24357,8 +24357,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want clean code, avoid using additional styles, using any character or paragraph style that requires a style sheet, or using multiple page, frame, or list styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044950Z" creationid="MarkHung" creationdate="20180224T044950Z">
-        <seg>如果你想要乾淨的代碼，避免使用額外的樣式，使用需要樣式表的字元或段落樣式，或使用多個頁面、外框、或清單樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T173135Z" creationid="MarkHung" creationdate="20180224T044950Z">
+        <seg>如果你想要有乾淨的代碼的話，請避免使用額外樣式、使用需要樣式表的字元樣式或段落樣式、使用多種頁面、外框、或清單樣式……等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25984,8 +25984,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Instead, save the file as an &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;HTML Document Template&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; in a directory specifically set aside for that purpose.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045019Z" creationid="MarkHung" creationdate="20180224T045019Z">
-        <seg>另外，將檔案於特別做為保存範本用目錄另存為HTML文件範本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174032Z" creationid="MarkHung" creationdate="20180224T045019Z">
+        <seg>所以，如果你想要那麼做的話，你應該將該檔案存到專門為這個用途設置的的目錄中，以作為&lt;f11&gt;&lt;f12&gt;HTML文件範本&lt;/f12&gt;&lt;/f11&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28887,8 +28887,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Notice that &lt;f2&gt;the&lt;/f2&gt; &lt;f3&gt;All&lt;/f3&gt; and &lt;f4&gt;HTML&lt;/f4&gt; views are identical.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044909Z" creationid="MarkHung" creationdate="20180224T044909Z">
-        <seg>注意所有及一般檢視是相同的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T172755Z" creationid="MarkHung" creationdate="20180224T044909Z">
+        <seg>注意「&lt;f3&gt;所有樣式&lt;/f3&gt;」和「&lt;f4&gt;HTML樣式&lt;/f4&gt;」檢視畫面是相同的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32002,8 +32002,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;View &gt; Web Layout.&lt;/f0&gt; &lt;f1&gt;This selection displays the file as a web page instead of a printed page.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044939Z" creationid="MarkHung" creationdate="20180224T044908Z">
-        <seg>選擇「檢視 &gt; 網頁」。這個選擇將檔案以網頁而非待列印的頁面顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T172831Z" creationid="MarkHung" creationdate="20180224T044908Z">
+        <seg>選擇「&lt;f0&gt;檢視 &gt; 網頁&lt;/f0&gt;」。這個選項會將檔案以網頁，而非待列印的頁面顯示。</seg>
       </tuv>
     </tu>
     <tu>
