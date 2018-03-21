@@ -5096,8 +5096,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; code is generally best avoided.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044829Z" creationid="MarkHung" creationdate="20180224T044829Z">
-        <seg>一般來說，最好避免LibreOffice的HTML代碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T172000Z" creationid="MarkHung" creationdate="20180224T044829Z">
+        <seg>一般來說，最好避免LibreOffice生成的&lt;f1&gt;&lt;f2&gt;HTML&lt;/f2&gt;&lt;/f1&gt;源始碼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21397,8 +21397,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>How &lt;f0&gt;Character&lt;/f0&gt; styles are mapped to &lt;f1&gt;HTML&lt;/f1&gt; tags.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044811Z" creationid="MarkHung" creationdate="20180224T044811Z">
-        <seg>字元樣式如何對應HTML標籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171933Z" creationid="MarkHung" creationdate="20180224T044811Z">
+        <seg>&lt;f0&gt;字元&lt;/f0&gt;樣式與&lt;f1&gt;HTML&lt;/f1&gt;標籤之間的對應關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22032,8 +22032,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, if you do decide to use it,&lt;/f3&gt; &lt;f4&gt;follow these steps to minimize problems:&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044840Z" creationid="MarkHung" creationdate="20180224T044840Z">
-        <seg>然而，如果你決定使用這個功能， 遵循以下步驟減少問題：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T172022Z" creationid="MarkHung" creationdate="20180224T044840Z">
+        <seg>然而，如果你決定要用這個功能， 請遵循以下步驟以減少問題：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31901,8 +31901,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;File &gt; New &gt; HTML Document.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044849Z" creationid="MarkHung" creationdate="20180224T044849Z">
-        <seg>選擇「檔案 &gt; 新增 &gt; HTML文件」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T172034Z" creationid="MarkHung" creationdate="20180224T044849Z">
+        <seg>選擇「&lt;f0&gt;檔案 &gt; 新增 &gt; HTML文件&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
