@@ -8261,16 +8261,16 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use a&lt;/f0&gt;n equal indentation on the left and right side&lt;f1&gt;s&lt;/f1&gt; of the paragraph, &lt;f2&gt;based on the line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082626Z" creationid="Franklin Weng" creationdate="20180303T082626Z">
-        <seg>在段落的左右側&lt;f0&gt;使用&lt;/f0&gt;相同的縮排大小，&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;這個縮排大小要根據行間距而定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034909Z" creationid="Franklin Weng" creationdate="20180303T082626Z">
+        <seg>&lt;f0&gt;在該段落的左右兩側安排&lt;/f0&gt;相同的縮排大小；&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;這個縮排大小則根據行距而定。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use t&lt;/f0&gt;he same font and font size as for the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084639Z" creationid="Franklin Weng" creationdate="20180303T082502Z">
-        <seg>&lt;f0&gt;使用&lt;/f0&gt;跟內文相同的字型與字型大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034748Z" creationid="Franklin Weng" creationdate="20180303T082502Z">
+        <seg>&lt;f0&gt;使用&lt;/f0&gt;跟內文相同的字型和字型大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27617,8 +27617,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Making the font size smaller &lt;f1&gt;only makes the block harder to read.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082528Z" creationid="Franklin Weng" creationdate="20180303T082528Z">
-        <seg>把字變小&lt;f1&gt;只會讓區塊中的文字更難閱讀。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034814Z" creationid="Franklin Weng" creationdate="20180303T082528Z">
+        <seg>把這段文字變小&lt;f1&gt;只會讓區塊中的引文難以閱讀。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41600,8 +41600,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Usually, 40&lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt;50 points on each side will be about right, the exact width depending on the font size.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082712Z" creationid="Franklin Weng" creationdate="20180303T082712Z">
-        <seg>通常來說，左右兩側各 40&lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt;50 點就可以了，實際的寬度要根據字型大小而定。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035006Z" creationid="Franklin Weng" creationdate="20180303T082712Z">
+        <seg>通常來說，左右兩側各放40&lt;/f2&gt;&lt;f3&gt;–&lt;/f3&gt;&lt;f4&gt;50點寬就可以了，實際的寬度則取決於字型大小而定。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
