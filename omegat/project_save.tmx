@@ -6458,8 +6458,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save the document by selecting&lt;/f0&gt; &lt;f1&gt;File &gt; Save as &lt;/f1&gt;&lt;f2&gt;and selecting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;HTML Document Template (.ott)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; as the format or file type.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T173459Z" creationid="MarkHung" creationdate="20180224T045004Z">
-        <seg>選擇 「&lt;f1&gt;檔案 &gt; 另存新檔&lt;/f1&gt;」存檔，並選擇「&lt;f3&gt;&lt;f4&gt;HTML文件範本 (.ott)&lt;/f4&gt;&lt;/f3&gt;」作為「存檔類型」。（？？？6.0中找不到這個選項，如果沒有就要改寫。）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174224Z" creationid="MarkHung" creationdate="20180224T045004Z">
+        <seg>選擇 「&lt;f1&gt;檔案 &gt; 另存新檔&lt;/f1&gt;」存檔，並選擇「&lt;f3&gt;&lt;f4&gt;ODT文字文件範本 (.ott)&lt;/f4&gt;&lt;/f3&gt;」作為「存檔類型」。（？？？6.0中找不到 HTML 文件範本這個選項，如果沒有就要改寫。）</seg>
       </tuv>
     </tu>
     <tu>
