@@ -6458,8 +6458,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save the document by selecting&lt;/f0&gt; &lt;f1&gt;File &gt; Save as &lt;/f1&gt;&lt;f2&gt;and selecting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;HTML Document Template (.ott)&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; as the format or file type.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174224Z" creationid="MarkHung" creationdate="20180224T045004Z">
-        <seg>選擇 「&lt;f1&gt;檔案 &gt; 另存新檔&lt;/f1&gt;」存檔，並選擇「&lt;f3&gt;&lt;f4&gt;ODT文字文件範本 (.ott)&lt;/f4&gt;&lt;/f3&gt;」作為「存檔類型」。（？？？6.0中找不到 HTML 文件範本這個選項，如果沒有就要改寫。）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174545Z" creationid="MarkHung" creationdate="20180224T045004Z">
+        <seg>選擇 「&lt;f1&gt;檔案 &gt; 另存新檔&lt;/f1&gt;」存檔，並選擇「&lt;f3&gt;&lt;f4&gt;HTML文件 (.html)&lt;/f4&gt;&lt;/f3&gt;」作為「存檔類型」。（？？？6.0中找不到 HTML 文件範本這個選項，如果沒有就要改寫。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7980,8 +7980,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To use&lt;/f0&gt; the template, navigate to the directory &lt;f1&gt;in which the template was saved.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T053908Z" creationid="MarkHung" creationdate="20180224T045042Z">
-        <seg>要使用範本瀏覽保存範本的目錄。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174502Z" creationid="MarkHung" creationdate="20180224T045042Z">
+        <seg>若要使用範本，請瀏覽至先前儲存範本的目錄。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24349,8 +24349,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want clean &lt;f0&gt;HTML&lt;/f0&gt; output, &lt;f1&gt;do one (or both) of the following: Manually remove unnecessary tags or run the file through a tool &lt;/f1&gt;such as &lt;f2&gt;HTML&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;Tidy&lt;f4&gt;.&lt;/f4&gt; In Linux, many major distributions have &lt;f5&gt;HTML&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;Tidy in their repositories.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045027Z" creationid="MarkHung" creationdate="20180224T045027Z">
-        <seg>如果你想清理HTML輸出，依照下一個(或全部)步驟進行： 手動移除非必要的標籤，或透過像是HTML Tidy之類的工具移除標籤，許多主要的發行套件軟體庫都有HTML Tidy。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174408Z" creationid="MarkHung" creationdate="20180224T045027Z">
+        <seg>如果你想清理&lt;f0&gt;HTML&lt;/f0&gt;輸出，請依照下一個（或全部）步驟進行： 手動移除非必要的標籤，或透過&lt;f2&gt;HTML&lt;/f2&gt; Tidy之類的工具移除標籤。許多主要的 GNU/Linux 散布版的軟體庫中都有提供&lt;f5&gt;HTML&lt;/f5&gt; Tidy。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29769,8 +29769,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Open the file in at least one major browser such as Chrome, Firefox, &lt;f0&gt;or&lt;/f0&gt; Internet Explorer to see whether any display problems exist.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045033Z" creationid="MarkHung" creationdate="20180224T045033Z">
-        <seg>在至少一個主流瀏覽器(如Chrome、Firefox，或者Internet Explorer)中開啟檔案，檢查是否有任何問題存在。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T174432Z" creationid="MarkHung" creationdate="20180224T045033Z">
+        <seg>在至少一種主流瀏覽器（如Chrome、Firefox、Internet Explorer等）中開啟該檔案，檢查是否有任何問題存在。</seg>
       </tuv>
     </tu>
     <tu>
