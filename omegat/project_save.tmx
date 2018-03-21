@@ -3023,8 +3023,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create a transparency to add quickly (if approximately) another color without formally defining a color in &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T034346Z" creationid="MarkHung" creationdate="20180224T040655Z">
-        <seg>&lt;f0&gt;快速（如果有相近的定義顏色的話）增添其他顏色，而不用到「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 圖表 &gt; 預設色彩&lt;/f2&gt;&lt;/f1&gt;」中正式定義個顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T180817Z" creationid="MarkHung" creationdate="20180224T040655Z">
+        <seg>&lt;f0&gt;快速（如果有相近的定義顏色的話）增添其他顏色，而不用到「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 色彩&lt;/f2&gt;&lt;/f1&gt;」中正式定義個顏色。（？？？現在6.0找不到這個選項了，要改寫～）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10298,8 +10298,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;See “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Error: Reference source not found&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;,” page &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Error: Reference source not found&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T020234Z" creationid="Franklin Weng" creationdate="20180303T084729Z">
-        <seg>&lt;f2&gt;請參閱〈&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Error: Reference source not found&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;〉，第 &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Error: Reference source not found&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;頁。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T180507Z" creationid="Franklin Weng" creationdate="20180303T084729Z">
+        <seg>&lt;f2&gt;請參閱〈&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Error: Reference source not found&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;〉，第&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Error: Reference source not found&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;頁。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23045,8 +23045,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If &lt;f0&gt;not&lt;/f0&gt;, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f1&gt; to add it as a custom color, &lt;f2&gt;or make adjustments on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Transparency&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab (see “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Setting transparency&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;,” page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;).&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T021017Z" creationid="MarkHung" creationdate="20180224T040240Z">
-        <seg>如果還&lt;f0&gt;沒有&lt;/f0&gt;這個顏色，就到「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 圖表 &gt; 預設色彩 &gt; 色表&lt;/f1&gt;」中加入自訂色彩，或者在 「&lt;f3&gt;&lt;f4&gt;透明/透明度&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁中調整（請見〈&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;設定透明度&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;〉，第&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;)。&lt;/f11&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T180524Z" creationid="MarkHung" creationdate="20180224T040240Z">
+        <seg>如果還&lt;f0&gt;沒有&lt;/f0&gt;這個顏色，就到「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 圖表 &gt; 預設色彩 &gt; 色表&lt;/f1&gt;」中加入自訂色彩，或者在 「&lt;f3&gt;&lt;f4&gt;透明/透明度&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁中調整（請見〈&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;設定透明度&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;〉，第&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;頁）。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
