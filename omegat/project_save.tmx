@@ -3999,8 +3999,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;HTML&lt;/f0&gt; has never been &lt;f1&gt;well&lt;/f1&gt; integrated into LibreOffice Writer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044015Z" creationid="MarkHung" creationdate="20180224T044015Z">
-        <seg>HTML從未妥善整合至LibreOffice Writer中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035430Z" creationid="MarkHung" creationdate="20180224T044015Z">
+        <seg>&lt;f0&gt;HTML&lt;/f0&gt;從未妥善整合到LibreOffice Writer中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26128,8 +26128,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It also includes &lt;f4&gt;View &gt; HTML Source&lt;/f4&gt; so you can see the code with which you are working.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044028Z" creationid="MarkHung" creationdate="20180224T044028Z">
-        <seg>他也包含「檢視 &gt; HTML Source」，讓你觀察作業中的代碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035714Z" creationid="MarkHung" creationdate="20180224T044028Z">
+        <seg>Writer也有「&lt;f4&gt;檢視 &gt; HTML Source&lt;/f4&gt;」，讓你觀察作業中的代碼。（？？？找不到在哪裡，若確定無則刪除。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29465,8 +29465,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>On the one hand, Writer includes &lt;f0&gt;View &gt; Web Layout &lt;/f0&gt;so you can have a&lt;f1&gt;n&lt;/f1&gt; approximation of how an &lt;f2&gt;HTML&lt;/f2&gt; page looks, &lt;f3&gt;but the view is not always reliable&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044022Z" creationid="MarkHung" creationdate="20180224T044022Z">
-        <seg>另一方面，Writer包含「檢視 &gt; 網頁」，讓你可以概觀HTML網頁顯示的結果，但是檢視功能並非總是可靠。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035603Z" creationid="MarkHung" creationdate="20180224T044022Z">
+        <seg>另一方面，Writer提供「&lt;f0&gt;檢視 &gt; 網頁&lt;/f0&gt;」，讓你可以概觀HTML網頁顯示的大略成果，但檢視功能並不一定可靠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42971,8 +42971,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Writer includes a &lt;f0&gt;Quotations&lt;/f0&gt; paragraph style by default, although you might prefer a custom style with a name like &lt;f1&gt;Block Quotation&lt;/f1&gt; for greater clarity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035321Z" creationid="Franklin Weng" creationdate="20180303T083016Z">
-        <seg>Writer中預設有一個「&lt;f0&gt;引文&lt;/f0&gt;」段落樣式，當然你可能會比較想自己設一個樣式，並命名為「&lt;f1&gt;引文區塊&lt;/f1&gt;」之類以更清楚區隔出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035405Z" creationid="Franklin Weng" creationdate="20180303T083016Z">
+        <seg>Writer中預設有一個「&lt;f0&gt;引文&lt;/f0&gt;」段落樣式，當然你可能比較想自己設一個樣式，並命名為「&lt;f1&gt;引文區塊&lt;/f1&gt;」之類會更清楚明白。</seg>
       </tuv>
     </tu>
     <tu>
