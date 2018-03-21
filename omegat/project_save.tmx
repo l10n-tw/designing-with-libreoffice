@@ -23045,8 +23045,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If &lt;f0&gt;not&lt;/f0&gt;, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Colors&lt;/f1&gt; to add it as a custom color, &lt;f2&gt;or make adjustments on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Transparency&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab (see “&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;Setting transparency&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;,” page &lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;).&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T180524Z" creationid="MarkHung" creationdate="20180224T040240Z">
-        <seg>如果還&lt;f0&gt;沒有&lt;/f0&gt;這個顏色，就到「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 圖表 &gt; 預設色彩 &gt; 色表&lt;/f1&gt;」中加入自訂色彩，或者在 「&lt;f3&gt;&lt;f4&gt;透明/透明度&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁中調整（請見〈&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;設定透明度&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;〉，第&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;頁）。&lt;/f11&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T181014Z" creationid="MarkHung" creationdate="20180224T040240Z">
+        <seg>如果還&lt;f0&gt;沒有&lt;/f0&gt;這個顏色，就到「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice &gt; 色彩&lt;/f1&gt;」中加入自訂色彩（？？？現在6.0中找不到這個選項了喔，要改寫），或者在 「&lt;f3&gt;&lt;f4&gt;透明/透明度&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」標籤頁中調整（請見〈&lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;設定透明度&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;〉，第&lt;/f8&gt;&lt;f9&gt;&lt;bf10&gt;1&lt;/bf10&gt;&lt;/f9&gt;&lt;f11&gt;頁）。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23238,8 +23238,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If so, &lt;f1&gt;begin by creating&lt;/f1&gt; the colors in &lt;f2&gt;Tools &gt; Options &gt; Colors&lt;/f2&gt; so they are available for uses such as table borders and headings in color documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042443Z" creationid="Franklin Weng" creationdate="20171213T124015Z">
-        <seg>如果有，&lt;f1&gt;那麼可以到&lt;/f1&gt;「&lt;f2&gt;工具 &gt; 選項 &gt; 應用程式色彩&lt;/f2&gt;」中選擇企業識別色，這樣彩色文件中的表格邊框、欄位背景等就可以使用這些顏色。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T180950Z" creationid="Franklin Weng" creationdate="20171213T124015Z">
+        <seg>如果有，&lt;f1&gt;那麼可以到&lt;/f1&gt;「&lt;f2&gt;工具 &gt; 選項 &gt; 色彩&lt;/f2&gt;」（？？6.0中找不到這個選項，真找不到就要改寫）中選擇企業識別色，這樣彩色文件中的表格邊框、欄位背景等就可以使用這些顏色。</seg>
       </tuv>
     </tu>
     <tu>
