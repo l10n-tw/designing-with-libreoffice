@@ -7855,8 +7855,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To add to the confusion&lt;/f0&gt;, &lt;f1&gt;HTML&lt;/f1&gt; is treated in a very individualist way.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044056Z" creationid="MarkHung" creationdate="20180224T044056Z">
-        <seg>更讓人困惑的是，HTML有獨特的處理方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035833Z" creationid="MarkHung" creationdate="20180224T044056Z">
+        <seg>&lt;f0&gt;更加令人困惑的是，&lt;/f0&gt;&lt;f1&gt;HTML&lt;/f1&gt;有自己的獨特處理方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29489,8 +29489,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>On the other hand, you cannot save &lt;f0&gt;files as&lt;/f0&gt; &lt;f1&gt;HTML&lt;/f1&gt; in the template manager.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044035Z" creationid="MarkHung" creationdate="20180224T044035Z">
-        <seg>另一方面，你不能在「管理範本」中將檔案另存為HTML。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T035743Z" creationid="MarkHung" creationdate="20180224T044035Z">
+        <seg>另一方面，你不能在範本管理員中將檔案另存為&lt;f1&gt;HTML&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42599,8 +42599,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>While L&lt;f2&gt;i&lt;/f2&gt;breOffice uses &lt;f3&gt;File &gt; Document Properties&lt;/f3&gt; to create a thorough collection of meta-tags, it also converts all graphics to .jpegs, with no provision for doing otherwise.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044103Z" creationid="MarkHung" creationdate="20180224T044103Z">
-        <seg>LibreOfficeg使用「檔案 &gt; 屬性」建立完整的meta標籤，他也將所有的圖形轉為.jpeg格式，而不提供其他選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T040043Z" creationid="MarkHung" creationdate="20180224T044103Z">
+        <seg>LibreOfficeg會用「&lt;f3&gt;檔案 &gt; 屬性&lt;/f3&gt;」做出完整的 meta 標籤，也會將所有的圖形轉為.jpeg格式，但不提供其他選擇。</seg>
       </tuv>
     </tu>
     <tu>
