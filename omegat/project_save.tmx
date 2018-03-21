@@ -553,8 +553,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;The standard format for a block quotation &lt;f1&gt;is&lt;/f1&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082350Z" creationid="Franklin Weng" creationdate="20180303T082350Z">
-        <seg>&lt;/f0&gt;引文區塊的標準格式設定為：&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034428Z" creationid="Franklin Weng" creationdate="20180303T082350Z">
+        <seg>&lt;/f0&gt;引文區塊的標準格式為：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3265,8 +3265,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Do not use&lt;/f0&gt; quotation marks, unless someone is &lt;f1&gt;quoted directly or speaking&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T082433Z" creationid="Franklin Weng" creationdate="20180303T082433Z">
-        <seg>&lt;f0&gt;不要用&lt;/f0&gt;引號，除非直接指明某人或是引文為他所說的話。&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034735Z" creationid="Franklin Weng" creationdate="20180303T082433Z">
+        <seg>&lt;f0&gt;不要用&lt;/f0&gt;引號，除非直接引用某人，或引文為某人所說的話。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8076,8 +8076,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Typically, the paragraph style for a block quote is the child of the body text style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084653Z" creationid="Franklin Weng" creationdate="20180303T082328Z">
-        <seg>&lt;f0&gt;通常，引文區塊的段落樣式會是從內文樣式衍生出來的子樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034356Z" creationid="Franklin Weng" creationdate="20180303T082328Z">
+        <seg>&lt;f0&gt;一般來說，引文區塊的段落樣式會沿用內文樣式衍生出來的子樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31072,8 +31072,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Readers may &lt;f0&gt;wonder if the emphasis is misplaced &lt;/f0&gt;if a block quot&lt;f1&gt;ation&lt;/f1&gt; is not especially relevant.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034309Z" creationid="Franklin Weng" creationdate="20180303T082301Z">
-        <seg>如果特別放在區塊中的引文沒有什麼重要的，或者和正文無關的話，讀者可能會懷疑是不是搞錯重點了。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T034434Z" creationid="Franklin Weng" creationdate="20180303T082301Z">
+        <seg>如果特別放在區塊中的引文沒有什麼重要的，或者和正文無關的話，讀者可能會懷疑是不是搞錯重點了。</seg>
       </tuv>
     </tu>
     <tu>
