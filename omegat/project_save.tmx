@@ -3103,8 +3103,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;D&lt;/f0&gt;isplays as an italic font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044657Z" creationid="MarkHung" creationdate="20180224T044657Z">
-        <seg>顯示斜體字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171754Z" creationid="MarkHung" creationdate="20180224T044657Z">
+        <seg>顯示義大利體字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13681,8 +13681,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Appears in the web browser in a monospaced font (such as Courier).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044544Z" creationid="MarkHung" creationdate="20180224T044544Z">
-        <seg>在瀏覽器中以等寬字形(如Courier)呈現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171406Z" creationid="MarkHung" creationdate="20180224T044544Z">
+        <seg>在網頁瀏覽器中以等寬字型（例如Courier）呈現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17492,8 +17492,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Defaults to default font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044731Z" creationid="MarkHung" creationdate="20180224T044731Z">
-        <seg>使用預設字形。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171858Z" creationid="MarkHung" creationdate="20180224T044731Z">
+        <seg>使用預設字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17909,8 +17909,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Displays default font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044645Z" creationid="MarkHung" creationdate="20180224T044645Z">
-        <seg>顯示預設字形。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171741Z" creationid="MarkHung" creationdate="20180224T044645Z">
+        <seg>顯示預設字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21405,8 +21405,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>How &lt;f0&gt;P&lt;/f0&gt;aragraph styles are mapped to &lt;f1&gt;HTML&lt;/f1&gt; tags.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045306Z" creationid="MarkHung" creationdate="20180224T045306Z">
-        <seg>段落樣式如何對應至HTML標籤</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171731Z" creationid="MarkHung" creationdate="20180224T045306Z">
+        <seg>段落樣式與&lt;f1&gt;HTML&lt;/f1&gt;標籤之間的對應關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25822,8 +25822,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Indents the text &lt;f0&gt;on both margins.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044557Z" creationid="MarkHung" creationdate="20180224T044557Z">
-        <seg>在兩個邊界內縮文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171455Z" creationid="MarkHung" creationdate="20180224T044557Z">
+        <seg>兩側的邊距皆向內縮排文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30775,8 +30775,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Preformatted text</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084431Z" creationid="MarkHung" creationdate="20180224T044532Z">
-        <seg>預先編排好的文字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171341Z" creationid="MarkHung" creationdate="20180224T044532Z">
+        <seg>已先格式設定文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -31024,8 +31024,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Quotations</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044549Z" creationid="MarkHung" creationdate="20180224T044549Z">
-        <seg>引言</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171420Z" creationid="MarkHung" creationdate="20180224T044549Z">
+        <seg>引文</seg>
       </tuv>
     </tu>
     <tu>
@@ -31137,8 +31137,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>References style sheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044717Z" creationid="MarkHung" creationdate="20180224T044717Z">
-        <seg>參考樣式表</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171839Z" creationid="MarkHung" creationdate="20180224T044717Z">
+        <seg>參考樣式表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34392,8 +34392,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Text body</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180303T084454Z" creationid="Franklin Weng" creationdate="20180303T084454Z">
-        <seg>本文</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171521Z" creationid="Franklin Weng" creationdate="20180303T084454Z">
+        <seg>內文</seg>
       </tuv>
     </tu>
     <tu>
@@ -35996,8 +35996,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The default HTML tag for contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045247Z" creationid="MarkHung" creationdate="20180224T045247Z">
-        <seg>內容預設對應的HTML標籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171700Z" creationid="MarkHung" creationdate="20180224T045247Z">
+        <seg>內容的預設HTML標籤。</seg>
       </tuv>
     </tu>
     <tu>
