@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;B&lt;f1&gt;eing included in the outline styles means that a paragraph using that style is listed in the &lt;/f1&gt;Navigator, and used automatically in features like tables of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T111056Z" creationid="MarkHung" creationdate="20180224T042638Z">
-        <seg>一旦列入大綱樣式，則採用該樣式的段落會列在「助手」當中，並且在目錄這一類功能中可以自動使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065703Z" creationid="MarkHung" creationdate="20180224T042638Z">
+        <seg>一旦列入大綱樣式，則採用該樣式的段落會列在「助手」當中，並且在目次這一類功能中可以自動使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2644,8 +2644,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Captions are automatically detected and used to create the content entries.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T134613Z" creationid="zerng07" creationdate="20180209T134613Z">
-        <seg>&lt;f0&gt;圖表標示會自動偵測出來，並製作成目錄條目。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065753Z" creationid="zerng07" creationdate="20180209T134613Z">
+        <seg>&lt;f0&gt;圖表標示會自動偵測出來，並製作成列表條目。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19680,8 +19680,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, &lt;/f0&gt;LibreOffice uses tabs to position text in relation to bullets and numbers in list styles, and as an option in customizing tables of contents &lt;f1&gt;or in the use of a conditional style.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T141822Z" creationid="MarkHung" creationdate="20180224T041631Z">
-        <seg>舉例來說，LibreOffice使用定位點定下文字相對於清單樣式中項目符號及編號的位置，也作為設定目錄用的選項，或是用在條件式樣式設定之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065657Z" creationid="MarkHung" creationdate="20180224T041631Z">
+        <seg>舉例來說，LibreOffice使用定位點定下文字相對於清單樣式中項目符號及編號的位置，也作為設定目次用的選項，或是用在條件式樣式設定之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19720,8 +19720,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;o&lt;/f1&gt;utline &lt;f2&gt;l&lt;/f2&gt;evels &lt;t3/&gt;determine which paragraph styles are displayed by default in the Navigator &lt;f4&gt;under &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Headings&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;,&lt;/f7&gt; and in a table of contents &lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T135812Z" creationid="Franklin Weng" creationdate="20180303T030347Z">
-        <seg>例如，大綱層級決定了哪一個段落樣式會不會顯示在「助手」視窗中的「&lt;f5&gt;&lt;f6&gt;標題&lt;/f6&gt;&lt;/f5&gt;」之下，以及出現在目錄之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065709Z" creationid="Franklin Weng" creationdate="20180303T030347Z">
+        <seg>例如，大綱層級決定了哪一個段落樣式會不會顯示在「助手」視窗中的「&lt;f5&gt;&lt;f6&gt;標題&lt;/f6&gt;&lt;/f5&gt;」之下，以及出現在目次之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24202,8 +24202,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you set the&lt;f0&gt; First &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;l&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;ine&lt;/f3&gt; &lt;f4&gt;field&lt;/f4&gt; to &lt;f5&gt;Automatic&lt;/f5&gt;, you can largely ignore t&lt;f6&gt;abs, except for features like tables of contents that rely upon them for some features.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005020Z" creationid="zerng07" creationdate="20180125T084807Z">
-        <seg>如果你把「&lt;f0&gt;第一行&lt;/f0&gt;&lt;f4&gt;」欄位設為「&lt;/f4&gt;&lt;f5&gt;自動&lt;/f5&gt;」的話，你就能忘掉用Tab鍵縮排這件事了，&lt;f6&gt;但目錄這類有些功能會用到Tab鍵的情況除外。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065647Z" creationid="zerng07" creationdate="20180125T084807Z">
+        <seg>如果你把「&lt;f0&gt;第一行&lt;/f0&gt;&lt;f4&gt;」欄位設為「&lt;/f4&gt;&lt;f5&gt;自動&lt;/f5&gt;」的話，你就能忘掉用Tab鍵縮排這件事了，&lt;f6&gt;但目次這類有些功能會用到Tab鍵的情況除外。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24266,8 +24266,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you use an automatic first line indent&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in many cases the only reasons to use tab stops are from habit or because LibreOffice uses them in an advanced feature such as tables of contents.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142754Z" creationid="MarkHung" creationdate="20180224T040927Z">
-        <seg>許多情形下用定位點唯一的原因是習慣使然，或者LibreOffice有些進階功能會用到 Tab 鍵製表，像是目錄這部分。但如果你有用自動第一行縮排的話，</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065653Z" creationid="MarkHung" creationdate="20180224T040927Z">
+        <seg>許多情形下用定位點唯一的原因是習慣使然，或者LibreOffice有些進階功能會用到 Tab 鍵製表，像是目次這部分。但如果你有用自動第一行縮排的話，</seg>
       </tuv>
     </tu>
     <tu>
@@ -25605,8 +25605,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the same way, headings let you generate a &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents &lt;f2&gt;with a minimum of settings&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171212T040611Z" creationid="zerng07" creationdate="20171212T040604Z">
-        <seg>同樣地，標題樣式能讓你&lt;f2&gt;幾乎不用什麼設定&lt;/f2&gt;就能做出文件目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065608Z" creationid="zerng07" creationdate="20171212T040604Z">
+        <seg>同樣地，標題樣式能讓你&lt;f2&gt;幾乎不用什麼設定&lt;/f2&gt;就能做出文件目次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34047,8 +34047,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Styles that don’t fit into any other category, such as &lt;f0&gt;Caption&lt;/f0&gt;,&lt;f1&gt; Footer Left, &lt;/f1&gt;&lt;f2&gt;or&lt;/f2&gt; &lt;f3&gt;Table Contents&lt;/f3&gt; are listed as &lt;f4&gt;Special Styles.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T155405Z" creationid="zerng07" creationdate="20171224T155126Z">
-        <seg>還有一些無法分類到任何其他檢視畫面中的樣式，例如&lt;f0&gt;圖表標示&lt;/f0&gt;、&lt;f1&gt;左頁頁尾&lt;/f1&gt;、&lt;f3&gt;目錄&lt;/f3&gt;……等，則列在「&lt;f4&gt;特殊樣式&lt;/f4&gt;」檢視之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065614Z" creationid="zerng07" creationdate="20171224T155126Z">
+        <seg>還有一些無法分類到任何其他檢視畫面中的樣式，例如&lt;f0&gt;圖表標示&lt;/f0&gt;、&lt;f1&gt;左頁頁尾&lt;/f1&gt;、&lt;f3&gt;目次&lt;/f3&gt;……等，則列在「&lt;f4&gt;特殊樣式&lt;/f4&gt;」檢視之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34191,8 +34191,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Table Contents</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T044615Z" creationid="MarkHung" creationdate="20180224T044604Z">
-        <seg>目錄</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065713Z" creationid="MarkHung" creationdate="20180224T044604Z">
+        <seg>目次</seg>
       </tuv>
     </tu>
     <tu>
@@ -34247,8 +34247,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Tables of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T133125Z" creationid="Jeff Huang" creationdate="20180124T133125Z">
-        <seg>目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065724Z" creationid="Jeff Huang" creationdate="20180124T133125Z">
+        <seg>目次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43010,8 +43010,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Writer’s caption options are especially useful when you plan on a table of contents for particular types of objects.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T134532Z" creationid="zerng07" creationdate="20180209T134532Z">
-        <seg>尤其當你在規劃特定物件類型的目錄時，Writer的圖表標示選項更是好用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065816Z" creationid="zerng07" creationdate="20180209T134532Z">
+        <seg>尤其當你在規劃特定物件類型的列表時，Writer的圖表標示選項更是好用。</seg>
       </tuv>
     </tu>
     <tu>
