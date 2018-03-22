@@ -1917,8 +1917,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Admittedly, current versions of Calc can contain over a million rows, and 1024 columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140602Z" creationid="Franklin Weng" creationdate="20180129T140602Z">
-        <seg>&lt;f0&gt;雖然目前的 Calc 版本在一個工作表內可以有超過一百萬列與 1024 欄，</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T094758Z" creationid="Franklin Weng" creationdate="20180129T140602Z">
+        <seg>&lt;f0&gt;雖然目前的Calc版本在一個工作表內可以有超過一百萬列與 1024欄，</seg>
       </tuv>
     </tu>
     <tu>
@@ -21894,8 +21894,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, even with modern computer memory, a database remains&lt;/f0&gt; a more &lt;f1&gt;efficient&lt;/f1&gt; way of storing, retrieving, and manipulating &lt;t2/&gt;data.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T140715Z" creationid="Franklin Weng" creationdate="20180129T140715Z">
-        <seg>但是即使是有最新的電腦記憶體，&lt;/f0&gt;它在儲存、取出與處理資料時仍然&lt;f1&gt;不會比資料庫更有效率。&lt;/f1&gt;&lt;t2/&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T094856Z" creationid="Franklin Weng" creationdate="20180129T140715Z">
+        <seg>但即便是有最新的電腦記憶體，&lt;/f0&gt;Calc在儲存、取出與處理資料時仍然不比資料庫來得更&lt;f1&gt;有效率&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
