@@ -1529,8 +1529,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;TOC&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;s in LibreOffice &lt;/f2&gt;default to a format that has become standard in many word processors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T094204Z" creationid="zerng07" creationdate="20180302T135401Z">
-        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;外觀是許多文書處理器的標準樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065228Z" creationid="zerng07" creationdate="20180302T135401Z">
+        <seg>LibreOffice中的預設&lt;f0&gt;&lt;f1&gt;目次&lt;/f1&gt;&lt;/f0&gt;外觀是許多文書處理器的標準樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3047,8 +3047,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Creating a t&lt;/f0&gt;able &lt;f1&gt;of contents&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150948Z" creationid="zerng07" creationdate="20180227T150948Z">
-        <seg>&lt;f0&gt;製作&lt;/f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065045Z" creationid="zerng07" creationdate="20180227T150948Z">
+        <seg>&lt;f0&gt;製作&lt;/f0&gt;&lt;f1&gt;目次&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,8 +3902,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;o to&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Index/Tables &gt; Type&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;and select &lt;f7&gt;the type of table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074109Z" creationid="zerng07" creationdate="20180302T073301Z">
-        <seg>前往「&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 類型&lt;/f2&gt;」，並選取&lt;f7&gt;列表的類型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065103Z" creationid="zerng07" creationdate="20180302T073301Z">
+        <seg>前往「&lt;f2&gt;插入 &gt; 目次與索引 &gt; 目次、索引或參考文獻 &gt; 類型&lt;/f2&gt;」，並選取&lt;f7&gt;列表的類型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3943,8 +3943,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Go to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables &gt; Columns &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;and set the table to use two columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074429Z" creationid="zerng07" creationdate="20180302T145821Z">
-        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄和索引 &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，將列表設定為使用兩欄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065315Z" creationid="zerng07" creationdate="20180302T145821Z">
+        <seg>&lt;f0&gt;前往「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目次與索引 &gt; 目次、索引或參考文獻 &gt; 多欄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，將列表設定為使用兩欄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4538,8 +4538,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you have regularly generated &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOCs&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; using word processors, you might not see anything wrong with the default &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;TOC&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; design in Writer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143657Z" creationid="zerng07" creationdate="20180302T135740Z">
-        <seg>&lt;f0&gt;如果你常用文書處理器製作&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的話，可能看不出Writer中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目錄&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;設計有什麼錯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065238Z" creationid="zerng07" creationdate="20180302T135740Z">
+        <seg>&lt;f0&gt;如果你常用文書處理器製作&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目次&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的話，可能看不出Writer中的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目次&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;設計有什麼錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,8 +4915,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Insert Index/Table&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;includes tools for extensive customization of tables of contents and similar tables.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T035337Z" creationid="zerng07" creationdate="20180227T145811Z">
-        <seg>「&lt;f0&gt;目錄、索引或參考文獻&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;」中提供製作目錄與類似表格的多選項自訂工具。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065020Z" creationid="zerng07" creationdate="20180227T145811Z">
+        <seg>「&lt;f0&gt;目次、索引或參考文獻&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;」中提供製作目次與類似表格的多選項自訂工具。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,8 +6338,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;elect&lt;f1&gt; Index/Tables &gt; Additional Styles &lt;/f1&gt;to &lt;f2&gt;add&lt;/f2&gt; &lt;f3&gt;additional &lt;/f3&gt;paragraph styles to &lt;f4&gt;the table of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073531Z" creationid="zerng07" creationdate="20180302T073531Z">
-        <seg>選取「&lt;f1&gt;製作來源 &gt; 其他樣式&lt;/f1&gt;」來為目錄加入&lt;f3&gt;額外的&lt;/f3&gt;段落樣式&lt;f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065107Z" creationid="zerng07" creationdate="20180302T073531Z">
+        <seg>選取「&lt;f1&gt;製作來源 &gt; 其他樣式&lt;/f1&gt;」來為目次加入&lt;f3&gt;額外的&lt;/f3&gt;段落樣式&lt;f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7016,8 +7016,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he spacing of all tabs is added to the &lt;f1&gt;Before text &lt;/f1&gt;indentation on the &lt;f2&gt;Indents and Spacing&lt;/f2&gt; tab for each entry’s paragraph style (&lt;f3&gt;Contents 1-10&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T132912Z" creationid="zerng07" creationdate="20180302T132912Z">
-        <seg>所有製表跳格 (Tab) 的間隔空間都會加到各條目段落樣式（&lt;f3&gt;目錄 1-10&lt;/f3&gt;）「&lt;f2&gt;縮排和間距&lt;/f2&gt;」標籤頁中的「&lt;f1&gt;文字之前&lt;/f1&gt;」縮排上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065209Z" creationid="zerng07" creationdate="20180302T132912Z">
+        <seg>所有製表跳格 (Tab) 的間隔空間都會加到各條目段落樣式（&lt;f3&gt;目次 1-10&lt;/f3&gt;）「&lt;f2&gt;縮排和間距&lt;/f2&gt;」標籤頁中的「&lt;f1&gt;文字之前&lt;/f1&gt;」縮排上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14442,8 +14442,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Avoiding the default TOC &lt;f0&gt;design&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T134345Z" creationid="zerng07" creationdate="20180302T134335Z">
-        <seg>避免預設的目錄&lt;f0&gt;設計&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065215Z" creationid="zerng07" creationdate="20180302T134335Z">
+        <seg>避免預設的目次&lt;f0&gt;設計&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17211,8 +17211,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Creating tables &lt;f0&gt;of contents and formatting indexes and bibliographies.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T145856Z" creationid="zerng07" creationdate="20180224T145856Z">
-        <seg>製作目錄&lt;f0&gt;與設定索引和參考文獻的格式。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T064950Z" creationid="zerng07" creationdate="20180224T145856Z">
+        <seg>製作目次&lt;f0&gt;與設定索引和參考文獻的格式。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22486,8 +22486,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, the procedure for building &lt;f2&gt;most&lt;/f2&gt; of them is &lt;f3&gt;similar&lt;/f3&gt; &lt;f4&gt;to the one for creating a table of contents:&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T122608Z" creationid="zerng07" creationdate="20180227T151903Z">
-        <seg>不過，&lt;f2&gt;大多數&lt;/f2&gt;列表的製作步驟都和&lt;f4&gt;目錄&lt;/f4&gt;&lt;f3&gt;類似&lt;/f3&gt;：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065051Z" creationid="zerng07" creationdate="20180227T151903Z">
+        <seg>不過，&lt;f2&gt;大多數&lt;/f2&gt;列表的製作步驟都和&lt;f4&gt;目次&lt;/f4&gt;&lt;f3&gt;類似&lt;/f3&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25805,8 +25805,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Increasing the size of the page number helps some, but &lt;f0&gt;the basic problem remains: T&lt;/f0&gt;he distance from some page entries still make&lt;f1&gt;s&lt;/f1&gt; the &lt;f2&gt;t&lt;/f2&gt;able of &lt;f3&gt;c&lt;/f3&gt;ontents harder to read than necessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T143955Z" creationid="zerng07" creationdate="20180302T143955Z">
-        <seg>加大頁碼的文字大小會有一些幫助，但還是有個&lt;f0&gt;很基本的問題：&lt;/f0&gt;頁碼和條目之間的距離依然讓目錄難閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065248Z" creationid="zerng07" creationdate="20180302T143955Z">
+        <seg>加大頁碼的文字大小會有一些幫助，但還是有個&lt;f0&gt;很基本的問題：&lt;/f0&gt;頁碼和條目之間的距離依然讓目次難閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28822,8 +28822,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Not only does Writer have more &lt;f2&gt;types of &lt;/f2&gt;styles than other word processors, but many advanced features, such as tables of contents and master documents, &lt;f3&gt;take more effort&lt;/f3&gt; to use without styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20170824T061811Z" creationid="zerng07" creationdate="20170817T154644Z">
-        <seg>Writer比起其他文書處理器不單只是有更多&lt;f2&gt;種類&lt;/f2&gt;的樣式，還有許多進階功能，例如目錄和主控文件這些，若不想用樣式來辦&lt;f3&gt;還得多費一番功夫&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T064915Z" creationid="zerng07" creationdate="20170817T154644Z">
+        <seg>Writer比起其他文書處理器不單只是有更多&lt;f2&gt;種類&lt;/f2&gt;的樣式，還有許多進階功能，例如目次和主控文件這些，若不想用樣式來辦&lt;f3&gt;還得多費一番功夫&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33767,8 +33767,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Starting the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOC&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; entry at the left margin and placing the page number against the right margin disassociates them, and the leader dots are needed to try to reconnect them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T140516Z" creationid="zerng07" creationdate="20180302T140014Z">
-        <seg>把&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;條目放在最左邊，然後頁碼放在最右邊的做法，就是要打破兩者之間的關聯，所以頁碼前面還得加一堆點再把兩者連結起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065243Z" creationid="zerng07" creationdate="20180302T140014Z">
+        <seg>把&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目次&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;條目放在最左邊，然後頁碼放在最右邊的做法，就是要打破兩者之間的關聯，所以頁碼前面還得加一堆點再把兩者連結起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34319,8 +34319,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Tasks such as outlining, navigating documents, adding cross- references, or creating tables of contents are possible without the use of paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075040Z" creationid="zerng07" creationdate="20180220T095051Z">
-        <seg>像是擬定大綱、導覽文件、加入交叉參照，或是製作目錄等作業，或許可以不用段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T064931Z" creationid="zerng07" creationdate="20180220T095051Z">
+        <seg>像是擬定大綱、導覽文件、加入交叉參照，或是製作目次等作業，或許可以不用段落樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35346,8 +35346,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The &lt;f2&gt;selections&lt;/f2&gt; are chosen either from the contents of outline &lt;f3&gt;l&lt;/f3&gt;evels&lt;f4&gt; &lt;/f4&gt;or from bookmarks &lt;f5&gt;or markers added manually.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153606Z" creationid="zerng07" creationdate="20180225T153552Z">
-        <seg>「&lt;f2&gt;選取處&lt;/f2&gt;」可取自大綱層級構成的目錄，或是書籤&lt;f5&gt;，抑或是手動加入的標記。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065001Z" creationid="zerng07" creationdate="20180225T153552Z">
+        <seg>「&lt;f2&gt;選取處&lt;/f2&gt;」可取自大綱層級構成的目次，或是書籤&lt;f5&gt;，抑或是手動加入的標記。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36929,8 +36929,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The most common &lt;f0&gt;are&lt;/f0&gt; a table of contents &lt;f1&gt;(TOC),&lt;/f1&gt; &lt;f2&gt;which is created from outline levels.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T150501Z" creationid="zerng07" creationdate="20180227T150356Z">
-        <seg>最常用於目錄&lt;f1&gt;（英文簡稱為 TOC，是 Table of Contents 的縮寫），&lt;/f1&gt;&lt;f2&gt;一般會根據文件的大綱層級製作。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065025Z" creationid="zerng07" creationdate="20180227T150356Z">
+        <seg>最常用於目次&lt;f1&gt;（英文簡稱為 TOC，是 Table of Contents 的縮寫），&lt;/f1&gt;&lt;f2&gt;一般會根據文件的大綱層級製作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37698,8 +37698,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The standard word-processor design for a Table of Contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080759Z" creationid="zerng07" creationdate="20180302T134403Z">
-        <seg>文書處理器的目錄標準設計。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065219Z" creationid="zerng07" creationdate="20180302T134403Z">
+        <seg>文書處理器的目次標準設計。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38533,16 +38533,16 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These styles consist of a heading paragraph style (for instance, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Contents Heading &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;for a table of contents), and styles for each outline level of table entry (such as &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Contents 1-10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; for Index/Tables).&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T124951Z" creationid="zerng07" creationdate="20180302T085824Z">
-        <seg>這些樣式是由一個標題段落樣式（例：「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目錄標題&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」是目錄的標題樣式），和列表條目的各大綱層級樣式（例：「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目錄 1-10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」是目錄的條目樣式）構成。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065123Z" creationid="zerng07" creationdate="20180302T085824Z">
+        <seg>這些樣式是由一個標題段落樣式（例：「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;目次標題&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」是目次的標題樣式），和列表條目的各大綱層級樣式（例：「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;目次 1-10&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」是目次的條目樣式）構成。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>These tools are located at &lt;f1&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables &gt; Entries.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125348Z" creationid="zerng07" creationdate="20180302T125348Z">
-        <seg>這些工具位在「&lt;f1&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻 &gt; 條目」中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065204Z" creationid="zerng07" creationdate="20180302T125348Z">
+        <seg>這些工具位在「&lt;f1&gt;插入 &gt; 目次與索引 &gt; 目次、索引或參考文獻 &gt; 條目」中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40869,8 +40869,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unlike most word processors, LibreOffice provides the tools for customizing each entry for a &lt;f0&gt;TOC&lt;/f0&gt; or similar table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125246Z" creationid="zerng07" creationdate="20180302T125246Z">
-        <seg>與大多數文書處理器不同，LibreOffice有提供自訂目錄 (&lt;f0&gt;TOC&lt;/f0&gt;) 或類似列表用的工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065155Z" creationid="zerng07" creationdate="20180302T125246Z">
+        <seg>與大多數文書處理器不同，LibreOffice有提供自訂目次 (&lt;f0&gt;TOC&lt;/f0&gt;) 或類似列表用的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41047,8 +41047,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use building blocks to customize tables of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T125152Z" creationid="zerng07" creationdate="20180302T125152Z">
-        <seg>使用建構方塊自訂目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065147Z" creationid="zerng07" creationdate="20180302T125152Z">
+        <seg>使用建構方塊自訂目次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41287,8 +41287,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;outline levels&lt;/f0&gt; in &lt;f1&gt;tables and indexes&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T151647Z" creationid="zerng07" creationdate="20180227T145152Z">
-        <seg>在&lt;f1&gt;目錄與索引&lt;/f1&gt;中使用&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065008Z" creationid="zerng07" creationdate="20180227T145152Z">
+        <seg>在&lt;f1&gt;目次與索引&lt;/f1&gt;中使用&lt;f0&gt;大綱層級&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41713,8 +41713,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Usually, you can model the &lt;f0&gt;&lt;f1&gt;Contents &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Heading&lt;/f2&gt; paragraph style on the document’s &lt;f3&gt;&lt;f4&gt;Heading&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 1&lt;/f5&gt; or &lt;f6&gt;2&lt;/f6&gt; style, and the entry styles on &lt;f7&gt;Text Body,&lt;/f7&gt; using the &lt;f8&gt;&lt;f9&gt;Inherit from&lt;/f9&gt;&lt;/f8&gt; field on the &lt;f10&gt;Organizer&lt;/f10&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T090352Z" creationid="zerng07" creationdate="20180302T085852Z">
-        <seg>通常，你可以利用「&lt;f10&gt;統籌概覽&lt;/f10&gt;」標籤頁中「&lt;f8&gt;&lt;f9&gt;繼承自&lt;/f9&gt;&lt;/f8&gt;」欄位，根據文件的「&lt;f3&gt;&lt;f4&gt;標題&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 1&lt;/f5&gt;」或「&lt;f6&gt;標題 2&lt;/f6&gt;」樣式調整「&lt;f0&gt;&lt;f1&gt;目錄&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;標題&lt;/f2&gt;」的段落樣式，以及根據「&lt;f7&gt;內文&lt;/f7&gt;」樣式調整條目的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065135Z" creationid="zerng07" creationdate="20180302T085852Z">
+        <seg>通常，你可以利用「&lt;f10&gt;統籌概覽&lt;/f10&gt;」標籤頁中「&lt;f8&gt;&lt;f9&gt;繼承自&lt;/f9&gt;&lt;/f8&gt;」欄位，根據文件的「&lt;f3&gt;&lt;f4&gt;標題&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; 1&lt;/f5&gt;」或「&lt;f6&gt;標題 2&lt;/f6&gt;」樣式調整「&lt;f0&gt;&lt;f1&gt;目次&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;標題&lt;/f2&gt;」的段落樣式，以及根據「&lt;f7&gt;內文&lt;/f7&gt;」樣式調整條目的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44981,8 +44981,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>“&lt;f0&gt;I&lt;/f0&gt;ndexe&lt;f1&gt;s and Tables”&lt;/f1&gt; &lt;f2&gt;is&lt;/f2&gt; the term LibreOffice uses to describe fields that are generated from the contents of a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T145819Z" creationid="zerng07" creationdate="20180227T145321Z">
-        <seg>「目錄與索引」&lt;f2&gt;是&lt;/f2&gt;LibreOffice中用來描述根據文件內容生成新內容的欄位功能用語。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065012Z" creationid="zerng07" creationdate="20180227T145321Z">
+        <seg>「目次與索引」&lt;f2&gt;是&lt;/f2&gt;LibreOffice中用來描述根據文件內容生成新內容的欄位功能用語。</seg>
       </tuv>
     </tu>
     <tu>
