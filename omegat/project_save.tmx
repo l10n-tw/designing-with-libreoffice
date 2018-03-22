@@ -14122,8 +14122,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Aside from tables and indexes and page breaks, minimize the content that is added to the master document directly, rather than to sub-documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140054Z" creationid="zerng07" creationdate="20180309T140054Z">
-        <seg>除了目錄和表格還有分頁符之外，盡可能減少直接加到主控文件中的文字內容；如果要加的話，應該在子文件中修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T072103Z" creationid="zerng07" creationdate="20180309T140054Z">
+        <seg>除了目次和表格還有分頁符之外，盡可能減少直接加到主控文件中的文字內容；如果要加的話，應該在子文件中修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14738,8 +14738,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Begin with the first sheet, then &lt;f2&gt;add&lt;/f2&gt; other sheets &lt;f3&gt;as necessary&lt;/f3&gt;, right-clicking on the tabs to rename them &lt;f4&gt;to help navigation.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T134004Z" creationid="Franklin Weng" creationdate="20180129T134004Z">
-        <seg>從第一個工作表開始，&lt;f2&gt;必要時&lt;/f2&gt;再新增&lt;f3&gt;其他的工作表&lt;/f3&gt;。只要在工作表標籤頁上點按右鍵就可以重新命名，幫助你&lt;f4&gt;找到你要的分類工作表&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T072256Z" creationid="Franklin Weng" creationdate="20180129T134004Z">
+        <seg>從這第一份工作表開始，&lt;f2&gt;必要時&lt;/f2&gt;再新增&lt;f3&gt;其他工作表&lt;/f3&gt;。只要在工作表標籤上點按右鍵就可以重新命名，取個好名可以幫助你&lt;f4&gt;找到你要的工作表&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
