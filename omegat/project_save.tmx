@@ -3910,8 +3910,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;roup related information &lt;f1&gt;on the same sheet.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T141315Z" creationid="Franklin Weng" creationdate="20180129T141315Z">
-        <seg>將相關的資訊&lt;f0&gt;組合起來&lt;/f0&gt;放在&lt;f1&gt;同一張試算表上。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T105206Z" creationid="Franklin Weng" creationdate="20180129T141315Z">
+        <seg>將有關聯的資訊組合起來，放到&lt;f1&gt;同一份工作表中。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19176,8 +19176,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Follow the basic principles of design described in Chapter 1&lt;f0&gt;3&lt;/f0&gt; – formatting related types of information the same way and in the same order, and positioning t&lt;f1&gt;hem&lt;/f1&gt; close together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184507Z" creationid="Franklin Weng" creationdate="20180204T184507Z">
-        <seg>應用在第 &lt;f0&gt;13&lt;/f0&gt; 章所講的基本設計原則 – 將相關型態的資訊以相同的方式、順序來做格式設定，並且&lt;f1&gt;把它們放靠近一點。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T114244Z" creationid="Franklin Weng" creationdate="20180204T184507Z">
+        <seg>套用第13章所講的基本設計原則——將相關類型的資訊以相同的方式、順序作格式設定，並且&lt;f1&gt;讓它們彼此靠近一點。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26692,8 +26692,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Labels assist users, and are often recognized automatically by Calc.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184157Z" creationid="Franklin Weng" creationdate="20180204T184157Z">
-        <seg>標籤可以協助使用者，而且通常 Calc 會自動辨識。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T105330Z" creationid="Franklin Weng" creationdate="20180204T184157Z">
+        <seg>標籤可以協助使用者，而且Calc通常可以自動識別。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26812,8 +26812,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Leave space for labels – &lt;f0&gt;that is,&lt;/f0&gt; cells that describe each data array.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184123Z" creationid="Franklin Weng" creationdate="20180204T184123Z">
-        <seg>要保留空間給標籤 – &lt;f0&gt;所謂的標籤&lt;/f0&gt;就是內容用來描述每一個資料陣列的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T105303Z" creationid="Franklin Weng" creationdate="20180204T184123Z">
+        <seg>保留空間給標籤——&lt;f0&gt;所謂的標籤，&lt;/f0&gt;就是內容用來描述每一排資料陣列的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41039,8 +41039,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use borders, backgrounds, and empty cells to set apart &lt;f0&gt;one &lt;/f0&gt;data array &lt;f1&gt;from another&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184257Z" creationid="Franklin Weng" creationdate="20180204T184257Z">
-        <seg>用邊框、背景色或空白儲存格來將，&lt;f0&gt;資料陣列&lt;/f0&gt;&lt;f1&gt;區隔開來。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T105410Z" creationid="Franklin Weng" creationdate="20180204T184257Z">
+        <seg>利用邊框、背景色、空白儲存格等，來將資料陣列&lt;f1&gt;區隔開來。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
