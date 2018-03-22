@@ -15798,8 +15798,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cells for totals &lt;f1&gt;might be a different color, and should always be placed &lt;/f1&gt;close to the sales figures &lt;f2&gt;they tally.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T185102Z" creationid="Franklin Weng" creationdate="20180204T185102Z">
-        <seg>總計、小計等儲存格&lt;f1&gt;可能可以用別的背景色彩&lt;/f1&gt;，並且應該放在&lt;f2&gt;靠近它們所表達的圖表附近&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T114705Z" creationid="Franklin Weng" creationdate="20180204T185102Z">
+        <seg>總計、小計等儲存格&lt;f1&gt;或許可以用別的背景色&lt;/f1&gt;，並且始終都該放在&lt;f2&gt;它們所計算的銷售數字附近&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20213,8 +20213,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, if you are recording monthly sales figures, the text of cells &lt;f0&gt;that display&lt;/f0&gt; the sales figures should have the same format.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T184900Z" creationid="Franklin Weng" creationdate="20180204T184900Z">
-        <seg>例如，如果你正在紀錄每月銷售的圖表，那麼&lt;f0&gt;用來顯示&lt;/f0&gt;圖表的文字的儲存格也應該用相同的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T114353Z" creationid="Franklin Weng" creationdate="20180204T184900Z">
+        <seg>例如，如果你正在紀錄每月的銷售數字，那麼&lt;f0&gt;用來展現&lt;/f0&gt;銷售數字的儲存格文字也應該用相同的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
