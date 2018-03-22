@@ -11816,8 +11816,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A list &lt;f0&gt;usually &lt;/f0&gt;consists of cells formatted for text, &lt;f1&gt;not&lt;/f1&gt; numbers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T115826Z" creationid="Franklin Weng" creationdate="20180204T190002Z">
-        <seg>清單&lt;f0&gt;通常&lt;/f0&gt;是由針對文字作格式設定的儲存格組成，&lt;f1&gt;而不是&lt;/f1&gt;數字格式的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T115853Z" creationid="Franklin Weng" creationdate="20180204T190002Z">
+        <seg>清單&lt;f0&gt;通常&lt;/f0&gt;用的是針對文字作格式設定的儲存格，&lt;f1&gt;而不是&lt;/f1&gt;數字格式設定的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14506,8 +14506,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Basically, &lt;f2&gt;a spreadsheet list is a more powerful version of a table in a text document: its structure is meant to make information easier to scan, and to help users see relations between items that would be harder to see if the document consisted only of text.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180204T190136Z" creationid="Franklin Weng" creationdate="20180204T190136Z">
-        <seg>基本上，&lt;f2&gt;試算表清單就是文字文件中表格的加強版：它的結構是為了讓資訊更容易被看到，讓使用者看到項目間的關聯性，而這關聯性只用文字可能並不容易被突顯出來。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T120045Z" creationid="Franklin Weng" creationdate="20180204T190136Z">
+        <seg>本質上，&lt;f2&gt;試算表清單就是文字文件中的表格加強版：它的結構是為了讓資訊更容易瀏覽、讓使用者更能看出項目間的關聯性等，而這個關聯性如果只有調整文字格式可能難以突顯出來。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
