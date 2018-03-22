@@ -1648,12 +1648,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>Alphabetical index 舊翻譯為「排序的字詞索引」，甚怪。經查，alphabetical index 之前已有另外兩處翻譯為「字母順序索引」，只有此處是「排序的字詞索引」。而在「目錄、索引或參考文獻」對話視窗的「alphabetical index」類型，可以對「中文」以「筆畫」、「部首」、「注音」等方式排序，因此已在未來新版統一改譯為「順序索引」。</note>
+      <note>Alphabetical index 舊翻譯為「排序的字詞索引」，甚怪。經查，alphabetical index 之前已有另外兩處翻譯為「字母順序索引」，只有此處是「排序的字詞索引」。而在「目次、索引或參考文獻」對話視窗的「alphabetical index」類型，可以對「中文」以「筆畫」、「部首」、「注音」等方式排序，因此已在未來新版統一改譯為「順序索引」。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;A standard index is called an &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alphabetical Index&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Type&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field in the&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Insert Index/Table &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081617Z" creationid="zerng07" creationdate="20180304T035037Z">
-        <seg>&lt;f0&gt;標準的索引在「&lt;/f0&gt;&lt;f7&gt;&lt;f8&gt;目錄、索引或參考文獻&lt;/f8&gt;&lt;/f7&gt;」對話視窗的「&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位中稱為「&lt;/f6&gt;&lt;f1&gt;&lt;f2&gt;順序索引&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;&lt;f9&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065409Z" creationid="zerng07" creationdate="20180304T035037Z">
+        <seg>&lt;f0&gt;標準的索引在「&lt;/f0&gt;&lt;f7&gt;&lt;f8&gt;目次、索引或參考文獻&lt;/f8&gt;&lt;/f7&gt;」對話視窗的「&lt;f4&gt;&lt;f5&gt;類型&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位中稱為「&lt;/f6&gt;&lt;f1&gt;&lt;f2&gt;順序索引&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;&lt;f9&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5145,8 +5145,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Like tables of contents and indexes, b&lt;/f0&gt;ibliographies &lt;f1&gt;are generated with the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Index/Table&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T090435Z" creationid="zerng07" creationdate="20180304T090435Z">
-        <seg>&lt;f0&gt;類似目錄和索引，&lt;/f0&gt;參考文獻&lt;f1&gt;也是從「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;目錄、索引或參考文獻&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」對話視窗中製作。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065452Z" creationid="zerng07" creationdate="20180304T090435Z">
+        <seg>&lt;f0&gt;類似目次和索引，&lt;/f0&gt;參考文獻&lt;f1&gt;也是從「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;目次、索引或參考文獻&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」對話視窗中製作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,8 +6058,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Place the cursor where you want the bibliography to appear in the text, and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T121619Z" creationid="zerng07" creationdate="20180304T121619Z">
-        <seg>&lt;f0&gt;將游標放到你想要在內文中插入參考文獻的位置，接著選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 目錄、索引或參考文獻」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065515Z" creationid="zerng07" creationdate="20180304T121619Z">
+        <seg>&lt;f0&gt;將游標放到你想要在內文中插入參考文獻的位置，接著選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目次與索引 &gt; 目次、索引或參考文獻」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,8 +6090,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Position the cursor in the text and click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Bibliography Entry.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Use the drop-down list in the&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; Short Name Field &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;to chose the citation from the ones you have prepared in the bibliography database, then click the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Insert&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; button.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T114705Z" creationid="zerng07" creationdate="20180304T114705Z">
-        <seg>&lt;f0&gt;將游標放到內文中，並點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目錄與索引 &gt; 參考文獻條目&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;短名&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位從準備好的參考文獻資料庫中，選出你想引用的資料，接著按下「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;插入&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065507Z" creationid="zerng07" creationdate="20180304T114705Z">
+        <seg>&lt;f0&gt;將游標放到內文中，並點按「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;插入 &gt; 目次與索引 &gt; 參考文獻條目&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」。使用「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;短名&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位從準備好的參考文獻資料庫中，選出你想引用的資料，接著按下「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;插入&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」按鈕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6607,8 +6607,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Type&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field to &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Bibliography&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; o&lt;/f6&gt;n the &lt;f7&gt;Index/Table&lt;/f7&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T082447Z" creationid="zerng07" creationdate="20180304T124322Z">
-        <seg>&lt;f0&gt;將「&lt;/f0&gt;&lt;f7&gt;目錄、索引或參考文獻&lt;/f7&gt;」視窗中的「&lt;f1&gt;&lt;f2&gt;類型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位設為「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;參考文獻&lt;/f5&gt;&lt;/f4&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065521Z" creationid="zerng07" creationdate="20180304T124322Z">
+        <seg>&lt;f0&gt;將「&lt;/f0&gt;&lt;f7&gt;目次、索引或參考文獻&lt;/f7&gt;」視窗中的「&lt;f1&gt;&lt;f2&gt;類型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄位設為「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;參考文獻&lt;/f5&gt;&lt;/f4&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,8 +7598,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The simplest way to add an entry is by selecting words or phrases and marking them with&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Insert &gt; Indexes and Tables &gt; Index Entry.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; However, it is laborious and time-consuming.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T135823Z" creationid="zerng07" creationdate="20180303T135450Z">
-        <seg>&lt;f0&gt;加入條目的最簡單方法是，選取單字或字彙後用&lt;/f0&gt;「&lt;f2&gt;&lt;f3&gt;插入 &gt; 目錄與索引 &gt; 索引條目&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」做標記。不過，手動一個一個設定既費功又耗時。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065356Z" creationid="zerng07" creationdate="20180303T135450Z">
+        <seg>&lt;f0&gt;加入條目的最簡單方法是，選取單字或字彙後用&lt;/f0&gt;「&lt;f2&gt;&lt;f3&gt;插入 &gt; 目次與索引 &gt; 索引條目&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」做標記。不過，手動一個一個設定既費功又耗時。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7955,8 +7955,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To position a &lt;/f0&gt;footnote or endnote, &lt;f1&gt;click&lt;/f1&gt; &lt;f2&gt;Insert &gt; Footnote/Endnote.&lt;/f2&gt; After the number, complete the footnote or endnote by selecting the citation from the drop-down list for &lt;f3&gt;Insert &gt; Index&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;es&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and Tables &gt; Bibliograph&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;y&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; entry &gt; Short name.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074739Z" creationid="zerng07" creationdate="20180309T095630Z">
-        <seg>&lt;f0&gt;如果要放置&lt;/f0&gt;註腳或尾註&lt;f1&gt;，請點按「&lt;/f1&gt; &lt;f2&gt;插入 &gt; 註腳與尾註 &gt; 註腳或尾註&lt;/f2&gt;」。在編號之後，從「&lt;f3&gt;插入 &gt; 目錄、索引或參考文獻 &gt; 參考文獻條目 &gt; 短名&lt;/f3&gt;」的下拉清單中選取引用文字，以便完成註腳或尾註。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065527Z" creationid="zerng07" creationdate="20180309T095630Z">
+        <seg>&lt;f0&gt;如果要放置&lt;/f0&gt;註腳或尾註&lt;f1&gt;，請點按「&lt;/f1&gt; &lt;f2&gt;插入 &gt; 註腳與尾註 &gt; 註腳或尾註&lt;/f2&gt;」。在編號之後，從「&lt;f3&gt;插入 &gt; 目次、索引或參考文獻 &gt; 參考文獻條目 &gt; 短名&lt;/f3&gt;」的下拉清單中選取引用文字，以便完成註腳或尾註。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11479,16 +11479,16 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents that adds the chapter number as a prefix.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132841Z" creationid="zerng07" creationdate="20180303T132841Z">
-        <seg>將章節號加到條目之前的目錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065344Z" creationid="zerng07" creationdate="20180303T132841Z">
+        <seg>將章節號加到條目之前的目次。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A &lt;f0&gt;two-&lt;/f0&gt;column &lt;f1&gt;t&lt;/f1&gt;able of &lt;f2&gt;c&lt;/f2&gt;ontents lessens the &lt;f3&gt;space&lt;/f3&gt; between text entries and page numbers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T150102Z" creationid="zerng07" creationdate="20180302T150102Z">
-        <seg>兩欄式目錄可減少文字條目和頁碼之間的&lt;f3&gt;空間&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065320Z" creationid="zerng07" creationdate="20180302T150102Z">
+        <seg>兩欄式目次可減少文字條目和頁碼之間的&lt;f3&gt;空間&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12010,8 +12010,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A ragged right &lt;f0&gt;t&lt;/f0&gt;able of &lt;f1&gt;c&lt;/f1&gt;ontents keeps text entries and page num&lt;f2&gt;bers&lt;/f2&gt; together so that they can be easily read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T155836Z" creationid="zerng07" creationdate="20180302T155836Z">
-        <seg>右邊不對齊的目錄可讓文字條目和頁碼靠在一起，所以讀者就能輕鬆閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065326Z" creationid="zerng07" creationdate="20180302T155836Z">
+        <seg>右邊不對齊的目次可讓文字條目和頁碼靠在一起，所以讀者就能輕鬆閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12333,8 +12333,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Add any tables of &lt;f0&gt;contents&lt;/f0&gt;, indexes, and bibliographies directly to the master document when all the sub-documents are complete.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T083920Z" creationid="zerng07" creationdate="20180312T070603Z">
-        <seg>在完成所有子文件後，將&lt;f0&gt;目錄&lt;/f0&gt;、索引、參考文獻任一項直接加到主控文件中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065549Z" creationid="zerng07" creationdate="20180312T070603Z">
+        <seg>在完成所有子文件後，將&lt;f0&gt;目次&lt;/f0&gt;、索引、參考文獻任一項直接加到主控文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12778,8 +12778,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>After all the entries are created, open the &lt;f0&gt;Insert Index/Table&lt;/f0&gt; dialog window to generate the index.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T035049Z" creationid="zerng07" creationdate="20180304T034048Z">
-        <seg>在所有條目建立完成後，開啟「&lt;f0&gt;目錄、索引或參考文獻&lt;/f0&gt;」 對話視窗生成索引。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065403Z" creationid="zerng07" creationdate="20180304T034048Z">
+        <seg>在所有條目建立完成後，開啟「&lt;f0&gt;目次、索引或參考文獻&lt;/f0&gt;」 對話視窗生成索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13905,8 +13905,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>As an alternative, ignore the building blocks and attach a list style to the &lt;f0&gt;Contents 1&lt;/f0&gt; paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T132952Z" creationid="zerng07" creationdate="20180303T132952Z">
-        <seg>至於替代做法，請直接忽略建構方塊，並將清單樣式附加到「&lt;f0&gt;目錄 1&lt;/f0&gt;」段落樣式中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065349Z" creationid="zerng07" creationdate="20180303T132952Z">
+        <seg>至於替代做法，請直接忽略建構方塊，並將清單樣式附加到「&lt;f0&gt;目次 1&lt;/f0&gt;」段落樣式中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19980,8 +19980,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, one common format is use lower case roman numerals for front matter such as copyright pages and tables of contents, and Arabic numbers for the main text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T083843Z" creationid="zerng07" creationdate="20180309T140758Z">
-        <seg>舉例：常見的西方排印慣例中，前置內容部分像是著作權頁、目錄等的頁碼格式會用小寫羅馬數字，而正文部分則會用阿拉伯數字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065542Z" creationid="zerng07" creationdate="20180309T140758Z">
+        <seg>舉例：常見的西方排印慣例中，前置內容部分像是著作權頁、目次等的頁碼格式會用小寫羅馬數字，而正文部分則會用阿拉伯數字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21621,8 +21621,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, although the building blocks on the &lt;f4&gt;Entry&lt;/f4&gt; tab include a chapter number, your ability to add chapter numbers in a table of contents is limited.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T131620Z" creationid="zerng07" creationdate="20180303T131620Z">
-        <seg>雖然「&lt;f4&gt;條目&lt;/f4&gt;」標籤頁中的建構方塊有「E#」章節號，不過在目錄添入章節號的功能還是有限。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065335Z" creationid="zerng07" creationdate="20180303T131620Z">
+        <seg>雖然「&lt;f4&gt;條目&lt;/f4&gt;」標籤頁中的建構方塊有「E#」章節號，不過在目次添入章節號的功能還是有限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24389,8 +24389,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you want to &lt;f0&gt;add headings with letters of the alphabet,&lt;/f0&gt; select &lt;f1&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; Index/Tables &gt; Entries &gt; Alphabetical Delimiter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T043725Z" creationid="zerng07" creationdate="20180304T043358Z">
-        <seg>如果你想要&lt;f0&gt;製作有字母標題的英文字母順序索引，&lt;/f0&gt;請選取「&lt;f1&gt;插入 &gt; 目錄與索引&lt;/f1&gt;&lt;f4&gt; &gt; 目錄、索引或參考文獻 &gt; 條目 &gt; 順序分類標題」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065442Z" creationid="zerng07" creationdate="20180304T043358Z">
+        <seg>如果你想要&lt;f0&gt;製作有字母標題的英文字母順序索引，&lt;/f0&gt;請選取「&lt;f1&gt;插入 &gt; 目次與索引&lt;/f1&gt;&lt;f4&gt; &gt; 目次、索引或參考文獻 &gt; 條目 &gt; 順序分類標題」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24480,8 +24480,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If your &lt;f0&gt;e&lt;/f0&gt;ntries are short, you can save pages by &lt;f1&gt;clicking&lt;/f1&gt; &lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Table&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; Index/Tables &gt; Columns&lt;/f5&gt;, and setting the index to use &lt;f6&gt;two&lt;/f6&gt; columns.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T042839Z" creationid="zerng07" creationdate="20180304T042839Z">
-        <seg>如果你的條目字數都很短，可以&lt;f1&gt;點按&lt;/f1&gt;「&lt;f2&gt;插入 &gt; 目錄與索引&lt;/f2&gt;&lt;f5&gt; &gt; 目錄、索引或參考文獻 &gt; 多欄&lt;/f5&gt;」，並將索引設定成使用&lt;f6&gt;兩&lt;/f6&gt;欄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065433Z" creationid="zerng07" creationdate="20180304T042839Z">
+        <seg>如果你的條目字數都很短，可以&lt;f1&gt;點按&lt;/f1&gt;「&lt;f2&gt;插入 &gt; 目次與索引&lt;/f2&gt;&lt;f5&gt; &gt; 目次、索引或參考文獻 &gt; 多欄&lt;/f5&gt;」，並將索引設定成使用&lt;f6&gt;兩&lt;/f6&gt;欄。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25829,8 +25829,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Indexes and tables &lt;f0&gt;of objects&lt;/f0&gt; &lt;f1&gt;i&lt;/f1&gt;nserted into text areas of the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T115132Z" creationid="zerng07" creationdate="20180309T115132Z">
-        <seg>插入主控文件文字區域中的物件目錄和索引。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065531Z" creationid="zerng07" creationdate="20180309T115132Z">
+        <seg>插入主控文件文字區域中的物件目次和索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29664,8 +29664,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>One way to avoid ragged right looking cluttered is to format the Contents paragraph styles so that all entries have the same margin on the left.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T160145Z" creationid="zerng07" creationdate="20180302T160103Z">
-        <seg>避免讓右邊不整齊看起來雜亂的方法之一，是調整「目錄」段落樣式的格式設定，讓所有條目的左邊對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065330Z" creationid="zerng07" creationdate="20180302T160103Z">
+        <seg>避免讓右邊不整齊看起來雜亂的方法之一，是調整「目次」段落樣式的格式設定，讓所有條目的左邊對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30382,8 +30382,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Paragraph styles for &lt;f0&gt;t&lt;/f0&gt;ables of &lt;f1&gt;c&lt;/f1&gt;ontent&lt;f2&gt;s&lt;/f2&gt; or &lt;f3&gt;i&lt;/f3&gt;ndexes, which you may have only &lt;f4&gt;created as a final step, are compatible with the rest of the design.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T090712Z" creationid="Jeff Huang" creationdate="20171212T035919Z">
-        <seg>目錄或索引的段落樣式（通常你只會在最後一步才製作這些項目）是否和其餘部份的設計相互協調。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065559Z" creationid="Jeff Huang" creationdate="20171212T035919Z">
+        <seg>目次或索引的段落樣式（通常你只會在最後一步才製作這些項目）是否和其餘部份的設計相互協調。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35859,8 +35859,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The chapter number building block can only be used in the top level entry in the table of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T131710Z" creationid="zerng07" creationdate="20180303T131629Z">
-        <seg>章節號的建構方塊僅可用在目錄的最上層條目。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065339Z" creationid="zerng07" creationdate="20180303T131629Z">
+        <seg>章節號的建構方塊僅可用在目次的最上層條目。</seg>
       </tuv>
     </tu>
     <tu>
