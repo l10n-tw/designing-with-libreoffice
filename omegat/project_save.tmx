@@ -32300,8 +32300,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Set column &lt;f0&gt;A &lt;/f0&gt;to a width of 12 centimeters, and column &lt;f1&gt;H&lt;/f1&gt; to &lt;f2&gt;1&lt;/f2&gt; centimeter&lt;f3&gt;.&lt;/f3&gt; Column H will be used as a spacer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144151Z" creationid="Franklin Weng" creationdate="20180206T143908Z">
-        <seg>將欄位 &lt;f0&gt;A &lt;/f0&gt;的寬度設為 12 公分，欄位 &lt;f1&gt;H&lt;/f1&gt; 設為 &lt;f2&gt;1&lt;/f2&gt; 公分&lt;f3&gt;。&lt;/f3&gt; H 欄是用來分隔的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T145216Z" creationid="Franklin Weng" creationdate="20180206T143908Z">
+        <seg>將欄位&lt;f0&gt;A&lt;/f0&gt;的寬度設為12公分，欄位&lt;f1&gt;H&lt;/f1&gt;設為 &lt;f2&gt;1&lt;/f2&gt;公分&lt;f3&gt;。這裡的&lt;/f3&gt;H 欄是用來作分隔的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40991,8 +40991,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Heading 2 &lt;/f0&gt;to name columns&lt;f1&gt; A-G.&lt;/f1&gt; Starting from &lt;f2&gt;column&lt;/f2&gt; A, the &lt;f3&gt;h&lt;/f3&gt;eadings will be: &lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142036Z" creationid="Franklin Weng" creationdate="20180206T144339Z">
-        <seg>用&lt;f0&gt;標題 2 &lt;/f0&gt;的樣式來輸入欄位&lt;f1&gt; A-G &lt;/f1&gt; 的名稱，&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;分別為：&lt;f4&gt;&lt;f5&gt;Student, Essay 1, Midterm, Essay 2, Exam, Total, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;跟&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Grade。&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T145811Z" creationid="Franklin Weng" creationdate="20180206T144339Z">
+        <seg>以「&lt;f0&gt;標題 2 &lt;/f0&gt;」的樣式將項目名稱寫入欄位&lt;f1&gt; A到G &lt;/f1&gt;，&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;分別為：&lt;f4&gt;&lt;f5&gt;學生、文章一、期中考、文章二、期末考、總計、等第&lt;/f5&gt;&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
