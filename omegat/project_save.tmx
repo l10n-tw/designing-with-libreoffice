@@ -881,8 +881,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;It is already set apart by the thin column&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; H, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;but you can use the borders and/or background to further set it apart.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T150546Z" creationid="Franklin Weng" creationdate="20180206T144916Z">
-        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;H欄已經設定作為區隔用，&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;不過你還是可以在評比範圍那邊加上邊框進一步區分。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152525Z" creationid="Franklin Weng" creationdate="20180206T144916Z">
+        <seg>&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;H欄已經設定作為區隔用，&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;不過你還是可以在等級區間那邊加上邊框進一步區分。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,8 +1046,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;This step &lt;t4/&gt;copies the function to each row and automatically updates each copy of the function so it works on its row.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T150131Z" creationid="Franklin Weng" creationdate="20180206T150131Z">
-        <seg>&lt;/f3&gt;這個步驟&lt;t4/&gt;會把第一個列的函式複製到每一列中，並自動計算與更新該列的函式計算結果。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152402Z" creationid="Franklin Weng" creationdate="20180206T150131Z">
+        <seg>&lt;/f3&gt;這個步驟&lt;t4/&gt;會把第一列的函式複製到每一列中，並自動計算與更新該列的函式計算結果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,8 +3305,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Drag on the lower right corner of the cell in the first student’s &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Total&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;column until you reach the end of the list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T150047Z" creationid="Franklin Weng" creationdate="20180206T150047Z">
-        <seg>&lt;f0&gt;接著用滑鼠點住第一個學生 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Total&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;欄位那個儲存格的右下角的黑點，然後往下拖，拖到所有學生的 Total 欄都被列入，然後放開滑鼠。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152343Z" creationid="Franklin Weng" creationdate="20180206T150047Z">
+        <seg>&lt;f0&gt;接著用滑鼠點住第一位學生「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;總計&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;」欄位那個儲存格的右下角黑點不放，然後往下拖，拖到所有學生的「總計」欄都包到之後，再放開滑鼠。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25509,8 +25509,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Total&lt;/f0&gt; column for the student at the top of the list, add the function&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Input Range&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;).&lt;/f4&gt; In the sample, the function is &lt;f5&gt;=SUM(B5:E5).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152207Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
-        <seg>接著，以第一位學生為例，在「&lt;f0&gt;總計&lt;/f0&gt;」欄中加入這條函式：&lt;f1&gt; =SUM（&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;輸入儲存格範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;）&lt;/f4&gt;。比如說在這個範例中，輸入的是&lt;f5&gt;=SUM(B5:E5) 。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152241Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
+        <seg>接著，以第一位學生為例，在他的「&lt;f0&gt;總計&lt;/f0&gt;」欄中加入這條函式：&lt;f1&gt; =SUM（&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;輸入儲存格範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;）&lt;/f4&gt;。比如說在這個範例中，輸入的是&lt;f5&gt;=SUM(B5:E5) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41223,8 +41223,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use the scale to assign the grade for each student (there is probably some way to convert the percentage automatically, b&lt;f0&gt;u&lt;/f0&gt;t it is not immediately obvious).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151042Z" creationid="Franklin Weng" creationdate="20180206T150204Z">
-        <seg>用剛剛記下來的評比範圍來幫每個學生打最後的成績。（當然應該有方法可以自動把分數轉換成 ABCDF，不過並不算很顯而易見。）&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152824Z" creationid="Franklin Weng" creationdate="20180206T150204Z">
+        <seg>根據等級區間幫每位學生以最終的成績打等級。（當然也有方法可以自動把分數轉換成ABCDF之類的等級，不過稍微複雜一些。）&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
