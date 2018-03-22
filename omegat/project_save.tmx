@@ -3806,8 +3806,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Format the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Default&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; cell style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143510Z" creationid="Franklin Weng" creationdate="20180206T143510Z">
-        <seg>&lt;f0&gt;將儲存格的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式格式設定好。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144745Z" creationid="Franklin Weng" creationdate="20180206T143510Z">
+        <seg>&lt;f0&gt;設定好儲存格的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;預設&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5368,8 +5368,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Merge columns &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;A-G&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in row 1&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; and use &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Heading 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; to enter the course name.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143901Z" creationid="Franklin Weng" creationdate="20180206T143901Z">
-        <seg>&lt;f0&gt;將&lt;/f0&gt;第 1 列的&lt;f1&gt;&lt;f2&gt; A-G &lt;/f2&gt;&lt;/f1&gt;欄合併起來，&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;然後用&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;標題 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; 的樣式來輸入科目名稱。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T145004Z" creationid="Franklin Weng" creationdate="20180206T143901Z">
+        <seg>&lt;f0&gt;將&lt;/f0&gt;第1列的&lt;f1&gt;&lt;f2&gt;A至G &lt;/f2&gt;&lt;/f1&gt;欄合併，&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;然後用「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;標題 1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」的樣式輸入科目名稱。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24859,8 +24859,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In addition, create &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Total, Heading 1, Heading 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Value&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143626Z" creationid="Franklin Weng" creationdate="20180206T143626Z">
-        <seg>然後建立&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;總計、標題 1、標題 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 與 &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;數值&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;這幾種樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144847Z" creationid="Franklin Weng" creationdate="20180206T143626Z">
+        <seg>然後，建立「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;總計」、「標題 1」、「標題 2&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」、「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;數值&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」等樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40973,8 +40973,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Font Size&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Font Color&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; to distinguish them from the &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Default&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; style.&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T143744Z" creationid="Franklin Weng" creationdate="20180206T143744Z">
-        <seg>用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;字型大小&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;跟&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;字型色彩&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;來區分這幾種樣式&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;跟預設&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;樣式&lt;/f18&gt;的不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144928Z" creationid="Franklin Weng" creationdate="20180206T143744Z">
+        <seg>利用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;字型大小&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;跟&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;字型色彩&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;的不同來區分這幾種樣式跟「&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;預設&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;」樣式&lt;/f18&gt;。</seg>
       </tuv>
     </tu>
     <tu>
