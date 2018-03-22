@@ -46,7 +46,7 @@
 第七章 (Franklin Weng)
 
 * 校對中的有：
-第八章（未）、第六章 (Cheng-Chia Tseng)、第十一章 (未)、第十五章（Cheng-Chia Tseng）
+第八章（未）、第十一章 (未)、第十五章（Cheng-Chia Tseng）
 
 * 未處理的有：
 
