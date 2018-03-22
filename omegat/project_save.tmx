@@ -3683,8 +3683,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For convenience, enter the grading scale in column &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;I.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T150524Z" creationid="Franklin Weng" creationdate="20180206T144812Z">
-        <seg>&lt;f0&gt;為了方便起見，我們在I欄輸入成績評比範圍（Scale）。&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151029Z" creationid="Franklin Weng" creationdate="20180206T144812Z">
+        <seg>&lt;f0&gt;為了方便起見，我們在I欄輸入成績的等級區間。&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,8 +5043,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Leave enough rows for the number of students, then use the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Exam&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; column below the list of students for the labels of any statistics you want to set.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145209Z" creationid="Franklin Weng" creationdate="20180206T144949Z">
-        <seg>&lt;f0&gt;看有多少學生，就保留多少列。然後用 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Exam&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 欄，學生成績紀錄的下方放上你要做哪些統計的標題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T150753Z" creationid="Franklin Weng" creationdate="20180206T144949Z">
+        <seg>&lt;f0&gt;看有多少學生，就留多少列。然後用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;期末考&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」欄，學生成績紀錄的下方放上你要做哪些統計的標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34617,8 +34617,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Total&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; column will contain the actual statistics.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145239Z" creationid="Franklin Weng" creationdate="20180206T145239Z">
-        <seg>&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Total&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 這一欄仍保持最原始的統計紀錄。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T150959Z" creationid="Franklin Weng" creationdate="20180206T145239Z">
+        <seg>「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;總計&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」這一欄仍保持最原始的統計數據。</seg>
       </tuv>
     </tu>
     <tu>
