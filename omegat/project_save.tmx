@@ -8277,8 +8277,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Value&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; style to format the row below the headings to enter the value of each assignment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144634Z" creationid="Franklin Weng" creationdate="20180206T144634Z">
-        <seg>&lt;f0&gt;用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;數值&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式來對標題下方那一列做格式設定，並且輸入每一項目的權重。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T145922Z" creationid="Franklin Weng" creationdate="20180206T144634Z">
+        <seg>&lt;f0&gt;用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;數值&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;樣式對標題下方那一列做格式設定，並且輸入每一項的權重數值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27584,8 +27584,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Make the total out of 100 so that it is a percentage.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T144707Z" creationid="Franklin Weng" creationdate="20180206T144707Z">
-        <seg>權重的總和要是 100，表示權重以百分比來計算。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T150414Z" creationid="Franklin Weng" creationdate="20180206T144707Z">
+        <seg>權重的總和是100，讓權重以百分比計算。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
