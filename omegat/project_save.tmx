@@ -1038,8 +1038,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;However, the easiest way to add a function is to use the &lt;f4&gt;&lt;f5&gt;Insert &gt; Function &lt;/f5&gt;&lt;/f4&gt;dialog window, which opens a wizard for building functions and previews answers and errors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T140626Z" creationid="Franklin Weng" creationdate="20180206T140626Z">
-        <seg>&lt;/f3&gt;最簡單的方式還是用選單中的「&lt;f4&gt;&lt;f5&gt;插入 &gt; 函式&lt;/f5&gt;&lt;/f4&gt;」，它會開啟一個精靈視窗，並讓你預覽計算的結果或是錯誤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T142727Z" creationid="Franklin Weng" creationdate="20180206T140626Z">
+        <seg>&lt;/f3&gt;不過，最簡單的方式還是用選單裡的「&lt;f4&gt;&lt;f5&gt;插入 &gt; 函式&lt;/f5&gt;&lt;/f4&gt;」對話視窗，它會開啟個函式建構精靈視窗，並讓你預覽計算的結果或是其中有錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,8 +3354,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Each has its own set of input variables, some entered manually and others that can be entered by dragging with the mouse on selected cells.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135619Z" creationid="Franklin Weng" creationdate="20180206T135619Z">
-        <seg>&lt;f0&gt;每一個都會有自己的烏入變數，有些是手動輸入，有些是可以用滑鼠拖曳到選擇的儲存格來輸入。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T142507Z" creationid="Franklin Weng" creationdate="20180206T135619Z">
+        <seg>&lt;f0&gt;每一個函式都會有自己一組的輸入變數，有些要手動輸入，而有些可以用滑鼠拖曳選取儲存格來輸入。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,8 +20486,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Format the cells for raw data and th&lt;f0&gt;ose for&lt;/f0&gt; manipulations of the data differently.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T135511Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
-        <seg>將存放原始資料，還有操作資料用的儲存格做不同的格式設定。&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T142404Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
+        <seg>將存放原始資料的儲存格，還有操作資料用的儲存格作不同的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43645,8 +43645,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can enter variables manually from the &lt;f0&gt;&lt;f1&gt;F&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;ormula bar&lt;/f2&gt; at the bottom of the tool bars, or with &lt;f3&gt;Insert &gt; Function List.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141953Z" creationid="Franklin Weng" creationdate="20180206T140516Z">
-        <seg>你可以手動在工具列下的&lt;f0&gt;&lt;f1&gt;公式列&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;手動輸入，或是透過選單中的&lt;f3&gt;「插入 &gt; 函式」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T142558Z" creationid="Franklin Weng" creationdate="20180206T140516Z">
+        <seg>你可以手動在工具列的「&lt;f0&gt;&lt;f1&gt;公式列&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;」中手動輸入函式，或是用選單裡的「&lt;f3&gt;插入 &gt; 函式」輸入。</seg>
       </tuv>
     </tu>
     <tu>
