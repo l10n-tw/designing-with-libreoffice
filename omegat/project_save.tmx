@@ -10524,8 +10524,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;You can change the location of pivot tables from &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Data &gt; Pivot Table &gt; Create &gt; Pivot Table Layout &gt; Destination.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T135216Z" creationid="Franklin Weng" creationdate="20180129T135216Z">
-        <seg>&lt;f2&gt;你可以在「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;資料 &gt; 樞紐分析表 &gt; 建立」出現的視窗中，「來源與目的地 &gt; 目的地&lt;/f4&gt;&lt;/f3&gt;」改變梳紐分析表的位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T093704Z" creationid="Franklin Weng" creationdate="20180129T135216Z">
+        <seg>&lt;f2&gt;你可以在「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;資料 &gt; 樞紐分析表 &gt; 建立」出現的視窗中，「來源與目的地 &gt; 目的地&lt;/f4&gt;&lt;/f3&gt;」改變樞紐分析表的位置。（？？？6.0 只能改來源，不能改目的地，因此沒有這個選項了。應改寫。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19816,8 +19816,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you are a computer programmer, you might start with a general list of potential employers, then eventually add another sheet specifically for high-tech employees.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T134513Z" creationid="Franklin Weng" creationdate="20180129T134513Z">
-        <seg>舉個例來說，如果你是個程式設計師，你可以先建一個潛在雇主的清單，然後最後再加上其他工作表，放入技術能力強的員工。（譯者註：不過會這樣幹的通常最後都不會當程式設計師。）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T093157Z" creationid="Franklin Weng" creationdate="20180129T134513Z">
+        <seg>舉個例來說，如果你是個程式設計師，你可以先建一個潛在雇主的清單，然後最後再加上其他工作表，專門放技術能力強的員工。（譯者註：不過會這樣幹的通常最後都不會當程式設計師。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33005,8 +33005,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, if you are regularly manipulating data, you will find that the pivot tables you create are added &lt;f0&gt;by default &lt;/f0&gt;to a new &lt;t1/&gt;sheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180129T134757Z" creationid="Franklin Weng" creationdate="20180129T134757Z">
-        <seg>另一個類似的例子，如果你常常在處理資料，你會發現在建立樞紐分析表時，&lt;f0&gt;預設&lt;/f0&gt;都會放在新產生的工作表中。&lt;t1/&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T093440Z" creationid="Franklin Weng" creationdate="20180129T134757Z">
+        <seg>同個道理，如果你常常在處理資料，你會發現在建立樞紐分析表後，&lt;f0&gt;預設&lt;/f0&gt;都會放在新的工作表中。</seg>
       </tuv>
     </tu>
     <tu>
