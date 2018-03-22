@@ -12218,8 +12218,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A&lt;f0&gt;n excerpt from a data collection spreadsheet – specifically, &lt;/f0&gt;a mark book for teachers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145503Z" creationid="Franklin Weng" creationdate="20180206T145503Z">
-        <seg>&lt;f0&gt;資料集合的試算表的一個範例：&lt;/f0&gt;老師用的成績紀錄簿。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151801Z" creationid="Franklin Weng" creationdate="20180206T145503Z">
+        <seg>&lt;f0&gt;一份資料集合式試算表的部分摘錄：&lt;/f0&gt;老師用的成績紀錄表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18534,8 +18534,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Enter all the marks for each student.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145558Z" creationid="Franklin Weng" creationdate="20180206T145558Z">
-        <seg>輸入每一位學生所有的成績。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151900Z" creationid="Franklin Weng" creationdate="20180206T145558Z">
+        <seg>輸入每位學生的所有成績。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25509,8 +25509,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Total&lt;/f0&gt; column for the student at the top of the list, add the function&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Input Range&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;).&lt;/f4&gt; In the sample, the function is &lt;f5&gt;=SUM(B5:E5).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145810Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
-        <seg>接著，以第一個學生為例，在 &lt;f0&gt;Total&lt;/f0&gt; 欄位（F5）中加入這個函式：&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;。比如說在這個範例中，就輸入 &lt;f5&gt;=SUM(B5:E5) 。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152207Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
+        <seg>接著，以第一位學生為例，在「&lt;f0&gt;總計&lt;/f0&gt;」欄中加入這條函式：&lt;f1&gt; =SUM（&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;輸入儲存格範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;）&lt;/f4&gt;。比如說在這個範例中，輸入的是&lt;f5&gt;=SUM(B5:E5) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25613,8 +25613,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the sample, I have used &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Average, Median, Max, and Min.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151612Z" creationid="Franklin Weng" creationdate="20180206T145340Z">
-        <seg>在這個範例中，統計數據部份我用了&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;平均、中位數、最高分、最低分。&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151618Z" creationid="Franklin Weng" creationdate="20180206T145340Z">
+        <seg>在範例中，統計數據部份我用了&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;平均、中位數、最高分、最低分。&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42181,8 +42181,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When the basic l&lt;f0&gt;ayout is finished, enter the marks and functions:&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T145544Z" creationid="Franklin Weng" creationdate="20180206T145544Z">
-        <seg>當基本的佈局做好以後，&lt;f0&gt;就開始輸入學生成績跟計算用的函式：&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151844Z" creationid="Franklin Weng" creationdate="20180206T145544Z">
+        <seg>完成基本的版面配置以後，&lt;f0&gt;接下來要開始輸入學生成績，以及計算用的函式：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
