@@ -7365,8 +7365,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The average &lt;/f0&gt;&lt;f1&gt;m&lt;/f1&gt;&lt;f2&gt;ark: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=AVERAGE(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Input Range).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151208Z" creationid="Franklin Weng" creationdate="20180206T151208Z">
-        <seg>&lt;f0&gt;平均&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;成績：&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=AVERAGE(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;範圍)。&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153350Z" creationid="Franklin Weng" creationdate="20180206T151208Z">
+        <seg>&lt;f0&gt;平均&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;成績：&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=AVERAGE(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;輸入儲存格範圍)。&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7461,8 +7461,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The highest mark:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=MAX(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Input Range).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151326Z" creationid="Franklin Weng" creationdate="20180206T151326Z">
-        <seg>&lt;f0&gt;最高分：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=MAX(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;範圍)。&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153405Z" creationid="Franklin Weng" creationdate="20180206T151326Z">
+        <seg>&lt;f0&gt;最高分：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=MAX(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;輸入儲存格範圍)。&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7485,8 +7485,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The lowest mark:&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=M&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;IN&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Input Range).&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151344Z" creationid="Franklin Weng" creationdate="20180206T151344Z">
-        <seg>&lt;f0&gt;最低分：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=M&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;IN&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;範圍)。&lt;/f10&gt;&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153421Z" creationid="Franklin Weng" creationdate="20180206T151344Z">
+        <seg>&lt;f0&gt;最低分：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=M&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;IN&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;(&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;輸入儲存格範圍)。&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7501,8 +7501,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The mark midway between the high and the low&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;: &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=MEDIAN(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Input Range).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151311Z" creationid="Franklin Weng" creationdate="20180206T151311Z">
-        <seg>&lt;f0&gt;成績中位數：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=MEDIAN(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;範圍)。&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153358Z" creationid="Franklin Weng" creationdate="20180206T151311Z">
+        <seg>&lt;f0&gt;成績中位數：&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=MEDIAN(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;輸入儲存格範圍)。&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8293,8 +8293,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use whatever functions you choose, but t&lt;/f0&gt;he sample uses:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151133Z" creationid="Franklin Weng" creationdate="20180206T151133Z">
-        <seg>&lt;f0&gt;你可以選擇其他的算式。在這個範例中用的是：&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153326Z" creationid="Franklin Weng" creationdate="20180206T151133Z">
+        <seg>&lt;f0&gt;你可以選擇你想要用的函式。範例中採用的是：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18550,8 +18550,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Enter the function for each statistic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151051Z" creationid="Franklin Weng" creationdate="20180206T151051Z">
-        <seg>輸入每個統計的函式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153259Z" creationid="Franklin Weng" creationdate="20180206T151051Z">
+        <seg>輸入各個統計用的函式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24988,8 +24988,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In each case, the input range is the contents of the &lt;f0&gt;Total.&lt;/f0&gt; column.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T151421Z" creationid="Franklin Weng" creationdate="20180206T151421Z">
-        <seg>上面這幾個的範圍都是這幾個學生的 &lt;f0&gt;Total &lt;/f0&gt; 欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153515Z" creationid="Franklin Weng" creationdate="20180206T151421Z">
+        <seg>上述的輸入範圍都是這幾位學生的「&lt;f0&gt;總計&lt;/f0&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
