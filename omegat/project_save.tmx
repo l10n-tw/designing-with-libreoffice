@@ -5019,8 +5019,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Large and colored headings help to organize information as well.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122357Z" creationid="Franklin Weng" creationdate="20180206T122357Z">
-        <seg>&lt;f0&gt;放大並上色的標題也有助於組織這些資訊。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T131414Z" creationid="Franklin Weng" creationdate="20180206T122357Z">
+        <seg>&lt;f0&gt;放大並上色的標題字也有助於整理這些資訊。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,8 +10450,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;To create sub-lists, set off cells from the rest of the sheet by blank cells, borders, or backgrounds.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T123623Z" creationid="Franklin Weng" creationdate="20180204T191415Z">
-        <seg>&lt;f2&gt;若要建立子清單，就放在工作表還沒用到的地方，然後跟主清單採用的空白儲存格、邊框設定或背景色作區隔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T131331Z" creationid="Franklin Weng" creationdate="20180204T191415Z">
+        <seg>&lt;f2&gt;若要建立子清單，就放在工作表還沒用到的地方，然後跟主清單之間用空白儲存格、自己的邊框或背景色作區隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20462,8 +20462,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Format the &lt;f0&gt;Default&lt;/f0&gt; and &lt;f1&gt;Heading &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;cell styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122511Z" creationid="Franklin Weng" creationdate="20180206T122511Z">
-        <seg>設定儲存格型態中的「&lt;f0&gt;預設&lt;/f0&gt;」與「&lt;f1&gt;標題&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt; &lt;/f4&gt;兩種樣式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T132205Z" creationid="Franklin Weng" creationdate="20180206T122511Z">
+        <seg>設定儲存格的「&lt;f0&gt;預設&lt;/f0&gt;」與「&lt;f1&gt;標題&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;1&lt;/f3&gt;&lt;/f2&gt;」兩種樣式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27568,8 +27568,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Make the &lt;f5&gt;Heading 1 &lt;/f5&gt;style’s &lt;f6&gt;Font Size&lt;/f6&gt; and &lt;f7&gt;Font Color&lt;/f7&gt; different from the &lt;f8&gt;Default &lt;/f8&gt;&lt;f9&gt;style’&lt;/f9&gt;s.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122653Z" creationid="Franklin Weng" creationdate="20180206T122653Z">
-        <seg>將「&lt;f5&gt;標題 1&lt;/f5&gt;」樣式的&lt;f6&gt;字型大小&lt;/f6&gt;與&lt;f7&gt;字型色彩&lt;/f7&gt;設定成跟「&lt;f8&gt;預設&lt;/f8&gt;」&lt;f9&gt;樣式&lt;/f9&gt;不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T132229Z" creationid="Franklin Weng" creationdate="20180206T122653Z">
+        <seg>將「&lt;f5&gt;標題 1&lt;/f5&gt;」樣式的&lt;f6&gt;字型大小&lt;/f6&gt;與&lt;f7&gt;字型色彩&lt;/f7&gt;都設定成跟「&lt;f8&gt;預設&lt;/f8&gt;」&lt;f9&gt;樣式&lt;/f9&gt;不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28018,8 +28018,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Merge the cells in row 1, and enter a tot&lt;f0&gt;a&lt;/f0&gt;l, using &lt;f1&gt;the&lt;/f1&gt; &lt;f2&gt;Heading 1 &lt;/f2&gt;cell style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122922Z" creationid="Franklin Weng" creationdate="20180206T122922Z">
-        <seg>將第一列的儲存格合併起來，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;用「&lt;f2&gt;標題 1&lt;/f2&gt;」的樣式輸入標題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T132308Z" creationid="Franklin Weng" creationdate="20180206T122922Z">
+        <seg>將第一列的儲存格合併起來，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;採用「&lt;f2&gt;標題 1&lt;/f2&gt;」儲存格樣式輸入標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34079,8 +34079,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sub-lists are separated by blank cells, borders, and title, and each day of the trip is broken down into half-hour sections.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122256Z" creationid="Franklin Weng" creationdate="20180206T122256Z">
-        <seg>子清單用空白的儲存格、邊框與標題來區隔開來，每一天的行程都往下拆分到以半小時為單位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T131358Z" creationid="Franklin Weng" creationdate="20180206T122256Z">
+        <seg>子清單用空白的儲存格、自己的邊框，還有標題作區隔，每一天的行程都拆分到以半小時為區間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39785,8 +39785,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To create this trip planner:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T122408Z" creationid="Franklin Weng" creationdate="20180206T122408Z">
-        <seg>建立此旅遊計畫的方式：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T132111Z" creationid="Franklin Weng" creationdate="20180206T122408Z">
+        <seg>建立這個旅遊計畫的步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41383,8 +41383,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Using empty rows and columns as separators, &lt;f0&gt;create ranges of rows for Summary, Planning, and Packing, increasing row and column dimensions as necessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T123522Z" creationid="Franklin Weng" creationdate="20180206T123522Z">
-        <seg>用空白的列與欄做為分隔線，&lt;f0&gt;分別將幾列的範圍做成 Summary, Planning 跟 Packing 三個區塊，必要的時候就增加列與欄的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T132515Z" creationid="Franklin Weng" creationdate="20180206T123522Z">
+        <seg>用空白的橫列與直欄做為分隔，&lt;f0&gt;分別將幾列的範圍做成「摘要」、「計劃」、「打包」等三大區塊，有需要的時候就調高列與欄的空間大小。</seg>
       </tuv>
     </tu>
     <tu>
