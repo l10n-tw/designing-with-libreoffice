@@ -1836,8 +1836,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Adding an&lt;/f0&gt; AutoFilter&lt;f1&gt; &lt;/f1&gt;requires a cell at the top of a &lt;f2&gt;range&lt;/f2&gt; of cells, where it adds a &lt;f3&gt;permanent&lt;/f3&gt; drop-down &lt;f4&gt;list for filtering.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T140257Z" creationid="Franklin Weng" creationdate="20180206T213702Z">
-        <seg>&lt;f0&gt;要用&lt;/f0&gt;自動篩選&lt;f1&gt;&lt;/f1&gt;功能，先移到&lt;f2&gt;要篩選的儲存格範圍的最頂端&lt;/f2&gt;，然後從選單選擇「資料 &gt; 自動篩選」。它會在儲存格的右方&lt;f3&gt;加入一個下拉式選單&lt;/f3&gt;，讓你做&lt;f4&gt;篩選條件的設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T050143Z" creationid="Franklin Weng" creationdate="20180206T213702Z">
+        <seg>&lt;f0&gt;如果要用「&lt;/f0&gt;自動篩選&lt;f1&gt;&lt;/f1&gt;」功能，請先移到&lt;f2&gt;要篩選的儲存格範圍的最頂端&lt;/f2&gt;，然後從選單選擇「資料 &gt; 自動篩選」。它會在儲存格的右方&lt;f3&gt;加入一個下拉式選單&lt;/f3&gt;，讓你做&lt;f4&gt;篩選條件的設定。</seg>
       </tuv>
     </tu>
     <tu>
