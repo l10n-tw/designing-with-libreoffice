@@ -1071,8 +1071,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;This feature&lt;/f5&gt; clumps rows and columns together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T042534Z" creationid="Franklin Weng" creationdate="20180206T212749Z">
-        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;這個功能&lt;/f5&gt;可以把一群列或一群欄集結起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T043022Z" creationid="Franklin Weng" creationdate="20180206T212749Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;這個功能&lt;/f5&gt;可以把一群列或一群欄集合起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17107,8 +17107,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Creating a group adds a tree structure to show the group by expanding the tree, or hide it by collapsing &lt;f6&gt;the tree.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T042648Z" creationid="Franklin Weng" creationdate="20180206T212826Z">
-        <seg>集結起來後，左方會看到一個樹狀結構，你可以同時把整組儲存格折疊隱藏起來或展開來。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T043024Z" creationid="Franklin Weng" creationdate="20180206T212826Z">
+        <seg>集合起來後，會看到一個樹狀結構，你可以同時把整組儲存格折疊隱藏起來或展開來。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21308,8 +21308,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Here, Columns B and C are grouped, &lt;f0&gt;allowing them to be hidden or revealed together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212938Z" creationid="Franklin Weng" creationdate="20180206T212938Z">
-        <seg>這張圖中的欄 B 與欄 C 被集合起了，&lt;f0&gt;這樣可以讓這兩欄同時隱藏或顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T043015Z" creationid="Franklin Weng" creationdate="20180206T212938Z">
+        <seg>這張圖中的B欄與C欄集合起來了，&lt;f0&gt;這樣可以讓這兩欄同時隱藏或顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35851,8 +35851,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The c&lt;/f0&gt;ontrol for expanding and hiding are in the top margin &lt;f1&gt;on the left.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213026Z" creationid="Franklin Weng" creationdate="20180206T213026Z">
-        <seg>&lt;/f0&gt;控制展開或隱藏的地方在標籤上方的&lt;f1&gt;左側&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T043206Z" creationid="Franklin Weng" creationdate="20180206T213026Z">
+        <seg>&lt;/f0&gt;展開或隱藏儲存格的控制項位在欄標上端的&lt;f1&gt;左側&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
