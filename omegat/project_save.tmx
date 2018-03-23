@@ -9810,8 +9810,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;You select where the labels for totals appear from the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Group by&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; drop-down list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T091526Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
-        <seg>&lt;f1&gt;你可以在&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;下拉選單中，選擇小計標籤出現的直欄位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T092738Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
+        <seg>&lt;f1&gt;你可以在&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;下拉選單中，選擇小計標籤要出現的直欄位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22191,8 +22191,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, it needs to be set up &lt;f1&gt;in the correct position.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T153001Z" creationid="Franklin Weng" creationdate="20180207T153001Z">
-        <seg>不過，它需要規劃在&lt;f1&gt;正確的位置&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T092850Z" creationid="Franklin Weng" creationdate="20180207T153001Z">
+        <seg>不過，它需要正確&lt;f1&gt;設置好位置&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41527,8 +41527,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Using the &lt;f0&gt;Subtotals&lt;/f0&gt; window, you can select data arrays, then choose a statistical function to apply to them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T092308Z" creationid="Franklin Weng" creationdate="20180207T144809Z">
-        <seg>在「&lt;f0&gt;小計&lt;/f0&gt;」視窗中，你可以選擇資料陣列，然後選擇要套用的統計函式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T092652Z" creationid="Franklin Weng" creationdate="20180207T144809Z">
+        <seg>在「&lt;f0&gt;小計&lt;/f0&gt;」視窗中，你可以選擇要計算的資料陣列，然後選擇想套用的統計函式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42043,8 +42043,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When applied, it adds labels for subtotals and totals.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T091725Z" creationid="Franklin Weng" creationdate="20180207T144741Z">
-        <seg>套用此功能後，它會在資料中加入小計跟總和的文字標籤。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T092616Z" creationid="Franklin Weng" creationdate="20180207T144741Z">
+        <seg>套用此功能後，它會在資料中加入小計跟總和的文字標籤。（資料陣列除了數字以外，最上方要寫一格這些數字的標題標籤，而左方一欄則留空白讓「小計」放標籤，因此選取範圍時要選取這兩欄。）&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44351,8 +44351,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You may need to add a column &lt;f0&gt;to your data&lt;/f0&gt; to hold the totals &lt;f1&gt;unless you have planned for them.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T090858Z" creationid="Franklin Weng" creationdate="20180207T152639Z">
-        <seg>你可能需要為&lt;f0&gt;你的資料&lt;/f0&gt;再新增一欄，把總和記在那裡，&lt;f1&gt;除非你本來就規劃好位置了。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T092835Z" creationid="Franklin Weng" creationdate="20180207T152639Z">
+        <seg>你可能需要為&lt;f0&gt;你的資料&lt;/f0&gt;再新增一欄放總和，&lt;f1&gt;除非你本來就規劃好位置了。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
