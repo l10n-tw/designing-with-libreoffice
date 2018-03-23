@@ -9810,8 +9810,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;You select where the labels for totals appear from the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Group by&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; drop-down list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152115Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
-        <seg>&lt;f1&gt;你可以從&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;那個下拉式選單中，選擇小計的標籤出現的位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T090051Z" creationid="Franklin Weng" creationdate="20180207T144911Z">
+        <seg>&lt;f1&gt;你可以在&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;「群組依據」&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;下拉選單中，選擇小計標籤出現的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40492,8 +40492,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Typically, the labels appear in the column to the left of the data array, with the totals below the data array.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T152158Z" creationid="Franklin Weng" creationdate="20180207T145337Z">
-        <seg>一般用法裡，小計的標籤會出現在左方，而總和則是在資料陣列的下方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T090555Z" creationid="Franklin Weng" creationdate="20180207T145337Z">
+        <seg>一般用法裡，小計的標籤會出現在該欄左方，而總和則是在資料陣列下方。（？？？但試用後，小計的標籤出現在資料陣列中每個數值下方，而且還幫數值大小排序）</seg>
       </tuv>
     </tu>
     <tu>
