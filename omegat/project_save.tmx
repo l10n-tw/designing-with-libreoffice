@@ -3120,8 +3120,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Filter &gt; Autofilter&lt;/f0&gt; adds a convenient drop-down list for sorting a range of cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142252Z" creationid="Franklin Weng" creationdate="20180207T141914Z">
-        <seg>&lt;f0&gt;「資料 &gt; 自動篩選」&lt;/f0&gt;會新增一個很方便的下拉式選單，來篩選某個範圍的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T075220Z" creationid="Franklin Weng" creationdate="20180207T141914Z">
+        <seg>&lt;f0&gt;「資料 &gt; 自動篩選」&lt;/f0&gt;會新增一個方便的下拉式選單，可篩選某個範圍的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6442,8 +6442,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;SUBTOTAL&lt;/f0&gt; is actually a function listed under the Mathematical category &lt;f1&gt;of functions.&lt;/f1&gt; &lt;f2&gt;However, b&lt;/f2&gt;ecause of its usefulness, the function has a graphical interface accessible from &lt;f3&gt;Data &gt; Subtotal.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142531Z" creationid="Franklin Weng" creationdate="20180207T142531Z">
-        <seg>&lt;f0&gt;SUBTOTAL&lt;/f0&gt; 實際上是一個在「數學」分類中的&lt;f1&gt;函式&lt;/f1&gt;名稱。&lt;f2&gt;不過&lt;/f2&gt;因為這個函式相當有用，所以在選單中的特別給它一個位置，在&lt;f3&gt;「資料 &gt; 小計」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T075342Z" creationid="Franklin Weng" creationdate="20180207T142531Z">
+        <seg>&lt;f0&gt;SUBTOTAL&lt;/f0&gt;，也就是小計，實際上是一個「數學」分類中的&lt;f1&gt;函式&lt;/f1&gt;名稱。&lt;f2&gt;不過&lt;/f2&gt;因為這個函式相當有用，所以選單中有特別給它一個位置，位在「&lt;f3&gt;資料 &gt; 小計」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17203,8 +17203,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Creating subtotals</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142317Z" creationid="Franklin Weng" creationdate="20180207T142317Z">
-        <seg>建立小計（Subtotals）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T075236Z" creationid="Franklin Weng" creationdate="20180207T142317Z">
+        <seg>建立小計</seg>
       </tuv>
     </tu>
     <tu>
@@ -30115,8 +30115,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Otherwise, its options are similar to those of a standard filter.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141903Z" creationid="Franklin Weng" creationdate="20180207T141903Z">
-        <seg>其他的選項則跟標準篩選類似。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T075155Z" creationid="Franklin Weng" creationdate="20180207T141903Z">
+        <seg>其餘選項跟標準篩選類似。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
