@@ -1071,8 +1071,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;This feature&lt;/f5&gt; clumps rows and columns together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212749Z" creationid="Franklin Weng" creationdate="20180206T212749Z">
-        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;這個功能&lt;/f5&gt;可以把一群列或一群欄集合起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T042534Z" creationid="Franklin Weng" creationdate="20180206T212749Z">
+        <seg>&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;這個功能&lt;/f5&gt;可以把一群列或一群欄集結起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17107,8 +17107,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Creating a group adds a tree structure to show the group by expanding the tree, or hide it by collapsing &lt;f6&gt;the tree.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212826Z" creationid="Franklin Weng" creationdate="20180206T212826Z">
-        <seg>集合起來之後，會看到一個樹狀結構，可以同時把整組儲存格展開或折疊隱藏起來。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T042648Z" creationid="Franklin Weng" creationdate="20180206T212826Z">
+        <seg>集結起來後，左方會看到一個樹狀結構，你可以同時把整組儲存格折疊隱藏起來或展開來。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21148,8 +21148,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Groups can be nested within groups.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T212853Z" creationid="Franklin Weng" creationdate="20180206T212853Z">
-        <seg>群組可以是巢狀式，也就是群組內還有群組。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T042707Z" creationid="Franklin Weng" creationdate="20180206T212853Z">
+        <seg>群組可以是巢狀群組，也就是群組內還有群組。</seg>
       </tuv>
     </tu>
     <tu>
