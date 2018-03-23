@@ -9089,8 +9089,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Filtering does not delete the data in the selected cell &lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt; only which cells are displayed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T213330Z" creationid="Franklin Weng" creationdate="20180206T213330Z">
-        <seg>&lt;f1&gt;篩選並不會把符合條件的資料刪除 &lt;/f1&gt;&lt;f2&gt;–&lt;/f2&gt;&lt;f3&gt; 它只是決定要顯示哪些儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T045651Z" creationid="Franklin Weng" creationdate="20180206T213330Z">
+        <seg>&lt;f1&gt;篩選動作不會把符合條件的資料刪除&lt;/f1&gt;&lt;f2&gt;——&lt;/f2&gt;&lt;f3&gt;它只是決定要不要顯示哪些儲存格而已。</seg>
       </tuv>
     </tu>
     <tu>
