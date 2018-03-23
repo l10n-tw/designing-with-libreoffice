@@ -1547,8 +1547,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tool &gt; Filters &gt; Standard Filter &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;sets the Columns and conditions with which to filter information.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141501Z" creationid="Franklin Weng" creationdate="20180207T141501Z">
-        <seg>&lt;f0&gt;「&lt;f1&gt;資料 &gt; 更多篩選 &gt; 標準篩選&lt;/f1&gt;」&lt;/f0&gt;&lt;f2&gt;可以設定欄位跟要篩選的條件。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T075102Z" creationid="Franklin Weng" creationdate="20180207T141501Z">
+        <seg>&lt;f0&gt;「&lt;f1&gt;資料 &gt; 更多篩選 &gt; 標準篩選&lt;/f1&gt;」&lt;/f0&gt;&lt;f2&gt;可以設定欄位跟資料的篩選條件。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13131,8 +13131,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Alone among filters, they can show empty and non-empty cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141233Z" creationid="Franklin Weng" creationdate="20180207T141233Z">
-        <seg>不管其他過濾條件，它們可以直接選擇空白或非空白的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T074852Z" creationid="Franklin Weng" creationdate="20180207T141233Z">
+        <seg>除了一般的過濾條件外，它們還可以直接選擇空白或非空白的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36857,8 +36857,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The menu includes buttons for hiding and unhiding cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141306Z" creationid="Franklin Weng" creationdate="20180207T141306Z">
-        <seg>選單中包含了要隱藏還是顯示符合篩選條件的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T074943Z" creationid="Franklin Weng" creationdate="20180207T141306Z">
+        <seg>選單中也有要隱藏還是顯示符合篩選條件的儲存格的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43541,8 +43541,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can create a standard filter from them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T141330Z" creationid="Franklin Weng" creationdate="20180207T141330Z">
-        <seg>你可以用自動篩選來建立標準篩選。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T075023Z" creationid="Franklin Weng" creationdate="20180207T141330Z">
+        <seg>你可以用自動篩選建立標準篩選。</seg>
       </tuv>
     </tu>
     <tu>
