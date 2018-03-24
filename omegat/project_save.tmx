@@ -2113,8 +2113,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;An explanation of &lt;/f0&gt;the content rules you &lt;f1&gt;decide upon&lt;/f1&gt; for the cell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141719Z" creationid="Franklin Weng" creationdate="20180209T141617Z">
-        <seg>&lt;f0&gt;這個儲存格內容的輸入說明。&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T080129Z" creationid="Franklin Weng" creationdate="20180209T141617Z">
+        <seg>&lt;f0&gt;這個儲存格的內容輸入規則說明。&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11663,8 +11663,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A definition of invalid content, &lt;f0&gt;whether it will be accepted, &lt;/f0&gt;and how to correct it (on the &lt;f1&gt;Error Alert&lt;/f1&gt; tab).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141844Z" creationid="Franklin Weng" creationdate="20180209T141710Z">
-        <seg>何謂無效的內容，&lt;f0&gt;無效的內容是否可接受&lt;/f0&gt;，以及錯誤訊息（在&lt;f1&gt;「錯誤警告」&lt;/f1&gt;標籤頁）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T080237Z" creationid="Franklin Weng" creationdate="20180209T141710Z">
+        <seg>無效內容的定義、&lt;f0&gt;是否能被接受&lt;/f0&gt;，以及如何修正（在&lt;f1&gt;「錯誤警告」&lt;/f1&gt;標籤頁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37350,8 +37350,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The proper formatting of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T070403Z" creationid="Franklin Weng" creationdate="20180209T141532Z">
-        <seg>內容的正確格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T080100Z" creationid="Franklin Weng" creationdate="20180209T141532Z">
+        <seg>內容的格式設定是否正確。</seg>
       </tuv>
     </tu>
     <tu>
