@@ -8971,8 +8971,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;At the very least, explain in the first sentence what is wrong and in the second what needs to be corrected.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143027Z" creationid="Franklin Weng" creationdate="20180209T143027Z">
-        <seg>&lt;f1&gt;至少在錯誤訊息的第一句要解釋錯在哪裡，第二句要說明哪邊需要修正。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083510Z" creationid="Franklin Weng" creationdate="20180209T143027Z">
+        <seg>&lt;f1&gt;至少在錯誤訊息的第一句要解釋哪裡出錯，第二句則需要說明哪裡該怎麼修正。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11986,8 +11986,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A pivot table is a rearrangement of an existing range of data to give new insight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143130Z" creationid="Franklin Weng" creationdate="20180209T143130Z">
-        <seg>樞紐分析表是將現有範圍的資料重新安排，以提供不同角度檢視的工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083559Z" creationid="Franklin Weng" creationdate="20180209T143130Z">
+        <seg>樞紐分析表是將現有的資料範圍重新安排，方便提供不同角度觀點的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14242,8 +14242,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>At its most complicated, a pivot table can be used to analyze raw scientific data, showing the correlations between different fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143434Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
-        <seg>它可以處理相當複雜的資料，例如用於分析原始科學資料，顯示不同因素間的相關性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083703Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
+        <seg>它可以處理相當複雜的資料，例如用在原始科學資料的分析上，能顯示出不同資料欄位間的相關性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44126,8 +44126,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You create &lt;f0&gt;your own &lt;/f0&gt;Validity error messages.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142909Z" creationid="Franklin Weng" creationdate="20180209T142909Z">
-        <seg>你可以建立&lt;f0&gt;你自己&lt;/f0&gt;的驗證規則的錯誤訊息。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083353Z" creationid="Franklin Weng" creationdate="20180209T142909Z">
+        <seg>你可以建立&lt;f0&gt;屬於你自己&lt;/f0&gt;的驗證規則錯誤訊息。</seg>
       </tuv>
     </tu>
     <tu>
