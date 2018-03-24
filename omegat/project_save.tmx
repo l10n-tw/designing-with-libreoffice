@@ -2893,8 +2893,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Column Fields: &lt;/f0&gt;&lt;f1&gt;Creates columns from an available field.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135243Z" creationid="Franklin Weng" creationdate="20180210T135209Z">
-        <seg>&lt;f0&gt;欄的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位中的項目建立一欄。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092316Z" creationid="Franklin Weng" creationdate="20180210T135209Z">
+        <seg>&lt;f0&gt;欄的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位的項目建立成欄。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,8 +3160,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Data Fields: &lt;/f0&gt;&lt;f1&gt;Information to manipulate in the pivot table.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135317Z" creationid="Franklin Weng" creationdate="20180210T135317Z">
-        <seg>&lt;f0&gt;資料欄位：&lt;/f0&gt;&lt;f1&gt;樞紐分析表中的操作資訊。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092524Z" creationid="Franklin Weng" creationdate="20180210T135317Z">
+        <seg>&lt;f0&gt;資料欄位：&lt;/f0&gt;&lt;f1&gt;樞紐分析表中可操作的資訊。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5938,8 +5938,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Page Fields: &lt;/f0&gt;&lt;f1&gt;Creates a drop-down list to filter what the Pivot table displays.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092135Z" creationid="Franklin Weng" creationdate="20180210T135147Z">
-        <seg>&lt;f0&gt;頁面欄位：&lt;/f0&gt;&lt;f1&gt;會建立一個下拉式選單，用來篩選樞紐分析表要顯示的項目。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092143Z" creationid="Franklin Weng" creationdate="20180210T135147Z">
+        <seg>&lt;f0&gt;頁面欄位：&lt;/f0&gt;&lt;f1&gt;會建立一個下拉式選單，用來篩選樞紐分析表要顯示的內容。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,8 +6314,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Row Fields: &lt;/f0&gt;&lt;f1&gt;Creates rows from an available field.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135254Z" creationid="Franklin Weng" creationdate="20180210T135225Z">
-        <seg>&lt;f0&gt;列的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位中的項目建立一列。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092330Z" creationid="Franklin Weng" creationdate="20180210T135225Z">
+        <seg>&lt;f0&gt;列的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位的項目建立成列。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
