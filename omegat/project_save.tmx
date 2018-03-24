@@ -12899,8 +12899,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>All cells above and to the left of the selected cell &lt;f2&gt;are&lt;/f2&gt; &lt;f3&gt;formatted using the style.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085244Z" creationid="Franklin Weng" creationdate="20180211T085244Z">
-        <seg>所有在選取儲存格上方跟左方的儲存格&lt;f2&gt;都會套用&lt;/f2&gt;此&lt;f3&gt;樣式所定義的格式設定&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T124550Z" creationid="Franklin Weng" creationdate="20180211T085244Z">
+        <seg>所有在所選儲存格上方及左方的儲存格&lt;f2&gt;都會套用&lt;/f2&gt;此&lt;f3&gt;樣式所定義的格式設定&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22550,8 +22550,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, to avoid printing blank pages, &lt;/f0&gt;place the cursor in the last cell that has content, then click the style in the &lt;f1&gt;Styles and Formatting &lt;/f1&gt;window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085148Z" creationid="Franklin Weng" creationdate="20180211T085148Z">
-        <seg>不過，為了避免印出空白頁，&lt;/f0&gt;可以將游標點到最後一個有內容的儲存格，然後在「&lt;f1&gt;樣式&lt;/f1&gt;」中選取要使用的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T124532Z" creationid="Franklin Weng" creationdate="20180211T085148Z">
+        <seg>不過，為了避免印出空白頁，&lt;/f0&gt;你可以將游標點到最後一個有內容的儲存格，然後在「&lt;f1&gt;樣式&lt;/f1&gt;」視窗中選取要使用的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39616,8 +39616,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To apply a page style, &lt;f0&gt;you technically need only to place the cursor anywhere on a sheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T084938Z" creationid="Franklin Weng" creationdate="20180211T084938Z">
-        <seg>要套用頁面樣式，&lt;f0&gt;你只需要把游標移在工作表上的任何位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T124509Z" creationid="Franklin Weng" creationdate="20180211T084938Z">
+        <seg>如果要套用頁面樣式，&lt;f0&gt;你只需要把游標移到工作表上的任何位置上就能設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42189,8 +42189,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When the cells are selected, click the style in the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window &lt;f1&gt;in the side bar.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T085020Z" creationid="Franklin Weng" creationdate="20180211T084905Z">
-        <seg>當選完儲存格後，點按右方&lt;f0&gt;側邊欄&lt;/f0&gt;的「&lt;f1&gt;樣式&lt;/f1&gt;」按鈕。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T124439Z" creationid="Franklin Weng" creationdate="20180211T084905Z">
+        <seg>當選取儲存格之後，點按右方&lt;f0&gt;側邊欄&lt;/f0&gt;的「&lt;f1&gt;樣式&lt;/f1&gt;」窗格按鈕。</seg>
       </tuv>
     </tu>
     <tu>
