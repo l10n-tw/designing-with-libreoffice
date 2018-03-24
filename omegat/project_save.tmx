@@ -3144,8 +3144,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Subtotal&lt;/f0&gt; performs a function upon a data array, and adds labels for the totals.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160040Z" creationid="Franklin Weng" creationdate="20180207T160040Z">
-        <seg>「&lt;f0&gt;資料 &gt; 小計&lt;/f0&gt;」可以選擇函式對一個資料陣列做計算，並在結果處加上標籤。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064732Z" creationid="Franklin Weng" creationdate="20180207T160040Z">
+        <seg>「&lt;f0&gt;資料 &gt; 小計&lt;/f0&gt;」可以選擇函式對一段資料陣列做計算，並在結果處加上標籤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8423,8 +8423,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Validity&lt;/f0&gt; defines the type of contents that can be entered in a cell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160644Z" creationid="Franklin Weng" creationdate="20180207T160644Z">
-        <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;」功能用來定義儲存格中可以輸入怎麼樣的資料。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064823Z" creationid="Franklin Weng" creationdate="20180207T160644Z">
+        <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;」功能用來定義在儲存格中可以輸入什麼樣的資料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,8 +8979,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Basically, it is a form of online help, either to aid your memory, or to assist others who are using the same spreadsheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160734Z" creationid="Franklin Weng" creationdate="20180207T160734Z">
-        <seg>&lt;f1&gt;基本上，它可以算是一種線上說明：幫助你記憶，或協助其他使用同一份試算表的人。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064841Z" creationid="Franklin Weng" creationdate="20180207T160734Z">
+        <seg>&lt;f1&gt;基本上，它可以算是一種線上幫助：幫助你記憶，或協助其他使用同一份試算表的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17507,8 +17507,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Defining cell content &lt;f0&gt;and&lt;/f0&gt; adding help</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160313Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
-        <seg>定義儲存格內容&lt;f0&gt;並&lt;/f0&gt;加上說明</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064858Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
+        <seg>定義儲存格內容&lt;f0&gt;並&lt;/f0&gt;加上幫手</seg>
       </tuv>
     </tu>
     <tu>
