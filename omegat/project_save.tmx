@@ -10918,8 +10918,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f4&gt;Most spreadsheets should follow the suggestions for online documents in “Other considerations for fonts,” page 83.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T131937Z" creationid="Franklin Weng" creationdate="20180211T091025Z">
-        <seg>&lt;f4&gt;大部份的試算表都應該遵循第 XXX 頁中，〈字型的其他考量〉裡對線上（螢幕上）閱讀時的字型建議。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132025Z" creationid="Franklin Weng" creationdate="20180211T091025Z">
+        <seg>&lt;f4&gt;大部份的試算表都應該遵循第 XXX 頁中，〈字型的其他考量〉裡對線上（螢幕上）文件閱讀時的字型建議。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11607,8 +11607,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A common fault in spreadsheets is to choose a small font size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092114Z" creationid="Franklin Weng" creationdate="20180211T092114Z">
-        <seg>一個在試算表中常見的錯誤，就是選擇過小的字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132039Z" creationid="Franklin Weng" creationdate="20180211T092114Z">
+        <seg>試算表中常見的錯誤之一，就是選擇過小的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21444,8 +21444,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;a font size that prevents easy reading goes against the main purposes of putting information in a spreadsheet in the first place.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092311Z" creationid="Franklin Weng" creationdate="20180211T092311Z">
-        <seg>不過，&lt;f0&gt;適於閱讀的字型反而往往會跟「把資訊放在試算表中呈現」這個最初的主要目的衝突。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132243Z" creationid="Franklin Weng" creationdate="20180211T092311Z">
+        <seg>不過，&lt;f0&gt;如果選用難以閱讀的字型大小，那等同於一開始就和「把資訊放在試算表中呈現出來」這個主要目的反其道而行。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
