@@ -6330,8 +6330,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;S&lt;/f0&gt;elect the range of data &lt;f1&gt;on the spreadsheet, including the headings.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144103Z" creationid="Franklin Weng" creationdate="20180209T144103Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;選擇試算表中某個資料範圍，&lt;f1&gt;包括它的標題。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083749Z" creationid="Franklin Weng" creationdate="20180209T144103Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;選擇試算表中的某個資料範圍，&lt;f1&gt;範圍包括資料的標題。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6525,8 +6525,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select from the main menu &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Data &gt; Pivot Table &gt; Create,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; then select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Data Source registered in LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Source&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; dialog, then make a selection from the Select Data Source dialog.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134318Z" creationid="Franklin Weng" creationdate="20180209T144945Z">
-        <seg>&lt;f0&gt;從主選單中&lt;/f0&gt;選擇「&lt;f1&gt;&lt;f2&gt;資料 &gt; 樞紐分析表 &gt; 建立&lt;/f2&gt;&lt;/f1&gt;」，&lt;f3&gt;&lt;/f3&gt;然後從「&lt;f4&gt;&lt;f5&gt;選取來源&lt;/f5&gt;&lt;/f4&gt;」視窗中選擇「&lt;f6&gt;LibreOffice 中已註冊的資料來源&lt;/f6&gt;」，&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;然後選擇要建樞紐分析表的資料來源。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083959Z" creationid="Franklin Weng" creationdate="20180209T144945Z">
+        <seg>&lt;f0&gt;從主選單中&lt;/f0&gt;選擇「&lt;f1&gt;&lt;f2&gt;資料 &gt; 樞紐分析表 &gt; 建立&lt;/f2&gt;&lt;/f1&gt;」，&lt;f3&gt;&lt;/f3&gt;然後在「&lt;f4&gt;&lt;f5&gt;選取來源&lt;/f5&gt;&lt;/f4&gt;」視窗中選擇「&lt;f6&gt;LibreOffice 中已註冊的資料來源&lt;/f6&gt;」，&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;然後選擇樞紐分析表所要採用的資料來源。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22151,8 +22151,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, it can also be used in simpler cases, such as sales figures.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143457Z" creationid="Franklin Weng" creationdate="20180209T143457Z">
-        <seg>當然它也可以用來處理簡單的資料，例如銷售圖表等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083720Z" creationid="Franklin Weng" creationdate="20180209T143457Z">
+        <seg>當然，它也可以拿來處理比較簡單的資料，例如銷售數字等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39736,8 +39736,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To create a pivot table:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T143634Z" creationid="Franklin Weng" creationdate="20180209T143634Z">
-        <seg>建立樞紐分析表的做法：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083727Z" creationid="Franklin Weng" creationdate="20180209T143634Z">
+        <seg>建立樞紐分析表的步驟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43990,8 +43990,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can use a database as the source for a pivot table.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T144938Z" creationid="Franklin Weng" creationdate="20180209T144938Z">
-        <seg>你可以用資料庫來做為樞紐分析表的資料來源。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083909Z" creationid="Franklin Weng" creationdate="20180209T144938Z">
+        <seg>你可以用資料庫作為樞紐分析表的資料來源。</seg>
       </tuv>
     </tu>
     <tu>
