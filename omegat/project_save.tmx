@@ -3934,8 +3934,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Generally, y&lt;/f0&gt;ou should also avoid&lt;f1&gt; old style figures in favor of lining figures (the ones you are used to seeing).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T092908Z" creationid="Franklin Weng" creationdate="20180211T092908Z">
-        <seg>&lt;f0&gt;一般而言，&lt;/f0&gt;你應該避免使用&lt;f1&gt;舊式數字，而用齊線數字（平常你習慣看的那種）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132314Z" creationid="Franklin Weng" creationdate="20180211T092908Z">
+        <seg>&lt;f0&gt;一般而言，&lt;/f0&gt;數字部份你應該避免使用&lt;f1&gt;舊式數字，而用齊線數字（平常你習慣看的那種）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21444,8 +21444,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;a font size that prevents easy reading goes against the main purposes of putting information in a spreadsheet in the first place.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132243Z" creationid="Franklin Weng" creationdate="20180211T092311Z">
-        <seg>不過，&lt;f0&gt;如果選用難以閱讀的字型大小，那等同於一開始就和「把資訊放在試算表中呈現出來」這個主要目的反其道而行。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132254Z" creationid="Franklin Weng" creationdate="20180211T092311Z">
+        <seg>不過，&lt;f0&gt;如果選用難以閱讀的字型大小的話，等同於一開始就和「把資訊放在試算表中呈現出來」這個主要目的反其道而行。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29326,8 +29326,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Old style figures, each with their own baselines, can be easier to read in text &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;documents, but modern readers are likely to find them harder to read in rows of figures.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T093336Z" creationid="Franklin Weng" creationdate="20180211T093336Z">
-        <seg>舊式數字裡每個數字都有它自己的基線，在文字文件中閱讀還好；&lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;但是現在的讀者多半覺得這種字型放在一行中不易閱讀。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T132427Z" creationid="Franklin Weng" creationdate="20180211T093336Z">
+        <seg>舊式數字裡每個數字都有它自己的基線，在文字文件中閱讀是還可以；&lt;/f1&gt;&lt;f3&gt;但是現在的讀者多半會覺得這種字型橫排在一起時不大好閱讀。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
