@@ -2394,8 +2394,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Be as concise as possible, and revise your messages carefully.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T121550Z" creationid="Franklin Weng" creationdate="20180209T121550Z">
-        <seg>&lt;f0&gt;當然也不要寫得落落長。仔細地推敲修改你的訊息。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T065926Z" creationid="Franklin Weng" creationdate="20180209T121550Z">
+        <seg>&lt;f0&gt;當然也不要寫得落落長。仔細推敲修改你的訊息，盡量簡單扼要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,8 +8979,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Basically, it is a form of online help, either to aid your memory, or to assist others who are using the same spreadsheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064841Z" creationid="Franklin Weng" creationdate="20180207T160734Z">
-        <seg>&lt;f1&gt;基本上，它可以算是一種線上幫助：幫助你記憶，或協助其他使用同一份試算表的人。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T065007Z" creationid="Franklin Weng" creationdate="20180207T160734Z">
+        <seg>&lt;f1&gt;基本上，它可以算是一種輔助功能：幫助你記憶，或協助其他人使用同一份試算表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17507,8 +17507,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Defining cell content &lt;f0&gt;and&lt;/f0&gt; adding help</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064858Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
-        <seg>定義儲存格內容&lt;f0&gt;並&lt;/f0&gt;加上幫手</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T065027Z" creationid="Franklin Weng" creationdate="20180207T160109Z">
+        <seg>定義儲存格內容&lt;f0&gt;並&lt;/f0&gt;加上輔助說明</seg>
       </tuv>
     </tu>
     <tu>
@@ -24585,8 +24585,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Imagine what you might need to know if you are &lt;f0&gt;us&lt;/f0&gt;ing &lt;f1&gt;the spreadsheet&lt;/f1&gt; six months from now, &lt;t2/&gt;and provide as much detail as possible in the message.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T160917Z" creationid="Franklin Weng" creationdate="20180207T160917Z">
-        <seg>想像一下你可能在六個月之後還要&lt;f0&gt;再用&lt;/f0&gt;這份&lt;f1&gt;試算表&lt;/f1&gt;，&lt;t2/&gt;然後盡可能提供詳細的訊息。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T065111Z" creationid="Franklin Weng" creationdate="20180207T160917Z">
+        <seg>想像一下你可能在六個月之後還要&lt;f0&gt;再用到&lt;/f0&gt;這份&lt;f1&gt;試算表&lt;/f1&gt;，所以盡可能提供詳細的訊息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30702,8 +30702,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Point form or short phrases may be cryptic to your future self and other readers, &lt;f3&gt;so test your messages on somebody else.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T024050Z" creationid="Franklin Weng" creationdate="20180207T160932Z">
-        <seg>用簡單列舉摘要，或是簡短的幾個字，都有可能造成你自己未來再讀，或其他人使用這份試算表時看不懂的困擾。所以記得，你所寫的提示訊息&lt;f3&gt;也要讓其他人看看&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T065834Z" creationid="Franklin Weng" creationdate="20180207T160932Z">
+        <seg>用重點式摘要，或是只有簡短的幾個字，都有可能造成你自己未來看不懂，或其他人使用這份試算表時搞不清楚的困擾。所以檢驗訊息是否寫得夠好的方法是，把你所寫的提示訊息&lt;f3&gt;也給其他人看一看&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
