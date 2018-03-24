@@ -1684,8 +1684,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A validity rule is part of a cell’s content.&lt;/f0&gt; &lt;f1&gt;Selecting&lt;/f1&gt; &lt;f2&gt;Format&lt;/f2&gt; or &lt;f3&gt;Delete All &lt;/f3&gt;from the &lt;f4&gt;Delete Contents&lt;/f4&gt; window &lt;f5&gt;removes it&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142536Z" creationid="Franklin Weng" creationdate="20180209T142536Z">
-        <seg>&lt;f0&gt;驗證規則是儲存格內容的一部份。&lt;/f0&gt;&lt;f1&gt;在「刪除內容」視窗中選擇「全部刪除」或「格式」&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;會把驗證規則一起刪除掉。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T081454Z" creationid="Franklin Weng" creationdate="20180209T142536Z">
+        <seg>&lt;f0&gt;驗證規則屬於儲存格內容的一部份。&lt;/f0&gt;&lt;f1&gt;在「清除內容」視窗中選擇「全部刪除」或「格式」&lt;/f1&gt;&lt;f5&gt;會把驗證規則一起刪除掉。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3152,8 +3152,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Validity &lt;/f0&gt;&lt;f1&gt;is a form of online help.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142846Z" creationid="Franklin Weng" creationdate="20180209T142846Z">
-        <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;」&lt;f1&gt;是線上說明的一種型式。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T081816Z" creationid="Franklin Weng" creationdate="20180209T142846Z">
+        <seg>「&lt;f0&gt;資料 &gt; 驗證&lt;/f0&gt;&lt;f1&gt;」是一種輔助說明的型式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7056,8 +7056,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o copy a validity rule &lt;f1&gt;along with the rest of the cell’s content&lt;/f1&gt;, use &lt;f2&gt;Edit &gt; Paste Special &gt; Paste Formats &lt;/f2&gt;or &lt;f3&gt;Paste All.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T142755Z" creationid="Franklin Weng" creationdate="20180209T142755Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;要複製驗證規則也一樣，&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;在「編輯 &gt; 選擇性貼上」&lt;/f2&gt;視窗中選取&lt;f3&gt;「全部貼上」或「格式」&lt;/f3&gt;就會把驗證規則一起貼過去。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T081735Z" creationid="Franklin Weng" creationdate="20180209T142755Z">
+        <seg>要複製驗證規則的話也是一樣，在「&lt;f2&gt;編輯 &gt; 選擇性貼上&lt;/f2&gt;」視窗中選取「&lt;f3&gt;全部貼上」或「格式&lt;/f3&gt;」就會把驗證規則一起貼過去。</seg>
       </tuv>
     </tu>
     <tu>
