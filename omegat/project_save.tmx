@@ -681,8 +681,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;The &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Pivot Table Layout&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; window opens.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134745Z" creationid="Franklin Weng" creationdate="20180210T134708Z">
-        <seg>&lt;/f1&gt;&lt;f2&gt;會出現&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;樞紐分析表版面配置&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;的視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T084035Z" creationid="Franklin Weng" creationdate="20180210T134708Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;接著會開啟&lt;/f2&gt;「&lt;f3&gt;&lt;f4&gt;樞紐分析表版面配置&lt;/f4&gt;&lt;/f3&gt;」&lt;f5&gt;視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18093,8 +18093,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Drag the available fields to the other panes to change their relationships.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135105Z" creationid="Franklin Weng" creationdate="20180210T135105Z">
-        <seg>把可用欄位中的標題拖到其他欄位去，會改變圖表中它們的關係。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T084302Z" creationid="Franklin Weng" creationdate="20180210T135105Z">
+        <seg>把可用欄位中的標題拖到其他欄位窗格去，這會改變它們之間的關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18878,8 +18878,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Experiment to find the best arrangement.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135021Z" creationid="Franklin Weng" creationdate="20180210T135021Z">
-        <seg>實驗看看，找出最佳配置安排。&lt;/f8&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T084203Z" creationid="Franklin Weng" creationdate="20180210T135021Z">
+        <seg>試著實驗看看，找出最佳的配置安排。&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36630,8 +36630,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The headings in the original data are listed in the &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Available Fields &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;pane.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T134924Z" creationid="Franklin Weng" creationdate="20180210T134924Z">
-        <seg>原始資料中的標題會被列在&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「可用欄位」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;之中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T084048Z" creationid="Franklin Weng" creationdate="20180210T134924Z">
+        <seg>原始資料中的標題會被列在&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;「可用欄位」&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;窗格之中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38709,8 +38709,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>They can be added to any of the other panes, but not all combinations will be relevant or make sense.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180210T135006Z" creationid="Franklin Weng" creationdate="20180210T135006Z">
-        <seg>這些標題可以加到任何其他的欄位中，但要注意把標題放到某些欄位並沒有意義。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T084150Z" creationid="Franklin Weng" creationdate="20180210T135006Z">
+        <seg>這些標題可以加到任何其他窗格中，但要注意把標題放到某些欄位窗格中不見得有什麼意義。</seg>
       </tuv>
     </tu>
     <tu>
