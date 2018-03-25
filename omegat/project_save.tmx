@@ -2595,8 +2595,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;onditional formatting in Calc automatically &lt;f1&gt;changes the appearance of&lt;/f1&gt; &lt;f2&gt;selected cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121945Z" creationid="Franklin Weng" creationdate="20180213T121945Z">
-        <seg>Calc 中的「&lt;f0&gt;條件式格式設定&lt;/f0&gt;」會&lt;f1&gt;自動變更選取儲存格的外觀。&lt;/f1&gt;&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T091205Z" creationid="Franklin Weng" creationdate="20180213T121945Z">
+        <seg>Calc中的「條件式格式設定」會&lt;f1&gt;自動變更所選儲存格的外觀。&lt;/f1&gt;&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15766,8 +15766,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Cell &lt;f0&gt;protection is useful mostly against accidental changes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121404Z" creationid="Franklin Weng" creationdate="20180213T120925Z">
-        <seg>&lt;f0&gt;「儲存格保護」功能大多數是用在避免儲存格被不小心修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090900Z" creationid="Franklin Weng" creationdate="20180213T120925Z">
+        <seg>&lt;f0&gt;「儲存格保護」功能大多用來避免不小心修改到儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20028,8 +20028,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, the spreadsheet might be used by clerks who need to enter data into specific cells, but who should not change anything else.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121629Z" creationid="Franklin Weng" creationdate="20180213T121357Z">
-        <seg>例如，一份試算表可能只讓店員輸入資料到特定的儲存格，但其它的儲存格都不能更動。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090959Z" creationid="Franklin Weng" creationdate="20180213T121357Z">
+        <seg>例如，一份只能讓店員輸入資料到特定儲存格的試算表，就會限定其他儲存格都不能更動。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
