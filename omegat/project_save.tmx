@@ -4039,8 +4039,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hide all: &lt;/f0&gt;Formatted cells are protected from editing, any formula in them is hidden, and &lt;f1&gt;the cells &lt;/f1&gt;are not printed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113545Z" creationid="Franklin Weng" creationdate="20180213T113516Z">
-        <seg>&lt;f0&gt;全部隱藏：&lt;/f0&gt;無法再編輯此儲存格，任何公式函式都會隱藏起來，並且此&lt;f1&gt;儲存格&lt;/f1&gt;將不會被列印出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090307Z" creationid="Franklin Weng" creationdate="20180213T113516Z">
+        <seg>&lt;f0&gt;全部隱藏：&lt;/f0&gt;無法再編輯這些儲存格，裡面的任何公式都會隱藏起來，而且這些&lt;f1&gt;儲存格&lt;/f1&gt;將不會列印出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6154,8 +6154,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Protected: &lt;/f0&gt;Formatted cells cannot be edited.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113550Z" creationid="Franklin Weng" creationdate="20180213T113529Z">
-        <seg>&lt;f0&gt;受保護：&lt;/f0&gt;無法再編輯此儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090239Z" creationid="Franklin Weng" creationdate="20180213T113529Z">
+        <seg>&lt;f0&gt;受保護：&lt;/f0&gt;無法再編輯這些儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34650,16 +34650,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Cell P&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;rotection&lt;/f2&gt; tab offers four options:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113348Z" creationid="Franklin Weng" creationdate="20180213T113348Z">
-        <seg>在「&lt;f0&gt;&lt;f1&gt;儲存格&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;保護&lt;/f2&gt;」標籤頁中提供四個選項：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090131Z" creationid="Franklin Weng" creationdate="20180213T113348Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;儲存格保護&lt;/f1&gt;&lt;/f0&gt;」標籤頁中提供四個選項：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Cell protection&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;tab helps to control editing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113244Z" creationid="Franklin Weng" creationdate="20180213T113244Z">
-        <seg>「&lt;f0&gt;&lt;f1&gt;儲存格保護&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;&lt;/f2&gt;標籤頁可以用來控制此功能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090108Z" creationid="Franklin Weng" creationdate="20180213T113244Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;儲存格保護&lt;/f1&gt;&lt;/f0&gt;」標籤頁可以協助你控制編輯功能。</seg>
       </tuv>
     </tu>
     <tu>
