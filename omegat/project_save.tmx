@@ -24698,8 +24698,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In English locales, the separator is usually a comma (for instance, &lt;f0&gt;1,000&lt;/f0&gt;), but in German it is a period (&lt;f1&gt;1.000&lt;/f1&gt;) &lt;f2&gt;and&lt;/f2&gt; in France a space (&lt;f3&gt;1 000&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121644Z" creationid="Franklin Weng" creationdate="20180211T121644Z">
-        <seg>在英文語言環境中，通常使用逗點（例如 &lt;f0&gt;1,000&lt;/f0&gt;）做千位分隔符，但在德國則是用句點（&lt;f1&gt;1.000&lt;/f1&gt;），&lt;f2&gt;而&lt;/f2&gt;法國則是用空白（&lt;f3&gt;1 000&lt;/f3&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082823Z" creationid="Franklin Weng" creationdate="20180211T121644Z">
+        <seg>在英文的語言環境中，通常使用的是逗點（例如 &lt;f0&gt;1,000&lt;/f0&gt;）做千位分隔符，在德國則是用句點（&lt;f1&gt;1.000&lt;/f1&gt;），&lt;f2&gt;而&lt;/f2&gt;法國則是用空白（&lt;f3&gt;1 000&lt;/f3&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34714,8 +34714,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab has the options you might expect: &lt;f1&gt;Left&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;Right&lt;/f3&gt;, and &lt;f4&gt;Justified&lt;/f4&gt;, &lt;f5&gt;all of them referring to how a line is positioned in a cell&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121926Z" creationid="Franklin Weng" creationdate="20180211T121843Z">
-        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡的選項大致上跟你想的差不多：&lt;f1&gt;左&lt;/f1&gt;、&lt;f2&gt;置中&lt;/f2&gt;、&lt;f3&gt;右&lt;/f3&gt;跟&lt;f4&gt;兩端對齊&lt;/f4&gt;，&lt;f5&gt;這些選項都是用來設定在儲存格中的一行文字怎麼擺放。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082953Z" creationid="Franklin Weng" creationdate="20180211T121843Z">
+        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡的選項大致上跟你想的差不多：「&lt;f1&gt;左&lt;/f1&gt;」、「&lt;f2&gt;置中&lt;/f2&gt;」、「&lt;f3&gt;右&lt;/f3&gt;」跟「&lt;f4&gt;兩端對齊&lt;/f4&gt;」……等等，&lt;f5&gt;這些選項都是用來設定儲存格中的一行文字擺放位置。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37575,8 +37575,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The separator used depends on the locale.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121525Z" creationid="Franklin Weng" creationdate="20180211T121525Z">
-        <seg>使用的符號依所在地域而定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082654Z" creationid="Franklin Weng" creationdate="20180211T121525Z">
+        <seg>使用的符號會依所在語言地區而定。</seg>
       </tuv>
     </tu>
     <tu>
