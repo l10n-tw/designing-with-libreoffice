@@ -3547,8 +3547,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;ormatting &lt;f1&gt;spreadsheets automatically&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145903Z" creationid="Franklin Weng" creationdate="20180216T145903Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;自動格式化試算表&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155529Z" creationid="Franklin Weng" creationdate="20180216T145903Z">
+        <seg>&lt;f1&gt;自動設定試算表格式&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,8 +4931,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Instead&lt;/f0&gt; use the &lt;f1&gt;Add&lt;/f1&gt; button to &lt;f2&gt;apply&lt;/f2&gt; your own formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152416Z" creationid="Franklin Weng" creationdate="20180216T150143Z">
-        <seg>&lt;f0&gt;你可以&lt;/f0&gt;用「&lt;f1&gt;加入&lt;/f1&gt;」鍵來&lt;f2&gt;套用&lt;/f2&gt;你自己的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155655Z" creationid="Franklin Weng" creationdate="20180216T150143Z">
+        <seg>&lt;f0&gt;反過來，你可以&lt;/f0&gt;用「&lt;f1&gt;加入&lt;/f1&gt;」按鈕&lt;f2&gt;套用&lt;/f2&gt;你自己的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8544,8 +8544,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you want to format only part of a sheet, you can use&lt;/f0&gt; &lt;f1&gt;Format &gt; Autoformat&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145953Z" creationid="Franklin Weng" creationdate="20180216T145918Z">
-        <seg>&lt;f0&gt;當你只要對工作表的某部份做格式設定時，你可以用&lt;/f0&gt;「&lt;f1&gt;格式 &gt; 自動格式樣式&lt;/f1&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155558Z" creationid="Franklin Weng" creationdate="20180216T145918Z">
+        <seg>&lt;f0&gt;當你只要對工作表的某部份作格式設定時，你可以用&lt;/f0&gt;「&lt;f1&gt;格式 &gt; 自動格式樣式&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,8 +10042,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;However, m&lt;/f2&gt;any of these pre-defined styles look dated, such as the 3D ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T150028Z" creationid="Franklin Weng" creationdate="20180216T145919Z">
-        <seg>&lt;f2&gt;不過，&lt;/f2&gt;這些預先定義好的樣式有許多看起來都過時了，像是立體的那些。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155636Z" creationid="Franklin Weng" creationdate="20180216T145919Z">
+        <seg>&lt;f2&gt;不過，&lt;/f2&gt;這些預先定義好的樣式有許多看起來都已經過時了，像是3D立體的那些。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27262,8 +27262,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like printing in general, whether you print the grid &lt;f3&gt;or the header &lt;/f3&gt;may be an exercise in trial and error.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155454Z" creationid="Franklin Weng" creationdate="20180216T145845Z">
-        <seg>這就像一般在列印時一樣，到底要不要印出格線&lt;f3&gt;與欄標列號&lt;/f3&gt;可能是個錯誤嘗試與修正的練習。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155517Z" creationid="Franklin Weng" creationdate="20180216T145845Z">
+        <seg>這就像一般在列印時一樣，到底要不要印出格線&lt;f3&gt;與欄標列號&lt;/f3&gt;或許是個試誤與修正的練習。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44319,8 +44319,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You may find Auto&lt;f3&gt;F&lt;/f3&gt;ormat more useful than using &lt;f4&gt;p&lt;/f4&gt;age styles &lt;f5&gt;for creating a general look.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152505Z" creationid="Franklin Weng" creationdate="20180216T152505Z">
-        <seg>如果只是要建立一般的外觀，你可能會覺得「&lt;f3&gt;自動格式樣式&lt;/f3&gt;」會比「&lt;f4&gt;頁面樣式&lt;/f4&gt;」要有用。&lt;f5&gt;&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155757Z" creationid="Franklin Weng" creationdate="20180216T152505Z">
+        <seg>如果你只是想建立一般的外觀，可能會覺得「&lt;f3&gt;自動格式樣式&lt;/f3&gt;」要比「&lt;f4&gt;頁面樣式&lt;/f4&gt;」來得更有用。&lt;f5&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
