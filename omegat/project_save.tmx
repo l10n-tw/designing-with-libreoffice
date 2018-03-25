@@ -6824,8 +6824,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Spreadsheets are primarily lists or ledgers&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152812Z" creationid="Franklin Weng" creationdate="20180216T152812Z">
-        <seg>&lt;f0&gt;試算表基本上就是清單或帳簿。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160118Z" creationid="Franklin Weng" creationdate="20180216T152812Z">
+        <seg>&lt;f0&gt;試算表基本上就是清單或分類帳簿。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9223,8 +9223,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;If you still have problems, consider not adding any other elements.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153051Z" creationid="Franklin Weng" creationdate="20180216T153051Z">
-        <seg>&lt;f1&gt;如果你還是有問題，就考慮別加上其他的元素吧！</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160338Z" creationid="Franklin Weng" creationdate="20180216T153051Z">
+        <seg>&lt;f1&gt;如果你還是一直遇到問題，那就考慮別加上其他元素吧！</seg>
       </tuv>
     </tu>
     <tu>
@@ -12598,8 +12598,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adding other elements</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180120T065220Z" creationid="Franklin Weng" creationdate="20180120T065220Z">
-        <seg>新增其他元素</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160105Z" creationid="Franklin Weng" creationdate="20180120T065220Z">
+        <seg>加入其他元素</seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,8 +18718,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Even worse, &lt;f0&gt;nobody has found a workaround for the problem in Calc.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152953Z" creationid="Franklin Weng" creationdate="20180216T152953Z">
-        <seg>更糟的是，&lt;f0&gt;在 Calc 中這類問題還沒有人找得到變通方案。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160247Z" creationid="Franklin Weng" creationdate="20180216T152953Z">
+        <seg>更糟的是，&lt;f0&gt;在Calc中的這類問題還沒有人找得到變通方案。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22735,8 +22735,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, you can also add &lt;f1&gt;other elements, such as pictures, charts, and formulas, especially when you are turning a spreadsheet into a tutorial.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152901Z" creationid="Franklin Weng" creationdate="20180216T152901Z">
-        <seg>不過，你也可以&lt;f1&gt;加入其他元素，像是圖片、圖表、公式等等，特別是當你把試算表變成一份教學文件時這些元素會很有用。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160156Z" creationid="Franklin Weng" creationdate="20180216T152901Z">
+        <seg>不過，你也可以&lt;f1&gt;加入其他元素，像是圖片、圖表、公式等等，特別是你把試算表做成一份教學文件時這些元素會很有用。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33385,8 +33385,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some of these conventions are expectations, worth noting because they are how others will judge your work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153320Z" creationid="Franklin Weng" creationdate="20180216T153320Z">
-        <seg>有些是值得注意的慣例，因為它們會是其他人看你工作成果的方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160628Z" creationid="Franklin Weng" creationdate="20180216T153320Z">
+        <seg>有些慣例是大家的心裡預期而已，不見得有什麼意義，只因為它們是其他人觀看試算表成品時的習慣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33676,8 +33676,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Spreadsheet conventions differ greatly from those of text documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153238Z" creationid="Franklin Weng" creationdate="20180216T153238Z">
-        <seg>試算表使用的習慣與文字文件有很大的不同。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160413Z" creationid="Franklin Weng" creationdate="20180216T153238Z">
+        <seg>試算表的使用習慣和文字文件有很大的不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35738,8 +35738,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The best advice is to follow the precautions suggested &lt;f0&gt;in Chapter 10 for Writer frames&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153035Z" creationid="Franklin Weng" creationdate="20180216T153035Z">
-        <seg>我能給的最好忠告是遵循&lt;f0&gt;第 10 章&lt;/f0&gt;中對 Writer 外框的建議。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160315Z" creationid="Franklin Weng" creationdate="20180216T153035Z">
+        <seg>我能給的最好忠告，就是遵循&lt;f0&gt;第10章&lt;/f0&gt;給Writer外框的建議。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38605,8 +38605,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>They are almost always enhancements rather than necessities on a spreadsheet.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153108Z" creationid="Franklin Weng" creationdate="20180216T153108Z">
-        <seg>它們通常只是強化性質，對試算表來說並不是必需的。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160353Z" creationid="Franklin Weng" creationdate="20180216T153108Z">
+        <seg>它們通常只是強化性質，對試算表來說不見得必要。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40692,8 +40692,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unfortunately, just as with frames in text documents, additional elements in Calc do not always stay where you place them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152930Z" creationid="Franklin Weng" creationdate="20180216T152930Z">
-        <seg>只是，就跟文字文件中的外框一樣，在 Calc 中新增元素也不一定會老實待在你要它待的位置。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160230Z" creationid="Franklin Weng" creationdate="20180216T152930Z">
+        <seg>只是，就跟文字文件中的外框一樣，在Calc中新增元素也不見得會老老實實待在你要它待的位置上。</seg>
       </tuv>
     </tu>
     <tu>
