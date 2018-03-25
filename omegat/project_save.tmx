@@ -28550,8 +28550,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Negative numbers &lt;f0&gt;are &lt;/f0&gt;red.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120843Z" creationid="Franklin Weng" creationdate="20180211T120843Z">
-        <seg>&lt;f0&gt;用紅色&lt;/f0&gt;顯示負數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082505Z" creationid="Franklin Weng" creationdate="20180211T120843Z">
+        <seg>用紅色顯示負數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30075,8 +30075,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Otherwise, Calc rounds up or down, &lt;f0&gt;which may display&lt;/f0&gt; imprecise results for formulas.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120543Z" creationid="Franklin Weng" creationdate="20180211T120543Z">
-        <seg>不然，Calc 可能會進位或捨去，&lt;f0&gt;顯示出來的&lt;/f0&gt;公式計算結果的數字會不夠精確。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082211Z" creationid="Franklin Weng" creationdate="20180211T120543Z">
+        <seg>不然，Calc可能會進位或捨去，&lt;f0&gt;顯示出來的&lt;/f0&gt;公式計算結果的數字會不夠精確。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36020,8 +36020,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The default is 1, which means that you need to change it to 2 if you want to display 01 rather than 1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120816Z" creationid="Franklin Weng" creationdate="20180211T120816Z">
-        <seg>預設值為 1，表示左方預設為一位數。如果你要顯示 07 而不是 7，那就要把這個選項設為 2 表示顯示兩位數，不足的前面補 0。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082445Z" creationid="Franklin Weng" creationdate="20180211T120816Z">
+        <seg>預設值為1，表示左方預設為一個位數的零。如果你想要顯示出07而不是7的話，那就要把這個選項設為2表示顯示兩位數的零，不足的前面會補0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39471,8 +39471,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Thousands separator: Whether a character will be used to separate numbers larger than a thousand for easier reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T121502Z" creationid="Franklin Weng" creationdate="20180211T121502Z">
-        <seg>千位分隔符：使用哪一個符號做為一千以上數字分隔的符號。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082626Z" creationid="Franklin Weng" creationdate="20180211T121502Z">
+        <seg>千位分隔符：使用哪一個符號做為數字一千以上的分隔符號。</seg>
       </tuv>
     </tu>
     <tu>
