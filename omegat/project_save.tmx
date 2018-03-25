@@ -1014,8 +1014,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;For instance, 0&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;1/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; is January 31, 2015.&lt;/f7&gt; However, this format means that whether the month or the date comes first is unclear &lt;f8&gt;for days 1-12 of any month&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114437Z" creationid="Franklin Weng" creationdate="20180211T114437Z">
-        <seg>&lt;/f3&gt;&lt;f4&gt;例如，0&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;1/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;表示 2015 年 1 月 31 日。&lt;/f7&gt;但這種格式在表示&lt;f8&gt;每個月的 1 日到 12 日&lt;/f8&gt;時往往會讓人分不清哪一個數字是月哪一個數字是日。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081642Z" creationid="Franklin Weng" creationdate="20180211T114437Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;例如，&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;01/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;表示 2015年1月31日。&lt;/f7&gt;但這種格式在表示&lt;f8&gt;每個月的1日到12日&lt;/f8&gt;時往往會讓人分不清哪一個數字是指月，哪一個數字又是指日。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,8 +5432,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most time&lt;/f0&gt; formats assume a 24 hour clock, unless they end with &lt;f1&gt;PM.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114552Z" creationid="Franklin Weng" creationdate="20180211T114552Z">
-        <seg>&lt;f0&gt;大部份的時間&lt;/f0&gt;格式都假設為 24 小時制，除非以 &lt;f1&gt;PM&lt;/f1&gt; 結尾。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081801Z" creationid="Franklin Weng" creationdate="20180211T114552Z">
+        <seg>&lt;f0&gt;大部份的時間&lt;/f0&gt;格式都假設為24小時制，除非以 &lt;f1&gt;PM&lt;/f1&gt;之類結尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39648,8 +39648,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To avoid ambiguity, use the format &lt;f0&gt;YYYY-MM-DD,&lt;/f0&gt; which is becoming increasingly common &lt;f1&gt;as an international standard&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114525Z" creationid="Franklin Weng" creationdate="20180211T114525Z">
-        <seg>要避免這種混淆，最好使用 &lt;f0&gt;YYYY-MM-DD&lt;/f0&gt; 這樣的格式。這種表示法已經逐漸&lt;f1&gt;成為國際標準。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081739Z" creationid="Franklin Weng" creationdate="20180211T114525Z">
+        <seg>如果要避免這種混淆，最好使用&lt;f0&gt;YYYY-MM-DD&lt;/f0&gt;這樣的格式。這種表示法已經逐漸&lt;f1&gt;成為國際通用標準。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44593,8 +44593,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You should also keep in mind the general options that may or may not apply to a particular &lt;f0&gt;number format &lt;/f0&gt;option:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120433Z" creationid="Franklin Weng" creationdate="20180211T120433Z">
-        <seg>你也要留意以下這些特別的&lt;f0&gt;數字格式設定&lt;/f0&gt;選項：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082019Z" creationid="Franklin Weng" creationdate="20180211T120433Z">
+        <seg>你也要留意以下這些一般選項是否適用於特定的&lt;f0&gt;數字格式&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
