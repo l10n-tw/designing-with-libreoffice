@@ -5248,8 +5248,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;oreover, if you plan to print to hard copy, you may want to pay more attention to typographical standards than &lt;f1&gt;you would &lt;/f1&gt;if a sheet is used entirely online.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140637Z" creationid="Franklin Weng" creationdate="20180216T140527Z">
-        <seg>&lt;f0&gt;此外&lt;/f0&gt;，如果你計畫要列印一個幾乎都在線上閱讀的試算表，&lt;f1&gt;你要更注意&lt;/f1&gt;文字排印的標準。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T151331Z" creationid="Franklin Weng" creationdate="20180216T140527Z">
+        <seg>&lt;f0&gt;此外&lt;/f0&gt;，如果你計畫要將一份幾乎都在螢幕上閱讀的試算表印成紙本的話，&lt;f1&gt;你就要更注意&lt;/f1&gt;字體排印界的標準。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,8 +5738,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Once you have set conditional formatting, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Manage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the sub-menu to see a summary and edit the selections.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150850Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
-        <seg>&lt;f0&gt;當你設定好條件式格式設定後，你可以從選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來看看條件摘要，並編輯你的選項。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150952Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
+        <seg>&lt;f0&gt;當你設定好條件式格式設定後，你可以從子選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;看看條件摘要，並編輯你的選項。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5954,8 +5954,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Page s&lt;/f0&gt;tyles tend to be used less in spreadsheets than in text documents &lt;f1&gt;because spreadsheets are mostly online documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140322Z" creationid="Franklin Weng" creationdate="20180216T140322Z">
-        <seg>&lt;f0&gt;頁面樣式&lt;/f0&gt;在試算表中比較少用到，&lt;f1&gt;因為試算表比較常在線上閱讀</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T151053Z" creationid="Franklin Weng" creationdate="20180216T140322Z">
+        <seg>&lt;f0&gt;頁面樣式&lt;/f0&gt;在試算表中比較少用，&lt;f1&gt;因為試算表比較常在螢幕上閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23117,8 +23117,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If conditional formatting does not work, check that &lt;f0&gt;&lt;f1&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; is selected.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140225Z" creationid="Franklin Weng" creationdate="20180216T140225Z">
-        <seg>如果格式化條件設定無法運作，到選單中的&lt;f0&gt;&lt;f1&gt;「資料 &gt; 計算 &gt; 自動計算」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;看看是否有勾選起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T151033Z" creationid="Franklin Weng" creationdate="20180216T140225Z">
+        <seg>如果條件式格式設定無法運作的話，到選單中的&lt;f0&gt;&lt;f1&gt;「資料 &gt; 計算 &gt; 自動計算」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;看看是否已有勾選。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29158,8 +29158,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Often, spreadsheets are made with no thought of them conforming to any printed page size.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140355Z" creationid="Franklin Weng" creationdate="20180216T140355Z">
-        <seg>也因此，製作試算表時也比較不會考慮是否能符合列印頁面大小。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T151217Z" creationid="Franklin Weng" creationdate="20180216T140355Z">
+        <seg>也因此，製作試算表時也就較少去考慮印出來是否能符合怎樣的頁面大小。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
