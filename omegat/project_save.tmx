@@ -8189,8 +8189,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Unfortunately, &lt;/f0&gt;this practice would limit you to no more than half a dozen columns, which is often impractical.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142532Z" creationid="Franklin Weng" creationdate="20180216T142532Z">
-        <seg>&lt;f0&gt;不過，&lt;/f0&gt;這樣實際上的限制可能讓你印不了幾個欄位，通常不太實用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152656Z" creationid="Franklin Weng" creationdate="20180216T142532Z">
+        <seg>&lt;f0&gt;不過，&lt;/f0&gt;這些選項實際上限制更多，像是只能有幾個直欄之類，所以通常不太實用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20189,8 +20189,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, allowing for &lt;f0&gt;margins of&lt;/f0&gt; 2.5 centimeters on &lt;f1&gt;portrait-oriented, &lt;/f1&gt;letter-sized paper, columns should have a combined width of no more than about 17 centimeters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142402Z" creationid="Franklin Weng" creationdate="20180216T142402Z">
-        <seg>例如，在縱向、Letter 大小的紙張，&lt;f0&gt;邊界&lt;/f0&gt; 2.5 公分時&lt;f1&gt;&lt;/f1&gt;欄寬總和通常就不要超過 17 公分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152517Z" creationid="Franklin Weng" creationdate="20180216T142402Z">
+        <seg>例如，在縱向、Letter (US) 大小的紙張上（寬度21.59公分），&lt;f0&gt;邊距&lt;/f0&gt;2.5公分時&lt;f1&gt;&lt;/f1&gt;的欄寬總和通常就不要超過17公分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29672,8 +29672,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>One way to make printing easier is to keep careful track of column widths to make sure that they fit comfortably on a page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142217Z" creationid="Franklin Weng" creationdate="20180216T142217Z">
-        <seg>一個讓列印比較容易的方法，是隨時留意欄寬，確保在列印時不會超過。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152354Z" creationid="Franklin Weng" creationdate="20180216T142217Z">
+        <seg>有一個讓列印變簡單的方法，就是隨時留意欄寬，確保在列印時不會超過頁面範圍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35102,8 +35102,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab has options for printing to hard copy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142456Z" creationid="Franklin Weng" creationdate="20180216T142456Z">
-        <seg>在「格式 &gt; 頁面」中的「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁裡有一些列印時可以用的選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152535Z" creationid="Franklin Weng" creationdate="20180216T142456Z">
+        <seg>在「格式 &gt; 頁面」中的「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁裡有一些列印時可用的選項。</seg>
       </tuv>
     </tu>
     <tu>
