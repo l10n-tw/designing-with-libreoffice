@@ -2676,8 +2676,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Cell value is:&lt;/f0&gt; Applies the selected cell style when the &lt;f1&gt;numerical value&lt;/f1&gt; is met.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074105Z" creationid="Franklin Weng" creationdate="20180215T074105Z">
-        <seg>&lt;f0&gt;儲存格值：&lt;/f0&gt;選取的儲存格的&lt;f1&gt;數值&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T133023Z" creationid="Franklin Weng" creationdate="20180215T074105Z">
+        <seg>&lt;f0&gt;儲存格值：&lt;/f0&gt;儲存格的&lt;f1&gt;數值&lt;/f1&gt;滿足條件時才會套用樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10442,8 +10442,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;This type is useful for emphasizing target values in a range of cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130546Z" creationid="Franklin Weng" creationdate="20180215T074124Z">
-        <seg>&lt;f2&gt;這種型態用於突顯選取的儲存格範圍中的目標數值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T133100Z" creationid="Franklin Weng" creationdate="20180215T074124Z">
+        <seg>&lt;f2&gt;這個類型對於要強調所選儲存格範圍中的目標數值時很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15260,8 +15260,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By changing the general condition,&lt;f0&gt; &lt;/f0&gt;you can set the following types of conditional formatting:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T074031Z" creationid="Franklin Weng" creationdate="20180215T074031Z">
-        <seg>在一般條件中你可以設定：&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T132931Z" creationid="Franklin Weng" creationdate="20180215T074031Z">
+        <seg>在一般條件中你可以設定下列類型：&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26191,8 +26191,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It cannot be used for cells formatted for text.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130609Z" creationid="Franklin Weng" creationdate="20180216T130609Z">
-        <seg>它不能用在放文字的儲存格。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T142508Z" creationid="Franklin Weng" creationdate="20180216T130609Z">
+        <seg>它對文字格式的儲存格沒有作用。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
