@@ -1247,8 +1247,8 @@
       <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Color Scale&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; and &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Data Bar&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; are shortcuts to options available under &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;Condition&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134445Z" creationid="Franklin Weng" creationdate="20180213T124027Z">
-        <seg>&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;色階&lt;/f10&gt;&lt;/f9&gt;」&lt;f11&gt;與&lt;/f11&gt;「&lt;f12&gt;&lt;f13&gt;資料條&lt;/f13&gt;&lt;/f12&gt;」&lt;f14&gt; 除了在&lt;/f14&gt;「&lt;f15&gt;&lt;f16&gt;條件&lt;/f16&gt;&lt;/f15&gt;」中設定「所有儲存格」後可以選擇之外，在「條件式格式設定」下也有捷徑可以直接選取。&lt;f17&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T092534Z" creationid="Franklin Weng" creationdate="20180213T124027Z">
+        <seg>「&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;色階&lt;/f10&gt;&lt;/f9&gt;」&lt;f11&gt;與&lt;/f11&gt;「&lt;f12&gt;&lt;f13&gt;資料條&lt;/f13&gt;&lt;/f12&gt;」&lt;f14&gt; 除了在&lt;/f14&gt;「&lt;f15&gt;&lt;f16&gt;條件&lt;/f16&gt;&lt;/f15&gt;」中設定「所有儲存格」後可以選擇之外，在「格式 &gt; 條件式格式設定」下也有捷徑可以直接選取。&lt;f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13099,8 +13099,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>All types of conditional formatting can be configured from &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Condition&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T124747Z" creationid="Franklin Weng" creationdate="20180213T123653Z">
-        <seg>所有條件式格式設定的型態都可以在「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;條件&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」中設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T091926Z" creationid="Franklin Weng" creationdate="20180213T123653Z">
+        <seg>所有條件式格式設定的類型都可以在「&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;條件&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;」中設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21821,8 +21821,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, conditonal formatting gives other graphical representations of data as well.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T123349Z" creationid="Franklin Weng" creationdate="20180213T123349Z">
-        <seg>不過，條件式格式設定還可以將資料用其他圖形方式呈現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T091711Z" creationid="Franklin Weng" creationdate="20180213T123349Z">
+        <seg>不過，條件式格式設定還可以將資料以其他圖形方式呈現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23189,8 +23189,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If necessary, you can edit the range of cells affected at the bottom of the &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Conditions&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; window.&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180215T073604Z" creationid="Franklin Weng" creationdate="20180215T073604Z">
-        <seg>如果有必要設定多個儲存格，你可以在&lt;/f17&gt;「&lt;f18&gt;&lt;f19&gt;條件&lt;/f19&gt;&lt;/f18&gt;」&lt;f20&gt;視窗&lt;/f20&gt;底部編輯儲存格範圍。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T092603Z" creationid="Franklin Weng" creationdate="20180215T073604Z">
+        <seg>如果有必要設定多個儲存格，你可以在「&lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;條件&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;」視窗底部編輯儲存格範圍。&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39535,8 +39535,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To &lt;f0&gt;use&lt;/f0&gt; Calc’s conditional formatting, &lt;f1&gt;select the cells to work with, then click&lt;/f1&gt; &lt;f2&gt;Format &gt; Conditional Formatting &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt; Condition&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, and select an item from the sub-menu.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134348Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
-        <seg>在 Calc 中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定，&lt;f1&gt;先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定 &gt; 條件」，&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;然後從「條件」區塊中的子選單中選擇其中一個項目來做設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T091908Z" creationid="Franklin Weng" creationdate="20180213T123645Z">
+        <seg>在Calc中要&lt;f0&gt;使用&lt;/f0&gt;條件式格式設定的話，&lt;f1&gt;請先選擇要呈現資料的儲存格&lt;/f1&gt;，然後在選單中選&lt;f2&gt;「格式 &gt; 條件式格式設定 &gt; 條件」，&lt;/f2&gt;&lt;f5&gt;然後從「條件」區塊中的子選單中選擇其中一個項目做設定。</seg>
       </tuv>
     </tu>
     <tu>
