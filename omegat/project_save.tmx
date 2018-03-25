@@ -1327,8 +1327,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;All Cells &gt; Color scale (3 entries)&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Like a color scale for two entries, except that a third target value is added, often a midpoint using the value &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Percent&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T134814Z" creationid="Franklin Weng" creationdate="20180216T133132Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;「所有儲存格 &gt; 色階（3 個條目）」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：跟 2 個條目很像，就是加上第三個目標值。通常第三個值是用&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;百分比&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;來標示最高與最低中間的值。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T145755Z" creationid="Franklin Weng" creationdate="20180216T133132Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;「所有儲存格 &gt; 色階（3 個條目）」&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;：跟 2 個條目很像，就是加上第三個目標值。通常第三個值是&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;百分比&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;，用來標示最高與最低兩者中點的值。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11599,8 +11599,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A color scale, with &lt;f0&gt;yellow&lt;/f0&gt; indicating the lowest value&lt;f1&gt; and cyan&lt;/f1&gt; the highest.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T145006Z" creationid="Franklin Weng" creationdate="20180216T132804Z">
-        <seg>「色階」的一種用法，例如將最低值標記為&lt;f0&gt;黃色&lt;/f0&gt;，最高值標記為&lt;f1&gt;青藍色&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T145033Z" creationid="Franklin Weng" creationdate="20180216T132804Z">
+        <seg>「色階」的一種用法，例如將最低值標記為&lt;f0&gt;黃色&lt;/f0&gt;，最高值標記為&lt;f1&gt;藍色&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28026,8 +28026,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Mid-ranged values are different shades of &lt;f2&gt;green&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132859Z" creationid="Franklin Weng" creationdate="20180216T132859Z">
-        <seg>在中間的值則為不同色調的&lt;f2&gt;綠色&lt;/f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T145031Z" creationid="Franklin Weng" creationdate="20180216T132859Z">
+        <seg>落在中間的值則為不同色調的&lt;f2&gt;綠色&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
