@@ -3910,8 +3910,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;roup related information &lt;f1&gt;on the same sheet.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T105206Z" creationid="Franklin Weng" creationdate="20180129T141315Z">
-        <seg>將有關聯的資訊組合起來，放到&lt;f1&gt;同一份工作表中。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162220Z" creationid="Franklin Weng" creationdate="20180129T141315Z">
+        <seg>將互有關聯的資訊組合起來，放到&lt;f1&gt;同一份工作表中。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19768,8 +19768,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, a sheet containing raw data needs a design that is &lt;f0&gt;straightforward and perhaps a single page&lt;/f0&gt;, while a sheet containing analysis&lt;f1&gt; may require several sheets and not only headers, but also longer notes to guide users.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T105024Z" creationid="Franklin Weng" creationdate="20180129T141234Z">
-        <seg>例如，內含原始資料的工作表所要的是&lt;f0&gt;直觀的設計，通常會擺在同一頁中&lt;/f0&gt;；而內含分析功能的試算表&lt;f1&gt;，則可能需要用到數份工作表，標頭還有長長的備註來引導使用者。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162213Z" creationid="Franklin Weng" creationdate="20180129T141234Z">
+        <seg>例如，內含原始資料的工作表所要的是&lt;f0&gt;直觀的設計，通常會擺在同一頁中&lt;/f0&gt;；而內含分析功能的試算表&lt;f1&gt;，則可能需要用到數份工作表，標頭還有長長的備註來引導使用者之類。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
