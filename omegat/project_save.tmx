@@ -5738,8 +5738,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Once you have set conditional formatting, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Manage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the sub-menu to see a summary and edit the selections.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135434Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
-        <seg>&lt;f0&gt;當你設定好格式化條件設定後，你可以從選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來看看摘要並編輯你的選擇。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150850Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
+        <seg>&lt;f0&gt;當你設定好條件式格式設定後，你可以從選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;來看看條件摘要，並編輯你的選項。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13445,8 +13445,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An icon set annotates results.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135233Z" creationid="Franklin Weng" creationdate="20180216T135233Z">
-        <seg>一組用來表示結果的圖示集。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150707Z" creationid="Franklin Weng" creationdate="20180216T135233Z">
+        <seg>一組用來解釋結果的圖示集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16351,8 +16351,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Manage&lt;/f0&gt; in the &lt;f1&gt;Conditional&lt;/f1&gt; sub-menu to add, edit, or remove conditional formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135549Z" creationid="Franklin Weng" creationdate="20180216T135549Z">
-        <seg>在「格式化條件設定」子選單中點按&lt;f0&gt;「管理」&lt;/f0&gt;來&lt;f1&gt;&lt;/f1&gt;新增、編輯或移除設定好的條件設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150942Z" creationid="Franklin Weng" creationdate="20180216T135549Z">
+        <seg>在「條件式格式設定」的子選單中點按&lt;f0&gt;「管理」&lt;/f0&gt;，可以新增、編輯或移除設定好的條件式格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20044,8 +20044,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, traffic icon&lt;f1&gt;s&lt;/f1&gt; or &lt;f2&gt;emoticons&lt;/f2&gt; might designate if results were above, below, or equal to projections.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135223Z" creationid="Franklin Weng" creationdate="20180216T135223Z">
-        <seg>例如，&lt;f1&gt;交通圖示&lt;/f1&gt;或&lt;f2&gt;表情圖示&lt;/f2&gt;可以用來表示結果為偏高、偏低或持平等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150636Z" creationid="Franklin Weng" creationdate="20180216T135223Z">
+        <seg>例如，&lt;f1&gt;交通號誌&lt;/f1&gt;或&lt;f2&gt;表情圖示&lt;/f2&gt;可以用來用達結果是偏高、偏低或持平等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21316,8 +21316,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Here, emoticons indicate that two results were neutral, and two results better than neutral.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T135301Z" creationid="Franklin Weng" creationdate="20180216T135301Z">
-        <seg>這邊的表情圖示顯示有兩個結果是持平，兩個結果是比較理想的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150734Z" creationid="Franklin Weng" creationdate="20180216T135301Z">
+        <seg>這邊的表情圖示顯示有兩個結果是持平，有兩個結果則是比較理想的。</seg>
       </tuv>
     </tu>
     <tu>
