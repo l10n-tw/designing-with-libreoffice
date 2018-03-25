@@ -5802,8 +5802,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Other formats, such as dates or currency, must be specifically set from the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbers&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113147Z" creationid="Franklin Weng" creationdate="20180211T113147Z">
-        <seg>&lt;f0&gt;其他的格式，如日期或貨幣，則必須經由格式設定中的&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「數字」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;標籤頁&lt;/f3&gt;來設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T075025Z" creationid="Franklin Weng" creationdate="20180211T113147Z">
+        <seg>&lt;f0&gt;其他格式，例如日期或貨幣這類，則必須經由格式設定中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;數字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁&lt;/f3&gt;指定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8504,8 +8504,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you &lt;/f0&gt;select another &lt;f1&gt;format&lt;/f1&gt;, the behavior of the cell becomes fixed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113420Z" creationid="Franklin Weng" creationdate="20180211T113420Z">
-        <seg>&lt;f0&gt;當你&lt;/f0&gt;選擇其他的&lt;f1&gt;格式&lt;/f1&gt;時，儲存格的行為就會變得固定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T075152Z" creationid="Franklin Weng" creationdate="20180211T113420Z">
+        <seg>&lt;f0&gt;在你&lt;/f0&gt;選擇其他的&lt;f1&gt;格式&lt;/f1&gt;後，儲存格的行為就會固定下來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34980,8 +34980,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Numbers&lt;/f0&gt; tab &lt;f1&gt;sets how cells&lt;/f1&gt; treat numbers &lt;f2&gt;(and text, too).&lt;/f2&gt; &lt;f3&gt;The available default formats depend on the locale to which LibreOffice is set.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113346Z" creationid="Franklin Weng" creationdate="20180211T113346Z">
-        <seg>「&lt;f0&gt;數字&lt;/f0&gt;」標籤頁&lt;f1&gt;設定儲存格&lt;/f1&gt;如何處理數字&lt;f2&gt;（還有文字）。&lt;/f2&gt; &lt;f3&gt;預設的格式設定則跟 LibreOffice 所設定的語言環境設定有關。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T075117Z" creationid="Franklin Weng" creationdate="20180211T113346Z">
+        <seg>「&lt;f0&gt;數字&lt;/f0&gt;」標籤頁&lt;f1&gt;設定儲存格&lt;/f1&gt;處理數字的方式&lt;f2&gt;（還有文字）。&lt;/f2&gt; &lt;f3&gt;可用的預設格式則跟LibreOffice所設定的語言環境設定有關。</seg>
       </tuv>
     </tu>
     <tu>
