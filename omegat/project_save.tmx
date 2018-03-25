@@ -6170,8 +6170,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084217Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
-        <seg>盡量少旋轉文字。以順時針旋轉「&lt;f1&gt;文字方向&lt;/f1&gt;」的轉盤，&lt;f2&gt;讓文字從最低處開始。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084316Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
+        <seg>文字的旋轉角度盡量越少越好。以順時針方向旋轉「&lt;f1&gt;文字方向&lt;/f1&gt;」的轉盤，&lt;f2&gt;讓文字從最低點開始。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10346,8 +10346,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;Text &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;E&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;xtension &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;F&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;rom &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;L&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;ower &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;C&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;ell &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;B&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;order&lt;/f17&gt; gives you the most space, and is usually a reasonable default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131227Z" creationid="Franklin Weng" creationdate="20180211T131227Z">
-        <seg>&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;/f17&gt;「文字從儲存格下邊緣延伸」會讓你有最多空間放文字，通常是個合理的預設值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084610Z" creationid="Franklin Weng" creationdate="20180211T131227Z">
+        <seg>「&lt;f2&gt;文字從儲存格下邊緣延伸&lt;/f2&gt;」的選項讓你有最多空間放文字，通常是個合理的預設值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11126,8 +11126,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f6&gt;Rotating text may allow more to be squeezed in, but often at the cost of reduced readability.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130737Z" creationid="Franklin Weng" creationdate="20180211T130737Z">
-        <seg>&lt;f6&gt;除非你真的要把文字擠在小儲存格中，才考慮旋轉文字，因為它通常會犧牲可讀性。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084455Z" creationid="Franklin Weng" creationdate="20180211T130737Z">
+        <seg>&lt;f6&gt;除非你真的很想把文字擠到小儲存格中，才考慮旋轉文字；因為這麼做通常會犧牲文字的易讀性。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28172,8 +28172,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>More than &lt;f3&gt;a 45-&lt;/f3&gt;degree &lt;f4&gt;angle&lt;/f4&gt; should generally be avoided, and even more so &lt;f5&gt;Vertically Stacked,&lt;/f5&gt; which displays text vertically, character by character.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130649Z" creationid="Franklin Weng" creationdate="20180211T130649Z">
-        <seg>通常不要轉超過 &lt;f3&gt;45&lt;/f3&gt; &lt;f4&gt;度&lt;/f4&gt;，或甚至用「&lt;f5&gt;垂直堆疊&lt;/f5&gt;」，也就是垂直方向一個字元一個字元這樣顯示文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084415Z" creationid="Franklin Weng" creationdate="20180211T130649Z">
+        <seg>通常不要轉超過&lt;f3&gt;45&lt;/f3&gt;度&lt;f4&gt;角&lt;/f4&gt;，也不要用「&lt;f5&gt;垂直堆疊&lt;/f5&gt;」，也就是垂直方向一個字元一個字元這樣顯示文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43348,8 +43348,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can adjust rotated text by selecting its &lt;f0&gt;Reference Edge –&lt;/f0&gt; &lt;f1&gt;that is, &lt;/f1&gt;where the text starts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T130839Z" creationid="Franklin Weng" creationdate="20180211T130839Z">
-        <seg>另外文字旋轉後可以選擇它的「&lt;f0&gt;參照邊線&lt;/f0&gt;」 – &lt;f1&gt;也就是&lt;/f1&gt;文字開始的地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084516Z" creationid="Franklin Weng" creationdate="20180211T130839Z">
+        <seg>另外文字旋轉後可以選擇它的「&lt;f0&gt;參照邊線&lt;/f0&gt;」——&lt;f1&gt;也就是&lt;/f1&gt;文字開始的地方。</seg>
       </tuv>
     </tu>
     <tu>
