@@ -2668,8 +2668,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Cell protection is not activated unless you elect either &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Sheet&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Document&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; from &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Tools &gt; Protect Document.&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Selecting either item a second time turns off all protection features.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T121322Z" creationid="Franklin Weng" creationdate="20180213T120919Z">
-        <seg>&lt;f0&gt;儲存格保護只有在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt;「工具」選單下勾選「保護工作表」或「保護試算表」時才會發揮作用。&lt;f9&gt;再點一次的話所有的保護功能都會同時被關閉。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090650Z" creationid="Franklin Weng" creationdate="20180213T120919Z">
+        <seg>&lt;f0&gt;儲存格保護只有你在「&lt;/f0&gt;&lt;f7&gt;&lt;f8&gt;工具&lt;/f8&gt;&lt;/f7&gt;」選單下勾選「保護工作表」或「保護試算表」時才會發揮作用。&lt;f9&gt;再點同個選項一次的話，所有的保護功能都會一併關閉。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4047,16 +4047,16 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hide formula:&lt;/f0&gt; Any &lt;f1&gt;function&lt;/f1&gt; in a formatted cell is invisible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113616Z" creationid="Franklin Weng" creationdate="20180213T113616Z">
-        <seg>&lt;f0&gt;隱藏公式：&lt;/f0&gt;任何在此儲存格中的&lt;f1&gt;函式&lt;/f1&gt;都會被隱藏起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090328Z" creationid="Franklin Weng" creationdate="20180213T113616Z">
+        <seg>&lt;f0&gt;隱藏公式：&lt;/f0&gt;這些儲存格中的任何&lt;f1&gt;函式&lt;/f1&gt;都會隱藏起來。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hide when printing:&lt;/f0&gt; The contents of formatted cells are not printed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113635Z" creationid="Franklin Weng" creationdate="20180213T113635Z">
-        <seg>&lt;f0&gt;列印時隱藏：&lt;/f0&gt;此儲存格的內容不會被列印出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090339Z" creationid="Franklin Weng" creationdate="20180213T113635Z">
+        <seg>&lt;f0&gt;列印時隱藏：&lt;/f0&gt;這些儲存格的內容不會列印出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,8 +9818,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;You should only make this choice when you know that you will always be printing the spreadsheet in the same way.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180213T113813Z" creationid="Franklin Weng" creationdate="20180213T113813Z">
-        <seg>&lt;f1&gt;只有在你確定試算表都用同樣的方式列印時，才使用此選項。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090449Z" creationid="Franklin Weng" creationdate="20180213T113813Z">
+        <seg>&lt;f1&gt;只有在確定你會一直以同樣的方式列印試算表時，才使用這個選項。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
