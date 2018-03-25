@@ -3168,8 +3168,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Date is: &lt;/f0&gt;Applies the selected cell style to cells in which the designated filter is used, from Today to Last Week.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T131121Z" creationid="Franklin Weng" creationdate="20180216T131121Z">
-        <seg>&lt;f0&gt;日期：&lt;/f0&gt;在選取的儲存格範圍中，找到儲存格的值為指定的時間點時套用樣式。時間點的指定為下拉式選單，可選的值從今日、昨日、明日到今年、去年、明年等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T142741Z" creationid="Franklin Weng" creationdate="20180216T131121Z">
+        <seg>&lt;f0&gt;日期：&lt;/f0&gt;在所選的儲存格範圍中，找到儲存格內容為指定的時間點時套用樣式。可篩選的時間點為下拉式選單，可用的值有今日、昨日、明日到今年、去年、明年等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,8 +3814,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Formula is:&lt;/f0&gt; Applies the selected cell style to cells in which the designated formula is used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T130744Z" creationid="Franklin Weng" creationdate="20180216T130744Z">
-        <seg>&lt;f0&gt;公式：&lt;/f0&gt;在選取的儲存格範圍中，找到使用到指定的函式與公式的儲存格並套用選取的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T142550Z" creationid="Franklin Weng" creationdate="20180216T130744Z">
+        <seg>&lt;f0&gt;公式：&lt;/f0&gt;在所選的儲存格範圍中，找到使用到指定函式與公式的儲存格，並套用選取的樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36526,8 +36526,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The formula is typically one that view&lt;f1&gt;er&lt;/f1&gt;s of the sheet wish to find easily.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153713Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
-        <seg>「公式」這種型態通常是讓查看此工作表的人可以快速尋找。&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T142625Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
+        <seg>「公式」這個類型通常是方便查看此工作表的人可以快速查找。</seg>
       </tuv>
     </tu>
     <tu>
