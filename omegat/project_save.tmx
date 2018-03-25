@@ -8858,8 +8858,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You may especially want spreadsheets to look like tables when you use&lt;/f0&gt; Calc to create a tutorial &lt;f1&gt;because, w&lt;/f1&gt;hen you already have a collection of pictures and charts on the sheet, the grid may do &lt;t2/&gt;nothing except add to the clutter.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145748Z" creationid="Franklin Weng" creationdate="20180216T145414Z">
-        <seg>&lt;f0&gt;當你用 Calc 來做教學文件時&lt;/f0&gt;，可能會特別想要讓它看起來像表格，&lt;f1&gt;因為&lt;/f1&gt;當你在工作表中有一些圖片與圖表時，格線可能&lt;t2/&gt;只會讓它看起來更雜亂。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155356Z" creationid="Franklin Weng" creationdate="20180216T145414Z">
+        <seg>&lt;f0&gt;當你用Calc做教學文件時&lt;/f0&gt;，可能會特別想讓它看起來像表格，&lt;f1&gt;因為&lt;/f1&gt;你的工作表中如果有不少圖片和圖表時，還有格線的話看起來只會更雜亂而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27262,8 +27262,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like printing in general, whether you print the grid &lt;f3&gt;or the header &lt;/f3&gt;may be an exercise in trial and error.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145845Z" creationid="Franklin Weng" creationdate="20180216T145845Z">
-        <seg>就像一般在列印時，是否列印格線&lt;f3&gt;與標頭&lt;/f3&gt;可能是個錯誤嘗試與修正的練習。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155454Z" creationid="Franklin Weng" creationdate="20180216T145845Z">
+        <seg>這就像一般在列印時一樣，到底要不要印出格線&lt;f3&gt;與欄標列號&lt;/f3&gt;可能是個錯誤嘗試與修正的練習。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28670,8 +28670,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>No firm conventions exist, except for one: once you have chosen the formatting, use it consistently.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145227Z" creationid="Franklin Weng" creationdate="20180216T145227Z">
-        <seg>這沒有一定的慣例存在，除了這個：你一旦選擇了格式設定，就最好持續一貫地使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155202Z" creationid="Franklin Weng" creationdate="20180216T145227Z">
+        <seg>這沒有一定的慣例存在，除了這點：你一旦選擇好格式設定，那就持續一致地維持你的風格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30894,8 +30894,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Printing with &lt;f0&gt;(above) &lt;/f0&gt;and without &lt;f1&gt;(below) &lt;/f1&gt;cell borders and row and column headings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T145424Z" creationid="Franklin Weng" creationdate="20180216T145412Z">
-        <seg>印（&lt;f0&gt;上方&lt;/f0&gt;）與不印（&lt;f1&gt;下方&lt;/f1&gt;）邊框與欄標列號的樣子。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155227Z" creationid="Franklin Weng" creationdate="20180216T145412Z">
+        <seg>列印（&lt;f0&gt;上方&lt;/f0&gt;）與不印（&lt;f1&gt;下方&lt;/f1&gt;）邊框和欄標列號的樣子。</seg>
       </tuv>
     </tu>
     <tu>
