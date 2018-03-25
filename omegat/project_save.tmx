@@ -21541,8 +21541,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, &lt;f6&gt;the alignment options&lt;/f6&gt; also include &lt;f7&gt;Filled&lt;/f7&gt;, which repeats contents so that the entire cell is filled, and &lt;f8&gt;Distributed&lt;/f8&gt;, a close relative of &lt;f9&gt;Justified&lt;/f9&gt; that distributes contents evenly across the cell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122102Z" creationid="Franklin Weng" creationdate="20180211T121920Z">
-        <seg>不過，&lt;f6&gt;在選項中&lt;/f6&gt;還包括「&lt;f7&gt;填滿&lt;/f7&gt;」，會重覆內容直到儲存格被填滿為止；以及「&lt;f8&gt;分散對齊&lt;/f8&gt;」，跟「&lt;f9&gt;兩端對齊&lt;/f9&gt;」類似，但是內容會平均地分布在儲存格中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083128Z" creationid="Franklin Weng" creationdate="20180211T121920Z">
+        <seg>不過，&lt;f6&gt;對齊選項中&lt;/f6&gt;還包括「&lt;f7&gt;填滿&lt;/f7&gt;」，這會重覆內容直到儲存格被填滿為止；以及「&lt;f8&gt;分散對齊&lt;/f8&gt;」，這和「&lt;f9&gt;兩端對齊&lt;/f9&gt;」類似，但是內容會平均地分布在儲存格中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26111,8 +26111,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It also contains the equivalents for vertical alignment.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122143Z" creationid="Franklin Weng" creationdate="20180211T122143Z">
-        <seg>縱向的選項也差不多。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083218Z" creationid="Franklin Weng" creationdate="20180211T122143Z">
+        <seg>設定裡也有提供縱向對齊的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34714,8 +34714,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab has the options you might expect: &lt;f1&gt;Left&lt;/f1&gt;, &lt;f2&gt;Center&lt;/f2&gt;, &lt;f3&gt;Right&lt;/f3&gt;, and &lt;f4&gt;Justified&lt;/f4&gt;, &lt;f5&gt;all of them referring to how a line is positioned in a cell&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082953Z" creationid="Franklin Weng" creationdate="20180211T121843Z">
-        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡的選項大致上跟你想的差不多：「&lt;f1&gt;左&lt;/f1&gt;」、「&lt;f2&gt;置中&lt;/f2&gt;」、「&lt;f3&gt;右&lt;/f3&gt;」跟「&lt;f4&gt;兩端對齊&lt;/f4&gt;」……等等，&lt;f5&gt;這些選項都是用來設定儲存格中的一行文字擺放位置。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083059Z" creationid="Franklin Weng" creationdate="20180211T121843Z">
+        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡的選項大致上跟你想的差不多：「&lt;f1&gt;左&lt;/f1&gt;」、「&lt;f2&gt;置中&lt;/f2&gt;」、「&lt;f3&gt;右&lt;/f3&gt;」跟「&lt;f4&gt;兩端對齊&lt;/f4&gt;」，&lt;f5&gt;這些選項都是用來設定儲存格中一行文字的擺放位置。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
