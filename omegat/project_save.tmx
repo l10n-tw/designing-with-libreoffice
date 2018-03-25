@@ -8448,8 +8448,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;W&lt;/f0&gt;hen spreadsheets first became popular, most users were satisfied with text appearing in a single line, &lt;f1&gt;extending into the next cell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132036Z" creationid="Franklin Weng" creationdate="20180211T131608Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;當試算表開始風行時，大部份的使用者都習慣於讓文字以單行呈現，超過則&lt;f1&gt;延伸顯示到下一個儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084822Z" creationid="Franklin Weng" creationdate="20180211T131608Z">
+        <seg>當試算表開始風行時，大部份的使用者都習慣讓文字以單行呈現，超過時則&lt;f1&gt;延伸顯示到下一個儲存格中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8906,8 +8906,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f18&gt;At times, &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Text Extension Inside Cell&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; may be reasonable, &lt;/f21&gt;&lt;t22/&gt;&lt;f23&gt;since it confines text to within the cell border, although it can quickly become too small to read easily.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131341Z" creationid="Franklin Weng" creationdate="20180211T131341Z">
-        <seg>&lt;f18&gt;有的時候，&lt;/f18&gt;「&lt;f19&gt;&lt;f20&gt;文字只在儲存格內延伸&lt;/f20&gt;&lt;/f19&gt;」&lt;f21&gt;也可能是個合理的選擇，&lt;/f21&gt;&lt;t22/&gt;&lt;f23&gt;因為它會把文字侷限在儲存格邊框內，雖然可能很快文字就會縮小到無法閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084717Z" creationid="Franklin Weng" creationdate="20180211T131341Z">
+        <seg>&lt;f18&gt;有的時候，「&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;文字只在儲存格內延伸&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;」的選項也可能是個合理選擇；&lt;/f21&gt;&lt;f23&gt;因為它會把文字限制在儲存格邊框內，但這樣可能很快文字就會小到無法閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12574,8 +12574,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adding hyphenation and text wrap</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131459Z" creationid="Franklin Weng" creationdate="20180211T131443Z">
-        <seg>加入連字號與文字折行處理</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084746Z" creationid="Franklin Weng" creationdate="20180211T131443Z">
+        <seg>加入連字號斷字與文字折行</seg>
       </tuv>
     </tu>
     <tu>
@@ -20687,8 +20687,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>From left to right: a 45-degree angle, a 90-degree angle, and &lt;f0&gt;v&lt;/f0&gt;ertically stacked&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131416Z" creationid="Franklin Weng" creationdate="20180211T131416Z">
-        <seg>從左到右：45 度角，90 度角，還有「垂直堆疊」。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084731Z" creationid="Franklin Weng" creationdate="20180211T131416Z">
+        <seg>從左到右：45 度角，90 度角，還有「垂直堆疊」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26343,8 +26343,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>It is still the default way to display cell contents, and die-hards insist that it is the only way.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132142Z" creationid="Franklin Weng" creationdate="20180211T132129Z">
-        <seg>它現在還是顯示儲存格內容的預設方式，有些頑固派反革命份子仍然堅持這是唯一的方式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085005Z" creationid="Franklin Weng" creationdate="20180211T132129Z">
+        <seg>它現在還是顯示儲存格內容的預設方式，而且有些頑固派仍然堅持這是唯一的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27286,8 +27286,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Like text orientation, hyphenation and text wrap settings are found on the &lt;f0&gt;Alignment&lt;/f0&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131530Z" creationid="Franklin Weng" creationdate="20180211T131452Z">
-        <seg>就跟文字方向一樣，連字號與文字折行設定都被放在「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁裡。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084759Z" creationid="Franklin Weng" creationdate="20180211T131452Z">
+        <seg>就跟文字方向一樣，連字號斷字與文字折行設定都放在「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39159,8 +39159,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>This presentation is known in LibreOffice as text extension.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132048Z" creationid="Franklin Weng" creationdate="20180211T132048Z">
-        <seg>這種方式稱為「文字延伸」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084926Z" creationid="Franklin Weng" creationdate="20180211T132048Z">
+        <seg>這種呈現方式在LibreOffice中稱為「文字延伸」。</seg>
       </tuv>
     </tu>
     <tu>
