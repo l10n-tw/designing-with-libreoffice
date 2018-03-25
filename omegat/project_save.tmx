@@ -6170,8 +6170,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;R&lt;/f0&gt;otate text as little as possible, turning the &lt;f1&gt;Text orientation&lt;/f1&gt; dial counter-clockwise, &lt;f2&gt;so the text starts at its lowest point&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T125704Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;盡量少旋轉文字。在「&lt;f1&gt;文字方向&lt;/f1&gt;」的轉盤以逆時針旋轉，&lt;f2&gt;讓文字從最低處開始。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084217Z" creationid="Franklin Weng" creationdate="20180211T122936Z">
+        <seg>盡量少旋轉文字。以順時針旋轉「&lt;f1&gt;文字方向&lt;/f1&gt;」的轉盤，&lt;f2&gt;讓文字從最低處開始。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43356,8 +43356,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can adjust text with the dial counter, or more precisely by entering an angle in the &lt;f0&gt;Degrees&lt;/f0&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122945Z" creationid="Franklin Weng" creationdate="20180211T122933Z">
-        <seg>你可以用旁邊的上下箭頭，或是直接輸入角度數值在「&lt;f0&gt;度&lt;/f0&gt;」這個欄位中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T084232Z" creationid="Franklin Weng" creationdate="20180211T122933Z">
+        <seg>你可以用轉盤調整文字角度，或是直接在「&lt;f0&gt;度&lt;/f0&gt;」這個欄位中輸入更精確的角度數值。</seg>
       </tuv>
     </tu>
     <tu>
