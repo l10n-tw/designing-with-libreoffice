@@ -14362,8 +14362,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Auto&lt;f0&gt;F&lt;/f0&gt;ormat&lt;f1&gt;s&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;are an alternative to &lt;f3&gt;p&lt;/f3&gt;age styles for formatting &lt;f4&gt;some aspects of a spreadsheet.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152708Z" creationid="Franklin Weng" creationdate="20180216T152708Z">
-        <seg>「&lt;f0&gt;自動格式樣式&lt;/f0&gt;」&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;是對試算表中的一部份套用&lt;f3&gt;頁面樣式&lt;/f3&gt;的&lt;f4&gt;另一個選擇。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T160101Z" creationid="Franklin Weng" creationdate="20180216T152708Z">
+        <seg>「&lt;f0&gt;自動格式樣式&lt;/f0&gt;」可說是試算表頁面樣式的&lt;f4&gt;另一種做法。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43444,8 +43444,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can apply an AutoFormat to an entire sheet by clicking the cell above the row 1 header and to the left of the column A header.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T152552Z" creationid="Franklin Weng" creationdate="20180216T152552Z">
-        <seg>你可以先點按在 A1 儲存格左上角那個空白處，然後把自動格式樣式套用到整張工作表。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T155830Z" creationid="Franklin Weng" creationdate="20180216T152552Z">
+        <seg>你可以先點按A1儲存格左上角的那個空白處，然後將自動格式樣式套用到整份工作表。</seg>
       </tuv>
     </tu>
     <tu>
