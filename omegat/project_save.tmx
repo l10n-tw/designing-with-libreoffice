@@ -2571,8 +2571,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090032Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
-        <seg>儲存格保護除了可以避免儲存格內容被修改外，也可以讓Calc在列印或執行其他操作時跳過這些標記的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T170743Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
+        <seg>儲存格保護除了可以避免儲存格內容被修改外，也可以讓Calc在列印或執行其他操作時，跳過這些標記的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4039,16 +4039,16 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hide all: &lt;/f0&gt;Formatted cells are protected from editing, any formula in them is hidden, and &lt;f1&gt;the cells &lt;/f1&gt;are not printed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090307Z" creationid="Franklin Weng" creationdate="20180213T113516Z">
-        <seg>&lt;f0&gt;全部隱藏：&lt;/f0&gt;無法再編輯這些儲存格，裡面的任何公式都會隱藏起來，而且這些&lt;f1&gt;儲存格&lt;/f1&gt;將不會列印出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T170805Z" creationid="Franklin Weng" creationdate="20180213T113516Z">
+        <seg>&lt;f0&gt;全部隱藏：&lt;/f0&gt;無法再編輯這些儲存格，裡面的所有公式都會隱藏起來，而且這些&lt;f1&gt;儲存格&lt;/f1&gt;不會列印出來。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hide formula:&lt;/f0&gt; Any &lt;f1&gt;function&lt;/f1&gt; in a formatted cell is invisible.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090328Z" creationid="Franklin Weng" creationdate="20180213T113616Z">
-        <seg>&lt;f0&gt;隱藏公式：&lt;/f0&gt;這些儲存格中的任何&lt;f1&gt;函式&lt;/f1&gt;都會隱藏起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T170819Z" creationid="Franklin Weng" creationdate="20180213T113616Z">
+        <seg>&lt;f0&gt;隱藏公式：&lt;/f0&gt;這些儲存格中的所有&lt;f1&gt;函式&lt;/f1&gt;都會隱藏起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,8 +9818,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;You should only make this choice when you know that you will always be printing the spreadsheet in the same way.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090449Z" creationid="Franklin Weng" creationdate="20180213T113813Z">
-        <seg>&lt;f1&gt;只有在確定你會一直以同樣的方式列印試算表時，才使用這個選項。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T170902Z" creationid="Franklin Weng" creationdate="20180213T113813Z">
+        <seg>&lt;f1&gt;只有確定你會一直以同樣方式列印試算表的話，才用這個選項。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16592,8 +16592,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Conditonal formatting is an extension of sparklines, &lt;f0&gt;which are &lt;/f0&gt;small, undetailed graphs popularized by the information designer &lt;t1/&gt;Edward Tufte.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T091542Z" creationid="Franklin Weng" creationdate="20180213T123234Z">
-        <seg>條件式格式設定是所謂「走勢圖」(Sparklines) 的一種延伸。&lt;f0&gt;走勢圖&lt;/f0&gt;是一種小型的，不是看詳細資料而是看趨勢的一種圖形，由資訊設計師Edward Tufte所推廣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171039Z" creationid="Franklin Weng" creationdate="20180213T123234Z">
+        <seg>條件式格式設定是所謂「走勢圖」(Sparkline) 概念的一種延伸。&lt;f0&gt;走勢圖&lt;/f0&gt;是一種小型、不是看詳細數據而是看趨勢的一種圖形，由資訊設計師Edward Tufte所推廣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20028,8 +20028,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, the spreadsheet might be used by clerks who need to enter data into specific cells, but who should not change anything else.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090959Z" creationid="Franklin Weng" creationdate="20180213T121357Z">
-        <seg>例如，一份只能讓店員輸入資料到特定儲存格的試算表，就會限定其他儲存格都不能更動。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T170934Z" creationid="Franklin Weng" creationdate="20180213T121357Z">
+        <seg>例如，一份只能讓店員輸入資料到特定儲存格中的試算表，就會限定其他儲存格都不能更動。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
