@@ -3539,8 +3539,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;F&lt;/f0&gt;or &lt;f1&gt;many&lt;/f1&gt; spreadsheets, the &lt;f2&gt;most&lt;/f2&gt; practical solution is to select from &lt;f3&gt;Page order, &lt;/f3&gt;choosing &lt;f4&gt;Top to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;b&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;ottom, then &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;right&lt;/f9&gt;&lt;/f8&gt; or &lt;f10&gt;Left to &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;r&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;ight, then &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;d&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;own.&lt;/f16&gt; These selections can be confusing, but the diagrams beside the selection &lt;f17&gt;may keep things clear.&lt;/f17&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143805Z" creationid="Franklin Weng" creationdate="20180216T143805Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;對&lt;f1&gt;許多&lt;/f1&gt;試算表來說，&lt;f2&gt;最可行&lt;/f2&gt;的方案是從「&lt;f3&gt;頁序&lt;/f3&gt;」中，選擇&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;/f16&gt;「由上至下，再向右」或是「由左至右，再向下」。這些選項看起來有點難懂，不過&lt;f17&gt;搭配旁邊的圖一看就清楚了&lt;/f17&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T153458Z" creationid="Franklin Weng" creationdate="20180216T143805Z">
+        <seg>對&lt;f1&gt;許多&lt;/f1&gt;試算表來說，&lt;f2&gt;最可行&lt;/f2&gt;的方案是從「&lt;f3&gt;頁序&lt;/f3&gt;」中，選擇「&lt;f4&gt;由上至下，再向右&lt;/f4&gt;」或是「&lt;f10&gt;由左至右，再向下&lt;/f10&gt;」。這些選項看起來有點難懂，不過&lt;f17&gt;搭配旁邊的圖一看就清楚了&lt;/f17&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18021,8 +18021,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Don't rely on printing a spreadsheet five minutes before you need it unless you have done so before and know how to get the results you want.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T144045Z" creationid="Franklin Weng" creationdate="20180216T144045Z">
-        <seg>不要在用到前五分鐘才去印試算表，除非你已經有完善的規劃，確定印出來的結果是你要的樣子。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T153730Z" creationid="Franklin Weng" creationdate="20180216T144045Z">
+        <seg>不要在要用到之前五分鐘才去印試算表，除非你之前已經有經驗，而且確定印出來的結果是你要的樣子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23754,8 +23754,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you continue to have problems, you might be able turn off the printing of elements &lt;f0&gt;such as comments&lt;/f0&gt; o&lt;f1&gt;r&lt;/f1&gt; charts to save space.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143930Z" creationid="Franklin Weng" creationdate="20180216T143930Z">
-        <seg>如果你還是有問題，你可以考慮某些東西不要印，例如&lt;f0&gt;評註&lt;/f0&gt;或&lt;f1&gt;圖表&lt;/f1&gt;等以節省空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T153621Z" creationid="Franklin Weng" creationdate="20180216T143930Z">
+        <seg>如果你還是遇到問題，你可以考慮試算表中的某些元素乾脆就不要印出來，例如&lt;f0&gt;評註&lt;/f0&gt;或&lt;f1&gt;圖表&lt;/f1&gt;等，以便節省空間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37251,8 +37251,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The page order options on the &lt;f0&gt;Sheet&lt;/f0&gt; tab help to squeeze a spreadsheet onto a page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143841Z" creationid="Franklin Weng" creationdate="20180216T143841Z">
-        <seg>「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「頁序」選項可以幫你把試算表擠到一頁中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T153516Z" creationid="Franklin Weng" creationdate="20180216T143841Z">
+        <seg>「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「頁序」選項可以幫你把試算表擠到一頁裡面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41897,8 +41897,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Whatever combination of solutions you decide to use, plan and test in advance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143946Z" creationid="Franklin Weng" creationdate="20180216T143946Z">
-        <seg>不管你決定用怎樣的解決方案，都要預先規劃跟測試。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T153643Z" creationid="Franklin Weng" creationdate="20180216T143946Z">
+        <seg>不管你決定要用怎樣的解決方案，都要預先規劃跟測試過。</seg>
       </tuv>
     </tu>
     <tu>
