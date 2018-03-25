@@ -966,8 +966,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;It should be on by default.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T140232Z" creationid="Franklin Weng" creationdate="20180216T140232Z">
-        <seg>&lt;/f2&gt;預設應該是會勾選。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171516Z" creationid="Franklin Weng" creationdate="20180216T140232Z">
+        <seg>&lt;/f2&gt;預設應該有勾選。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20189,8 +20189,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, allowing for &lt;f0&gt;margins of&lt;/f0&gt; 2.5 centimeters on &lt;f1&gt;portrait-oriented, &lt;/f1&gt;letter-sized paper, columns should have a combined width of no more than about 17 centimeters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152517Z" creationid="Franklin Weng" creationdate="20180216T142402Z">
-        <seg>例如，在縱向、Letter (US) 大小的紙張上（寬度21.59公分），&lt;f0&gt;邊距&lt;/f0&gt;2.5公分時&lt;f1&gt;&lt;/f1&gt;的欄寬總和通常就不要超過17公分。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171736Z" creationid="Franklin Weng" creationdate="20180216T142402Z">
+        <seg>例如，在縱向、Letter (US) 大小的紙張上（寬度21.59公分），&lt;f0&gt;邊距&lt;/f0&gt;2.5公分時，欄寬的總和平時就不要超過17公分才好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29158,8 +29158,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Often, spreadsheets are made with no thought of them conforming to any printed page size.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T151217Z" creationid="Franklin Weng" creationdate="20180216T140355Z">
-        <seg>也因此，製作試算表時也就較少去考慮印出來是否能符合怎樣的頁面大小。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171533Z" creationid="Franklin Weng" creationdate="20180216T140355Z">
+        <seg>也因此，製作試算表時也就比較少去考慮印出來是否能符合怎樣的頁面大小。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
