@@ -10306,8 +10306,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;Sometimes, they&lt;/f2&gt; distinguish &lt;f3&gt;calculations&lt;/f3&gt; and formula results &lt;f4&gt;in a data collection&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112627Z" creationid="Franklin Weng" creationdate="20180211T112627Z">
-        <seg>&lt;f2&gt;有的時候，背景色用來在資料集合中區分&lt;/f2&gt;&lt;f3&gt;計算與公式的結果&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074541Z" creationid="Franklin Weng" creationdate="20180211T112627Z">
+        <seg>&lt;f2&gt;有的時候，背景色用來在資料集合中區分&lt;/f2&gt;&lt;f3&gt;計算與公式的結果&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13155,8 +13155,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Alphabetical characters are assumed to be text, &lt;f0&gt;aligned to the left, &lt;/f0&gt;and numbers are assumed to be ordinary number&lt;f1&gt;s, aligned to the right for convenience when reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153654Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
-        <seg>英文或拉丁文等字母預設為文字型態，&lt;f0&gt;置左對齊&lt;/f0&gt;，而數字則預設為... 數字，&lt;f1&gt;會靠右對齊以方便閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074829Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
+        <seg>英文字母、中文等預設為文字型態，&lt;f0&gt;會向左對齊&lt;/f0&gt;；至於數字則預設為數字形態，&lt;f1&gt;會向右對齊以方便閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15516,8 +15516,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By default, cells are set to contain any sort of information.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112912Z" creationid="Franklin Weng" creationdate="20180211T112912Z">
-        <seg>儲存格預設是可以包含任何型態的資訊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074658Z" creationid="Franklin Weng" creationdate="20180211T112912Z">
+        <seg>儲存格預設可以包含任何型態的資訊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21019,8 +21019,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Go wild – if the background makes a useful distinction, no one will care if it is gaudy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112810Z" creationid="Franklin Weng" creationdate="20180211T112810Z">
-        <seg>所以放膽去用 – 既然背景是用來做區分的，就沒有人會在乎用色是否太花俏。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074621Z" creationid="Franklin Weng" creationdate="20180211T112810Z">
+        <seg>所以放膽去用——既然背景是用來做區分的，就沒有人會在乎用色是否太花俏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22215,8 +22215,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, make sure that backgrounds contrast with foregrounds, so that cell contents can be easily read.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112844Z" creationid="Franklin Weng" creationdate="20180211T112844Z">
-        <seg>不過，一樣要記得確保背景與前景色彩的對比夠強，這樣儲存格的內容才容易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074636Z" creationid="Franklin Weng" creationdate="20180211T112844Z">
+        <seg>不過，一樣要記得確保背景色與前景色的對比夠強，這樣儲存格的內容才容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32604,8 +32604,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Setting how numbers are handled</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T112851Z" creationid="Franklin Weng" creationdate="20180211T112851Z">
-        <seg>設定如何處理數字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074647Z" creationid="Franklin Weng" creationdate="20180211T112851Z">
+        <seg>設定數字的處理方式</seg>
       </tuv>
     </tu>
     <tu>
