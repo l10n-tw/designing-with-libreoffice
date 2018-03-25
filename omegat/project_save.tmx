@@ -8616,8 +8616,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Wrapped text can also cause unusual breaks in words.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132925Z" creationid="Franklin Weng" creationdate="20180211T132925Z">
-        <seg>&lt;f0&gt;此外，文字折行也會造成斷字的問題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085552Z" creationid="Franklin Weng" creationdate="20180211T132925Z">
+        <seg>&lt;f0&gt;此外，文字折行也會造成折行前尾端空白參差不齊的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20859,8 +20859,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Generally, i&lt;/f0&gt;f a cell is set to use text, you &lt;f1&gt;should&lt;/f1&gt; check &lt;f2&gt;Hyphenation&lt;/f2&gt; &lt;f3&gt;active&lt;/f3&gt; as well &lt;f4&gt;to make the text more readable.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133143Z" creationid="Franklin Weng" creationdate="20180211T133143Z">
-        <seg>一般來說，&lt;/f0&gt;如果儲存格格式是設定成文字，那你就&lt;f1&gt;應該&lt;/f1&gt;同時勾選「&lt;f2&gt;斷字處理&lt;/f2&gt;&lt;f3&gt;啟用中&lt;/f3&gt;」&lt;f4&gt;讓文字更易於閱讀。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085623Z" creationid="Franklin Weng" creationdate="20180211T133143Z">
+        <seg>一般來說，&lt;/f0&gt;如果儲存格格式設定為文字的話，那你就&lt;f1&gt;應該&lt;/f1&gt;同時勾選「&lt;f2&gt;斷字處理&lt;/f2&gt;&lt;f3&gt;啟用中&lt;/f3&gt;」選項，&lt;f4&gt;讓文字更易於閱讀。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40227,8 +40227,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Together, these two choices make cell content visible at a glance.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133253Z" creationid="Franklin Weng" creationdate="20180211T133253Z">
-        <seg>這兩個選項結合在一起，讓儲存格第一眼就能輕易看清楚。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085649Z" creationid="Franklin Weng" creationdate="20180211T133253Z">
+        <seg>這兩個選項搭配在一起後，儲存格文字第一眼就能輕易看清楚。</seg>
       </tuv>
     </tu>
     <tu>
