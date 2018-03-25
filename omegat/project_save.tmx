@@ -1038,8 +1038,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;However, the easiest way to add a function is to use the &lt;f4&gt;&lt;f5&gt;Insert &gt; Function &lt;/f5&gt;&lt;/f4&gt;dialog window, which opens a wizard for building functions and previews answers and errors.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T142727Z" creationid="Franklin Weng" creationdate="20180206T140626Z">
-        <seg>&lt;/f3&gt;不過，最簡單的方式還是用選單裡的「&lt;f4&gt;&lt;f5&gt;插入 &gt; 函式&lt;/f5&gt;&lt;/f4&gt;」對話視窗，它會開啟個函式建構精靈視窗，並讓你預覽計算的結果或是其中有錯。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163153Z" creationid="Franklin Weng" creationdate="20180206T140626Z">
+        <seg>&lt;/f3&gt;不過，最簡單的方式還是用選單裡的「&lt;f4&gt;&lt;f5&gt;插入 &gt; 函式&lt;/f5&gt;&lt;/f4&gt;」對話視窗，它會開啟函式建構精靈視窗，並讓你預覽計算的結果或是指出是否有錯。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2233,16 +2233,16 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;As an alternative to hiding individual cells, you can select &lt;/f0&gt;&lt;f1&gt;Data &gt; Group and Outline &gt; Group&lt;/f1&gt; &lt;f2&gt;to hide multiple cells&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180323T042450Z" creationid="Franklin Weng" creationdate="20180206T212703Z">
-        <seg>&lt;f0&gt;有另一種隱藏儲存格的方式，你可以到選單中的「&lt;/f0&gt;&lt;f1&gt;資料 &gt; 群組與大綱 &gt; 群組&lt;/f1&gt;」&lt;f2&gt;來同時隱藏多個儲存格。&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163758Z" creationid="Franklin Weng" creationdate="20180206T212703Z">
+        <seg>&lt;f0&gt;有另一種隱藏儲存格的方式，你可以到選單中的「&lt;/f0&gt;&lt;f1&gt;資料 &gt; 群組與大綱 &gt; 群組&lt;/f1&gt;」&lt;f2&gt;同時隱藏多個儲存格。&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;As an example of an everyday use for a spreadsheet&lt;/f0&gt;, here are the steps to create a teacher’s mark book, starting with the basic setup:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144651Z" creationid="Franklin Weng" creationdate="20180206T143427Z">
-        <seg>&lt;f0&gt;這裡就有一個日常生活中使用試算表的範例&lt;/f0&gt;。這邊列出如何從基本設定開始，建構出一份老師的成績紀錄本：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163324Z" creationid="Franklin Weng" creationdate="20180206T143427Z">
+        <seg>&lt;f0&gt;這裡就有一個日常生活中使用試算表的範例&lt;/f0&gt;。這邊列出如何從基本設定開始，建構出一份老師的成績紀錄表：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10386,8 +10386,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;The more complex a spreadsheet is, and the longer the spreadsheet is likely to be used, the more important planning becomes.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T115327Z" creationid="Franklin Weng" creationdate="20180204T185837Z">
-        <seg>&lt;f2&gt;如果試算表越複雜、可能會用到很久以後，那規劃這方面也就越重要。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162329Z" creationid="Franklin Weng" creationdate="20180204T185837Z">
+        <seg>&lt;f2&gt;如果試算表越複雜、越可能會用到很久以後，那規劃這方面也就越重要。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10450,8 +10450,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;To create sub-lists, set off cells from the rest of the sheet by blank cells, borders, or backgrounds.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T131331Z" creationid="Franklin Weng" creationdate="20180204T191415Z">
-        <seg>&lt;f2&gt;若要建立子清單，就放在工作表還沒用到的地方，然後跟主清單之間用空白儲存格、自己的邊框或背景色作區隔。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162459Z" creationid="Franklin Weng" creationdate="20180204T191415Z">
+        <seg>&lt;f2&gt;如果要建立子清單的話，就放在工作表還沒用到的地方，然後跟主清單之間用空白儲存格、自己的邊框或背景色作區隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11816,8 +11816,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A list &lt;f0&gt;usually &lt;/f0&gt;consists of cells formatted for text, &lt;f1&gt;not&lt;/f1&gt; numbers.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T115853Z" creationid="Franklin Weng" creationdate="20180204T190002Z">
-        <seg>清單&lt;f0&gt;通常&lt;/f0&gt;用的是針對文字作格式設定的儲存格，&lt;f1&gt;而不是&lt;/f1&gt;數字格式設定的儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162415Z" creationid="Franklin Weng" creationdate="20180204T190002Z">
+        <seg>清單&lt;f0&gt;通常&lt;/f0&gt;用的是針對文字作格式設定的儲存格，&lt;f1&gt;而不是&lt;/f1&gt;對數字作格式設定的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18862,8 +18862,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Exercise: Creating a &lt;f0&gt;m&lt;/f0&gt;ark &lt;f1&gt;b&lt;/f1&gt;ook</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180207T142005Z" creationid="Franklin Weng" creationdate="20180206T143155Z">
-        <seg>練習： 建立一份成績紀錄本&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163246Z" creationid="Franklin Weng" creationdate="20180206T143155Z">
+        <seg>練習： 做一份成績紀錄表&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19608,8 +19608,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For a list, assign &lt;f0&gt;individual&lt;/f0&gt; colors to either the tasks or the people &lt;f1&gt;assigned them&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T123640Z" creationid="Franklin Weng" creationdate="20180204T191146Z">
-        <seg>在清單中，對不同工作或&lt;f0&gt;工作指派&lt;/f0&gt;的不同人都用&lt;f1&gt;不同的色彩&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162427Z" creationid="Franklin Weng" creationdate="20180204T191146Z">
+        <seg>在清單中，可以對不同工作或&lt;f0&gt;工作所指派&lt;/f0&gt;的不同人都用&lt;f1&gt;不同的色彩&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,8 +20486,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Format the cells for raw data and th&lt;f0&gt;ose for&lt;/f0&gt; manipulations of the data differently.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T142404Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
-        <seg>將存放原始資料的儲存格，還有操作資料用的儲存格作不同的格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163051Z" creationid="Franklin Weng" creationdate="20180206T135511Z">
+        <seg>存放原始資料的儲存格，還有操作資料用的儲存格可以用不同的格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25100,8 +25100,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In fact, functions can have simple everyday &lt;f0&gt;uses&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144611Z" creationid="Franklin Weng" creationdate="20180206T143321Z">
-        <seg>事實上，函式也可以在日常生活中輕鬆&lt;f0&gt;運用&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163307Z" creationid="Franklin Weng" creationdate="20180206T143321Z">
+        <seg>事實上，函式也可以輕鬆&lt;f0&gt;運用&lt;/f0&gt;在日常生活中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25509,8 +25509,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Total&lt;/f0&gt; column for the student at the top of the list, add the function&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Input Range&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;).&lt;/f4&gt; In the sample, the function is &lt;f5&gt;=SUM(B5:E5).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T152241Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
-        <seg>接著，以第一位學生為例，在他的「&lt;f0&gt;總計&lt;/f0&gt;」欄中加入這條函式：&lt;f1&gt; =SUM（&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;輸入儲存格範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;）&lt;/f4&gt;。比如說在這個範例中，輸入的是&lt;f5&gt;=SUM(B5:E5) 。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163608Z" creationid="Franklin Weng" creationdate="20180206T145810Z">
+        <seg>接著，以第一位學生為例，在他的「&lt;f0&gt;總計&lt;/f0&gt;」欄中加入這條函式：&lt;f1&gt; =SUM(&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;輸入儲存格範圍&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;)&lt;/f4&gt;。比如說在這個範例中，輸入的是&lt;f5&gt;=SUM(B5:E5) 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27423,8 +27423,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Lists are likely to make little use of &lt;f0&gt;functions&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180206T121718Z" creationid="Franklin Weng" creationdate="20180206T121718Z">
-        <seg>清單通常很少用到&lt;f0&gt;函式&lt;/f0&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162508Z" creationid="Franklin Weng" creationdate="20180206T121718Z">
+        <seg>清單的話通常很少會用到&lt;f0&gt;函式&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28469,8 +28469,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Much of the Planning and Packing sections can be reused, &lt;f0&gt;while recycling the calendar only requires a change of dates.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T141943Z" creationid="Franklin Weng" creationdate="20180206T134949Z">
-        <seg>在「規劃」與「打包」兩個區段的部份可以重覆使用，&lt;f0&gt;至於行程的部份只需要修改日期就好。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162950Z" creationid="Franklin Weng" creationdate="20180206T134949Z">
+        <seg>「規劃」與「打包」這兩個區段可以重覆使用，&lt;f0&gt;至於行程的部份只需要修改日期就好。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34079,8 +34079,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sub-lists are separated by blank cells, borders, and title, and each day of the trip is broken down into half-hour sections.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T131358Z" creationid="Franklin Weng" creationdate="20180206T122256Z">
-        <seg>子清單用空白的儲存格、自己的邊框，還有標題作區隔，每一天的行程都拆分到以半小時為區間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162553Z" creationid="Franklin Weng" creationdate="20180206T122256Z">
+        <seg>子清單用空白的儲存格、自己的邊框，還有標題作區隔，每一天的行程都拆分到半小時為區間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40114,8 +40114,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To the right of the first column, add a summary for each day of the trip, and a more detailed itinerary below.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T140018Z" creationid="Franklin Weng" creationdate="20180206T132555Z">
-        <seg>在第一欄的右邊，新增旅程中每一天的摘要，然後在下方寫下詳細一點的旅遊路線。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162813Z" creationid="Franklin Weng" creationdate="20180206T132555Z">
+        <seg>在第一欄的右邊，加入旅程中每一天的摘要，然後在下面寫下詳細一點的旅遊路線。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40973,8 +40973,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Font Size&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; and &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Font Color&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; to distinguish them from the &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Default&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; style.&lt;/f18&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144928Z" creationid="Franklin Weng" creationdate="20180206T143744Z">
-        <seg>利用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;字型大小&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;跟&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;字型色彩&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;的不同來區分這幾種樣式跟「&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;預設&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;」樣式&lt;/f18&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163407Z" creationid="Franklin Weng" creationdate="20180206T143744Z">
+        <seg>利用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;字型大小&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;跟&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;字型色彩&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;的不同，將這幾種樣式跟「&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;預設&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;」樣式區分開來&lt;/f18&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41383,8 +41383,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Using empty rows and columns as separators, &lt;f0&gt;create ranges of rows for Summary, Planning, and Packing, increasing row and column dimensions as necessary.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T132515Z" creationid="Franklin Weng" creationdate="20180206T123522Z">
-        <seg>用空白的橫列與直欄做為分隔，&lt;f0&gt;分別將幾列的範圍做成「摘要」、「計劃」、「打包」等三大區塊，有需要的時候就調高列與欄的空間大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162649Z" creationid="Franklin Weng" creationdate="20180206T123522Z">
+        <seg>用空白的橫列與直欄做為分隔，&lt;f0&gt;分別將幾列的範圍做成「摘要」、「計劃」、「打包」等三大區塊，有需要的時候就加大列與欄的空間大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43501,8 +43501,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can choose a category to browse, or press a key to jump to a category starting with that letter.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144243Z" creationid="Franklin Weng" creationdate="20180206T141101Z">
-        <seg>你可以選擇要瀏覽的函式類別，或是輸入幾個字母，它會幫你篩選出名稱包含你輸入字母的函式。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T163219Z" creationid="Franklin Weng" creationdate="20180206T141101Z">
+        <seg>你可以選擇要瀏覽的函式類別，或是輸入幾個字母，它會幫你篩選出名稱有你輸入字母的函式。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44335,8 +44335,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You may have to customize the resulting template for each trip, but the result will still be quicker than starting from scratch.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T141907Z" creationid="Franklin Weng" creationdate="20180206T134847Z">
-        <seg>雖然你每次旅遊時可能還需要再調整一下這個計劃範本，但總比每次都從頭做起還要快吧。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T162929Z" creationid="Franklin Weng" creationdate="20180206T134847Z">
+        <seg>雖然你每次旅遊時可能還是需要再調整一下這個計劃範本，但總比每次都從頭做起還要快吧。</seg>
       </tuv>
     </tu>
     <tu>
