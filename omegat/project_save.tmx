@@ -1014,8 +1014,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;For instance, 0&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;1/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; is January 31, 2015.&lt;/f7&gt; However, this format means that whether the month or the date comes first is unclear &lt;f8&gt;for days 1-12 of any month&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081642Z" creationid="Franklin Weng" creationdate="20180211T114437Z">
-        <seg>&lt;/f3&gt;&lt;f4&gt;例如，&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;01/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;表示 2015年1月31日。&lt;/f7&gt;但這種格式在表示&lt;f8&gt;每個月的1日到12日&lt;/f8&gt;時往往會讓人分不清哪一個數字是指月，哪一個數字又是指日。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165809Z" creationid="Franklin Weng" creationdate="20180211T114437Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;例如，&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;01/31/15&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;表示 2015年1月31日。&lt;/f7&gt;但這種格式在表示&lt;f8&gt;每個月的1日到12日&lt;/f8&gt;時，往往會讓人分不清哪一個數字是指月，哪一個數字又是指日。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,8 +5432,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most time&lt;/f0&gt; formats assume a 24 hour clock, unless they end with &lt;f1&gt;PM.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081801Z" creationid="Franklin Weng" creationdate="20180211T114552Z">
-        <seg>&lt;f0&gt;大部份的時間&lt;/f0&gt;格式都假設為24小時制，除非以 &lt;f1&gt;PM&lt;/f1&gt;之類結尾。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165824Z" creationid="Franklin Weng" creationdate="20180211T114552Z">
+        <seg>&lt;f0&gt;大部份的時間&lt;/f0&gt;格式都假設為24小時制，除非你以 &lt;f1&gt;PM&lt;/f1&gt;之類結尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23722,8 +23722,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you choose a format without &lt;f0&gt;sufficient &lt;/f0&gt;decimal places, your spreadsheet may read inaccurately when you use formulas.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081531Z" creationid="Franklin Weng" creationdate="20180211T114219Z">
-        <seg>如果你選擇的格式中沒有&lt;f0&gt;足夠&lt;/f0&gt;的小數點位數，那麼使用公式所計算出來的數值可能就不夠精確。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165746Z" creationid="Franklin Weng" creationdate="20180211T114219Z">
+        <seg>如果你選擇的格式沒有&lt;f0&gt;足夠&lt;/f0&gt;的小數點位數，那麼使用公式計算出來的數值可能就不夠精確。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26732,8 +26732,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Leading zeros set the digital places to the left of the decimal point.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T120638Z" creationid="Franklin Weng" creationdate="20180211T120638Z">
-        <seg>「前置零」設定小數點左方至少要顯示幾位數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165958Z" creationid="Franklin Weng" creationdate="20180211T120638Z">
+        <seg>「前置零」會設定小數點左方至少要顯示幾位數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27536,8 +27536,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Make sure you set the number of decimal places that you need.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082155Z" creationid="Franklin Weng" creationdate="20180211T120448Z">
-        <seg>確定你所設定的小數點位數是足夠的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165920Z" creationid="Franklin Weng" creationdate="20180211T120448Z">
+        <seg>確定你所設定的小數點位數夠用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36020,8 +36020,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The default is 1, which means that you need to change it to 2 if you want to display 01 rather than 1.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082445Z" creationid="Franklin Weng" creationdate="20180211T120816Z">
-        <seg>預設值為1，表示左方預設為一個位數的零。如果你想要顯示出07而不是7的話，那就要把這個選項設為2表示顯示兩位數的零，不足的前面會補0。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T170035Z" creationid="Franklin Weng" creationdate="20180211T120816Z">
+        <seg>預設值為1，表示左方預設一個位數的零。如果你想要顯示出07而不是7的話，那就要把這個選項設為2，表示要顯示兩個位數的零，前面不足的部分會補0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44593,8 +44593,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You should also keep in mind the general options that may or may not apply to a particular &lt;f0&gt;number format &lt;/f0&gt;option:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T082142Z" creationid="Franklin Weng" creationdate="20180211T120433Z">
-        <seg>你也要留意一般選項是否能適用特定的&lt;f0&gt;數字格式&lt;/f0&gt;：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165948Z" creationid="Franklin Weng" creationdate="20180211T120433Z">
+        <seg>你也該留意下列一般選項是否適用特定的&lt;f0&gt;數字格式&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
