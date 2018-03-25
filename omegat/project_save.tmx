@@ -2933,8 +2933,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Confusingly, settings for how text displays are on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for cell styles.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122638Z" creationid="Franklin Weng" creationdate="20180211T122638Z">
-        <seg>&lt;f0&gt;但奇怪的是，對於儲存格中文字顯示的設定是放在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083629Z" creationid="Franklin Weng" creationdate="20180211T122638Z">
+        <seg>&lt;f0&gt;令人奇怪的是，儲存格的文字顯示設定是放在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,8 +6912,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he &lt;f1&gt;Alignment&lt;/f1&gt; tab &lt;f2&gt;also &lt;/f2&gt;sets hyphenation and page wrap inside cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T131713Z" creationid="Franklin Weng" creationdate="20180211T122305Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中&lt;f2&gt;也&lt;/f2&gt;可以設定儲存格中的連字號處理與文字折行等等選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083305Z" creationid="Franklin Weng" creationdate="20180211T122305Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中&lt;f2&gt;也&lt;/f2&gt;可以設定儲存格中的連字號斷字處理與文字折行等選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22103,8 +22103,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, in practice, &lt;f2&gt;most&lt;/f2&gt; people are focused on the information rather than the design, and tend to leave the &lt;t3/&gt;defaults unchanged.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122434Z" creationid="Franklin Weng" creationdate="20180211T122434Z">
-        <seg>不過在實務上，&lt;f2&gt;大部份&lt;/f2&gt;的人都還是比較重視試算表中的資訊，而非外觀的設定。所以大部份選項&lt;t3/&gt;用預設值即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083409Z" creationid="Franklin Weng" creationdate="20180211T122434Z">
+        <seg>不過實務上，&lt;f2&gt;大部份&lt;/f2&gt;的人都還是比較重視試算表中承載的資訊，而非外觀的設定。所以大部份選項留著預設值不動即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25429,8 +25429,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In practice, most users are interested in the other options on the tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122509Z" creationid="Franklin Weng" creationdate="20180211T122509Z">
-        <seg>講真的，大部份使用者可能對這個標籤頁中其他的選項還更有興趣。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083438Z" creationid="Franklin Weng" creationdate="20180211T122509Z">
+        <seg>講真的，大部份使用者可能對這個標籤頁中的其他選項還更有興趣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34722,8 +34722,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab includes settings for displaying text inside cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122533Z" creationid="Franklin Weng" creationdate="20180211T122533Z">
-        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中包括儲存格內文字顯示的設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083530Z" creationid="Franklin Weng" creationdate="20180211T122533Z">
+        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中也包括儲存格內文字的顯示設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38400,8 +38400,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These options &lt;f0&gt;are&lt;/f0&gt; useful if you &lt;f1&gt;care about&lt;/f1&gt; the look of your spreadsheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122345Z" creationid="Franklin Weng" creationdate="20180211T122345Z">
-        <seg>如果你&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;很在乎&lt;/f1&gt;試算表的外觀，那這些選項就很有用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083325Z" creationid="Franklin Weng" creationdate="20180211T122345Z">
+        <seg>如果你&lt;f1&gt;很在乎&lt;/f1&gt;試算表外觀的話，那這些選項就很有用。</seg>
       </tuv>
     </tu>
     <tu>
