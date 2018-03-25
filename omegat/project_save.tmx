@@ -7136,8 +7136,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;O&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;rientation &lt;/f3&gt;is useful largely for headings.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122704Z" creationid="Franklin Weng" creationdate="20180211T122704Z">
-        <seg>「&lt;f0&gt;文字&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;方向&lt;/f3&gt;」的設定大部份用在標題。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083714Z" creationid="Franklin Weng" creationdate="20180211T122704Z">
+        <seg>「&lt;f0&gt;文字&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;方向&lt;/f3&gt;」的設定大部份都用在標題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15244,8 +15244,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By angling headings, you can often squeeze the entire text into a column that would otherwise be too small for it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T122825Z" creationid="Franklin Weng" creationdate="20180211T122825Z">
-        <seg>調整標題文字的角度，通常可以讓你把整段文字擠在一起，以便放入不怎麼寬的欄中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083937Z" creationid="Franklin Weng" creationdate="20180211T122825Z">
+        <seg>調整標題文字的旋轉角度，通常可以讓你把一整段文字擠進不夠寬的欄位中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34722,8 +34722,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Alignment&lt;/f0&gt; tab includes settings for displaying text inside cells.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083530Z" creationid="Franklin Weng" creationdate="20180211T122533Z">
-        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中也包括儲存格內文字的顯示設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T083632Z" creationid="Franklin Weng" creationdate="20180211T122533Z">
+        <seg>「&lt;f0&gt;對齊&lt;/f0&gt;」標籤頁中也包括儲存格文字的顯示設定。</seg>
       </tuv>
     </tu>
     <tu>
