@@ -2893,8 +2893,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Column Fields: &lt;/f0&gt;&lt;f1&gt;Creates columns from an available field.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092316Z" creationid="Franklin Weng" creationdate="20180210T135209Z">
-        <seg>&lt;f0&gt;欄的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位的項目建立成欄。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164738Z" creationid="Franklin Weng" creationdate="20180210T135209Z">
+        <seg>&lt;f0&gt;欄的欄位：&lt;/f0&gt;&lt;f1&gt;以可用欄位的項目建立成欄。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,8 +6314,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Row Fields: &lt;/f0&gt;&lt;f1&gt;Creates rows from an available field.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T092330Z" creationid="Franklin Weng" creationdate="20180210T135225Z">
-        <seg>&lt;f0&gt;列的欄位：&lt;/f0&gt;&lt;f1&gt;用可用欄位的項目建立成列。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164743Z" creationid="Franklin Weng" creationdate="20180210T135225Z">
+        <seg>&lt;f0&gt;列的欄位：&lt;/f0&gt;&lt;f1&gt;以可用欄位的項目建立成列。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14242,8 +14242,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>At its most complicated, a pivot table can be used to analyze raw scientific data, showing the correlations between different fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164556Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
-        <seg>它可以處理相當複雜的資料，例如在原始科學資料的分析中，它能顯示出不同資料欄位間的相關性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164609Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
+        <seg>它可以處理相當複雜的資料，例如用在原始科學資料的分析中，它能顯示出不同資料欄位間的相關性。</seg>
       </tuv>
     </tu>
     <tu>
