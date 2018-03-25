@@ -13155,8 +13155,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Alphabetical characters are assumed to be text, &lt;f0&gt;aligned to the left, &lt;/f0&gt;and numbers are assumed to be ordinary number&lt;f1&gt;s, aligned to the right for convenience when reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074829Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
-        <seg>英文字母、中文等預設為文字型態，&lt;f0&gt;會向左對齊&lt;/f0&gt;；至於數字則預設為數字形態，&lt;f1&gt;會向右對齊以方便閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165601Z" creationid="Franklin Weng" creationdate="20180211T113103Z">
+        <seg>英文字母、中文等預設為文字類型，&lt;f0&gt;會向左對齊&lt;/f0&gt;；至於數字則預設為數字類型，&lt;f1&gt;會向右對齊以方便閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14947,8 +14947,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Borders &lt;f0&gt;in spreadsheets help to mark data arrays as separate from other figures on the sheet.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T073641Z" creationid="Franklin Weng" creationdate="20180211T093854Z">
-        <seg>&lt;f0&gt;試算表中的邊框可以幫忙在工作表裡的一大堆數字中標記出資料陣列所在。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165418Z" creationid="Franklin Weng" creationdate="20180211T093854Z">
+        <seg>&lt;f0&gt;試算表中的邊框可以幫忙在工作表裡的一大堆數字中，標記出資料陣列所在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17331,8 +17331,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Currency and other symbols are added automatically, &lt;f7&gt;depending on the format.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T075831Z" creationid="Franklin Weng" creationdate="20180211T113950Z">
-        <seg>貨幣和其他符號會自動&lt;f7&gt;根據格式設定&lt;/f7&gt;而加入。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165712Z" creationid="Franklin Weng" creationdate="20180211T113950Z">
+        <seg>貨幣和其他符號則會自動&lt;f7&gt;根據格式設定&lt;/f7&gt;加入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20261,8 +20261,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, selecting &lt;f2&gt;Text&lt;/f2&gt; means that numbers are treated as text characters, which might be handy in a list of &lt;f3&gt;numerical&lt;/f3&gt; addresses &lt;f4&gt;that you did not want aligned to the right.&lt;/f4&gt; Similarly, selecting &lt;f5&gt;Date&lt;/f5&gt; means that today’s date is always &lt;t6/&gt;presented in the format you select.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T075711Z" creationid="Franklin Weng" creationdate="20180211T113709Z">
-        <seg>比方說，型態選擇「&lt;f2&gt;文字&lt;/f2&gt;」後，就表示即使輸入的是數字，也會當成文字字元來處理。這在處理地址清單中的&lt;f3&gt;數字&lt;/f3&gt;時很有用；因為你可能&lt;f4&gt;不想讓這數字靠右對齊&lt;/f4&gt;。或是選擇「&lt;f5&gt;日期&lt;/f5&gt;」的話，則表示今天的日期&lt;t6/&gt;一定會用你所設定的日期格式來顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165636Z" creationid="Franklin Weng" creationdate="20180211T113709Z">
+        <seg>比方說，型態選擇「&lt;f2&gt;文字&lt;/f2&gt;」後，就表示即使輸入的是數字，也會當成文字字元處理。這在處理地址清單中的&lt;f3&gt;數字&lt;/f3&gt;時很有用；因為你可能&lt;f4&gt;不想讓這些數字靠右對齊&lt;/f4&gt;。或是選擇「&lt;f5&gt;日期&lt;/f5&gt;」的話，則表示今天的日期&lt;t6/&gt;一定會用你所設定的日期格式來顯示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21019,8 +21019,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Go wild – if the background makes a useful distinction, no one will care if it is gaudy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074621Z" creationid="Franklin Weng" creationdate="20180211T112810Z">
-        <seg>所以放膽去用——既然背景是用來做區分的，就沒有人會在乎用色是否太花俏。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165537Z" creationid="Franklin Weng" creationdate="20180211T112810Z">
+        <seg>所以放膽去用——既然背景是用來做區隔的，就沒有人會在乎用色是否太花俏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40893,8 +40893,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unlike text documents, spreadsheets use backgrounds freely &lt;f0&gt;for purposes such as classifying&lt;/f0&gt; tasks or &lt;f1&gt;who does them&lt;/f1&gt; in a list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T074254Z" creationid="Franklin Weng" creationdate="20180211T112412Z">
-        <seg>跟文字文件不同，試算表對背景色的使用比較自由，&lt;f0&gt;通常用來分類不同工作&lt;/f0&gt;，或在清單中&lt;f1&gt;標記被指派工作的人&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165513Z" creationid="Franklin Weng" creationdate="20180211T112412Z">
+        <seg>跟文字文件不同，試算表對背景色的使用比較自由，&lt;f0&gt;通常用來分類不同工作&lt;/f0&gt;，或在清單中&lt;f1&gt;標示被指派工作的人&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44553,8 +44553,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You rarely see spreadsheets using any color except black for ordinary purposes, regardless of whether the sheet is used online or printed to hard copy.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T073931Z" creationid="Franklin Weng" creationdate="20180211T094102Z">
-        <seg>一般用途的試算表，不管是螢幕上閱讀或印出來的紙本，都很少見到會用黑色以外的色彩。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165450Z" creationid="Franklin Weng" creationdate="20180211T094102Z">
+        <seg>一般用途的試算表，不管是螢幕上閱讀或印出來的紙本，都很少見到黑色以外的色彩。</seg>
       </tuv>
     </tu>
     <tu>
