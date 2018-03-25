@@ -19792,8 +19792,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, by default, a new pivot table opens in a new sheet called something lik&lt;f1&gt;e $'Pivot Table_Sheet1_1'.$A$1&lt;/f1&gt;, &lt;f2&gt;which would create a new sheet and place the first cell of the pivot table in the first cell of the new sheet.&lt;/f2&gt; However, you might give the destination a more meaningful name, or place the pivot table on the same sheet as the source data.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T102306Z" creationid="Franklin Weng" creationdate="20180210T140326Z">
-        <seg>例如，預設開啟新的樞紐分析表時，會新開一個工作表，叫做 &lt;f1&gt;$'樞紐分析表_工作表1_1'.$A$1&lt;/f1&gt;&lt;f2&gt;（其中「工作表」會是你所選取資料來源的工作表名稱），並把樞紐分析表放在新工作表的第一個儲存格。&lt;/f2&gt;不過，你也可以把目的地取一個較有意義的名稱，或是把樞紐分析表放在跟資料來源同樣的工作表中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164840Z" creationid="Franklin Weng" creationdate="20180210T140326Z">
+        <seg>例如，預設開啟新的樞紐分析表時，會新開一個工作表，叫做「&lt;f1&gt;$'樞紐分析表_工作表1_1'.$A$1&lt;/f1&gt;&lt;f2&gt;」（其中「工作表」會是你所選取資料來源的工作表名稱），並把樞紐分析表放在新工作表的第一個儲存格。&lt;/f2&gt;不過，你也可以把目的地取一個較有意義的名稱，或是把樞紐分析表放在跟資料來源同樣的工作表中。</seg>
       </tuv>
     </tu>
     <tu>
