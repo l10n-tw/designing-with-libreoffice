@@ -7000,8 +7000,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he range &lt;f1&gt;and type &lt;/f1&gt;of contents that can be entered &lt;f2&gt;(on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Criteria&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab).&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T070351Z" creationid="Franklin Weng" creationdate="20180209T141437Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;可輸入的內容的&lt;f1&gt;範圍與型態&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;（在「條件」標籤頁。）&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164419Z" creationid="Franklin Weng" creationdate="20180209T141437Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;可輸入的內容的&lt;f1&gt;範圍與類型&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;（在「條件」標籤頁。）&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11663,8 +11663,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A definition of invalid content, &lt;f0&gt;whether it will be accepted, &lt;/f0&gt;and how to correct it (on the &lt;f1&gt;Error Alert&lt;/f1&gt; tab).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T080237Z" creationid="Franklin Weng" creationdate="20180209T141710Z">
-        <seg>無效內容的定義、&lt;f0&gt;是否能被接受&lt;/f0&gt;，以及如何修正（在&lt;f1&gt;「錯誤警告」&lt;/f1&gt;標籤頁）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164502Z" creationid="Franklin Weng" creationdate="20180209T141710Z">
+        <seg>無效內容的定義、&lt;f0&gt;內容如何才能被接受&lt;/f0&gt;，以及如何修正等（在&lt;f1&gt;「錯誤警告」&lt;/f1&gt;標籤頁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14242,8 +14242,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>At its most complicated, a pivot table can be used to analyze raw scientific data, showing the correlations between different fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T083703Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
-        <seg>它可以處理相當複雜的資料，例如用在原始科學資料的分析上，能顯示出不同資料欄位間的相關性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164556Z" creationid="Franklin Weng" creationdate="20180209T143434Z">
+        <seg>它可以處理相當複雜的資料，例如在原始科學資料的分析中，它能顯示出不同資料欄位間的相關性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37366,8 +37366,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The purpose of the cell contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180209T141518Z" creationid="Franklin Weng" creationdate="20180209T141518Z">
-        <seg>儲存格內容的目的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T164411Z" creationid="Franklin Weng" creationdate="20180209T141518Z">
+        <seg>儲存格內容的用途目的。</seg>
       </tuv>
     </tu>
     <tu>
