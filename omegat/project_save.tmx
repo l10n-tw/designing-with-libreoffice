@@ -2435,8 +2435,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Begin by experimenting with the&lt;/f0&gt; &lt;f1&gt;Reduce/Enlarge printout,&lt;/f1&gt; &lt;f2&gt;entering either&lt;/f2&gt; a percentage of the original size, or &lt;f3&gt;Fit &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;print &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;range(s) to width/height&lt;/f6&gt; or &lt;f7&gt;Fit print range(s) on number of pages&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T143159Z" creationid="Franklin Weng" creationdate="20180216T143159Z">
-        <seg>&lt;f0&gt;你可以先試試&lt;/f0&gt;「&lt;f1&gt;減小/擴大列印輸出&lt;/f1&gt;」，&lt;f2&gt;輸入一個&lt;/f2&gt;跟原始大小比較的縮放係數百分比；再來可以試試&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;「使列印範圍符合寬度/高度」&lt;/f6&gt;或是&lt;f7&gt;「使列印範圍符合多頁」&lt;/f7&gt;等選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T153114Z" creationid="Franklin Weng" creationdate="20180216T143159Z">
+        <seg>&lt;f0&gt;你可以先試試&lt;/f0&gt;「&lt;f1&gt;減小/擴大列印輸出&lt;/f1&gt;」，&lt;f2&gt;輸入一個相較於&lt;/f2&gt;原始大小的百分比縮放係數；再來可以嘗試&lt;f6&gt;「使列印範圍符合寬度/高度」，&lt;/f6&gt;或是&lt;f7&gt;「使列印範圍符合多頁」&lt;/f7&gt;等選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9473,8 +9473,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;Sometimes, you can hide &lt;/f1&gt;some columns or &lt;f2&gt;print only selected columns, but not always.&lt;/f2&gt; &lt;f3&gt;In many cases, page styles are the only alternatives.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142636Z" creationid="Franklin Weng" creationdate="20180216T142636Z">
-        <seg>&lt;f1&gt;有的時候，你可以選擇隱藏&lt;/f1&gt;一些欄位，或是&lt;f2&gt;只列印選擇的欄位。但這個方法也不是每次都適用。&lt;/f2&gt;&lt;f3&gt;很多狀況下，還是要靠頁面樣式來調整。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152748Z" creationid="Franklin Weng" creationdate="20180216T142636Z">
+        <seg>&lt;f1&gt;而有時候，你也可以選擇隱藏&lt;/f1&gt;一些欄，或是&lt;f2&gt;只列印選擇的欄。但這個方法也不是每次都管用。&lt;/f2&gt;&lt;f3&gt;很多狀況下，還是要靠頁面樣式來調整。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22430,8 +22430,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, the &lt;f1&gt;Sheet&lt;/f1&gt; tab has options that deserve a closer look.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142731Z" creationid="Franklin Weng" creationdate="20180216T142731Z">
-        <seg>不過，在「&lt;f1&gt;工作表&lt;/f1&gt;」標籤頁還是有一些值得一看的選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152822Z" creationid="Franklin Weng" creationdate="20180216T142731Z">
+        <seg>不過，在「&lt;f1&gt;工作表&lt;/f1&gt;」標籤頁中還是有一些值得一看的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28268,8 +28268,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Most of the options for spreadsheet pages are similar to the page styles for text documents &lt;f0&gt;(see Chapter 8)&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142709Z" creationid="Franklin Weng" creationdate="20180216T142709Z">
-        <seg>大部份試算表頁面樣式的選項都跟文字文件差不多（&lt;f0&gt;請參考第八章&lt;/f0&gt;）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152809Z" creationid="Franklin Weng" creationdate="20180216T142709Z">
+        <seg>大部份試算表頁面樣式的選項都跟文字文件差不多（&lt;f0&gt;請參考第8章&lt;/f0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31693,8 +31693,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Scaling spreadsheets</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142800Z" creationid="Franklin Weng" creationdate="20180216T142800Z">
-        <seg>調整試算表的比例</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152838Z" creationid="Franklin Weng" creationdate="20180216T142800Z">
+        <seg>調整試算表的縮放比例</seg>
       </tuv>
     </tu>
     <tu>
@@ -35110,8 +35110,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab includes options for fitting a spreadsheet on a printed page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T142921Z" creationid="Franklin Weng" creationdate="20180216T142921Z">
-        <seg>在「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中包含了將試算表塞進一張紙上的選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152924Z" creationid="Franklin Weng" creationdate="20180216T142921Z">
+        <seg>「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中有一些將試算表塞進一張紙上的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37543,8 +37543,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The scaling options on the &lt;f0&gt;Sheet&lt;/f0&gt; tab should be your starting point with page styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153730Z" creationid="Franklin Weng" creationdate="20180216T142839Z">
-        <seg>你可以優先看看在「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「顯示比例」選項。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T152854Z" creationid="Franklin Weng" creationdate="20180216T142839Z">
+        <seg>你可以先看看「&lt;f0&gt;工作表&lt;/f0&gt;」標籤頁中的「顯示比例」選項。</seg>
       </tuv>
     </tu>
     <tu>
