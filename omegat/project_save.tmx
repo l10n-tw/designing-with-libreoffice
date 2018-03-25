@@ -2571,8 +2571,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;ell protection either protects cells from editing or causes Calc to skip over flagged cells when printing or performing other operations.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T153704Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;儲存格保護除了可以避免儲存格內容被修改，也可以讓 Calc 在列印或執行其他操作時跳過該儲存格。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090032Z" creationid="Franklin Weng" creationdate="20180211T133556Z">
+        <seg>儲存格保護除了可以避免儲存格內容被修改外，也可以讓Calc在列印或執行其他操作時跳過這些標記的儲存格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,8 +7153,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text wrap&lt;/f0&gt; present&lt;f1&gt;s&lt;/f1&gt; spreadsheet text in a more conventional format than &lt;f2&gt;t&lt;/f2&gt;ext extension,&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;displaying contents without spilling over into another cell.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133539Z" creationid="Franklin Weng" creationdate="20180211T133539Z">
-        <seg>「&lt;f0&gt;文字折行&lt;/f0&gt;」比起&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;「&lt;f3&gt;文字延伸&lt;/f3&gt;」來說，讓試算表中的文字以更為符合常規的方式來呈現文字，而&lt;f4&gt;不會讓內容蓋到其它儲存格去。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085911Z" creationid="Franklin Weng" creationdate="20180211T133539Z">
+        <seg>「&lt;f0&gt;文字折行&lt;/f0&gt;」比起&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;「&lt;f3&gt;文字延伸&lt;/f3&gt;」來說，能讓試算表以更符合常規的方式呈現文字，而&lt;f4&gt;不會讓內容蓋到其他儲存格去。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38797,8 +38797,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>They work best online, where cell width is not an issue, and you can use as much space as you want.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T133329Z" creationid="Franklin Weng" creationdate="20180211T133329Z">
-        <seg>這樣在線上閱讀時是最好的選擇，因為儲存格的寬度此時不是問題，而你可以盡量照想要的方式利用空間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085830Z" creationid="Franklin Weng" creationdate="20180211T133329Z">
+        <seg>這在螢幕閱讀上是最好的選擇，因為儲存格的寬度此時就不是問題，而你可以盡情照想要的方式利用空間。</seg>
       </tuv>
     </tu>
     <tu>
