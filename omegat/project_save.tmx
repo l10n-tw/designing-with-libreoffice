@@ -20261,8 +20261,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, selecting &lt;f2&gt;Text&lt;/f2&gt; means that numbers are treated as text characters, which might be handy in a list of &lt;f3&gt;numerical&lt;/f3&gt; addresses &lt;f4&gt;that you did not want aligned to the right.&lt;/f4&gt; Similarly, selecting &lt;f5&gt;Date&lt;/f5&gt; means that today’s date is always &lt;t6/&gt;presented in the format you select.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T113709Z" creationid="Franklin Weng" creationdate="20180211T113709Z">
-        <seg>比方說，型態選擇「&lt;f2&gt;文字&lt;/f2&gt;」就表示即使輸入的是數字，也會當成文字字元來處理。這可以用來處理地址清單中的&lt;f3&gt;數字&lt;/f3&gt;，因為你可能&lt;f4&gt;不想讓這數字靠右對齊&lt;/f4&gt;。或者是選擇「&lt;f5&gt;日期&lt;/f5&gt;」，則表示今天的日期&lt;t6/&gt;一定會用你所設定的日期格式來顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T075711Z" creationid="Franklin Weng" creationdate="20180211T113709Z">
+        <seg>比方說，型態選擇「&lt;f2&gt;文字&lt;/f2&gt;」後，就表示即使輸入的是數字，也會當成文字字元來處理。這在處理地址清單中的&lt;f3&gt;數字&lt;/f3&gt;時很有用；因為你可能&lt;f4&gt;不想讓這數字靠右對齊&lt;/f4&gt;。或是選擇「&lt;f5&gt;日期&lt;/f5&gt;」的話，則表示今天的日期&lt;t6/&gt;一定會用你所設定的日期格式來顯示。</seg>
       </tuv>
     </tu>
     <tu>
