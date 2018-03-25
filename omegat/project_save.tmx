@@ -3168,8 +3168,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Date is: &lt;/f0&gt;Applies the selected cell style to cells in which the designated filter is used, from Today to Last Week.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T142741Z" creationid="Franklin Weng" creationdate="20180216T131121Z">
-        <seg>&lt;f0&gt;日期：&lt;/f0&gt;在所選的儲存格範圍中，找到儲存格內容為指定的時間點時套用樣式。可篩選的時間點為下拉式選單，可用的值有今日、昨日、明日到今年、去年、明年等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171329Z" creationid="Franklin Weng" creationdate="20180216T131121Z">
+        <seg>&lt;f0&gt;日期：&lt;/f0&gt;在所選的儲存格範圍中，找到儲存格內容是指定的時間點時套用樣式。可篩選的時間點為下拉式選單，可用的值有今日、昨日、明日，到今年、去年、明年等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5738,8 +5738,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Once you have set conditional formatting, you can select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Manage&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the sub-menu to see a summary and edit the selections.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150952Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
-        <seg>&lt;f0&gt;當你設定好條件式格式設定後，你可以從子選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;看看條件摘要，並編輯你的選項。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171453Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
+        <seg>&lt;f0&gt;當你設定好條件式格式設定後，你可以從子選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;看看條件摘要，並編輯選項。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21316,8 +21316,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Here, emoticons indicate that two results were neutral, and two results better than neutral.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150734Z" creationid="Franklin Weng" creationdate="20180216T135301Z">
-        <seg>這邊的表情圖示顯示有兩個結果是持平，有兩個結果則是比較理想的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171438Z" creationid="Franklin Weng" creationdate="20180216T135301Z">
+        <seg>這邊的表情圖示顯示有兩個結果是持平，有兩個結果則是比較理想。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36526,8 +36526,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The formula is typically one that view&lt;f1&gt;er&lt;/f1&gt;s of the sheet wish to find easily.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T142625Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
-        <seg>「公式」這個類型通常是方便查看此工作表的人可以快速查找。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171241Z" creationid="Franklin Weng" creationdate="20180216T130858Z">
+        <seg>會用「公式」這個類型，通常是方便查看此工作表的人可以快速查找。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37089,8 +37089,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The numerical value that must be present to activate the conditional formatting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T132908Z" creationid="Franklin Weng" creationdate="20180215T074013Z">
-        <seg>啟動條件式格式設定必須滿足的數值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171144Z" creationid="Franklin Weng" creationdate="20180215T074013Z">
+        <seg>啟動條件式格式設定時必須滿足的數值。</seg>
       </tuv>
     </tu>
     <tu>
