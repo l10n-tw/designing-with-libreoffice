@@ -4184,8 +4184,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;However, the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Alignment&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab provides alternatives that many people today prefer.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132400Z" creationid="Franklin Weng" creationdate="20180211T132400Z">
-        <seg>&lt;f0&gt;不過，&lt;/f0&gt;在「&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中則提供了現今較多人傾向使用的替代方案。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085127Z" creationid="Franklin Weng" creationdate="20180211T132400Z">
+        <seg>&lt;f0&gt;不過，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;對齊&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中則提供了現今較多人偏好使用的其他做法。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11463,8 +11463,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A &lt;f0&gt;more readable&lt;/f0&gt; solution is &lt;f1&gt;Wrap text&lt;/f1&gt; &lt;f2&gt;automatically.&lt;/f2&gt; &lt;f3&gt;This option makes text in a cell act like text in a Writer document, making it easier to read at the cost of changing the dimensions of the cell, which may not be practical if the cell needs to align with other cells.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132905Z" creationid="Franklin Weng" creationdate="20180211T132905Z">
-        <seg>另一個&lt;f0&gt;可讀性較高&lt;/f0&gt;的方案是「&lt;f1&gt;文字&lt;/f1&gt;&lt;f2&gt;自動折行&lt;/f2&gt;」。&lt;f3&gt;這個選項讓儲存格內的文字像在文字文件中一樣的行為，碰到邊框時就折行。這樣比較容易閱讀，代價是可能有時要調整儲存格大小，而如果儲存格又要跟其他儲存格對齊時就會有點麻煩。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085445Z" creationid="Franklin Weng" creationdate="20180211T132905Z">
+        <seg>另一個&lt;f0&gt;易讀性較高&lt;/f0&gt;的解決方案是「&lt;f1&gt;文字自動折行&lt;/f1&gt;&lt;f3&gt;」。這個選項讓儲存格內的文字有如文字文件中一樣的行為，碰到邊框時就折行。這樣比較容易閱讀，代價是儲存格的大小就要調整，但如果儲存格又得跟其他儲存格對齊的話，那就有點麻煩了。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34399,16 +34399,16 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Text extension &lt;f0&gt;overlaps text into other cells as necessary.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132308Z" creationid="Franklin Weng" creationdate="20180211T132308Z">
-        <seg>文字延伸&lt;f0&gt;會在必要時讓文字蓋到下一個儲存格之上。overlaps text into other cells as necessary.&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085046Z" creationid="Franklin Weng" creationdate="20180211T132308Z">
+        <seg>文字延伸&lt;f0&gt;會在必要時讓文字蓋到下一個儲存格之上。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Text extension is used regardless of whether text is rotated or not.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132248Z" creationid="Franklin Weng" creationdate="20180211T132248Z">
-        <seg>不管文字有沒有被旋轉，都會使用文字延伸。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085032Z" creationid="Franklin Weng" creationdate="20180211T132248Z">
+        <seg>不管文字要不要旋轉，都會用到文字延伸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36422,8 +36422,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The first is &lt;f0&gt;Shrink to fit cell size.&lt;/f0&gt; This option is useful largely for contents that almost but not quite fit&lt;f1&gt;s&lt;/f1&gt; into a cell.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T132503Z" creationid="Franklin Weng" creationdate="20180211T132503Z">
-        <seg>第一個是「&lt;f0&gt;縮小以符合儲存格大小&lt;/f0&gt;」。這個選項很常用在內容只比儲存格大一些些時。&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T085147Z" creationid="Franklin Weng" creationdate="20180211T132503Z">
+        <seg>第一個是「&lt;f0&gt;縮小以符合儲存格大小&lt;/f0&gt;」。這個選項很常用在內容只比儲存格大一點點時。</seg>
       </tuv>
     </tu>
     <tu>
