@@ -11599,8 +11599,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A color scale, with &lt;f0&gt;yellow&lt;/f0&gt; indicating the lowest value&lt;f1&gt; and cyan&lt;/f1&gt; the highest.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132804Z" creationid="Franklin Weng" creationdate="20180216T132804Z">
-        <seg>「色階」的一種用法，將最低值標記為&lt;f0&gt;黃色&lt;/f0&gt;，最高值標記為&lt;f1&gt;青色&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T145006Z" creationid="Franklin Weng" creationdate="20180216T132804Z">
+        <seg>「色階」的一種用法，例如將最低值標記為&lt;f0&gt;黃色&lt;/f0&gt;，最高值標記為&lt;f1&gt;青藍色&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35923,8 +35923,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The color scale &lt;f1&gt;is especially useful for showing high and low values in a range of cells at a quick glance.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180216T132706Z" creationid="Franklin Weng" creationdate="20180216T132706Z">
-        <seg>「色階」&lt;f1&gt;在選取的儲存格範圍中快速找到高值與低值這方面特別好用。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T144738Z" creationid="Franklin Weng" creationdate="20180216T132706Z">
+        <seg>「色階」&lt;f1&gt;在所選的儲存格範圍中，想讓其中的高值與低值能被一眼看出時特別好用。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
