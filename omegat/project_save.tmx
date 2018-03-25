@@ -23722,8 +23722,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>If you choose a format without &lt;f0&gt;sufficient &lt;/f0&gt;decimal places, your spreadsheet may read inaccurately when you use formulas.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T114219Z" creationid="Franklin Weng" creationdate="20180211T114219Z">
-        <seg>如果你選擇的格式中沒有&lt;f0&gt;足夠&lt;/f0&gt;的小數位數，那麼使用公式所計算出來的數值可能就不夠精確。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T081531Z" creationid="Franklin Weng" creationdate="20180211T114219Z">
+        <seg>如果你選擇的格式中沒有&lt;f0&gt;足夠&lt;/f0&gt;的小數點位數，那麼使用公式所計算出來的數值可能就不夠精確。</seg>
       </tuv>
     </tu>
     <tu>
