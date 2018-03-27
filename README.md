@@ -6,6 +6,8 @@
 ## 專案目標
 簡單說，就是把《[Designing with LibreOffice](http://designingwithlibreoffice.com/)》這本由 Bruce Byfield 所著作的書翻譯成中文版，並且針對 6.0 時下最新版本重製。等待完成後，再改版為 5.4 版。
 
+中文版書名為《LibreOffice 排版設計》。
+
 ## 實現方式
 * OmegaT 4.1.2_beta2 翻譯輔助工具 https://sourceforge.net/projects/omegat/files/OmegaT%20-%20Latest/OmegaT%204.1.2%20update%202/
 * GitHub 協作
