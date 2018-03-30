@@ -5657,8 +5657,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Often, y&lt;/f0&gt;ou can &lt;f1&gt;r&lt;/f1&gt;educe the amount of kerning by carefully choosing a font after looking at letter combinations that often need kerning.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T152257Z" creationid="Franklin Weng" creationdate="20180316T152257Z">
-        <seg>&lt;f0&gt;Often, y&lt;/f0&gt;ou can &lt;f1&gt;r&lt;/f1&gt;educe the amount of kerning by carefully choosing a font after looking at letter combinations that often need kerning.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T094134Z" creationid="Franklin Weng" creationdate="20180316T152257Z">
+        <seg>&lt;f0&gt;通常，&lt;/f0&gt;只要仔細觀察不同字型，看看那些通常需要調整字距的字母組合並小心地選擇你要的字型，就可以&lt;f1&gt;省掉&lt;/f1&gt;手動調整字距的時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13258,6 +13258,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although they have to be applied &lt;f0&gt;in individual cases&lt;/f0&gt;, small caps are especially useful in improving the readability of text full of abbreviations.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095112Z" creationid="Franklin Weng" creationdate="20180330T095112Z">
+        <seg>雖然它們必須依&lt;f0&gt;個別狀況&lt;/f0&gt;來使用，不過小型大寫字母對於充滿縮寫的文字來說，可以增加可讀性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can add additional lines, more than one line gives a sloppy look that you should avoid in any published document.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T114951Z" creationid="Jeff Huang" creationdate="20180126T134421Z">
@@ -15382,6 +15390,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T140437Z" creationid="Franklin Weng" creationdate="20171223T125150Z">
         <seg>不過，文件中有定義但沒用到的自訂樣式，&lt;f0&gt;還有追蹤修訂的紀錄&lt;/f0&gt;，都不會出現在新文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, early versions of Cantarell had a reputation – since outgrown – for being poorly kerned, &lt;f0&gt;which made manual kerning much more difficult.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T094909Z" creationid="Franklin Weng" creationdate="20180330T094909Z">
+        <seg>相反地，早期版本的 Cantarell 打從一問世就有不少字距的問題，&lt;f0&gt;這也讓手動做字距微調變得很困難。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20753,6 +20769,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From top to bottom: genuine small caps, manufactured small caps, and regular caps.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095247Z" creationid="Franklin Weng" creationdate="20180330T095216Z">
+        <seg>從上到下：真正的小型大寫字母、製作出來的小型大寫字母，以及一般的大寫字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Front matter such as copyright notices and acknowledgments.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T104144Z" creationid="Jeff Huang" creationdate="20180124T133343Z">
@@ -20917,6 +20941,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T132407Z" creationid="MarkHung" creationdate="20180224T034843Z">
         <seg>寬鬆的間距可提高易讀性，避免難以辨識的外觀。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gentium, for instance, is tightly kerned and even uses ligatures automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T094740Z" creationid="Franklin Weng" creationdate="20180330T094740Z">
+        <seg>例如 Gentium 的字距就仔細處理過，甚至會自動使用連字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23732,6 +23764,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T062350Z" creationid="zerng07" creationdate="20180304T062350Z">
         <seg>如果你選擇不要用替代條目、不要第一或第二關鍵字，那就略過欄位內容，讓半形分號緊接著另一個半形分號。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you compare the “A” in the genuine small caps with the other samples, you can see that small caps are not just a matter of size – the proportions of letters are also changed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095357Z" creationid="Franklin Weng" creationdate="20180330T095357Z">
+        <seg>如果你把真正的小型大寫字母的“A”跟其他字型做比較，就會知道所謂的小型大寫字母不是單純大小的問題而已 – 字母的比例也跟著改變了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27691,6 +27731,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T024115Z" creationid="zerng07" creationdate="20171227T024115Z">
         <seg>手動修改文件部分內容的格式並選取它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manufacturing small capitals</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095220Z" creationid="Franklin Weng" creationdate="20180330T094926Z">
+        <seg>製作小型大寫字母</seg>
       </tuv>
     </tu>
     <tu>
@@ -33282,6 +33330,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T094746Z" creationid="Franklin Weng" creationdate="20171225T135828Z">
         <seg>小型大寫字母 (Small Caps)：專為大寫字母所做的特別設計，&lt;f0&gt;目的是&lt;/f0&gt;讓同一排兩個字以上的大寫字母文字更容易閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Small capitals are designed to improve the look of two or more capital letters in a row.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095005Z" creationid="Franklin Weng" creationdate="20180330T095005Z">
+        <seg>小型大寫字母（Small capitals）是為了改進兩個以上的連續大寫字母放在一起時的外觀而設計的。</seg>
       </tuv>
     </tu>
     <tu>
