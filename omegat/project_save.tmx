@@ -5216,6 +5216,14 @@ f1</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;M&lt;/f0&gt;aking &lt;f1&gt;your own &lt;/f1&gt;small caps</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095857Z" creationid="Franklin Weng" creationdate="20180330T095857Z">
+        <seg>&lt;f0&gt;製作&lt;/f0&gt;&lt;f1&gt;自己的&lt;/f1&gt;小型大寫字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;any users – especially inexperienced ones – feel that a spreadsheet &lt;f1&gt;requires borders for each cell and the row and column headers, and that a spreadsheet simply isn’t a spreadsheet without one.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T154641Z" creationid="Franklin Weng" creationdate="20180216T144840Z">
@@ -19422,6 +19430,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font: Linux Libertine G.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095403Z" creationid="Franklin Weng" creationdate="20180330T095403Z">
+        <seg>字型：Linux Libertine G.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font: Maven Pro.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T095113Z" creationid="Ｖ字龍" creationdate="20180221T095113Z">
@@ -22540,6 +22556,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, these imitations are rarely more than adequate, because true small capitals are distinguished not just by size, but &lt;f1&gt;by &lt;/f1&gt;an entire redesign of &lt;f2&gt;characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095753Z" creationid="Franklin Weng" creationdate="20180330T095753Z">
+        <seg>不過，這些模仿原字型而產生的小型大寫字母很少有真正適用的，因為真正的小型大寫字母不是只依大小區分，而是要&lt;f1&gt;整個重新設計&lt;/f1&gt;每個&lt;f2&gt;字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, these names &lt;f2&gt;are&lt;/f2&gt; too limited to &lt;f3&gt;remember easily&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T110013Z" creationid="Jeff Huang" creationdate="20180201T085908Z">
@@ -22926,6 +22950,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you might want to see if you can improve on what &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;LibreOffice offers.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T100013Z" creationid="Franklin Weng" creationdate="20180330T100013Z">
+        <seg>不過，你可能會想要對&lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt; LibreOffice 產生出來的結果做一些改進。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you sometimes need to break up a list with an unnumbered &lt;f0&gt;or unbulleted&lt;/f0&gt; paragraph &lt;f1&gt;that gives&lt;/f1&gt; more detail about a list item.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T140838Z" creationid="MarkHung" creationdate="20180224T043525Z">
@@ -23071,6 +23103,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T143353Z" creationid="Jeff Huang" creationdate="20180212T091858Z">
         <seg>將輸入內容指定識別為數字，並向右對齊。&lt;/f4&gt;（按下去預設沒有效果…要先啟用下面對齊講的「對齊」和「數字格式識別」這兩個選項才有用。記得改寫）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;f0&gt;a font lacks small capitals, LibreOffice manufactures some.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095928Z" creationid="Franklin Weng" creationdate="20180330T095928Z">
+        <seg>&lt;f0&gt;如果字型裡沒有小型大寫字母，LibreOffice 會製作一些出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23280,6 +23320,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T145811Z" creationid="Franklin Weng" creationdate="20171212T100648Z">
         <seg>如果是這樣的話，別怕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If so, follow these steps to manufacture small caps for yourself&lt;/f2&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T100222Z" creationid="Franklin Weng" creationdate="20180330T100222Z">
+        <seg>如果是這樣，那就依照以下的步驟來自行製作小型大寫字母：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33821,6 +33869,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting from manufactured capitals mean that you are inheriting all sorts of assumptions that are hard to pin down.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T100520Z" creationid="Franklin Weng" creationdate="20180330T100520Z">
+        <seg>Starting from manufactured capitals mean that you are inheriting all sorts of assumptions that are hard to pin down.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;TOC&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; entry at the left margin and placing the page number against the right margin disassociates them, and the leader dots are needed to try to reconnect them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065243Z" creationid="zerng07" creationdate="20180302T140014Z">
@@ -33873,6 +33929,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170822T143258Z" creationid="zerng07" creationdate="20170822T142122Z">
         <seg>最後，一樣要強調《&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f0&gt;&lt;f1&gt;排版設計&lt;/f1&gt;&lt;/f0&gt;》一書不是&lt;f3&gt;要講抽象的設計概念，而是在探討&lt;/f3&gt;如何把日常作業做好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still, not every font comes with small capitals, leaving you sometimes with no choice except to try making your own.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095841Z" creationid="Franklin Weng" creationdate="20180330T095841Z">
+        <seg>還有，因為不是每個字型都有，所以有的時候免不了你得要自己來製作小型大寫字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41261,6 +41325,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the regular capitals for your experiments.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T100232Z" creationid="Franklin Weng" creationdate="20180330T100232Z">
+        <seg>先用一般大寫字母做實驗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the same formula if spacing between body text paragraphs is used instead of a first line indentation.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T014634Z" creationid="zerng07" creationdate="20180123T014634Z">
@@ -42019,6 +42091,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130258Z" creationid="zerng07" creationdate="20180302T130258Z">
         <seg>當一個建構方塊被選取後，在&lt;f0&gt;結構&lt;/f0&gt;欄位中看起來就像沉下去一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a font does not include &lt;f0&gt;its own set of &lt;/f0&gt;small caps, LibreOffice creates an imitation of them, usually making them smaller than ordinary capitals.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T095539Z" creationid="Franklin Weng" creationdate="20180330T095539Z">
+        <seg>如果某個字型裡沒有包含它自己的小型大寫字母，LibreOffice 會模仿該字型而幫它建立，通常會比一般大寫字母再小一點。</seg>
       </tuv>
     </tu>
     <tu>
