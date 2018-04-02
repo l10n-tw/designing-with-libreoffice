@@ -26085,6 +26085,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead of using &lt;f0&gt;Register-true&lt;/f0&gt; for Headings, make the font size, the space above, and the space below equal a multiple of the line spacing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T131533Z" creationid="Franklin Weng" creationdate="20180402T131533Z">
+        <seg>標題不要用「&lt;f0&gt;行距皆相等&lt;/f0&gt;」設定，改為設定字型大小與將標題上下的間距設成行間距的倍數。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead of worrying about formatting, I can concentrate on what I am saying.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T011255Z" creationid="zerng07" creationdate="20180125T135240Z">
@@ -34780,6 +34788,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T041436Z" creationid="Jeff Huang" creationdate="20171220T081112Z">
         <seg>&lt;f2&gt;舉例來說，&lt;/f2&gt;在繪圖物件中有一個預先定義好的「&lt;f3&gt;帶陰影的物件&lt;/f3&gt;」樣式，它能對某一個矩形做格式設定，也可以對&lt;f5&gt;不同大小的某種相同形狀&lt;/f5&gt;做&lt;f4&gt;格式設定&lt;/f4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That way, &lt;f1&gt;the Headings will rarely be out of sync for any length of time.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T132152Z" creationid="Franklin Weng" creationdate="20180402T132152Z">
+        <seg>這樣做，&lt;f1&gt;標題就不太會遭經。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
