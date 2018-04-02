@@ -8107,6 +8107,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;se the &lt;f1&gt;Scale width&lt;/f1&gt; &lt;f2&gt;field &lt;/f2&gt;on the &lt;f3&gt;Position&lt;/f3&gt; tab &lt;f4&gt;to make the characters slightly wider than those of the paragraph style it will accompany.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123004Z" creationid="Franklin Weng" creationdate="20180402T123004Z">
+        <seg>&lt;f0&gt;用&lt;/f0&gt;字元樣式中「&lt;f3&gt;位置&lt;/f3&gt;」標籤頁裡的「&lt;f1&gt;縮放寬度&lt;/f1&gt;」&lt;f2&gt;&lt;/f2&gt;，&lt;f4&gt;來把字元的寬度設定成比原先段落中的其他字元寬一點點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;U&lt;/f0&gt;se this chapter’s headings as a checklist so you cover all the basic formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T093444Z" creationid="zerng07" creationdate="20180121T093437Z">
@@ -14672,6 +14680,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because the small cap character style has a smaller font size, you probably will want to increase the spacing anyway to increase legibility.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123330Z" creationid="Franklin Weng" creationdate="20180402T123330Z">
+        <seg>因為小型大寫字母的字元樣式的字型大小較小，所以可能需要增加間距以增進可讀性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Become more specific by recalling what documents you have written in the past.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T042706Z" creationid="Franklin Weng" creationdate="20171213T124256Z">
@@ -17946,6 +17962,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not increase the width by more than a few percent, or it may look grotesque.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123101Z" creationid="Franklin Weng" creationdate="20180402T123101Z">
+        <seg>寬度增加幾個百分比就好，不要增加太多，不然會看起來很怪異。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not rely on the font preview in the &lt;f0&gt;Formatting&lt;/f0&gt; tool bar &lt;f1&gt;or the sidebar.&lt;/f1&gt; A single word is not enough to judge a font.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T091210Z" creationid="Franklin Weng" creationdate="20180105T120321Z">
@@ -18912,6 +18936,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T132521Z" creationid="zerng07" creationdate="20180205T132514Z">
         <seg>多加實驗找出兩者間的平衡點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Experiment until you find a suitable size.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T122552Z" creationid="Franklin Weng" creationdate="20180402T122552Z">
+        <seg>一直實驗直到你找到適合的大小為止。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25895,6 +25927,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065248Z" creationid="zerng07" creationdate="20180302T143955Z">
         <seg>加大頁碼的文字大小會有一些幫助，但還是有個&lt;f0&gt;很基本的問題：&lt;/f0&gt;頁碼和條目之間的距離依然讓目次難閱讀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increasing the width may have upset the spacing between characters, so experiment with the &lt;f0&gt;Spacing&lt;/f0&gt; field &lt;f1&gt;on the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Position&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123254Z" creationid="Franklin Weng" creationdate="20180402T123254Z">
+        <seg>增加寬度的時候可能會造成字元間距有些問題，這時用「&lt;f2&gt;&lt;f3&gt;位置&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;標籤頁&lt;/f4&gt;中的「&lt;f0&gt;間距&lt;/f0&gt;」&lt;f1&gt;&lt;/f1&gt;欄位來實驗調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33856,6 +33896,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T132607Z" creationid="Jeff Huang" creationdate="20180201T025040Z">
         <seg>從左邊距開始的項目符號，然後&lt;f0&gt;文字&lt;/f0&gt;部分縮排。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start with a character style that is &lt;f0&gt;several&lt;/f0&gt; points smaller than &lt;f1&gt;the paragraph font with which it will be used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T122534Z" creationid="Franklin Weng" creationdate="20180402T122534Z">
+        <seg>先看段落中使用的字型大小，然後設定一個字元樣式，樣式中的字型大小比原來段落的要小個&lt;f0&gt;幾點&lt;/f0&gt;。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
