@@ -3441,6 +3441,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Even advanced users puzzle over the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; setting on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Indents &amp; Spacing&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124135Z" creationid="Franklin Weng" creationdate="20180402T124135Z">
+        <seg>&lt;f0&gt;即便是進階使用者&lt;/f0&gt;，也會對「&lt;f4&gt;&lt;f5&gt;縮排和間距&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;設定&lt;/f3&gt;感到困惑。&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Even if you minimize the use of tabs yourself, you cannot avoid LibreOffice’s built-in uses of them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T141559Z" creationid="MarkHung" creationdate="20180224T041621Z">
@@ -8437,6 +8445,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Usually, the spacing is that of the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; font.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T125306Z" creationid="Franklin Weng" creationdate="20180402T125306Z">
+        <seg>&lt;f0&gt;通常這裡的&lt;/f0&gt;「行間距」設定是針對&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;的&lt;f3&gt;字型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Validity&lt;/f0&gt; defines the type of contents that can be entered in a cell.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T064823Z" creationid="Franklin Weng" creationdate="20180207T160644Z">
@@ -8498,6 +8514,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002941Z" creationid="zerng07" creationdate="20180123T102443Z">
         <seg>&lt;f0&gt;不管你的對齊方式為何，如果你的英語文件有在用斷字樣式的話，至少要在出版前的最後一步&lt;/f0&gt;執行過「&lt;f1&gt; 工具 &gt; 語言 &gt; 斷字處理&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is selected, the lines of text in columns, mirrored pages, or on both sides of a page are spaced identically.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124800Z" creationid="Franklin Weng" creationdate="20180402T124800Z">
+        <seg>&lt;f0&gt;勾選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「行距皆相等」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的「啟用」時，在欄位中的文字，相對應的頁面，或是一頁中的左右邊的行距都會保持一致。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26591,6 +26615,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It’s a large mystery for a simple setting.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124226Z" creationid="Franklin Weng" creationdate="20180402T124226Z">
+        <seg>這對簡單的設定來說是個很大的謎團。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It’s inefficient.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T160054Z" creationid="Franklin Weng" creationdate="20171212T100227Z">
@@ -27730,6 +27762,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T153646Z" creationid="Franklin Weng" creationdate="20180106T041240Z">
         <seg>一次就做太大的變動，回溯時只會浪費時間。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Making line spacing consistent</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123433Z" creationid="Franklin Weng" creationdate="20180402T123433Z">
+        <seg>讓行間距一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -34806,6 +34846,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Register-true &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;feature makes lines consistent across the pages – or as near as possible if different-sized fonts are used.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124615Z" creationid="Franklin Weng" creationdate="20180402T124615Z">
+        <seg>所謂的「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;行距皆相等&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」功能可以讓整個頁面中每一行的行間距保持一致—或者說盡可能保持一致，因為有時字型大小不同會有影響。&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>現在是「插入參考文獻項目」，統一為「插入參考文獻條目」，使其與上層選項相同。</note>
       <tuv lang="EN">
         <seg>The &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Insert Bibliography Entry&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; dialog window remains open, so you can insert citations without having to re-open the dialog for each one.&lt;/f12&gt;</seg>
@@ -37756,6 +37804,15 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003055Z" creationid="Ｖ字龍" creationdate="20180219T023303Z">
         <seg>這個設定可以讓不同大小的文字根據「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;中央&lt;/f1&gt;」或是「&lt;f2&gt;下方&lt;/f2&gt;」或是預設的「&lt;f4&gt;&lt;f5&gt;基線&lt;/f5&gt;&lt;/f4&gt;」來對齊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>校對請求</note>
+      <tuv lang="EN">
+        <seg>The setting improves the looks of &lt;f0&gt;both single and &lt;/f0&gt;multi-column documents, and prevents shadows of the other side being from interfering with reading.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124954Z" creationid="Franklin Weng" creationdate="20180402T124954Z">
+        <seg>這個設定在&lt;f0&gt;單一欄位或多欄的頁面&lt;/f0&gt;都可以用於改善外觀，並避免另一端的陰影影響閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42592,6 +42649,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180121T093305Z" creationid="zerng07" creationdate="20180121T093305Z">
         <seg>決定好格式設定選擇之後，你可以把這段文字拖曳到「&lt;f1&gt;樣式和格式&lt;/f1&gt;」視窗中根據其格式製作成樣式。（在 Fedora 27 的 GNOME on Wayland 環境下試驗失敗…）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished your tweaks, compare your effort to LibreOffice’s &lt;f0&gt;manufactured &lt;/f0&gt;small caps, and choose the best one to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123414Z" creationid="Franklin Weng" creationdate="20180402T123414Z">
+        <seg>完成調整之後，把它跟 LibreOffice &lt;f0&gt;產生&lt;/f0&gt;的小型大寫字母比較一下，看看哪個較理想。</seg>
       </tuv>
     </tu>
     <tu>
