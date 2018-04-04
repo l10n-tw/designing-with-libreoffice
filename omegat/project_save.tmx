@@ -5978,8 +5978,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Page styles also have a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; setting, which allows you to set the line spacing by page, selecting the paragraph style to use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T134033Z" creationid="Franklin Weng" creationdate="20180402T134033Z">
-        <seg>&lt;f0&gt;Page styles also have a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; setting, which allows you to set the line spacing by page, selecting the paragraph style to use.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124429Z" creationid="Franklin Weng" creationdate="20180402T134033Z">
+        <seg>&lt;f0&gt;在頁面樣式中也有個「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」設定，讓你可以依頁面來選擇參照樣式中的行距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8843,8 +8843,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can improve the effectiveness of the setting for pages &lt;/f0&gt;printed on both sides by choosing a heavier weight of paper – which you probably want anyway if a document is important enough that you are concerned about line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T133800Z" creationid="Franklin Weng" creationdate="20180402T133800Z">
-        <seg>&lt;f0&gt;需要雙面列印時，你可以透過選擇較厚重的紙張來改善這個設定的效果。如果你的文件真的重要到需要透過行距皆相等的設定來搏取讀者的好感，你應該也會要這樣做。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124141Z" creationid="Franklin Weng" creationdate="20180402T133800Z">
+        <seg>&lt;f0&gt;需要雙面列印時，你可以透過選擇較厚重的紙張來改善這個設定造成的效果。如果你的文件真的重要到連行距都得斤斤計較，你應該也會想要這樣做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14450,6 +14450,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automating with styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131159Z" creationid="Franklin Weng" creationdate="20180404T131159Z">
+        <seg>自動化樣式設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available in most LibreOffice applications, Chart &lt;f0&gt;remains one of the few tools in the entire office suite that uses manual formatting only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T040454Z" creationid="Jeff Huang" creationdate="20171220T081448Z">
@@ -16274,6 +16282,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080041Z" creationid="zerng07" creationdate="20180225T161555Z">
         <seg>接著從「&lt;f0&gt;插入參照至&lt;/f0&gt;」窗格中選擇參照格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the paragraph or the page &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Register-true &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;setting, rather than using both.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124527Z" creationid="Franklin Weng" creationdate="20180404T124527Z">
+        <seg>不過，段落或頁面的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;行距皆相等&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」設定最好只用其中一個，不要兩個都用。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35330,6 +35346,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T123834Z" creationid="MarkHung" creationdate="20180224T042947Z">
         <seg>「&lt;f0&gt;預覽&lt;/f0&gt;」窗格中顯示了兩個層級的&lt;f1&gt;項目符號&lt;/f1&gt;清單樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Register-true &lt;/f0&gt;feature &lt;f1&gt;on the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Indents &amp; Spacing &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;tab&lt;/f4&gt; makes lines consistent across the pages – or as near as possible if different-sized fonts are used.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124730Z" creationid="Franklin Weng" creationdate="20180404T124730Z">
+        <seg>「&lt;f2&gt;&lt;f3&gt;縮排與間距&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;標籤頁&lt;/f4&gt;中的「&lt;f0&gt;行距皆相等&lt;/f0&gt;」功能可以讓整個頁面中每一行的行間距保持一致—或者說盡可能保持一致，因為有時字型大小不同會有影響。</seg>
       </tuv>
     </tu>
     <tu>
