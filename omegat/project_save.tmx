@@ -3714,6 +3714,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;For example, a&lt;/f0&gt; technical manual may be revised a dozen times &lt;f1&gt;or more &lt;/f1&gt;in &lt;f2&gt;its &lt;/f2&gt;life cycle.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131820Z" creationid="Franklin Weng" creationdate="20180404T131820Z">
+        <seg>&lt;f0&gt;比方說，&lt;/f0&gt;一份技術手冊可能在它的&lt;f1&gt;生命週期間&lt;/f1&gt;會被&lt;f2&gt;修改個十幾次。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;For example, if you are using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; paragraph style and switch the display to character styles, ordinarily the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Default Style&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; will be highlighted.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081354Z" creationid="zerng07" creationdate="20171225T074153Z">
@@ -21997,6 +22005,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, digital typography is also about making a document easier to construct and maintain.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131421Z" creationid="Franklin Weng" creationdate="20180404T131250Z">
+        <seg>不過，電子文件的排印學中還包括了要讓文件容易建構與維護。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, do not use both approaches together.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T082715Z" creationid="Jeff Huang" creationdate="20180126T133454Z">
@@ -22379,6 +22395,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T073422Z" creationid="zerng07" creationdate="20180302T073422Z">
         <seg>不過，有許多進階選項可能不大必要。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, many other documents have longer life spans.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131646Z" creationid="Franklin Weng" creationdate="20180404T131646Z">
+        <seg>但還是有許多文件的生命週期是很長的</seg>
       </tuv>
     </tu>
     <tu>
@@ -25276,6 +25300,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, any attempt to implement them in a short-lived document is a waste of effort.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131603Z" creationid="Franklin Weng" creationdate="20180404T131603Z">
+        <seg>事實上，對短期文件來做這些細微調整只是在浪費生命而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In fact, changing styles is quicker; &lt;f1&gt;you only have to make a change once to apply it through the entire document.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T032032Z" creationid="zerng07" creationdate="20171219T032032Z">
@@ -25665,6 +25697,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T154033Z" creationid="Jeff Huang" creationdate="20180213T133458Z">
         <seg>在這類情況下，表格可給你用的功能比起外框或其他格式設定（例如定位落點）更有限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In such circumstances, any formatting that gives you one less thing to think about is welcome.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131856Z" creationid="Franklin Weng" creationdate="20180404T131856Z">
+        <seg>這種狀況下，只要能讓你少操一點心的格式設定都是有好處的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30674,6 +30714,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T063654Z" creationid="Franklin Weng" creationdate="20180109T092701Z">
         <seg>每個人規劃內容的方式都不太一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>People think of typography mostly in terms of &lt;f0&gt;format – that is, the choices of fonts and spacing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131324Z" creationid="Franklin Weng" creationdate="20180404T131247Z">
+        <seg>通常大家會認為字體排印學就是在講&lt;f0&gt;格式設定—也就是選擇字型跟處理間距等等。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38649,6 +38697,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These concerns do not matter if you are writing a document that will be sent, read, and discarded in a matter of minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131525Z" creationid="Franklin Weng" creationdate="20180404T131525Z">
+        <seg>如果你只是寫份文件然後幾分鐘內就要送出，然後就不會再用了，那怎麼做其實都沒差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These difficulties are one reason that many designers prefer a Left &lt;f0&gt;alignment &lt;/f0&gt;or ragged right margin.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T030639Z" creationid="zerng07" creationdate="20180125T030639Z">
@@ -39532,6 +39588,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T132757Z" creationid="zerng07" creationdate="20180208T065344Z">
         <seg>這個規則代表影像要比平常還要窄&lt;f0&gt;8&lt;/f0&gt;個點，以及將表格的「&lt;f2&gt;表格屬性&lt;/f2&gt;」中的「表格」標籤頁中，「&lt;f1&gt;從左&lt;/f1&gt;」對齊要設定得比以往還要內縮16點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section introduces two features of paragraph styles that make documents easier to construct: using conditional styles, and setting page breaks by style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T132616Z" creationid="Franklin Weng" creationdate="20180404T132616Z">
+        <seg>這一節介紹兩個段落樣式中的功能，讓文件容易建構：使用條件式樣式，以及由樣式設定分頁符。</seg>
       </tuv>
     </tu>
     <tu>
