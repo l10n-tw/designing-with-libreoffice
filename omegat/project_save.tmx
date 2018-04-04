@@ -18421,6 +18421,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each contextual format is defined by another paragraph style, then connected to the conditional style on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Condition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135612Z" creationid="Franklin Weng" creationdate="20180404T135612Z">
+        <seg>每一個Each contextual format is defined by another paragraph style, then connected to the conditional style on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Condition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each font uses a different amount of empty space, which explains why the actual height of fonts of the same size is inconsistent.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T082159Z" creationid="Franklin Weng" creationdate="20171231T134208Z">
@@ -22730,6 +22738,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T110013Z" creationid="Jeff Huang" creationdate="20180201T085908Z">
         <seg>不過，這樣命名作用有限，&lt;f3&gt;很難記憶&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, they are easier to use than you might imagine.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133922Z" creationid="Franklin Weng" creationdate="20180404T133922Z">
+        <seg>實際上它們比你想像中的要簡單易用。</seg>
       </tuv>
     </tu>
     <tu>
