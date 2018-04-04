@@ -1111,8 +1111,8 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;All &lt;t5/&gt;that the two have in common is that each changes when their context changes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133751Z" creationid="Franklin Weng" creationdate="20180404T133751Z">
-        <seg>&lt;/f4&gt;這兩者&lt;t5/&gt;共同的地方是它們會依據所在的情況而改變。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135752Z" creationid="Franklin Weng" creationdate="20180404T133751Z">
+        <seg>&lt;/f4&gt;這兩者&lt;t5/&gt;共同的地方是它們會依據所在的情境而改變。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4604,6 +4604,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133916Z" creationid="Jeff Huang" creationdate="20180122T100115Z">
         <seg>&lt;f0&gt;如果你需要新增特定色彩，先在圖形編輯程式中對這個顏色取樣以取得&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;RGB&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;色彩定義。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140630Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
+        <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8933,6 +8941,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T170112Z" creationid="Franklin Weng" creationdate="20180120T065113Z">
         <seg>&lt;f0&gt;你可以用「繪圖樣式」&lt;/f0&gt;加入你自己的&lt;f1&gt;獨家&lt;/f1&gt;設計。不過直接使用&lt;f2&gt;預先&lt;/f2&gt;定義好的版面配置，是&lt;f3&gt;最省時也最省事的做法&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You cannot make any pre-defined paragraph styles conditional except &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140531Z" creationid="Franklin Weng" creationdate="20180404T140531Z">
+        <seg>&lt;f0&gt;除了&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」以外，你不能將任何其他預先定義的樣式做成條件式樣式。&lt;f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16736,6 +16752,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conditional styles do have limitations:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140439Z" creationid="Franklin Weng" creationdate="20180404T140439Z">
+        <seg>條件式樣式有一些限制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conditonal formatting is an extension of sparklines, &lt;f0&gt;which are &lt;/f0&gt;small, undetailed graphs popularized by the information designer &lt;t1/&gt;Edward Tufte.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171039Z" creationid="Franklin Weng" creationdate="20180213T123234Z">
@@ -18423,8 +18447,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Each contextual format is defined by another paragraph style, then connected to the conditional style on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Condition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135612Z" creationid="Franklin Weng" creationdate="20180404T135612Z">
-        <seg>每一個Each contextual format is defined by another paragraph style, then connected to the conditional style on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Condition&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab.&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140422Z" creationid="Franklin Weng" creationdate="20180404T135612Z">
+        <seg>每一個情境裡的格式都是由另一個段落樣式定義，然後在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;條件&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;中連結到條件式樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22905,8 +22929,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>However, with a conditional style, you define the paragraph’s format in each context, such as in a table or a footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133458Z" creationid="Franklin Weng" creationdate="20180404T133400Z">
-        <seg>不過使用條件式樣式時，你必須個別定義會用到的地方，比方說在表格或頁尾的段落格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135708Z" creationid="Franklin Weng" creationdate="20180404T133400Z">
+        <seg>不過使用條件式樣式時，你必須個別定義每個會用到的情境—比方說表格或頁尾—的段落格式設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25416,6 +25440,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T103318Z" creationid="zerng07" creationdate="20171225T103318Z">
         <seg>實際上，有一派人認為如果你在文件中只用預先定義樣式的話比較不會遇到問題，即使這樣做可能限制住你的設計。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, pre-defined paragraph styles display no &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Condition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab, although new (custom) paragraph styles created from them do.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140626Z" creationid="Franklin Weng" creationdate="20180404T140626Z">
+        <seg>事實上，那些預先定義的樣式中也不會顯示「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁，只有由它們所建立的新的（自訂的）段落樣式中會有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35068,8 +35100,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Condition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab sets up one paragraph style to use the formatting of other styles in different contexts.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133159Z" creationid="Franklin Weng" creationdate="20180404T133159Z">
-        <seg>而在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」標籤頁中，你可以設定某個段落樣式在不同情況下使用其他樣式的格式設定。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135630Z" creationid="Franklin Weng" creationdate="20180404T133159Z">
+        <seg>而在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」標籤頁中，你可以設定某個段落樣式在不同情境下使用其他樣式的格式設定。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42680,8 +42712,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When the cursor moves to a new context, the style’s format changes automatically.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133514Z" creationid="Franklin Weng" creationdate="20180404T133434Z">
-        <seg>而當游標移到你設定的地方時，段落樣式的格式設定就會自動變更。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135741Z" creationid="Franklin Weng" creationdate="20180404T133434Z">
+        <seg>而當游標移到符合該情境的地方時，段落樣式的格式設定就會自動變更。</seg>
       </tuv>
     </tu>
     <tu>
