@@ -1109,6 +1109,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;All &lt;t5/&gt;that the two have in common is that each changes when their context changes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133751Z" creationid="Franklin Weng" creationdate="20180404T133751Z">
+        <seg>&lt;/f4&gt;這兩者&lt;t5/&gt;共同的地方是它們會依據所在的情況而改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;Borders&lt;f5&gt; that crowd the content only obscure.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T014842Z" creationid="MarkHung" creationdate="20180224T040032Z">
@@ -1589,6 +1597,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T124110Z" creationid="Jeff Huang" creationdate="20180131T083427Z">
         <seg>段落下的清單樣式&lt;f1&gt;可以&lt;/f1&gt;單獨選取後變更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A conditional style is an alternative way of using paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T132826Z" creationid="Franklin Weng" creationdate="20180404T132826Z">
+        <seg>&lt;f0&gt;條件式樣式是除了段落樣式以外的另一種選擇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,6 +2943,22 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T132524Z" creationid="Jeff Huang" creationdate="20180122T092315Z">
         <seg>&lt;f0&gt;壓縮：&lt;/f0&gt;降低解析度以便減少LibreOffice的檔案大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Conditional styles are different enough from the normal use of styles that they puzzle many users, who scrupulously avoid them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133904Z" creationid="Franklin Weng" creationdate="20180404T133904Z">
+        <seg>&lt;f0&gt;然而條件式樣式與一般使用的樣式很不同，經常把許多使用者搞混，所以很多人不敢使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Configuring&lt;/f0&gt; conditional styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T132756Z" creationid="Franklin Weng" creationdate="20180404T132756Z">
+        <seg>&lt;f0&gt;設定&lt;/f0&gt;條件式樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -18141,6 +18173,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't confuse a conditional paragraph style with a &lt;f0&gt;Conditional text&lt;/f0&gt; field &lt;f1&gt;available from&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; Insert &gt; Fields&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133708Z" creationid="Franklin Weng" creationdate="20180404T133708Z">
+        <seg>不要把條件式樣式跟「&lt;f2&gt;&lt;f3&gt;插入 &gt; 欄位&lt;/f3&gt;&lt;/f2&gt;」中的&lt;f0&gt;條件式文字欄位&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;搞混了。&lt;f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't rely on printing a spreadsheet five minutes before you need it unless you have done so before and know how to get the results you want.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T172108Z" creationid="Franklin Weng" creationdate="20180216T144045Z">
@@ -22847,6 +22887,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, with a conditional style, you define the paragraph’s format in each context, such as in a table or a footer.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133458Z" creationid="Franklin Weng" creationdate="20180404T133400Z">
+        <seg>不過使用條件式樣式時，你必須個別定義會用到的地方，比方說在表格或頁尾的段落格式設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, with this template, you can print from the same file to both sizes, rather than maintaining two files with the same content.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180125T133005Z" creationid="Jeff Huang" creationdate="20180125T133005Z">
@@ -25272,6 +25320,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T081801Z" creationid="Jeff Huang" creationdate="20180111T135243Z">
         <seg>無論在哪種狀況下，你都可以體會到樣式的優點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In exchange for some extra setup, both &lt;f0&gt;features&lt;/f0&gt; keep your hands on the keyboard &lt;f1&gt;as you work&lt;/f1&gt;, allowing you to focus on content instead of distracting you with formatting issues.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T132743Z" creationid="Franklin Weng" creationdate="20180404T132743Z">
+        <seg>把這兩個&lt;f0&gt;功能&lt;/f0&gt;設定好，你就可以在&lt;f1&gt;工作時&lt;/f1&gt;專注在你的內容上，而不用太分心於格式設定的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29050,6 +29106,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T054930Z" creationid="Franklin Weng" creationdate="20171228T050131Z">
         <seg>因為在舊式數字旁放一般大寫字母的話，這些字母會看起來會異常的大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normally, you define a style, then set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Next Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Organizer&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133014Z" creationid="Franklin Weng" creationdate="20180404T133014Z">
+        <seg>通常來說，你定義了一個樣式，&lt;/f0&gt;然後在「&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;統籌概覽&lt;/f5&gt;&lt;/f4&gt;」標籤頁中會設定「&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;」&lt;f6&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34982,6 +35046,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T090108Z" creationid="Franklin Weng" creationdate="20180213T113244Z">
         <seg>「&lt;f0&gt;&lt;f1&gt;儲存格保護&lt;/f1&gt;&lt;/f0&gt;」標籤頁可以協助你控制編輯功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;f1&gt;Condition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab sets up one paragraph style to use the formatting of other styles in different contexts.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133159Z" creationid="Franklin Weng" creationdate="20180404T133159Z">
+        <seg>而在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」標籤頁中，你可以設定某個段落樣式在不同情況下使用其他樣式的格式設定。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42586,6 +42658,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T115259Z" creationid="Jeff Huang" creationdate="20180122T040023Z">
         <seg>當圓圈與雜錦圖堆疊後，如果套用「&lt;f0&gt;&lt;f1&gt;減去&lt;/f1&gt;&lt;/f0&gt;」會留下剪紙式的缺口透出底下紙張的顏色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the cursor moves to a new context, the style’s format changes automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133514Z" creationid="Franklin Weng" creationdate="20180404T133434Z">
+        <seg>而當游標移到你設定的地方時，段落樣式的格式設定就會自動變更。</seg>
       </tuv>
     </tu>
     <tu>
