@@ -4607,11 +4607,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <note>是 Accept 還是 Apply?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140630Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
-        <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121811Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
+        <seg>&lt;f0&gt;如果你要讓你的自訂樣式成為條件式樣式，那你在第一次設定樣式時至少要放入一個條件，然後再按下「確定」或「接受」關閉視窗。</seg>
       </tuv>
     </tu>
     <tu>
