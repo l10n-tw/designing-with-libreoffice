@@ -1947,6 +1947,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Admittedly,&lt;/f0&gt; the available contexts are limited, &lt;f1&gt;but&lt;/f1&gt; they may still be enough for many purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T133155Z" creationid="Franklin Weng" creationdate="20180405T133155Z">
+        <seg>&lt;f0&gt;雖然&lt;/f0&gt;可用的情境有限，&lt;f1&gt;但是&lt;/f1&gt;通常已經夠用了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;After some experimentation, I opted for two free-licensed fonts from the Arkandis Digital Foundry.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T005106Z" creationid="zerng07" creationdate="20180125T092828Z">
@@ -3226,6 +3234,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180118T140236Z" creationid="Franklin Weng" creationdate="20180105T144456Z">
         <seg>&lt;f0&gt;得減少&lt;/f0&gt;間距&lt;f1&gt;的狀況：&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Defining c&lt;/f0&gt;onditional styles</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122323Z" creationid="Franklin Weng" creationdate="20180405T122323Z">
+        <seg>&lt;f0&gt;定義&lt;/f0&gt;條件式樣式</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,8 +4627,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121811Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
-        <seg>&lt;f0&gt;如果你要讓你的自訂樣式成為條件式樣式，那你在第一次設定樣式時至少要放入一個條件，然後再按下「確定」或「接受」關閉視窗。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121843Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
+        <seg>&lt;f0&gt;如果你要讓你的自訂樣式成為條件式樣式，那你在第一次設定樣式時至少要放入一個條件，然後再按下&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;確定&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;或&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;接受&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;關閉視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11744,6 +11760,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A conditional style is limited to thirty pre-defined contexts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121953Z" creationid="Franklin Weng" creationdate="20180405T121953Z">
+        <seg>每個條件式樣式限制最多只能有 30 個預先定義的情境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A consistent format doesn’t matter for some other reason.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T143359Z" creationid="zerng07" creationdate="20171219T143359Z">
@@ -16749,6 +16773,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T084554Z" creationid="Franklin Weng" creationdate="20180114T055620Z">
         <seg>結論頁：總結內容、&lt;f1&gt;喚起行動，或是放個加強你主要論點的範例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conditional styles are an answer to those who claim that styles are too difficult to remember.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122612Z" creationid="Franklin Weng" creationdate="20180405T122612Z">
+        <seg>條件式樣式對那些認為很難記住各種樣式的使用者來說，算是一種解決方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30508,6 +30540,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, the next time you open the style’s dialog window, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Condition&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab is no longer available.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121922Z" creationid="Franklin Weng" creationdate="20180405T121818Z">
+        <seg>要不然，之後再編輯此樣式的時候，就看不到&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;條件&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;標籤頁了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, the result &lt;f4&gt;could&lt;/f4&gt; be stylistic chaos.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T030548Z" creationid="zerng07" creationdate="20171227T030548Z">
@@ -34220,6 +34260,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T134534Z" creationid="Ｖ字龍" creationdate="20180217T100343Z">
         <seg>有些字母像是小寫 y 有所謂的下伸部（descender），也就是比基線還要來得低的線條，以及像小寫 k 一樣有所謂的上伸部（ascender），也就是比 x-height 還要高的線條。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still, even with these limitations, conditional styles &lt;f0&gt;can be useful, especially if the document structure is not too complex.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122312Z" creationid="Franklin Weng" creationdate="20180405T122312Z">
+        <seg>不過，即使有以上這些限制，條件式樣式仍然是&lt;f0&gt;滿有用的，特別是文件結構並不複雜的時候。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43247,6 +43295,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>With conditional styles, you only need to remember the name of a single paragraph style per document or template, &lt;f0&gt;yet format quickly in different ways.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122727Z" creationid="Franklin Weng" creationdate="20180405T122727Z">
+        <seg>有了條件式樣式，你每份文件或範本只需要記住單一段落樣式的名稱，&lt;f0&gt;然後就可以快速用不同的方式來做格式設定。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>不過 5.4 之下，訊框樣式和頁面樣式之下不會有字型樣貌的預覽～</note>
       <tuv lang="EN">
         <seg>With frame and page styles, it is mostly a distraction.</seg>
@@ -44981,6 +45037,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T123942Z" creationid="Franklin Weng" creationdate="20180206T121655Z">
         <seg>你或許會想要再加上一個簽名欄，&lt;f0&gt;可以放簽名、稱呼或名字縮寫等，又或是從雜錦圖字型中借一個勾選框放這裡方便打勾確認。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might be able to think of at least two dozen more contexts that might be useful, but you cannot create custom contexts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122229Z" creationid="Franklin Weng" creationdate="20180405T122229Z">
+        <seg>你也許會想到至少廿幾個可能會用到的情境，但你無法自訂情境。</seg>
       </tuv>
     </tu>
     <tu>
