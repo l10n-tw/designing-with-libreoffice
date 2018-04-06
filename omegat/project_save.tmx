@@ -9617,6 +9617,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Or, &lt;/f1&gt;you might have one version of a software manual for &lt;f2&gt;users and another for system administrators.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T123247Z" creationid="Franklin Weng" creationdate="20180406T123247Z">
+        <seg>&lt;f1&gt;或者&lt;/f1&gt;，文件其中一個版本是給使用者看的手冊，&lt;f2&gt;另一個版本則是給系統管理者看的。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;S&lt;/f1&gt;tyles &lt;f2&gt;shared by&lt;/f2&gt; the template and the document are updated, &lt;f3&gt;but&lt;/f3&gt; &lt;f4&gt;styles that are only in the document a&lt;/f4&gt;re not.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T144942Z" creationid="Franklin Weng" creationdate="20171212T115515Z">
@@ -20630,6 +20638,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, you might want one version of a handout for students, and another &lt;f0&gt;version&lt;/f0&gt; for teachers that adds teaching goals and suggestions for use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T123156Z" creationid="Franklin Weng" creationdate="20180406T123156Z">
+        <seg>例如，一份文件的其中一個版本是給學生看的講義，另一個&lt;f0&gt;版本&lt;/f0&gt;則是給老師看的教學目標與教案等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, you might want to start with an introduction numbered in Roman numerals, then continue with the body of the text numbered in Arabic numerals.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T133254Z" creationid="Jeff Huang" creationdate="20180129T030319Z">
@@ -25735,8 +25751,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In many cases, you are likely to have less trouble &lt;f2&gt;with items shifting&lt;/f2&gt; if you create a table instead.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T061232Z" creationid="Franklin Weng" creationdate="20180406T061232Z">
-        <seg>In many cases, you are likely to have less trouble &lt;f2&gt;with items shifting&lt;/f2&gt; if you create a table instead.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T121927Z" creationid="Franklin Weng" creationdate="20180406T061232Z">
+        <seg>如果要建立多欄的文件，許多時候你其實可以用表格來取代，這樣反而能避掉許多&lt;f2&gt;內容不正確偏移&lt;/f2&gt;的問題。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29058,6 +29074,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T154809Z" creationid="Jeff Huang" creationdate="20180129T091143Z">
         <seg>多欄對於報章雜誌&lt;f0&gt;，還有文字不需要一整行寬度的索引、表格來說很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple versions of documents that differ only in some details are common in business or academia.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T122826Z" creationid="Franklin Weng" creationdate="20180406T122826Z">
+        <seg>不管在商務或學術界，都經常可以看到一份文件有多個版本，而各版本間只在某些細節不同而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33849,6 +33873,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Single-sourcing &lt;f0&gt;by hiding text&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T122746Z" creationid="Franklin Weng" creationdate="20180406T122746Z">
+        <seg>透過&lt;f0&gt;隱藏文字&lt;/f0&gt;實作多版本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size the frame so it occupies the full space between the top and bottom margins.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T124127Z" creationid="Jeff Huang" creationdate="20180128T134512Z">
@@ -37902,6 +37934,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142651Z" creationid="Jeff Huang" creationdate="20180124T094158Z">
         <seg>這種方法唯一能&lt;f0&gt;可靠&lt;/f0&gt;作用的時刻，是手動頁面或自動頁面有清楚標記頁面起始與結束的時候&lt;f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only trouble is that maintaining multiple versions of a document is difficult.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T123330Z" creationid="Franklin Weng" creationdate="20180406T123330Z">
+        <seg>討厭的是，要維護一個多版本的文件滿麻煩的。</seg>
       </tuv>
     </tu>
     <tu>
