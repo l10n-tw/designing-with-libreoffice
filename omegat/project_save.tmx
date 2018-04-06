@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;f2&gt;For example, you might have a page style for an introduction numbered in lower case Roman numerals, and ordinary pages that use Arabic numerals.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060400Z" creationid="Franklin Weng" creationdate="20180406T060400Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;例如，你可能在前面的介紹部份的段落樣式中，頁碼使用小寫羅馬數字，而一般內文頁面中頁碼則使用常用的阿拉伯數字。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;The &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Pivot Table Layout&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; window opens.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180324T084035Z" creationid="Franklin Weng" creationdate="20180210T134708Z">
@@ -1782,6 +1790,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032101Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
         <seg>將圖片錨定在頁首&lt;f1&gt;或頁尾&lt;/f1&gt;中，但把&lt;f2&gt;圖片&lt;/f2&gt;放在頁首&lt;f3&gt;頁尾文字區塊以外，&lt;/f3&gt;&lt;f4&gt;設定錨定為「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;至段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」或「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;作為字元&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」（經過測試，在LibreOffice 5.4以後，要先「編排 &gt; 移到最上層」，否則只要把圖片放到頁首或頁尾區塊，你就點不到了… 就算用「助手」也只能編輯內容，無法移動它。還有，錨定也沒有「作為段落」這個選項應該是手誤，已確認改成「至段落」可以重複出現。這個部分還要改寫）。然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;utomating page breaks</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055803Z" creationid="Franklin Weng" creationdate="20180406T055803Z">
+        <seg>自動斷頁&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +3798,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T081354Z" creationid="zerng07" creationdate="20171225T074153Z">
         <seg>&lt;f0&gt;舉例來說，如果你的游標放在採用&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;段落樣式的文字中，接著你到「樣式和格式」視窗中切換成「字元樣式」，此時一般會看見反白標明的是&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;預設樣式&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For example, new chapters may always start with a paragraph style called &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Chapter Number &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Title&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, while a style called &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Diagram Title&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; might begin a new page to ensure plenty of space for a diagram.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055519Z" creationid="Franklin Weng" creationdate="20180406T055519Z">
+        <seg>&lt;f0&gt;例如，進入新的一章之後，一定會以名為&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;章節編號&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;或&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;標題&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;的樣式開始，而另一個名為&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;圖表標題&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;的樣式則會開始新的一頁，並留下足夠的空間給圖表使用。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6616,6 +6640,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113221Z">
         <seg>&lt;f0&gt;請見〈&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Error: Reference source not found&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;〉，第&lt;/f3&gt;&lt;f4&gt;&lt;rf5&gt;Error: Reference source not found&lt;/rf5&gt;&lt;/f4&gt;&lt;f6&gt;頁。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Flow&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Breaks &gt; Insert&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060010Z" creationid="Franklin Weng" creationdate="20180406T060010Z">
+        <seg>&lt;f0&gt;點選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;排文和分頁&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 斷隔符 &gt; 插入&lt;/f6&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14551,6 +14583,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T172619Z" creationid="Franklin Weng" creationdate="20180216T152708Z">
         <seg>「&lt;f0&gt;自動格式樣式&lt;/f0&gt;」可說是想設定試算表某一部分時，頁面樣式以外的&lt;f4&gt;另一種做法。&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automate page breaks &lt;f0&gt;in&lt;/f0&gt; the &lt;f1&gt;Break&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt; section of the &lt;f4&gt;Text Flow&lt;/f4&gt; tab &lt;f5&gt;by associating them with a paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060601Z" creationid="Franklin Weng" creationdate="20180406T060601Z">
+        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f4&gt;排文和分頁&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;隔斷符&lt;/f1&gt;」&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;處設定段落樣式中的自動斷頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23680,6 +23720,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Position &lt;/f0&gt;is &lt;f1&gt;&lt;f2&gt;B&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;efore,&lt;/f3&gt; you &lt;f4&gt;can select&lt;/f4&gt; &lt;f5&gt;the &lt;/f5&gt;&lt;f6&gt;With Page Style&lt;/f6&gt; box, and &lt;f7&gt;choose&lt;/f7&gt; &lt;f8&gt;the new page’s style &lt;/f8&gt;from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060220Z" creationid="Franklin Weng" creationdate="20180406T060220Z">
+        <seg>如果「&lt;f0&gt;位置&lt;/f0&gt;」設定為「&lt;f1&gt;&lt;f2&gt;之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;」，你&lt;f4&gt;可以在下方勾選&lt;/f4&gt;「&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;帶頁面樣式&lt;/f6&gt;」選項，並從下拉式選單中&lt;f7&gt;選擇&lt;/f7&gt;&lt;f8&gt;新的頁面樣式&lt;/f8&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;t2/&gt;levels have common elements, format them together, then edit each level separately &lt;f3&gt;for unique features.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130529Z" creationid="zerng07" creationdate="20180302T130529Z">
@@ -24785,6 +24833,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T080651Z" creationid="zerng07" creationdate="20180227T144512Z">
         <seg>如果你希望讓超連結看起來像一般文字內容一樣，請編輯「&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;網際網路連結&lt;/f1&gt;」和「&lt;f2&gt;訪問過的網際網路連結&lt;/f2&gt;」字元樣式&lt;f3&gt;除去顏色和底線。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want the page number to continue sequentially from the previous page, leave the &lt;f0&gt;Page number&lt;/f0&gt; field set to &lt;f1&gt;0.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060441Z" creationid="Franklin Weng" creationdate="20180406T060441Z">
+        <seg>如果你要讓接續之前的頁碼，那就把「&lt;f0&gt;頁碼&lt;/f0&gt;」欄位設為 &lt;f1&gt;0&lt;/f1&gt; 即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30257,6 +30313,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the dialog window for the paragraph style that will coincide with the start of a new page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055858Z" creationid="Franklin Weng" creationdate="20180406T055858Z">
+        <seg>開啟編輯打算用於換新頁的段落樣式的視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the drop-down list on the top right of the &lt;f0&gt;Styles and Formatting&lt;/f0&gt; window and select &lt;f1&gt;New Style from Selection&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T024407Z" creationid="zerng07" creationdate="20171227T024407Z">
@@ -32865,6 +32929,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T160456Z" creationid="MarkHung" creationdate="20180224T042411Z">
         <seg>設定「&lt;f0&gt;距離文字間隔&lt;/f0&gt;」。除非放大的首字非常巨大，導致魔術數字可能太大了，此時&lt;f1&gt;先&lt;/f1&gt;嘗試將數值減半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the &lt;f0&gt;Type&lt;/f0&gt; to &lt;f1&gt;Page&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060038Z" creationid="Franklin Weng" creationdate="20180406T060038Z">
+        <seg>將「&lt;f0&gt;類型&lt;/f0&gt;」設定為「&lt;f1&gt;頁&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39632,6 +39704,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This feature is set up in the &lt;f0&gt;Break&lt;/f0&gt; section of the &lt;f1&gt;Text Flow&lt;/f1&gt; tab for a paragraph sty&lt;f2&gt;le.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055752Z" creationid="Franklin Weng" creationdate="20180406T055752Z">
+        <seg>這個功能放在段落樣式中「&lt;f1&gt;排文和分頁&lt;/f1&gt;」標籤頁裡的「&lt;f0&gt;斷隔符&lt;/f0&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This formatting aligns the image with indented text, which is a useful way of showing what text the image is connected to.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T133456Z" creationid="zerng07" creationdate="20180210T133456Z">
@@ -40711,6 +40791,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T082902Z" creationid="Jeff Huang" creationdate="20180210T031355Z">
         <seg>若想要觀看列印時無邊框表格的外觀，&lt;f0&gt;請從「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;檔案 &gt; 列印預覽&lt;/f2&gt;&lt;/f1&gt;」中檢視。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up &lt;f0&gt;automatic page breaks:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055823Z" creationid="Franklin Weng" creationdate="20180406T055823Z">
+        <seg>設定&lt;f0&gt;自動斷頁的方式為：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43195,6 +43283,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T082854Z" creationid="Jeff Huang" creationdate="20180112T135820Z">
         <seg>當你選取「&lt;f6&gt;插入 &gt; 圖表&lt;/f6&gt;」後，LibreOffice會新增一張&lt;f7&gt;預設的&lt;/f7&gt;圖表到你的文件中，&lt;f8&gt;準確來說是一張&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;平面&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;長條圖&lt;/f11&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select a page style to follow the break, you &lt;f0&gt;can &lt;/f0&gt;also re-set the &lt;f1&gt;Page Number.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060300Z" creationid="Franklin Weng" creationdate="20180406T060300Z">
+        <seg>當你選好一個頁面樣式之後跟一個斷頁符之後，你&lt;f0&gt;也&lt;/f0&gt;可以重新設定&lt;f1&gt;頁碼。</seg>
       </tuv>
     </tu>
     <tu>
