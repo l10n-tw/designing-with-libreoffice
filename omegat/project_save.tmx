@@ -3069,6 +3069,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create a&lt;/f0&gt; new paragraph style &lt;f1&gt;and go&lt;/f1&gt; to the &lt;f2&gt;Condition&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T033330Z" creationid="Franklin Weng" creationdate="20180406T033330Z">
+        <seg>&lt;f0&gt;建立&lt;/f0&gt;一個新的段落樣式，然後在&lt;f1&gt;編輯樣式的視窗內&lt;/f1&gt;點擊「&lt;f2&gt;條件&lt;/f2&gt;」標籤頁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create custom slides shows from &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Slide Show &gt; Custom Slide Show.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T101211Z" creationid="Franklin Weng" creationdate="20180120T123302Z">
@@ -10966,6 +10974,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Y&lt;/f3&gt;ou cannot create new contexts.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T033035Z" creationid="Franklin Weng" creationdate="20180406T033035Z">
+        <seg>你不能自己建立新的情境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;You can also manually update by clicking &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Update &gt; Fields.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T153215Z" creationid="zerng07" creationdate="20180225T153215Z">
@@ -17188,6 +17204,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create or format a paragraph style for each context you plan to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T033103Z" creationid="Franklin Weng" creationdate="20180406T033103Z">
+        <seg>對每個你打算用到的情境，建立或設定一個段落樣式的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create the style, setting it up to use the graphic &lt;f0&gt;(see “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Positioning bullets, numbers, and list items&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;11&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;).&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T030858Z" creationid="Jeff Huang" creationdate="20180208T064854Z">
@@ -18987,6 +19011,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T060248Z" creationid="zerng07" creationdate="20171224T060248Z">
         <seg>對應手動格式設定為「&lt;f1&gt;格式 &gt; 頁面&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examine a &lt;f0&gt;&lt;f1&gt;Condition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab &lt;/f2&gt;and make a note of the contexts you want to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T033023Z" creationid="Franklin Weng" creationdate="20180406T033023Z">
+        <seg>點到「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」標籤頁&lt;/f2&gt;，然後選擇一個你要使用的情境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37659,6 +37691,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The only pre-defined style that you can use &lt;f0&gt;as a conditional style &lt;/f0&gt;is &lt;f1&gt;Text Body,&lt;/f1&gt; &lt;f2&gt;but you can create a new style from any pre-defined one.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T033222Z" creationid="Franklin Weng" creationdate="20180406T033222Z">
+        <seg>在系統預先定義的樣式中，你&lt;f0&gt;唯一可以設定條件&lt;/f0&gt;的樣式是「&lt;f1&gt;內文&lt;/f1&gt;」，&lt;f2&gt;但你可以透過所有預先定義的樣式來自己建立新的樣式並加入條件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The only styles that do not have a hierarchical parent are those at the top of the &lt;f0&gt;entire&lt;/f0&gt; tree.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T145736Z" creationid="zerng07" creationdate="20171225T145736Z">
@@ -40258,6 +40298,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a conditional style:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T032946Z" creationid="Franklin Weng" creationdate="20180406T032946Z">
+        <seg>要建立條件式樣式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a new table:</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121610Z" creationid="Jeff Huang" creationdate="20180210T034227Z">
@@ -40456,6 +40504,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T105537Z" creationid="Franklin Weng" creationdate="20171218T125500Z">
         <seg>如果要啟用範本，需要依照下列步驟：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To minimize confusion, name the style &lt;f0&gt;Conditional Text&lt;/f0&gt; &lt;f1&gt;or something like &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Single Style &lt;/f3&gt;&lt;/f2&gt;so you can identify it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034159Z" creationid="Franklin Weng" creationdate="20180406T034159Z">
+        <seg>為了避免混淆，將樣式名稱設定成「&lt;f0&gt;條件式文字&lt;/f0&gt;」&lt;f1&gt;或是「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;單一樣式&lt;/f3&gt;&lt;/f2&gt;」之類的名稱，以方便辨識。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41066,6 +41122,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155904Z" creationid="MarkHung" creationdate="20180224T042325Z">
         <seg>在「&lt;f0&gt;字元樣式&lt;/f0&gt;」中，選擇「&lt;f1&gt;首字放大&lt;/f1&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Under &lt;f3&gt;Options, &lt;/f3&gt;select the &lt;f4&gt;Conditional &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;S&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;tyle&lt;/f7&gt; box.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T033433Z" creationid="Franklin Weng" creationdate="20180406T033433Z">
+        <seg>在「&lt;f3&gt;選項&lt;/f3&gt;」處勾選「&lt;f4&gt;條件式樣式&lt;/f4&gt;」。&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
