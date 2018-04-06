@@ -7477,6 +7477,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The application of a&lt;/f0&gt; particular paragraph style &lt;f1&gt;often&lt;/f1&gt; coincide&lt;f2&gt;s&lt;/f2&gt; with the start of a new page.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055118Z" creationid="Franklin Weng" creationdate="20180406T055118Z">
+        <seg>&lt;f0&gt;特別的段落樣式&lt;/f0&gt;的其中一個應用就是換到新的一頁。&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The average &lt;/f0&gt;&lt;f1&gt;m&lt;/f1&gt;&lt;f2&gt;ark: &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=AVERAGE(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Input Range).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T153350Z" creationid="Franklin Weng" creationdate="20180206T151208Z">
@@ -33169,6 +33177,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141357Z" creationid="zerng07" creationdate="20180205T141357Z">
         <seg>設定自然邊緣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting page breaks by style</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055008Z" creationid="Franklin Weng" creationdate="20180406T055008Z">
+        <seg>依樣式設定分頁符</seg>
       </tuv>
     </tu>
     <tu>
