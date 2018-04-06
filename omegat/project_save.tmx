@@ -561,8 +561,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;This method &lt;f1&gt;works with both styles and with&lt;/f1&gt; sections and fields, &lt;f2&gt;but can be hard to organize.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131455Z" creationid="Franklin Weng" creationdate="20180406T131455Z">
-        <seg>&lt;/f0&gt;This method &lt;f1&gt;works with both styles and with&lt;/f1&gt; sections and fields, &lt;f2&gt;but can be hard to organize.&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131852Z" creationid="Franklin Weng" creationdate="20180406T131455Z">
+        <seg>&lt;/f0&gt;這個方式&lt;f1&gt;對樣式、區段與欄位都有效，&lt;/f1&gt;&lt;f2&gt;但可能會不好掌控。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5001,6 +5001,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In this structure, each version could be distinct, and single-sourcing mainly a method of keeping related material together.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T133724Z" creationid="Franklin Weng" creationdate="20180406T133724Z">
+        <seg>&lt;f0&gt;這種建構方式，每個版本都能區隔開來，文件本身則是用來把相關的材料組合起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Format &gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Area,&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;fills are designed for use throughout LibreOffice.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T133237Z" creationid="Jeff Huang" creationdate="20180122T094545Z">
@@ -5869,6 +5877,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T171453Z" creationid="Franklin Weng" creationdate="20180216T135434Z">
         <seg>&lt;f0&gt;當你設定好條件式格式設定後，你可以從子選單中選擇&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「管理」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;看看條件摘要，並編輯選項。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;One way to structure s&lt;/f0&gt;ingle-sourcing &lt;f1&gt;is to have&lt;/f1&gt; one set of styles, sections, or fields that are always visible and another set for each additional version that can be turned on and off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T132051Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
+        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是&lt;f1&gt;建立一組樣式、區段或欄位用於不變動、持續顯示的內容，另一組則用於需要切換隱藏或顯示的內容。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36463,6 +36479,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113732Z" creationid="Jeff Huang" creationdate="20180125T091936Z">
         <seg>替代方案則是橫向（寬度大於長度）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The alternative is to create a special set of paragraph styles for each version of the document, turning them on and off as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T132139Z" creationid="Franklin Weng" creationdate="20180406T132139Z">
+        <seg>另外也可以對文件的每個版本都建立一組特定的段落樣式，在需要時做切換。</seg>
       </tuv>
     </tu>
     <tu>
