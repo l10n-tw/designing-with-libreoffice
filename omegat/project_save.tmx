@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;This method &lt;f1&gt;works with both styles and with&lt;/f1&gt; sections and fields, &lt;f2&gt;but can be hard to organize.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131455Z" creationid="Franklin Weng" creationdate="20180406T131455Z">
+        <seg>&lt;/f0&gt;This method &lt;f1&gt;works with both styles and with&lt;/f1&gt; sections and fields, &lt;f2&gt;but can be hard to organize.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Two line &lt;f1&gt;heights&lt;/f1&gt; will often be ideal.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T121542Z" creationid="Jeff Huang" creationdate="20180210T034211Z">
@@ -8269,6 +8277,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;sing hidden text is faster than manual formatting &lt;f1&gt;and reduces the chances of making mistakes.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130927Z" creationid="Franklin Weng" creationdate="20180406T130927Z">
+        <seg>善用隱藏文字功能，比自己手動做版本控制要快得多，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;也減少犯錯的機會。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Understanding &lt;/f0&gt;freeform line&lt;f1&gt;s&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180129T082738Z" creationid="Jeff Huang" creationdate="20180118T132552Z">
@@ -13276,6 +13292,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the tools for hidden elements work with two versions of the text, but sections and some fields do not work with three or more versions.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130634Z" creationid="Franklin Weng" creationdate="20180406T130634Z">
+        <seg>所有隱藏特定內容用的工具都可以應付兩個版本的狀況，而三個以上版本的狀況，有些區段與欄位則無法運作。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All these effects break the basic purpose of &lt;/f9&gt;&lt;t10/&gt;&lt;f11&gt;typography by calling attention to themselves while doing nothing to enhance the main text.&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162335Z" creationid="Franklin Weng" creationdate="20180101T121915Z">
@@ -15132,6 +15156,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides, while the arrangement of individual characters and paragraphs is a major part of typography, it is not the only part, as the next chapters will show.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131532Z" creationid="Franklin Weng" creationdate="20180406T131532Z">
+        <seg>Besides, while the arrangement of individual characters and paragraphs is a major part of typography, it is not the only part, as the next chapters will show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Besides, you might eventually decide to modify it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131345Z" creationid="zerng07" creationdate="20180125T131336Z">
@@ -16491,6 +16523,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T025539Z" creationid="Jeff Huang" creationdate="20180205T093745Z">
         <seg>選擇「&lt;f0&gt;&lt;f1&gt;圖形&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;」可將圖片嵌入文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing a &lt;f0&gt;tactic&lt;/f0&gt; for hiding/showing text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131135Z" creationid="Franklin Weng" creationdate="20180406T131135Z">
+        <seg>選擇要隱藏或顯示的文字的&lt;f0&gt;策略&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19347,6 +19387,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162253Z" creationid="zerng07" creationdate="20170822T133849Z">
         <seg>和吸引注意相反，最好的字體排印設計反而要&lt;f0&gt;藏在幕後，&lt;/f0&gt;一般讀者只會&lt;f1&gt;隱約感覺到&lt;/f1&gt;這文字讀起來很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Features for hiding and showing text can be used in &lt;f0&gt;two&lt;/f0&gt; ways.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131217Z" creationid="Franklin Weng" creationdate="20180406T131217Z">
+        <seg>使用隱藏或顯示文字的功能有&lt;f0&gt;兩種&lt;/f0&gt;方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23518,6 +23566,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;f0&gt;two versions of the document share common text, enter one using ordinary paragraph styles and create unique paragraph styles for the other that can be hidden and shown as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131415Z" creationid="Franklin Weng" creationdate="20180406T131415Z">
+        <seg>&lt;f0&gt;如果文件的兩個版本有共用的內容，先用原本的段落樣式輸入文字，然後再建立特別的段落樣式用於隱藏或顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;f1&gt;Heading 1&lt;/f1&gt; was used only for the chapter title, then the header would always include the chapter title.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T141659Z" creationid="Jeff Huang" creationdate="20180127T133320Z">
@@ -26695,6 +26751,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
+      <note>本來想寫手賤</note>
+      <tuv lang="EN">
+        <seg>It also eliminates the need to print from copies, which with careless hands or tired brains can lead to the accidental over-writing of the original file.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131116Z" creationid="Franklin Weng" creationdate="20180406T131116Z">
+        <seg>它也不需要在列印時先建立副本，因此也不會發生手抖或疲倦時刪除不該刪除的內容、或蓋掉原來版本的問題。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>It also includes &lt;f4&gt;View &gt; HTML Source&lt;/f4&gt; so you can see the code with which you are working.</seg>
       </tuv>
@@ -28085,6 +28150,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072150Z" creationid="Jeff Huang" creationdate="20180115T072150Z">
         <seg>Lustria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maintaining two copies of the same document in a single file is as easy as toggling on or off the &lt;f0&gt;Hidden&lt;/f0&gt; box &lt;f1&gt;at the bottom left of&lt;/f1&gt; the &lt;f2&gt;Font Effect&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130843Z" creationid="Franklin Weng" creationdate="20180406T130843Z">
+        <seg>同一文件兩個版本的做法很簡單，只要運用「&lt;f2&gt;格式 &gt; 字元 &gt; 字型效果&lt;/f2&gt;」標籤頁&lt;f1&gt;下方&lt;/f1&gt;的「&lt;f0&gt;隱藏&lt;/f0&gt;」選項即可。&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31411,6 +31484,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T091612Z" creationid="Ｖ字龍" creationdate="20180217T091612Z">
         <seg>&lt;f0&gt;上標和下標&lt;/f0&gt;位置設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Positioning and automating text</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131525Z" creationid="Franklin Weng" creationdate="20180406T131525Z">
+        <seg>調整文字位置與自動化文字格式設定</seg>
       </tuv>
     </tu>
     <tu>
