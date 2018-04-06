@@ -13452,6 +13452,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, each version could be mixed and matched.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T133811Z" creationid="Franklin Weng" creationdate="20180406T133811Z">
+        <seg>另一種建構方法，每個版本可以混合並匹配在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, use a master document when it is convenient in long documents or in group projects, and copy &lt;t0/&gt;and paste a single long document at the very end of your final editing.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083839Z" creationid="Jeff Huang" creationdate="20171214T062223Z">
@@ -20337,6 +20345,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T054126Z" creationid="Jeff Huang" creationdate="20180116T053959Z">
         <seg>舉例來說，如果你在標題使用特定的藍色，就在表格標題的背景，以及分割表格標題和&lt;f2&gt;文字&lt;/f2&gt;的線也用相同的藍色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you were preparing user, developer, and admin guides for a piece of software, the published guide for administrators might require showing both the user and admin material, while the guide for developers might include both the admin and developer material.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T133941Z" creationid="Franklin Weng" creationdate="20180406T133941Z">
+        <seg>比方說，你要製作一套軟體的使用者、開發者與管理者的指南，給管理者的部份可能也會需要同時顯示使用者的部份，而給開發者的部份則要包含給管理者看的內容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45485,6 +45501,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T103957Z" creationid="Jeff Huang" creationdate="20180124T132949Z">
         <seg>你也可以考慮新增下列類型的頁面樣式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might also create multiple bodies of content found in more than one version, although that might become too complex to work with.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T134002Z" creationid="Franklin Weng" creationdate="20180406T134002Z">
+        <seg>You might also create multiple bodies of content found in more than one version, although that might become too complex to work with.</seg>
       </tuv>
     </tu>
     <tu>
