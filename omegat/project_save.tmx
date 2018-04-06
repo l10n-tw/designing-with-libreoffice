@@ -22536,6 +22536,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, it can be awkward and confusing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060920Z" creationid="Franklin Weng" creationdate="20180406T060920Z">
+        <seg>但是它相當令人困惑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, it can make small images look even smaller because of the white space beside them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120419Z" creationid="zerng07" creationdate="20180206T120412Z">
@@ -25721,6 +25729,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180222T134625Z" creationid="Jeff Huang" creationdate="20180203T131740Z">
         <seg>在大多數的情況下設定為0點，也就是左邊距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In many cases, you are likely to have less trouble &lt;f2&gt;with items shifting&lt;/f2&gt; if you create a table instead.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T061232Z" creationid="Franklin Weng" creationdate="20180406T061232Z">
+        <seg>In many cases, you are likely to have less trouble &lt;f2&gt;with items shifting&lt;/f2&gt; if you create a table instead.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30488,6 +30504,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20170930T174244Z" creationid="zerng07" creationdate="20170930T174244Z">
         <seg>樣式還有其他優點嗎？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other common uses include starting a page reserved for an image that occupies an entire page, or inserting a landscape page in an otherwise portrait-oriented document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060724Z" creationid="Franklin Weng" creationdate="20180406T060724Z">
+        <seg>其他常用的狀況包括另開新頁以便放入圖片，或是在直向文件中特別插入一個橫向的頁面。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35863,6 +35887,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Type&lt;/f0&gt; of break also includes the option of &lt;f1&gt;Column.&lt;/f1&gt; This selection may be useful in a multi-column section or a newsletter.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060848Z" creationid="Franklin Weng" creationdate="20180406T060848Z">
+        <seg>隔斷符的「&lt;f0&gt;類型&lt;/f0&gt;」另外還有一個「&lt;f1&gt;欄&lt;/f1&gt;」的選項。這個選項是用在多欄的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Type&lt;/f0&gt; tab &lt;f1&gt;includes various options for resizing, anchoring, and positioning images.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T085421Z" creationid="zerng07" creationdate="20180206T085421Z">
@@ -40012,6 +40044,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T120722Z" creationid="zerng07" creationdate="20180206T120642Z">
         <seg>這個設定特別適合靠在右側邊距上的外框使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting is used mostly to start new chapters in a long document or a master document.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060630Z" creationid="Franklin Weng" creationdate="20180406T060630Z">
+        <seg>這樣的設定通常用於長文件或主控文件中，開始一個新的章節時。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
