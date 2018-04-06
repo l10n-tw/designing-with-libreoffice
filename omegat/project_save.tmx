@@ -4921,6 +4921,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Paragraph Styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; pane on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Condition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab, select the paragraph style that you want to apply in the highlighted context.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034624Z" creationid="Franklin Weng" creationdate="20180406T034624Z">
+        <seg>&lt;f0&gt;然後在右邊&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;段落樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;中，選擇你要套用在該情境的段落樣式。&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the Navigator&lt;/f0&gt;, “chapter” refers to the part of the document between one heading and the next.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075808Z" creationid="zerng07" creationdate="20180225T145737Z">
@@ -16656,6 +16664,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click twice, and the selected style is listed under &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Applied Styles &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;on the right side of the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Context &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;pane.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034748Z" creationid="Franklin Weng" creationdate="20180406T034748Z">
+        <seg>雙擊選好段落樣式，&lt;/f6&gt;它就會出現在你選好的情境的右邊，「&lt;f7&gt;&lt;f8&gt;套用樣式&lt;/f8&gt;&lt;/f7&gt;」的地方。&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking a list item in &lt;f3&gt;the&lt;/f3&gt; Navigator jumps to it in the editing window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180225T070058Z" creationid="zerng07" creationdate="20180225T070058Z">
@@ -21637,6 +21653,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight a context on the &lt;f0&gt;&lt;f1&gt;Condition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034511Z" creationid="Franklin Weng" creationdate="20180406T034511Z">
+        <seg>在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;」&lt;f2&gt;標籤頁&lt;/f2&gt;中選擇一個情境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight the text of the header.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T111222Z" creationid="zerng07" creationdate="20171219T111222Z">
@@ -24195,6 +24219,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not set at least one condition, the tab will be unavailable the next time you open the style’s dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T035014Z" creationid="Franklin Weng" creationdate="20180406T035014Z">
+        <seg>不然一關閉之後，再編輯此樣式時，「條件」標籤頁就不會再出現了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not want lists, set the &lt;f0&gt;Number&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab to &lt;f2&gt;None&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T131306Z" creationid="Franklin Weng" creationdate="20180118T024450Z">
@@ -24812,6 +24844,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T160209Z" creationid="MarkHung" creationdate="20180224T042353Z">
         <seg>如果你想要嘗試的話，請忽略「&lt;f0&gt;首字放大&lt;/f0&gt;」標籤頁，並另外建立一個「&lt;f1&gt;第一行&lt;/f1&gt;」樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use conditions &lt;f0&gt;with a custom style&lt;/f0&gt;, you must set at least one before you close the dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034954Z" creationid="Franklin Weng" creationdate="20180406T034954Z">
+        <seg>再次強調，如果你要將&lt;f0&gt;自訂樣式&lt;/f0&gt;設定成條件式樣式，在你設定好關閉編輯樣式視窗前，一定至少要在「條件」視窗中設定好一個情境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30532,6 +30572,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, as you work, you might wonder why the formatting has changed but the style listed on the tool bar hasn't.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034444Z" creationid="Franklin Weng" creationdate="20180406T034444Z">
+        <seg>要不然，在你工作的時候，你可能會覺得很奇怪，為什麼換了格式設定，但在工具列上顯示的樣式名稱卻沒改變。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, changes in features such as font or font size may force you to re-set them.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T143219Z" creationid="MarkHung" creationdate="20180224T041812Z">
@@ -31677,6 +31725,14 @@ Franklin: 猜測如上</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002350Z" creationid="zerng07" creationdate="20180123T014922Z">
         <seg>移除未預期的空間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat Step &lt;f0&gt;4–5&lt;/f0&gt; as often as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034809Z" creationid="Franklin Weng" creationdate="20180406T034809Z">
+        <seg>重覆步驟 &lt;f0&gt;4–5&lt;/f0&gt; 直到設定完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33752,12 +33808,11 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
     </tu>
     <tu>
-      <note>* Workaround f0</note>
       <tuv lang="EN">
         <seg>So long as you have set at least one condition, you can add and delete conditio&lt;f0&gt;ns later.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T110143Z" creationid="Ｖ字龍" creationdate="20180217T115449Z">
-        <seg>So long as you have set at least one condition, you can add and delete conditions later.&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T035044Z" creationid="Ｖ字龍" creationdate="20180217T115449Z">
+        <seg>至少先設定一個，之後就可以再新增或刪除條件。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
