@@ -615,6 +615,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132535Z" creationid="Franklin Weng" creationdate="20180408T132535Z">
+        <seg>&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Set the exact tab in the &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;at&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; field directly below the drop-down list.&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T155139Z" creationid="Jeff Huang" creationdate="20180203T131525Z">
@@ -7433,6 +7441,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option in a character or paragraph style is the stylistic equivalent of some of the fields in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Fields &gt; Other &gt; Function &gt; Type, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;such as &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Hidden text&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Hidden Paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132534Z" creationid="Franklin Weng" creationdate="20180408T132534Z">
+        <seg>&lt;f0&gt;在字元或段落樣式中的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;選項其實基本上就跟上述的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;隱藏的文字&lt;/f8&gt;&lt;/f7&gt;」及「&lt;f9&gt;隱藏的段落&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;」是一樣的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab is analogous to the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Borders&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab in the styles for other applications.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T053427Z" creationid="Jeff Huang" creationdate="20171228T064249Z">
@@ -8799,7 +8815,6 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       </tuv>
     </tu>
     <tu>
-      <note>根據 6.0.3 改寫</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you single-source, t&lt;/f0&gt;he &lt;f1&gt;Functions&lt;/f1&gt; tab of the &lt;f2&gt;Fields&lt;/f2&gt; dialog contains several &lt;f3&gt;useful &lt;/f3&gt;tools: &lt;f4&gt;Hidden text&lt;/f4&gt;, &lt;f5&gt;Hidden Paragraph&lt;/f5&gt;, &lt;f6&gt;and&lt;/f6&gt; &lt;f7&gt;Conditional text&lt;/f7&gt;.</seg>
       </tuv>
@@ -11485,6 +11500,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T164113Z" creationid="zerng07" creationdate="20171226T164048Z">
         <seg>&lt;f7&gt;你可以從&lt;/f7&gt;「&lt;f8&gt;&lt;f9&gt;工具 &gt; 自訂 &gt; 功能 &gt; 樣式&lt;/f9&gt;&lt;/f8&gt;」裡設定其他樣式的快捷鍵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f8&gt;Other types of fields exist, but, except for &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Set Variable, &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;are not relevant to single-sourcing.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131843Z" creationid="Franklin Weng" creationdate="20180408T131843Z">
+        <seg>&lt;f8&gt;另外還會用到「變數」標籤頁中的&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;設定變數&lt;/f10&gt;&lt;/f9&gt;」。&lt;f11&gt;至於對話框中的其他類型與功能則都跟製作多版本文件無關。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21008,6 +21031,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For very limited uses, such as changing the title &lt;f0&gt;or the contents of a header or footer&lt;/f0&gt;, you can use &lt;f1&gt;Input Lists,&lt;/f1&gt; which contains interchangeable items.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132236Z" creationid="Franklin Weng" creationdate="20180408T132236Z">
+        <seg>少數的狀況，像是變更標題&lt;f0&gt;或是頁首、頁尾的內容等&lt;/f0&gt;，你可以使用「&lt;f1&gt;輸入清單&lt;/f1&gt;」功能，裡面有一些通用的項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For years, the only alternative to paying for fonts was to use public domain fonts, &lt;f0&gt;which were often low quality.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180109T092807Z" creationid="Franklin Weng" creationdate="20171224T073924Z">
@@ -22131,6 +22162,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180211T061208Z" creationid="Franklin Weng" creationdate="20180211T061208Z">
         <seg>不過，&lt;f1&gt;你還是可以自己建立其他的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, &lt;f2&gt;i&lt;/f2&gt;nput &lt;f3&gt;l&lt;/f3&gt;ists are impractical in a longer document, because each has &lt;f4&gt;to &lt;/f4&gt;be changed separately.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132305Z" creationid="Franklin Weng" creationdate="20180408T132305Z">
+        <seg>不過，「輸入清單」在較長的文件中並不實用，因為每個項目都要個別去變更。&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28359,6 +28398,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180210T120001Z" creationid="zerng07" creationdate="20180210T120001Z">
         <seg>修改其他格式設定，然後關閉&lt;f0&gt;&lt;f1&gt;影像&lt;/f1&gt;&lt;/f0&gt;對話視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>在 View 選單中找不到 Hidden Paragraphs</note>
+      <tuv lang="EN">
+        <seg>Make sure that &lt;f0&gt;View &gt; Field Shadings&lt;/f0&gt; and &lt;f1&gt;View &gt; Hidden Paragraphs&lt;/f1&gt; are turned on when you use these fields.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T133512Z" creationid="Franklin Weng" creationdate="20180408T133512Z">
+        <seg>使用這些欄位時，要確定「&lt;f0&gt;檢視 &gt; 欄位背景色彩&lt;/f0&gt;」【跟「&lt;f1&gt;檢視 &gt; 隱藏段落&lt;/f1&gt;」】要打開。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35937,6 +35985,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T080601Z" creationid="Jeff Huang" creationdate="20180126T132846Z">
         <seg>&lt;f0&gt;頁首&lt;/f0&gt;與&lt;f1&gt;頁尾&lt;/f1&gt;標籤頁對「頁面」樣式來說，功能相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Hidden text&lt;/f0&gt; field window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131959Z" creationid="Franklin Weng" creationdate="20180408T131959Z">
+        <seg>「&lt;f0&gt;隱藏的文字&lt;/f0&gt;」視窗</seg>
       </tuv>
     </tu>
     <tu>
