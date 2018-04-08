@@ -8799,6 +8799,15 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       </tuv>
     </tu>
     <tu>
+      <note>根據 6.0.3 改寫</note>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When you single-source, t&lt;/f0&gt;he &lt;f1&gt;Functions&lt;/f1&gt; tab of the &lt;f2&gt;Fields&lt;/f2&gt; dialog contains several &lt;f3&gt;useful &lt;/f3&gt;tools: &lt;f4&gt;Hidden text&lt;/f4&gt;, &lt;f5&gt;Hidden Paragraph&lt;/f5&gt;, &lt;f6&gt;and&lt;/f6&gt; &lt;f7&gt;Conditional text&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131645Z" creationid="Franklin Weng" creationdate="20180408T131645Z">
+        <seg>&lt;f0&gt;在「插入 &gt; 欄位 &gt; 更多欄位」出現的欄位對話框中&lt;/f0&gt;，選擇「&lt;f1&gt;功能&lt;/f1&gt;」標籤頁，在「&lt;f2&gt;類型&lt;/f2&gt;」處有幾個&lt;f3&gt;用於製作多版本單一文件的工具&lt;/f3&gt;：「&lt;f4&gt;隱藏的文字&lt;/f4&gt;」、「&lt;f5&gt;隱藏的段落&lt;/f5&gt;」&lt;f6&gt;與&lt;/f6&gt;「&lt;f7&gt;條件式文字&lt;/f7&gt;」。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When you use&lt;/f0&gt; an unusual character &lt;f1&gt;style &lt;/f1&gt;for bullets, &lt;f2&gt;be sure to include the font used when you share a file.</seg>
       </tuv>
@@ -13155,6 +13164,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you print a version from a single-source file, de-select &lt;f0&gt;Hidden&lt;/f0&gt; so the complete file &lt;f1&gt;is visible &lt;/f1&gt;the next time you open it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130335Z" creationid="Franklin Weng" creationdate="20180408T130335Z">
+        <seg>在你從這個單一文件檔案列印完之後，記得把「&lt;f0&gt;隱藏&lt;/f0&gt;」取消掉，讓完整的檔案可以&lt;f1&gt;顯示&lt;/f1&gt;出來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Al&lt;f0&gt;w&lt;/f0&gt;ays keep documents connected to their templates.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T150727Z" creationid="Franklin Weng" creationdate="20171212T120609Z">
@@ -13682,6 +13699,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T120340Z" creationid="Franklin Weng" creationdate="20171223T092445Z">
         <seg>在Impress投影片中，有給題名、內文使用的佔位項，還有中間用來新增表格、圖表、影像與影片用的通用佔位項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An alternate but more time-consuming way of single-sourcing is to place each passage in its own field.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130644Z" creationid="Franklin Weng" creationdate="20180408T130644Z">
+        <seg>製作多版本單一文件另一個比較花時間的方式，是把每個片段都放在自己的欄位中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15873,6 +15898,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T131921Z" creationid="Franklin Weng" creationdate="20171223T094020Z">
         <seg>相反地，&lt;/f0&gt;可變&lt;f1&gt;欄位在每次&lt;/f1&gt;&lt;f2&gt;任何人&lt;/f2&gt;開啟文件時就會將欄位更新成當下這個時間點的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, you need to select the space after a strin&lt;f6&gt;g &lt;/f6&gt;of hidden characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130255Z" creationid="Franklin Weng" creationdate="20180408T130255Z">
+        <seg>所以段落間距要設定在被隱藏的字元之後的字串段落上。&lt;f6&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21913,6 +21946,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T031824Z" creationid="zerng07" creationdate="20171227T031824Z">
         <seg>隱藏樣式可以讓&lt;f0&gt;樣式和格式&lt;/f0&gt;視窗減少雜亂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiding text using fields</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130346Z" creationid="Franklin Weng" creationdate="20180408T130346Z">
+        <seg>使用欄位隱藏文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -42819,6 +42860,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually, this second method is practical only for relatively short documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131257Z" creationid="Franklin Weng" creationdate="20180408T131257Z">
+        <seg>通常這種方式比較適合用在較短一點的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usually, you can leave &lt;f0&gt;the default.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180124T124947Z" creationid="Jeff Huang" creationdate="20180124T124947Z">
@@ -44819,6 +44868,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111047Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
         <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either toggle one version of the document, or else create a separate variable with a unique value for each version of the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131238Z" creationid="Franklin Weng" creationdate="20180408T131238Z">
+        <seg>你可以用一個變數在兩個版本間切換，也可以對每個不同的版本建立個別的變數與唯一的值。</seg>
       </tuv>
     </tu>
     <tu>
