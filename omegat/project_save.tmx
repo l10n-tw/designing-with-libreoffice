@@ -4180,6 +4180,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hiding text&lt;/f0&gt; &lt;f1&gt;using styles&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105828Z" creationid="Franklin Weng" creationdate="20180408T105828Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;使用樣式&lt;/f1&gt;隱藏文字&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>最後要更新頁數。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt;: Shows how styles are related to each other (&lt;f1&gt;See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;The hierarchy of styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;).</seg>
@@ -5652,6 +5660,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180303T140112Z" creationid="zerng07" creationdate="20180303T140112Z">
         <seg>&lt;f0&gt;不管你想怎樣準備這些索引條目，&lt;/f0&gt;索引只能有一個主條目，並且頂多往下兩層子條目層級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;No matter how you work, single-sourcing can be confusing, so choose the name of styles and fields to help keep everything straight.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105317Z" creationid="Franklin Weng" creationdate="20180408T105317Z">
+        <seg>&lt;f0&gt;不管你怎麼做，用單一文件來控管時，樣式與欄位的名稱要盡量一看就很直觀地知道它的作用，這樣才不會容易搞混。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8996,8 +9012,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can improve the effectiveness of the setting for pages &lt;/f0&gt;printed on both sides by choosing a heavier weight of paper – which you probably want anyway if a document is important enough that you are concerned about line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124141Z" creationid="Franklin Weng" creationdate="20180402T133800Z">
-        <seg>&lt;f0&gt;需要雙面列印時，你可以透過選擇較厚重的紙張來改善這個設定造成的效果。如果你的文件真的重要到連行距都得斤斤計較，你應該也會想要這樣做。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105839Z" creationid="Franklin Weng" creationdate="20180402T133800Z">
+        <seg>&lt;f0&gt;需要雙面列印時，你可以透過選擇較厚重的紙張來改善這個設定造成的效果。&lt;/f0&gt;如果你的文件真的重要到連行距都得斤斤計較，你應該也會想要這樣做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13332,6 +13348,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All these possibilities can be used by setting up multiple variables for fields (see “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Hiding text using fields&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;,” page &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;18&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;), one for each version, but are least confusing when working with styles only.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105033Z" creationid="Franklin Weng" creationdate="20180408T104911Z">
+        <seg>而以上的情境只需要設定幾個欄位變數（請參考「&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;使用欄位隱藏文字&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;」，第 &lt;/f3&gt;&lt;f4&gt;&lt;bf5&gt;18&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt; 頁），雖然每個版本用不同的欄位，但至少不會像只用樣式處理那樣容易搞混。&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All these possibilities can help to distance you from your work enough to criticize it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171224T075755Z" creationid="Jeff Huang" creationdate="20171111T035618Z">
@@ -13877,6 +13901,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T033710Z" creationid="zerng07" creationdate="20171227T033710Z">
         <seg>另一種寫作模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another way to single source is to have separate sets of styles, fields, and sections for each version of the document, turning each on and off as needed</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105159Z" creationid="Franklin Weng" creationdate="20180408T104914Z">
+        <seg>另外也可以對文件的每個版本都建立不同的樣式、欄位與區段等，並在需要時做切換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18730,6 +18762,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T134954Z" creationid="Jeff Huang" creationdate="20180201T034743Z">
         <seg>每個步驟下還可以有多個段落，大部份都不用加編號，進一步描述執行時的狀況或是其他選項。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each style’s font color can be replaced quickly by using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; If you are printing in black and white and use dark enough colors, you may not even need to change the colors when you print.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105629Z" creationid="Franklin Weng" creationdate="20180408T105629Z">
+        <seg>每個樣式的字型顏色可以之後透過「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 尋找與取代&lt;/f2&gt;&lt;/f1&gt;」快速地換掉。&lt;f3&gt;如果你用的顏色夠深，或是列印時採黑白列印，你可能甚至不需要在列印前把顏色換掉。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44711,6 +44751,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can even give each paragraph style a different font color to make it quickly recognizable.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105357Z" creationid="Franklin Weng" creationdate="20180408T105357Z">
+        <seg>你甚至可以讓每個段落樣式都用不同的字型顏色，可以快速辨識找到你要用的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can even go to the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab to expand or condense character spacing.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T003253Z" creationid="zerng07" creationdate="20180123T120020Z">
@@ -45507,8 +45555,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You might also create multiple bodies of content found in more than one version, although that might become too complex to work with.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T134002Z" creationid="Franklin Weng" creationdate="20180406T134002Z">
-        <seg>You might also create multiple bodies of content found in more than one version, although that might become too complex to work with.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T104812Z" creationid="Franklin Weng" creationdate="20180406T134002Z">
+        <seg>你當然可以每個版本都做一份，即使部份內容重複。但這樣有可能會變得太複雜，不好管理。</seg>
       </tuv>
     </tu>
     <tu>
