@@ -1245,6 +1245,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f6&gt;These styles are formatted exactly the same as the common styles, &lt;f7&gt;and hidden as needed&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125656Z" creationid="Franklin Weng" creationdate="20180408T125633Z">
+        <seg>&lt;/f6&gt;這些樣式中的格式設定跟通用樣式完全一樣，而在&lt;f7&gt;必要時隱藏起來。&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180122T094547Z" creationid="Jeff Huang" creationdate="20180122T094547Z">
@@ -5853,6 +5861,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T122656Z" creationid="zerng07" creationdate="20180205T122656Z">
         <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;裁切&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，你可以改變影像的整體尺寸，或是只顯示影像的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Effect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, t&lt;/f3&gt;oggle &lt;f4&gt;Hidden&lt;/f4&gt; as needed before printing.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130005Z" creationid="Franklin Weng" creationdate="20180408T130005Z">
+        <seg>&lt;f0&gt;然後在列印考卷之前，把「答案」樣式中「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型效果&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;裡的「&lt;f4&gt;隱藏&lt;/f4&gt;」勾起來即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20445,10 +20461,18 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in a quiz, the teacher's version might only need a single paragraph style called &lt;f1&gt;Answer Key.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125827Z" creationid="Franklin Weng" creationdate="20180408T125827Z">
+        <seg>以上面的考卷為例，老師的版本可能只需要一個名為「&lt;f1&gt;答案&lt;/f1&gt;」的段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in a student quiz with an answer key, you might have one set of styles with names like &lt;f1&gt;&lt;f2&gt;User&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; – Text Body&lt;/f3&gt; and &lt;f4&gt;&lt;f5&gt;Teacher&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – Text Body.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125558Z" creationid="Franklin Weng" creationdate="20180408T125558Z">
-        <seg>舉個例子。一份考卷加上答案，裡面可能會有「學生—內文」跟「老師—內文」這一類的樣式名稱。</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125650Z" creationid="Franklin Weng" creationdate="20180408T125558Z">
+        <seg>舉個例子。一份考卷加上答案，裡面可能會有「&lt;f1&gt;&lt;f2&gt;學生&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;—內文&lt;/f3&gt;」跟「&lt;f4&gt;&lt;f5&gt;老師&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;—內文」這一類的樣式名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29692,6 +29716,14 @@ Franklin：蛤？</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180321T171114Z" creationid="MarkHung" creationdate="20180224T044444Z">
         <seg>注意只能使用6個標題層次，而Writer則有10個。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that spacing above or below a paragraph is &lt;t5/&gt;hidden along with the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130136Z" creationid="Franklin Weng" creationdate="20180408T130136Z">
+        <seg>要注意，段落樣式中「段落之上」與「段落之下」的間距在此樣式隱藏時會跟著被隱藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45549,6 +45581,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T050405Z" creationid="MarkHung" creationdate="20180224T050405Z">
         <seg>你可能需要：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not need to &lt;f0&gt;c&lt;/f0&gt;opy all the common styles for each version of the file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125732Z" creationid="Franklin Weng" creationdate="20180408T125732Z">
+        <seg>你不一定需要把所有通用的樣式對每個版本都複製一份。&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
