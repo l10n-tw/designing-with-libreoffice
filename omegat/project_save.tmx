@@ -3117,6 +3117,22 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create&lt;/f0&gt; one set of character and paragraph styles for text that appears in all versions of the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111335Z" creationid="Franklin Weng" creationdate="20180408T111158Z">
+        <seg>&lt;f0&gt;為文件的所有版本都會出現的文字單獨建立一組字元與段落樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Create&lt;/f0&gt; the common styles needed for each version of the text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111436Z" creationid="Franklin Weng" creationdate="20180408T111301Z">
+        <seg>&lt;f0&gt;建立每個版本的文字都會用到的共用樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Creating a t&lt;/f0&gt;able &lt;f1&gt;of contents&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065045Z" creationid="zerng07" creationdate="20180227T150948Z">
@@ -20425,6 +20441,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T173417Z" creationid="Franklin Weng" creationdate="20171213T122208Z">
         <seg>舉例而言，在GNU/Linux下，當你在&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;範本選單&lt;/f2&gt;&lt;/f1&gt;中儲存時&lt;f3&gt;，範本管理員只能儲存、搜尋和檢視。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, in a student quiz with an answer key, you might have one set of styles with names like &lt;f1&gt;&lt;f2&gt;User&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; – Text Body&lt;/f3&gt; and &lt;f4&gt;&lt;f5&gt;Teacher&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – Text Body.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125558Z" creationid="Franklin Weng" creationdate="20180408T125558Z">
+        <seg>舉個例子。一份考卷加上答案，裡面可能會有「學生—內文」跟「老師—內文」這一類的樣式名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42963,6 +42987,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whatever method you choose:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111058Z" creationid="Franklin Weng" creationdate="20180408T111058Z">
+        <seg>不管你選擇哪種方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whatever tactic you choose, the &lt;/f1&gt;&lt;t2/&gt;&lt;f3&gt;conclusion is your last chance to leave an impression with listeners.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T084629Z" creationid="Franklin Weng" creationdate="20180114T055653Z">
@@ -44753,8 +44785,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T110054Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
-        <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111047Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
+        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。</seg>
       </tuv>
     </tu>
     <tu>
