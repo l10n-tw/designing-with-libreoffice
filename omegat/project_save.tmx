@@ -8123,6 +8123,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To hide or reveal text, you can toggle the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box on a style’s &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Font Effect&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T110034Z" creationid="Franklin Weng" creationdate="20180408T110034Z">
+        <seg>&lt;f0&gt;你可以在&lt;/f0&gt;樣式設定的「&lt;f4&gt;&lt;f5&gt;字型效果&lt;/f5&gt;&lt;/f4&gt;」標籤頁中，透過&lt;f3&gt;勾選&lt;/f3&gt;「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」來切換隱藏或顯示文字。&lt;f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To open &lt;/f0&gt;a template &lt;f1&gt;for editing, select &lt;/f1&gt;&lt;f2&gt;File &gt; Template&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Manage&lt;/f7&gt;&lt;/f6&gt; &lt;f8&gt;to open the Template Manager, &lt;/f8&gt;select a template, &lt;f9&gt;and click &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Edit&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; on the tool bar above the templates&lt;/f12&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133021Z" creationid="Franklin Weng" creationdate="20171223T124017Z">
@@ -44739,6 +44747,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105852Z" creationid="zerng07" creationdate="20180130T130909Z">
         <seg>你可以修改外框樣式來編輯外框，但是應該盡可能避免&lt;f0&gt;手動凌駕&lt;/f0&gt;樣式的格式設定。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T110054Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
+        <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
