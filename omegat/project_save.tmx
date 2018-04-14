@@ -4881,6 +4881,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In all the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hidden Text&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Hidden Paragraph &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;fields, as well as&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Sections&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, set the condition to the variable name, followed by the value in quotation marks.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091640Z" creationid="Franklin Weng" creationdate="20180414T091640Z">
+        <seg>&lt;f0&gt;接下來，不管是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;條件式文字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;隱藏的文字&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」還是「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;隱藏的段落&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」，或者是用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;區段&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;，你都可以把條件設定為變數的名稱，然後後面跟著變數值，用英文半形的雙引號包起來。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In background:&lt;/f0&gt; &lt;f1&gt;Available&lt;/f1&gt; with the &lt;f2&gt;Through&lt;/f2&gt; text wrap setting only.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180208T072433Z" creationid="zerng07" creationdate="20180208T072126Z">
@@ -11816,6 +11824,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;Hidden Text&lt;/f0&gt; field set up to work with a variable called &lt;f1&gt;MasterSwitch.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091857Z" creationid="Franklin Weng" creationdate="20180414T091857Z">
+        <seg>「&lt;f0&gt;隱藏的文字&lt;/f0&gt;」欄位設定由名為「MasterSwitch」的變數來控制。&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;Title&lt;/f0&gt; paragraph style is usually followed by a &lt;f1&gt;Subtitle, &lt;/f1&gt;and a &lt;f2&gt;Text Body&lt;/f2&gt; paragraph style by another &lt;f3&gt;Text Body.&lt;/f3&gt; A &lt;f4&gt;First Page&lt;/f4&gt; style is usually followed by a &lt;f5&gt;Left Page, &lt;/f5&gt;which is followed by a &lt;f6&gt;Right Page&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163403Z" creationid="zerng07" creationdate="20171227T163403Z">
@@ -12599,6 +12615,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T083601Z" creationid="Jeff Huang" creationdate="20180124T092807Z">
         <seg>將文件以兩頁攤開方式呈現&lt;f0&gt;，讓讀者可以體驗紙本上的感受。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A variable can be a master control for turning all fields with the same condition on or off.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090813Z" creationid="Franklin Weng" creationdate="20180414T090813Z">
+        <seg>變數可以用來做主控，讓相同條件的欄位一次全部開關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14763,6 +14787,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the window, give the variable a name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091144Z" creationid="Franklin Weng" creationdate="20180414T091144Z">
+        <seg>在視窗底部，為變數取個名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time, almost as many find that Writer in particular is notorious for spontaneously switching images so they are move on the page for no apparent reason.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180217T105526Z" creationid="zerng07" creationdate="20180130T120458Z">
@@ -15408,6 +15440,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180125T131345Z" creationid="zerng07" creationdate="20180125T131336Z">
         <seg>甚至，你或許將來有天想要修改也不一定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Better yet, you can set a general variable that toggles all fields at the same time:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090841Z" creationid="Franklin Weng" creationdate="20180414T090841Z">
+        <seg>更好的是，你可以設定一個通用的變數來一次切換所有欄位：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16912,6 +16952,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Insert &gt; Fields &gt; More Fields &gt; Variables &gt; Set Variable&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091026Z" creationid="Franklin Weng" creationdate="20180414T091026Z">
+        <seg>點擊「&lt;f0&gt;插入 &gt; 欄位 &gt; 更多欄位&lt;/f0&gt;」，找到「變數」標籤頁中的「設定變數」。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Manage&lt;/f0&gt; in the &lt;f1&gt;Conditional&lt;/f1&gt; sub-menu to add, edit, or remove conditional formatting.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T150942Z" creationid="Franklin Weng" creationdate="20180216T135549Z">
@@ -16972,6 +17020,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T115714Z" creationid="zerng07" creationdate="20171226T115714Z">
         <seg>點按&lt;f0&gt;填入格式模式&lt;/f0&gt;按鈕第二下可&lt;f1&gt;關閉填入模式&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Invisible&lt;/f0&gt; box so that the variable cannot be seen in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091331Z" creationid="Franklin Weng" creationdate="20180414T091331Z">
+        <seg>勾選「&lt;f0&gt;看不見&lt;/f0&gt;」讓變數不會在文件中出現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19175,6 +19231,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a value.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091218Z" creationid="Franklin Weng" creationdate="20180414T091218Z">
+        <seg>輸入一個值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter all the marks for each student.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151900Z" creationid="Franklin Weng" creationdate="20180206T145558Z">
@@ -20825,6 +20889,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T141911Z" creationid="zerng07" creationdate="20180205T141911Z">
         <seg>範例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example: &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;MasterSwitch “0” &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;or &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;AdminGuide”1”.&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091716Z" creationid="Franklin Weng" creationdate="20180414T091716Z">
+        <seg>例如：&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;總開關 "0" &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;或是&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;AdminGuide"1" 等等。&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27146,6 +27218,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be text, or simply &lt;f0&gt;0&lt;/f0&gt; or &lt;f1&gt;1, &lt;/f1&gt;but make sure that it uses the &lt;f2&gt;format&lt;/f2&gt; entered&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091257Z" creationid="Franklin Weng" creationdate="20180414T091257Z">
+        <seg>值可以是文字，或是簡單的 &lt;f0&gt;0&lt;/f0&gt; 或 &lt;f1&gt;1&lt;/f1&gt;，不過要確定格式與你剛才選的&lt;f2&gt;格式&lt;/f2&gt;相符。&lt;f3&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be the same font as for body text – perhaps in a different weight – a &lt;f0&gt;decorative&lt;/f0&gt; font, or even a &lt;f1&gt;character from a &lt;/f1&gt;dingbat set.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T155554Z" creationid="MarkHung" creationdate="20180224T042231Z">
@@ -28471,6 +28551,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T065914Z" creationid="zerng07" creationdate="20180206T065914Z">
         <seg>在「插入影像」視窗的左下角，「&lt;f0&gt;插入為連結&lt;/f0&gt;」選項很容易被忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locating the variable can be difficult, &lt;f0&gt;so&lt;/f0&gt; you should place it in some easy to find place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091418Z" creationid="Franklin Weng" creationdate="20180414T091418Z">
+        <seg>要找到變數的位置有可能會頗麻煩，&lt;f0&gt;所以&lt;/f0&gt;你應該把變數的位置放在容易找到的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31618,6 +31706,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor at the start or end of the document, or anywhere else that is easy to locate.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090913Z" creationid="Franklin Weng" creationdate="20180414T090913Z">
+        <seg>將游標放在文件的開始或結尾處，或任意一個容易找到的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor in the left hand frame and select &lt;f0&gt;Insert &gt; Fields &gt; Other &gt; Functions &gt; Placeholder.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T130922Z" creationid="Franklin Weng" creationdate="20171223T120955Z">
@@ -33460,6 +33556,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180227T143728Z" creationid="zerng07" creationdate="20180227T143503Z">
         <seg>確認助手視窗內第一層工具列的「&lt;f0&gt;拖曳模式&lt;/f0&gt;」工具有設定成「&lt;f1&gt;插入為超連結&lt;/f1&gt;」（有的話會是鎖鏈圖示）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the &lt;f0&gt;Format&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091052Z" creationid="Franklin Weng" creationdate="20180414T091052Z">
+        <seg>選擇「&lt;f0&gt;格式&lt;/f0&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38292,6 +38396,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The name can indicate one of the document versions, or be something like &lt;f0&gt;MasterSwitch&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091210Z" creationid="Franklin Weng" creationdate="20180414T091210Z">
+        <seg>名字可以用於區別文件的不同版本，或是類似「&lt;f0&gt;總開關&lt;/f0&gt;」之類的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The names of &lt;f0&gt;some&lt;/f0&gt; pre-defined frame styles are self-explanatory, &lt;f1&gt;such as &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Graphics&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Labels&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, and&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt; Formula&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T131853Z" creationid="zerng07" creationdate="20180130T131853Z">
@@ -39447,6 +39559,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180315T120729Z" creationid="MarkHung" creationdate="20180224T042731Z">
         <seg>接著從段落樣式的「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;大綱與編號&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」標籤頁「&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;編號樣式&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」欄位中，將清單樣式與該段落樣式連結。&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click the &lt;f1&gt;Insert&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091344Z" creationid="Franklin Weng" creationdate="20180414T091344Z">
+        <seg>然後點按「&lt;f1&gt;插入&lt;/f1&gt;」鍵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45241,6 +45361,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can leave it as &lt;f1&gt;General&lt;/f1&gt;, or specifically as &lt;f2&gt;Text&lt;/f2&gt; or a number format.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091132Z" creationid="Franklin Weng" creationdate="20180414T091132Z">
+        <seg>你可以保留使用 &lt;f1&gt;General&lt;/f1&gt;，或指定用「&lt;f2&gt;文字&lt;/f2&gt;」或特定的數字格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can make it more informal by wording the sections as questions.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T072543Z" creationid="Franklin Weng" creationdate="20180109T132933Z">
@@ -45983,6 +46111,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122229Z" creationid="Franklin Weng" creationdate="20180405T122229Z">
         <seg>你也許會想到至少廿幾個可能會用到的情境，但你無法自訂情境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You might choose to leave it visible while you work.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091441Z" creationid="Franklin Weng" creationdate="20180414T091441Z">
+        <seg>當然在你還在製作文件時，可以保留讓它顯示著。</seg>
       </tuv>
     </tu>
     <tu>
