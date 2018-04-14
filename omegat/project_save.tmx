@@ -4759,6 +4759,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If you read the last few chapters in sequence, you should start to understand &lt;/f0&gt;why Writer can best be described as an intermediate desktop publisher.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094214Z" creationid="Franklin Weng" creationdate="20180414T094214Z">
+        <seg>&lt;f0&gt;如果你是照順序讀下來，你應該可以開始瞭解 Writer 已經不只是文字處理器&lt;/f0&gt;，而可以說是一個中介的桌面出版軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>是 Accept 還是 Apply?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
@@ -12559,6 +12567,15 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20171223T130623Z" creationid="Franklin Weng" creationdate="20171223T130038Z">
         <seg>第二種方法是用不同的範本建立一個新的主控文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>不懂，行為不同</note>
+      <tuv lang="EN">
+        <seg>A section set to &lt;f0&gt;h&lt;/f0&gt;ide is visible until you remove the mouse cursor from it.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093708Z" creationid="Franklin Weng" creationdate="20180414T093708Z">
+        <seg>設定為隱藏的區段會在你滑鼠游標移開之後才會消失。&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22349,6 +22366,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, &lt;f0&gt;a few advanced features can be added only by tweaking a few settings in character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094322Z" creationid="Franklin Weng" creationdate="20180414T094322Z">
+        <seg>不過，&lt;f0&gt;一些進階的功能還是要透過調整字元與段落樣式的設定才能達成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, &lt;f0&gt;a font size that prevents easy reading goes against the main purposes of putting information in a spreadsheet in the first place.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T165328Z" creationid="Franklin Weng" creationdate="20180211T092311Z">
@@ -31303,6 +31328,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Others cannot be set up in styles at all.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094358Z" creationid="Franklin Weng" creationdate="20180414T094358Z">
+        <seg>而其他的進階功能則在樣式中完全無法設定。Others cannot be set up in styles at all.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Others have separate fonts for each weight, but if you change the weight while using the regular weight, you get manufactured versions of the different weights &lt;f0&gt;which have little resemblance to the real ones.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T144113Z" creationid="Franklin Weng" creationdate="20171228T060213Z">
@@ -32210,6 +32243,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Probably the greatest lack is the easy insertion of non-standard characters, such as diagonal fractions or, in English locales, accented characters.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094543Z" creationid="Franklin Weng" creationdate="20180414T094543Z">
+        <seg>它最缺乏的可能是輕鬆插入非標準字元，如斜線式的分數，或是在英語語系中的重音字母等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Probably, the idea was to differentiate different types of information, but the encoding is not immediately obvious.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180128T135132Z" creationid="Jeff Huang" creationdate="20180118T032749Z">
@@ -33069,6 +33110,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092510Z" creationid="Franklin Weng" creationdate="20180414T092510Z">
         <seg>區段是另一種隱藏或顯示文字的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sections can be formatted without unlocking them, but must be unlocked to edit the text.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093953Z" creationid="Franklin Weng" creationdate="20180414T093953Z">
+        <seg>被保護鎖定的區段在未解鎖的狀況下可以修改格式設定，但要解鎖才能編輯文字。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36700,6 +36749,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;l&lt;/f0&gt;imits &lt;f1&gt;to&lt;/f1&gt; LibreOffice &lt;f2&gt;text design&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094016Z" creationid="Franklin Weng" creationdate="20180414T094016Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;LibreOffice &lt;f2&gt;文字設計&lt;/f2&gt;的限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;main&lt;/f0&gt; difference is that the window for frames includes a &lt;f1&gt;&lt;f2&gt;C&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;olumn&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180206T081408Z" creationid="zerng07" creationdate="20180206T081408Z">
@@ -37587,6 +37644,16 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T030000Z" creationid="zerng07" creationdate="20180213T030000Z">
         <seg>藍色斜線指示這兩個外框連結在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>行為應該是顯示是否被保護，而非是否隱藏。
+</note>
+      <tuv lang="EN">
+        <seg>The dialog window lists the document’s sections, with an open or closed lock beside each name to indicate whether it is hidden.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093904Z" creationid="Franklin Weng" creationdate="20180414T093904Z">
+        <seg>出現的對話框會列出文件中的每個區段，旁邊還有一個鎖，表示它是否被保護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38705,6 +38772,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180209T133239Z" creationid="zerng07" creationdate="20180209T133239Z">
         <seg>唯一的麻煩是讀者可能沒注意到要點，直接略過影像而錯過關鍵要點。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The only way to mitigate this limitation &lt;f0&gt;is &lt;/f0&gt;by choosing an international keyboard locale that includes accented characters and international currencies.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094736Z" creationid="Franklin Weng" creationdate="20180414T094736Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;唯一可以減輕這些限制的方式是選用一個包含重音字母及一些國際貨幣的鍵盤佈局。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42931,6 +43006,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Writer, you can follow basic typographic principles and easily design complicated documents.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094253Z" creationid="Franklin Weng" creationdate="20180414T094253Z">
+        <seg>使用 Writer，你可以依循基礎的文字排印原則，輕鬆設計出複雜的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using a Justified alignment</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T102632Z" creationid="zerng07" creationdate="20180123T102632Z">
@@ -43593,6 +43676,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T122840Z" creationid="zerng07" creationdate="20171226T121908Z">
         <seg>如果複製的&lt;f0&gt;來源&lt;/f0&gt;內容&lt;f1&gt;是以&lt;/f1&gt;目標文件中相同名稱的樣式作格式設定的話，&lt;f2&gt;當它複製到目標文件的&lt;/f2&gt;&lt;f4&gt;段落&lt;/f4&gt;之中時，這段複製內容則會使用目標文件中的樣式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;you want to edit the section, click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Format &gt; Sections&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093736Z" creationid="Franklin Weng" creationdate="20180414T093736Z">
+        <seg>當&lt;f0&gt;你要再編輯此區段時，選擇「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;格式 &gt; 區段&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」即可。</seg>
       </tuv>
     </tu>
     <tu>
