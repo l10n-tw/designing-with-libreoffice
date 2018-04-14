@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;This extension adds a &lt;f1&gt;tool bar to&lt;/f1&gt; &lt;t2/&gt;the LibreOffice window from which you can quickly add advanced &lt;f3&gt;typographical &lt;/f3&gt;features manually.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T100141Z" creationid="Franklin Weng" creationdate="20180414T095948Z">
+        <seg>&lt;/f0&gt;這個擴充套件會在&lt;t2/&gt; LibreOffice 的視窗上加入一個&lt;f1&gt;工具列&lt;/f1&gt;，讓你可以快速使用一些&lt;f3&gt;進階的排印功能&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;This method &lt;f1&gt;works with both styles and with&lt;/f1&gt; sections and fields, &lt;f2&gt;but can be hard to organize.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131852Z" creationid="Franklin Weng" creationdate="20180406T131455Z">
@@ -10819,6 +10827,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;The difficulty, of course, is remembering how to access such libraries.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095053Z" creationid="Franklin Weng" creationdate="20180414T095053Z">
+        <seg>&lt;f2&gt;這些困難的地方當然是在你要記住如何使用這些功能。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;The main functional criterion for a body text font is that it must be easily readable &lt;/f2&gt;by your audience in the conditions in which they are likely to &lt;f3&gt;see&lt;/f3&gt; it.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180116T114159Z" creationid="Franklin Weng" creationdate="20180101T132712Z">
@@ -11033,6 +11049,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T080251Z" creationid="Jeff Huang" creationdate="20180108T135735Z">
         <seg>&lt;f3&gt;讀者不同意&lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;你的寫作觀點是很自然的現象，但是用你的設計讓讀者感到厭煩無疑是糟糕的策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;However, &lt;/f3&gt;a font has to be Graphite-aware before you can take advantage of the support – and, so far, only a handful of fonts are, &lt;f4&gt;such as Linux Libertine G and Linux Biolinum G.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095918Z" creationid="Franklin Weng" creationdate="20180414T095918Z">
+        <seg>&lt;f3&gt;不過，&lt;/f3&gt;所使用的字型必須是 Graphite 技術可以辨識出來的，而目前為止只有一小部份的字型可以，&lt;f4&gt;像是 Linux Libertine G 與 Linux Biolinum G 等。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19472,6 +19496,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even then, resources like small caps, old style figures, and ligatures – redrawings of groups of characters to make them easier to read – cannot be used automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094918Z" creationid="Franklin Weng" creationdate="20180414T094918Z">
+        <seg>即使是這樣，有些像是小型大寫字母、舊式數字跟連字（ligature）—把一群字母重繪在一起以方便閱讀—等等功能，都無法自動化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even then, the font was darker than ideal, but much more increased space between letters would have destroyed the look of the font completely.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T135710Z" creationid="Franklin Weng" creationdate="20180106T043010Z">
@@ -25615,6 +25647,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T145018Z" creationid="MarkHung" creationdate="20180224T042027Z">
         <seg>例如你的第一頁樣式中開始文字的位置比其他頁低，或者有用到某個重複出現的設計，又或者有放個數字來表示新章節開始的話，也許就沒有必要用到首字放大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your fonts are Graphite-aware, consider installing &lt;f0&gt;the Typographic tool bar extension.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T100041Z" creationid="Franklin Weng" creationdate="20180414T095946Z">
+        <seg>如果你的字型可以支援 Graphite，你可以考慮安裝「字體排印家工具列」（&lt;f0&gt;Typographic tool bar）的擴充套件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32937,6 +32977,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SIL International, &lt;f0&gt;a&lt;/f0&gt; maker of free fonts, also offers &lt;f1&gt;support for&lt;/f1&gt; Graphite, a system which automatically uses small caps, old style figures, and ligatures &lt;f2&gt;where they are appropriate&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095820Z" creationid="Franklin Weng" creationdate="20180414T095820Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;美國國際語言暑期學院（SIL International）開發了許多開放字型，另外也提供了 &lt;f1&gt;Graphite&lt;/f1&gt; 這種技術的支援。這種技術可以在&lt;f2&gt;適當的時候&lt;/f2&gt;自動使用小型大寫字母、舊式數字與連字功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sans</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180115T072129Z" creationid="Jeff Huang" creationdate="20180115T072129Z">
@@ -35035,6 +35083,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180123T033949Z" creationid="zerng07" creationdate="20180123T033949Z">
         <seg>有時候，影像和段落樣式之間可能會有衝突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, these features are available in separate font families, but, in other cases, you might want to &lt;f0&gt;use&lt;/f0&gt; features like macros, Auto&lt;f1&gt;T&lt;/f1&gt;ext, and AutoCorrect to create libraries in your default template.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095019Z" creationid="Franklin Weng" creationdate="20180414T095019Z">
+        <seg>有的時候，上述這些功能可以在不同的字型家族中找到，不過其他時候你就必須在你的預設範本中改用像是巨集、自動化文字，或是自動校正等功能。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38200,6 +38256,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T050503Z" creationid="Jeff Huang" creationdate="20171111T130330Z">
         <seg>本章內的標題可作為參考用的步驟檢查表。&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help will also give you formulas that you can add to the end of the &lt;f4&gt;Family&lt;/f4&gt; field on the &lt;f5&gt;Font&lt;/f5&gt; tabs of character and paragraph styles that will automatically enable advanced features.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T110823Z" creationid="Franklin Weng" creationdate="20180414T110823Z">
+        <seg>在工具列中的「help」會告訴你如何在字元或段落樣式的「&lt;f5&gt;字型&lt;/f5&gt;」標籤頁中，「&lt;f4&gt;字族&lt;/f4&gt;」的後面加上公式來自動開啟這些進階功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43266,6 +43330,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171228T152757Z" creationid="Franklin Weng" creationdate="20171212T125431Z">
         <seg>範本管理員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Typographic toolb&lt;f0&gt;ar&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095248Z" creationid="Franklin Weng" creationdate="20180414T095248Z">
+        <seg>使用字體排印家工具列（Typographic toolb&lt;f0&gt;ar&lt;/f0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
