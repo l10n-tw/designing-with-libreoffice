@@ -1149,6 +1149,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;For instance, if the condition is &lt;f5&gt;1,&lt;/f5&gt; then the text that appears in the document is whatever is entered in the &lt;f6&gt;Then&lt;/f6&gt; field, such as &lt;f7&gt;&lt;f8&gt;User's Guide&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt; However, change the condition to anything else, and the &lt;f10&gt;text in the document becomes whatever is entered in the &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Else&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field, such as &lt;/f13&gt;&lt;f14&gt;System Administrator's Guide&lt;/f14&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083330Z" creationid="Franklin Weng" creationdate="20180414T083330Z">
+        <seg>&lt;/f4&gt;例如，如果條件為 &lt;f5&gt;1&lt;/f5&gt;，那麼在「&lt;f6&gt;則&lt;/f6&gt;」欄位中的文字，像是「&lt;f7&gt;&lt;f8&gt;使用者指南&lt;/f8&gt;&lt;/f7&gt;」，就會顯示在文件中 &lt;f9&gt;&lt;/f9&gt;。而把條件改為任何其他值，那麼在「&lt;f11&gt;&lt;f12&gt;否則&lt;/f12&gt;&lt;/f11&gt;」&lt;f13&gt;欄位&lt;/f13&gt;中的文字，像是「&lt;f14&gt;系統管理者指南&lt;/f14&gt;」就會&lt;f10&gt;顯示在文件中&lt;/f10&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;Hiding a section may be a simpler tactic to use.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081536Z" creationid="Franklin Weng" creationdate="20180414T081536Z">
