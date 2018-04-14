@@ -799,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;The value of the variable follows its name.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091910Z" creationid="Franklin Weng" creationdate="20180414T091910Z">
+        <seg>&lt;/f1&gt;在名稱後面跟著變數值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;The&lt;f2&gt; settings for this tool resemble the choices on the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Options&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; tab of a list style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T151056Z" creationid="zerng07" creationdate="20180224T151056Z">
@@ -1313,6 +1321,14 @@
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T052222Z" creationid="MarkHung" creationdate="20180224T050449Z">
         <seg>&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f9&gt;When you close the dialog window, the section and the space above and below it are no longer visible in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093228Z" creationid="Franklin Weng" creationdate="20180414T093228Z">
+        <seg>&lt;/f9&gt;當你關閉視窗後，這個區段，還有上方與下方的間距都會被隱藏起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2906,6 +2922,14 @@ Franklin: 應是原文有誤。多出來的</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Hid&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;/f2&gt; box, and/&lt;f4&gt;0r&lt;/f4&gt; set the &lt;f5&gt;&lt;f6&gt;With &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Condition&lt;/f7&gt; field to &lt;f8&gt;1.&lt;/f8&gt; &lt;f9&gt;Either is necessary, but not both.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093153Z" creationid="Franklin Weng" creationdate="20180414T093153Z">
+        <seg>&lt;f0&gt;勾選&lt;/f0&gt;「&lt;f1&gt;隱藏&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;」選項，需要的話在「附帶條件」欄位中設定為 &lt;f8&gt;1&lt;/f8&gt;。&lt;f9&gt;注意，附帶條件並不一定需要設定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;More&lt;/f1&gt; button on a &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab to reach the &lt;f4&gt;Border/Background&lt;/f4&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132548Z" creationid="Jeff Huang" creationdate="20180127T030724Z">
@@ -4056,6 +4080,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T133617Z" creationid="Franklin Weng" creationdate="20171223T124433Z">
         <seg>&lt;f0&gt;在範本管理員下，選擇要刪除的個人範本，在上面點按右鍵選擇&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;刪除&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」按鈕即可。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;G&lt;/f0&gt;ive the section a unique name that reflects its contents, &lt;f1&gt;and if desired &lt;/f1&gt;protect it with a password.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093016Z" creationid="Franklin Weng" creationdate="20180414T093016Z">
+        <seg>為這個區段取一個能輕易辨別用途或內容的名字，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;然後如果你需要的話，&lt;/f1&gt;可以選擇採用密碼保護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,6 +6337,14 @@ f2</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Place the cursor where you want an empty section, or else highlight existing text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092817Z" creationid="Franklin Weng" creationdate="20180414T092817Z">
+        <seg>&lt;f0&gt;將游標放到你想要插入空白區段的地方，或是選好一段文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Place the cursor where you want the bibliography to appear in the text, and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &gt; Indexes and Tables &gt; Indexes and Tables.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065515Z" creationid="zerng07" creationdate="20180304T121619Z">
@@ -6725,6 +6765,14 @@ f2</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171225T083134Z" creationid="zerng07" creationdate="20171225T083027Z">
         <seg>&lt;f0&gt;搜尋&lt;/f0&gt;&lt;f3&gt;段落樣式&lt;/f3&gt;是我們在編輯格式設定和文稿結構時很重要的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Sections work in much the same way as fields&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092730Z" creationid="Franklin Weng" creationdate="20180414T092730Z">
+        <seg>&lt;f0&gt;區段的做法跟欄位蠻像的：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8047,6 +8095,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;They can be used more easily than fields for long passages, but are less versatile than a paragraph style.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092714Z" creationid="Franklin Weng" creationdate="20180414T092714Z">
+        <seg>&lt;f0&gt;它們在處理較長的文字時比欄位好用，但不像段落樣式那麼多功能。&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This arrangement is almost as handy as the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box in a style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083409Z" creationid="Franklin Weng" creationdate="20180414T083409Z">
@@ -8425,6 +8481,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130927Z" creationid="Franklin Weng" creationdate="20180406T130927Z">
         <seg>善用隱藏文字功能，比自己手動做版本控制要快得多，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;也減少犯錯的機會。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;sing sections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092458Z" creationid="Franklin Weng" creationdate="20180414T092458Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;使用區段</seg>
       </tuv>
     </tu>
     <tu>
@@ -23096,6 +23160,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, make sure that the values are different for each, &lt;f0&gt;and that each is placed where you can easily find them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092152Z" creationid="Franklin Weng" creationdate="20180414T092152Z">
+        <seg>不過，要確定每個變數值都不一樣，&lt;f0&gt;並且每個變數都放在你可以輕易找得到的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, many charts only require one.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T091340Z" creationid="Jeff Huang" creationdate="20180113T131404Z">
@@ -24952,6 +25024,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T083350Z" creationid="Jeff Huang" creationdate="20171214T061038Z">
         <seg>如果你在兩份子文件間有做交叉參照的話，當你開啟子文件時，目標子文件會顯示「錯誤：找不到參照」的訊息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have more than two versions of the document, you can create other variables to toggle each one off and on.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092021Z" creationid="Franklin Weng" creationdate="20180414T092021Z">
+        <seg>如果你有兩個以上的版本，你可以用其他的變數來分別控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30074,6 +30154,14 @@ Franklin：蛤？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now you &lt;f0&gt;can &lt;/f0&gt;show or hide all the fields in the document by changing only the variable, much as you would with a style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092002Z" creationid="Franklin Weng" creationdate="20180414T092002Z">
+        <seg>這樣你就&lt;f0&gt;可以&lt;/f0&gt;簡單透過變數來顯示或隱藏文件中的所有欄位，類似用樣式的作法那樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now, each new document will use the default template unless you specifically choose another template.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T112727Z" creationid="Franklin Weng" creationdate="20171223T042912Z">
@@ -32973,6 +33061,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084540Z" creationid="Ｖ字龍" creationdate="20180217T115544Z">
         <seg>區段指的是文件中，跟主要內文屬性不同的區塊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sections are yet another way to hide or unhide text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092510Z" creationid="Franklin Weng" creationdate="20180414T092510Z">
+        <seg>區段是另一種隱藏或顯示文字的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36709,6 +36805,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;Insert Section&lt;/f2&gt; &lt;f3&gt;dialog &lt;/f3&gt;window opens.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092916Z" creationid="Franklin Weng" creationdate="20180414T092916Z">
+        <seg>接著就會跳出一個「&lt;f2&gt;插入區段&lt;/f2&gt;」&lt;f3&gt;對話&lt;/f3&gt;視窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f2&gt;selections&lt;/f2&gt; are chosen either from the contents of outline &lt;f3&gt;l&lt;/f3&gt;evels&lt;f4&gt; &lt;/f4&gt;or from bookmarks &lt;f5&gt;or markers added manually.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065001Z" creationid="zerng07" creationdate="20180225T153552Z">
@@ -37635,6 +37739,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T071816Z" creationid="zerng07" creationdate="20180312T071816Z">
         <seg>最簡單的命名方式，就是讓名稱和參照的值一樣即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The easiest way to find the values is to use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Track Changes &gt; Manage Changes,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; especially when the document is complete and the only changes you are marking are hiding or showing different versions.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092450Z" creationid="Franklin Weng" creationdate="20180414T092450Z">
+        <seg>最容易找到值的方式是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 追蹤修訂 &gt; 管理&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，特別是當文件已完成，而你只是要改變隱藏或顯示來產生不同版本時，這樣非常方便。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39591,6 +39703,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T010823Z" creationid="zerng07" creationdate="20180125T124805Z">
         <seg>然後對「&lt;f0&gt;日期&lt;/f0&gt;」樣式做下列修改：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then s&lt;/f0&gt;elect &lt;f1&gt;Insert &gt; Section&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092842Z" creationid="Franklin Weng" creationdate="20180414T092842Z">
+        <seg>&lt;/f0&gt;然後選取「&lt;f1&gt;插入 &gt; 區段&lt;/f1&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
