@@ -7757,6 +7757,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The main disadvantage of this method is that each condition needs to be changed separately, while using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden Font &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;effect means toggling a single box.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084228Z" creationid="Franklin Weng" creationdate="20180414T084228Z">
+        <seg>&lt;f0&gt;這個方法的主要缺點是每個條件都要分別設定，而用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」效果只要切換一個勾選選項就好了。&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The main tools for avoiding widows and orphans are &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Widow control&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Orphan control.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T002642Z" creationid="zerng07" creationdate="20180123T080410Z">
@@ -8019,6 +8027,14 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171226T135047Z" creationid="zerng07" creationdate="20171226T122658Z">
         <seg>&lt;f0&gt;甚至也同樣&lt;/f0&gt;適用於任何開放文件格式檔案 (ODF, Open Document Format) 檔案，包括用Apache OpenOffice或Calligra Suite編輯的ODF都一樣。Calligra Suite是專為&lt;f1&gt;KDE&lt;/f1&gt;桌面設計的自由辦公套裝軟體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This arrangement is almost as handy as the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box in a style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083409Z" creationid="Franklin Weng" creationdate="20180414T083409Z">
+        <seg>&lt;f0&gt;這種做法跟勾選樣式中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」是一樣的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12607,6 +12623,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T151801Z" creationid="Franklin Weng" creationdate="20180206T145503Z">
         <seg>&lt;f0&gt;一份資料集合式試算表的部分摘錄：&lt;/f0&gt;老師用的成績紀錄表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;f2&gt; Conditional Text&lt;/f2&gt; field is similar to the &lt;f3&gt;Hidden&lt;/f3&gt; check box on a paragraph style’s &lt;f4&gt;Font Effect&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;tab.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084355Z" creationid="Franklin Weng" creationdate="20180414T084355Z">
+        <seg>「&lt;f2&gt;條件式文字&lt;/f2&gt;」欄位類似段落樣式中「&lt;f4&gt;字型效果&lt;/f4&gt;」標籤頁裡的「&lt;f3&gt;隱藏&lt;/f3&gt;」選項。&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18485,6 +18509,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not confuse a &lt;f0&gt;Conditional Text &lt;/f0&gt;field with a &lt;f1&gt;Conditional&lt;/f1&gt; paragraph style.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084306Z" creationid="Franklin Weng" creationdate="20180414T084306Z">
+        <seg>注意不要把「&lt;f0&gt;條件式文字&lt;/f0&gt;」欄位跟段落樣式中的「&lt;f1&gt;條件&lt;/f1&gt;」標籤頁混在一起了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not increase the width by more than a few percent, or it may look grotesque.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123101Z" creationid="Franklin Weng" creationdate="20180402T123101Z">
@@ -22041,6 +22073,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130346Z" creationid="Franklin Weng" creationdate="20180408T130346Z">
         <seg>使用欄位隱藏文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiding with sections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084420Z" creationid="Franklin Weng" creationdate="20180414T084420Z">
+        <seg>使用區段隱藏文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -25849,6 +25889,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T160927Z" creationid="Jeff Huang" creationdate="20180129T132108Z">
         <seg>實際上，在欄與欄之間新增分隔線，等同於宣告你的設計在此無法作用，而且你有充分的理由不願意修正這個問題的意思。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In effect, the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Condition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field becomes a password to limit who can change the condition.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083452Z" creationid="Franklin Weng" creationdate="20180414T083452Z">
+        <seg>不過在效果上，「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位就會變成像是個密碼一樣，限制某些人才能改變條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32778,8 +32826,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sections are areas that &lt;f0&gt;have properties that are different from the main body of text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T115544Z" creationid="Ｖ字龍" creationdate="20180217T115544Z">
-        <seg>Sections are areas that have properties that are different from the main body of text.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084540Z" creationid="Ｖ字龍" creationdate="20180217T115544Z">
+        <seg>區段指的是文件中，跟主要內文屬性不同的區塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35205,6 +35253,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T115823Z" creationid="Franklin Weng" creationdate="20171223T092130Z">
         <seg>要將這類資訊儲存到Impress中特別容易，&lt;f1&gt;每一種資訊&lt;/f1&gt;都可以放在一張投影片中，可以輕鬆刪除或重新排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such links can be another sort of single-sourcing, allowing content used in several documents to be maintained in one place.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T085019Z" creationid="Franklin Weng" creationdate="20180414T085019Z">
+        <seg>這種連結方式類似另一種型態的多版本單一文件，讓某些會在不同文件中引用到的內容集中在一個地方管理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39653,8 +39709,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These properties may be formatting, or content that is password-protected from editing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180220T110242Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
-        <seg>These properties may be formatting, or content that is password-protected from editing.&lt;f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084602Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
+        <seg>所謂的屬性可能是格式，或是內容是被保護住不給編輯的。&lt;f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43400,6 +43456,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When documents have large areas to hide or &lt;f0&gt;show&lt;/f0&gt;, you may prefer using sections.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084446Z" creationid="Franklin Weng" creationdate="20180414T084446Z">
+        <seg>當文件中有一大段要隱藏或&lt;f0&gt;顯示&lt;/f0&gt;的時候，你可以考慮用區段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When finished, click &lt;f1&gt;Close Master View&lt;/f1&gt; in the floating window.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180127T164405Z" creationid="Franklin Weng" creationdate="20180114T141330Z">
@@ -44723,6 +44787,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180130T062628Z" creationid="Jeff Huang" creationdate="20171229T021717Z">
         <seg>你可以選取連接線並拖曳其控制手把來調整形狀，或是移動它連接的物件來達成相同目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add a link to insert a separate file in the current document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084643Z" creationid="Franklin Weng" creationdate="20180414T084643Z">
+        <seg>你也可以在當前的文件中，用加入一個連結的方式來插入另一個檔案。</seg>
       </tuv>
     </tu>
     <tu>
