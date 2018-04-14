@@ -11125,6 +11125,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Modern typography tends to ignore these advanced features, so you might not even miss them.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T111055Z" creationid="Franklin Weng" creationdate="20180414T111055Z">
+        <seg>&lt;f3&gt;現代的文字排印學比較不太管這些進階的功能，所以你也不需要太傷腦筋在這上頭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Or perhaps you want to organize your installation by adding sub-folders to the main template directories.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171229T142457Z" creationid="Franklin Weng" creationdate="20171223T133422Z">
@@ -15535,8 +15543,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Besides, while the arrangement of individual characters and paragraphs is a major part of typography, it is not the only part, as the next chapters will show.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131532Z" creationid="Franklin Weng" creationdate="20180406T131532Z">
-        <seg>Besides, while the arrangement of individual characters and paragraphs is a major part of typography, it is not the only part, as the next chapters will show.</seg>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T111209Z" creationid="Franklin Weng" creationdate="20180406T131532Z">
+        <seg>此外，雖然個別字元與段落的安排是文字排印學的主要部份，但並不是唯一的部份。下一章我們來看更多樣式的秘密。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22957,6 +22965,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180115T082007Z" creationid="Franklin Weng" creationdate="20171231T134054Z">
         <seg>不過，每個字型對空間的使用方式可能極為不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if &lt;f0&gt;these &lt;/f0&gt;choices seem too &lt;f1&gt;fussy&lt;/f1&gt;, stay with what you can do with &lt;f2&gt;standard &lt;/f2&gt;character and paragraph styles.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T111018Z" creationid="Franklin Weng" creationdate="20180414T111018Z">
+        <seg>不過，如果&lt;f0&gt;這些&lt;/f0&gt;方式對你來說太&lt;f1&gt;麻煩&lt;/f1&gt;了，那就用&lt;f2&gt;標準&lt;/f2&gt;的字元與段落樣式來調整就好了。</seg>
       </tuv>
     </tu>
     <tu>
