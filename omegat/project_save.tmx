@@ -5104,6 +5104,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert &gt; Section&lt;/f0&gt; &lt;f1&gt;can &lt;/f1&gt;hide or reveal large sections of text.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T085058Z" creationid="Franklin Weng" creationdate="20180414T085058Z">
+        <seg>「&lt;f0&gt;插入 &gt; 區段&lt;/f0&gt;」&lt;f1&gt;可以&lt;/f1&gt;用來隱藏或顯示一大段文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>選項改名稱了。</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Insert Index/Table&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;includes tools for extensive customization of tables of contents and similar tables.&lt;/f2&gt;</seg>
@@ -14867,6 +14875,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automating the use of fields and sections</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T085126Z" creationid="Franklin Weng" creationdate="20180414T085126Z">
+        <seg>自動化使用欄位與區段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating with styles</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131159Z" creationid="Franklin Weng" creationdate="20180404T131159Z">
@@ -19663,6 +19679,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Field windows stay open after you insert a field, allowing you to move to the next position for a field in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T085503Z" creationid="Franklin Weng" creationdate="20180414T085503Z">
+        <seg>在你插入一個欄位之後，欄位視窗還會保持開啟，讓你可以移到下一個位置插入下一個欄位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fields are a common source of header and footer contents.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T134953Z" creationid="Jeff Huang" creationdate="20180127T035859Z">
@@ -22574,6 +22598,14 @@ Franklin: 頁數修改注意</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, changing the conditions for each field or section individually eats up time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090109Z" creationid="Franklin Weng" creationdate="20180414T090109Z">
+        <seg>不過，個別去改變每個欄位或區段還是很耗時間的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, conditonal formatting gives other graphical representations of data as well.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T091711Z" creationid="Franklin Weng" creationdate="20180213T123349Z">
@@ -24213,6 +24245,15 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180223T025815Z" creationid="Jeff Huang" creationdate="20180208T060830Z">
         <seg>如果圖形被截斷，就需要調整圖形大小，或者將行距調整為「&lt;f0&gt;至少&lt;/f0&gt;&lt;f1&gt;」，以避免行中字元的上半部被截斷。&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>編輯選單沒有 Auto Text </note>
+      <tuv lang="EN">
+        <seg>If the same field appears more than once, you can copy and past&lt;f0&gt;e&lt;/f0&gt; or use &lt;f1&gt;Edit &gt; AutoText &lt;/f1&gt;so that you &lt;f2&gt;can add information with a couple of keystrokes, instead of making changes manually.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090751Z" creationid="Franklin Weng" creationdate="20180414T090751Z">
+        <seg>如果相同的欄位會出現不只一次，你可以用複製貼上【或是「編輯 &gt; 自動文字」】，這樣只需要打幾個鍵加上你要的東西即可，而不用每次手動修改。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32820,6 +32861,14 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T081741Z" creationid="zerng07" creationdate="20180304T055031Z">
         <seg>搜尋用詞語;替代條目;第一關鍵字;第二關鍵字;區分大小寫;比對整個單字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Section windows do not, &lt;f0&gt;although&lt;/f0&gt; you can use the &lt;f1&gt;N&lt;/f1&gt;avigator to jump from one section to the next &lt;f2&gt;as you edit.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090046Z" creationid="Franklin Weng" creationdate="20180414T090046Z">
+        <seg>然而區段視窗則不會。&lt;f0&gt;是說&lt;/f0&gt;你還是可以用「助手」來在&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;編輯&lt;/f2&gt;的時候跳到下一個區段就是了。</seg>
       </tuv>
     </tu>
     <tu>
