@@ -88,6 +88,13 @@ init(){
 	original_ifs=$IFS
 	IFS=$(echo -en "\n\b")
 	for odt_file in $(cat "${project_root_dir}/omegat/files_order.txt"); do
+		if ! test -f "${odt_file}"; then
+			printf --\
+				'INFO: "%s" does not exist, skipped.\n'\
+				"${odt_file}"
+			continue
+		fi
+
 		if ! check_odt_content_xml "${odt_file}"; then
 			overall_check_result='fail'
 		fi
