@@ -1149,6 +1149,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f4&gt;Hiding a section may be a simpler tactic to use.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081536Z" creationid="Franklin Weng" creationdate="20180414T081536Z">
+        <seg>&lt;/f4&gt;改用隱藏區段可能會是較簡單的策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T051246Z" creationid="MarkHung" creationdate="20180224T050356Z">
@@ -3872,6 +3880,14 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002554Z" creationid="Ｖ字龍" creationdate="20180217T084835Z">
         <seg>&lt;f0&gt;例如，&lt;/f0&gt;&lt;f1&gt;在不需要使用者操心的狀況下，Writer自己就會掃描字型檔，&lt;/f1&gt;以便正確適當地顯示字元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;For instance, when a condition is set to 0, then the content in the fields is hidden, creating one version of the file.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081035Z" creationid="Franklin Weng" creationdate="20180414T081035Z">
+        <seg>&lt;f0&gt;例如，若條件設為 0，則此欄位的內容就會被隱藏，而成為文件的其中一種版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,6 +11776,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;Hidden &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;field can be awkward, because the field for entering it &lt;f4&gt;makes only a limited amount of text visible at one time.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081516Z" creationid="Franklin Weng" creationdate="20180414T081516Z">
+        <seg>「&lt;f0&gt;隱藏&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文字&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt; &lt;/f3&gt;欄位可能會很難用，因為用來輸入的欄位&lt;f4&gt;一次只能輸入很有限的文字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;Title&lt;/f0&gt; paragraph style is usually followed by a &lt;f1&gt;Subtitle, &lt;/f1&gt;and a &lt;f2&gt;Text Body&lt;/f2&gt; paragraph style by another &lt;f3&gt;Text Body.&lt;/f3&gt; A &lt;f4&gt;First Page&lt;/f4&gt; style is usually followed by a &lt;f5&gt;Left Page, &lt;/f5&gt;which is followed by a &lt;f6&gt;Right Page&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171227T163403Z" creationid="zerng07" creationdate="20171227T163403Z">
@@ -11956,6 +11980,14 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T144547Z" creationid="Franklin Weng" creationdate="20180206T143249Z">
         <seg>有一個常見的誤解是，要利用試算表的函式，你本身必須是個數學天才。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A condition is merely a state of a document – or, if you prefer, a version with different content.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T080930Z" creationid="Franklin Weng" creationdate="20180414T080511Z">
+        <seg>條件只是文件的一種狀態—或者說，不同內容的某一個版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13560,6 +13592,22 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T133811Z" creationid="Franklin Weng" creationdate="20180406T133811Z">
         <seg>另一種建構方法，每個版本可以混合並匹配在一起。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, in a &lt;f0&gt;Conditional text &lt;/f0&gt;field, a simple expression is set up using the &lt;f1&gt;Condition&lt;/f1&gt;, &lt;f2&gt;Then&lt;/f2&gt;, and &lt;f3&gt;Else&lt;/f3&gt; fields &lt;f4&gt;on the right side of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083008Z" creationid="Franklin Weng" creationdate="20180414T083008Z">
+        <seg>另外，選擇「&lt;f0&gt;條件式文字&lt;/f0&gt;」的話，你可以在視窗右方的「&lt;f1&gt;條件&lt;/f1&gt;」、「&lt;f2&gt;則&lt;/f2&gt;」跟「&lt;f3&gt;否則&lt;/f3&gt;」&lt;f4&gt;等欄位建立一個簡單的表示式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, the condition that turns one version of a document on could be the name of the version, such as &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;User Guide&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;This arrangement is no different than checking or unchecking the &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Hidden&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; box in a style.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081259Z" creationid="Franklin Weng" creationdate="20180414T081259Z">
+        <seg>另外，用來控制內容版本的條件也可以改用版本名稱，例如「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;使用者指南&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;之類的。&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;這樣做跟在樣式裡用「 &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;隱藏&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;」方塊是一樣的。&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31129,6 +31177,14 @@ Franklin: 猜測如上</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, you will &lt;f2&gt;be lucky to&lt;/f2&gt; find the hidden text or paragraphs.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T080257Z" creationid="Franklin Weng" creationdate="20180414T080257Z">
+        <seg>不然，你就只好祈禱&lt;f2&gt;夠幸運&lt;/f2&gt;可以找到隱藏的文字或段落了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, you will have to set tabs separately for each paragraph style.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180313T142554Z" creationid="MarkHung" creationdate="20180224T041722Z">
@@ -37512,6 +37568,14 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields used for single-sourcing use an off or on condition for hiding and unhiding.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T080647Z" creationid="Franklin Weng" creationdate="20180414T080336Z">
+        <seg>在多版本單一文件中使用的欄位，會用一個「開關」條件來隱藏或顯示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filter to refine the condition.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180325T132338Z" creationid="Franklin Weng" creationdate="20180215T073943Z">
@@ -43192,6 +43256,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180302T130258Z" creationid="zerng07" creationdate="20180302T130258Z">
         <seg>當一個建構方塊被選取後，在&lt;f0&gt;結構&lt;/f0&gt;欄位中看起來就像沉下去一樣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a condition is set to &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, then the content is shown, creating a second version.</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081102Z" creationid="Franklin Weng" creationdate="20180414T081102Z">
+        <seg>而條件設為 &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;1&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; 時則內容就會顯示，成為文件的第二種版本。</seg>
       </tuv>
     </tu>
     <tu>
