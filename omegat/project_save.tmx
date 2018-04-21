@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T060635Z" creationid="franklin" creationdate="20180421T060635Z">
+        <seg>&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;&lt;/f9&gt;Use the file manager to select the file for the background.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180126T095428Z" creationid="Franklin Weng" creationdate="20180114T140955Z">
@@ -1231,8 +1239,8 @@
       <tuv lang="EN">
         <seg>&lt;/f5&gt;Usually, these can be set to zero, since headers and footers &lt;f6&gt;are rarely&lt;/f6&gt; indented more than the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T124518Z" creationid="Jeff Huang" creationdate="20180127T023457Z">
-        <seg>&lt;/f5&gt;一般來說，這些數值都可以設為零，因為頁首與頁尾&lt;f6&gt;很少見&lt;/f6&gt;需要比內文更多的縮排。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T060921Z" creationid="Jeff Huang" creationdate="20180127T023457Z">
+        <seg>&lt;/f5&gt;一般來說，這些數值都可以設為零，因為頁首與頁尾&lt;f6&gt;很少&lt;/f6&gt;需要比內文更多的縮排。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,8 +5529,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;ost of the time, you can also forget anything more than a single line between the header and the footer and the page’s main text frame – and even that line should be set to the thinnest setting possible, although you might choose to color it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132344Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
-        <seg>在大多數情況下，你可以把頁首頁尾和頁面主文字框之間放一條線以外的任何做法都忘記。還有就算你會為這條線加上顏色，也都要讓那條線盡可能設成最短的高度這點，也都一起忘掉吧。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T061428Z" creationid="Jeff Huang" creationdate="20180127T031519Z">
+        <seg>在大多數情況下，頁首頁尾和頁面主文字框之間放一條線是最常見的做法，把其他的任何做法都忘掉吧！包括不管要不要改變那條線的顏色，都應該把那條線設定成最細的寬度這件事，也都一起忘掉吧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21591,12 +21599,13 @@ Franklin: 頁數修改注意</note>
       </tuv>
     </tu>
     <tu>
-      <note>我真的找不到這個東西......被放到別的地方去了？</note>
+      <note>我真的找不到這個東西......被放到別的地方去了？
+Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>From &lt;f0&gt;Tools &gt; Outline Numbering &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Numbering&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;,&lt;/f3&gt; assign the &lt;f4&gt;paragraph &lt;/f4&gt;style you are using to &lt;f5&gt;an outline level if you have not already done so..&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T143742Z" creationid="Jeff Huang" creationdate="20180127T135012Z">
-        <seg>從&lt;f0&gt;「工具 &gt; 大綱編號 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;」將&lt;f4&gt;這個段落&lt;/f4&gt;樣式&lt;f5&gt;指派個大綱層級，如果你還沒這樣做過的話。（經查 5.4 以後已經拿掉了，所以只剩下預設用「標題1」這類自帶大綱層級的做法，要改寫囉～）&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T062258Z" creationid="Jeff Huang" creationdate="20180127T135012Z">
+        <seg>從&lt;f0&gt;「工具 &gt; 大綱編號 &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編號&lt;/f2&gt;&lt;/f1&gt;」將&lt;f4&gt;這個段落&lt;/f4&gt;樣式&lt;f5&gt;指派個大綱層級，如果你還沒這樣做過的話。【經查 5.4 以後已經拿掉了，所以只剩下預設用「標題1」這類自帶大綱層級的做法，要改寫囉～    Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？】&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26249,8 +26258,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>In fact, &lt;f0&gt;you might manage without even a thin line if the space to the body text is large enough and the font used in the header or footer is different from the body text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132459Z" creationid="Jeff Huang" creationdate="20180127T032224Z">
-        <seg>實際上，&lt;f0&gt;如果頁首頁尾和內文之間的間距夠大，而且頁首與頁尾和正文所用的字型有區別開來的話，也就不需要加這條細線了。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T061451Z" creationid="Jeff Huang" creationdate="20180127T032224Z">
+        <seg>實際上，&lt;f0&gt;如果頁首頁尾和內文之間的間距夠大，而且頁首與頁尾和正文所用的字型有區別開來的話，是不需要加這條細線的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33230,8 +33239,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>See “&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;Adding header and footer paragraph styles&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;,” page &lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;1&lt;/bf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Jeff Huang" changedate="20180127T133913Z" creationid="Jeff Huang" creationdate="20180127T133913Z">
-        <seg>請見「&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;新增頁首與頁尾段落樣式&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;」第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;1&lt;/bf6&gt;&lt;/f5&gt;頁&lt;f7&gt;。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T061726Z" creationid="Jeff Huang" creationdate="20180127T133913Z">
+        <seg>請見「&lt;/f1&gt;&lt;f2&gt;&lt;bf3&gt;新增頁首與頁尾段落樣式&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;」第&lt;/f4&gt;&lt;f5&gt;&lt;bf6&gt;????&lt;/bf6&gt;&lt;/f5&gt;頁&lt;f7&gt;。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
