@@ -42074,11 +42074,12 @@ Franklin: condensed 參考第九章</note>
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 修改「文本」說法</note>
       <tuv lang="EN">
         <seg>Traditionally, a document’s first page is a &lt;f0&gt;r&lt;/f0&gt;ight page, modified to make clear that it is the start.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T142545Z" creationid="Jeff Huang" creationdate="20180124T092229Z">
-        <seg>傳統上，左翻文本的第一頁在右頁，右翻文本則從左頁開始。修改成書本檢視後，就很清楚文本起頭的頁面了。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T031714Z" creationid="Jeff Huang" creationdate="20180124T092229Z">
+        <seg>傳統上，如果是橫書的文件，第一頁會在右頁；直書的文件（如中日文），第一頁則從左頁開始。修改成書本檢視後，就很清楚文件起頭的頁面了。</seg>
       </tuv>
     </tu>
     <tu>
