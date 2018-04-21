@@ -12235,8 +12235,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A drop capital of a single letter or a string of characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053924Z" creationid="Jeff Huang" creationdate="20180125T035218Z">
-        <seg>單一個字的首字大寫，或首字母放大。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054058Z" creationid="Jeff Huang" creationdate="20180125T035218Z">
+        <seg>第一個單字，或第一個單字的首字母大寫並放大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17308,8 +17308,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Common tactics for indicating a first page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113304Z" creationid="Jeff Huang" creationdate="20180125T035354Z">
-        <seg>第一頁常用的指示策略。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054123Z" creationid="Jeff Huang" creationdate="20180125T035354Z">
+        <seg>在第一頁常用的指示策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37666,8 +37666,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The default page size is usually determined by your locale, and should be changed as necessary for your &lt;f0&gt;needs or &lt;/f0&gt;printer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113510Z" creationid="Jeff Huang" creationdate="20180125T091615Z">
-        <seg>預設頁面大小通常取決於您的語言和地區文化，並可視你的&lt;f0&gt;需求或&lt;/f0&gt;印表機修改。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054234Z" creationid="Jeff Huang" creationdate="20180125T091615Z">
+        <seg>預設頁面大小通常取決於您的語言和地區文化，並可視你或印表機的&lt;f0&gt;需求&lt;/f0&gt;修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40720,8 +40720,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>This indicator is common in fiction.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T143212Z" creationid="Jeff Huang" creationdate="20180125T035235Z">
-        <seg>這種指示做法在小說中很常見。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054102Z" creationid="Jeff Huang" creationdate="20180125T035235Z">
+        <seg>這種做法在小說中很常見。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43454,6 +43454,7 @@ Franklin: condensed 參考第九章</note>
       </tuv>
     </tu>
     <tu>
+      <note>奇怪的句子</note>
       <tuv lang="EN">
         <seg>Usually, however, the indicators are more obvious:&lt;/f2&gt;</seg>
       </tuv>
