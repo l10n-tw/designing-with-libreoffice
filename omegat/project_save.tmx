@@ -1756,8 +1756,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A top margin that is 76&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt;230 points taller than the top margin on a normal right page&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112836Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
-        <seg>&lt;f0&gt;頁面的上邊距會比一般的右頁還要高76&lt;/f0&gt;至&lt;f2&gt;230點。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053447Z" creationid="Jeff Huang" creationdate="20180125T033809Z">
+        <seg>&lt;f0&gt;頁面的上邊距比一般的右頁還要高76&lt;/f0&gt;&lt;f1&gt;至&lt;/f1&gt;&lt;f2&gt;230點。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7114,8 +7114,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes, the main indicator of a first page may be a different header or footer from the rest of the pages &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; or perhaps the only ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T052457Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
-        <seg>&lt;f0&gt;有時候，第一頁的主要指示符可能是使用和其餘頁面—或可能是唯一的頁面—不同的頁首或頁尾&lt;/f0&gt;&lt;f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053431Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
+        <seg>&lt;f0&gt;有時候，第一頁的主要指示符可能是使用和其餘頁面—或可能是唯一的頁面&lt;f1&gt;—&lt;/f1&gt;不同的頁首或頁尾&lt;/f0&gt;&lt;f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12074,8 +12074,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A chapter title and/or number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180205T032804Z" creationid="Jeff Huang" creationdate="20180125T033836Z">
-        <seg>章名和或章號。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053516Z" creationid="Jeff Huang" creationdate="20180125T033836Z">
+        <seg>一章的標題或編號。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14073,8 +14073,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An image or a dingbat, either above the text or in a text frame at the start of the first paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113011Z" creationid="Jeff Huang" creationdate="20180125T035125Z">
-        <seg>在文字上方或第一段開頭處的文字框架中，可能會放個圖片或是雜錦圖。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053702Z" creationid="Jeff Huang" creationdate="20180125T035125Z">
+        <seg>在第一段開頭處，文字的上方或是文字內放入圖片或是雜錦圖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39557,8 +39557,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The titles may be in one or two styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T112910Z" creationid="Jeff Huang" creationdate="20180125T035003Z">
-        <seg>章名可能會有一種或兩種樣式。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053525Z" creationid="Jeff Huang" creationdate="20180125T035003Z">
+        <seg>一章的標題可能會有一種或兩種樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43457,8 +43457,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Usually, however, the indicators are more obvious:&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053230Z" creationid="Jeff Huang" creationdate="20180125T033100Z">
-        <seg>不過，指標會更明顯：&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053454Z" creationid="Jeff Huang" creationdate="20180125T033100Z">
+        <seg>不過，通常在下面情況的指示符會更明顯：&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
