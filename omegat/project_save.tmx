@@ -13551,8 +13551,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>All page format&lt;f0&gt;s&lt;/f0&gt; assume a single sheet of paper.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T114119Z" creationid="Jeff Huang" creationdate="20180125T125221Z">
-        <seg>所有的頁面格式都假定使用單張的紙張。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054553Z" creationid="Jeff Huang" creationdate="20180125T125221Z">
+        <seg>所有的頁面格式都假設只有一個紙匣。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32567,8 +32567,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Regardless of the page size, the standard orientation is portrait (taller than wide).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113647Z" creationid="Jeff Huang" creationdate="20180125T091915Z">
-        <seg>無論頁面大小為何，一般標準的紙張方向都是縱向（長度大於寬度）。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054302Z" creationid="Jeff Huang" creationdate="20180125T091915Z">
+        <seg>無論頁面大小為何，一般標準的紙張方向都是縱向（高度大於寬度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34927,8 +34927,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Some printers may not &lt;t0/&gt;print non-standard dimensions at all from LibreOffice, but will support printing if you first &lt;f1&gt;ex&lt;/f1&gt;port the document to PDF, &lt;f2&gt;especially if they support PostScript format.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T143515Z" creationid="Jeff Huang" creationdate="20180125T125045Z">
-        <seg>有些印標機可能真的無法從LibreOffice列印非標準的尺寸，但如果你先將文件匯出成PDF檔後卻可能有支援，&lt;f2&gt;尤其是印表機有支援PostScript格式的時候。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054441Z" creationid="Jeff Huang" creationdate="20180125T125045Z">
+        <seg>有些印表機可能真的無法從LibreOffice列印非標準的尺寸，但你可以試試先將文件匯出成PDF檔後再列印，可能可以支援，&lt;f2&gt;尤其是印表機有支援PostScript格式的時候。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37200,8 +37200,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The alternative is landscape (wider than tall).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T113732Z" creationid="Jeff Huang" creationdate="20180125T091936Z">
-        <seg>替代方案則是橫向（寬度大於長度）。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T054307Z" creationid="Jeff Huang" creationdate="20180125T091936Z">
+        <seg>替代方案則是橫向（寬度大於高度）。</seg>
       </tuv>
     </tu>
     <tu>
