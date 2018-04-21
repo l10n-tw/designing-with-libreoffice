@@ -1860,8 +1860,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A&lt;/f0&gt;nchor the image in the header &lt;f1&gt;or footer&lt;/f1&gt;, but place &lt;f2&gt;the image&lt;/f2&gt; outside the header &lt;f3&gt;or footer,&lt;/f3&gt; &lt;f4&gt;setting the anchor to &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;As Paragraph&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; or &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;As Character.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; You can then position the image anywhere on the page, and it will be repeated each time the page style is used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180213T032101Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
-        <seg>將圖片錨定在頁首&lt;f1&gt;或頁尾&lt;/f1&gt;中，但把&lt;f2&gt;圖片&lt;/f2&gt;放在頁首&lt;f3&gt;頁尾文字區塊以外，&lt;/f3&gt;&lt;f4&gt;設定錨定為「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;至段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」或「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;作為字元&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」（經過測試，在LibreOffice 5.4以後，要先「編排 &gt; 移到最上層」，否則只要把圖片放到頁首或頁尾區塊，你就點不到了… 就算用「助手」也只能編輯內容，無法移動它。還有，錨定也沒有「作為段落」這個選項應該是手誤，已確認改成「至段落」可以重複出現。這個部分還要改寫）。然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T063046Z" creationid="Jeff Huang" creationdate="20180130T061252Z">
+        <seg>將圖片錨定在頁首&lt;f1&gt;或頁尾&lt;/f1&gt;中，但把&lt;f2&gt;圖片&lt;/f2&gt;放在頁首&lt;f3&gt;頁尾文字區塊以外，&lt;/f3&gt;&lt;f4&gt;設定錨定為「&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;至段落&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;」或「&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;作為字元&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;」【經過測試，在LibreOffice 5.4以後，要先「編排 &gt; 移到最上層」，否則只要把圖片放到頁首或頁尾區塊，你就點不到了… 就算用「助手」也只能編輯內容，無法移動它。還有，錨定也沒有「作為段落」這個選項應該是手誤，已確認改成「至段落」可以重複出現。這個部分還要改寫】。然後你就可以將圖片置於頁面上的任意一處，且其將會在每次使用頁面樣式時重覆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9099,8 +9099,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Y&lt;/f0&gt;ou might &lt;f1&gt;also &lt;/f1&gt;choose vertical headers and footers on portrait pages (ones taller than they are wide) to give a novel effect.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T144921Z" creationid="Jeff Huang" creationdate="20180128T035746Z">
-        <seg>你可能&lt;f1&gt;也&lt;/f1&gt;會在縱向頁面（長度比寬度大的頁面）選擇垂直的頁首與頁尾來製造新穎的效果。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T062429Z" creationid="Jeff Huang" creationdate="20180128T035746Z">
+        <seg>你可能&lt;f1&gt;也&lt;/f1&gt;會在縱向頁面（高度比寬度大的頁面）選擇垂直的頁首與頁尾來製造新穎的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21514,8 +21514,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fortunately, this is exactly what the &lt;f0&gt;Column&lt;/f0&gt; tab assumes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180204T155544Z" creationid="Jeff Huang" creationdate="20180129T095609Z">
-        <seg>幸運的是，這正是「&lt;f0&gt;多欄&lt;/f0&gt;」標籤頁原本的假設。（不，現在測試 5.4 以後都沒有假定 4-5 欄了，設定成10欄都行，要改寫。）</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T062722Z" creationid="Jeff Huang" creationdate="20180129T095609Z">
+        <seg>幸運的是，這正是「&lt;f0&gt;多欄&lt;/f0&gt;」標籤頁原本的假設。【不，現在測試 5.4 以後都沒有假定 4-5 欄了，設定成10欄都行，要改寫。】</seg>
       </tuv>
     </tu>
     <tu>
@@ -23908,8 +23908,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, you may find that on landscape pages (ones wider than they are tall) that &lt;f0&gt;the&lt;/f0&gt; length &lt;f1&gt;of headings and footers &lt;/f1&gt;makes for difficult reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T144836Z" creationid="Jeff Huang" creationdate="20180128T035358Z">
-        <seg>不過你可能會發現橫向頁面（寬度比長度大的頁面）中，&lt;f1&gt;頁首與頁尾&lt;/f1&gt;的長度讓閱讀極為困難。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T062423Z" creationid="Jeff Huang" creationdate="20180128T035358Z">
+        <seg>不過你可能會發現橫向頁面（寬度比高度大的頁面）中，&lt;f1&gt;頁首與頁尾&lt;/f1&gt;的長度讓閱讀極為困難。</seg>
       </tuv>
     </tu>
     <tu>
