@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T074809Z" creationid="franklin" creationdate="20180424T074809Z">
+        <seg>1&lt;f0&gt;1&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1&lt;f0&gt;2&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180106T120521Z" creationid="Franklin Weng" creationdate="20180106T120521Z">
@@ -16240,8 +16248,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By default, each &lt;f0&gt;o&lt;/f0&gt;utline &lt;f1&gt;l&lt;/f1&gt;evel is assigned a &lt;f2&gt;h&lt;/f2&gt;eading paragraph style, with&lt;f3&gt; He&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;a&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;ding 1&lt;/f6&gt; assigned to outline &lt;f7&gt;&lt;f8&gt;L&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;evel 1, &lt;/f9&gt;and so on &lt;f10&gt;with each heading style corresponding to the same outline level.&lt;/f10&gt; &lt;t11/&gt;However, &lt;f12&gt;what most users never notice is that &lt;/f12&gt;you &lt;f13&gt;can &lt;/f13&gt;assign &lt;f14&gt;any other&lt;/f14&gt; paragraph style to an&lt;f15&gt;y&lt;/f15&gt; outline level,&lt;f16&gt; by using the &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;Outline level &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;field on the &lt;/f19&gt;&lt;f20&gt;&lt;f21&gt;Outline &amp; Numbering&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; tab for a paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075554Z" creationid="zerng07" creationdate="20180224T144803Z">
-        <seg>預設情況下，各大綱層級會對應到各個標題段落樣式，像是「&lt;f3&gt; 標題&lt;/f3&gt;&lt;f6&gt; 1&lt;/f6&gt;」指派給「&lt;f9&gt;層級 1&lt;/f9&gt;」……依此類推。&lt;f10&gt;各標題樣式對應到同等的大綱層級。&lt;/f10&gt;然而，&lt;f12&gt;大多數使用者都未曾注意過，其實&lt;/f12&gt;你&lt;f13&gt;可以&lt;/f13&gt;將&lt;f14&gt;任何其他&lt;/f14&gt;段落樣式指派給任意的大綱層級，&lt;f16&gt;只要在任一段落樣式「&lt;/f16&gt;&lt;f20&gt;&lt;f21&gt;大綱與編號&lt;/f21&gt;&lt;/f20&gt;」標籤頁中的「&lt;f17&gt;&lt;f18&gt;大綱層級&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;」欄位做設定即可&lt;/f19&gt;&lt;f22&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T075852Z" creationid="zerng07" creationdate="20180224T144803Z">
+        <seg>預設情況下，各大綱層級會對應到各個標題段落樣式，像是「&lt;f3&gt; 標題&lt;/f3&gt;&lt;f6&gt; 1&lt;/f6&gt;」指派給「&lt;f9&gt;層級 1&lt;/f9&gt;」……依此類推，&lt;f10&gt;將各標題樣式對應到同等的大綱層級。&lt;/f10&gt;然而，&lt;f12&gt;大多數使用者都沒注意過的是，其實&lt;/f12&gt;你&lt;f13&gt;可以&lt;/f13&gt;將&lt;f14&gt;任何其他&lt;/f14&gt;段落樣式指派給任意的大綱層級，&lt;f16&gt;只要在任一段落樣式「&lt;/f16&gt;&lt;f20&gt;&lt;f21&gt;大綱與編號&lt;/f21&gt;&lt;/f20&gt;」標籤頁中的「&lt;f17&gt;&lt;f18&gt;大綱層級&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;」欄位做設定即可&lt;/f19&gt;&lt;f22&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23740,8 +23748,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, without &lt;f0&gt;styles&lt;/f0&gt;, such features &lt;f1&gt;are so much more laborious that doing them manually is a waste of time, except in a few cases where they are unavoidable.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T075118Z" creationid="zerng07" creationdate="20180220T095453Z">
-        <seg>不過，一旦沒了&lt;f0&gt;樣式&lt;/f0&gt;，這些功能手動做起來&lt;f1&gt;不僅更加吃力，也更浪費時間；請只在少數沒有辦法避免的狀況下才這麼做。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T075300Z" creationid="zerng07" creationdate="20180220T095453Z">
+        <seg>不過，一旦沒了&lt;f0&gt;樣式&lt;/f0&gt;，這些功能手動做起來&lt;f1&gt;不僅更加吃力，也更浪費時間；所以只有在沒有辦法避免的狀況下，才來考慮手動製作。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25128,8 +25136,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If you have noticed &lt;f0&gt;Tools &gt; Outline Numbering,&lt;/f0&gt; you may have assumed that it is a manual method of creating outlines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144834Z" creationid="zerng07" creationdate="20180224T144137Z">
-        <seg>如果你曾注意過「&lt;f0&gt;工具 &gt; 章節標號&lt;/f0&gt;」（5.4 和 6.0 稱為「章節標號」喔），可能會以為它是拿來標示章節號碼用的。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T075551Z" creationid="zerng07" creationdate="20180224T144137Z">
+        <seg>如果你曾注意過「&lt;f0&gt;工具 &gt; 章節標號&lt;/f0&gt;」（5.4 以前的版本譯為「大綱編號」），可能會以為它是拿來標示章節號碼用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25913,8 +25921,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>In Writer, paragraph styles also make advanced features more efficient, especially in academic and formal documents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180220T094832Z" creationid="zerng07" creationdate="20180220T094832Z">
-        <seg>在Writer中，段落樣式也讓進階功能更加有效率，尤其對於學術文件或正式文件這類嚴格要求文書格式的更是如此。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T075036Z" creationid="zerng07" creationdate="20180220T094832Z">
+        <seg>在Writer中，段落樣式也讓進階功能更加有效率，尤其對於學術或正式文件這類嚴格要求文書格式的文件更是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36587,8 +36595,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Outline Numbering&lt;/f0&gt; dialog &lt;f1&gt;window&lt;/f1&gt; is used for more than just formatting outlines.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144855Z" creationid="zerng07" creationdate="20180224T144243Z">
-        <seg>「&lt;f0&gt;章節標號&lt;/f0&gt;」對話&lt;f1&gt;視窗&lt;/f1&gt;可不只能標示章節號碼。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T075625Z" creationid="zerng07" creationdate="20180224T144243Z">
+        <seg>「&lt;f0&gt;章節標號&lt;/f0&gt;」對話&lt;f1&gt;視窗&lt;/f1&gt;並不只是用來標示章節號碼而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40247,8 +40255,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These styles are picked up by other Writer tools to simplify your work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180224T144947Z" creationid="zerng07" creationdate="20180224T144446Z">
-        <seg>這些樣式可由其他Writer工具取用而得以簡化你的工作。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T075656Z" creationid="zerng07" creationdate="20180224T144446Z">
+        <seg>這些樣式可由其他Writer工具取用，以便簡化你的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44506,8 +44514,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>While you are designing, styles &lt;f0&gt;constantly &lt;/f0&gt;prove &lt;f1&gt;their worth&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T074954Z" creationid="zerng07" creationdate="20180213T104326Z">
-        <seg>在你的設計期間，樣式&lt;f0&gt;不斷&lt;/f0&gt;證明&lt;f1&gt;其價值&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180424T074942Z" creationid="zerng07" creationdate="20180213T104326Z">
+        <seg>在你設計的期間，你可以看到樣式&lt;f0&gt;不斷&lt;/f0&gt;地證明&lt;f1&gt;它的價值&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
