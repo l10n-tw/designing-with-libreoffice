@@ -8703,8 +8703,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Use the same template to create the master document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124100Z" creationid="zerng07" creationdate="20180309T124100Z">
-        <seg>&lt;f0&gt;請使用相同的範本製作主控文件。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T095004Z" creationid="zerng07" creationdate="20180309T124100Z">
+        <seg>&lt;f0&gt;所以請使用相同的範本製作主控文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11008,8 +11008,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;You can create master documents from sub-documents with different templates, but you might have formatting problems.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T124037Z" creationid="zerng07" creationdate="20180309T124037Z">
-        <seg>&lt;f2&gt;你可以拿不同範本的子文件做成主控文件，但你或許會遇到格式設定問題。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T094947Z" creationid="zerng07" creationdate="20180309T124037Z">
+        <seg>&lt;f2&gt;你可以拿不同範本的子文件做成主控文件，但有可能會遇到格式設定問題。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18794,8 +18794,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not uses spaces to add another page, or you may run into difficulties.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T140312Z" creationid="zerng07" creationdate="20180309T135703Z">
-        <seg>但不要利用空格新增其他頁面，否則你可能會遇到一些麻煩。（？？？蛤，所以是可以加空白文字換到右頁去，但不可以弄出新一頁的空白頁的意思嗎？）&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T094915Z" creationid="zerng07" creationdate="20180309T135703Z">
+        <seg>但不要利用空格新增其他頁面，否則你可能會遇到一些麻煩。【【（？？？蛤，所以是可以加空白文字換到右頁去，但不可以弄出新一頁的空白頁的意思嗎？）】我也不懂，問作者吧】&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
