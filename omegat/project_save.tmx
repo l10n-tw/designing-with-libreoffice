@@ -9994,11 +9994,12 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
     </tu>
     <tu>
+      <note>義大利體？義式斜體？</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;The book titles use a character style so they appear in italics.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T113956Z" creationid="zerng07" creationdate="20180304T113956Z">
-        <seg>&lt;f1&gt;書名遵循西方排印傳統，採義大利體字元樣式。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092740Z" creationid="zerng07" creationdate="20180304T113956Z">
+        <seg>&lt;f1&gt;書名遵循西方排印傳統，採【【義大利體】】義式斜體字元樣式。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12792,6 +12793,22 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084355Z" creationid="Franklin Weng" creationdate="20180414T084355Z">
         <seg>「&lt;f2&gt;條件式文字&lt;/f2&gt;」欄位類似段落樣式中「&lt;f4&gt;字型效果&lt;/f4&gt;」標籤頁裡的「&lt;f3&gt;隱藏&lt;/f3&gt;」選項。&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AMA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092949Z" creationid="franklin" creationdate="20180428T092949Z">
+        <seg>AMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>APA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092925Z" creationid="franklin" creationdate="20180428T092925Z">
+        <seg>APA</seg>
       </tuv>
     </tu>
     <tu>
@@ -16844,6 +16861,14 @@ Franklin: 頁數修改注意</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20171219T075627Z" creationid="Jeff Huang" creationdate="20171213T030010Z">
         <seg>檢查拼字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chicago</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092934Z" creationid="franklin" creationdate="20180428T092934Z">
+        <seg>Chicago</seg>
       </tuv>
     </tu>
     <tu>
@@ -28773,6 +28798,22 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MLA</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092930Z" creationid="franklin" creationdate="20180428T092930Z">
+        <seg>MLA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macaw;Ara;Parrots;;0;0</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092411Z" creationid="franklin" creationdate="20180428T092411Z">
+        <seg>Macaw;Ara;Parrots;;0;0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maintaining two copies of the same document in a single file is as easy as toggling on or off the &lt;f0&gt;Hidden&lt;/f0&gt; box &lt;f1&gt;at the bottom left of&lt;/f1&gt; the &lt;f2&gt;Font Effect&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s&lt;/f4&gt;&lt;/f3&gt; tab.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130843Z" creationid="Franklin Weng" creationdate="20180406T130843Z">
@@ -37482,8 +37523,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The chapter number building block can only be used in the top level entry in the table of contents.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180322T065339Z" creationid="zerng07" creationdate="20180303T131629Z">
-        <seg>章節號的建構方塊僅可用在目次的最上層條目。</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092103Z" creationid="zerng07" creationdate="20180303T131629Z">
+        <seg>章節號的建構方塊只能用在目次的最上層條目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42189,6 +42230,14 @@ Franklin: condensed 參考第九章</note>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Turabian</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092945Z" creationid="franklin" creationdate="20180428T092945Z">
+        <seg>Turabian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turabian: A variation of the Chicago style for general use by university students.</seg>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180304T145431Z" creationid="zerng07" creationdate="20180304T145431Z">
@@ -42297,6 +42346,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180119T162413Z" creationid="Franklin Weng" creationdate="20180105T140317Z">
         <seg>在字體排印學中，行距的實際英文用語是「Leading」，源自於過去活字排版印刷時代，師傅將金屬片（一般是鉛片，Lead 也有「鉛」的意思）插入文字行與行之間的動作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T092930Z" creationid="franklin" creationdate="20180428T092930Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -45213,11 +45270,12 @@ Franklin: condensed 參考第九章</note>
       </tuv>
     </tu>
     <tu>
+      <note>Franklin: 這應該跟「單一文件多版本」類似。</note>
       <tuv lang="EN">
         <seg>You can add all the files for all the &lt;f1&gt;sub-&lt;/f1&gt;documents, then hide or unhide individual sections.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180312T083303Z" creationid="zerng07" creationdate="20180309T114714Z">
-        <seg>你可以為所有的子文件加入所有檔案，接著隱藏個別區段或取消隱藏？？（不明究理，請求協助～）</seg>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T093234Z" creationid="zerng07" creationdate="20180309T114714Z">
+        <seg>你可以加入子文件的所有檔案，然後選擇隱藏或顯示個別區段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46937,6 +46995,14 @@ Franklin: condensed 參考第九章</note>
       </tuv>
       <tuv lang="ZH-TW" changeid="zerng07" changedate="20180309T085004Z" creationid="zerng07" creationdate="20180309T085004Z">
         <seg>題名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>–</seg>
+      </tuv>
+      <tuv lang="ZH-TW" changeid="franklin" changedate="20180428T093002Z" creationid="franklin" creationdate="20180428T093002Z">
+        <seg>–</seg>
       </tuv>
     </tu>
     <tu>
