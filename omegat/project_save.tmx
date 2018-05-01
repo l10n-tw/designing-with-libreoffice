@@ -3921,12 +3921,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
-      <note>無視 &lt;f0&gt; 標籤</note>
+      <note>無視 &lt;f3&gt; 標籤</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, the font effect &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sounds minor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002532Z" creationid="Ｖ字龍" creationdate="20180217T075100Z">
-        <seg>例如「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」這個字型效果看起來聽起來可能微不足道。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T094223Z" creationid="Ｖ字龍" creationdate="20180217T075100Z">
+        <seg>&lt;f0&gt;例如，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」這個字型效果聽起來大概沒有什麼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45072,8 +45072,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Yet in one unimportant-looking toggle switch, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hide&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; provides an elegant solution for one of the most difficult tasks for professional documenters – maintaining multiple versions of the same document in a single file.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121405Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
-        <seg>但在一個看似不重要的開關底下，「&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;」提供了一個優雅的解決方案，解決對於職業文書人員來說其中一個最困難的差事—在同一個檔案中維護同一份文件的多個版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T094805Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
+        <seg>雖然只是看似不怎麼重要的選項開關，「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;」卻可為職業文書人員以優雅的方式解決一件最困難的差事——在同一個檔案中維護同一份文件的多種版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45144,8 +45144,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You &lt;f0&gt;will rarely use&lt;/f0&gt; these features all the time, &lt;f1&gt;nor all of them&lt;/f1&gt; &lt;f2&gt;at once.&lt;/f2&gt; &lt;f3&gt;However, &lt;/f3&gt;knowing what is available can help you to design your documents more intelligently and to work more &lt;f4&gt;efficiently&lt;/f4&gt; when you write.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121009Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
-        <seg>你大部份時間都&lt;f0&gt;幾乎不會&lt;/f0&gt;使用這些功能，&lt;f1&gt;也不會全部&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;都用上。&lt;f3&gt;但是&lt;/f3&gt;知道什麼功能是可用的，可以幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T094058Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
+        <seg>你大部份情況都&lt;f0&gt;幾乎不會&lt;/f0&gt;用到這些功能，&lt;f1&gt;也更不會&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;全部用上。&lt;f3&gt;但是&lt;/f3&gt;，知道什麼功能是可以利用的，能幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
       </tuv>
     </tu>
     <tu>
