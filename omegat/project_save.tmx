@@ -7130,8 +7130,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes, the main indicator of a first page may be a different header or footer from the rest of the pages &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; or perhaps the only ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053431Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
-        <seg>&lt;f0&gt;有時候，第一頁的主要指示符可能是使用和其餘頁面—或可能是唯一的頁面&lt;f1&gt;—&lt;/f1&gt;不同的頁首或頁尾&lt;/f0&gt;&lt;f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110326Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
+        <seg>&lt;f0&gt;有時候，第一頁的主要指示符可能是使用和其餘頁面—或可能是唯一的頁面&lt;/f0&gt;&lt;f1&gt;—&lt;/f1&gt;不同的頁首或頁尾&lt;f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35735,8 +35735,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;f0&gt;he same is often true for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Background&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, except for the most delicate difference in shading between the page and the header and the footer, or if the only point of the header or footer is to add a graphic in the same place on every page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132630Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
-        <seg>而「&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;對話視窗一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才需要使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110405Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
+        <seg>&lt;f0&gt;而「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」對話視窗一般也是如此&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才需要使用。</seg>
       </tuv>
     </tu>
     <tu>
