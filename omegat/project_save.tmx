@@ -3199,16 +3199,16 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create&lt;/f0&gt; one set of character and paragraph styles for text that appears in all versions of the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111335Z" creationid="Franklin Weng" creationdate="20180408T111158Z">
-        <seg>&lt;f0&gt;為文件的所有版本都會出現的文字單獨建立一組字元與段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111534Z" creationid="Franklin Weng" creationdate="20180408T111158Z">
+        <seg>&lt;f0&gt;為文件的所有版本都會出現的文字單獨建立一組字元與段落樣式。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create&lt;/f0&gt; the common styles needed for each version of the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111436Z" creationid="Franklin Weng" creationdate="20180408T111301Z">
-        <seg>&lt;f0&gt;建立每個版本的文字都會用到的共用樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111538Z" creationid="Franklin Weng" creationdate="20180408T111301Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;建立每個版本的文字都會用到的共用樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11811,8 +11811,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;t0&gt;32&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045149Z" creationid="MarkHung" creationdate="20180224T045149Z">
-        <seg>32</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111142Z" creationid="MarkHung" creationdate="20180224T045149Z">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37942,8 +37942,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The easiest way to find the values is to use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Track Changes &gt; Manage Changes,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; especially when the document is complete and the only changes you are marking are hiding or showing different versions.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092450Z" creationid="Franklin Weng" creationdate="20180414T092450Z">
-        <seg>最容易找到值的方式是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 追蹤修訂 &gt; 管理&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，特別是當文件已完成，而你只是要改變隱藏或顯示來產生不同版本時，這樣非常方便。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111713Z" creationid="Franklin Weng" creationdate="20180414T092450Z">
+        <seg>最容易找到值的方式是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 追蹤修訂 &gt; 管理&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，特別是當文件已完成，而你只是要改變隱藏或顯示來產生不同版本時，這樣非常方便。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45619,8 +45619,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111047Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
-        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111418Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
+        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
