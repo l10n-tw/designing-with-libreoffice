@@ -3199,16 +3199,16 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create&lt;/f0&gt; one set of character and paragraph styles for text that appears in all versions of the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111335Z" creationid="Franklin Weng" creationdate="20180408T111158Z">
-        <seg>&lt;f0&gt;為文件的所有版本都會出現的文字單獨建立一組字元與段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111534Z" creationid="Franklin Weng" creationdate="20180408T111158Z">
+        <seg>&lt;f0&gt;為文件的所有版本都會出現的文字單獨建立一組字元與段落樣式。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Create&lt;/f0&gt; the common styles needed for each version of the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111436Z" creationid="Franklin Weng" creationdate="20180408T111301Z">
-        <seg>&lt;f0&gt;建立每個版本的文字都會用到的共用樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111538Z" creationid="Franklin Weng" creationdate="20180408T111301Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;建立每個版本的文字都會用到的共用樣式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3921,12 +3921,12 @@ Franklin: 應是原文有誤。多出來的</note>
       </tuv>
     </tu>
     <tu>
-      <note>無視 &lt;f0&gt; 標籤</note>
+      <note>無視 &lt;f3&gt; 標籤</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example, the font effect &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hide&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sounds minor.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002532Z" creationid="Ｖ字龍" creationdate="20180217T075100Z">
-        <seg>例如「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」這個字型效果看起來聽起來可能微不足道。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T094223Z" creationid="Ｖ字龍" creationdate="20180217T075100Z">
+        <seg>&lt;f0&gt;例如，「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」這個字型效果聽起來大概沒有什麼。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,8 +7130,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sometimes, the main indicator of a first page may be a different header or footer from the rest of the pages &lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;&lt;f2&gt; or perhaps the only ones.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180421T053431Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
-        <seg>&lt;f0&gt;有時候，第一頁的主要指示符可能是使用和其餘頁面—或可能是唯一的頁面&lt;f1&gt;—&lt;/f1&gt;不同的頁首或頁尾&lt;/f0&gt;&lt;f2&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110326Z" creationid="Jeff Huang" creationdate="20180125T033031Z">
+        <seg>&lt;f0&gt;有時候，第一頁的主要指示符可能是使用和其餘頁面—或可能是唯一的頁面&lt;/f0&gt;&lt;f1&gt;—&lt;/f1&gt;不同的頁首或頁尾&lt;f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9132,8 +9132,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Yet despite these efforts&lt;/f0&gt;, the basic logic of associating such features with pages &lt;f1&gt;remains strong&lt;/f1&gt; despite its unfamiliarity.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T081015Z" creationid="Jeff Huang" creationdate="20180124T090412Z">
-        <seg>&lt;f0&gt;先不管LibreOffice對頁面樣式做的這些努力&lt;/f0&gt;，儘管大家對頁碼頁首頁尾等還不熟悉，但這些功能和頁面之間有所關聯的基本邏輯依然確實存在。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110638Z" creationid="Jeff Huang" creationdate="20180124T090412Z">
+        <seg>&lt;f0&gt;先不管LibreOffice對頁面樣式做的這些努力&lt;/f0&gt;，儘管大家對頁碼頁首頁尾等還不熟悉，但這些功能和頁面之間有所關聯的基本邏輯&lt;f1&gt;依然確實存在&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10478,8 +10478,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;For instance, while you still have to add new page styles to create new headers or footers, you can now apply them from the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Insert&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; menu.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T080552Z" creationid="Jeff Huang" creationdate="20180124T090223Z">
-        <seg>&lt;f2&gt;舉例來說，雖然你依舊得新增頁面樣式來製作新的頁首與頁尾，但你現在可以輕鬆從&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;「插入」&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;選單中套用。&lt;/f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110623Z" creationid="Jeff Huang" creationdate="20180124T090223Z">
+        <seg>&lt;f2&gt;舉例來說，雖然你依舊得新增頁面樣式來製作新的頁首與頁尾，但你現在可以輕鬆從「&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;插入&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;」選單中套用。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11811,8 +11811,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;t0&gt;32&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="MarkHung" changedate="20180224T045149Z" creationid="MarkHung" creationdate="20180224T045149Z">
-        <seg>32</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111142Z" creationid="MarkHung" creationdate="20180224T045149Z">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20653,8 +20653,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, a conditional style allows you to format the same style differently depending on its context, &lt;f0&gt;or set a paragraph style so that it always starts a new page.&lt;/f0&gt; Although &lt;f1&gt;casual users&lt;/f1&gt; may never be aware of such features, those who wri&lt;f2&gt;te as part of their work &lt;/f2&gt;will soon become well aware of the time these feature save.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T120913Z" creationid="Ｖ字龍" creationdate="20180217T035812Z">
-        <seg>舉例來說，條件式樣式能讓你根據內容的不同來對相同的樣式進行不同的格式設定，&lt;f0&gt;或是設定一個段落樣式來讓它永遠從新的頁面開始&lt;/f0&gt;。雖然&lt;f1&gt;一般的使用者&lt;/f1&gt;可能永遠都不會注意到這種功能，但對那些以文書處理作為職業的一部分的人會很快地充分察覺到這些功能可以節省的時間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T093949Z" creationid="Ｖ字龍" creationdate="20180217T035812Z">
+        <seg>舉例來說，條件式樣式能讓你根據內容的不同來對相同的樣式作不同的格式設定，&lt;f0&gt;或是設定個段落樣式讓它永遠都從新的頁面開始&lt;/f0&gt;。雖然&lt;f1&gt;一般的使用者&lt;/f1&gt;可能永遠都不會注意到這種功能，但對那些以文書處理作業為部分工作內容的人來說，很快就會充分體認到這些功能可以節省不少時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20717,8 +20717,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if a page is set to &lt;f6&gt;Left Only,&lt;/f6&gt; the &lt;f7&gt;&lt;f8&gt;Next &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Style&lt;/f9&gt;&lt;f10&gt; fie&lt;/f10&gt;ld allows you to use it as right page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102244Z" creationid="Jeff Huang" creationdate="20180124T130539Z">
-        <seg>舉例來說，就算頁面的版面配置被設定為「&lt;f6&gt;僅左頁&lt;/f6&gt;」，「&lt;f7&gt;&lt;f8&gt;下一個&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;樣式&lt;/f9&gt;」欄位依然讓你可以使用右頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110828Z" creationid="Jeff Huang" creationdate="20180124T130539Z">
+        <seg>舉例來說，就算頁面的版面配置被設定為「&lt;f6&gt;僅左頁&lt;/f6&gt;」，「&lt;f7&gt;&lt;f8&gt;下一個樣式&lt;/f8&gt;&lt;/f7&gt;」欄位依然讓你可以使用右頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27479,8 +27479,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>It explains the&lt;f2&gt; relationship between paragraph and list styles,&lt;/f2&gt; how to position &lt;f3&gt;characters&lt;/f3&gt; more &lt;f4&gt;precisely&lt;/f4&gt;, and several specific ways to automate your work flows using text styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180216T133815Z" creationid="Ｖ字龍" creationdate="20180216T133815Z">
-        <seg>本章解釋了&lt;f2&gt;段落樣式與清單樣式之間的關係&lt;/f2&gt;、如何更&lt;f4&gt;精確地&lt;/f4&gt;設定&lt;f3&gt;文字&lt;/f3&gt;的位置以及數個藉由文字樣式自動化你的工作流程的特殊方法。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T093505Z" creationid="Ｖ字龍" creationdate="20180216T133815Z">
+        <seg>其中解釋了&lt;f2&gt;段落樣式與清單樣式之間的關係&lt;/f2&gt;、&lt;f4&gt;精確&lt;/f4&gt;設定&lt;f3&gt;文字&lt;/f3&gt;位置的方法，以及幾個利用文字樣式創造自動化工作流程的特殊方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28534,8 +28534,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Like most word processors or layout software, LibreOffice does much of the housekeeping for design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121438Z" creationid="Ｖ字龍" creationdate="20180217T083709Z">
-        <seg>就跟大多數的文書處理或排版軟體一樣，LibreOffice在大部分的文件設計細節上下足了功夫。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T100657Z" creationid="Ｖ字龍" creationdate="20180217T083709Z">
+        <seg>如同大多數的文書處理軟體或排版軟體一樣，LibreOffice能幫你打理大部分的文件設計細節。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35735,8 +35735,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>T&lt;f0&gt;he same is often true for the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Background&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, except for the most delicate difference in shading between the page and the header and the footer, or if the only point of the header or footer is to add a graphic in the same place on every page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180202T132630Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
-        <seg>而「&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」&lt;f0&gt;對話視窗一般也是如此&lt;/f0&gt;&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才需要使用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110405Z" creationid="Jeff Huang" creationdate="20180127T030051Z">
+        <seg>&lt;f0&gt;而「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;邊框 / 背景&lt;/f2&gt;&lt;/f1&gt;」對話視窗一般也是如此&lt;f3&gt;，除非紙張的頁首與頁尾在顏色上非常細微的差異，或是你想在每一頁的頁首或頁尾中的某個定位上加圖片時才需要使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36064,8 +36064,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Th&lt;f0&gt;is chapter concludes the ongoing discussion about character and paragraph styles by talking about &lt;/f0&gt;the&lt;f1&gt;ir&lt;/f1&gt; advanced features.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T120826Z" creationid="Ｖ字龍" creationdate="20180107T211517Z">
-        <seg>&lt;f0&gt;本章藉由介紹字元與段落樣式的一些&lt;/f0&gt;&lt;f1&gt;進階特色&lt;/f1&gt;來總結過去一直在討論的字元與段落樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T093241Z" creationid="Ｖ字龍" creationdate="20180107T211517Z">
+        <seg>&lt;f0&gt;本章進一步介紹字元與段落樣式的一些&lt;/f0&gt;&lt;f1&gt;進階功能&lt;/f1&gt;，為先前一直討論的字元與段落樣式作個總結。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36306,8 +36306,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Next &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Style&lt;/f2&gt;&lt;f3&gt; fie&lt;/f3&gt;ld over-rides the &lt;f4&gt;Page Layout&lt;/f4&gt; field on the &lt;f5&gt;Page&lt;/f5&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180201T102205Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
-        <seg>「&lt;f0&gt;&lt;f1&gt;下一個&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;樣式&lt;/f2&gt;」欄位的設定凌駕「&lt;f5&gt;頁面&lt;/f5&gt;」標籤頁中的「&lt;f4&gt;頁面的版面配置&lt;/f4&gt;」欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T110811Z" creationid="Jeff Huang" creationdate="20180124T125235Z">
+        <seg>「&lt;f0&gt;&lt;f1&gt;下一個樣式&lt;/f1&gt;&lt;/f0&gt;」欄位的設定凌駕「&lt;f5&gt;頁面&lt;/f5&gt;」標籤頁中的「&lt;f4&gt;頁面的版面配置&lt;/f4&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37322,8 +37322,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The automating features are easy to overlook, but they can be as important as features that affect the look of a document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180216T151200Z" creationid="Ｖ字龍" creationdate="20180216T135220Z">
-        <seg>這些自動化的功能很容易被忽視，但它們可跟會影響文件外觀的功能同等重要。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T093620Z" creationid="Ｖ字龍" creationdate="20180216T135220Z">
+        <seg>這些自動化功能很容易被忽視，但它們可是跟那些會影響文件外觀的功能同等重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37942,8 +37942,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The easiest way to find the values is to use &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Track Changes &gt; Manage Changes,&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; especially when the document is complete and the only changes you are marking are hiding or showing different versions.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092450Z" creationid="Franklin Weng" creationdate="20180414T092450Z">
-        <seg>最容易找到值的方式是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 追蹤修訂 &gt; 管理&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，特別是當文件已完成，而你只是要改變隱藏或顯示來產生不同版本時，這樣非常方便。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111713Z" creationid="Franklin Weng" creationdate="20180414T092450Z">
+        <seg>最容易找到值的方式是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 追蹤修訂 &gt; 管理&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;，特別是當文件已完成，而你只是要改變隱藏或顯示來產生不同版本時，這樣非常方便。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42568,8 +42568,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unique to character styles, the &lt;f0&gt;Position&lt;/f0&gt; tab is the main spot for adjusting individual characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002547Z" creationid="Ｖ字龍" creationdate="20180217T084333Z">
-        <seg>字元樣式獨有的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁是用來調整個別字元位置的主要地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T100727Z" creationid="Ｖ字龍" creationdate="20180217T084333Z">
+        <seg>而字元樣式獨有的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁，則是用來調整個別字元位置的主要地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45072,8 +45072,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Yet in one unimportant-looking toggle switch, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hide&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; provides an elegant solution for one of the most difficult tasks for professional documenters – maintaining multiple versions of the same document in a single file.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121405Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
-        <seg>但在一個看似不重要的開關底下，「&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;」提供了一個優雅的解決方案，解決對於職業文書人員來說其中一個最困難的差事—在同一個檔案中維護同一份文件的多個版本。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T094831Z" creationid="Ｖ字龍" creationdate="20180217T080103Z">
+        <seg>雖然只是看似不怎麼重要的選項開關，「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;隱藏&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」卻可為職業文書人員以優雅的方式解決一件最困難的差事——在同一個檔案中維護同一份文件的多種版本。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45144,8 +45144,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You &lt;f0&gt;will rarely use&lt;/f0&gt; these features all the time, &lt;f1&gt;nor all of them&lt;/f1&gt; &lt;f2&gt;at once.&lt;/f2&gt; &lt;f3&gt;However, &lt;/f3&gt;knowing what is available can help you to design your documents more intelligently and to work more &lt;f4&gt;efficiently&lt;/f4&gt; when you write.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T121009Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
-        <seg>你大部份時間都&lt;f0&gt;幾乎不會&lt;/f0&gt;使用這些功能，&lt;f1&gt;也不會全部&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;都用上。&lt;f3&gt;但是&lt;/f3&gt;知道什麼功能是可用的，可以幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T094058Z" creationid="Ｖ字龍" creationdate="20180217T041214Z">
+        <seg>你大部份情況都&lt;f0&gt;幾乎不會&lt;/f0&gt;用到這些功能，&lt;f1&gt;也更不會&lt;/f1&gt;&lt;f2&gt;一次&lt;/f2&gt;全部用上。&lt;f3&gt;但是&lt;/f3&gt;，知道什麼功能是可以利用的，能幫助你在寫作時更聰明且更有效率地設計你的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45619,8 +45619,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T111047Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
-        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111418Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
+        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
