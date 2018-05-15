@@ -3934,8 +3934,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;For example,&lt;/f0&gt; &lt;f1&gt;without consulting users, Writer examines&lt;/f1&gt; font files to display characters properly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002554Z" creationid="Ｖ字龍" creationdate="20180217T084835Z">
-        <seg>&lt;f0&gt;例如，&lt;/f0&gt;&lt;f1&gt;在不需要使用者操心的狀況下，Writer自己就會掃描字型檔，&lt;/f1&gt;以便正確適當地顯示字元。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T093258Z" creationid="Ｖ字龍" creationdate="20180217T084835Z">
+        <seg>&lt;f0&gt;例如，&lt;/f0&gt;&lt;f1&gt;在不需要使用者操心的狀況下，Writer自己就會查閱字型檔，&lt;/f1&gt;以便正確適當地顯示字元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10630,8 +10630,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f2&gt;It also detects whether a font family includes italics or bold weights, and decides the size and placement of footnote numbers.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180311T093716Z" creationid="Ｖ字龍" creationdate="20180217T085050Z">
-        <seg>&lt;f2&gt;另外它也會偵測一個字型家族中是否包含了義式斜體或粗體字重的字型，並決定註腳編號的大小與位置。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T093450Z" creationid="Ｖ字龍" creationdate="20180217T085050Z">
+        <seg>&lt;f2&gt;另外它也會偵測某個字型家族中是否含有義大利體（義式斜體）或粗體字重的字型，並決定註腳編號的大小與位置。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22507,8 +22507,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, &lt;f0&gt;the software’s decisions are not always ideal, so at times you might want to tweak the spacing between characters or reposition footnote numbers.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T122405Z" creationid="Ｖ字龍" creationdate="20180217T085455Z">
-        <seg>但是，&lt;f0&gt;軟體做的選擇不一定總是理想的，所以有時候你會想要微調字元間的間隙或是更動註腳編號的位置。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094147Z" creationid="Ｖ字龍" creationdate="20180217T085455Z">
+        <seg>但是，&lt;f0&gt;軟體所做的選擇不一定永遠理想，所以有時候你會想要微調字元間的間隙或是更動註腳編號的位置。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29709,8 +29709,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Most users are happy to let LibreOffice make these decisions.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T085327Z" creationid="Ｖ字龍" creationdate="20180217T085327Z">
-        <seg>大部分的使用者都很樂於讓LibreOffice作這些決定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T093458Z" creationid="Ｖ字龍" creationdate="20180217T085327Z">
+        <seg>大部分的使用者都很樂於讓LibreOffice做這些決定。</seg>
       </tuv>
     </tu>
     <tu>
