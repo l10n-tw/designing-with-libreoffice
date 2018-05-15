@@ -20801,8 +20801,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you select &lt;/f6&gt;&lt;f7&gt;Bottom&lt;/f7&gt;&lt;f8&gt;, then the smaller characters are positioned at the bottom of the largest characters’ descenders (the lines below the base line).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003300Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
-        <seg>舉例來說，當你選擇「&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部位（在基線之下）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132017Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
+        <seg>舉例來說，當你選擇「&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部底部（在基線之下）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26187,8 +26187,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>In each case, the largest characters remain on the baseline, while other characters are raised or lowered in relation to them.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003128Z" creationid="Ｖ字龍" creationdate="20180219T024006Z">
-        <seg>不管是選擇哪一種對齊方式，最大的字元都會維持在基線上，而其他的字元根據其大小比例被抬升或下移。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131833Z" creationid="Ｖ字龍" creationdate="20180219T024006Z">
+        <seg>不管是選擇哪一種對齊方式，最大的字元都會維持在基線上，而其他字元則會視其大小比例被相對抬升或下移。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27447,8 +27447,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>It can be used with a brochure or poster than an essay, but its main use is probably to create superscript or subscript characters without the fuss of &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;using the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Position&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; tab (see “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Positioning superscript and subscript&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;,” page &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;3&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131619Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
-        <seg>這比較會用在小冊子或海報這類用途上，文章相對少用；但它最主要的用途大概是：避免用「&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;」標籤頁建立上標文字或下標文字的困擾（請參見「&lt;f12&gt;&lt;bf13&gt;調整上標與下標文字的位置&lt;/bf13&gt;&lt;/f12&gt;」，第&lt;f15&gt;&lt;bf16&gt;XXXX&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131644Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
+        <seg>這比較會用在小冊子或海報這類用途上，文章相對少用；但它最主要的用途大概是：避免用「&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;」標籤頁建立上標文字或下標文字的困擾（請參見「&lt;f12&gt;&lt;bf13&gt;上標和下標位置設定&lt;/bf13&gt;&lt;/f12&gt;」，第&lt;f15&gt;&lt;bf16&gt;XXXX&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39316,8 +39316,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The setting can align font sizes by the &lt;f0&gt;Top&lt;/f0&gt;,&lt;f1&gt; Middle&lt;/f1&gt;, or &lt;f2&gt;Bottom&lt;/f2&gt; of the letters, &lt;f3&gt;or the default &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Base Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003055Z" creationid="Ｖ字龍" creationdate="20180219T023303Z">
-        <seg>這個設定可以讓不同大小的文字根據「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;中央&lt;/f1&gt;」或是「&lt;f2&gt;下方&lt;/f2&gt;」或是預設的「&lt;f4&gt;&lt;f5&gt;基線&lt;/f5&gt;&lt;/f4&gt;」來對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131712Z" creationid="Ｖ字龍" creationdate="20180219T023303Z">
+        <seg>這個設定可以讓不同大小的文字，根據「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;中央&lt;/f1&gt;」或是「&lt;f2&gt;下方&lt;/f2&gt;」或是預設的「&lt;f4&gt;&lt;f5&gt;基線&lt;/f5&gt;&lt;/f4&gt;」來對齊。</seg>
       </tuv>
     </tu>
     <tu>
