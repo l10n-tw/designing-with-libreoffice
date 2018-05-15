@@ -21713,8 +21713,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>From top to bottom: The &lt;f0&gt;Text-to-text&lt;/f0&gt; field on the &lt;f1&gt;Alignment&lt;/f1&gt; tab set to &lt;f2&gt;Automatic &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;(Base Line),&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Bottom, Middle, and Top.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003624Z" creationid="Ｖ字龍" creationdate="20180221T051850Z">
-        <seg>從上至下：「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中的&lt;f0&gt;文字到文字&lt;/f0&gt;欄位被設定為：「&lt;f2&gt;自動&lt;/f2&gt;」&lt;f3&gt;&lt;f4&gt;（基線）&lt;/f4&gt;&lt;/f3&gt;、「&lt;f2&gt;下方&lt;/f2&gt;」、「&lt;f2&gt;中央&lt;/f2&gt;」與「&lt;f2&gt;上方&lt;/f2&gt;」。&lt;f5&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132444Z" creationid="Ｖ字龍" creationdate="20180221T051850Z">
+        <seg>從上至下：「&lt;f1&gt;對齊&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;文字到文字&lt;/f0&gt;」欄位設定為「&lt;f2&gt;自動&lt;/f2&gt;」&lt;f3&gt;&lt;f4&gt;（基線）&lt;/f4&gt;&lt;/f3&gt;、「&lt;f2&gt;下方&lt;/f2&gt;」、「&lt;f2&gt;中央&lt;/f2&gt;」與「&lt;f2&gt;上方&lt;/f2&gt;」。&lt;f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23327,8 +23327,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, mostly you can leave the setting on &lt;f0&gt;Automatic&lt;/f0&gt;, which defaults so that all different font sizes are aligned by the base line&lt;f1&gt;.&lt;/f1&gt; In other words, you can usually safely ignore the setting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003537Z" creationid="Ｖ字龍" creationdate="20180221T051249Z">
-        <seg>然而，大多數情況下你可以將設定保留在「&lt;f0&gt;自動&lt;/f0&gt;」，預設會將所有不同字型大小的文字都對齊於基線上。換句話說，你通常可以華麗地無視這個設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132352Z" creationid="Ｖ字龍" creationdate="20180221T051249Z">
+        <seg>然而，大多數情況下你可以將設定保留在「&lt;f0&gt;自動&lt;/f0&gt;」，預設會將所有不同字型大小的文字都對齊於基線上。換句話說，你通常可以安心地無視這個設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34633,8 +34633,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, with &lt;/f8&gt;&lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132136Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
-        <seg>同樣地，選取「&lt;f9&gt;上方&lt;/f9&gt;」時，較小的字元就會被放置在最大的字元的上伸部位（x字高上方的線）。&lt;f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132255Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
+        <seg>同樣地，選取「&lt;f9&gt;上方&lt;/f9&gt;」時，較小的字元就會被放置在最大的字元的上伸部位（在x字高之上）。&lt;f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
