@@ -464,8 +464,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;Font: Maven Pro.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102259Z" creationid="Franklin Weng" creationdate="20180315T102259Z">
-        <seg>&lt;/f0&gt;字型：Maven Pro.</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143507Z" creationid="Franklin Weng" creationdate="20180315T102259Z">
+        <seg>&lt;/f0&gt;字型：Maven Pro。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6587,8 +6587,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right: Sometimes, kerning means increasing the space between characters for easier reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102252Z" creationid="Franklin Weng" creationdate="20180315T102252Z">
-        <seg>&lt;f0&gt;右：有的時候，會增加字元間的空間以便更容易閱讀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143505Z" creationid="Franklin Weng" creationdate="20180315T102252Z">
+        <seg>&lt;f0&gt;右：有的時候，字間微調時需要增加字元間的空間以便更容易閱讀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17437,8 +17437,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Consequently, if you greatly decrease or increase font size, the kerning may be off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134542Z" creationid="Franklin Weng" creationdate="20180315T135541Z">
-        <seg>所以，如果你大幅放大或縮小字型，那麼字間微調的功能可能就會關閉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143659Z" creationid="Franklin Weng" creationdate="20180315T135541Z">
+        <seg>所以，如果你大幅放大或縮小字型，那麼字間微調的功能可能就要關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27286,8 +27286,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Instead, the spacing is intended for a standard size.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135455Z" creationid="Franklin Weng" creationdate="20180315T135455Z">
-        <seg>它的間距通常傾向使用一個標準的大小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143645Z" creationid="Franklin Weng" creationdate="20180315T135455Z">
+        <seg>數位字型所採用的間距，通常傾向使用一個標準大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27939,8 +27939,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Kerning has &lt;f0&gt;always&lt;/f0&gt; been a concern in typography, but digital typography makes it more important than ever.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134537Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
-        <seg>字間微調&lt;f0&gt;一直&lt;/f0&gt;都是字體排印學中關注的重點之一，到了數位時代這一點變得更加重要。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143535Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
+        <seg>字間微調&lt;f0&gt;一直以來&lt;/f0&gt;都是字體排印學中關注的重點之一，到了數位時代這一點變得更加重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42705,8 +42705,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unlike in manual type, digital &lt;f1&gt;fonts&lt;/f1&gt; usually do not have different spacing when the font size changes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135433Z" creationid="Franklin Weng" creationdate="20180315T135433Z">
-        <seg>不像手動排版，數位的&lt;f1&gt;字型&lt;/f1&gt;通常在變更大小時不會跟著改變間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143618Z" creationid="Franklin Weng" creationdate="20180315T135433Z">
+        <seg>不像手工排版，數位&lt;f1&gt;字型&lt;/f1&gt;通常在改變大小時不會跟著改變間距關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43750,8 +43750,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>What is intended for 12 points &lt;f0&gt;may&lt;/f0&gt; not work for 8 or &lt;f1&gt;4&lt;/f1&gt;8 points.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135620Z" creationid="Franklin Weng" creationdate="20180315T135620Z">
-        <seg>12 點字型適用的，在 8 點或 48 點&lt;f0&gt;未必&lt;/f0&gt;適用。&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143746Z" creationid="Franklin Weng" creationdate="20180315T135620Z">
+        <seg>針對12點字型設計的字間關係，到了8點或48點的大小時&lt;f0&gt;未必&lt;/f0&gt;也能一體適用。&lt;f1&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
