@@ -998,8 +998,8 @@
       <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;t3/&gt;&lt;f4&gt;These adjustments can help improve the page color of the body text.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T105832Z" creationid="Ｖ字龍" creationdate="20180221T104914Z">
-        <seg>&lt;t3/&gt;這些調整能幫助改善內文的灰度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134359Z" creationid="Ｖ字龍" creationdate="20180221T104914Z">
+        <seg>&lt;/f2&gt;&lt;f4&gt;這些調整能幫助你改善內文的灰度。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,8 +13271,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Adjusting &lt;f0&gt;character combinations (kerning)&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101205Z" creationid="Ｖ字龍" creationdate="20180221T110135Z">
-        <seg>調整字元組合（字距微調）</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134507Z" creationid="Ｖ字龍" creationdate="20180221T110135Z">
+        <seg>調整字元組合（字間微調）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24019,8 +24019,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However,&lt;f0&gt; most fonts can stand 1&lt;/f0&gt;&lt;f1&gt;–&lt;/f1&gt;15&lt;f2&gt;% adjustments less or more than the default 100% without deteriorating too badly.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T100139Z" creationid="Ｖ字龍" creationdate="20180221T104910Z">
-        <seg>但大多數的字型在不過度劣化的前提下，寬度只能調整約 1&lt;f1&gt;-&lt;/f1&gt;15% 上下。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134341Z" creationid="Ｖ字龍" creationdate="20180221T104910Z">
+        <seg>不過，大多數的字型在不過度劣化的前提之下，可以容忍你調整大約 1&lt;f1&gt;-&lt;/f1&gt;15&lt;f2&gt;% 上下的寬度。</seg>
       </tuv>
     </tu>
     <tu>
