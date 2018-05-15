@@ -5946,8 +5946,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Often, y&lt;/f0&gt;ou can &lt;f1&gt;r&lt;/f1&gt;educe the amount of kerning by carefully choosing a font after looking at letter combinations that often need kerning.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T094134Z" creationid="Franklin Weng" creationdate="20180316T152257Z">
-        <seg>&lt;f0&gt;通常，&lt;/f0&gt;只要仔細觀察不同字型，看看那些通常需要調整字距的字母組合並小心地選擇你要的字型，就可以&lt;f1&gt;省掉&lt;/f1&gt;手動調整字距的時間。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T150210Z" creationid="Franklin Weng" creationdate="20180316T152257Z">
+        <seg>&lt;f0&gt;通常，&lt;/f0&gt;只要仔細觀察不同字型，看看那些通常需要調整字間的字母組合並謹慎選擇你要的字型，就可以省掉手動微調字間的時間。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21897,8 +21897,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Gentium, for instance, is tightly kerned and even uses ligatures automatically.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T094740Z" creationid="Franklin Weng" creationdate="20180330T094740Z">
-        <seg>例如 Gentium 的字距就仔細處理過，甚至會自動使用連字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T150235Z" creationid="Franklin Weng" creationdate="20180330T094740Z">
+        <seg>例如，Gentium的字間就有仔細處理過，甚至還會自動使用連字功能。</seg>
       </tuv>
     </tu>
     <tu>
