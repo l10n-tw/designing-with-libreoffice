@@ -5810,8 +5810,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;No matter what your interest, &lt;/f0&gt;you will want to select the &lt;f1&gt;&lt;f2&gt;P&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;air&lt;/f3&gt; kerning box &lt;f4&gt;beside the field&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134552Z" creationid="Franklin Weng" creationdate="20180316T130004Z">
-        <seg>&lt;f0&gt;不論是什麼情況，&lt;/f0&gt;都要勾選「間距」旁邊的「字母對的字間微調」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T145129Z" creationid="Franklin Weng" creationdate="20180316T130004Z">
+        <seg>&lt;f0&gt;但不論是什麼情況，&lt;/f0&gt;都要勾選「間距」旁邊的「字母對的字間微調」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23974,8 +23974,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, you may want to change the spacing, either to improve legibility or for a short string of characters in a more graphical document, such as a brochure, &lt;f0&gt;by adjusting the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Spacing&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Position&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T144913Z" creationid="Franklin Weng" creationdate="20180316T124956Z">
-        <seg>另外，你或許也會為了改善字的視認性，或是在更具平面設計性的圖形化文件，例如宣傳手冊上來調整&lt;f4&gt;&lt;f5&gt;位置&lt;/f5&gt;&lt;/f4&gt;標籤頁中的&lt;f1&gt;&lt;f2&gt;間距&lt;/f2&gt;&lt;/f2&gt;欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T145143Z" creationid="Franklin Weng" creationdate="20180316T124956Z">
+        <seg>另外，你或許也會為了改善字的視認性，或是在更具平面設計性的圖形化文件，例如宣傳手冊上來調整「&lt;f4&gt;&lt;f5&gt;位置&lt;/f5&gt;&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;&lt;f2&gt;間距&lt;/f2&gt;&lt;/f2&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24697,8 +24697,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If you are manually adjusting justified lines, you might also want to make micro changes here and there.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T125510Z" creationid="Franklin Weng" creationdate="20180316T125510Z">
-        <seg>如果你是手動一行一行調整，你可能也會想要這邊小改一下那邊也小改一下。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T145034Z" creationid="Franklin Weng" creationdate="20180316T125510Z">
+        <seg>如果你在手動調整兩端對齊的文字，你可能也會想要這邊小改一下、那邊也小改一下。</seg>
       </tuv>
     </tu>
     <tu>
