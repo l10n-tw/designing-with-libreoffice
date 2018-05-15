@@ -7936,8 +7936,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The rotation tools may be useful in brochure and ad designs, but they are very basic.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T115206Z" creationid="Ｖ字龍" creationdate="20180221T081401Z">
-        <seg>旋轉工具在小冊子或是廣告設計上可能有用，但它們的功能很陽春。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133223Z" creationid="Ｖ字龍" creationdate="20180221T081401Z">
+        <seg>&lt;f0&gt;旋轉工具在小冊子或是廣告設計上可能會有用，但它們用起來很陽春。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22066,8 +22066,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Graphic text is text created with the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Drawing&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; toolbar, and is treated as a drawing object rather than as text.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T115143Z" creationid="Ｖ字龍" creationdate="20180221T071913Z">
-        <seg>圖像文字是以&lt;f4&gt;&lt;f5&gt;繪圖&lt;/f5&gt;&lt;/f4&gt;工具列所建立的文字物件，它會被當作一個繪圖物件而非一般文字處理。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133143Z" creationid="Ｖ字龍" creationdate="20180221T071913Z">
+        <seg>圖形文字是從「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;繪圖&lt;/f5&gt;&lt;/f4&gt;」工具列建立的，它會被當成繪圖物件，而非以一般文字處理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46705,8 +46705,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You will have more precision than these settings offer if you use graphical text – text treated as a drawing object – and then right-click and select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position and size &gt; Rotation&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; instead.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T115406Z" creationid="Ｖ字龍" creationdate="20180221T081410Z">
-        <seg>如果你使用繪圖文字—被當作繪圖物件處理的文字—然後點右鍵在選單中選取「&lt;f1&gt;&lt;f2&gt;位置與大小 &gt; 旋轉&lt;/f2&gt;&lt;/f1&gt;」，而不要用前述的設定介面，你可以有更好的調整精確度。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133417Z" creationid="Ｖ字龍" creationdate="20180221T081410Z">
+        <seg>如果你使用圖形文字——被視為繪圖物件處理的文字——然後點右鍵在選單中選取「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;位置與大小 &gt; 旋轉&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」，而不要用前述的設定介面，你可以更精確地調角度。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
