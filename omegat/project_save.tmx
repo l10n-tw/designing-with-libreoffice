@@ -5337,8 +5337,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Left:&lt;/f0&gt; &lt;f1&gt;Reducing the space between characters improves the spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102153Z" creationid="Ｖ字龍" creationdate="20180221T141643Z">
-        <seg>左：減少字元間的空間以改善間距。&lt;f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143229Z" creationid="Ｖ字龍" creationdate="20180221T141643Z">
+        <seg>&lt;f0&gt;左：&lt;/f0&gt;&lt;f1&gt;減少字元間的空間以改善間距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5521,8 +5521,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;M&lt;/f0&gt;iddle: &lt;f1&gt;C&lt;/f1&gt;reating your own ligature &lt;f2&gt;by moving characters together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T102211Z" creationid="Ｖ字龍" creationdate="20180221T142541Z">
-        <seg>中：藉由將字元移動在一起來創造自己的連字（ligature）。&lt;f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143413Z" creationid="Ｖ字龍" creationdate="20180221T142541Z">
+        <seg>中：藉由移動字元互相靠近來創造出自己的連字。&lt;f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16675,8 +16675,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Changing the spacing between characters using the &lt;f0&gt;Spacing&lt;/f0&gt; field on the &lt;f1&gt;Position&lt;/f1&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101951Z" creationid="Ｖ字龍" creationdate="20180221T141435Z">
-        <seg>使用「&lt;f1&gt;位置&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;間距&lt;/f0&gt;」欄位以變更字元間的間距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143147Z" creationid="Ｖ字龍" creationdate="20180221T141435Z">
+        <seg>使用「&lt;f1&gt;位置&lt;/f1&gt;」標籤頁中的「&lt;f0&gt;間距&lt;/f0&gt;」欄位可變更字元間的間距。</seg>
       </tuv>
     </tu>
     <tu>
