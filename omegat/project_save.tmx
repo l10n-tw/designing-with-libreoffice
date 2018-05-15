@@ -20801,8 +20801,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you select &lt;/f6&gt;&lt;f7&gt;Bottom&lt;/f7&gt;&lt;f8&gt;, then the smaller characters are positioned at the bottom of the largest characters’ descenders (the lines below the base line).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132017Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
-        <seg>舉例來說，當你選擇「&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部底部（在基線之下）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132208Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
+        <seg>舉例來說，當你選擇「&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部位（在基線之下）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34633,8 +34633,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, with &lt;/f8&gt;&lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T003357Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
-        <seg>同樣地，選取「&lt;f9&gt;上方&lt;/f9&gt;」時，較小的字元就會被放置在最大的字元的上伸部位（在 x-height 之上）。&lt;f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132136Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
+        <seg>同樣地，選取「&lt;f9&gt;上方&lt;/f9&gt;」時，較小的字元就會被放置在最大的字元的上伸部位（x字高上方的線）。&lt;f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
