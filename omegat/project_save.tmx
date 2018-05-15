@@ -5810,8 +5810,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;No matter what your interest, &lt;/f0&gt;you will want to select the &lt;f1&gt;&lt;f2&gt;P&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;air&lt;/f3&gt; kerning box &lt;f4&gt;beside the field&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T130004Z" creationid="Franklin Weng" creationdate="20180316T130004Z">
-        <seg>&lt;f0&gt;不論是什麼情況，&lt;/f0&gt;都要勾選「間距」旁邊的「字母對的字距微調」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134552Z" creationid="Franklin Weng" creationdate="20180316T130004Z">
+        <seg>&lt;f0&gt;不論是什麼情況，&lt;/f0&gt;都要勾選「間距」旁邊的「字母對的字間微調」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9508,8 +9508,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;Combinations&lt;/f1&gt; such as “Va,” “&lt;f2&gt;ll,”&lt;/f2&gt; &lt;f3&gt;and “&lt;/f3&gt;ff” &lt;f4&gt;can be improved in most fonts, and individual fonts may benefit from the adjustment of other combinations as well.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101621Z" creationid="Ｖ字龍" creationdate="20180221T110652Z">
-        <seg>像是Va、ll、ff等字元組合，在多數字型中的外觀皆可以被改進，而某些特定字型也有可能受惠於其他種字元組合的字距微調。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T142832Z" creationid="Ｖ字龍" creationdate="20180221T110652Z">
+        <seg>在多數字型中，像是Va、ll、ff等這類字元組合的外觀皆有特別改善，而某些特定字型也有可能受惠於其他種字元組合的字間微調。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16105,8 +16105,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By contrast, early versions of Cantarell had a reputation – since outgrown – for being poorly kerned, &lt;f0&gt;which made manual kerning much more difficult.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180330T094909Z" creationid="Franklin Weng" creationdate="20180330T094909Z">
-        <seg>相反地，早期版本的 Cantarell 打從一問世就有不少字距的問題，&lt;f0&gt;這也讓手動做字距微調變得很困難。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134616Z" creationid="Franklin Weng" creationdate="20180330T094909Z">
+        <seg>相反地，早期版本的 Cantarell 打從一問世就有不少字距的問題，&lt;f0&gt;這也讓手動做字間微調變得很困難。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17437,8 +17437,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Consequently, if you greatly decrease or increase font size, the kerning may be off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135541Z" creationid="Franklin Weng" creationdate="20180315T135541Z">
-        <seg>所以，如果你大幅放大或縮小字型，那麼字距微調的功能可能就會關閉。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134542Z" creationid="Franklin Weng" creationdate="20180315T135541Z">
+        <seg>所以，如果你大幅放大或縮小字型，那麼字間微調的功能可能就會關閉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27939,8 +27939,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Kerning has &lt;f0&gt;always&lt;/f0&gt; been a concern in typography, but digital typography makes it more important than ever.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135327Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
-        <seg>字距微調&lt;f0&gt;一直&lt;/f0&gt;都是字體排印學中關注的重點之一，到了數位時代這一點變得更加重要。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134537Z" creationid="Franklin Weng" creationdate="20180315T103027Z">
+        <seg>字間微調&lt;f0&gt;一直&lt;/f0&gt;都是字體排印學中關注的重點之一，到了數位時代這一點變得更加重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27948,8 +27948,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Kerning is the &lt;f0&gt;spacing between characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101501Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
-        <seg>字距微調（Kerning）是指字元間的留白大小處理。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T142608Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
+        <seg>字間微調 (Kerning) 是指字元之間的空間特殊調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29525,8 +29525,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Moreover, &lt;f0&gt;LibreOffice’s &lt;/f0&gt;general &lt;f1&gt;kerning tends to be very loose, and you can often improve on it if you are willing to make the effort and make small changes.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135840Z" creationid="Franklin Weng" creationdate="20180315T135840Z">
-        <seg>還有，&lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt;通用的字距微調原則通常很寬鬆，所以只要你願意花點心力，做出小小的改變，就可以改進它。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134547Z" creationid="Franklin Weng" creationdate="20180315T135840Z">
+        <seg>還有，&lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt;通用的字間微調原則通常很寬鬆，所以只要你願意花點心力，做出小小的改變，就可以改進它。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32408,8 +32408,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Professional printers sometimes adjust kerning &lt;/f0&gt;to improve the appearance of awkward combinations of letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101541Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
-        <seg>專業的印表機有時候會調整字距，以改善某些尷尬的字母組合的外觀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T142653Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
+        <seg>專業的印表機有時候會微調字間，以改善某些尷尬的字母組合的外觀。</seg>
       </tuv>
     </tu>
     <tu>
