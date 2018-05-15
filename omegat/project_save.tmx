@@ -5386,8 +5386,8 @@ f1</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice includes the tools you need for such tweaking.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T123538Z" creationid="Ｖ字龍" creationdate="20180217T091328Z">
-        <seg>&lt;f0&gt;LibreOffice包含了你做這些微調時所需的工具。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094250Z" creationid="Ｖ字龍" creationdate="20180217T091328Z">
+        <seg>&lt;f0&gt;LibreOffice有提供讓你微調用的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19989,8 +19989,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Fin&lt;f0&gt;e-tuning characters&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T093146Z" creationid="Ｖ字龍" creationdate="20180217T080345Z">
-        <seg>&lt;f0&gt;微調字元位置&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094406Z" creationid="Ｖ字龍" creationdate="20180217T080345Z">
+        <seg>微調字元位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -29074,8 +29074,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Many are on the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for character styles, although others are scattered throughout the character and paragraph style dialogs.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002619Z" creationid="Ｖ字龍" creationdate="20180217T091528Z">
-        <seg>對字元樣式來說，這些東西很多都在&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁，而剩下的則分散在字元跟段落樣式對話窗之中。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094335Z" creationid="Ｖ字龍" creationdate="20180217T091528Z">
+        <seg>對字元樣式來說，這些選項很多都放在&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁中，而其餘部分則分散在字元樣式與段落樣式對話窗之中。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32175,8 +32175,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Positioning &lt;f0&gt;and&lt;/f0&gt; automating text</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T103953Z" creationid="Ｖ字龍" creationdate="20180107T210457Z">
-        <seg>調整文字位置&lt;f0&gt;與&lt;/f0&gt;自動化文字格式設定</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094359Z" creationid="Ｖ字龍" creationdate="20180107T210457Z">
+        <seg>調整文字位置與自動化文字格式設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -32191,8 +32191,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Positioning &lt;f0&gt;superscript and subscript&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T091612Z" creationid="Ｖ字龍" creationdate="20180217T091612Z">
-        <seg>&lt;f0&gt;上標和下標&lt;/f0&gt;位置設定</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094353Z" creationid="Ｖ字龍" creationdate="20180217T091612Z">
+        <seg>上標和下標位置設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -36678,8 +36678,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Position&lt;/f0&gt; tab of a character style gives you several advanced options for &lt;f1&gt;adjusting&lt;/f1&gt; superscript &lt;f2&gt;characters (above others on the same line)&lt;/f2&gt; and subscript characters &lt;f3&gt;(below others on the same line).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002629Z" creationid="Ｖ字龍" creationdate="20180217T093431Z">
-        <seg>字元樣式的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁中，有選項讓你用來&lt;f1&gt;調整&lt;/f1&gt;&lt;f2&gt;上標字元&lt;/f2&gt;（在其他在同一直線上的字元上面）以及&lt;f3&gt;下標字元（在其他在同一直線上的字元下面）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094458Z" creationid="Ｖ字龍" creationdate="20180217T093431Z">
+        <seg>字元樣式的「&lt;f0&gt;位置&lt;/f0&gt;」標籤頁中，有讓你用來&lt;f1&gt;調整&lt;/f1&gt;&lt;f2&gt;上標字元&lt;/f2&gt;（在其他在同一直線上的字元上面）以及&lt;f3&gt;下標字元（在其他在同一直線上的字元下面）的選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40051,8 +40051,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These adjustments are relatively common, because, &lt;f0&gt;depending on the font, &lt;/f0&gt;LibreOffi&lt;f1&gt;c&lt;/f1&gt;e’s default superscript and subscript characters &lt;f2&gt;can sometimes be too &lt;/f2&gt;too small for easy reading.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180309T124756Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
-        <seg>這些調整是相對常見的，因為&lt;f0&gt;根據所使用的字型&lt;/f0&gt;，有時LibreOffice預設的上標與下標文字大小會&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;太小而不易閱讀。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T094610Z" creationid="Ｖ字龍" creationdate="20180217T094558Z">
+        <seg>這些調整比較常見，因為&lt;f0&gt;視所使用的字型而定&lt;/f0&gt;，有時LibreOffice預設的上標字元或下標字元大小會&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;太小而難以閱讀。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
