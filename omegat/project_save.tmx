@@ -9615,8 +9615,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;However, you can adjust it using the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Scale width&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; field on the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Position&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T115520Z">
-        <seg>但是你可以使用「&lt;f5&gt;&lt;f6&gt;位置&lt;/f6&gt;&lt;/f5&gt;」標籤頁中的「&lt;f2&gt;&lt;f3&gt;縮放寬度&lt;/f3&gt;&lt;/f2&gt;」欄位來調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133617Z">
+        <seg>但是，你可以利用「&lt;f5&gt;&lt;f6&gt;位置&lt;/f6&gt;&lt;/f5&gt;」標籤頁中的「&lt;f2&gt;&lt;f3&gt;縮放寬度&lt;/f3&gt;&lt;/f2&gt;」欄位再作調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39777,8 +39777,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The width of characters is interpreted by Li&lt;f0&gt;b&lt;/f0&gt;reOffice’s reading of each font’s file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180221T082836Z" creationid="Ｖ字龍" creationdate="20180221T082221Z">
-        <seg>字元的寬度是LibreOffice從各字型檔案中解讀出來的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133601Z" creationid="Ｖ字龍" creationdate="20180221T082221Z">
+        <seg>字元的寬度是LibreOffice根據各字型檔案提供的資訊作解讀並呈現出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40754,8 +40754,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>This feature is especially useful when you have no condensed or expanded version in a font family.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T101517Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
-        <seg>若是某個字型家族中，沒有窄體（condensed）或寬體（expanded）的字型時，這個功能就很實用了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133641Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
+        <seg>若是某個字型家族沒有提供窄體（condensed）或寬體（expanded）的字型時，這個功能就非常實用。</seg>
       </tuv>
     </tu>
     <tu>
