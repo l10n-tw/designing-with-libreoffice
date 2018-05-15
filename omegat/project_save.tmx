@@ -4714,8 +4714,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you choose to handle your own kerning, create character styles with adjusted spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180315T135919Z" creationid="Franklin Weng" creationdate="20180315T135919Z">
-        <seg>&lt;f0&gt;如果你選擇自己處理字距，那你可以建立一個字元樣式並調整好你要的字距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T144148Z" creationid="Franklin Weng" creationdate="20180315T135919Z">
+        <seg>&lt;f0&gt;如果你選擇自己處理字間微調，那你可以建立一些字元樣式並在其中調整你要的字間關係。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29525,8 +29525,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Moreover, &lt;f0&gt;LibreOffice’s &lt;/f0&gt;general &lt;f1&gt;kerning tends to be very loose, and you can often improve on it if you are willing to make the effort and make small changes.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T134547Z" creationid="Franklin Weng" creationdate="20180315T135840Z">
-        <seg>還有，&lt;f0&gt;LibreOffice&lt;/f0&gt; &lt;f1&gt;通用的字間微調原則通常很寬鬆，所以只要你願意花點心力，做出小小的改變，就可以改進它。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T143952Z" creationid="Franklin Weng" creationdate="20180315T135840Z">
+        <seg>還有，&lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt;中通用的字間微調處理相當寬鬆，所以只要你能願意花點心力做出小小的改變，就能夠加以改善。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46349,8 +46349,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You may manage with only a single kerning character style for all your needs, but if you are really attentive to detail, you might decide on individual kerning character styles for different letter combinations – it all depends on your patience, the font you use, &lt;/f0&gt;and your perfectionism.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180316T125006Z" creationid="Franklin Weng" creationdate="20180315T135924Z">
-        <seg>你可以只使用單一種字元樣式跟字距來套用在你所有的需求。但如果你真的很注重細節，你也可以讓不同字母組合使用個別的字元樣式—這完全取決於你的耐心，你使用的字型，&lt;/f0&gt;以及你的完美主義是不是在作祟。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T144501Z" creationid="Franklin Weng" creationdate="20180315T135924Z">
+        <seg>你可以只設計單一個泛用的字間微調字元樣式，套用到所有用途上。但如果你真的很注重每個小細節，你也可以讓不同字母組合使用獨立的字元樣式——這完全取決於你的耐心、你使用的字型，&lt;/f0&gt;以及你的完美主義信仰是不是在作祟而定。</seg>
       </tuv>
     </tu>
     <tu>
