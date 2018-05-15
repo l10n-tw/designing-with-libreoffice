@@ -13456,8 +13456,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Aligning superscript characters with the top of ascenders and subscript characters with the bottom of descenders has the advantage of being symmetrical while giving you a visible target.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001937Z" creationid="Ｖ字龍" creationdate="20180217T121329Z">
-        <seg>用上伸部的頂點來對齊上標文字，以及用下伸部的底點對齊下標文字，這樣能夠讓外觀清晰可辨，同時看起來對稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T102238Z" creationid="Ｖ字龍" creationdate="20180217T121329Z">
+        <seg>利用上伸部的高點來對齊上標文字，以及利用下伸部的低點對齊下標文字，這樣除了方便你決定位置外，同時看起來也更對稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15087,8 +15087,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Avoid old style characters for superscript and subscript.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Ｖ字龍" changedate="20180217T102319Z" creationid="Ｖ字龍" creationdate="20180217T102319Z">
-        <seg>避免使用舊風格的字元作為上標跟下標文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T101954Z" creationid="Ｖ字龍" creationdate="20180217T102319Z">
+        <seg>避免在上標文字跟下標文字中使用舊式數字的字型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23693,8 +23693,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, using this guide with a large x-height is likely to make the superscript characters too small.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001746Z" creationid="Ｖ字龍" creationdate="20180217T102258Z">
-        <seg>但是，如果 x-height 真的很大，這樣做通常會造成上標文字過小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T101842Z" creationid="Ｖ字龍" creationdate="20180217T102258Z">
+        <seg>但是，如果x字高真的很巨大時，這樣做通常又會造成上標文字看起來過小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38064,8 +38064,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The fields for lowering or raising superscript or subscript characters read all input as percentages, rounded to the nearest number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T002010Z" creationid="Ｖ字龍" creationdate="20180217T121511Z">
-        <seg>降低或是提高上標或下標文字的欄位，是用百分比數值作為輸入，並四捨五入到最接近的整數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T102316Z" creationid="Ｖ字龍" creationdate="20180217T121511Z">
+        <seg>降低或是提高上標字或下標字的欄位，是以百分比數值作為輸入，並四捨五入成最接近的整數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39842,8 +39842,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>Their lack of a common baseline means &lt;f0&gt;either an eye-disturbing clutter or a time-consuming positioning of &lt;/f0&gt;each numeral separately.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001831Z" creationid="Ｖ字龍" creationdate="20180217T102702Z">
-        <seg>因為它們缺乏一個共通的基線，用舊風格字元會出現礙眼的高度落差，或是得花很多時間分別調整各個數字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T102100Z" creationid="Ｖ字龍" creationdate="20180217T102702Z">
+        <seg>因為舊式數字沒有共同的基線，所以會出現礙眼的高度落差，或是你得花很多時間一個個調整這些數字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42641,8 +42641,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unless the x-height is exceptionally large, using it for &lt;f0&gt;the bottom of&lt;/f0&gt; superscript &lt;f1&gt;characters often makes for a consistent design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180314T001706Z" creationid="Ｖ字龍" creationdate="20180217T102201Z">
-        <seg>除非x-height意外的巨大，不然用它作為上標字元的底部基線可以讓外觀較為一致。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T101816Z" creationid="Ｖ字龍" creationdate="20180217T102201Z">
+        <seg>除非x字高意外地巨大，否則拿它當作上標字元的底部基線可以讓外觀看來較為一致。</seg>
       </tuv>
     </tu>
     <tu>
