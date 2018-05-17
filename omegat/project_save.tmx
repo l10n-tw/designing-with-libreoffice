@@ -18850,8 +18850,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Don't confuse a conditional paragraph style with a &lt;f0&gt;Conditional text&lt;/f0&gt; field &lt;f1&gt;available from&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; Insert &gt; Fields&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133708Z" creationid="Franklin Weng" creationdate="20180404T133708Z">
-        <seg>不要把條件式樣式跟「&lt;f2&gt;&lt;f3&gt;插入 &gt; 欄位&lt;/f3&gt;&lt;/f2&gt;」中的&lt;f0&gt;條件式文字欄位&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;搞混了。&lt;f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T102649Z" creationid="Franklin Weng" creationdate="20180404T133708Z">
+        <seg>不要把條件式樣式跟「&lt;f2&gt;&lt;f3&gt;插入 &gt; 欄位 &gt; 更多欄位 &gt; 功能&lt;/f3&gt;&lt;/f2&gt;」中的「&lt;f0&gt;條件式文字&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;」欄位搞混了。&lt;f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23757,8 +23757,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, with a conditional style, you define the paragraph’s format in each context, such as in a table or a footer.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135708Z" creationid="Franklin Weng" creationdate="20180404T133400Z">
-        <seg>不過使用條件式樣式時，你必須個別定義每個會用到的情境—比方說表格或頁尾—的段落格式設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T102532Z" creationid="Franklin Weng" creationdate="20180404T133400Z">
+        <seg>不過在使用條件式樣式時，你必須個別定義每個會用到的情境——比方說表格或頁尾——的段落格式設定。</seg>
       </tuv>
     </tu>
     <tu>
