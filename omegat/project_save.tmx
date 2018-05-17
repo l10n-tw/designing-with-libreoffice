@@ -6267,8 +6267,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Page styles also have a &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; setting, which allows you to set the line spacing by page, selecting the paragraph style to use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124429Z" creationid="Franklin Weng" creationdate="20180402T134033Z">
-        <seg>&lt;f0&gt;在頁面樣式中也有個「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」設定，讓你可以依頁面來選擇參照樣式中的行距。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T100311Z" creationid="Franklin Weng" creationdate="20180402T134033Z">
+        <seg>&lt;f0&gt;在「頁面」樣式中也有個「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」設定，讓你可以依頁面選擇要參照的段落樣式行距。</seg>
       </tuv>
     </tu>
     <tu>
