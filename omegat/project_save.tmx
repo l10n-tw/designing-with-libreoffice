@@ -1691,8 +1691,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A conditional style is an alternative way of using paragraph styles.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T132826Z" creationid="Franklin Weng" creationdate="20180404T132826Z">
-        <seg>&lt;f0&gt;條件式樣式是除了段落樣式以外的另一種選擇。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T101517Z" creationid="Franklin Weng" creationdate="20180404T132826Z">
+        <seg>&lt;f0&gt;條件式樣式是段落樣式外的另一種做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30143,8 +30143,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Normally, you define a style, then set the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Next Style&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; field on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Organizer&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T133014Z" creationid="Franklin Weng" creationdate="20180404T133014Z">
-        <seg>通常來說，你定義了一個樣式，&lt;/f0&gt;然後在「&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;統籌概覽&lt;/f5&gt;&lt;/f4&gt;」標籤頁中會設定「&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;」&lt;f6&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T101611Z" creationid="Franklin Weng" creationdate="20180404T133014Z">
+        <seg>一般而言，你會先定義一個樣式，&lt;/f0&gt;接著在「&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;統籌概覽&lt;/f5&gt;&lt;/f4&gt;」標籤頁中設定「&lt;f1&gt;&lt;f2&gt;下一個樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;」欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36274,8 +36274,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;&lt;f1&gt;Condition&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; tab sets up one paragraph style to use the formatting of other styles in different contexts.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T135630Z" creationid="Franklin Weng" creationdate="20180404T133159Z">
-        <seg>而在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」標籤頁中，你可以設定某個段落樣式在不同情境下使用其他樣式的格式設定。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T101730Z" creationid="Franklin Weng" creationdate="20180404T133159Z">
+        <seg>而在「&lt;f0&gt;&lt;f1&gt;條件&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;」標籤頁中，你則可以設定某個段落樣式在不同情境下如何使用其他樣式的格式設定。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
