@@ -7001,8 +7001,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Setting &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; for more than one paragraph style can negates the setting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T125519Z" creationid="Franklin Weng" creationdate="20180402T125519Z">
-        <seg>&lt;f0&gt;如果在多個段落樣式的頁面中設定&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「行距皆相等」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;可能不會有作用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T092919Z" creationid="Franklin Weng" creationdate="20180402T125519Z">
+        <seg>&lt;f0&gt;如果在多個段落樣式的頁面中設定「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的話，可能不會有作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8841,8 +8841,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Usually, the spacing is that of the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; font.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T125306Z" creationid="Franklin Weng" creationdate="20180402T125306Z">
-        <seg>&lt;f0&gt;通常這裡的&lt;/f0&gt;「行間距」設定是針對&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;的&lt;f3&gt;字型。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T092745Z" creationid="Franklin Weng" creationdate="20180402T125306Z">
+        <seg>&lt;f0&gt;通常，這裡的行距等於「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」樣式中的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43083,8 +43083,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Use the setting only for the paragraph style used most often – usually, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Text Body &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;– and related styles – for example,&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Text Body Indent&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; – that use the same line spacing.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T131404Z" creationid="Franklin Weng" creationdate="20180402T131404Z">
-        <seg>這個設定最好只用在最常用的段落樣式&lt;/f3&gt;—通常是「&lt;f4&gt;&lt;f5&gt;內文&lt;/f5&gt;&lt;/f4&gt;」—&lt;f6&gt;以及使用相同行距的相關樣式—例如&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;內文縮排&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;等等。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093052Z" creationid="Franklin Weng" creationdate="20180402T131404Z">
+        <seg>這個設定最好只用在最常用的段落樣式——通常是「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;內文&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」——以及其他使用相同行距的相關樣式——例如「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;內文縮排&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」等等。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
