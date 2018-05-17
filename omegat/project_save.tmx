@@ -9284,8 +9284,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You cannot make any pre-defined paragraph styles conditional except &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Body&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140531Z" creationid="Franklin Weng" creationdate="20180404T140531Z">
-        <seg>&lt;f0&gt;除了&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」以外，你不能將任何其他預先定義的樣式做成條件式樣式。&lt;f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T140925Z" creationid="Franklin Weng" creationdate="20180404T140531Z">
+        <seg>&lt;f0&gt;除了「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;內文&lt;/f2&gt;&lt;/f1&gt;」以外，任何其他預先定義的段落樣式都不能做條件式樣式。&lt;f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
