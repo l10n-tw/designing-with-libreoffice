@@ -26347,8 +26347,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>In fact, pre-defined paragraph styles display no &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Condition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab, although new (custom) paragraph styles created from them do.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T140626Z" creationid="Franklin Weng" creationdate="20180404T140626Z">
-        <seg>事實上，那些預先定義的樣式中也不會顯示「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁，只有由它們所建立的新的（自訂的）段落樣式中會有。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T141038Z" creationid="Franklin Weng" creationdate="20180404T140626Z">
+        <seg>實際上，那些預先定義的段落樣式中也不會顯示出「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」標籤頁，只有那些由條件標籤頁建立的新（自訂的）段落樣式看得到。</seg>
       </tuv>
     </tu>
     <tu>
