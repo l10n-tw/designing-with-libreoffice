@@ -15351,8 +15351,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Because the small cap character style has a smaller font size, you probably will want to increase the spacing anyway to increase legibility.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T144604Z" creationid="Franklin Weng" creationdate="20180402T123330Z">
-        <seg>因為小型大寫字母的字元樣式的字型大小較小，所以可能需要增加間距以增進視認性。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T090041Z" creationid="Franklin Weng" creationdate="20180402T123330Z">
+        <seg>因為小型大寫字母的字元樣式之字型大小較小，所以可能需要增加間距以增進視認性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18745,8 +18745,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not increase the width by more than a few percent, or it may look grotesque.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123101Z" creationid="Franklin Weng" creationdate="20180402T123101Z">
-        <seg>寬度增加幾個百分比就好，不要增加太多，不然會看起來很怪異。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T085949Z" creationid="Franklin Weng" creationdate="20180402T123101Z">
+        <seg>寬度增加幾個百分比就好，不要增加太多，否則會看起來很奇怪。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27052,8 +27052,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Increasing the width may have upset the spacing between characters, so experiment with the &lt;f0&gt;Spacing&lt;/f0&gt; field &lt;f1&gt;on the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Position&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; tab&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123254Z" creationid="Franklin Weng" creationdate="20180402T123254Z">
-        <seg>增加寬度的時候可能會造成字元間距有些問題，這時用「&lt;f2&gt;&lt;f3&gt;位置&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;標籤頁&lt;/f4&gt;中的「&lt;f0&gt;間距&lt;/f0&gt;」&lt;f1&gt;&lt;/f1&gt;欄位來實驗調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T090026Z" creationid="Franklin Weng" creationdate="20180402T123254Z">
+        <seg>增加寬度的時候可能會造成字元間距有些問題，這時利用「&lt;f2&gt;&lt;f3&gt;位置&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;標籤頁&lt;/f4&gt;中的「&lt;f0&gt;間距&lt;/f0&gt;」欄位來實驗調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28937,8 +28937,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Making line spacing consistent</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123433Z" creationid="Franklin Weng" creationdate="20180402T123433Z">
-        <seg>讓行間距一致</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T090130Z" creationid="Franklin Weng" creationdate="20180402T123433Z">
+        <seg>讓行距一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -44347,8 +44347,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When you have finished your tweaks, compare your effort to LibreOffice’s &lt;f0&gt;manufactured &lt;/f0&gt;small caps, and choose the best one to use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T123414Z" creationid="Franklin Weng" creationdate="20180402T123414Z">
-        <seg>完成調整之後，把它跟 LibreOffice &lt;f0&gt;產生&lt;/f0&gt;的小型大寫字母比較一下，看看哪個較理想。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T090106Z" creationid="Franklin Weng" creationdate="20180402T123414Z">
+        <seg>完成調整之後，把它跟 LibreOffice&lt;f0&gt;仿製&lt;/f0&gt;的小型大寫字母比較一下，看看哪個比較理想就用哪個。</seg>
       </tuv>
     </tu>
     <tu>
