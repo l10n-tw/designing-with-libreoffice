@@ -4795,8 +4795,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;If you want a custom style to be conditional, you must set up at least one condition before you click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; or &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Accept&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; button when you close the style dialog window for the first time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121843Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
-        <seg>&lt;f0&gt;如果你要讓你的自訂樣式成為條件式樣式，那你在第一次設定樣式時至少要放入一個條件，然後再按下&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;確定&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;或&lt;/f3&gt;「&lt;f4&gt;&lt;f5&gt;接受&lt;/f5&gt;&lt;/f4&gt;」&lt;f6&gt;關閉視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T141203Z" creationid="Franklin Weng" creationdate="20180404T140630Z">
+        <seg>&lt;f0&gt;如果你要讓你的自訂樣式成為條件式樣式，那你在第一次設定樣式時至少要放入一個條件，然後再按下&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;確定&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」或「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;套用&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」關閉視窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12163,8 +12163,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A conditional style is limited to thirty pre-defined contexts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121953Z" creationid="Franklin Weng" creationdate="20180405T121953Z">
-        <seg>每個條件式樣式限制最多只能有 30 個預先定義的情境。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T141242Z" creationid="Franklin Weng" creationdate="20180405T121953Z">
+        <seg>每個條件式樣式限制最多只能有30個預先定義的前後文情境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31540,8 +31540,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Otherwise, the next time you open the style’s dialog window, the &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Condition&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; tab is no longer available.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T121922Z" creationid="Franklin Weng" creationdate="20180405T121818Z">
-        <seg>要不然，之後再編輯此樣式的時候，就看不到&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;條件&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;標籤頁了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T141218Z" creationid="Franklin Weng" creationdate="20180405T121818Z">
+        <seg>不然，之後再編輯此樣式的時候，你就看不到&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;條件&lt;/f8&gt;&lt;/f7&gt;」&lt;f9&gt;標籤頁了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46485,8 +46485,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You might be able to think of at least two dozen more contexts that might be useful, but you cannot create custom contexts.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180405T122229Z" creationid="Franklin Weng" creationdate="20180405T122229Z">
-        <seg>你也許會想到至少廿幾個可能會用到的情境，但你無法自訂情境。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T141312Z" creationid="Franklin Weng" creationdate="20180405T122229Z">
+        <seg>你也許會想到至少二十幾個可能會用到的情境，但你無法自訂情境。</seg>
       </tuv>
     </tu>
     <tu>
