@@ -22883,8 +22883,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, digital typography is also about making a document easier to construct and maintain.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131421Z" creationid="Franklin Weng" creationdate="20180404T131250Z">
-        <seg>不過，電子文件的排印學中還包括了要讓文件容易建構與維護。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T100709Z" creationid="Franklin Weng" creationdate="20180404T131250Z">
+        <seg>不過，數位文件的字體排印學還包括了要讓文件更容易建構和方便維護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23301,8 +23301,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, many other documents have longer life spans.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131646Z" creationid="Franklin Weng" creationdate="20180404T131646Z">
-        <seg>但還是有許多文件的生命週期是很長的</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T101136Z" creationid="Franklin Weng" creationdate="20180404T131646Z">
+        <seg>不過，還是有許多類型的文件可以長期運用，有更長的生命週期。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26299,8 +26299,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>In fact, any attempt to implement them in a short-lived document is a waste of effort.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131603Z" creationid="Franklin Weng" creationdate="20180404T131603Z">
-        <seg>事實上，對短期文件來做這些細微調整只是在浪費生命而已。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T101041Z" creationid="Franklin Weng" creationdate="20180404T131603Z">
+        <seg>想針對這類暫時性文件打造出便於建構與維護的結構安排，事實上只是浪費生命而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31879,8 +31879,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>People think of typography mostly in terms of &lt;f0&gt;format – that is, the choices of fonts and spacing&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131324Z" creationid="Franklin Weng" creationdate="20180404T131247Z">
-        <seg>通常大家會認為字體排印學就是在講&lt;f0&gt;格式設定—也就是選擇字型跟處理間距等等。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T100619Z" creationid="Franklin Weng" creationdate="20180404T131247Z">
+        <seg>一般人會認為字體排印學就是在講&lt;f0&gt;格式設定——也就是選擇字型和處理間距等等。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36702,8 +36702,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Register-true &lt;/f0&gt;feature &lt;f1&gt;on the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Indents &amp; Spacing &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;tab&lt;/f4&gt; makes lines consistent across the pages – or as near as possible if different-sized fonts are used.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T124730Z" creationid="Franklin Weng" creationdate="20180404T124730Z">
-        <seg>「&lt;f2&gt;&lt;f3&gt;縮排與間距&lt;/f3&gt;&lt;/f2&gt;」&lt;f4&gt;標籤頁&lt;/f4&gt;中的「&lt;f0&gt;行距皆相等&lt;/f0&gt;」功能可以讓整個頁面中每一行的行間距保持一致—或者說盡可能保持一致，因為有時字型大小不同會有影響。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T100510Z" creationid="Franklin Weng" creationdate="20180404T124730Z">
+        <seg>「&lt;f2&gt;&lt;f3&gt;縮排與間距&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;」標籤頁&lt;/f4&gt;中的「&lt;f0&gt;行距皆相等&lt;/f0&gt;」功能可以讓整個頁面中每一行的行距保持一致——或者說，盡可能保持一致，因為有時字型大小不同會有影響。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40115,8 +40115,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These concerns do not matter if you are writing a document that will be sent, read, and discarded in a matter of minutes.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180404T131525Z" creationid="Franklin Weng" creationdate="20180404T131525Z">
-        <seg>如果你只是寫份文件然後幾分鐘內就要送出，然後就不會再用了，那怎麼做其實都沒差。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T100802Z" creationid="Franklin Weng" creationdate="20180404T131525Z">
+        <seg>如果你只是寫份幾分鐘內就要送出的文件，之後也不會再用到了，那其實怎麼做都沒差。</seg>
       </tuv>
     </tu>
     <tu>
