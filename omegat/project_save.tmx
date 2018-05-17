@@ -8914,8 +8914,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is selected, the lines of text in columns, mirrored pages, or on both sides of a page are spaced identically.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124800Z" creationid="Franklin Weng" creationdate="20180402T124800Z">
-        <seg>&lt;f0&gt;勾選&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;「行距皆相等」&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;的「啟用」時，在欄位中的文字，相對應的頁面，或是一頁中的左右邊的行距都會保持一致。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T092412Z" creationid="Franklin Weng" creationdate="20180402T124800Z">
+        <seg>&lt;f0&gt;在你勾選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的「啟用」後，不管是欄內的文字、左右相反的兩頁、一頁中的左右兩側等行距都會保持一致。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27737,8 +27737,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>It’s a large mystery for a simple setting.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124226Z" creationid="Franklin Weng" creationdate="20180402T124226Z">
-        <seg>這對簡單的設定來說是個很大的謎團。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T092007Z" creationid="Franklin Weng" creationdate="20180402T124226Z">
+        <seg>一個的簡單設定，卻有很大的謎團。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36241,8 +36241,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Register-true &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;feature makes lines consistent across the pages – or as near as possible if different-sized fonts are used.&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T124615Z" creationid="Franklin Weng" creationdate="20180402T124615Z">
-        <seg>所謂的「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;行距皆相等&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」功能可以讓整個頁面中每一行的行間距保持一致—或者說盡可能保持一致，因為有時字型大小不同會有影響。&lt;/f9&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T092118Z" creationid="Franklin Weng" creationdate="20180402T124615Z">
+        <seg>其實，所謂的「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;行距皆相等&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」功能，可以讓整個頁面中每一行的行間距保持一致——不過有時字型大小不同還是會有影響，所以或者說是盡可能保持一致。&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
