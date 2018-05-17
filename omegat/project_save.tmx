@@ -8914,8 +8914,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;When &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Register-true&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is selected, the lines of text in columns, mirrored pages, or on both sides of a page are spaced identically.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T092412Z" creationid="Franklin Weng" creationdate="20180402T124800Z">
-        <seg>&lt;f0&gt;在你勾選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的「啟用」後，不管是欄內的文字、左右相反的兩頁、一頁中的左右兩側等行距都會保持一致。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093834Z" creationid="Franklin Weng" creationdate="20180402T124800Z">
+        <seg>&lt;f0&gt;在你勾選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;行距皆相等&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」的「啟用」後，不管是欄內的文字、左右相反的兩頁、一頁的正反兩面等行距都會保持一致。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9228,8 +9228,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can improve the effectiveness of the setting for pages &lt;/f0&gt;printed on both sides by choosing a heavier weight of paper – which you probably want anyway if a document is important enough that you are concerned about line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105839Z" creationid="Franklin Weng" creationdate="20180402T133800Z">
-        <seg>&lt;f0&gt;需要雙面列印時，你可以透過選擇較厚重的紙張來改善這個設定造成的效果。&lt;/f0&gt;如果你的文件真的重要到連行距都得斤斤計較，你應該也會想要這樣做。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093807Z" creationid="Franklin Weng" creationdate="20180402T133800Z">
+        <seg>&lt;f0&gt;當你需要雙面列印時，可以透過選擇較厚的紙張來改善這個設定造成的效果。&lt;/f0&gt;如果你的文件真的重要到連行距都得斤斤計較，你應該也會想要這樣做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36161,8 +36161,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That way, &lt;f1&gt;the Headings will rarely be out of sync for any length of time.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093420Z" creationid="Franklin Weng" creationdate="20180402T132152Z">
-        <seg>這樣一來，&lt;f1&gt;「標題」樣式就很少會有感覺跑位的時候。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093736Z" creationid="Franklin Weng" creationdate="20180402T132152Z">
+        <seg>這樣一來，&lt;f1&gt;「標題」樣式就很少會有感覺走樣的時候。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
