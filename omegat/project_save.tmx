@@ -27173,8 +27173,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Instead of using &lt;f0&gt;Register-true&lt;/f0&gt; for Headings, make the font size, the space above, and the space below equal a multiple of the line spacing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T131533Z" creationid="Franklin Weng" creationdate="20180402T131533Z">
-        <seg>標題不要用「&lt;f0&gt;行距皆相等&lt;/f0&gt;」設定，改為設定字型大小與將標題上下的間距設成行間距的倍數。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093303Z" creationid="Franklin Weng" creationdate="20180402T131533Z">
+        <seg>「標題」類樣式則不要使用「&lt;f0&gt;行距皆相等&lt;/f0&gt;」設定，應改為讓字型大小、標題段落之上、標題段落之下的總間距，加總後等於行距的某個倍數。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36161,8 +36161,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>That way, &lt;f1&gt;the Headings will rarely be out of sync for any length of time.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180402T132152Z" creationid="Franklin Weng" creationdate="20180402T132152Z">
-        <seg>這樣做，&lt;f1&gt;標題就不太會遭經。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180517T093420Z" creationid="Franklin Weng" creationdate="20180402T132152Z">
+        <seg>這樣一來，&lt;f1&gt;「標題」樣式就很少會有感覺跑位的時候。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
