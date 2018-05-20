@@ -5139,8 +5139,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In this structure, each version could be distinct, and single-sourcing mainly a method of keeping related material together.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T133724Z" creationid="Franklin Weng" creationdate="20180406T133724Z">
-        <seg>&lt;f0&gt;這種建構方式，每個版本都能區隔開來，文件本身則是用來把相關的材料組合起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T170156Z" creationid="Franklin Weng" creationdate="20180406T133724Z">
+        <seg>&lt;f0&gt;套用這種建構方式的話，每個版本其實都可以有不同的內容，畢竟多版本單一文件做法的主要目的，就只是把相關的內容統合起來而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,8 +6043,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;One way to structure s&lt;/f0&gt;ingle-sourcing &lt;f1&gt;is to have&lt;/f1&gt; one set of styles, sections, or fields that are always visible and another set for each additional version that can be turned on and off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T165828Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
-        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是，&lt;f1&gt;建立一套樣式、區段或欄位用於不變動、保持顯示的內容，另一套則用於需要切換隱藏或顯示的內容。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T165848Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
+        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是，&lt;f1&gt;建立一組樣式、區段或欄位用於不變動、保持顯示的內容，另一組則用於需要切換隱藏或顯示的內容。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37266,8 +37266,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The alternative is to create a special set of paragraph styles for each version of the document, turning them on and off as needed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T132139Z" creationid="Franklin Weng" creationdate="20180406T132139Z">
-        <seg>另外也可以對文件的每個版本都建立一組特定的段落樣式，在需要時做切換。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T165950Z" creationid="Franklin Weng" creationdate="20180406T132139Z">
+        <seg>另外，也可以對文件的每個版本都建立一組特定的段落樣式，當需要時再做隱藏或顯示的切換。</seg>
       </tuv>
     </tu>
     <tu>
