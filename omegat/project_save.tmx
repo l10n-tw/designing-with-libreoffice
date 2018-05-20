@@ -577,8 +577,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;This method &lt;f1&gt;works with both styles and with&lt;/f1&gt; sections and fields, &lt;f2&gt;but can be hard to organize.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T131852Z" creationid="Franklin Weng" creationdate="20180406T131455Z">
-        <seg>&lt;/f0&gt;這個方式&lt;f1&gt;對樣式、區段與欄位都有效，&lt;/f1&gt;&lt;f2&gt;但可能會不好掌控。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T165634Z" creationid="Franklin Weng" creationdate="20180406T131455Z">
+        <seg>&lt;/f0&gt;這個方式&lt;f1&gt;對樣式、區段、欄位等都有效，&lt;/f1&gt;&lt;f2&gt;但可能不好掌控。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,8 +6043,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;One way to structure s&lt;/f0&gt;ingle-sourcing &lt;f1&gt;is to have&lt;/f1&gt; one set of styles, sections, or fields that are always visible and another set for each additional version that can be turned on and off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T132051Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
-        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是&lt;f1&gt;建立一組樣式、區段或欄位用於不變動、持續顯示的內容，另一組則用於需要切換隱藏或顯示的內容。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T165828Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
+        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是，&lt;f1&gt;建立一套樣式、區段或欄位用於不變動、保持顯示的內容，另一套則用於需要切換隱藏或顯示的內容。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
