@@ -13648,8 +13648,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>All the tools for hidden elements work with two versions of the text, but sections and some fields do not work with three or more versions.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130634Z" creationid="Franklin Weng" creationdate="20180406T130634Z">
-        <seg>所有隱藏特定內容用的工具都可以應付兩個版本的狀況，而三個以上版本的狀況，有些區段與欄位則無法運作。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T123519Z" creationid="Franklin Weng" creationdate="20180406T130634Z">
+        <seg>所有隱藏元素的工具都可以應付兩個版本時的狀況，而三個以上版本的狀況下，有些區段和欄位則無法作用。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,8 +28478,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>LibreOffice’s solution to this dilemma is to create a single file in which selected &lt;f0&gt;words, &lt;/f0&gt;paragraphs, &lt;f1&gt;or sections&lt;/f1&gt; are &lt;f2&gt;hidden or revealed&lt;/f2&gt; as needed.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T130300Z" creationid="Franklin Weng" creationdate="20180406T130300Z">
-        <seg>LibreOffice 對這個兩難問題的解決方法，是在單一檔案中可以選擇讓某些&lt;f0&gt;字&lt;/f0&gt;、段落或&lt;f1&gt;區段&lt;/f1&gt;在需要時&lt;f2&gt;隱藏或顯示&lt;/f2&gt;出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T123213Z" creationid="Franklin Weng" creationdate="20180406T130300Z">
+        <seg>LibreOffice對這個兩難問題的解決方法，是在單一檔案中可以選擇讓某些&lt;f0&gt;字&lt;/f0&gt;、段落、&lt;f1&gt;區段&lt;/f1&gt;等，在需要時&lt;f2&gt;隱藏起來或顯示&lt;/f2&gt;出來。</seg>
       </tuv>
     </tu>
     <tu>
