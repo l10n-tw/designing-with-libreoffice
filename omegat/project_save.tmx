@@ -9883,8 +9883,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f1&gt;Or, &lt;/f1&gt;you might have one version of a software manual for &lt;f2&gt;users and another for system administrators.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T123247Z" creationid="Franklin Weng" creationdate="20180406T123247Z">
-        <seg>&lt;f1&gt;或者&lt;/f1&gt;，文件其中一個版本是給使用者看的手冊，&lt;f2&gt;另一個版本則是給系統管理者看的。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T122753Z" creationid="Franklin Weng" creationdate="20180406T123247Z">
+        <seg>&lt;f1&gt;還有&lt;/f1&gt;，像是軟體的操作手冊有一個版本要給使用者看，&lt;f2&gt;而另一個版本則是要給系統管理者看。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21226,8 +21226,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For instance, you might want one version of a handout for students, and another &lt;f0&gt;version&lt;/f0&gt; for teachers that adds teaching goals and suggestions for use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T123156Z" creationid="Franklin Weng" creationdate="20180406T123156Z">
-        <seg>例如，一份文件的其中一個版本是給學生看的講義，另一個&lt;f0&gt;版本&lt;/f0&gt;則是給老師看的教學目標與教案等等。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T122537Z" creationid="Franklin Weng" creationdate="20180406T123156Z">
+        <seg>例如，一份文件有一個版本是給學生看的講義，而另一個&lt;f0&gt;版本&lt;/f0&gt;則是給老師看的教學目標與教案等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29846,8 +29846,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Multiple versions of documents that differ only in some details are common in business or academia.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T122826Z" creationid="Franklin Weng" creationdate="20180406T122826Z">
-        <seg>不管在商務或學術界，都經常可以看到一份文件有多個版本，而各版本間只在某些細節不同而已。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T122500Z" creationid="Franklin Weng" creationdate="20180406T122826Z">
+        <seg>不管在商務界或學術界，都經常可以看到同一份文件有多個版本可以運用的做法，而各版本間只有些微的細節差異而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34745,8 +34745,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Single-sourcing &lt;f0&gt;by hiding text&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T122746Z" creationid="Franklin Weng" creationdate="20180406T122746Z">
-        <seg>透過&lt;f0&gt;隱藏文字&lt;/f0&gt;實作多版本文件</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T122346Z" creationid="Franklin Weng" creationdate="20180406T122746Z">
+        <seg>透過隱藏文字實作多版本文件</seg>
       </tuv>
     </tu>
     <tu>
