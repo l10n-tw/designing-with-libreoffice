@@ -5091,8 +5091,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Paragraph Styles&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; pane on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Condition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab, select the paragraph style that you want to apply in the highlighted context.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034624Z" creationid="Franklin Weng" creationdate="20180406T034624Z">
-        <seg>&lt;f0&gt;然後在右邊&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;段落樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;中，選擇你要套用在該情境的段落樣式。&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T115722Z" creationid="Franklin Weng" creationdate="20180406T034624Z">
+        <seg>&lt;f0&gt;然後在右邊的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;段落樣式&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」&lt;/f3&gt;窗格中，選擇你要套用在該情境的段落樣式。&lt;f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31492,8 +31492,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Otherwise, as you work, you might wonder why the formatting has changed but the style listed on the tool bar hasn't.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034444Z" creationid="Franklin Weng" creationdate="20180406T034444Z">
-        <seg>要不然，在你工作的時候，你可能會覺得很奇怪，為什麼換了格式設定，但在工具列上顯示的樣式名稱卻沒改變。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T115456Z" creationid="Franklin Weng" creationdate="20180406T034444Z">
+        <seg>要不然，當你在作業時，可能會覺得很奇怪，為什麼格式設定變了，但是工具列上顯示的樣式名稱卻沒改變。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41733,8 +41733,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>To minimize confusion, name the style &lt;f0&gt;Conditional Text&lt;/f0&gt; &lt;f1&gt;or something like &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Single Style &lt;/f3&gt;&lt;/f2&gt;so you can identify it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T034159Z" creationid="Franklin Weng" creationdate="20180406T034159Z">
-        <seg>為了避免混淆，將樣式名稱設定成「&lt;f0&gt;條件式文字&lt;/f0&gt;」&lt;f1&gt;或是「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;單一樣式&lt;/f3&gt;&lt;/f2&gt;」之類的名稱，以方便辨識。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T115351Z" creationid="Franklin Weng" creationdate="20180406T034159Z">
+        <seg>為了避免混淆，你可以將樣式名稱設定成「&lt;f0&gt;條件式文字&lt;/f0&gt;」&lt;f1&gt;或是「&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;單一樣式&lt;/f3&gt;&lt;/f2&gt;」之類的名稱，以方便辨識。</seg>
       </tuv>
     </tu>
     <tu>
