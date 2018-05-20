@@ -6846,8 +6846,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text Flow&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Breaks &gt; Insert&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060010Z" creationid="Franklin Weng" creationdate="20180406T060010Z">
-        <seg>&lt;f0&gt;點選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;排文和分頁&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; 斷隔符 &gt; 插入&lt;/f6&gt;」。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121243Z" creationid="Franklin Weng" creationdate="20180406T060010Z">
+        <seg>&lt;f0&gt;點選「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;排文和分頁&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中的「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;隔斷符 &gt; 插入&lt;/f6&gt;」。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24413,8 +24413,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If the &lt;f0&gt;Position &lt;/f0&gt;is &lt;f1&gt;&lt;f2&gt;B&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;efore,&lt;/f3&gt; you &lt;f4&gt;can select&lt;/f4&gt; &lt;f5&gt;the &lt;/f5&gt;&lt;f6&gt;With Page Style&lt;/f6&gt; box, and &lt;f7&gt;choose&lt;/f7&gt; &lt;f8&gt;the new page’s style &lt;/f8&gt;from the drop-down list.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060220Z" creationid="Franklin Weng" creationdate="20180406T060220Z">
-        <seg>如果「&lt;f0&gt;位置&lt;/f0&gt;」設定為「&lt;f1&gt;&lt;f2&gt;之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;」，你&lt;f4&gt;可以在下方勾選&lt;/f4&gt;「&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;帶頁面樣式&lt;/f6&gt;」選項，並從下拉式選單中&lt;f7&gt;選擇&lt;/f7&gt;&lt;f8&gt;新的頁面樣式&lt;/f8&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121349Z" creationid="Franklin Weng" creationdate="20180406T060220Z">
+        <seg>如果「&lt;f0&gt;位置&lt;/f0&gt;」設定為「&lt;f1&gt;&lt;f2&gt;之前&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;」，你&lt;f4&gt;可以在下方勾選&lt;/f4&gt;「&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;帶頁面樣式&lt;/f6&gt;」選項，並從下拉選單中&lt;f7&gt;選擇&lt;/f7&gt;&lt;f8&gt;新頁面的樣式&lt;/f8&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31137,8 +31137,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Open the dialog window for the paragraph style that will coincide with the start of a new page.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T055858Z" creationid="Franklin Weng" creationdate="20180406T055858Z">
-        <seg>開啟編輯打算用於換新頁的段落樣式的視窗。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121225Z" creationid="Franklin Weng" creationdate="20180406T055858Z">
+        <seg>開啟打算想同時換新頁的段落樣式的修改對話窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44427,8 +44427,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When you select a page style to follow the break, you &lt;f0&gt;can &lt;/f0&gt;also re-set the &lt;f1&gt;Page Number.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060300Z" creationid="Franklin Weng" creationdate="20180406T060300Z">
-        <seg>當你選好一個頁面樣式之後跟一個斷頁符之後，你&lt;f0&gt;也&lt;/f0&gt;可以重新設定&lt;f1&gt;頁碼。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121547Z" creationid="Franklin Weng" creationdate="20180406T060300Z">
+        <seg>當你選擇好隔斷符後接的頁面樣式之後，你也&lt;f0&gt;可以&lt;/f0&gt;同時決定是否要重新設定「&lt;f1&gt;頁碼」。</seg>
       </tuv>
     </tu>
     <tu>
