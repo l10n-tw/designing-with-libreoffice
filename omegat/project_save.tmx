@@ -721,8 +721,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;For example, you might have a page style for an introduction numbered in lower case Roman numerals, and ordinary pages that use Arabic numerals.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060400Z" creationid="Franklin Weng" creationdate="20180406T060400Z">
-        <seg>&lt;/f1&gt;&lt;f2&gt;例如，你可能在前面的介紹部份的段落樣式中，頁碼使用小寫羅馬數字，而一般內文頁面中頁碼則使用常用的阿拉伯數字。&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121732Z" creationid="Franklin Weng" creationdate="20180406T060400Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;例如，你可能在書籍前面簡介部分的段落樣式中，讓頁碼使用小寫羅馬數字，而到了一般內文部分時則讓頁碼使用常見的阿拉伯數字。&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15039,8 +15039,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Automate page breaks &lt;f0&gt;in&lt;/f0&gt; the &lt;f1&gt;Break&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/f2&gt; section of the &lt;f4&gt;Text Flow&lt;/f4&gt; tab &lt;f5&gt;by associating them with a paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060601Z" creationid="Franklin Weng" creationdate="20180406T060601Z">
-        <seg>&lt;f0&gt;在&lt;/f0&gt;「&lt;f4&gt;排文和分頁&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;隔斷符&lt;/f1&gt;」&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;處設定段落樣式中的自動斷頁。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121902Z" creationid="Franklin Weng" creationdate="20180406T060601Z">
+        <seg>&lt;f0&gt;在「&lt;/f0&gt;&lt;f4&gt;排文和分頁&lt;/f4&gt;」標籤頁中的「&lt;f1&gt;隔斷符&lt;/f1&gt;&lt;f5&gt;」處設定段落樣式要自動斷頁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25547,8 +25547,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If you want the page number to continue sequentially from the previous page, leave the &lt;f0&gt;Page number&lt;/f0&gt; field set to &lt;f1&gt;0.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T060441Z" creationid="Franklin Weng" creationdate="20180406T060441Z">
-        <seg>如果你要讓接續之前的頁碼，那就把「&lt;f0&gt;頁碼&lt;/f0&gt;」欄位設為 &lt;f1&gt;0&lt;/f1&gt; 即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T121812Z" creationid="Franklin Weng" creationdate="20180406T060441Z">
+        <seg>如果你想要讓它接續前面的頁碼，那就把「&lt;f0&gt;頁碼&lt;/f0&gt;」欄位設為 &lt;f1&gt;0&lt;/f1&gt; 即可。</seg>
       </tuv>
     </tu>
     <tu>
