@@ -6043,8 +6043,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;One way to structure s&lt;/f0&gt;ingle-sourcing &lt;f1&gt;is to have&lt;/f1&gt; one set of styles, sections, or fields that are always visible and another set for each additional version that can be turned on and off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T165848Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
-        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是，&lt;f1&gt;建立一組樣式、區段或欄位用於不變動、保持顯示的內容，另一組則用於需要切換隱藏或顯示的內容。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T170304Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
+        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是，&lt;f1&gt;建立一組樣式、區段或欄位給永遠維持顯示的內容使用，而另一組則給需要切換隱藏或顯示的內容使用。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13800,8 +13800,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Alternatively, each version could be mixed and matched.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180406T133811Z" creationid="Franklin Weng" creationdate="20180406T133811Z">
-        <seg>另一種建構方法，每個版本可以混合並匹配在一起。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T170340Z" creationid="Franklin Weng" creationdate="20180406T133811Z">
+        <seg>此外，每個版本都還可以再調整並混搭在一起。</seg>
       </tuv>
     </tu>
     <tu>
