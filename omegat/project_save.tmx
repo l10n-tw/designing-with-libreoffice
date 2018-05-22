@@ -6043,8 +6043,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;One way to structure s&lt;/f0&gt;ingle-sourcing &lt;f1&gt;is to have&lt;/f1&gt; one set of styles, sections, or fields that are always visible and another set for each additional version that can be turned on and off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180520T170304Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
-        <seg>&lt;f0&gt;其中一種建構多版本單一文件的方法&lt;/f0&gt;是，&lt;f1&gt;建立一組樣式、區段或欄位給永遠維持顯示的內容使用，而另一組則給需要切換隱藏或顯示的內容使用。&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T132742Z" creationid="Franklin Weng" creationdate="20180406T132051Z">
+        <seg>&lt;f0&gt;其中一種建構單一文件多版本管控的方法&lt;/f0&gt;是，&lt;f1&gt;建立一組樣式、區段或欄位給永遠維持顯示的內容使用，而另一組則給需要切換隱藏或顯示的內容使用。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38096,8 +38096,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The fields used for single-sourcing use an off or on condition for hiding and unhiding.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T080647Z" creationid="Franklin Weng" creationdate="20180414T080336Z">
-        <seg>在多版本單一文件中使用的欄位，會用一個「開關」條件來隱藏或顯示。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T132658Z" creationid="Franklin Weng" creationdate="20180414T080336Z">
+        <seg>在多版本管控單一文件中使用的欄位，會用一個「開關」條件來隱藏或顯示。</seg>
       </tuv>
     </tu>
     <tu>
