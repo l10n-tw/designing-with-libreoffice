@@ -1183,16 +1183,16 @@
       <tuv lang="EN">
         <seg>&lt;/f4&gt;For instance, if the condition is &lt;f5&gt;1,&lt;/f5&gt; then the text that appears in the document is whatever is entered in the &lt;f6&gt;Then&lt;/f6&gt; field, such as &lt;f7&gt;&lt;f8&gt;User's Guide&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.&lt;/f9&gt; However, change the condition to anything else, and the &lt;f10&gt;text in the document becomes whatever is entered in the &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;Else&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; field, such as &lt;/f13&gt;&lt;f14&gt;System Administrator's Guide&lt;/f14&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083330Z" creationid="Franklin Weng" creationdate="20180414T083330Z">
-        <seg>&lt;/f4&gt;例如，如果條件為 &lt;f5&gt;1&lt;/f5&gt;，那麼在「&lt;f6&gt;則&lt;/f6&gt;」欄位中的文字，像是「&lt;f7&gt;&lt;f8&gt;使用者指南&lt;/f8&gt;&lt;/f7&gt;」，就會顯示在文件中 &lt;f9&gt;&lt;/f9&gt;。而把條件改為任何其他值，那麼在「&lt;f11&gt;&lt;f12&gt;否則&lt;/f12&gt;&lt;/f11&gt;」&lt;f13&gt;欄位&lt;/f13&gt;中的文字，像是「&lt;f14&gt;系統管理者指南&lt;/f14&gt;」就會&lt;f10&gt;顯示在文件中&lt;/f10&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133352Z" creationid="Franklin Weng" creationdate="20180414T083330Z">
+        <seg>&lt;/f4&gt;例如，如果條件為 &lt;f5&gt;1&lt;/f5&gt;，那麼在「&lt;f6&gt;則&lt;/f6&gt;」欄位中的文字，像是「&lt;f7&gt;&lt;f8&gt;使用者指南&lt;/f8&gt;&lt;/f7&gt;」，就會顯示在文件中。而把條件改為任何其他值的話，那麼在「&lt;f11&gt;&lt;f12&gt;否則&lt;/f12&gt;&lt;/f11&gt;」&lt;f13&gt;欄位&lt;/f13&gt;中的文字，像是「&lt;f14&gt;系統管理者指南&lt;/f14&gt;」就會&lt;f10&gt;顯示在文件中&lt;/f10&gt;。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;/f4&gt;Hiding a section may be a simpler tactic to use.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081536Z" creationid="Franklin Weng" creationdate="20180414T081536Z">
-        <seg>&lt;/f4&gt;改用隱藏區段可能會是較簡單的策略。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133240Z" creationid="Franklin Weng" creationdate="20180414T081536Z">
+        <seg>&lt;/f4&gt;改用區段作隱藏可能會是比較簡單的做法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7855,8 +7855,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The main disadvantage of this method is that each condition needs to be changed separately, while using the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden Font &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;effect means toggling a single box.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084228Z" creationid="Franklin Weng" creationdate="20180414T084228Z">
-        <seg>&lt;f0&gt;這個方法的主要缺點是每個條件都要分別設定，而用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」效果只要切換一個勾選選項就好了。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133520Z" creationid="Franklin Weng" creationdate="20180414T084228Z">
+        <seg>&lt;f0&gt;這個方法的主要缺點，是每個條件都要分別設定，而用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏字型&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」效果的話，只要切換一個勾選選項就好了。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11939,8 +11939,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A &lt;f0&gt;Hidden &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;field can be awkward, because the field for entering it &lt;f4&gt;makes only a limited amount of text visible at one time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T081516Z" creationid="Franklin Weng" creationdate="20180414T081516Z">
-        <seg>「&lt;f0&gt;隱藏&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文字&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt; &lt;/f3&gt;欄位可能會很難用，因為用來輸入的欄位&lt;f4&gt;一次只能輸入很有限的文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133216Z" creationid="Franklin Weng" creationdate="20180414T081516Z">
+        <seg>「&lt;f0&gt;隱藏&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;文字&lt;/f2&gt;&lt;/f1&gt;」欄位可能會很難用，因為用來輸入的欄位&lt;f4&gt;一次只能輸入很有限的文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12791,8 +12791,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A&lt;f2&gt; Conditional Text&lt;/f2&gt; field is similar to the &lt;f3&gt;Hidden&lt;/f3&gt; check box on a paragraph style’s &lt;f4&gt;Font Effect&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;s&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084355Z" creationid="Franklin Weng" creationdate="20180414T084355Z">
-        <seg>「&lt;f2&gt;條件式文字&lt;/f2&gt;」欄位類似段落樣式中「&lt;f4&gt;字型效果&lt;/f4&gt;」標籤頁裡的「&lt;f3&gt;隱藏&lt;/f3&gt;」選項。&lt;f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133559Z" creationid="Franklin Weng" creationdate="20180414T084355Z">
+        <seg>「&lt;f2&gt;條件式文字&lt;/f2&gt;」欄位類似段落樣式中「&lt;f4&gt;字型效果&lt;/f4&gt;」標籤頁裡的「&lt;f3&gt;隱藏&lt;/f3&gt;」選項。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13808,8 +13808,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Alternatively, in a &lt;f0&gt;Conditional text &lt;/f0&gt;field, a simple expression is set up using the &lt;f1&gt;Condition&lt;/f1&gt;, &lt;f2&gt;Then&lt;/f2&gt;, and &lt;f3&gt;Else&lt;/f3&gt; fields &lt;f4&gt;on the right side of the window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083008Z" creationid="Franklin Weng" creationdate="20180414T083008Z">
-        <seg>另外，選擇「&lt;f0&gt;條件式文字&lt;/f0&gt;」的話，你可以在視窗右方的「&lt;f1&gt;條件&lt;/f1&gt;」、「&lt;f2&gt;則&lt;/f2&gt;」跟「&lt;f3&gt;否則&lt;/f3&gt;」&lt;f4&gt;等欄位建立一個簡單的表示式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133316Z" creationid="Franklin Weng" creationdate="20180414T083008Z">
+        <seg>另外，選擇「&lt;f0&gt;條件式文字&lt;/f0&gt;」欄位的話，你可以在視窗右方的「&lt;f1&gt;條件&lt;/f1&gt;」、「&lt;f2&gt;則&lt;/f2&gt;」跟「&lt;f3&gt;否則&lt;/f3&gt;」&lt;f4&gt;等欄位建立一個簡單的表示式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18737,8 +18737,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Do not confuse a &lt;f0&gt;Conditional Text &lt;/f0&gt;field with a &lt;f1&gt;Conditional&lt;/f1&gt; paragraph style.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084306Z" creationid="Franklin Weng" creationdate="20180414T084306Z">
-        <seg>注意不要把「&lt;f0&gt;條件式文字&lt;/f0&gt;」欄位跟段落樣式中的「&lt;f1&gt;條件&lt;/f1&gt;」標籤頁混在一起了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133543Z" creationid="Franklin Weng" creationdate="20180414T084306Z">
+        <seg>注意，不要把「&lt;f0&gt;條件式文字&lt;/f0&gt;」欄位跟段落樣式中的「&lt;f1&gt;條件&lt;/f1&gt;」標籤頁混在一起了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22338,8 +22338,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Hiding with sections</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084420Z" creationid="Franklin Weng" creationdate="20180414T084420Z">
-        <seg>使用區段隱藏文字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133604Z" creationid="Franklin Weng" creationdate="20180414T084420Z">
+        <seg>利用區段隱藏文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -26211,8 +26211,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>In effect, the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Condition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; field becomes a password to limit who can change the condition.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T083452Z" creationid="Franklin Weng" creationdate="20180414T083452Z">
-        <seg>不過在效果上，「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位就會變成像是個密碼一樣，限制某些人才能改變條件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133502Z" creationid="Franklin Weng" creationdate="20180414T083452Z">
+        <seg>不過在效果上，「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;條件&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」欄位就會變成像是種密碼一樣，限制某些懂的人才能改變條件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33222,8 +33222,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sections are areas that &lt;f0&gt;have properties that are different from the main body of text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180508T124125Z" creationid="Ｖ字龍" creationdate="20180217T115544Z">
-        <seg>&lt;f0&gt;區段指的是文件中，跟主要內文屬性不同的區塊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133707Z" creationid="Ｖ字龍" creationdate="20180217T115544Z">
+        <seg>&lt;f0&gt;所謂區段，指的是文件中跟主要內文屬性不同的區塊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40211,8 +40211,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These properties may be formatting, or content that is password-protected from editing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="franklin" changedate="20180508T124117Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
-        <seg>所謂的屬性可能是格式，或是內容是被保護住不給編輯的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133805Z" creationid="Ｖ字龍" creationdate="20180217T115547Z">
+        <seg>這裡的屬性，可以是格式設定，或是內容有無保護住不給編輯之類。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44002,8 +44002,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When documents have large areas to hide or &lt;f0&gt;show&lt;/f0&gt;, you may prefer using sections.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084446Z" creationid="Franklin Weng" creationdate="20180414T084446Z">
-        <seg>當文件中有一大段要隱藏或&lt;f0&gt;顯示&lt;/f0&gt;的時候，你可以考慮用區段。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133643Z" creationid="Franklin Weng" creationdate="20180414T084446Z">
+        <seg>當文件中有一大段內容要隱藏或&lt;f0&gt;顯示&lt;/f0&gt;的時候，你可以考慮採用區段的方式處理。</seg>
       </tuv>
     </tu>
     <tu>
