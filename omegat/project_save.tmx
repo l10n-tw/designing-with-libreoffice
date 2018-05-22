@@ -5802,8 +5802,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;No matter how you work, single-sourcing can be confusing, so choose the name of styles and fields to help keep everything straight.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105317Z" creationid="Franklin Weng" creationdate="20180408T105317Z">
-        <seg>&lt;f0&gt;不管你怎麼做，用單一文件來控管時，樣式與欄位的名稱要盡量一看就很直觀地知道它的作用，這樣才不會容易搞混。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T112554Z" creationid="Franklin Weng" creationdate="20180408T105317Z">
+        <seg>&lt;f0&gt;不管怎麼做，當你用單一文件方式作多版本控管時，樣式與欄位的名稱要盡量一看就很直觀地知道它的作用，這樣才不會容易搞混。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14253,8 +14253,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Another way to single source is to have separate sets of styles, fields, and sections for each version of the document, turning each on and off as needed</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105159Z" creationid="Franklin Weng" creationdate="20180408T104914Z">
-        <seg>另外也可以對文件的每個版本都建立不同的樣式、欄位與區段等，並在需要時做切換。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T112512Z" creationid="Franklin Weng" creationdate="20180408T104914Z">
+        <seg>另外，你也可以對文件的各個版本建立不同的樣式、欄位、區段等，並在需要時做顯示與隱藏的切換。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19178,8 +19178,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Each style’s font color can be replaced quickly by using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Edit &gt; Find &amp; Replace.&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; If you are printing in black and white and use dark enough colors, you may not even need to change the colors when you print.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105629Z" creationid="Franklin Weng" creationdate="20180408T105629Z">
-        <seg>每個樣式的字型顏色可以之後透過「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 尋找與取代&lt;/f2&gt;&lt;/f1&gt;」快速地換掉。&lt;f3&gt;如果你用的顏色夠深，或是列印時採黑白列印，你可能甚至不需要在列印前把顏色換掉。&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T112742Z" creationid="Franklin Weng" creationdate="20180408T105629Z">
+        <seg>這些樣式的字型顏色之後可以透過「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;編輯 &gt; 尋找與取代&lt;/f2&gt;&lt;/f1&gt;」快速替換掉。&lt;f3&gt;如果你用的顏色夠深，而且列印時採黑白列印的話，你可能甚至不必在列印前把顏色換掉。&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45643,8 +45643,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can even give each paragraph style a different font color to make it quickly recognizable.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105357Z" creationid="Franklin Weng" creationdate="20180408T105357Z">
-        <seg>你甚至可以讓每個段落樣式都用不同的字型顏色，可以快速辨識找到你要用的樣式。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T112624Z" creationid="Franklin Weng" creationdate="20180408T105357Z">
+        <seg>你甚至可以讓每個段落樣式都用不同的字型顏色，方便你快速辨識找到你要用的樣式。</seg>
       </tuv>
     </tu>
     <tu>
