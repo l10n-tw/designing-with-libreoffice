@@ -20785,8 +20785,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you select &lt;/f6&gt;&lt;f7&gt;Bottom&lt;/f7&gt;&lt;f8&gt;, then the smaller characters are positioned at the bottom of the largest characters’ descenders (the lines below the base line).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145731Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
-        <seg>舉例來說，當你選擇「&lt;/f6&gt;&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部位（在基線之下）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150157Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
+        <seg>舉例來說，當你選擇「&lt;/f6&gt;&lt;f7&gt;下方&lt;/f7&gt;&lt;f8&gt;」時，較小的字元會被放置在最大的字元的下伸部位（在基線之下）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27431,8 +27431,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>It can be used with a brochure or poster than an essay, but its main use is probably to create superscript or subscript characters without the fuss of &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;using the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Position&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; tab (see “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Positioning superscript and subscript&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;,” page &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;3&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150014Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
-        <seg>這比較會用在小冊子或海報這類用途上，文章相對少用；但它最主要的用途大概是：避免用「&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;」標籤頁建立上標文字或下標文字的困擾（請參見「&lt;f12&gt;&lt;bf13&gt;上標和下標位置設定&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;」，第&lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;XXXX&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150049Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
+        <seg>這比較會用在小冊子或海報這類用途上，文章相對少用；但它最主要的用途大概是：避免用「&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;」標籤頁建立上標文字或下標文字的困擾（請參見「&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;上標和下標位置設定&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;」，第&lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;XXXX&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,8 +27932,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Kerning is the &lt;f0&gt;spacing between characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T142608Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
-        <seg>字間微調 (Kerning) 是指字元之間的空間特殊調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150135Z" creationid="Ｖ字龍" creationdate="20180221T110440Z">
+        <seg>字間微調 (Kerning) &lt;f0&gt;是指字元之間的空間特殊調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32392,8 +32392,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Professional printers sometimes adjust kerning &lt;/f0&gt;to improve the appearance of awkward combinations of letters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T142909Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
-        <seg>專業的印表機有時候會微調字間，以改善某些字母組合的尷尬字間外觀。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150142Z" creationid="Ｖ字龍" creationdate="20180221T110555Z">
+        <seg>專業的印表機有時候會微調字間，&lt;/f0&gt;以改善某些字母組合的尷尬字間外觀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34617,8 +34617,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Similarly, with &lt;/f8&gt;&lt;f9&gt;Top&lt;/f9&gt;&lt;f10&gt; selected, the smaller characters are positioned at the top of the largest characters’ ascenders (the lines above the x-height).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132255Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
-        <seg>同樣地，選取「&lt;f9&gt;上方&lt;/f9&gt;」時，較小的字元就會被放置在最大的字元的上伸部位（在x字高之上）。&lt;f10&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150202Z" creationid="Ｖ字龍" creationdate="20180220T110008Z">
+        <seg>同樣地，選取「&lt;/f8&gt;&lt;f9&gt;上方&lt;/f9&gt;」時，較小的字元就會被放置在最大的字元的上伸部位（在x字高之上）。&lt;f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
