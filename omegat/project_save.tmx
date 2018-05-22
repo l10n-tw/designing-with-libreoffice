@@ -1303,8 +1303,8 @@
       <tuv lang="EN">
         <seg>&lt;/f6&gt;These styles are formatted exactly the same as the common styles, &lt;f7&gt;and hidden as needed&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125656Z" creationid="Franklin Weng" creationdate="20180408T125633Z">
-        <seg>&lt;/f6&gt;這些樣式中的格式設定跟通用樣式完全一樣，而在&lt;f7&gt;必要時隱藏起來。&lt;/f7&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124207Z" creationid="Franklin Weng" creationdate="20180408T125633Z">
+        <seg>&lt;/f6&gt;這些樣式的格式設定得跟共用樣式完全一樣，只是在&lt;f7&gt;必要之時將文字隱藏起來。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20865,8 +20865,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, in a student quiz with an answer key, you might have one set of styles with names like &lt;f1&gt;&lt;f2&gt;User&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; – Text Body&lt;/f3&gt; and &lt;f4&gt;&lt;f5&gt;Teacher&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – Text Body.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124033Z" creationid="Franklin Weng" creationdate="20180408T125558Z">
-        <seg>舉個例子，出一份考卷加上答案，可能就會用「&lt;f1&gt;&lt;f2&gt;學生&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; – 內文&lt;/f3&gt;」跟「&lt;f4&gt;&lt;f5&gt;老師&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – 內文」這類的樣式名稱。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124046Z" creationid="Franklin Weng" creationdate="20180408T125558Z">
+        <seg>舉個例子，出一份考卷加上答案，就可能會用「&lt;f1&gt;&lt;f2&gt;學生&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; – 內文&lt;/f3&gt;」跟「&lt;f4&gt;&lt;f5&gt;老師&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; – 內文」這類的樣式名稱。</seg>
       </tuv>
     </tu>
     <tu>
