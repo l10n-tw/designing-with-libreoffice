@@ -7563,8 +7563,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option in a character or paragraph style is the stylistic equivalent of some of the fields in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Insert &gt; Fields &gt; Other &gt; Function &gt; Type, &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;such as &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Hidden text&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Hidden Paragraph.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132534Z" creationid="Franklin Weng" creationdate="20180408T132534Z">
-        <seg>&lt;f0&gt;在字元或段落樣式中的&lt;/f0&gt;「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;選項其實基本上就跟上述的&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;「&lt;f7&gt;&lt;f8&gt;隱藏的文字&lt;/f8&gt;&lt;/f7&gt;」及「&lt;f9&gt;隱藏的段落&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;」是一樣的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T132222Z" creationid="Franklin Weng" creationdate="20180408T132534Z">
+        <seg>&lt;f0&gt;在字元或段落樣式中的「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;選項，其實基本上就跟上述的「&lt;/f3&gt;&lt;f7&gt;&lt;f8&gt;隱藏的文字&lt;/f8&gt;&lt;/f7&gt;」及「&lt;f9&gt;隱藏的段落&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;」是一樣的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22531,8 +22531,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, &lt;f2&gt;i&lt;/f2&gt;nput &lt;f3&gt;l&lt;/f3&gt;ists are impractical in a longer document, because each has &lt;f4&gt;to &lt;/f4&gt;be changed separately.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132305Z" creationid="Franklin Weng" creationdate="20180408T132305Z">
-        <seg>不過，「輸入清單」在較長的文件中並不實用，因為每個項目都要個別去變更。&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T132134Z" creationid="Franklin Weng" creationdate="20180408T132305Z">
+        <seg>不過，「輸入清單」在長篇文件中並不實用，因為每個項目都需要個別變更。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28857,8 +28857,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Make sure that &lt;f0&gt;View &gt; Field Shadings&lt;/f0&gt; and &lt;f1&gt;View &gt; Hidden Paragraphs&lt;/f1&gt; are turned on when you use these fields.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T133512Z" creationid="Franklin Weng" creationdate="20180408T133512Z">
-        <seg>使用這些欄位時，要確定「&lt;f0&gt;檢視 &gt; 欄位背景色彩&lt;/f0&gt;」【跟「&lt;f1&gt;檢視 &gt; 隱藏段落&lt;/f1&gt;」】要打開。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T132609Z" creationid="Franklin Weng" creationdate="20180408T133512Z">
+        <seg>使用這些欄位時，要確定「&lt;f0&gt;檢視 &gt; 欄位背景色彩&lt;/f0&gt;」跟「&lt;f1&gt;工具 &gt; 選項 &gt; LibreOffice Writer &gt; 格式設定輔助 &gt; 欄位：隱藏的段落&lt;/f1&gt;」有打開。</seg>
       </tuv>
     </tu>
     <tu>
