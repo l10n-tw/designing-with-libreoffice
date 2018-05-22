@@ -45627,8 +45627,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can either toggle one version of the document, or else create a separate variable with a unique value for each version of the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131238Z" creationid="Franklin Weng" creationdate="20180408T131238Z">
-        <seg>你可以用一個變數在兩個版本間切換，也可以對每個不同的版本建立個別的變數與唯一的值。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T131516Z" creationid="Franklin Weng" creationdate="20180408T131238Z">
+        <seg>你可以用一個變數切換文件中某個版本的顯示或隱藏，也可以對每個不同的版本建立個別的變數與唯一的值。</seg>
       </tuv>
     </tu>
     <tu>
