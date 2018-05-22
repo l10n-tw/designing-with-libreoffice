@@ -5979,8 +5979,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Font Effect&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab, t&lt;/f3&gt;oggle &lt;f4&gt;Hidden&lt;/f4&gt; as needed before printing.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130005Z" creationid="Franklin Weng" creationdate="20180408T130005Z">
-        <seg>&lt;f0&gt;然後在列印考卷之前，把「答案」樣式中「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型效果&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;裡的「&lt;f4&gt;隱藏&lt;/f4&gt;」勾起來即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124327Z" creationid="Franklin Weng" creationdate="20180408T130005Z">
+        <seg>&lt;f0&gt;然後在印考卷之前，把「答案」樣式下「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;字型效果&lt;/f2&gt;&lt;/f1&gt;」&lt;f3&gt;標籤頁&lt;/f3&gt;裡的「&lt;f4&gt;隱藏&lt;/f4&gt;」勾起來即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13431,8 +13431,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>After you print a version from a single-source file, de-select &lt;f0&gt;Hidden&lt;/f0&gt; so the complete file &lt;f1&gt;is visible &lt;/f1&gt;the next time you open it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130335Z" creationid="Franklin Weng" creationdate="20180408T130335Z">
-        <seg>在你從這個單一文件檔案列印完之後，記得把「&lt;f0&gt;隱藏&lt;/f0&gt;」取消掉，讓完整的檔案可以&lt;f1&gt;顯示&lt;/f1&gt;出來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124506Z" creationid="Franklin Weng" creationdate="20180408T130335Z">
+        <seg>在你從這份單一文件多版本管控檔案列印完之後，記得把「&lt;f0&gt;隱藏&lt;/f0&gt;」取消掉，讓完整的檔案內容可以在下次開啟時&lt;f1&gt;顯示&lt;/f1&gt;出來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13986,8 +13986,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>An alternate but more time-consuming way of single-sourcing is to place each passage in its own field.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130644Z" creationid="Franklin Weng" creationdate="20180408T130644Z">
-        <seg>製作多版本單一文件另一個比較花時間的方式，是把每個片段都放在自己的欄位中。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124550Z" creationid="Franklin Weng" creationdate="20180408T130644Z">
+        <seg>製作單一文件多版本管控的另一種比較花時間的方式，是把每個片段都放在各自的欄位中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16209,8 +16209,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>By contrast, you need to select the space after a strin&lt;f6&gt;g &lt;/f6&gt;of hidden characters.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130255Z" creationid="Franklin Weng" creationdate="20180408T130255Z">
-        <seg>所以段落間距要設定在被隱藏的字元之後的字串段落上。&lt;f6&gt;&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124411Z" creationid="Franklin Weng" creationdate="20180408T130255Z">
+        <seg>所以，記得把段落間距設定在被隱藏字元之後的字串段落上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,8 +22330,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Hiding text using fields</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130346Z" creationid="Franklin Weng" creationdate="20180408T130346Z">
-        <seg>使用欄位隱藏文字</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124512Z" creationid="Franklin Weng" creationdate="20180408T130346Z">
+        <seg>利用欄位隱藏文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -30263,8 +30263,8 @@ Franklin：蛤？</note>
       <tuv lang="EN">
         <seg>Notice that spacing above or below a paragraph is &lt;t5/&gt;hidden along with the text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T130136Z" creationid="Franklin Weng" creationdate="20180408T130136Z">
-        <seg>要注意，段落樣式中「段落之上」與「段落之下」的間距在此樣式隱藏時會跟著被隱藏。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124346Z" creationid="Franklin Weng" creationdate="20180408T130136Z">
+        <seg>要注意，段落樣式的「段落之上」與「段落之下」的間距在此樣式隱藏時會跟著隱藏起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46405,8 +46405,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You may not need to &lt;f0&gt;c&lt;/f0&gt;opy all the common styles for each version of the file.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T125732Z" creationid="Franklin Weng" creationdate="20180408T125732Z">
-        <seg>你不一定需要把所有通用的樣式對每個版本都複製一份。&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T124250Z" creationid="Franklin Weng" creationdate="20180408T125732Z">
+        <seg>你不一定需要把所有的共用樣式在每個版本中都複製一份。&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
