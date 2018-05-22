@@ -2948,8 +2948,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Hid&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;/f2&gt; box, and/&lt;f4&gt;0r&lt;/f4&gt; set the &lt;f5&gt;&lt;f6&gt;With &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Condition&lt;/f7&gt; field to &lt;f8&gt;1.&lt;/f8&gt; &lt;f9&gt;Either is necessary, but not both.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093153Z" creationid="Franklin Weng" creationdate="20180414T093153Z">
-        <seg>&lt;f0&gt;勾選&lt;/f0&gt;「&lt;f1&gt;隱藏&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;/f2&gt;」選項，需要的話在「附帶條件」欄位中設定為 &lt;f8&gt;1&lt;/f8&gt;。&lt;f9&gt;注意，附帶條件並不一定需要設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135831Z" creationid="Franklin Weng" creationdate="20180414T093153Z">
+        <seg>&lt;f0&gt;勾選&lt;/f0&gt;「&lt;f1&gt;隱藏&lt;/f1&gt;」選項；或是在「附帶條件」欄位中設定為 &lt;f8&gt;1&lt;/f8&gt;。&lt;f9&gt;注意，你只能選其中一個設定，但不能兩者同時設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4110,8 +4110,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;G&lt;/f0&gt;ive the section a unique name that reflects its contents, &lt;f1&gt;and if desired &lt;/f1&gt;protect it with a password.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093016Z" creationid="Franklin Weng" creationdate="20180414T093016Z">
-        <seg>為這個區段取一個能輕易辨別用途或內容的名字，&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;然後如果你需要的話，&lt;/f1&gt;可以選擇採用密碼保護。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135650Z" creationid="Franklin Weng" creationdate="20180414T093016Z">
+        <seg>為這個區段取一個能輕易辨別用途或內容的名稱，&lt;f1&gt;然後如果你需要的話，&lt;/f1&gt;可以選擇採用密碼保護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,8 +6371,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Place the cursor where you want an empty section, or else highlight existing text.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092817Z" creationid="Franklin Weng" creationdate="20180414T092817Z">
-        <seg>&lt;f0&gt;將游標放到你想要插入空白區段的地方，或是選好一段文字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135608Z" creationid="Franklin Weng" creationdate="20180414T092817Z">
+        <seg>&lt;f0&gt;將游標放到你想要插入空白區段的地方，或是反白選好一段文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6803,8 +6803,8 @@ f2</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sections work in much the same way as fields&lt;/f0&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092730Z" creationid="Franklin Weng" creationdate="20180414T092730Z">
-        <seg>&lt;f0&gt;區段的做法跟欄位蠻像的：&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135550Z" creationid="Franklin Weng" creationdate="20180414T092730Z">
+        <seg>&lt;f0&gt;區段的做法跟欄位滿像的：&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8129,8 +8129,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;They can be used more easily than fields for long passages, but are less versatile than a paragraph style.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092714Z" creationid="Franklin Weng" creationdate="20180414T092714Z">
-        <seg>&lt;f0&gt;它們在處理較長的文字時比欄位好用，但不像段落樣式那麼多功能。&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135541Z" creationid="Franklin Weng" creationdate="20180414T092714Z">
+        <seg>&lt;f0&gt;它們在處理較長的文字時比欄位好用，但不像段落樣式有那麼多功能。&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8519,8 +8519,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;U&lt;/f0&gt;sing sections</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T092458Z" creationid="Franklin Weng" creationdate="20180414T092458Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;使用區段</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135502Z" creationid="Franklin Weng" creationdate="20180414T092458Z">
+        <seg>利用區段</seg>
       </tuv>
     </tu>
     <tu>
