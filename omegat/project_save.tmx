@@ -19907,8 +19907,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Field windows stay open after you insert a field, allowing you to move to the next position for a field in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T085503Z" creationid="Franklin Weng" creationdate="20180414T085503Z">
-        <seg>在你插入一個欄位之後，欄位視窗還會保持開啟，讓你可以移到下一個位置插入下一個欄位。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133951Z" creationid="Franklin Weng" creationdate="20180414T085503Z">
+        <seg>在你插入一個欄位之後，欄位視窗還會保持開啟，讓你可以移到下一個位置再插入下一個欄位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22843,8 +22843,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, changing the conditions for each field or section individually eats up time.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090109Z" creationid="Franklin Weng" creationdate="20180414T090109Z">
-        <seg>不過，個別去改變每個欄位或區段還是很耗時間的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134039Z" creationid="Franklin Weng" creationdate="20180414T090109Z">
+        <seg>不過，個別去改變每個欄位或是區段還是很耗時間的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24511,8 +24511,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If the same field appears more than once, you can copy and past&lt;f0&gt;e&lt;/f0&gt; or use &lt;f1&gt;Edit &gt; AutoText &lt;/f1&gt;so that you &lt;f2&gt;can add information with a couple of keystrokes, instead of making changes manually.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090751Z" creationid="Franklin Weng" creationdate="20180414T090751Z">
-        <seg>如果相同的欄位會出現不只一次，你可以用複製貼上【或是「編輯 &gt; 自動文字」】，這樣只需要打幾個鍵加上你要的東西即可，而不用每次手動修改。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134318Z" creationid="Franklin Weng" creationdate="20180414T090751Z">
+        <seg>如果相同的欄位會出現不只一次，你可以用複製貼上，或是用「工具 &gt; 自動圖文集」的做法，這樣只需要按幾個按鍵再補上你要的東西即可，而不用每次手動修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33214,8 +33214,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Section windows do not, &lt;f0&gt;although&lt;/f0&gt; you can use the &lt;f1&gt;N&lt;/f1&gt;avigator to jump from one section to the next &lt;f2&gt;as you edit.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090046Z" creationid="Franklin Weng" creationdate="20180414T090046Z">
-        <seg>然而區段視窗則不會。&lt;f0&gt;是說&lt;/f0&gt;你還是可以用「助手」來在&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;編輯&lt;/f2&gt;的時候跳到下一個區段就是了。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134028Z" creationid="Franklin Weng" creationdate="20180414T090046Z">
+        <seg>然而區段視窗不會這樣。&lt;f0&gt;是說&lt;/f0&gt;你還是可以利用「助手」在&lt;f2&gt;編輯&lt;/f2&gt;的時候跳到下一個區段去就是了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35687,8 +35687,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Such links can be another sort of single-sourcing, allowing content used in several documents to be maintained in one place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T085019Z" creationid="Franklin Weng" creationdate="20180414T085019Z">
-        <seg>這種連結方式類似另一種型態的多版本單一文件，讓某些會在不同文件中引用到的內容集中在一個地方管理。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133915Z" creationid="Franklin Weng" creationdate="20180414T085019Z">
+        <seg>這種連結方式類似另一種型態的單一文件多版本管控，讓某些會在不同文件中引用到的內容可以集中在同一個地方管理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45338,8 +45338,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can also add a link to insert a separate file in the current document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T084643Z" creationid="Franklin Weng" creationdate="20180414T084643Z">
-        <seg>你也可以在當前的文件中，用加入一個連結的方式來插入另一個檔案。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T133843Z" creationid="Franklin Weng" creationdate="20180414T084643Z">
+        <seg>你也可以在目前的文件中，用加入連結的方式插入另一個檔案。</seg>
       </tuv>
     </tu>
     <tu>
