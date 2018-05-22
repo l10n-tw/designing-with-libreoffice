@@ -569,8 +569,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;This extension adds a &lt;f1&gt;tool bar to&lt;/f1&gt; &lt;t2/&gt;the LibreOffice window from which you can quickly add advanced &lt;f3&gt;typographical &lt;/f3&gt;features manually.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T100141Z" creationid="Franklin Weng" creationdate="20180414T095948Z">
-        <seg>&lt;/f0&gt;這個擴充套件會在&lt;t2/&gt; LibreOffice 的視窗上加入一個&lt;f1&gt;工具列&lt;/f1&gt;，讓你可以快速使用一些&lt;f3&gt;進階的排印功能&lt;/f3&gt;。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T142310Z" creationid="Franklin Weng" creationdate="20180414T095948Z">
+        <seg>&lt;/f0&gt;這個擴充套件會在LibreOffice的視窗中加入一條&lt;f1&gt;工具列&lt;/f1&gt;，讓你可以快速使用一些&lt;f3&gt;進階的字體排印功能&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11072,8 +11072,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f3&gt;However, &lt;/f3&gt;a font has to be Graphite-aware before you can take advantage of the support – and, so far, only a handful of fonts are, &lt;f4&gt;such as Linux Libertine G and Linux Biolinum G.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095918Z" creationid="Franklin Weng" creationdate="20180414T095918Z">
-        <seg>&lt;f3&gt;不過，&lt;/f3&gt;所使用的字型必須是 Graphite 技術可以辨識出來的，而目前為止只有一小部份的字型可以，&lt;f4&gt;像是 Linux Libertine G 與 Linux Biolinum G 等。&lt;/f4&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T142217Z" creationid="Franklin Weng" creationdate="20180414T095918Z">
+        <seg>&lt;f3&gt;不過，&lt;/f3&gt;這項技術所使用的字型必須是 Graphite 可以辨識，而目前為止只有一小部份的字型可以，&lt;f4&gt;像是 Linux Libertine G 與 Linux Biolinum G 等。&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25711,8 +25711,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If your fonts are Graphite-aware, consider installing &lt;f0&gt;the Typographic tool bar extension.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T100041Z" creationid="Franklin Weng" creationdate="20180414T095946Z">
-        <seg>如果你的字型可以支援 Graphite，你可以考慮安裝「字體排印家工具列」（&lt;f0&gt;Typographic tool bar）的擴充套件。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T142244Z" creationid="Franklin Weng" creationdate="20180414T095946Z">
+        <seg>如果你的字型可以支援 Graphite，你可以考慮安裝一個叫做「字體排印工具列」(&lt;f0&gt;Typographic toolbar) 的擴充套件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33053,8 +33053,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>SIL International, &lt;f0&gt;a&lt;/f0&gt; maker of free fonts, also offers &lt;f1&gt;support for&lt;/f1&gt; Graphite, a system which automatically uses small caps, old style figures, and ligatures &lt;f2&gt;where they are appropriate&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T142113Z" creationid="Franklin Weng" creationdate="20180414T095820Z">
-        <seg>美國國際語言暑期學院（SIL International）開發了許多自由字型，另外也提供了 &lt;f1&gt;Graphite&lt;/f1&gt; 這ke7技術的支援。這種技術可以在&lt;f2&gt;適當的時候&lt;/f2&gt;自動使用小型大寫字母、舊式數字與連字功能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T142146Z" creationid="Franklin Weng" creationdate="20180414T095820Z">
+        <seg>美國國際語言暑期學院（SIL International）開發了許多自由字型，另外也提供了 &lt;f1&gt;Graphite&lt;/f1&gt; 技術的支援。這種技術可以在&lt;f2&gt;適當的時候&lt;/f2&gt;自動使用小型大寫字母、舊式數字與連字功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38336,8 +38336,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The help will also give you formulas that you can add to the end of the &lt;f4&gt;Family&lt;/f4&gt; field on the &lt;f5&gt;Font&lt;/f5&gt; tabs of character and paragraph styles that will automatically enable advanced features.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T110823Z" creationid="Franklin Weng" creationdate="20180414T110823Z">
-        <seg>在工具列中的「help」會告訴你如何在字元或段落樣式的「&lt;f5&gt;字型&lt;/f5&gt;」標籤頁中，「&lt;f4&gt;字族&lt;/f4&gt;」的後面加上公式來自動開啟這些進階功能。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T142557Z" creationid="Franklin Weng" creationdate="20180414T110823Z">
+        <seg>在工具列中的「Help」會告訴你如何在字元或段落樣式的「&lt;f5&gt;字型&lt;/f5&gt;」標籤頁中，在「&lt;f4&gt;字族&lt;/f4&gt;」的後面加上一些公式以自動開啟這些進階功能。</seg>
       </tuv>
     </tu>
     <tu>
