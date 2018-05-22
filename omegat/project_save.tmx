@@ -20785,8 +20785,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For example, if you select &lt;/f6&gt;&lt;f7&gt;Bottom&lt;/f7&gt;&lt;f8&gt;, then the smaller characters are positioned at the bottom of the largest characters’ descenders (the lines below the base line).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132208Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
-        <seg>舉例來說，當你選擇「&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部位（在基線之下）。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145731Z" creationid="Ｖ字龍" creationdate="20180219T024245Z">
+        <seg>舉例來說，當你選擇「&lt;/f6&gt;&lt;f7&gt;下方&lt;/f7&gt;」時，較小的字元會被放置在最大的字元的下伸部位（在基線之下）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23677,8 +23677,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>However, using this guide with a large x-height is likely to make the superscript characters too small.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T101842Z" creationid="Ｖ字龍" creationdate="20180217T102258Z">
-        <seg>但是，如果x字高真的很巨大時，這樣做通常又會造成上標文字看起來過小。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145612Z" creationid="Ｖ字龍" creationdate="20180217T102258Z">
+        <seg>但是，如果x字高真的很巨大時，這樣做通常又會造成上標文字看起來過小。&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39300,8 +39300,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The setting can align font sizes by the &lt;f0&gt;Top&lt;/f0&gt;,&lt;f1&gt; Middle&lt;/f1&gt;, or &lt;f2&gt;Bottom&lt;/f2&gt; of the letters, &lt;f3&gt;or the default &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Base Line&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131712Z" creationid="Ｖ字龍" creationdate="20180219T023303Z">
-        <seg>這個設定可以讓不同大小的文字，根據「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;中央&lt;/f1&gt;」或是「&lt;f2&gt;下方&lt;/f2&gt;」或是預設的「&lt;f4&gt;&lt;f5&gt;基線&lt;/f5&gt;&lt;/f4&gt;」來對齊。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145744Z" creationid="Ｖ字龍" creationdate="20180219T023303Z">
+        <seg>這個設定可以讓不同大小的文字，根據「&lt;f0&gt;上方&lt;/f0&gt;」、「&lt;f1&gt;中央&lt;/f1&gt;」或是「&lt;f2&gt;下方&lt;/f2&gt;」或是預設的「&lt;f4&gt;&lt;f5&gt;基線&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」來對齊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42625,8 +42625,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>Unless the x-height is exceptionally large, using it for &lt;f0&gt;the bottom of&lt;/f0&gt; superscript &lt;f1&gt;characters often makes for a consistent design.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T101816Z" creationid="Ｖ字龍" creationdate="20180217T102201Z">
-        <seg>除非x字高意外地巨大，否則拿它當作上標字元的底部基線可以讓外觀看來較為一致。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145607Z" creationid="Ｖ字龍" creationdate="20180217T102201Z">
+        <seg>除非x字高意外地巨大，否則拿它當作上標字元的底部基線可以讓外觀看來較為一致。&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
