@@ -4295,8 +4295,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hiding text&lt;/f0&gt; &lt;f1&gt;using styles&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T105828Z" creationid="Franklin Weng" creationdate="20180408T105828Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;使用樣式&lt;/f1&gt;隱藏文字&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T112756Z" creationid="Franklin Weng" creationdate="20180408T105828Z">
+        <seg>利用樣式隱藏文字</seg>
       </tuv>
     </tu>
     <tu>
@@ -8317,8 +8317,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;To hide or reveal text, you can toggle the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Hidden&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; box on a style’s &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Font Effect&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T110034Z" creationid="Franklin Weng" creationdate="20180408T110034Z">
-        <seg>&lt;f0&gt;你可以在&lt;/f0&gt;樣式設定的「&lt;f4&gt;&lt;f5&gt;字型效果&lt;/f5&gt;&lt;/f4&gt;」標籤頁中，透過&lt;f3&gt;勾選&lt;/f3&gt;「&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;」來切換隱藏或顯示文字。&lt;f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T112917Z" creationid="Franklin Weng" creationdate="20180408T110034Z">
+        <seg>&lt;f0&gt;你可以在樣式設定的「&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;字型效果&lt;/f5&gt;&lt;/f4&gt;&lt;f3&gt;」標籤頁中，透過勾選「&lt;/f3&gt;&lt;f1&gt;&lt;f2&gt;隱藏&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;」來切換顯示或隱藏文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45619,8 +45619,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You can either choose part of the document to hide to produce one alternative version, or else create a different set of paragraph styles for each version.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180501T111418Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
-        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同的段落樣式等等設定。&lt;/f6&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T113011Z" creationid="Franklin Weng" creationdate="20180408T110054Z">
+        <seg>你可以選擇隱藏文件的一部份並撰寫另一個版本，或者是為每個版本建立不同組的段落樣式。&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
