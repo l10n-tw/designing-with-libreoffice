@@ -7591,8 +7591,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Position&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; tab for character style includes settings for rotating text 90 (right angle to the baseline and above) and 270 degrees (right angle to the baseline and below).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132725Z" creationid="Ｖ字龍" creationdate="20180221T052113Z">
-        <seg>字元樣式中的「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;」標籤頁中，有個將文字旋轉 90 度（逆時針轉 90 度）與 270 度（順時針轉 90 度）的設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145909Z" creationid="Ｖ字龍" creationdate="20180221T052113Z">
+        <seg>字元樣式中的「&lt;f1&gt;&lt;f2&gt;位置&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」標籤頁中，有個將文字旋轉 90 度（逆時針轉 90 度）與 270 度（順時針轉 90 度）的設定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7631,8 +7631,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Text-to-text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option on the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Alignment&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; tab vertically aligns text of different sizes on the same line.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131319Z" creationid="Ｖ字龍" creationdate="20180217T122932Z">
-        <seg>在「&lt;f4&gt;&lt;f5&gt;對齊&lt;/f5&gt;&lt;/f4&gt;」標籤頁上的「&lt;f1&gt;&lt;f2&gt;文字到文字&lt;/f2&gt;&lt;/f1&gt;」選項，能夠將不同大小的文字對齊到同一直線上。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145815Z" creationid="Ｖ字龍" creationdate="20180217T122932Z">
+        <seg>在「&lt;f4&gt;&lt;f5&gt;對齊&lt;/f5&gt;&lt;/f4&gt;」標籤頁上的「&lt;f1&gt;&lt;f2&gt;文字到文字&lt;/f2&gt;&lt;/f1&gt;&lt;f6&gt;」選項，能夠將不同大小的文字對齊到同一直線上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9615,8 +9615,8 @@ Franklin: What the hell is "right angle to the baseline and above"?</note>
       <tuv lang="EN">
         <seg>&lt;f1&gt;However, you can adjust it using the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Scale width&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; field on the &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Position&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; tab.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133617Z">
-        <seg>但是，你可以利用「&lt;f5&gt;&lt;f6&gt;位置&lt;/f6&gt;&lt;/f5&gt;」標籤頁中的「&lt;f2&gt;&lt;f3&gt;縮放寬度&lt;/f3&gt;&lt;/f2&gt;」欄位再作調整。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145933Z">
+        <seg>但是，你可以利用「&lt;f5&gt;&lt;f6&gt;位置&lt;/f6&gt;&lt;/f5&gt;」標籤頁中的「&lt;f2&gt;&lt;f3&gt;縮放寬度&lt;/f3&gt;&lt;/f2&gt;&lt;f7&gt;」欄位再作調整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27431,8 +27431,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>It can be used with a brochure or poster than an essay, but its main use is probably to create superscript or subscript characters without the fuss of &lt;/f6&gt;&lt;t7/&gt;&lt;f8&gt;using the &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Position&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; tab (see “&lt;/f11&gt;&lt;f12&gt;&lt;bf13&gt;Positioning superscript and subscript&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;,” page &lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;3&lt;/bf16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T131644Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
-        <seg>這比較會用在小冊子或海報這類用途上，文章相對少用；但它最主要的用途大概是：避免用「&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;」標籤頁建立上標文字或下標文字的困擾（請參見「&lt;f12&gt;&lt;bf13&gt;上標和下標位置設定&lt;/bf13&gt;&lt;/f12&gt;」，第&lt;f15&gt;&lt;bf16&gt;XXXX&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T150014Z" creationid="Ｖ字龍" creationdate="20180217T123049Z">
+        <seg>這比較會用在小冊子或海報這類用途上，文章相對少用；但它最主要的用途大概是：避免用「&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;位置&lt;/f10&gt;&lt;/f9&gt;」標籤頁建立上標文字或下標文字的困擾（請參見「&lt;f12&gt;&lt;bf13&gt;上標和下標位置設定&lt;/bf13&gt;&lt;/f12&gt;&lt;f14&gt;」，第&lt;/f14&gt;&lt;f15&gt;&lt;bf16&gt;XXXX&lt;/bf16&gt;&lt;/f15&gt;頁）。&lt;f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40224,8 +40224,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>These settings are &lt;/f3&gt;&lt;t4/&gt;&lt;f5&gt;mostly useful in a table heading, but both interfere with readability and should not be used if any alternative exists.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T132844Z" creationid="Ｖ字龍" creationdate="20180221T052728Z">
-        <seg>這些設定在表格標題中最為實用，但兩者都會干擾文件的易讀性，所以如果還有其他做法，最好就不要這樣用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145902Z" creationid="Ｖ字龍" creationdate="20180221T052728Z">
+        <seg>這些設定&lt;/f3&gt;&lt;f5&gt;在表格標題中最為實用，但兩者都會干擾文件的易讀性，所以如果還有其他做法，最好就不要這樣用。&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40738,8 +40738,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>This feature is especially useful when you have no condensed or expanded version in a font family.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180515T133641Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
-        <seg>若是某個字型家族沒有提供窄體（condensed）或寬體（expanded）的字型時，這個功能就非常實用。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T145938Z" creationid="Ｖ字龍" creationdate="20180221T082941Z">
+        <seg>若是某個字型家族沒有提供窄體（condensed）或寬體（expanded）的字型時，這個功能就非常實用。&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
