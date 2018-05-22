@@ -11683,8 +11683,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>&lt;f8&gt;Other types of fields exist, but, except for &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Set Variable, &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;are not relevant to single-sourcing.&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131843Z" creationid="Franklin Weng" creationdate="20180408T131843Z">
-        <seg>&lt;f8&gt;另外還會用到「變數」標籤頁中的&lt;/f8&gt;「&lt;f9&gt;&lt;f10&gt;設定變數&lt;/f10&gt;&lt;/f9&gt;」。&lt;f11&gt;至於對話框中的其他類型與功能則都跟製作多版本文件無關。&lt;/f11&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T131850Z" creationid="Franklin Weng" creationdate="20180408T131843Z">
+        <seg>&lt;f8&gt;另外還會用到「變數」標籤頁中的「&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;設定變數&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;」。至於對話框中的其他類型與功能，則跟單一文件多版本管控的製作無關。&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21379,8 +21379,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>For very limited uses, such as changing the title &lt;f0&gt;or the contents of a header or footer&lt;/f0&gt;, you can use &lt;f1&gt;Input Lists,&lt;/f1&gt; which contains interchangeable items.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T132236Z" creationid="Franklin Weng" creationdate="20180408T132236Z">
-        <seg>少數的狀況，像是變更標題&lt;f0&gt;或是頁首、頁尾的內容等&lt;/f0&gt;，你可以使用「&lt;f1&gt;輸入清單&lt;/f1&gt;」功能，裡面有一些通用的項目。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T132109Z" creationid="Franklin Weng" creationdate="20180408T132236Z">
+        <seg>有些很少用會到的功能，像是想變更題名&lt;f0&gt;或是頁首、頁尾的內容時&lt;/f0&gt;，你可以使用「&lt;f1&gt;輸入清單&lt;/f1&gt;」功能，裡面有一些可互相交換的項目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36539,8 +36539,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Hidden text&lt;/f0&gt; field window.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180408T131959Z" creationid="Franklin Weng" creationdate="20180408T131959Z">
-        <seg>「&lt;f0&gt;隱藏的文字&lt;/f0&gt;」視窗</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T131857Z" creationid="Franklin Weng" creationdate="20180408T131959Z">
+        <seg>「&lt;f0&gt;隱藏的文字&lt;/f0&gt;」欄位視窗。</seg>
       </tuv>
     </tu>
     <tu>
