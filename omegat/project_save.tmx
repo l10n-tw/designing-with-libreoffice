@@ -12623,8 +12623,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A section set to &lt;f0&gt;h&lt;/f0&gt;ide is visible until you remove the mouse cursor from it.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093708Z" creationid="Franklin Weng" creationdate="20180414T093708Z">
-        <seg>設定為隱藏的區段會在你滑鼠游標移開之後才會消失。&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T140323Z" creationid="Franklin Weng" creationdate="20180414T093708Z">
+        <seg>設定為隱藏的區段會馬上消失。&lt;f0&gt;&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37782,8 +37782,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The dialog window lists the document’s sections, with an open or closed lock beside each name to indicate whether it is hidden.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093904Z" creationid="Franklin Weng" creationdate="20180414T093904Z">
-        <seg>出現的對話框會列出文件中的每個區段，旁邊還有一個鎖，表示它是否被保護。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T140656Z" creationid="Franklin Weng" creationdate="20180414T093904Z">
+        <seg>出現的對話框會列出文件中的每個區段，旁邊還有一個鎖，打開表示未受保護，鎖起來代表被保護。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43846,8 +43846,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>When &lt;f0&gt;you want to edit the section, click&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Format &gt; Sections&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093736Z" creationid="Franklin Weng" creationdate="20180414T093736Z">
-        <seg>當&lt;f0&gt;你要再編輯此區段時，選擇「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;格式 &gt; 區段&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」即可。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T140428Z" creationid="Franklin Weng" creationdate="20180414T093736Z">
+        <seg>當&lt;f0&gt;你要再編輯此區段時，再選擇「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;格式 &gt; 區段&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」即可。</seg>
       </tuv>
     </tu>
     <tu>
