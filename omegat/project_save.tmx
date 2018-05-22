@@ -12751,8 +12751,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>A variable can be a master control for turning all fields with the same condition on or off.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090813Z" creationid="Franklin Weng" creationdate="20180414T090813Z">
-        <seg>變數可以用來做主控，讓相同條件的欄位一次全部開關。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134346Z" creationid="Franklin Weng" creationdate="20180414T090813Z">
+        <seg>而變數可以用來做主控，讓相同條件的欄位一次全部開或關。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15592,8 +15592,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>Better yet, you can set a general variable that toggles all fields at the same time:</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090841Z" creationid="Franklin Weng" creationdate="20180414T090841Z">
-        <seg>更好的是，你可以設定一個通用的變數來一次切換所有欄位：</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134402Z" creationid="Franklin Weng" creationdate="20180414T090841Z">
+        <seg>更強的是，你可以設定一個通用的變數來一次切換所有欄位：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24511,8 +24511,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>If the same field appears more than once, you can copy and past&lt;f0&gt;e&lt;/f0&gt; or use &lt;f1&gt;Edit &gt; AutoText &lt;/f1&gt;so that you &lt;f2&gt;can add information with a couple of keystrokes, instead of making changes manually.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134318Z" creationid="Franklin Weng" creationdate="20180414T090751Z">
-        <seg>如果相同的欄位會出現不只一次，你可以用複製貼上，或是用「工具 &gt; 自動圖文集」的做法，這樣只需要按幾個按鍵再補上你要的東西即可，而不用每次手動修改。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134328Z" creationid="Franklin Weng" creationdate="20180414T090751Z">
+        <seg>如果相同的欄位會出現不只一次，你可以用複製貼上，或是用「工具 &gt; 自動圖文集」的做法，這樣只需要按幾個按鍵再補上你要的東西即可，不必每次手動修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31943,8 +31943,8 @@ Franklin: 猜測如上</note>
       <tuv lang="EN">
         <seg>Place the cursor at the start or end of the document, or anywhere else that is easy to locate.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T090913Z" creationid="Franklin Weng" creationdate="20180414T090913Z">
-        <seg>將游標放在文件的開始或結尾處，或任意一個容易找到的地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134427Z" creationid="Franklin Weng" creationdate="20180414T090913Z">
+        <seg>將游標放在文件的開始處或結尾處，或任意一個容易安放游標位置的地方。</seg>
       </tuv>
     </tu>
     <tu>
