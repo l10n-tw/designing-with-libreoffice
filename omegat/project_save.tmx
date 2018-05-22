@@ -1351,8 +1351,8 @@
       <tuv lang="EN">
         <seg>&lt;/f9&gt;When you close the dialog window, the section and the space above and below it are no longer visible in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T093228Z" creationid="Franklin Weng" creationdate="20180414T093228Z">
-        <seg>&lt;/f9&gt;當你關閉視窗後，這個區段，還有上方與下方的間距都會被隱藏起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135859Z" creationid="Franklin Weng" creationdate="20180414T093228Z">
+        <seg>&lt;/f9&gt;當你關閉對話視窗後，文件中的這個區段，還有其上方與下方的間距都會隱藏起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2948,8 +2948,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Click&lt;/f0&gt; the &lt;f1&gt;Hid&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;e&lt;/f3&gt;&lt;/f2&gt; box, and/&lt;f4&gt;0r&lt;/f4&gt; set the &lt;f5&gt;&lt;f6&gt;With &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Condition&lt;/f7&gt; field to &lt;f8&gt;1.&lt;/f8&gt; &lt;f9&gt;Either is necessary, but not both.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135831Z" creationid="Franklin Weng" creationdate="20180414T093153Z">
-        <seg>&lt;f0&gt;勾選&lt;/f0&gt;「&lt;f1&gt;隱藏&lt;/f1&gt;」選項；或是在「附帶條件」欄位中設定為 &lt;f8&gt;1&lt;/f8&gt;。&lt;f9&gt;注意，你只能選其中一個設定，但不能兩者同時設定。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T140308Z" creationid="Franklin Weng" creationdate="20180414T093153Z">
+        <seg>&lt;f0&gt;勾選&lt;/f0&gt;「&lt;f1&gt;隱藏&lt;/f1&gt;」選項，或是選擇性在「附帶條件」欄位中設定 &lt;f8&gt;1&lt;/f8&gt;。&lt;f9&gt;注意，兩者都可以設定，但不一定要兩者同時設定。</seg>
       </tuv>
     </tu>
     <tu>
