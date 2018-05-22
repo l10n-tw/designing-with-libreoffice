@@ -42,18 +42,15 @@
 * 已完成的有：
 第一章至第五章，第九章至第十章、第十二章至第十六章、附錄A至附錄D
 
-括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第六章 (Mark Hung)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十一章 (Cheng-Chia Tseng)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十五章 (Franklin Weng)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
-
-* 翻譯中的有：
-第七章 (Franklin Weng)
-
-* 校對中的有：
-第八章（未）、第十一章 (未)
-
-* 未處理的有：
+括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第六章 (Mark Hung)、第七章 (Frankling Weng)、第八章 (Jeff Huang)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十一章 (Cheng-Chia Tseng)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十五章 (Franklin Weng)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
 
 ## 改作階段
-尚未進入此階段
+1. 更換擷圖
+2. 確認各章節未定處
+3. 補入中文版內容
+4. 套用正式範本
+5. 提請多人校對
+6. 正式出版
 
 ## 當前譯本下載
 [全文版](http://l10n.tw/designing-with-libreoffice/designing-with-libreoffice.pdf)
