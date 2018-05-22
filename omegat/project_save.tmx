@@ -4947,8 +4947,8 @@ Franklin: 應是原文有誤。多出來的</note>
       <tuv lang="EN">
         <seg>&lt;f0&gt;In all the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Conditional Text&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Hidden Text&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, and&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; Hidden Paragraph &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;fields, as well as&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; Sections&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;, set the condition to the variable name, followed by the value in quotation marks.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091640Z" creationid="Franklin Weng" creationdate="20180414T091640Z">
-        <seg>&lt;f0&gt;接下來，不管是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;條件式文字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;隱藏的文字&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」還是「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;隱藏的段落&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」，或者是用&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;區段&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;，你都可以把條件設定為變數的名稱，然後後面跟著變數值，用英文半形的雙引號包起來。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135044Z" creationid="Franklin Weng" creationdate="20180414T091640Z">
+        <seg>&lt;f0&gt;接下來，不管是用「&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;條件式文字&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;」、「&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;隱藏的文字&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;」還是「&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;隱藏的段落&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;」，或者是用[&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;區段&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;，你都可以把條件設定為變數的名稱，然後後面跟著變數值，用英文半形的雙引號包起來。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14935,8 +14935,8 @@ Zerngjia: 但作者建議影像最後放比較不會跑版（這樣才方便，�
       <tuv lang="EN">
         <seg>At the bottom of the window, give the variable a name.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134545Z" creationid="Franklin Weng" creationdate="20180414T091144Z">
-        <seg>在視窗的底部，為這個變數取個名字。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134816Z" creationid="Franklin Weng" creationdate="20180414T091144Z">
+        <seg>在視窗的底部，為這個變數取個名稱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17180,8 +17180,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Invisible&lt;/f0&gt; box so that the variable cannot be seen in the document.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091331Z" creationid="Franklin Weng" creationdate="20180414T091331Z">
-        <seg>勾選「&lt;f0&gt;看不見&lt;/f0&gt;」讓變數不會在文件中出現。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134926Z" creationid="Franklin Weng" creationdate="20180414T091331Z">
+        <seg>勾選「&lt;f0&gt;看不見&lt;/f0&gt;」，讓變數不會在文件中出現。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27423,8 +27423,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>It can be text, or simply &lt;f0&gt;0&lt;/f0&gt; or &lt;f1&gt;1, &lt;/f1&gt;but make sure that it uses the &lt;f2&gt;format&lt;/f2&gt; entered&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091257Z" creationid="Franklin Weng" creationdate="20180414T091257Z">
-        <seg>值可以是文字，或是簡單的 &lt;f0&gt;0&lt;/f0&gt; 或 &lt;f1&gt;1&lt;/f1&gt;，不過要確定格式與你剛才選的&lt;f2&gt;格式&lt;/f2&gt;相符。&lt;f3&gt;&lt;/f3&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134916Z" creationid="Franklin Weng" creationdate="20180414T091257Z">
+        <seg>值可以是文字，或是簡單的 &lt;f0&gt;0&lt;/f0&gt; 或 &lt;f1&gt;1&lt;/f1&gt;，不過要確定這個值的格式與你剛才選的「&lt;f2&gt;格式&lt;/f2&gt;」相符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28760,8 +28760,8 @@ Franklin: 會不會是在項目符號與編號 -&gt; 大綱跟自訂？</note>
       <tuv lang="EN">
         <seg>Locating the variable can be difficult, &lt;f0&gt;so&lt;/f0&gt; you should place it in some easy to find place.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091418Z" creationid="Franklin Weng" creationdate="20180414T091418Z">
-        <seg>要找到變數的位置有可能會頗麻煩，&lt;f0&gt;所以&lt;/f0&gt;你應該把變數的位置放在容易找到的地方。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135010Z" creationid="Franklin Weng" creationdate="20180414T091418Z">
+        <seg>想要找出變數的位置有可能頗為麻煩，&lt;f0&gt;所以&lt;/f0&gt;你應該要把變數放在容易找得到的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38715,8 +38715,8 @@ AOO 則是「為字元」、「如字元」、「作為字元」、「當作字�
       <tuv lang="EN">
         <seg>The name can indicate one of the document versions, or be something like &lt;f0&gt;MasterSwitch&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134806Z" creationid="Franklin Weng" creationdate="20180414T091210Z">
-        <seg>名字可以取文件不同版本的用途以作區別，或也可以取名為「&lt;f0&gt;總開關&lt;/f0&gt;」之類的。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T134818Z" creationid="Franklin Weng" creationdate="20180414T091210Z">
+        <seg>名稱可以取文件不同版本的用途以作區別，或也可以取名為「&lt;f0&gt;總開關&lt;/f0&gt;」之類的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46493,8 +46493,8 @@ Franklin: condensed 參考第九章</note>
       <tuv lang="EN">
         <seg>You might choose to leave it visible while you work.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T091441Z" creationid="Franklin Weng" creationdate="20180414T091441Z">
-        <seg>當然在你還在製作文件時，可以保留讓它顯示著。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T135022Z" creationid="Franklin Weng" creationdate="20180414T091441Z">
+        <seg>當然，在你還在製作文件時可以保留讓它顯示著。</seg>
       </tuv>
     </tu>
     <tu>
