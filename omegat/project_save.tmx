@@ -19547,8 +19547,8 @@ Franklin: 頁數修改注意</note>
       <tuv lang="EN">
         <seg>Even then, resources like small caps, old style figures, and ligatures – redrawings of groups of characters to make them easier to read – cannot be used automatically.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T094918Z" creationid="Franklin Weng" creationdate="20180414T094918Z">
-        <seg>即使是這樣，有些像是小型大寫字母、舊式數字跟連字（ligature）—把一群字母重繪在一起以方便閱讀—等等功能，都無法自動化。</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T141732Z" creationid="Franklin Weng" creationdate="20180414T094918Z">
+        <seg>即便如此，還有些像是小型大寫字母、舊式數字跟連字——把一組字元重新設計繪製以方便閱讀——等這類功能，仍舊無法自動使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35163,8 +35163,8 @@ Franklin: 這邊指的是，原先用填入模式設定好的樣式，如果在�
       <tuv lang="EN">
         <seg>Sometimes, these features are available in separate font families, but, in other cases, you might want to &lt;f0&gt;use&lt;/f0&gt; features like macros, Auto&lt;f1&gt;T&lt;/f1&gt;ext, and AutoCorrect to create libraries in your default template.</seg>
       </tuv>
-      <tuv lang="ZH-TW" changeid="Franklin Weng" changedate="20180414T095019Z" creationid="Franklin Weng" creationdate="20180414T095019Z">
-        <seg>有的時候，上述這些功能可以在不同的字型家族中找到，不過其他時候你就必須在你的預設範本中改用像是巨集、自動化文字，或是自動校正等功能。&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      <tuv lang="ZH-TW" changeid="zerng07" changedate="20180522T141902Z" creationid="Franklin Weng" creationdate="20180414T095019Z">
+        <seg>有的時候，上述這些功能可以在不同的字型家族中找到；不過沒有辦法的其他時候，你就必須在你的預設範本中改用像是巨集、自動圖文集，或是自動校正等功能。</seg>
       </tuv>
     </tu>
     <tu>
