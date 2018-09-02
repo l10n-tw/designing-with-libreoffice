@@ -43,14 +43,14 @@
 * 翻譯完成
 括號為主要翻譯者，依序為第一章 (Cheng-Chia Tseng)、第二章 (Cheng-Chia Tseng)、第三章 (Franklin Weng)、第四章 (Franklin Weng)、第五章 (Cheng-Chia Tseng)、第六章 (Mark Hung)、第七章 (Frankling Weng)、第八章 (Jeff Huang)、第九章 (Cheng-Chia Tseng)、第十章 (Jeff Huang)、第十一章 (Cheng-Chia Tseng)、第十二章 (Franklin Weng)、第十三章 (Jeff Huang)、第十四章 (Jeff Huang)、第十五章 (Franklin Weng)、第十六章 (Jeff Huang)、附錄A (Cheng-Chia Tseng)、附錄B (Cheng-Chia Tseng)、附錄C (Cheng-Chia Tseng)、附錄D (Jeff Huang)
 
-## 改作階段（修訂中）
+## 改作階段（完成）
 1. 更換擷圖
 2. 確認各章節未定處
 3. 套用正式範本
 4. 提請多人校對
 5. 正式出版
 
-## 中文版增補內容階段
+## 中文版增補內容階段（待展開）
 1. 下一版改版時補入中文版內容
 
 ## 當前譯本下載
