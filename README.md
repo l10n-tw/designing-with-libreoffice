@@ -50,6 +50,8 @@
 4. 提請多人校對
 5. 正式出版
 
+實體書由軟體自由協會出版（[PDF檔](http://www.google.com/url?q=http%3A%2F%2Furl.slat.org%2Fdwl-tw&sa=D&sntz=1&usg=AFQjCNGdgLMJ4to0pZ96w_ADBA5ujhqoTA)，[實體書訂購](https://ec-store.slat.org:8080/index.php?route=product/product&path=33&product_id=60)）
+
 ## 中文版增補內容階段（待展開）
 1. 下一版改版時補入中文版內容
 
